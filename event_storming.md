@@ -47,3 +47,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 ## Process Phase
 Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond model.
 
+## Additional Resources
+- Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
+- Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
+- Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) which Red Hatters can access [here](https://mojo.redhat.com/docs/DOC-1123762)
