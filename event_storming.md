@@ -2,9 +2,11 @@
 
 ## What is it?
 
-Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models.
+Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced by [Alberto Brandolini in 2013](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html).
+
 
 ## Why use Event Storming?
+
 - It is significantly faster, and a heck of a lot more fun, than traditional process modelling techniques. You'll be surprised how much you accomplish in a short period
 - The technique is iterative, which allows facilitators to:
   - slowly adding more detail in each session as to not overwhelm participants.
@@ -14,10 +16,12 @@ Event Storming is a rapid, interactive approach to business process discovery an
 - It gives you the big picture of the solution by placing technical implementation details in context of the business process
 - It is particularly effective way to kick start Domain Driven Design
 
+
 ## Related Practices
 
-- [User Story Mapping](user_story_mapping.md) is a great way to create an iterative delivery plan for the business process you design with Event Storming
+- [User Story Mapping](user_story_mapping.md) is a great way to create an Agile delivery plan for a business process designed with Event Storming
 - [Journey Mapping](http://www.designkit.org/methods/63) can provide a high level overview of the business process before using Event Storming to get into the details
+
 
 ## Who do you need?
 
@@ -28,24 +32,30 @@ Event Storming is a rapid, interactive approach to business process discovery an
 - Developers
 - Testers (optional but recommended)
 
+
 ## Suggested Time
 
 - ~6 Hours not including breaks
 - Facilitate in small sessions @ around ~90 minutes each
 - Session can be done on different days
 
+
 ## Difficultly
-- Facilitators: Moderate
+- Facilitator: Moderate
 - Participants: Easy
+
 
 ## Materials Needed
 
-- Butcher paper roll or drawing paper roll [like this one from Ikea](http://www.ikea.com/us/en/catalog/products/80324072/)
-- 5 different colors of sticky notes. It help if at least one color is larger than the standard small square size.
+- Butcher paper roll or drawing paper roll [like this one from Ikea](http://www.ikea.com/us/en/catalog/products/80324072/). Stickies tend to fall off walls otherwise
+- 2 different colors of wide format sticky notes [like these](https://www.amazon.com/Post-Notes-Cape-Collection-655-5PK/dp/B00006JNNG)
+- 4 different colors of small square sticky notes [like these](https://www.amazon.com/dp/B01N1UE0JY?psc=1)
 - Markers
+
 
 ## Process Phase
 Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond model.
+
 
 ## Additional Resources
 - Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
