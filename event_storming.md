@@ -9,7 +9,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
   - the users involved in the process
   - an initial inventory of UI screens for the process
   - an initial inventory of [aggregates](https://martinfowler.com/bliki/DDD_Aggregate.html)
-- A physical diagram with the above information, which can be transferred to a digital format 
+- A physical diagram with the above information, which can be transferred to a digital format
 
 
 ## Why use Event Storming?
@@ -66,6 +66,7 @@ Event Storming is a great way to kick off the "Develop Potential Solutions" phas
 
 
 ## Additional Resources
+- [Session at Red Hat Summit 2017](https://www.youtube.com/watch?v=m6h_ppEDPrU)
 - Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
 - Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) which Red Hatters can access [here](https://mojo.redhat.com/docs/DOC-1123762)
