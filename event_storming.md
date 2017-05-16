@@ -2,7 +2,14 @@
 
 ## What is it?
 
-Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced by [Alberto Brandolini in 2013](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html).
+Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced by [Alberto Brandolini in 2013](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html). At the end of the event storm, you should have:
+
+- A shared understand of the business process you are building as part of the project, including:
+  - which steps should be considered in scope and which steps are out of scope
+  - the users involved in the process
+  - an initial inventory of UI screens for the process
+  - an initial inventory of [aggregates](https://martinfowler.com/bliki/DDD_Aggregate.html)
+- A physical diagram with the above information, which can be transferred to a digital format 
 
 
 ## Why use Event Storming?
