@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A [discovery session](https://www.redhat.com/en/resources/discovery-session-consulting-datasheet) is a standard part of the Red Hat Consulting Solution Delivery Framework. It is a collaborative workshop to clarify goals and challenges and align key stakeholders on the objectives, dependencies, and results of the desired solution. The discovery sessions at Labs are designed to initiate a lean product development process
+A [discovery session](https://www.redhat.com/en/resources/discovery-session-consulting-datasheet) is a standard part of the Red Hat Consulting Solution Delivery Framework. It is a collaborative workshop to clarify goals and challenges and align key stakeholders on the objectives, dependencies, and results of the desired solution. In order to initiate a lean product development process in Labs, a discovery session should result in at least the following:
 
 1. A shared understanding of [a problem statement](https://pages.18f.gov/lean-product-design/2-problem-statement/) the team will be addressing. You don't necessarily need this format written down, but you should have enough information that you could present it back to the team and be met with agreement.
 2. A prioritized list of [assumptions](https://pages.18f.gov/lean-product-design/3-identify-assumptions/) to test as part of residency. These should capture the way an actor (i.e. customer/developer/test/ops) needs to change their behavior (i.e. do more or less of something) in order to achieve a solution to the problem statement.
