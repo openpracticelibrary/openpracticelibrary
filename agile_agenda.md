@@ -4,7 +4,7 @@
 
 The Agile Agenda is a simple, yet effective way to manage the agenda for an in person workshop using sticky notes and a whiteboard. The basic idea is draw a days calendar on to the whiteboard, split it into 2 or more tracks, write agenda items on sticky notes (with owners!) and then place them on the whiteboard in the correct time slot. Should look something like this:
 
-![alt text](images/agile_agenda.jpg)
+<img src="images/agile_agenda.jpg" style="transform: rotate(90deg);">
 
 
 
