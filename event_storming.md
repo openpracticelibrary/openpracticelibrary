@@ -58,15 +58,19 @@ Event Storming is a rapid, interactive approach to business process discovery an
 - [Drawing paper roll](http://www.ikea.com/us/en/catalog/products/80324072/) or [whiteboard self adhesive roll](https://www.amazon.com/GoWrite-Self-Adhesive-24-Inches-20-Feet-AR2420/dp/B00377TWSE). Stickies tend to fall off walls otherwise. The whiteboard roll has the advantage of being able to erase
 - 2 different colors of wide format sticky notes [like these](https://www.amazon.com/Post-Notes-Cape-Collection-655-5PK/dp/B00006JNNG)
 - 4 different colors of small square sticky notes [like these](https://www.amazon.com/dp/B01N1UE0JY?psc=1)
-- Markers
+- Permanent Markers for the stickies
+- Whiteboard markers if you use whiteboard roll, or charcoal pencils if you use drawing paper. Theses are useful to jot adhoc lines/arrows/annotations
+
 
 
 ## Process Phase
-Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond model.
+Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the [Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812).
 
 
 ## Additional Resources
 - [Session at Red Hat Summit 2017](https://www.youtube.com/watch?v=m6h_ppEDPrU)
+- [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
+- 
 - Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
 - Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) which Red Hatters can access [here](https://mojo.redhat.com/docs/DOC-1123762)
