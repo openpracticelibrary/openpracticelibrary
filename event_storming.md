@@ -69,8 +69,11 @@ Event Storming is a great way to kick off the "Develop Potential Solutions" phas
 
 ## Additional Resources
 - [Session at Red Hat Summit 2017](https://www.youtube.com/watch?v=m6h_ppEDPrU)
-- [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
-- [Event Storming facilitation guide](https://docs.google.com/a/redhat.com/document/d/1LL0cGg8xlhma8Xpffgmleo5l2pPmJBGGsXsrhPx6edU/edit?usp=sharing)
 - Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
-- Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) which Red Hatters can access [here](https://mojo.redhat.com/docs/DOC-1123762)
+- Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) 
+
+## Additional Resources for Red Hatters (we're working on sharing more broadly)
+- [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
+- [Event Storming facilitation guide](https://docs.google.com/a/redhat.com/document/d/1LL0cGg8xlhma8Xpffgmleo5l2pPmJBGGsXsrhPx6edU/edit?usp=sharing)
+- Red Hat copy of [Vaughn Vernon's DDD Distilled](https://mojo.redhat.com/docs/DOC-1123762)
