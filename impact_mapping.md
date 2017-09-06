@@ -36,7 +36,6 @@ For the shortened variation Labs uses:
 - optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
 - ~4 Hours to facilitate the session, not including breaks
 - Facilitate in small sessions @ around 60-90 minutes each
-
 - Session can be done on different days
 
 For the executive level session format, see [the book](https://www.impactmapping.org/book.html):
