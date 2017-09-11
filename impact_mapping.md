@@ -72,3 +72,4 @@ When run strategically, at senior levels, Impact Mapping is a great way to run t
 - Gojko Adzic's [original book in pdf format](https://mojo.redhat.com/docs/DOC-988976)
 - [Printouts to facilitate a session](https://drive.google.com/drive/folders/0By2q4H1d4ahQS2M3UGVrZ0dtT2c)
 - [Facilitation Slides](https://docs.google.com/a/redhat.com/presentation/d/1xGRapKJtNFEUeY5mMT7Vrljd325wD8oPo9yOhU7mod4/edit?usp=sharing) using the Ambassadors Program as an example
+- Impact Mapping and Design Thinking [slides](https://docs.google.com/presentation/d/1io_4_pUqhgjrlZotcTUF3se4Uu-9qQqlJKj1pHtx9Vc/edit#slide=id.g2542fa993d_0_0)
