@@ -45,7 +45,7 @@ For the executive level session format, see [the book](https://www.impactmapping
 - Facilitator: Moderate
 - Participants: Easy
 
-## Materials Needed
+## Facilitation Materials Needed
 
 Digital Variation:
 

@@ -38,7 +38,7 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 - Participants: Easy
 
 
-## Materials Needed
+## Facilitation Materials Needed
 
 - Whiteboard which will hold sticky notes.
 - Whiteboard markers

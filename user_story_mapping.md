@@ -45,7 +45,7 @@ User Story Mapping is an evolution of the traditional Agile backlog, [made popul
 - Participants: Easy
 
 
-## Materials Needed
+## Facilitation Materials Needed
 - Butcher paper roll or drawing paper roll [like this one from Ikea](http://www.ikea.com/us/en/catalog/products/80324072/). Stickies tend to fall off walls otherwise
 - 3 different colors of wide format sticky notes [like these](https://www.amazon.com/Post-Notes-Cape-Collection-655-5PK/dp/B00006JNNG)
 - 2 different colors of small square sticky notes [like these](https://www.amazon.com/dp/B01N1UE0JY?psc=1)

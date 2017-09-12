@@ -53,7 +53,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 - Participants: Easy
 
 
-## Materials Needed
+## Facilitation Materials Needed
 
 - [Drawing paper roll](http://www.ikea.com/us/en/catalog/products/80324072/) or [whiteboard self adhesive roll](https://www.amazon.com/GoWrite-Self-Adhesive-24-Inches-20-Feet-AR2420/dp/B00377TWSE). Stickies tend to fall off walls otherwise. The whiteboard roll has the advantage of being able to erase
 - 2 different colors of wide format sticky notes [like these](https://www.amazon.com/Post-Notes-Cape-Collection-655-5PK/dp/B00006JNNG)
