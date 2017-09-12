@@ -1,8 +1,8 @@
-# Value Stream Mapping (VSM) and Metrics-Based Process Modelling (MBPM)
+# Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM)
 
 ## What is it?
 
-Value Stream Mapping (VSM) and Metrics-Based Process Modelling (MBPM) are third generation lean process improvement techniques. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in [Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88) and the second generation from [Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9).
+Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in [Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88) and the second generation from [Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9).
 
 ## Why use VSM & MBPM?
 
@@ -61,4 +61,4 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 ## Additional Resources for Red Hatters (We're figuring out how to share these more broadly)
 
 - Value Stream Mapping (VSM) [Facilitation Guide](https://docs.google.com/a/redhat.com/presentation/d/1dtDYS83vUDn42wj5Mjik96N-NdEuofbX5_2il0p93L4/edit?usp=sharing)
-- 
+- Metrics-Based Process Mapping (MBPM) [Facilitation Guide](https://docs.google.com/presentation/d/1Ijkm2zMLMiJ4KS_evA4ufug0fOL01QOEsxBsZ89_EdA/edit#slide=id.gb6f3e2d2d_2_207)
