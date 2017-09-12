@@ -17,17 +17,18 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 
 ## Related Practices
 
-- TODO: Chartering
-
+- In order to effectively deliver a session, it's critical you prepare with a [Chartering](chartering.md) exercise
 
 ## Who do you need?
 
-- TODO
-
+- No more than 10 people
+- VSM requires decision makers, usually Director or above
+- MBPM requires front line workers for the processes being improved
 
 ## Suggested Time
 
-- TODO
+- Done as documented by Karen Martin, these are 2-3 day, dedicated workshops.
+- Labs team is currently working on more abbreviated formats that fit our delivery model
 
 ## Difficultly
 
@@ -36,29 +37,35 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 
 ## Facilitation Materials Needed
 
-- TODO
+Some teams prefer whiteboards, but the most common approach uses paper and PostIts
+
+- 36"+ wide paper like [this](https://www.walmart.com/ip/Pacon-Kraft-Wrapping-Paper-48-x-200-ft-Natural/21119538) or [this](https://www.amazon.com/HP-Universal-Bond-Paper-Inches/dp/B00006BBDR)
+- 4" x 6" PostIt Notes like [this](https://www.amazon.com/Post-Sticky-Canary-Yellow-660-5SSCY/dp/B0002DOEOS), in a few different colors
+- markers for the PostIts
+- [charcoal pencil and eraser](https://www.amazon.com/Studio-25-Piece-Drawing-Artists-Charcoal/dp/1441310207/ref=sr_1_1?s=books&ie=UTF8&qid=1505254840&sr=1-1&keywords=charcoal+pencils) to draw lines between PostIts
+- chalk line can be useful, not required, for MBPM
 
 ## Process Phase
 
-- TODO
+Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. Using the [Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812), the current state mapping takes us from the middle of the Discover stage to the middle of the Define stage, and the future state mapping takes us from the middle of the Define stage to the middle of Develop stage.
 
 ## Additional Resources
 
 ### Start With
 
-- Karen Martin's Value Stream Mapping and Process Mapping: When to Use Each - [Webinar](https://vimeo.com/149407030) and [Slides](https://www.slideshare.net/KarenMartinGroup/vsmmbpmwhenyouoptforeach)
+- [Webinar](https://vimeo.com/149407030) and [Slides](https://www.slideshare.net/KarenMartinGroup/vsmmbpmwhenyouoptforeach) from Karen Martin's Value Stream Mapping and Process Mapping: When to Use Each
 
-### VSM Details
+### VSM Specific Resources
 
-- Karen Martin's [Value Stream Mapping Book](https://www.ksmartin.com/books/value-stream-mapping/)
-- Karen Martin's full index of [Value Stream Mapping Webinars](https://www.ksmartin.com/webinar/value-stream-mapping/)
+- [Book](https://www.ksmartin.com/books/value-stream-mapping/) by Karen Martin and Mike Osterling
+- [List of Webinars](https://www.ksmartin.com/webinar/value-stream-mapping/) by Karen Martin
 
-### MBPM Details
+### MBPM Specific Resources
 
-- Karen Martin's Metrics-Based Process Mapping: What, When & How - [Webinar](https://vimeo.com/54601924) and [Slides](https://www.slideshare.net/KarenMartinGroup/metricsbased-process-mapping-what-when-how)
-- Karen Martin's full index of [Metrics-Based Process Mapping Webinars](https://www.ksmartin.com/webinar/metrics-based-process-mapping/)
+- [Webinar](https://vimeo.com/54601924) and [Slides](https://www.slideshare.net/KarenMartinGroup/metricsbased-process-mapping-what-when-how) from Karen Martin's Metrics-Based Process Mapping: What, When & How
+- [List of Webinars](https://www.ksmartin.com/webinar/metrics-based-process-mapping/) by Karen Martin
 
 ## Additional Resources for Red Hatters (We're figuring out how to share these more broadly)
 
-- Value Stream Mapping (VSM) [Facilitation Guide](https://docs.google.com/a/redhat.com/presentation/d/1dtDYS83vUDn42wj5Mjik96N-NdEuofbX5_2il0p93L4/edit?usp=sharing)
-- Metrics-Based Process Mapping (MBPM) [Facilitation Guide](https://docs.google.com/presentation/d/1Ijkm2zMLMiJ4KS_evA4ufug0fOL01QOEsxBsZ89_EdA/edit#slide=id.gb6f3e2d2d_2_207)
+- [Facilitation Guide](https://docs.google.com/a/redhat.com/presentation/d/1dtDYS83vUDn42wj5Mjik96N-NdEuofbX5_2il0p93L4/edit?usp=sharing) - Value Stream Mapping (VSM)
+- [Facilitation Guide](https://docs.google.com/presentation/d/1Ijkm2zMLMiJ4KS_evA4ufug0fOL01QOEsxBsZ89_EdA/edit#slide=id.gb6f3e2d2d_2_207) - Metrics-Based Process Mapping (MBPM)
