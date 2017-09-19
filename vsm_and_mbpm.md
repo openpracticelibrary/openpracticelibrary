@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in [Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88) and the second generation from [Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9).
+Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques, optimized for an extended organizational transformation effort. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in [Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88) and the second generation from [Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9).
 
 ## Why use VSM & MBPM?
 
