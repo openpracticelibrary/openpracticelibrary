@@ -4,7 +4,7 @@
 
 User Story Mapping is an evolution of the traditional Agile backlog, [made popular by Jeff Patton in 2008](http://jpattonassociates.com/the-new-backlog/). It's an effective practice for creating lightweight release plans that can drive standard Agile delivery practices. At the end of user story mapping, you should have:
 
-- A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window. This means some items will be place dout of scope
+- A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window. This means some items will be placed out of scope
 - The backlog "sliced" into ~3 iterations, such that it forms the outline of plan
 - Enough detail in the first iteration of the plan to get started with the work
 
