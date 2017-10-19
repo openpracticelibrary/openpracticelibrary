@@ -8,7 +8,7 @@ Red Hat Open Innovation Labs team is creating an open practice library! To learn
 
 ### Techniques
 
-Create a new markdown file in `/content/techniques`. If you have hugo installed, you can run `hugo new techniques/my_new_technique.md`.
+Create a new markdown file in `/content/technique`. If you have hugo installed, you can run `hugo new technique/my_new_technique.md`.
 
 ### Pages
 
