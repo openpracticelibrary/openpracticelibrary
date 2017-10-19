@@ -30,7 +30,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 ## Related Practices
 
-- [User Story Mapping](user_story_mapping.md) is a great way to create an Agile delivery plan for a business process designed with Event Storming
+- [User Story Mapping](/techniques/user_story_mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
 - [Journey Mapping](http://www.designkit.org/methods/63) can provide a high level overview of the business process before using Event Storming to get into the details
 - Event Storming will identify key views for your user interface, which can jump start [Site Mapping](https://methods.18f.gov/decide/site-mapping/) or [Wireframing](https://methods.18f.gov/make/wireframing/)
 

@@ -21,7 +21,7 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 
 ## Related Practices
 
-- In order to effectively deliver a session, it's critical you prepare with a [Chartering](chartering.md) exercise
+- In order to effectively deliver a session, it's critical you prepare with a [Chartering](/techniques/chartering/) exercise
 
 ## Who do you need?
 

@@ -8,7 +8,7 @@ draft: false
 
 Impact Mapping is an engaging, graphical, strategic planning technique. It was introduced by [Gojko Adzic in 2012](https://www.impactmapping.org/). At the end of the impact map, you should have:
 
-- A shared understand of you project's [goal or problem statement](goal_or_problem_statement_definition.md)
+- A shared understand of you project's [goal or problem statement](/techniques/goal_or_problem_statement_definition/)
 - An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name
 - Optionally, an inventory of project scope that could be delivered to achieve the aforementioned impacts
 - Some sort of prioritization of scope and/or impacts
@@ -19,7 +19,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 - Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
 - Impact Mapping introduces a very simple human centered design process, and as such, it is a great way to put lightweight design thinking techniques into practice
 - It's a graphical mind map, which reduces the barrier to entry for participants and facilitators alike
-- The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. At Labs, we typical run a 4-6 hour session with Project Sponsors during a [Discovery Session](discovery_session.md). These are just two of endless possible variations of the technique.
+- The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. At Labs, we typical run a 4-6 hour session with Project Sponsors during a [Discovery Session](/techniques/discovery_session/). These are just two of endless possible variations of the technique.
 
 ## Related Practices
 
@@ -36,7 +36,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 For the shortened variation Labs uses:
 
-- 2-4 hours of prep to establish a [goal or problem statement](goal_or_problem_statement_definition.md) _before_ the session. This is important, or your session will go sideways!
+- 2-4 hours of prep to establish a [goal or problem statement](/techniques/goal_or_problem_statement_definition/) _before_ the session. This is important, or your session will go sideways!
 - optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
 - ~4 Hours to facilitate the session, not including breaks
 - Facilitate in small sessions @ around 60-90 minutes each
