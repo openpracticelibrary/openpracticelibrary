@@ -1,7 +1,11 @@
-# https://minimo.netlify.com/docs/example-config-toml/
+# https://gohugo.io/getting-started/configuration/
+# https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "minimo"
-description = "Minimalist theme for Hugo"
+
+
+[permalinks]
+page = "/:slug/"
