@@ -1,4 +1,7 @@
+# https://minimo.netlify.com/docs/example-config-toml/
+
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Open Practice Library"
 theme = "minimo"
+description = "Minimalist theme for Hugo"
