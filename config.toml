@@ -7,6 +7,7 @@ title = "Open Practice Library"
 theme = "minimo"
 # https://git.io/vXzj6
 publishDir = "docs"
+canonifyURLs = true 
 
 [params.assets]
 customCSS = ["css/custom.css"]

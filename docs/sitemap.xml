@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rht-labs.github.io/practice-library/</loc>
+    <lastmod>2017-10-19T17:03:59-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rht-labs.github.io/practice-library/about/</loc>
     <lastmod>2017-10-19T17:03:59-04:00</lastmod>
   </url>
@@ -49,11 +54,6 @@
   <url>
     <loc>https://rht-labs.github.io/practice-library/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/</loc>
-    <lastmod>2017-10-19T17:03:59-04:00</lastmod>
   </url>
   
   <url>
