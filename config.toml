@@ -8,5 +8,8 @@ theme = "minimo"
 # https://git.io/vXzj6
 publishDir = "docs"
 
+[params.assets]
+customCSS = ["css/custom.css"]
+
 [permalinks]
 page = "/:slug/"
