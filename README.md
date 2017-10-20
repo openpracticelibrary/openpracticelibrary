@@ -16,10 +16,12 @@ Create a new markdown file in `/content/page`. If you have hugo installed, you c
 
 To display the page in the site menu, include `menu: main` in the front matter at the top of the file.
 
+## Developing
+
 Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo theme](https://minimo.netlify.com/). To run it locally:
 
-- Check out this repo.
-- [Install Hugo](https://gohugo.io/getting-started/installing/).
-- Run `hugo server` to to run the site locally.
+1. Check out this repo.
+2. [Install Hugo](https://gohugo.io/getting-started/installing/).
+3. Run `hugo server` to to run the site locally.
 
 Alternately, you can run `hugo server -D` to include drafts.
