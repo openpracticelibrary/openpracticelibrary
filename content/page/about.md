@@ -3,9 +3,10 @@ title: "About"
 date: 2017-10-19T17:03:59-04:00
 menu: main
 draft: false
+weight: -1
 ---
 
-Red Hat Open Innovation Labs team is creating an open practice library! The library's source is in [a public GitHub repo](https://github.com/rht-labs/practice-library) and is licensed under [Apache 2.0](https://github.com/rht-labs/practice-library/blob/master/LICENSE).
+Red Hat Open Innovation Labs is creating a practice library! The library's source is in [a public GitHub repo](https://github.com/rht-labs/practice-library) and is licensed under [Apache 2.0](https://github.com/rht-labs/practice-library/blob/master/LICENSE).
 
 ## What This Library Is *Not*
 An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
