@@ -1,0 +1,5 @@
+.list-item .meta,
+.meta .posted-on {
+  /* Hide dates. */
+  display: none;
+}

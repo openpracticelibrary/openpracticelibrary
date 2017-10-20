@@ -1,4 +1,8 @@
-# Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM)
+---
+date: 2017-09-12T00:00:00-05:00
+title: Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM)
+draft: false
+---
 
 ## What is it?
 
@@ -17,7 +21,7 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 
 ## Related Practices
 
-- In order to effectively deliver a session, it's critical you prepare with a [Chartering](chartering.md) exercise
+- In order to effectively deliver a session, it's critical you prepare with a [Chartering](/technique/chartering/) exercise
 
 ## Who do you need?
 

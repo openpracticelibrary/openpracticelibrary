@@ -1,4 +1,8 @@
-# Event Storming
+---
+date: 2017-04-20T00:00:00-05:00
+title: Event Storming
+draft: false
+---
 
 ## What is it?
 
@@ -26,7 +30,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 ## Related Practices
 
-- [User Story Mapping](user_story_mapping.md) is a great way to create an Agile delivery plan for a business process designed with Event Storming
+- [User Story Mapping](/technique/user_story_mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
 - [Journey Mapping](http://www.designkit.org/methods/63) can provide a high level overview of the business process before using Event Storming to get into the details
 - Event Storming will identify key views for your user interface, which can jump start [Site Mapping](https://methods.18f.gov/decide/site-mapping/) or [Wireframing](https://methods.18f.gov/make/wireframing/)
 
@@ -72,7 +76,7 @@ Event Storming is a great way to kick off the "Develop Potential Solutions" phas
 - [Blog](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) explaining how event storming, DDD and reactive systems relate
 - Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
-- Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) 
+- Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 
 ## Additional Resources for Red Hatters (we're working on sharing more broadly)
 - [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)

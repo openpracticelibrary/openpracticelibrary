@@ -1,0 +1,16 @@
+# https://gohugo.io/getting-started/configuration/
+# https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
+
+baseURL = "https://rht-labs.github.io/practice-library/"
+languageCode = "en-us"
+title = "Open Practice Library"
+theme = "minimo"
+# https://git.io/vXzj6
+publishDir = "docs"
+canonifyURLs = true 
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[permalinks]
+page = "/:slug/"

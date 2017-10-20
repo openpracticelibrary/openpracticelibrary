@@ -1,26 +1,49 @@
-# A Placeholder Practice Library
+# Open Practice Library
 
-The Open Innovation Labs team is creating a practice library. This is a placeholder until we can make something prettier.
+## About
 
-## What This Repository Is *Not*
-An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
+Red Hat Open Innovation Labs team is creating an open practice library! To learn more, see [about.md](content/page/about.md).
 
-## What This Repository *Is*
-Just enough information for each practice to "specify the end state, it’s purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jex Humble, Joanne Molesky & Barry O'Reilly.
+## Adding Content
 
-## How to Fit These Practices into Your Existing Approach
-We place each practice in the British Design Council's Double Diamond model, which is [originally documented here](http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond), although [we like this slightly broader and more detailed walk through](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812). The Double Diamond model is widely used and easily transferable to other Design Thinking models, so regardless of which approach you use, you should be able to see where each practice fits.
+To add content: fork this repository, add your content, and then send us a pull request.
 
-## Other Libraries That Inspired Us
+Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
 
-- [Ideo - Design Kit](http://www.designkit.org/methods)
-- [18F - How We Work](https://18f.gsa.gov/how-we-work/)
-- [Open Design Kit](http://opendesignkit.org/)
-- [Atlassian - Team Playbook](https://www.atlassian.com/team-playbook)
-- [Ivar Jacobson - Practice Library](https://practicelibrary.ivarjacobson.com/start)
-- [Martin Fowler's Page](https://martinfowler.com/)
-- [NASA Knowledge Toolbox](https://km.nasa.gov/knowledge-toolbox/)
+### Techniques
 
-## Contributing
+Create a new markdown file in `/content/technique`. If you have hugo installed, you can run `hugo new technique/my_new_technique.md`.
 
-We'd love to hear your thoughts about the material presented here or other content you'd like to add. Open an issue and we can go from there.
+### Pages
+
+Create a new markdown file in `/content/page`. If you have hugo installed, you can run `hugo new page/my_new_page.md`.
+
+To display the page in the site menu, include `menu: main` in the front matter at the top of the file.
+
+### Drafts
+
+Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft` - for example, `hugo undraft technique/foo.md`.
+
+## Developing
+
+Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo theme](https://minimo.netlify.com/). To run it locally:
+
+1. Check out this repo.
+2. [Install Hugo](https://gohugo.io/getting-started/installing/).
+3. Run `hugo server` to to run the site locally.
+
+Alternately, you can run `hugo server -D` to preview drafts.
+
+### Deploying
+
+The site is [published to GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch) using a `docs` directory on the master branch.
+
+To push changes to GitHub pages:
+
+1. Delete the `docs` directory. (Hugo won't delete old files by default.)
+2. Run `hugo` (without any parameters) to build the site.
+3. Add, commit, and push these changes.
+4. Create a pull request.
+5. Merge to master, or ask someone else to merge to master.
+
+Once the changes are merged up, the new content will be deployed automatically.
