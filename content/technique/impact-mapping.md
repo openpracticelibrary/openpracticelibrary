@@ -68,7 +68,7 @@ When run strategically, at senior levels, Impact Mapping is a great way to run t
 
 ## Additional Resources
 
-- Short [Video introduction](https://www.youtube.com/watch?v=y4Rj05YVg_E)
+- Short [video introduction](https://www.youtube.com/watch?v=y4Rj05YVg_E)
 - Gojko Adzic's [original book](https://www.impactmapping.org/book.html)
 - [Blog post](https://opensource.com/open-organization/17/6/experiment-impact-mapping) on Using Impact Mapping to foster innovation
 
