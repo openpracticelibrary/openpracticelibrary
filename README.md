@@ -31,6 +31,7 @@ These style guidelines apply to the Markdown files in the `/content` directory.
 - Use hyphens, not underscores, to separate parts of a filename. (The filenames are turned into URLs when the site is built.)
 - Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag, which we're using for footnotes.
 - When linking to external sites, place the link into an "external references" section, and use a footnote to point to the link.
+- Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the doucument's front matter (`title: my title`).
 
 ## Developing
 
