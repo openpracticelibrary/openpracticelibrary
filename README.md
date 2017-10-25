@@ -30,9 +30,8 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
-3. Download the theme as a git submodule
-> git submodule update --init --recursive
-4. Run 'hugo' in the top level folder
+3. Run `git submodule update --init --recursive` to download the theme
+4. Run `hugo` in the top level folder
 5. Run `hugo server` to to run the site locally.
 
 Alternately, you can run `hugo server -D` to preview drafts.
