@@ -1,0 +1,45 @@
+{{ partial "header" . }}
+
+<main id='main' class='main'>
+  <header class='header-container'>
+    <div class='header list-header'>
+      <div class='header-info'>
+        <h1 class='title'>
+          {{- if eq .Kind "taxonomy" -}}
+          <span class='taxonomy-type'>
+            {{- ( ( i18n .Data.Singular 1 ) | default .Data.Singular ) | title -}}
+            {{- print ": " -}}
+          </span>
+          {{- end -}}
+          {{- if eq .Data.Singular "author" -}}
+            {{- partial "data/author/displayName" . -}}
+          {{- else -}}
+            {{- .Title -}}
+          {{- end -}}
+        </h1>
+
+        {{ partial "header/subtitle" . }}
+      </div>
+    </div>
+  </header>
+
+  {{ if .Content }}
+  <div class='entry'>
+    {{ partial "entry/content" . }}
+  </div>
+  {{ end }}
+
+  {{ partial "entry/footer" . }}
+
+  <div class='list-container'>
+    <ul class='list'>
+      {{ range .Paginator.Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+    </ul>
+
+    {{ partial "nav/pagination" . }}
+  </div>
+</main>
+
+{{ partial "footer" . }}
