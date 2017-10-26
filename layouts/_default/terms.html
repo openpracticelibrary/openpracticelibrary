@@ -1,0 +1,24 @@
+{{ partial "header" . }}
+
+<main id='main' class='main'>
+  <header class='header-container'>
+    <div class='header'>
+      <div class='header-info'>
+        <h1 class='title'>
+          {{- ( ( i18n .Data.Singular 2 ) | default .Title ) | title -}}
+        </h1>
+        {{ partial "header/subtitle" . }}
+      </div>
+    </div>
+  </header>
+  <article lang='{{ .Params.lang | default .Lang }}' class='entry'>
+    {{ partial "entry/content" . }}
+  </article>
+  <!-- TODO: space this out properly -->
+  <p></p>
+  <div class='term-cloud-container'>
+    {{ partial "extras/term_cloud" . }}
+  </div>
+</main>
+
+{{ partial "footer" . }}
