@@ -3,7 +3,32 @@
   
   <url>
     <loc>https://rht-labs.github.io/practice-library/</loc>
-    <lastmod>2017-10-19T17:03:59-04:00</lastmod>
+    <lastmod>2017-10-26T11:15:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/journeys/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/stages/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/routes/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/terms-defined/</loc>
+    <lastmod>2017-10-26T11:15:17-04:00</lastmod>
   </url>
   
   <url>
@@ -12,93 +37,105 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/journey/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/realtime-retrospective/</loc>
+    <lastmod>2017-10-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</loc>
     <lastmod>2017-10-19T16:43:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/stage/</loc>
+    <loc>https://rht-labs.github.io/practice-library/stages/discovery/</loc>
     <lastmod>2017-10-19T16:43:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/waypoint/</loc>
+    <loc>https://rht-labs.github.io/practice-library/journeys/disrupt/</loc>
     <lastmod>2017-10-19T16:43:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/</loc>
-    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/route/vsm-and-mbpm/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/vsm-and-mbpm/</loc>
     <lastmod>2017-09-12T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/impact-mapping/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/impact-mapping/</loc>
     <lastmod>2017-09-06T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/why-is-defined/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/why-is-defined/</loc>
     <lastmod>2017-09-06T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/agile-agenda/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/agile-agenda/</loc>
     <lastmod>2017-05-15T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/discovery-session/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/discovery-session/</loc>
     <lastmod>2017-05-15T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/journey/disrupt/</loc>
-    <lastmod>2017-05-15T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/route/realtime-retrospective/</loc>
-    <lastmod>2017-05-15T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/stage/discovery/</loc>
-    <lastmod>2017-05-15T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/waypoint/assumptions-identified/</loc>
-    <lastmod>2017-05-15T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/route/event-storming/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/event-storming/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/user-story-mapping/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/user-story-mapping/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/categories/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/assumptions-identified/</loc>
+    <lastmod>2017-04-20T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/journeys/disrupt/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/journeys/foo/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/journeys/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rht-labs.github.io/practice-library/page/</loc>
-    <lastmod>2017-10-19T17:03:59-04:00</lastmod>
+    <lastmod>2017-10-26T11:15:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/tags/</loc>
+    <loc>https://rht-labs.github.io/practice-library/routes/</loc>
+    <lastmod>2017-10-26T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/stages/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   

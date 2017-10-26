@@ -7,10 +7,15 @@ title = "Open Practice Library"
 theme = "minimo"
 # https://git.io/vXzj6
 publishDir = "docs"
-canonifyURLs = true 
+canonifyURLs = true
 
 [params.assets]
 customCSS = ["css/custom.css"]
 
 [permalinks]
 page = "/:slug/"
+
+[taxonomies]
+journey = "journeys"
+stage = "stages"
+waypoint = "waypoints"
