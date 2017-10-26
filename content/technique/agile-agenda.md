@@ -15,14 +15,14 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 
 - Sessions like [event storming](/technique/event-storming/) or [user story mapping](/technique/user-story-mapping/) don't neatly fit into time boxes. As such, you'll need to dynamic with the way you manage the agenda.
 - Whiteboards and stickies are easier to change than digital agendas which might need some formatting or even have access issues.
-- It works as an [information radiator](http://alistair.cockburn.us/Information+radiator) throughout the workshop, making it a logical area to gather the team to review the agenda as well as do time checks. Compare this to an agenda captured in a slide deck, which doesn't naturely lead to a team huddle.
+- It works as an Information Radiator[<sup>1</sup>](#footnote-1) throughout the workshop, making it a logical area to gather the team to review the agenda as well as do time checks. Compare this to an agenda captured in a slide deck, which doesn't naturally lead to a team huddle.
 
 
 
 
 ## Related Practices
 
-- [Collaborative Face Drawing](http://www.funretrospectives.com/collaborative-face-drawing/) is a great ice breaker or after lunch activity. Your agile agenda can be a nice home for the faces once the activity is over as seen below:
+- Collaborative Face Drawing[<sup>2</sup>](#footnote-2) is a great ice breaker or after lunch activity. Your agile agenda can be a nice home for the faces once the activity is over as seen below:
 
 ![agenda with faces](/images/agenda_with_faces.png)
 
@@ -51,3 +51,7 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 
 ## Process Phase
 Any time
+
+## External References
+1. <a name="footnote-1"></a>[Information Radiator by Alistair Cockburn](http://alistair.cockburn.us/Information+radiator)
+2. <a name="footnote-2"></a>[Collaborative Face Drawing](http://www.funretrospectives.com/collaborative-face-drawing/)

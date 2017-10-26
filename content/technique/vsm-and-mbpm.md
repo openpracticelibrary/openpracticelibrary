@@ -6,7 +6,7 @@ draft: false
 
 ## What is it?
 
-Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques, optimized for an extended organizational transformation effort. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in [Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88) and the second generation from [Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9).
+Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques, optimized for an extended organizational transformation effort. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in Lean Thinking[<sup>1</sup>](#footnote-1) and the second generation from Learning to See[<sup>2</sup>](#footnote-2).
 
 ## Why use VSM & MBPM?
 
@@ -43,15 +43,15 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 
 Some teams prefer whiteboards, but the most common approach uses paper and PostIts
 
-- 36"+ wide paper like [this](https://www.walmart.com/ip/Pacon-Kraft-Wrapping-Paper-48-x-200-ft-Natural/21119538) or [this](https://www.amazon.com/HP-Universal-Bond-Paper-Inches/dp/B00006BBDR)
-- 4" x 6" PostIt Notes like [this](https://www.amazon.com/Post-Sticky-Canary-Yellow-660-5SSCY/dp/B0002DOEOS), in a few different colors
+- Drawing paper roll[<sup>3</sup>](#footnote-3).
+- Different colored wide format sticky notes like the 4x6 sticky notes[<sup>4</sup>](#footnote-4)
 - markers for the PostIts
-- [charcoal pencil and eraser](https://www.amazon.com/Studio-25-Piece-Drawing-Artists-Charcoal/dp/1441310207/ref=sr_1_1?s=books&ie=UTF8&qid=1505254840&sr=1-1&keywords=charcoal+pencils) to draw lines between PostIts
-- chalk line can be useful, not required, for MBPM
+- charcoal pencil and eraser[<sup>5</sup>](#footnote-5) to draw lines between PostIts
+- For MBPM; chalk line can be useful, but not required
 
 ## Process Phase
 
-Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. Using the [Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812), the current state mapping takes us from the middle of the Discover stage to the middle of the Define stage, and the future state mapping takes us from the middle of the Define stage to the middle of Develop stage.
+Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. Using the Double Diamond design model[<sup>6</sup>](#footnote-6), the current state mapping takes us from the middle of the Discover stage to the middle of the Define stage, and the future state mapping takes us from the middle of the Define stage to the middle of Develop stage.
 
 ## Additional Resources
 
@@ -74,3 +74,12 @@ Both VSM & MBPM document a current state map, and then design a future state map
 - [Facilitation Guide](https://docs.google.com/a/redhat.com/presentation/d/1dtDYS83vUDn42wj5Mjik96N-NdEuofbX5_2il0p93L4/edit?usp=sharing) - Value Stream Mapping (VSM)
 - [Facilitation Guide](https://docs.google.com/presentation/d/1Ijkm2zMLMiJ4KS_evA4ufug0fOL01QOEsxBsZ89_EdA/edit#slide=id.gb6f3e2d2d_2_207) - Metrics-Based Process Mapping (MBPM)
 - [Software Delivery Example](https://app.bluescape.com/Bszck243FZrhMzcBVTTE?targetRect=%5B33678%2C4692%2C39053%2C10011%5D) - Bluescape with a VSM segment and 1 of 5 corresponding MBPM's
+
+##External References
+
+1. <a name="footnote-1"></a>[Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88)
+2. <a name="footnote-2"></a>[Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9)
+3. <a name="footnote-3"></a>[Drawing Paper example](http://www.ikea.com/us/en/catalog/products/80324072/)
+4. <a name="footnote-4"></a>[4x6 sticky notes example](https://www.amazon.com/Post-Sticky-Janeiro-Collection-4621-SSAU/dp/B001UXFT70)
+5. <a name="footnote-5"></a>[charcoal pencil and eraser example](https://www.amazon.com/Studio-25-Piece-Drawing-Artists-Charcoal/dp/1441310207)
+6. <a name="footnote-6"></a>[Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)

@@ -6,7 +6,7 @@ draft: false
 
 ## What is it?
 
-Impact Mapping is an engaging, graphical, strategic planning technique. It was introduced by [Gojko Adzic in 2012](https://www.impactmapping.org/). At the end of the impact map, you should have:
+Impact Mapping is an engaging, graphical, strategic planning technique. It was introduced by Gojko Adzic in 2012. At the end of the impact map, you should have:
 
 - A shared understand of you project's [goal or problem statement](/technique/why-is-defined/)
 - An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name
@@ -42,7 +42,7 @@ For the shortened variation Labs uses:
 - Facilitate in small sessions @ around 60-90 minutes each
 - Session can be done on different days
 
-For the executive level session format, see [the book](https://www.impactmapping.org/book.html):
+For the executive level session format, see the Impact Mapping book[<sup>1</sup>](#footnote-1):
 
 ## Difficultly
 
@@ -53,7 +53,7 @@ For the executive level session format, see [the book](https://www.impactmapping
 
 Digital Variation:
 
-- a mind mapping tool. we recommend [coggle](https://coggle.it/)
+- a mind mapping tool. we recommend coggle[<sup>2</sup>](#footnote-2)
 
 Physical Variation:
 
@@ -64,17 +64,20 @@ Physical Variation:
 
 ## Process Phase
 
-When run strategically, at senior levels, Impact Mapping is a great way to run the "Define the Area to Focus Upon" phase of the [Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812). When applied more tactically, Impact Mapping can used as a transition from the first diamond to the second, largely as a way to synthesize strategy work down to date in an easy to consume format.
+When run strategically, at senior levels, Impact Mapping is a great way to run the "Define the Area to Focus Upon" phase of the Double Diamond design model[<sup>3</sup>](#footnote-3). When applied more tactically, Impact Mapping can used as a transition from the first diamond to the second, largely as a way to synthesize strategy work down to date in an easy to consume format.
 
-## Additional Resources
-
-- Short [video introduction](https://www.youtube.com/watch?v=y4Rj05YVg_E)
-- Gojko Adzic's [original book](https://www.impactmapping.org/book.html)
-- [Blog post](https://opensource.com/open-organization/17/6/experiment-impact-mapping) on Using Impact Mapping to foster innovation
-
-## Additional Resources for Red Hatters (we're working on sharing more broadly)
+## Additional Resources for Red Hatters (we're working to share more broadly)
 
 - Gojko Adzic's [original book in pdf format](https://mojo.redhat.com/docs/DOC-988976)
 - [Printouts to facilitate a session](https://drive.google.com/drive/folders/0By2q4H1d4ahQS2M3UGVrZ0dtT2c)
 - [Facilitation Slides](https://docs.google.com/a/redhat.com/presentation/d/1xGRapKJtNFEUeY5mMT7Vrljd325wD8oPo9yOhU7mod4/edit?usp=sharing) using the Ambassadors Program as an example
 - Impact Mapping and Design Thinking [slides](https://docs.google.com/presentation/d/1io_4_pUqhgjrlZotcTUF3se4Uu-9qQqlJKj1pHtx9Vc/edit#slide=id.g2542fa993d_0_0)
+
+## External Resources
+
+1. <a name="footnote-1"></a>Gojko Adzic's [original book](https://www.impactmapping.org/book.html)
+2. <a name="footnote-2"></a>Impact Mapping tool: [coggle](https://coggle.it/)
+3. <a name="footnote-3"></a>[Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
+4. Short [video introduction](https://www.youtube.com/watch?v=y4Rj05YVg_E)
+5. [Site on Impact Mapping](https://www.impactmapping.org/)
+6. [Blog post](https://opensource.com/open-organization/17/6/experiment-impact-mapping) on Using Impact Mapping to foster innovation
