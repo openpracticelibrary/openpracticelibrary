@@ -7,7 +7,7 @@
 /* For custom taxonomies, display text instead of a broken icon */
 
 .entry-footer .journeys .screen-reader,
-.entry-footer .routes .screen-reader {
+.entry-footer .waypoints .screen-reader {
   clip: none;
   width: auto;
   height: auto;
@@ -17,6 +17,6 @@
 }
 
 .entry-footer .journeys .taxonomyTerm-icon,
-.entry-footer .routes .taxonomyTerm-icon {
+.entry-footer .waypoints .taxonomyTerm-icon {
   display: none;
 }

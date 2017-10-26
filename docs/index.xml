@@ -17,8 +17,7 @@
       <pubDate>Thu, 26 Oct 2017 11:15:17 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/terms-defined/</guid>
-      <description>#Journeys These are the paths that our customers typically take when joining us on a Red Hat Open Innovation Labs engagement. Journeys represent the entirety of the engagement; from the beginning conversations to the sad good-byes. Using a Transportation metaphor, Journeys are the experiences you get, fun you had and what you learned when traveling from a West Coast City to an East Coast City with friends.
-#Stages Along the Journey, there are many different team members that are required to support obtaining certain outcomes.</description>
+      <description>Journeys These are the paths that our customers typically take when joining us on a Red Hat Open Innovation Labs engagement. Journeys represent the entirety of the engagement; from the beginning conversations to the sad good-byes. Using a Transportation metaphor, Journeys are the experiences you get, fun you had and what you learned when traveling from a West Coast City to an East Coast City with friends.</description>
     </item>
     
     <item>
@@ -32,6 +31,15 @@ What This Library Is Not An exhaustive, detailed guide to apply these practices.
     </item>
     
     <item>
+      <title>Stop the World Event</title>
+      <link>https://rht-labs.github.io/practice-library/stop-the-world-event/</link>
+      <pubDate>Thu, 26 Oct 2017 16:20:14 -0400</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/stop-the-world-event/</guid>
+      <description>What is it? A &amp;ldquo;Stop the World&amp;rdquo; event is when somebody on the Team identifies that some of the Acceptance Criteria will not be met or would like to modify a Waypoint(s) based on newer information. The FULL Team then works together to find a compromise that is acceptable to them and all involved to still meet the Acceptance Criteria and progress towards the end of the Journey. By the end of the &amp;ldquo;Stop the World&amp;rdquo; event, the team should:</description>
+    </item>
+    
+    <item>
       <title>Realtime Retrospective</title>
       <link>https://rht-labs.github.io/practice-library/routes/realtime-retrospective/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 -0500</pubDate>
@@ -39,33 +47,6 @@ What This Library Is Not An exhaustive, detailed guide to apply these practices.
       <guid>https://rht-labs.github.io/practice-library/routes/realtime-retrospective/</guid>
       <description>Realtime Retrospective What is it? The Realtime Retrospective technique was created by Emily Webber1 in the UK. This is a great way to capture feedback from a large number of participants in realtime over an extended period of time. By the middle/end of the Realtime Retrospective you should have:
  Feedback in a timeline like fashion that are both positive and negative things A capture of the mood and reaction of people over the course of time in a realtime manner Lots of sticky notes on a wall  Why use Realtime Retrospective?</description>
-    </item>
-    
-    <item>
-      <title>Assumptions Identified</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</link>
-      <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovery</title>
-      <link>https://rht-labs.github.io/practice-library/stages/discovery/</link>
-      <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/stages/discovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disrupt</title>
-      <link>https://rht-labs.github.io/practice-library/journeys/disrupt/</link>
-      <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/journeys/disrupt/</guid>
-      <description>This is a style of journey that is closely associated with rapidly co-creating a product. It is used when you wish to create an internal application/service or the next new mobile application that will change the world. Red Hat will accomplish this using the methods and practices of Red Hat Open Innovation Labs alongside you.</description>
     </item>
     
     <item>
@@ -115,6 +96,16 @@ Proven Ways to Define a Why These are proven techniques to define your &amp;ldqu
       <guid>https://rht-labs.github.io/practice-library/routes/discovery-session/</guid>
       <description>What is it? A discovery session is a standard part of the Red Hat Consulting Solution Delivery Framework, which is is used to elicit the necessary information to craft an approach describing the way Red Hat should engage with our customer. A successful discovery session should result in at least the following:
  A shared understanding of a problem statement the team will be addressing. You don&amp;rsquo;t necessarily need this format written down, but you should have enough information that you could present it back to the team and be met with agreement.</description>
+    </item>
+    
+    <item>
+      <title>Event Storming</title>
+      <link>https://rht-labs.github.io/practice-library/route/event-storming/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/route/event-storming/</guid>
+      <description>What is it? Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini1 in 2013. At the end of the event storm, you should have:
+ A shared understand of the business process you are building as part of the project, including:  which steps should be considered in scope and which steps are out of scope the users involved in the process an initial inventory of UI screens for the process an initial inventory of Aggregates2  A physical diagram with the above information, which can be transferred to a digital format  Why use Event Storming?</description>
     </item>
     
     <item>

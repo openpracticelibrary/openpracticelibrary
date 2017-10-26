@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Routes on Open Practice Library</title>
-    <link>https://rht-labs.github.io/practice-library/route/</link>
-    <description>Recent content in Routes on Open Practice Library</description>
+    <title>Foo Bar on Open Practice Library</title>
+    <link>https://rht-labs.github.io/practice-library/waypoints/foo-bar/</link>
+    <description>Recent content in Foo Bar on Open Practice Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Apr 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://rht-labs.github.io/practice-library/route/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rht-labs.github.io/practice-library/waypoints/foo-bar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Event Storming</title>
-      <link>https://rht-labs.github.io/practice-library/route/event-storming/</link>
+      <link>https://rht-labs.github.io/practice-library/routes/event-storming/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/route/event-storming/</guid>
+      <guid>https://rht-labs.github.io/practice-library/routes/event-storming/</guid>
       <description>What is it? Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini1 in 2013. At the end of the event storm, you should have:
  A shared understand of the business process you are building as part of the project, including:  which steps should be considered in scope and which steps are out of scope the users involved in the process an initial inventory of UI screens for the process an initial inventory of Aggregates2  A physical diagram with the above information, which can be transferred to a digital format  Why use Event Storming?</description>
     </item>
