@@ -13,7 +13,7 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 
 ## Why use an Agile Agenda?
 
-- Sessions like [event storming](/technique/event-storming/) or [user story mapping](/technique/user-story-mapping/) don't neatly fit into time boxes. As such, you'll need to dynamic with the way you manage the agenda.
+- Sessions like [event storming](/route/event-storming/) or [user story mapping](/route/user-story-mapping/) don't neatly fit into time boxes. As such, you'll need to dynamic with the way you manage the agenda.
 - Whiteboards and stickies are easier to change than digital agendas which might need some formatting or even have access issues.
 - It works as an Information Radiator[<sup>1</sup>](#footnote-1) throughout the workshop, making it a logical area to gather the team to review the agenda as well as do time checks. Compare this to an agenda captured in a slide deck, which doesn't naturally lead to a team huddle.
 
