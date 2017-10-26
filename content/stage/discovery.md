@@ -1,5 +1,5 @@
 ---
-date: 2017-05-15T00:00:00-05:00
 title: "Discovery"
+date: 2017-10-19T16:43:54-04:00
 draft: false
 ---
