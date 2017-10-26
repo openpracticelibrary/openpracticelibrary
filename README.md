@@ -10,9 +10,9 @@ To add content: fork this repository, add your content, and then send us a pull 
 
 Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
 
-### Techniques
+### Routes
 
-Create a new markdown file in `/content/technique`. If you have hugo installed, you can run `hugo new technique/my_new_technique.md`.
+Create a new markdown file in `/content/route`. If you have hugo installed, you can run `hugo new route/my_new_route.md`.
 
 ### Pages
 
@@ -22,16 +22,16 @@ To display the page in the site menu, include `menu: main` in the front matter a
 
 ### Drafts
 
-Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft` - for example, `hugo undraft technique/foo.md`.
+Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft` - for example, `hugo undraft route/foo.md`.
 
 ### Style
 
 These style guidelines apply to the Markdown files in the `/content` directory.
 
 - Use hyphens, not underscores, to separate parts of a filename. (The filenames are turned into URLs when the site is built.)
-- Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag, which we're using for footnotes.
-- When linking to external sites, place the link into an "external references" section, and use a footnote to point to the link.
-- Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the doucument's front matter (`title: my title`).
+- Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag and anchors, which we're using for footnotes.
+- When linking to external sites, place the link into an "external references" section, and use a footnote anchor to point to the link.
+- Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the document's front matter (`title: my title`).
 
 ## Developing
 
