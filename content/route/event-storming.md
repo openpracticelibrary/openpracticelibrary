@@ -1,7 +1,6 @@
 ---
 date: 2017-04-20T00:00:00-05:00
 title: Event Storming
-waypoints: ['assumptions-identified', 'foo-bar']
 draft: false
 ---
 

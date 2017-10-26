@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://rht-labs.github.io/practice-library/</loc>
@@ -34,6 +35,11 @@
   <url>
     <loc>https://rht-labs.github.io/practice-library/about/</loc>
     <lastmod>2017-10-19T17:03:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/stop-the-world-event/</loc>
+    <lastmod>2017-10-26T16:20:14-04:00</lastmod>
   </url>
   
   <url>
@@ -82,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://rht-labs.github.io/practice-library/route/event-storming/</loc>
+    <lastmod>2017-04-20T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rht-labs.github.io/practice-library/routes/event-storming/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
   </url>
@@ -92,26 +103,8 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/assumptions-identified/</loc>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/foo-bar/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/journeys/disrupt/</loc>
-    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/journeys/foo/</loc>
-    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/journeys/</loc>
-    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -122,20 +115,8 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/</loc>
-    <lastmod>2017-10-26T00:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/stages/</loc>
-    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rht-labs.github.io/practice-library/waypoints/</loc>
-    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+    <loc>https://rht-labs.github.io/practice-library/route/</loc>
+    <lastmod>2017-04-20T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
