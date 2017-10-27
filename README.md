@@ -22,6 +22,8 @@ A few useful tips:
 
 We're currently associating the journeys with the homepage so that they appear on the site. We might move this link elsewhere in the future.
 
+To migrate pages/posts to taxonomies, see [this script](https://gist.github.com/rdebeasi/6e9ae4c391a9ed89ea8903d28394b6d1).
+
 ### Pages
 
 Create a new markdown file in `/content/page`. If you have hugo installed, you can run `hugo new page/my_new_page.md`.
