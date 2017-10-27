@@ -20,6 +20,8 @@ A few useful tips:
 - Taxonomy items only appear if something links to them. If `content/routes/foo/_index.md` exists but nothing links to it, the "foo" route _will not_ appear on the website.
 - A taxonomy item that's linked to somewhere will appear, even if its `_index.md` does not exist. For example, if  `routes: ['bar']` appears in a Waypoint but `content/routes/bar/_index.md` does not exist, the "bar" Waypoint _will_ appear on the website.
 
+We're currently associating the journeys with the homepage so that they appear on the site. We might move this link elsewhere in the future.
+
 ### Pages
 
 Create a new markdown file in `/content/page`. If you have hugo installed, you can run `hugo new page/my_new_page.md`.
