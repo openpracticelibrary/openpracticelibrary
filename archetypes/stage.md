@@ -1,3 +1,3 @@
 ---
-journeys: []
+waypoints: []
 ---
