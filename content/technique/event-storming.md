@@ -74,6 +74,7 @@ Event Storming is a great way to kick off the "Develop Potential Solutions" phas
 ## Additional Resources
 - [Session at Red Hat Summit 2017](https://www.youtube.com/watch?v=m6h_ppEDPrU)
 - [Blog](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) explaining how event storming, DDD and reactive systems relate
+- Alberto Brandolini's [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) from Explore DDD 2017. Great overview of how the technique has evolved, tips for running a session, and articulation of the different types of sessions to run.
 - Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 - Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
 - Chapter 7 of Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
