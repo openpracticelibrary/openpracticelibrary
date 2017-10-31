@@ -10,19 +10,9 @@ To add content: fork this repository, add your content, and then send us a pull 
 
 Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
 
-### Taxonomies
+### Routes
 
-Journeys, Stages, Waypoints and Routes are all stored as [taxonomies](https://gohugo.io/content-management/taxonomies/). Taxonomies allow us to link different types of content to one another. They work a little like tags in WordPress and other blogging systems.
-
-A few useful tips:
-- Content for each taxonomy item is stored in an _index.md file. For example: `content/routes/event-storming/_index.md`.
-- Links to taxonomy items are stored in an item's front matter. For example: `stages: ['discovery']`
-- Taxonomy items only appear if something links to them. If `content/routes/foo/_index.md` exists but nothing links to it, the "foo" route _will not_ appear on the website.
-- A taxonomy item that's linked to somewhere will appear, even if its `_index.md` does not exist. For example, if  `routes: ['bar']` appears in a Waypoint but `content/routes/bar/_index.md` does not exist, the "bar" Waypoint _will_ appear on the website.
-
-We're currently associating the journeys with the homepage so that they appear on the site. We might move this link elsewhere in the future.
-
-To migrate pages/posts to taxonomies, see [this script](https://gist.github.com/rdebeasi/6e9ae4c391a9ed89ea8903d28394b6d1).
+Create a new markdown file in `/content/route`. If you have hugo installed, you can run `hugo new routes/my_new_routes.md`.
 
 ### Pages
 
