@@ -14,9 +14,3 @@ customCSS = ["css/custom.css"]
 
 [permalinks]
 page = "/:slug/"
-
-[taxonomies]
-journey = "journeys"
-stage = "stages"
-waypoint = "waypoints"
-route = "routes"
