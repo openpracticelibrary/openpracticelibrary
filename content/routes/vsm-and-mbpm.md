@@ -76,7 +76,7 @@ Both VSM & MBPM document a current state map, and then design a future state map
 - [Facilitation Guide](https://docs.google.com/presentation/d/1Ijkm2zMLMiJ4KS_evA4ufug0fOL01QOEsxBsZ89_EdA/edit#slide=id.gb6f3e2d2d_2_207) - Metrics-Based Process Mapping (MBPM)
 - [Software Delivery Example](https://app.bluescape.com/Bszck243FZrhMzcBVTTE?targetRect=%5B33678%2C4692%2C39053%2C10011%5D) - Bluescape with a VSM segment and 1 of 5 corresponding MBPM's
 
-##External References
+## External References
 
 1. <a name="footnote-1"></a>[Lean Thinking](https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88)
 2. <a name="footnote-2"></a>[Learning to See](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9)
