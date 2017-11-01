@@ -1,14 +1,7 @@
+{{ if not ( eq .Section "page" ) }}
 <footer class='entry-footer-container'>
   <div class='entry-footer'>
-    {{ if not ( eq .Section "page" ) }}
-    {{ if .Params.stages }}
-      <ul>
-        {{ range $stage := .Params.stages }}
-          <li><a href="/stages/{{ $stage }}">{{ $stage }}</a></li>
-        {{ end }}
-      </ul>
-    {{ end }}
-
+  {{ partial "entry/practice-meta" . }}
   {{ range $taxonomy, $pages := .Site.Taxonomies }}
     {{- if not ( eq $taxonomy "authors" ) -}}
       {{- if ( index $.Params $taxonomy ) -}}

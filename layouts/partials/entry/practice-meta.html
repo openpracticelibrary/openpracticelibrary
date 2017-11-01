@@ -1,0 +1,7 @@
+{{ if .Params.stages }}
+  <ul>
+    {{ range $stage := .Params.stages }}
+      <li><a href="/stages/{{ $stage }}">{{ $stage }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
