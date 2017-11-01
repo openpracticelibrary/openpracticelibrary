@@ -6,7 +6,7 @@
 -->
 <div class="practices">
   {{ if .Params.journeys }}
-    <h3>Journeys</h3>
+    <h3>Related Journeys</h3>
     <ul class="practices-list">
       {{ range $item := .Params.journeys }}
         <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
@@ -15,7 +15,7 @@
   {{ end }}
 
   {{ if .Params.stages }}
-    <h3>Stages</h3>
+    <h3>Related Stages</h3>
     <ul class="practices-list">
       {{ range $item := .Params.stages }}
         <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
@@ -24,7 +24,7 @@
   {{ end }}
 
   {{ if .Params.waypoints }}
-    <h3>Waypoints</h3>
+    <h3>Related Waypoints</h3>
     <ul class="practices-list">
       {{ range $item := .Params.waypoints }}
         <li><a href="/waypoints/{{ $item }}">{{ $item | humanize | title }}</a></li>
@@ -33,7 +33,7 @@
   {{ end }}
 
   {{ if .Params.routes }}
-    <h3>Routes</h3>
+    <h3>Related Routes</h3>
     <ul class="practices-list">
       {{ range $item := .Params.routes }}
         <li><a href="/routes/{{ $item }}">{{ $item | humanize | title }}</a></li>
