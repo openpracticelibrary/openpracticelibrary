@@ -68,7 +68,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 
 ## Process Phase
-Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond design model[<sup>8</sup>](#footnote-10).
+Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond design model[<sup>10</sup>](#footnote-10).
 
 ## Additional Resources for Red Hatters (we're working to share more broadly)
 - [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
@@ -90,4 +90,3 @@ Event Storming is a great way to kick off the "Develop Potential Solutions" phas
 12. [Blog](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) explaining how event storming, DDD and reactive systems relate
 13. Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
 14. Alberto Brandolini's [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) from Explore DDD 2017. Great overview of how the technique has evolved, tips for running a session, and articulation of the different types of sessions to run.
-
