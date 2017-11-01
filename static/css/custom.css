@@ -24,3 +24,13 @@
 .entry-footer .routes .taxonomyTerm-icon {
   display: none;
 }
+
+.practices-list {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.practices-list:last-child {
+  margin-bottom: 0;
+
+}
