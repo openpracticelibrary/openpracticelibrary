@@ -9,7 +9,7 @@
     <h3>Related Journeys</h3>
     <ul class="practices-list">
       {{ range $item := .Params.journeys }}
-        <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
+        <li><a href="/journeys/{{ $item }}">{{ $item | humanize | title }}</a></li>
       {{ end }}
     </ul>
   {{ end }}
