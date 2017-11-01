@@ -7,7 +7,9 @@
 /* For custom taxonomies, display text instead of a broken icon */
 
 .entry-footer .journeys .screen-reader,
-.entry-footer .waypoints .screen-reader {
+.entry-footer .stages .screen-reader,
+.entry-footer .waypoints .screen-reader,
+.entry-footer .routes .screen-reader {
   clip: none;
   width: auto;
   height: auto;
@@ -17,6 +19,8 @@
 }
 
 .entry-footer .journeys .taxonomyTerm-icon,
-.entry-footer .waypoints .taxonomyTerm-icon {
+.entry-footer .stages .taxonomyTerm-icon,
+.entry-footer .waypoints .taxonomyTerm-icon,
+.entry-footer .routes .taxonomyTerm-icon {
   display: none;
 }

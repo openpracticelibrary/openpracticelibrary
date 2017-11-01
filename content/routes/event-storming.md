@@ -2,6 +2,7 @@
 date: 2017-04-20T00:00:00-05:00
 title: Event Storming
 draft: false
+stages: ['discovery']
 ---
 
 ## What is it?

@@ -38,6 +38,46 @@
   </url>
   
   <url>
+    <loc>https://rht-labs.github.io/practice-library/stages/approach/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/approach-presented/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/assumptions-prioritized/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/deal-negotiated-and-closed/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/goal-or-problem-statement-defined/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/residency-key-assumptions-selected/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/solution-options-identified/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rht-labs.github.io/practice-library/stop-the-world-event/</loc>
     <lastmod>2017-10-26T16:20:14-04:00</lastmod>
   </url>
@@ -88,11 +128,6 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/event-storming/</loc>
-    <lastmod>2017-04-20T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rht-labs.github.io/practice-library/routes/event-storming/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
   </url>
@@ -103,8 +138,7 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/waypoints/foo-bar/</loc>
-    <lastmod>2017-04-20T00:00:00-05:00</lastmod>
+    <loc>https://rht-labs.github.io/practice-library/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -115,8 +149,7 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/route/</loc>
-    <lastmod>2017-04-20T00:00:00-05:00</lastmod>
+    <loc>https://rht-labs.github.io/practice-library/tags/</loc>
     <priority>0</priority>
   </url>
   

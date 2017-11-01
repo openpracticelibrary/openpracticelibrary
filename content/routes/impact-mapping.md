@@ -2,6 +2,7 @@
 date: 2017-09-06T00:00:00-05:00
 title: Impact Mapping
 draft: false
+stages: ['discovery']
 ---
 
 ## What is it?

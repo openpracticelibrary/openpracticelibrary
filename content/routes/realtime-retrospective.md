@@ -2,6 +2,7 @@
 date: 2017-10-26T00:00:00-05:00
 title: Realtime Retrospective
 draft: false
+stages: ['discovery']
 ---
 
 # Realtime Retrospective
