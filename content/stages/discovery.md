@@ -2,7 +2,7 @@
 title: "Discovery"
 date: 2017-10-19T16:43:54-04:00
 draft: false
-waypoints: ['residency-key-assumptions-selected', 'solutions-options-identified', 'approach-presented', 'deal-negotiated-and-closed', 'why-is-defined']
+waypoints: ['residency-key-assumptions-selected', 'solution-options-identified', 'approach-presented', 'deal-negotiated-and-closed', 'why-is-defined']
 journeys: ['disrupt']
 routes: ['event-storming', 'impact-mapping', 'vsm-and-mbpm', 'discovery-session', 'chartering', 'agile-agenda', 'realtime-retrospective']
 ---
