@@ -3,6 +3,7 @@ date: 2017-09-06T00:00:00-05:00
 title: '"Why" is Defined'
 draft: false
 stages: ['discovery', 'approach']
+journeys: ['disrupt']
 ---
 
 It's really surprising how often organizations fail to communicate "Why" work is important. At Labs, we want to make the "Why" explicit from day 1. Everything that happens on our Journey after this point should tie by to this "Why."
