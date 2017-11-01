@@ -6,6 +6,7 @@
 -->
 <div class="practices">
   {{ if .Params.journeys }}
+    <h2>Journeys</h2>
     <ul>
       {{ range $item := .Params.journeys }}
         <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
