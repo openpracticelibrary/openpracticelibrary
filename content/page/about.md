@@ -3,7 +3,7 @@ title: "About"
 date: 2017-10-19T17:03:59-04:00
 menu: main
 draft: false
-weight: -1
+weight: 100
 ---
 
 Red Hat Open Innovation Labs is creating a practice library! The library's source is in [a public GitHub repo](https://github.com/rht-labs/practice-library) and is licensed under [Apache 2.0](https://github.com/rht-labs/practice-library/blob/master/LICENSE).

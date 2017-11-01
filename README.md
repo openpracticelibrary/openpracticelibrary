@@ -10,9 +10,9 @@ To add content: fork this repository, add your content, and then send us a pull 
 
 Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
 
-### Techniques
+### Routes
 
-Create a new markdown file in `/content/technique`. If you have hugo installed, you can run `hugo new technique/my_new_technique.md`.
+Create a new markdown file in `/content/route`. If you have hugo installed, you can run `hugo new routes/my_new_routes.md`.
 
 ### Pages
 
@@ -22,7 +22,16 @@ To display the page in the site menu, include `menu: main` in the front matter a
 
 ### Drafts
 
-Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft` - for example, `hugo undraft technique/foo.md`.
+Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft`. For example, typing `hugo undraft page/my_new_page.md` will publish the corresponding page.
+
+### Style
+
+These style guidelines apply to the Markdown files in the `/content` directory.
+
+- Use hyphens, not underscores, to separate parts of a filename. (The filenames are turned into URLs when the site is built.)
+- Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag and anchors, which we're using for footnotes.
+- When linking to external sites, place the link into an "external references" section, and use a footnote anchor to point to the link.
+- Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the document's front matter (`title: my title`).
 
 ## Developing
 
@@ -30,7 +39,9 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
-3. Run `hugo server` to to run the site locally.
+3. Run `git submodule update --init --recursive` to download the theme.
+4. Navigate to the top level of the repo.
+5. Run `hugo server` to run the site locally.
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
@@ -41,7 +52,7 @@ The site is [published to GitHub pages](https://help.github.com/articles/configu
 To push changes to GitHub pages:
 
 1. Delete the `docs` directory. (Hugo won't delete old files by default.)
-2. Run `hugo` (without any parameters) to build the site.
+2. Run `hugo` (without any parameters) to rebuild the `docs` directory.
 3. Add, commit, and push these changes.
 4. Create a pull request.
 5. Merge to master, or ask someone else to merge to master.
