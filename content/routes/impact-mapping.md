@@ -20,7 +20,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 - Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
 - Impact Mapping introduces a very simple human centered design process, and as such, it is a great way to put lightweight design thinking techniques into practice
 - It's a graphical mind map, which reduces the barrier to entry for participants and facilitators alike
-- The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. At Labs, we typical run a 4-6 hour session with Project Sponsors during a [Discovery Session](/route/discovery-session/). These are just two of endless possible variations of the technique.
+- The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. At Labs, we typical run a 4-6 hour session with Project Sponsors during a [Discovery Session](/routes/discovery-session/). These are just two of endless possible variations of the technique.
 
 ## Related Practices
 
