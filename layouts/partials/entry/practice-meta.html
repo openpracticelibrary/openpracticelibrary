@@ -1,7 +1,43 @@
-{{ if .Params.stages }}
-  <ul>
-    {{ range $stage := .Params.stages }}
-      <li><a href="/stages/{{ $stage }}">{{ $stage }}</a></li>
-    {{ end }}
-  </ul>
-{{ end }}
+<!--
+  TODO: reduce duplicated code.
+  This is tricky because of limitations on variable scope, but we could work
+  around those limitations with hugo's Scratch function.
+  https://gohugo.io/templates/introduction/#variables
+-->
+<div class="practices">
+  {{ if .Params.journeys }}
+    <ul>
+      {{ range $item := .Params.journeys }}
+        <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ if .Params.stages }}
+    <h2>Stages</h2>
+    <ul>
+      {{ range $item := .Params.stages }}
+        <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ if .Params.waypoints }}
+    <h2>Waypoints</h2>
+    <ul>
+      {{ range $item := .Params.waypoints }}
+        <li><a href="/waypoints/{{ $item }}">{{ $item | humanize | title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ if .Params.routes }}
+    <h2>Routes</h2>
+    <ul>
+      {{ range $item := .Params.routes }}
+        <li><a href="/routes/{{ $item }}">{{ $item | humanize | title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+</div>
