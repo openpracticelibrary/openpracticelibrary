@@ -12,6 +12,6 @@ cover:
 ![route sketch](/images/route-sketch.png)
 
 
-Welcome to the [Red Hat Open Innovation Labs](https://www.redhat.com/en/open-innovation-labs) Practice Library. Here, we look to provide information on the Practices and Techniques that we call '[Routes](/routes/)' and how they can fit into the overall consulting engagements we describe as '[Journeys](/journeys/)'.
+Welcome to the [Red Hat Open Innovation Labs](https://www.redhat.com/en/open-innovation-labs) Practice Library. Here, we look to provide information on the [Practices and Techniques](/practices) that are used during our engagements. We also share how we employ those Practices within the overall consulting engagements we describe as '[Journeys](/journeys/)'.
 
-For more information on what a Journey, Stage, Waypoint, or Route is; please visit the [Terms Defined Page](/terms-defined/)
+To us, a Journey can be broken down into Stages, Waypoints, Routes, and Practices. To learn more about these concepts, please visit the [Terms Defined Page](/terms-defined/)

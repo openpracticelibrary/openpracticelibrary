@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://rht-labs.github.io/practice-library/practices/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rht-labs.github.io/practice-library/routes/</loc>
     <lastmod>2017-10-19T16:43:54-04:00</lastmod>
   </url>
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/realtime-retrospective/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/realtime-retrospective/</loc>
     <lastmod>2017-10-26T00:00:00-05:00</lastmod>
   </url>
   
@@ -103,12 +108,12 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/chartering/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/chartering/</loc>
     <lastmod>2017-09-12T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/vsm-and-mbpm/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/</loc>
     <lastmod>2017-09-12T00:00:00-05:00</lastmod>
   </url>
   
@@ -118,27 +123,27 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/impact-mapping/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/impact-mapping/</loc>
     <lastmod>2017-09-06T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/agile-agenda/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/agile-agenda/</loc>
     <lastmod>2017-05-15T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/discovery-session/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/discovery-session/</loc>
     <lastmod>2017-05-15T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/event-storming/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/event-storming/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/routes/user-story-mapping/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/user-story-mapping/</loc>
     <lastmod>2017-04-20T00:00:00-05:00</lastmod>
   </url>
   
