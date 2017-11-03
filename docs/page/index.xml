@@ -6,10 +6,21 @@
     <description>Recent content in Pages on Open Practice Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 11:15:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2017 09:15:17 -0400</lastBuildDate>
     
 	<atom:link href="https://rht-labs.github.io/practice-library/page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Way of Working</title>
+      <link>https://rht-labs.github.io/practice-library/way-of-working/</link>
+      <pubDate>Fri, 03 Nov 2017 09:15:17 -0400</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/way-of-working/</guid>
+      <description>This is the Way all of the concepts and terms come together and form our Way of Working. Don&amp;rsquo;t want to read through all of this? visit this video .
+Our framework is built around a transportation metaphor, the idea that you want to be immersed in Red Hat’s culture and technology to take you from one place to another.
+And thus we refer to every customer engagement as a Journey.</description>
+    </item>
     
     <item>
       <title>Terms Defined</title>
@@ -28,8 +39,8 @@ See all Journeys.</description>
       
       <guid>https://rht-labs.github.io/practice-library/about/</guid>
       <description>Red Hat Open Innovation Labs is creating an Open Practice Library! The library&amp;rsquo;s source is in a public GitHub repo and is licensed under Apache 2.0.
-Who is this Library Intended for While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and techniques, we have a few personas that this information architecture is geared towards.
-The Big Picture Person This is the person who has heard of Red Hat and Red Hat Open Innovation Labs and is looking for what they use to accomplish engagement success.</description>
+Goals of this Library While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and practices, this Open Practice Library has two main goals in mind.
+Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplish engagement success.</description>
     </item>
     
   </channel>

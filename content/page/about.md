@@ -17,7 +17,7 @@ Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplis
 ### Search with Intent
 Share details about a particular practice that Red Hat Open Innovation Labs uses. Know our perspective on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
 
-### We hope that you come for the practices and stay for the strategy of [*The Way We Work*](/way-of-working-summary/).
+### We hope that you come for the practices and stay for the strategy of [*The Way We Work*](/way-of-working/).
 
 ## What This Library Is *Not*
 An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
