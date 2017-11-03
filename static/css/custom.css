@@ -4,12 +4,12 @@
   display: none;
 }
 
-.practices-list {
+.related-list {
   list-style-type: none;
   margin-left: 0;
 }
 
-.practices-list:last-child {
+.related-list:last-child {
   margin-bottom: 0;
 }
 
@@ -17,28 +17,28 @@
 
 .entry-content a,
 .list-item a,
-.practices-list a {
+.related-list a {
   border-bottom: .125em solid #212121;
 }
 
-.entry-nav .practices-list a {
+.entry-nav .related-list a {
   display: inline;
   font-style: normal;
 }
 
-.practices-list li {
+.related-list li {
   margin-top: 1em;
 }
 
-.practices-list li:first-child {
+.related-list li:first-child {
   margin-top: 0;
 }
 
 .list-item a:active,
 .list-item a:focus,
 .list-item a:hover,
-.practices-list a:active,
-.practices-list a:focus,
-.practices-list a:hover {
+.related-list a:active,
+.related-list a:focus,
+.related-list a:hover {
     border-bottom-color: #ffcd00;
 }
