@@ -4,27 +4,6 @@
   display: none;
 }
 
-/* For custom taxonomies, display text instead of a broken icon */
-
-.entry-footer .journeys .screen-reader,
-.entry-footer .stages .screen-reader,
-.entry-footer .waypoints .screen-reader,
-.entry-footer .routes .screen-reader {
-  clip: none;
-  width: auto;
-  height: auto;
-  overflow: visible !important;
-  position: static !important;
-  font-weight: 600;
-}
-
-.entry-footer .journeys .taxonomyTerm-icon,
-.entry-footer .stages .taxonomyTerm-icon,
-.entry-footer .waypoints .taxonomyTerm-icon,
-.entry-footer .routes .taxonomyTerm-icon {
-  display: none;
-}
-
 .practices-list {
   list-style-type: none;
   margin-left: 0;
@@ -32,5 +11,17 @@
 
 .practices-list:last-child {
   margin-bottom: 0;
+}
 
+/* Make links more visible */
+
+.entry-content a,
+.list-item a {
+  border-bottom: .125em solid #000;
+}
+
+.list-item a:active,
+.list-item a:focus,
+.list-item a:hover {
+    border-bottom-color: #ffcd00;
 }

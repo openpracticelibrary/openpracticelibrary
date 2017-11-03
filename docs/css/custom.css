@@ -32,5 +32,8 @@
 
 .practices-list:last-child {
   margin-bottom: 0;
+}
 
+.entry-content a {
+  border-bottom: .125em dashed #000;
 }
