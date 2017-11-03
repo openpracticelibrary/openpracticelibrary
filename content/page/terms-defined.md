@@ -1,7 +1,6 @@
 ---
 title: "Terms Defined"
 date: 2017-10-26T11:15:17-04:00
-menu: main
 weight: 25
 draft: false
 ---
