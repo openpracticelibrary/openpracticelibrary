@@ -12,4 +12,4 @@ Welcome to the [Red Hat Open Innovation Labs](https://www.redhat.com/en/open-inn
 
 Here, we look to provide information on the [Practices and Techniques](/practices) that are used during our engagements.
 
-If you wish to understand how we employ those Practices within the overall consulting engagements we describe as '[Journeys](/journeys/)', please visit the [Terms Defined Page](/terms-defined/) for the concept terms and visit our [Way of Working](/way-of-working/) summary.
+If you wish to understand how we employ those Practices within the overall consulting engagements we describe as '[Journeys](/journeys/)', please visit our [Way of Working](/way-of-working/) summary. We also have a list of all of our [concept definitions](/terms-defined/).
