@@ -10,15 +10,19 @@ To add content: fork this repository, add your content, and then send us a pull 
 
 Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
 
-### Routes
+### Practices
 
-Create a new markdown file in `/content/route`. If you have hugo installed, you can run `hugo new routes/my_new_routes.md`.
+Create a new markdown file in `/content/practices`. If you have hugo installed, you can run `hugo new practices/my_new_practice.md`.
 
-### Pages
+## Waypoints
 
-Create a new markdown file in `/content/page`. If you have hugo installed, you can run `hugo new page/my_new_page.md`.
+Create a new markdown file in `/content/waypoints`. If you have hugo installed, you can run `hugo new waypoints/my_new_waypoint.md`.
 
-To display the page in the site menu, include `menu: main` in the front matter at the top of the file.
+## Stages
+Create a new markdown file in `/content/stages`. If you have hugo installed, you can run `hugo new stages/my_new_stage.md`.
+
+## Routes
+Edit one of the [Stage](/stages) pages.
 
 ### Drafts
 
