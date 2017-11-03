@@ -53,7 +53,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 - Session can be done on different days
 
 
-## Difficultly
+## Difficulty
 - Facilitator: Moderate
 - Participants: Easy
 

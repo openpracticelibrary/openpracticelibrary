@@ -21,11 +21,11 @@ draft: false
   [See all Waypoints.](/waypoints/)
 
 ## Routes
-  These are the collections of practices and techniques that are facilitated to achieve the Outcomes and Outputs of the various Waypoints for a Stage. It depends on the Route you take. While there is no **right** Route or **right** way to facilitate a Route, we do identify our Default Routes and a few alternatives our facilitators use. In our Transportation metaphor, Routes are the set of turns that you will take to navigate from a gas station to a rest stop.
+  These are the collections of practices and techniques that are facilitated to achieve the Outcomes and Outputs of the various Waypoints for a Stage. It depends on the Route you take. While there is no **right** Route or **right** way to facilitate a Route, we do identify our Default Routes and a few alternatives our facilitators use. In our Transportation metaphor, Routes are the set of turns and roads that you will take to navigate from a gas station to a rest stop.
 
-  [See all Routes.](/routes/)
+  Default Routes for various Stages in our Journey are located on those [Stage](/stages/) pages
 
 ## Practices
-  These are the practices and techniques that are facilitated to achieve specific outcomes and outputs. Each of the Practices you find here provide insights on some common facilitation techniques. While there is no **right** Route or **right** way to facilitate a Practice, we look to provide how we like to employ the Practice. In our Transportation metaphor, Practices are the more specific roads that you will take to navigate from point A to point B along your [Route](/routes) from a gas station to a rest stop.
+  These are the practices and techniques that are facilitated to achieve specific outcomes and outputs. While there is no **right** Route or **right** way to facilitate a Practice, we look to share how we like to employ the Practice. In our Transportation metaphor, Practices are the more specific roads that you will take to navigate from point A to point B along your Route from a gas station to a rest stop. Sometimes it is 1 road, sometimes it is multiple roads you must take to reach your next location.
 
   [See all Practices.](/practices/)
