@@ -10,7 +10,7 @@ To add content: fork this repository, add your content, and then send us a pull 
 
 Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
 
-### Practices
+## Practices
 
 Create a new markdown file in `/content/practices`. If you have hugo installed, you can run `hugo new practices/my_new_practice.md`.
 
