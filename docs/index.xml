@@ -6,10 +6,21 @@
     <description>Recent content in Home on Open Practice Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 11:15:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2017 09:15:17 -0400</lastBuildDate>
     
 	<atom:link href="https://rht-labs.github.io/practice-library/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Way of Working</title>
+      <link>https://rht-labs.github.io/practice-library/way-of-working/</link>
+      <pubDate>Fri, 03 Nov 2017 09:15:17 -0400</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/way-of-working/</guid>
+      <description>Quick Navigation  Terms Defined Journey Types Stage Types Waypoint Types  This is the Way all of the concepts and terms come together and form our Way of Working. Short video coming soon.
+Our framework is built around a transportation metaphor, the idea that you want to be immersed in Red Hat’s culture and technology to take you from one place to another.
+And thus we refer to every customer engagement as a Journey.</description>
+    </item>
     
     <item>
       <title>Terms Defined</title>
@@ -27,8 +38,9 @@ See all Journeys.</description>
       <pubDate>Thu, 19 Oct 2017 17:03:59 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/about/</guid>
-      <description>Red Hat Open Innovation Labs is creating a practice library! The library&amp;rsquo;s source is in a public GitHub repo and is licensed under Apache 2.0.
-What This Library Is Not An exhaustive, detailed guide to apply these practices. We&amp;rsquo;ve tried that, and folks tend to focus on the step by step instruction but miss the &amp;ldquo;Why&amp;rdquo; information. Or they just don&amp;rsquo;t read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.</description>
+      <description>Red Hat Open Innovation Labs is creating an Open Practice Library! The library&amp;rsquo;s source is in a public GitHub repo and is licensed under Apache 2.0.
+Goals of this Library While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and practices, this Open Practice Library has two main goals in mind.
+Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplish engagement success.</description>
     </item>
     
     <item>
@@ -105,19 +117,19 @@ What This Library Is Not An exhaustive, detailed guide to apply these practices.
     
     <item>
       <title>Stop the World Event</title>
-      <link>https://rht-labs.github.io/practice-library/stop-the-world-event/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/stop-the-world-event/</link>
       <pubDate>Thu, 26 Oct 2017 16:20:14 -0400</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/stop-the-world-event/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/stop-the-world-event/</guid>
       <description>What is it? A &amp;ldquo;Stop the World&amp;rdquo; event is when somebody on the Team identifies that some of the Acceptance Criteria will not be met or would like to modify a Waypoint(s) based on newer information. The FULL Team then works together to find a compromise that is acceptable to them and all involved to still meet the Acceptance Criteria and progress towards the end of the Journey. By the end of the &amp;ldquo;Stop the World&amp;rdquo; event, the team should:</description>
     </item>
     
     <item>
       <title>Realtime Retrospective</title>
-      <link>https://rht-labs.github.io/practice-library/routes/realtime-retrospective/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/realtime-retrospective/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/realtime-retrospective/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/realtime-retrospective/</guid>
       <description>Realtime Retrospective What is it? The Realtime Retrospective technique was created by Emily Webber1 in the UK. This is a great way to capture feedback from a large number of participants in realtime over an extended period of time. By the middle/end of the Realtime Retrospective you should have:
  Feedback in a timeline like fashion that are both positive and negative things A capture of the mood and reaction of people over the course of time in a realtime manner Lots of sticky notes on a wall  Why use Realtime Retrospective?</description>
     </item>
@@ -151,19 +163,19 @@ What This Library Is Not An exhaustive, detailed guide to apply these practices.
     
     <item>
       <title>Chartering</title>
-      <link>https://rht-labs.github.io/practice-library/routes/chartering/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/chartering/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/chartering/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/chartering/</guid>
       <description> TODO </description>
     </item>
     
     <item>
       <title>Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM)</title>
-      <link>https://rht-labs.github.io/practice-library/routes/vsm-and-mbpm/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/vsm-and-mbpm/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/vsm-and-mbpm/</guid>
       <description>What is it? Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques, optimized for an extended organizational transformation effort. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota&amp;rsquo;s &amp;ldquo;information and material flow&amp;rdquo; (as documented in Lean Thinking1 and the second generation from Learning to See2.</description>
     </item>
     
@@ -180,49 +192,49 @@ Proven Ways to Define a Why These are proven techniques to define your &amp;ldqu
     
     <item>
       <title>Impact Mapping</title>
-      <link>https://rht-labs.github.io/practice-library/routes/impact-mapping/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/impact-mapping/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/impact-mapping/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/impact-mapping/</guid>
       <description>What is it? Impact Mapping is an engaging, graphical, strategic planning technique. It was introduced by Gojko Adzic in 2012. At the end of the impact map, you should have:
  A shared understand of you project&amp;rsquo;s goal or problem statement An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name Optionally, an inventory of project scope that could be delivered to achieve the aforementioned impacts Some sort of prioritization of scope and/or impacts A physical or digital diagram with the above information  Why use Impact Mapping?</description>
     </item>
     
     <item>
       <title>Agile Agenda</title>
-      <link>https://rht-labs.github.io/practice-library/routes/agile-agenda/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/agile-agenda/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/agile-agenda/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/agile-agenda/</guid>
       <description>What is it? The Agile Agenda is a simple, yet effective way to manage the agenda for an in person workshop using sticky notes and a whiteboard. The basic idea is draw a days calendar on to the whiteboard, split it into 2 or more tracks, write agenda items on sticky notes (with owners!) and then place them on the whiteboard in the correct time slot. Review your agenda in the morning, and then come back to it throughout the day, updating as need be.</description>
     </item>
     
     <item>
       <title>Discovery Session</title>
-      <link>https://rht-labs.github.io/practice-library/routes/discovery-session/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/discovery-session/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/discovery-session/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/discovery-session/</guid>
       <description>What is it? A discovery session is a standard part of the Red Hat Consulting Solution Delivery Framework, which is is used to elicit the necessary information to craft an approach describing the way Red Hat should engage with our customer. A successful discovery session should result in at least the following:
  A shared understanding of a problem statement the team will be addressing. You don&amp;rsquo;t necessarily need this format written down, but you should have enough information that you could present it back to the team and be met with agreement.</description>
     </item>
     
     <item>
       <title>Event Storming</title>
-      <link>https://rht-labs.github.io/practice-library/routes/event-storming/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/event-storming/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/event-storming/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/event-storming/</guid>
       <description>What is it? Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini1 in 2013. At the end of the event storm, you should have:
  A shared understand of the business process you are building as part of the project, including:  which steps should be considered in scope and which steps are out of scope the users involved in the process an initial inventory of UI screens for the process an initial inventory of Aggregates2  A physical diagram with the above information, which can be transferred to a digital format  Why use Event Storming?</description>
     </item>
     
     <item>
       <title>User Story Mapping</title>
-      <link>https://rht-labs.github.io/practice-library/routes/user-story-mapping/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/user-story-mapping/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/routes/user-story-mapping/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/user-story-mapping/</guid>
       <description>What is it? User Story Mapping is an evolution of the traditional Agile backlog, made popular by Jeff Patton in 20081. It&amp;rsquo;s an effective practice for creating lightweight release plans that can drive standard Agile delivery practices. At the end of user story mapping, you should have:
  A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window.</description>
     </item>

@@ -1,7 +1,6 @@
 ---
 title: "Terms Defined"
 date: 2017-10-26T11:15:17-04:00
-menu: main
 weight: 25
 draft: false
 ---
@@ -16,11 +15,16 @@ draft: false
   [See all Stages.](/stages/)
 
 ## Waypoints
-  Within each Stage, there needs to be a basic structure in order to keep the Journey on track, despite the variations between Journey types. This is the idea behind Waypoints. They are the more detailed destination points that have a set of Acceptance Criteria to be met in order for us to know the right direction to head next. They are not set in stone and may change as long as everyone on the team is in agreement ["Stop the World" concept](/stop-the-world-event/)), but there is a set of default ones. There is no time requirement or strict process on HOW to achieve each Waypoint, but a set of desired Outcomes and a few Outputs. In our Transportation metaphor, Waypoints are the various food, gas and rest stops that you and your friends need to do along your Journey.
+  Within each Stage, there needs to be a basic structure in order to keep the Journey on track, regardless of the Journey type. This is the idea behind Waypoints. They are the more detailed destination points that have a set of Outcomes and Outputs to be met in order for us to know what we have and the right direction to head to next. They have no time requirement or a strict process on HOW to complete each Waypoint on purpose, as this may vary depending on the Team's expertise. Waypoints are not set in stone and may change, as long as everyone on the team is in agreement. In our Transportation metaphor, Waypoints are the various food, gas and rest stops that you and your friends need to do within a Stage of your Journey.
 
   [See all Waypoints.](/waypoints/)
 
 ## Routes
-  These are the practices and techniques that are facilitated to achieve the Acceptance Criteria (A/C) of the various Waypoints. Routes may satisfy multiple Waypoints or you may need multiple routes to reach one Waypoint. It depends on the Route you take. We are purposeful in not identifying *how* each Route is facilitated, but more on why you would use it and what the outcomes and outputs are, which in turn support reaching a Waypoint. Each of the Routes you find here provide insights on some common facilitation techniques. While there is no **right** Route or **right** way to facilitate a Route, we do identify our Default Routes and our facilitator technique favorites. In our Transportation metaphor, Routes are the more specific roads that you will take to navigate from a gas station to a hotel as you travel from City to City.
+  These are the collections of practices and techniques that are facilitated to achieve the Outcomes and Outputs of the various Waypoints for a Stage. It depends on the Route you take. While there is no **right** Route or **right** way to facilitate a Route, we do identify our Default Routes and a few alternatives our facilitators use. In our Transportation metaphor, Routes are the set of turns and roads that you will take to navigate from a gas station to a rest stop.
 
-  [See all Routes.](/routes/)
+  Default Routes for various Stages in our Journey are located on those [Stage](/stages/) pages
+
+## Practices
+  These are the practices and techniques that are facilitated to achieve specific outcomes and outputs. While there is no **right** Route or **right** way to facilitate a practice, we look to share how we like to employ the practice. In our Transportation metaphor, practices are the more specific roads that you will take to navigate from point A to point B along your Route from a gas station to a rest stop. Sometimes it is 1 road, sometimes it is multiple roads you must take to reach your next location.
+
+  [See all Practices.](/practices/)
