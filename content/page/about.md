@@ -31,6 +31,10 @@ We'd love to hear your thoughts about the material presented here or other conte
 
 Alternately, feel free to fork our [github repo](https://github.com/rht-labs/practice-library) and submit a PR of your proposed changes. We use markdown files for our base content that gets rendered for this site. For helpful development setup see our [README](https://github.com/rht-labs/practice-library/blob/master/README.md)
 
+## Style
+
+We're looking to be friendly and also authoritative, comprehensive and also concise. We use the active voice where possible to help guide teams to action. We don't always get it right, though. If you find something that could be clearer or punchier, feel free to send us a merge request!
+
 ## How to Fit These Practices into Your Existing Approach
 While we have our own approach to engagements, we understand that there might be an approach you are already following. So, we place each practice in the British Design Council's Double Diamond model. This is [originally documented here](http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond), although [we like this slightly broader and more detailed walk through](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812). The Double Diamond model is widely used and easily transferable to other Design Thinking models, so regardless of which approach you use, you should be able to see where each practice fits.
 
