@@ -5,7 +5,7 @@ menu: main
 weight: 20
 draft: false
 ---
-This is the Way all of the concepts and terms come together and form our Way of Working. Don't want to read through all of this? visit this video <video to come later>.
+This is the Way all of the concepts and terms come together and form our Way of Working. Short video coming soon.
 
 ![journey](/images/journey-www.png)
 Our framework is built around a transportation metaphor, the idea that you want to be immersed in Red Hat’s culture and technology to take you from one place to another.
