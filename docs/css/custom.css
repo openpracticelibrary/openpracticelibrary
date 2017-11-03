@@ -4,36 +4,41 @@
   display: none;
 }
 
-/* For custom taxonomies, display text instead of a broken icon */
-
-.entry-footer .journeys .screen-reader,
-.entry-footer .stages .screen-reader,
-.entry-footer .waypoints .screen-reader,
-.entry-footer .routes .screen-reader {
-  clip: none;
-  width: auto;
-  height: auto;
-  overflow: visible !important;
-  position: static !important;
-  font-weight: 600;
-}
-
-.entry-footer .journeys .taxonomyTerm-icon,
-.entry-footer .stages .taxonomyTerm-icon,
-.entry-footer .waypoints .taxonomyTerm-icon,
-.entry-footer .routes .taxonomyTerm-icon {
-  display: none;
-}
-
-.practices-list {
+.related-list {
   list-style-type: none;
   margin-left: 0;
 }
 
-.practices-list:last-child {
+.related-list:last-child {
   margin-bottom: 0;
 }
 
-.entry-content a {
-  border-bottom: .125em dashed #000;
+/* Make links more visible */
+
+.entry-content a,
+.list-item a,
+.related-list a {
+  border-bottom: .125em solid #212121;
+}
+
+.entry-nav .related-list a {
+  display: inline;
+  font-style: normal;
+}
+
+.related-list li {
+  margin-top: 1em;
+}
+
+.related-list li:first-child {
+  margin-top: 0;
+}
+
+.list-item a:active,
+.list-item a:focus,
+.list-item a:hover,
+.related-list a:active,
+.related-list a:focus,
+.related-list a:hover {
+    border-bottom-color: #ffcd00;
 }
