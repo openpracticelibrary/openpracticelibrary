@@ -8,14 +8,16 @@ weight: 100
 
 Red Hat Open Innovation Labs is creating an Open Practice Library! The library's source is in [a public GitHub repo](https://github.com/rht-labs/practice-library) and is licensed under [Apache 2.0](https://github.com/rht-labs/practice-library/blob/master/LICENSE).
 
-## Who is this Library Intended for
-While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and techniques, we have a few personas that this information architecture is geared towards.
+## Goals of this Library
+While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and practices, this Open Practice Library has two main goals in mind.
 
-*The Big Picture Person*
-This is the person who has heard of Red Hat and Red Hat Open Innovation Labs and is looking for what they use to accomplish engagement success. They want to know why it is used, pointers on how to facilitate it, when it should be employed, and how it fits with other practices. Whether it is to facilitate the session or bring a facilitator in to facilitate, they are seeking more information on delivery of an engagement.
+### Share the Big Picture
+Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplish engagement success. Learn how practices fit with each other and the way that we take individual Practices to create seamless engagement delivery.
 
-*The Search with Intent Person*
-This is the person who is looking to understand more about a particular Practice or Technique that Red Hat Open Innovation Labs uses. They want to know their perspective on a particular Practice. They are either an experienced facilitator looking for new perspective or have heard about one of the Practices and want to know more. They are not looking for more information about how it fits within a larger engagement, just looking to accomplish a certain outcome/output for their project.
+### Search with Intent
+Share details about a particular practice that Red Hat Open Innovation Labs uses. Know our perspective on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
+
+### We hope that you come for the practices and stay for the strategy of [*The Way We Work*](/way-of-working-summary/).
 
 ## What This Library Is *Not*
 An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
