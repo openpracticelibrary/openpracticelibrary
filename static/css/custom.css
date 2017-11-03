@@ -16,12 +16,29 @@
 /* Make links more visible */
 
 .entry-content a,
-.list-item a {
-  border-bottom: .125em solid #000;
+.list-item a,
+.practices-list a {
+  border-bottom: .125em solid #212121;
+}
+
+.entry-nav .practices-list a {
+  display: inline;
+  font-style: normal;
+}
+
+.practices-list li {
+  margin-top: 1em;
+}
+
+.practices-list li:first-child {
+  margin-top: 0;
 }
 
 .list-item a:active,
 .list-item a:focus,
-.list-item a:hover {
+.list-item a:hover,
+.practices-list a:active,
+.practices-list a:focus,
+.practices-list a:hover {
     border-bottom-color: #ffcd00;
 }
