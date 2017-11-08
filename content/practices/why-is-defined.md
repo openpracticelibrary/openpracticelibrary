@@ -15,7 +15,7 @@ These are proven techniques to define your "Why", but feel free to take your own
 - Define a SMART Goal. We like the way Gojko Adzic articulates this in Impact Mapping[<sup>1</sup>](#footnote-1). We often use [Impact Mapping](/routes/impact-mapping/) as key facilitation technique during the Discovery stage.
 - Define a Problem Statement[<sup>2</sup>](#footnote-2). 18F has a great guide, and the way they articulate the problem statement is perfectly acceptable to start an Impact Map
 
-##External References
+## External References
 
 1. Page 5 is an example [SMART Goal in Impact Mapping](https://www.impactmapping.org/assets/impact_mapping_20121001_sample.pdf)
 2. [Defining a Problem Statement](https://lean-product-design.18f.gov/2-problem-statement/)
