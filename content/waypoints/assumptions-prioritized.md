@@ -7,7 +7,7 @@ journeys: ['disrupt']
 practices: ['impact-mapping', 'vsm-and-mbpm']
 ---
 # Intent of Waypoint
-Want create a prioritized list of hypotheses that support the ability to achieve a goal.
+Want to have agreement on a prioritized list of hypotheses that support the ability to achieve a goal.
 
 ## Outcomes
 
