@@ -11,7 +11,7 @@ Want create hypotheses to support the ability to achieve a goal. To ensure the w
 
 ## Outcomes
 
-- Identified hypotheses that support your goal that follow the I.V.E.S.T. and S.M.A.R.T. principles[<sup>1</sup>](footnote-2)
+- Identified hypotheses that support your goal that follow the I.N.V.E.S.T. and S.M.A.R.T. principles[<sup>1</sup>](footnote-2)
 
 ## External References
 1. <a name="footnote-1"></a>["What is this thing called Business Value" by Christiaan Verwijs](https://blog.agilistic.nl/what-is-this-thing-called-business-value/)
