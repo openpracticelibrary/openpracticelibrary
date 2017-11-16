@@ -8,20 +8,22 @@ stages: ['discovery', 'approach']
 
 ## What is it?
 
-A "Stop the World" event is when somebody on the Team identifies that some of the Acceptance Criteria will not be met or would like to modify a Waypoint(s) based on newer information. The *FULL* Team then works together to find a compromise that is acceptable to them and all involved to still meet the Acceptance Criteria and progress towards the end of the Journey. By the end of the "Stop the World" event, the team should:
+A "Stop the World" event is when somebody on the Team identifies that the engagement is off-course for one reason or another. The *FULL* Team then works together to find a compromise that is acceptable to all and continues progress towards customer success. By the end of the "Stop the World" event, the team should:
 
 - All be in agreement with the proposed compromise
-- Identify actions or changes to be made to the [Waypoints](/terms-defined#waypoints)/[Routes](/terms-defined#routes)
-- Maintain good Psychological Safety[<sup>1</sup>](#footnote-1) amongst the Team
-- Ensure flexibility on facilitation of the techniques by the facilitators
-
+- Identify actions or changes and owners
+- Maintain good Psychological Safety[<sup>1</sup>](#footnote-1) among the Team
 
 ## Why use "Stop the World" events?
 
--
-
+- There is an aspect of the engagement that is found to be missing. A key output or outcome that supports customer success.
+- A practice or an outcome needs to change based on new customer information. This change is one that would fundamentally change an output or outcome previously agreed to.
+- The delivery team skillset changes for any reason that would affect customer success.
+- Priority with the customer fundamentally changes the previously agreed direction of the delivery team.
+- An previously agreed to input to a practice is not met or will not be met
 
 ## Related Practices
+
 - Closely related to how agile teams "Swarm" around problems to resolve them quickly
 
 ## Who do you need?
@@ -33,16 +35,18 @@ A "Stop the World" event is when somebody on the Team identifies that some of th
 
 - Until Consensus is reached
 
-## Difficultly
+## Difficulty
+
 - Facilitator: Difficult
 - Participants: Moderate
 
 ## Facilitation Materials Needed
 
+- Comfortable setting to hold a conversation among just team members
+- Additional needs determined by the team to hold the conversation
+
 ## Process Phase
 Any Time
-
-## Additional Resources for Red Hatters (we're working to share more broadly)
 
 ## External Resources
 

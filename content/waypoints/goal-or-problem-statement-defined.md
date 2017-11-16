@@ -7,7 +7,7 @@ stages: ['discovery']
 journeys: ['disrupt']
 ---
 ## Intent of Waypoint
-Want to be sure there is a clear and easily understood statement regarding why the future work is needed, before beginning the work. Residencies need a purpose that is easily understood to help drive the most innovative and quick solutions.
+Want to be sure there is a clear and easily understood statement regarding why the future work is needed, before beginning the work. To work effectively, there needs to be a purpose that is easily understood to help drive the most innovative and quick solutions.
 
 ## Outcomes
 
