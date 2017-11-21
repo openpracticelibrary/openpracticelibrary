@@ -5,5 +5,15 @@ draft: false
 stages: ['discovery']
 journeys: ['disrupt']
 ---
-## ToDo
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Intent of Waypoint
+Want to understand what constraints that a customer has when it comes to the engagement. Constraints are things like:
+
+- Technology products that you can/can't use
+- Specific architectures
+- Target environments during and after engagement
+- Specific teams or skillsets
+
+## Outcomes
+
+- Documented constraints that affect the engagement
+- Documented decisions about the engagement
