@@ -98,7 +98,8 @@ Outcomes  The Goal/Problem Statement is:  Business Value1 focused Documented and
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to understand what constraints that a customer has when it comes to the engagement. Constraints are things like:
+ Technology products that you can/can&amp;rsquo;t use Specific architectures Target environments during and after engagement Specific teams or skillsets  Outcomes  Documented constraints that affect the engagement Documented decisions about the engagement  </description>
     </item>
     
     <item>
@@ -244,6 +245,16 @@ Proven Ways to Define a Why These are proven techniques to define your &amp;ldqu
       <guid>https://rht-labs.github.io/practice-library/practices/user-story-mapping/</guid>
       <description>What is it? User Story Mapping is an evolution of the traditional Agile backlog, made popular by Jeff Patton in 20081. It&amp;rsquo;s an effective practice for creating lightweight release plans that can drive standard Agile delivery practices. At the end of user story mapping, you should have:
  A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window.</description>
+    </item>
+    
+    <item>
+      <title>Social Contract</title>
+      <link>https://rht-labs.github.io/practice-library/practices/social-contract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/practices/social-contract/</guid>
+      <description>What is it? The Social Contract is a simple yet highly effective manner to enable team autonomy and self accountability. It aims to create a working agreement by the team, for the team. This is done by identifying behaviors that they desire to see from their teammates. To effectively use this practice you should look to create the following outcomes:
+ Publicly display the working agreement Revisit it often and update it as necessary Nobody is above the agreement The team should holds each other accountable to the behaviors they agree upon  Why use a Social Contract?</description>
     </item>
     
   </channel>

@@ -45,7 +45,7 @@ User Story Mapping is an evolution of the traditional Agile backlog, made popula
 - Session can be done on different days
 
 
-## Difficultly
+## Difficulty
 - Facilitator: Easy
 - Participants: Easy
 

@@ -35,7 +35,7 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 - Done as documented by Karen Martin, these are 2-3 day, dedicated workshops.
 - Labs team is currently working on more abbreviated formats that fit our delivery model
 
-## Difficultly
+## Difficulty
 
 - Facilitator: Hard
 - Participants: Medium to Hard

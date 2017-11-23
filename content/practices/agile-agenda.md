@@ -38,7 +38,7 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 - ~10 min prep assuming you already have an agenda in mind
 
 
-## Difficultly
+## Difficulty
 - Facilitator: Easy
 - Participants: Easy
 

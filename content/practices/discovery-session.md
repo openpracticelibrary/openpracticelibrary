@@ -36,7 +36,7 @@ TODO
 TODO
 
 
-## Difficultly
+## Difficulty
 
 TODO
 

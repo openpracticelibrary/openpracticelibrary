@@ -45,7 +45,7 @@ For the shortened variation Labs uses:
 
 For the executive level session format, see the Impact Mapping book[<sup>1</sup>](#footnote-1):
 
-## Difficultly
+## Difficulty
 
 - Facilitator: Moderate
 - Participants: Easy
