@@ -5,9 +5,10 @@ baseURL = "https://rht-labs.github.io/practice-library/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "minimo"
-# https://git.io/vXzj6
+# Why "docs" and not "public"? https://git.io/vXzj6
 publishDir = "docs"
 canonifyURLs = true
+googleAnalytics = "UA-111461618-1"
 
 [params.assets]
 customCSS = ["css/custom.css"]
