@@ -41,7 +41,7 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - Wall is kept up over the course of 1-5 days for active participation
 
 
-## Difficultly
+## Difficulty
 - Facilitator: Easy
 - Participants: Easy
 

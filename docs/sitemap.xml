@@ -118,7 +118,7 @@
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/waypoints/why-is-defined/</loc>
+    <loc>https://rht-labs.github.io/practice-library/practices/why-is-defined/</loc>
     <lastmod>2017-09-06T00:00:00-05:00</lastmod>
   </url>
   
@@ -156,6 +156,10 @@
     <loc>https://rht-labs.github.io/practice-library/page/</loc>
     <lastmod>2017-11-03T09:15:17-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/practices/social-contract/</loc>
   </url>
   
   <url>

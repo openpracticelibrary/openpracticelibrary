@@ -49,7 +49,9 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/stages/approach/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>What is this Stage The Approach Stage is where one looks to distill what was learned during conversations that occurred during the Discovery Session. This is a customized approach to accelerate and progress towards the goal or problem statement.
+At the end of this stage you should have the following outcomes:
+ Key Residency Assumptions selected Approach to achieve Key Residency Assumptions created/shared Written Contract for work between interested parties  Who Participates Here are those who need to be included during this stage:</description>
     </item>
     
     <item>
@@ -67,7 +69,8 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-prioritized/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to have agreement on a prioritized list of hypotheses that support the ability to achieve a goal.
+Outcomes  Prioritized list of hypotheses  </description>
     </item>
     
     <item>
@@ -85,7 +88,8 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/goal-or-problem-statement-defined/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to be sure there is a clear and easily understood statement regarding why the future work is needed, before beginning the work. To work effectively, there needs to be a purpose that is easily understood to help drive the most innovative and quick solutions.
+Outcomes  The Goal/Problem Statement is:  Business Value1 focused Documented and Shared openly Measurable (ideally with repeatable metrics) Easily explained in conversation without visual aids  Consensus that the Goal/Problem Statement is the correct one to work on  External References  &amp;ldquo;What is this thing called Business Value&amp;rdquo; by Christiaan Verwijs  </description>
     </item>
     
     <item>
@@ -94,7 +98,8 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to understand what constraints that a customer has when it comes to the engagement. Constraints are things like:
+ Technology products that you can/can&amp;rsquo;t use Specific architectures Target environments during and after engagement Specific teams or skillsets  Outcomes  Documented constraints that affect the engagement Documented decisions about the engagement  </description>
     </item>
     
     <item>
@@ -121,7 +126,8 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Thu, 26 Oct 2017 16:20:14 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/practices/stop-the-world-event/</guid>
-      <description>What is it? A &amp;ldquo;Stop the World&amp;rdquo; event is when somebody on the Team identifies that some of the Acceptance Criteria will not be met or would like to modify a Waypoint(s) based on newer information. The FULL Team then works together to find a compromise that is acceptable to them and all involved to still meet the Acceptance Criteria and progress towards the end of the Journey. By the end of the &amp;ldquo;Stop the World&amp;rdquo; event, the team should:</description>
+      <description>What is it? A &amp;ldquo;Stop the World&amp;rdquo; event is when somebody on the Team identifies that the engagement is off-course for one reason or another. The FULL Team then works together to find a compromise that is acceptable to all and continues progress towards customer success. By the end of the &amp;ldquo;Stop the World&amp;rdquo; event, the team should:
+ All be in agreement with the proposed compromise Identify actions or changes and owners Maintain good Psychological Safety1 among the Team  Why use &amp;ldquo;Stop the World&amp;rdquo; events?</description>
     </item>
     
     <item>
@@ -140,7 +146,8 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</guid>
-      <description></description>
+      <description> Intent of Waypoint Want create hypotheses to support the ability to achieve a goal. To ensure the work being done is progressing the intended goal, you need clear hypotheses to either validate or invalidate.
+Outcomes  Identified hypotheses that support your goal that follow the I.N.V.E.S.T. and S.M.A.R.T. principles1  External References  &amp;ldquo;What is this thing called Business Value&amp;rdquo; by Christiaan Verwijs &amp;ldquo;INVEST in Good Stories, and SMART Tasks&amp;rdquo;  </description>
     </item>
     
     <item>
@@ -149,7 +156,8 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
       <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/stages/discovery/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>What is this Stage? The Discovery Stage is where one looks to obtain additional information about the potential future engagement. Bringing together people from technical and business arms of the house we look to come to a shared understanding of the following:
+ Business Objectives and key business drivers  What metrics or measurable outcomes will be used  High-level view of existing technology, practices, and any constraints  At the end of this stage you should have the following outcomes:</description>
     </item>
     
     <item>
@@ -181,10 +189,10 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
     
     <item>
       <title>&#34;Why&#34; is Defined</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/why-is-defined/</link>
+      <link>https://rht-labs.github.io/practice-library/practices/why-is-defined/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/waypoints/why-is-defined/</guid>
+      <guid>https://rht-labs.github.io/practice-library/practices/why-is-defined/</guid>
       <description>It&amp;rsquo;s really surprising how often organizations fail to communicate &amp;ldquo;Why&amp;rdquo; work is important. At Labs, we want to make the &amp;ldquo;Why&amp;rdquo; explicit from day 1. Everything that happens on our Journey after this point should tie by to this &amp;ldquo;Why.&amp;rdquo;
 Proven Ways to Define a Why These are proven techniques to define your &amp;ldquo;Why&amp;rdquo;, but feel free to take your own approach if it
  Define a SMART Goal. We like the way Gojko Adzic articulates this in Impact Mapping1.</description>
@@ -237,6 +245,16 @@ Proven Ways to Define a Why These are proven techniques to define your &amp;ldqu
       <guid>https://rht-labs.github.io/practice-library/practices/user-story-mapping/</guid>
       <description>What is it? User Story Mapping is an evolution of the traditional Agile backlog, made popular by Jeff Patton in 20081. It&amp;rsquo;s an effective practice for creating lightweight release plans that can drive standard Agile delivery practices. At the end of user story mapping, you should have:
  A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window.</description>
+    </item>
+    
+    <item>
+      <title>Social Contract</title>
+      <link>https://rht-labs.github.io/practice-library/practices/social-contract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/practices/social-contract/</guid>
+      <description>What is it? The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. And between the team and its management. This is by identifying behaviors that they desire to see from their teammates and managers. To effectively use this practice you should look to create the following outcomes:
+ Public display of the social contract Revisit the social contract often and update it as necessary Nobody is above the contract The team agreed holds each other accountable to the contract  Why use a Social Contract?</description>
     </item>
     
   </channel>

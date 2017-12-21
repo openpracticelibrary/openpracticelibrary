@@ -26,7 +26,8 @@
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-prioritized/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to have agreement on a prioritized list of hypotheses that support the ability to achieve a goal.
+Outcomes  Prioritized list of hypotheses  </description>
     </item>
     
     <item>
@@ -44,7 +45,8 @@
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/goal-or-problem-statement-defined/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to be sure there is a clear and easily understood statement regarding why the future work is needed, before beginning the work. To work effectively, there needs to be a purpose that is easily understood to help drive the most innovative and quick solutions.
+Outcomes  The Goal/Problem Statement is:  Business Value1 focused Documented and Shared openly Measurable (ideally with repeatable metrics) Easily explained in conversation without visual aids  Consensus that the Goal/Problem Statement is the correct one to work on  External References  &amp;ldquo;What is this thing called Business Value&amp;rdquo; by Christiaan Verwijs  </description>
     </item>
     
     <item>
@@ -53,7 +55,8 @@
       <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description> Intent of Waypoint Want to understand what constraints that a customer has when it comes to the engagement. Constraints are things like:
+ Technology products that you can/can&amp;rsquo;t use Specific architectures Target environments during and after engagement Specific teams or skillsets  Outcomes  Documented constraints that affect the engagement Documented decisions about the engagement  </description>
     </item>
     
     <item>
@@ -80,18 +83,8 @@
       <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#34;Why&#34; is Defined</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/why-is-defined/</link>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/why-is-defined/</guid>
-      <description>It&amp;rsquo;s really surprising how often organizations fail to communicate &amp;ldquo;Why&amp;rdquo; work is important. At Labs, we want to make the &amp;ldquo;Why&amp;rdquo; explicit from day 1. Everything that happens on our Journey after this point should tie by to this &amp;ldquo;Why.&amp;rdquo;
-Proven Ways to Define a Why These are proven techniques to define your &amp;ldquo;Why&amp;rdquo;, but feel free to take your own approach if it
- Define a SMART Goal. We like the way Gojko Adzic articulates this in Impact Mapping1.</description>
+      <description> Intent of Waypoint Want create hypotheses to support the ability to achieve a goal. To ensure the work being done is progressing the intended goal, you need clear hypotheses to either validate or invalidate.
+Outcomes  Identified hypotheses that support your goal that follow the I.N.V.E.S.T. and S.M.A.R.T. principles1  External References  &amp;ldquo;What is this thing called Business Value&amp;rdquo; by Christiaan Verwijs &amp;ldquo;INVEST in Good Stories, and SMART Tasks&amp;rdquo;  </description>
     </item>
     
   </channel>

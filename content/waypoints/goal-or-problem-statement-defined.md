@@ -2,9 +2,21 @@
 title: "Goal or Problem Statement Defined"
 date: 2017-11-01T14:43:54-04:00
 draft: false
+practices: ['event-storming', 'impact-mapping', 'vsm-and-mbpm']
 stages: ['discovery']
 journeys: ['disrupt']
-practices: ['event-storming', 'impact-mapping', 'vsm-and-mbpm']
 ---
-## ToDo
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Intent of Waypoint
+Want to be sure there is a clear and easily understood statement regarding why the future work is needed, before beginning the work. To work effectively, there needs to be a purpose that is easily understood to help drive the most innovative and quick solutions.
+
+## Outcomes
+
+- The Goal/Problem Statement is:
+  - Business Value[<sup>1</sup>](#footnote-1) focused
+  - Documented and Shared openly
+  - Measurable (ideally with repeatable metrics)
+  - Easily explained in conversation without visual aids
+- Consensus that the Goal/Problem Statement is the correct one to work on
+
+## External References
+1. <a name="footnote-1"></a>["What is this thing called Business Value" by Christiaan Verwijs](https://blog.agilistic.nl/what-is-this-thing-called-business-value/)
