@@ -12,7 +12,7 @@ It's really surprising how often organizations fail to communicate "Why" work is
 
 These are proven techniques to define your "Why", but feel free to take your own approach if it
 
-- Define a SMART Goal. We like the way Gojko Adzic articulates this in Impact Mapping[<sup>1</sup>](#footnote-1). We often use [Impact Mapping](/practices/impact-mapping/) as key facilitation technique during the Discovery stage.
+- Define a SMART Goal. We like the way Gojko Adzic articulates this in Impact Mapping[<sup>1</sup>](#footnote-1). We often use [Impact Mapping](/routes/impact-mapping/) as key facilitation technique during the Discovery stage.
 - Define a Problem Statement[<sup>2</sup>](#footnote-2). 18F has a great guide, and the way they articulate the problem statement is perfectly acceptable to start an Impact Map
 
 ## External References
