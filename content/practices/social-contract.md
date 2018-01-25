@@ -1,5 +1,5 @@
 ---
-date: 2017-011-21T00:00:00-05:00
+date: 2017-11-21T00:00:00-05:00
 title: Social Contract
 draft: false
 ---
