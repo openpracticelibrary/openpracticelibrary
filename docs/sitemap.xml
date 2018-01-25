@@ -4,7 +4,27 @@
   
   <url>
     <loc>https://rht-labs.github.io/practice-library/</loc>
-    <lastmod>2017-10-19T17:03:59-04:00</lastmod>
+    <lastmod>2017-11-03T09:15:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/journeys/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/stages/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/way-of-working/</loc>
+    <lastmod>2017-11-03T09:15:17-04:00</lastmod>
   </url>
   
   <url>
@@ -13,13 +33,53 @@
   </url>
   
   <url>
+    <loc>https://rht-labs.github.io/practice-library/terms-defined/</loc>
+    <lastmod>2017-10-26T11:15:17-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rht-labs.github.io/practice-library/about/</loc>
     <lastmod>2017-10-19T17:03:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rht-labs.github.io/practice-library/practices/social-contract/</loc>
-    <lastmod>2017-11-21T00:00:00-05:00</lastmod>
+    <loc>https://rht-labs.github.io/practice-library/stages/approach/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/approach-presented/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/assumptions-prioritized/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/deal-negotiated-and-closed/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/goal-or-problem-statement-defined/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/residency-key-assumptions-selected/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/solution-options-identified/</loc>
+    <lastmod>2017-11-01T14:43:54-04:00</lastmod>
   </url>
   
   <url>
@@ -30,6 +90,26 @@
   <url>
     <loc>https://rht-labs.github.io/practice-library/practices/realtime-retrospective/</loc>
     <lastmod>2017-10-26T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/stages/discovery/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/journeys/disrupt/</loc>
+    <lastmod>2017-10-19T16:43:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/practices/chartering/</loc>
+    <lastmod>2017-09-12T00:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -74,8 +154,12 @@
   
   <url>
     <loc>https://rht-labs.github.io/practice-library/page/</loc>
-    <lastmod>2017-10-19T17:03:59-04:00</lastmod>
+    <lastmod>2017-11-03T09:15:17-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rht-labs.github.io/practice-library/practices/social-contract/</loc>
   </url>
   
   <url>
