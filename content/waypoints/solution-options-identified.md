@@ -1,7 +1,7 @@
 ---
 title: "Solution Options Identified"
 date: 2017-11-01T14:43:54-04:00
-draft: true
+draft: false
 stages: ['approach']
 journeys: ['disrupt']
 ---
