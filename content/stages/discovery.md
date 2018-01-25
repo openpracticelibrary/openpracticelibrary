@@ -1,7 +1,7 @@
 ---
 title: "Discovery"
 date: 2017-10-19T16:43:54-04:00
-draft: false
+draft: true
 waypoints: ['assumptions-identified', 'assumptions-prioritized', 'goal-or-problem-statement-defined', 'operational-constraints-identified']
 journeys: ['disrupt']
 practices: ['event-storming', 'impact-mapping', 'vsm-and-mbpm', 'discovery-session', 'chartering', 'agile-agenda', 'realtime-retrospective']
