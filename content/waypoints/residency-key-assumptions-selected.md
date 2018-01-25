@@ -1,7 +1,7 @@
 ---
 title: "Residency Key Assumptions Selected"
 date: 2017-11-01T14:43:54-04:00
-draft: false
+draft: true
 stages: ['approach']
 journeys: ['disrupt']
 ---

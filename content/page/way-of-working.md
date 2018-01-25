@@ -3,7 +3,7 @@ title: "Way of Working"
 date: 2017-11-03T09:15:17-04:00
 menu: main
 weight: 20
-draft: false
+draft: true
 ---
 ## Quick Navigation
 

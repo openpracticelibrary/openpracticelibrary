@@ -23,7 +23,7 @@ User Story Mapping is an evolution of the traditional Agile backlog, made popula
 
 ## Related Practices
 
-- User Story Mapping is a great way to create an Agile delivery plan for a business process designed with [Event Storming](/routes/event-storming/)
+- User Story Mapping is a great way to create an Agile delivery plan for a business process designed with [Event Storming](/practices/event-storming/)
 - Program Increment Planning[<sup>2</sup>](#footnote-2) in Scaled Agile Framework leverages many of the ideas behind User Story Mapping
 - Site Mapping[<sup>3</sup>](#footnote-3) should provide the backbone of the User Story Map in UI driven projects
 
