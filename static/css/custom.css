@@ -13,6 +13,10 @@
   margin-bottom: 0;
 }
 
+.entry-cover figcaption {
+  display: none;
+}
+
 /* Make links more visible */
 
 .entry-content a,
