@@ -29,7 +29,7 @@ We’ve always known that every journey is different. Every customer is differen
 
 This is the idea of a [Waypoint](/waypoints/). Each Waypoint has a set of outcomes and outputs that are used to determine when the engagement reaches a certain point. No time requirements or checklist of “to dos” are identified. The outcome and output content is what matters, not HOW that gets achieved.
 
-It is important to note that these are not set in stone and can change using a practice we call [Stop The World](/practice/stop-the-world-event/).
+It is important to note that these are not set in stone and can change using a practice we call [Stop The World](/practices/stop-the-world-event/).
 
 ![journey](/images/routes-www.png)
 The last concept to introduce is the Route. It’s the most concrete concept - it identifies what the set of practices you’ll use to navigate between Waypoints, but you can also add other information as needed.
