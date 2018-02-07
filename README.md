@@ -2,7 +2,7 @@
 
 ## About
 
-Red Hat Open Innovation Labs team is creating an open practice library! To learn more, see [about.md](content/page/about.md).
+The [Open Practice Library](https://rht-labs.github.io/practice-library/) provides information about practices and ideas that we use here at Red Hat Open Innovation Labs. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
 
 ## Adding Content
 
