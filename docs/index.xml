@@ -6,31 +6,10 @@
     <description>Recent content in Home on Open Practice Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2017 09:15:17 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 17:03:59 -0400</lastBuildDate>
     
 	<atom:link href="https://rht-labs.github.io/practice-library/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Way of Working</title>
-      <link>https://rht-labs.github.io/practice-library/way-of-working/</link>
-      <pubDate>Fri, 03 Nov 2017 09:15:17 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/way-of-working/</guid>
-      <description>Quick Navigation  Terms Defined Journey Types Stage Types Waypoint Types  This is the Way all of the concepts and terms come together and form our Way of Working. Short video coming soon.
-Our framework is built around a transportation metaphor, the idea that you want to be immersed in Red Hat’s culture and technology to take you from one place to another.
-And thus we refer to every customer engagement as a Journey.</description>
-    </item>
-    
-    <item>
-      <title>Terms Defined</title>
-      <link>https://rht-labs.github.io/practice-library/terms-defined/</link>
-      <pubDate>Thu, 26 Oct 2017 11:15:17 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/terms-defined/</guid>
-      <description>Journeys These are the paths that our customers typically take when joining us on a Red Hat Open Innovation Labs engagement. Journeys represent the entirety of the engagement; from the beginning conversations to the sad good-byes. Using a Transportation metaphor, Journeys are the experiences you get, fun you had and what you learned when traveling from a West Coast City to an East Coast City with friends.
-See all Journeys.</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -38,86 +17,18 @@ See all Journeys.</description>
       <pubDate>Thu, 19 Oct 2017 17:03:59 -0400</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/about/</guid>
-      <description>Red Hat Open Innovation Labs is creating an Open Practice Library! The library&amp;rsquo;s source is in a public GitHub repo and is licensed under Apache 2.0.
-Goals of this Library While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and practices, this Open Practice Library has two main goals in mind.
-Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplish engagement success.</description>
+      <description>Goals of this Library While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and practices, this Open Practice Library has two main goals in mind.
+Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplish engagement success. Learn how practices fit with each other and the way that we take individual Practices to create seamless engagement delivery.</description>
     </item>
     
     <item>
-      <title>Approach</title>
-      <link>https://rht-labs.github.io/practice-library/stages/approach/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
+      <title>Social Contract</title>
+      <link>https://rht-labs.github.io/practice-library/practices/social-contract/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://rht-labs.github.io/practice-library/stages/approach/</guid>
-      <description>What is this Stage The Approach Stage is where one looks to distill what was learned during conversations that occurred during the Discovery Session. This is a customized approach to accelerate and progress towards the goal or problem statement.
-At the end of this stage you should have the following outcomes:
- Key Residency Assumptions selected Approach to achieve Key Residency Assumptions created/shared Written Contract for work between interested parties  Who Participates Here are those who need to be included during this stage:</description>
-    </item>
-    
-    <item>
-      <title>Approach Presented</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/approach-presented/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/approach-presented/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Assumptions Prioritized</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/assumptions-prioritized/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-prioritized/</guid>
-      <description> Intent of Waypoint Want to have agreement on a prioritized list of hypotheses that support the ability to achieve a goal.
-Outcomes  Prioritized list of hypotheses  </description>
-    </item>
-    
-    <item>
-      <title>Deal Negotiated and Closed</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/deal-negotiated-and-closed/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/deal-negotiated-and-closed/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Goal or Problem Statement Defined</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/goal-or-problem-statement-defined/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/goal-or-problem-statement-defined/</guid>
-      <description> Intent of Waypoint Want to be sure there is a clear and easily understood statement regarding why the future work is needed, before beginning the work. To work effectively, there needs to be a purpose that is easily understood to help drive the most innovative and quick solutions.
-Outcomes  The Goal/Problem Statement is:  Business Value1 focused Documented and Shared openly Measurable (ideally with repeatable metrics) Easily explained in conversation without visual aids  Consensus that the Goal/Problem Statement is the correct one to work on  External References  &amp;ldquo;What is this thing called Business Value&amp;rdquo; by Christiaan Verwijs  </description>
-    </item>
-    
-    <item>
-      <title>Operational Constraints Identified</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/operational-constraints-identified/</guid>
-      <description> Intent of Waypoint Want to understand what constraints that a customer has when it comes to the engagement. Constraints are things like:
- Technology products that you can/can&amp;rsquo;t use Specific architectures Target environments during and after engagement Specific teams or skillsets  Outcomes  Documented constraints that affect the engagement Documented decisions about the engagement  </description>
-    </item>
-    
-    <item>
-      <title>Residency Key Assumptions Selected</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/residency-key-assumptions-selected/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/residency-key-assumptions-selected/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Solution Options Identified</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/solution-options-identified/</link>
-      <pubDate>Wed, 01 Nov 2017 14:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/solution-options-identified/</guid>
-      <description>ToDo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://rht-labs.github.io/practice-library/practices/social-contract/</guid>
+      <description>What is it? The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. And between the team and its management. This is by identifying behaviors that they desire to see from their teammates and managers. To effectively use this practice you should look to create the following outcomes:
+ Public display of the social contract Revisit the social contract often and update it as necessary Nobody is above the contract The team agreed holds each other accountable to the contract  Why use a Social Contract?</description>
     </item>
     
     <item>
@@ -138,44 +49,6 @@ Outcomes  The Goal/Problem Statement is:  Business Value1 focused Documented and
       <guid>https://rht-labs.github.io/practice-library/practices/realtime-retrospective/</guid>
       <description>Realtime Retrospective What is it? The Realtime Retrospective technique was created by Emily Webber1 in the UK. This is a great way to capture feedback from a large number of participants in realtime over an extended period of time. By the middle/end of the Realtime Retrospective you should have:
  Feedback in a timeline like fashion that are both positive and negative things A capture of the mood and reaction of people over the course of time in a realtime manner Lots of sticky notes on a wall  Why use Realtime Retrospective?</description>
-    </item>
-    
-    <item>
-      <title>Assumptions Identified</title>
-      <link>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</link>
-      <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/waypoints/assumptions-identified/</guid>
-      <description> Intent of Waypoint Want create hypotheses to support the ability to achieve a goal. To ensure the work being done is progressing the intended goal, you need clear hypotheses to either validate or invalidate.
-Outcomes  Identified hypotheses that support your goal that follow the I.N.V.E.S.T. and S.M.A.R.T. principles1  External References  &amp;ldquo;What is this thing called Business Value&amp;rdquo; by Christiaan Verwijs &amp;ldquo;INVEST in Good Stories, and SMART Tasks&amp;rdquo;  </description>
-    </item>
-    
-    <item>
-      <title>Discovery</title>
-      <link>https://rht-labs.github.io/practice-library/stages/discovery/</link>
-      <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/stages/discovery/</guid>
-      <description>What is this Stage? The Discovery Stage is where one looks to obtain additional information about the potential future engagement. Bringing together people from technical and business arms of the house we look to come to a shared understanding of the following:
- Business Objectives and key business drivers  What metrics or measurable outcomes will be used  High-level view of existing technology, practices, and any constraints  At the end of this stage you should have the following outcomes:</description>
-    </item>
-    
-    <item>
-      <title>Disrupt</title>
-      <link>https://rht-labs.github.io/practice-library/journeys/disrupt/</link>
-      <pubDate>Thu, 19 Oct 2017 16:43:54 -0400</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/journeys/disrupt/</guid>
-      <description>This is a style of journey that is closely associated with rapidly co-creating a product. It is used when you wish to create an internal application/service or the next new mobile application that will change the world. Red Hat will accomplish this using the methods and practices of Red Hat Open Innovation Labs alongside you.</description>
-    </item>
-    
-    <item>
-      <title>Chartering</title>
-      <link>https://rht-labs.github.io/practice-library/practices/chartering/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/practices/chartering/</guid>
-      <description> TODO </description>
     </item>
     
     <item>
@@ -245,16 +118,6 @@ Proven Ways to Define a Why These are proven techniques to define your &amp;ldqu
       <guid>https://rht-labs.github.io/practice-library/practices/user-story-mapping/</guid>
       <description>What is it? User Story Mapping is an evolution of the traditional Agile backlog, made popular by Jeff Patton in 20081. It&amp;rsquo;s an effective practice for creating lightweight release plans that can drive standard Agile delivery practices. At the end of user story mapping, you should have:
  A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window.</description>
-    </item>
-    
-    <item>
-      <title>Social Contract</title>
-      <link>https://rht-labs.github.io/practice-library/practices/social-contract/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/practices/social-contract/</guid>
-      <description>What is it? The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. And between the team and its management. This is by identifying behaviors that they desire to see from their teammates and managers. To effectively use this practice you should look to create the following outcomes:
- Public display of the social contract Revisit the social contract often and update it as necessary Nobody is above the contract The team agreed holds each other accountable to the contract  Why use a Social Contract?</description>
     </item>
     
   </channel>
