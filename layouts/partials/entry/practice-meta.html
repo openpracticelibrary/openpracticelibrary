@@ -3,42 +3,44 @@
   This is tricky because of limitations on variable scope, but we could work
   around those limitations with hugo's Scratch function.
   https://gohugo.io/templates/introduction/#variables
+
+  We've commented out journeys, stages, and waypoints in this partial because
+  that material is in draft status and isn't visible to the public. Once that
+  content has been published, we can uncomment those items.
 -->
-<div class="practices">
-  {{ if .Params.journeys }}
-    <h3>Related Journeys</h3>
-    <ul class="related-list">
-      {{ range $item := .Params.journeys }}
-        <li><a href="/journeys/{{ $item }}">{{ $item | humanize | title }}</a></li>
-      {{ end }}
-    </ul>
-  {{ end }}
 
-  {{ if .Params.stages }}
-    <h3>Related Stages</h3>
-    <ul class="related-list">
-      {{ range $item := .Params.stages }}
-        <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
-      {{ end }}
-    </ul>
-  {{ end }}
+<!-- {{ if .Params.journeys }}
+  <h3>Related Journeys</h3>
+  <ul class="related-list">
+    {{ range $item := .Params.journeys }}
+      <li><a href="/journeys/{{ $item }}">{{ $item | humanize | title }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
 
-  {{ if .Params.waypoints }}
-    <h3>Related Waypoints</h3>
-    <ul class="related-list">
-      {{ range $item := .Params.waypoints }}
-        <li><a href="/waypoints/{{ $item }}">{{ $item | humanize | title }}</a></li>
-      {{ end }}
-    </ul>
-  {{ end }}
+{{ if .Params.stages }}
+  <h3>Related Stages</h3>
+  <ul class="related-list">
+    {{ range $item := .Params.stages }}
+      <li><a href="/stages/{{ $item }}">{{ $item | humanize | title }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
 
-  {{ if .Params.practices }}
-    <h3>Related Practices</h3>
-    <ul class="related-list">
-      {{ range $item := .Params.practices }}
-        <li><a href="/practices/{{ $item }}">{{ $item | humanize | title }}</a></li>
-      {{ end }}
-    </ul>
-  {{ end }}
+{{ if .Params.waypoints }}
+  <h3>Related Waypoints</h3>
+  <ul class="related-list">
+    {{ range $item := .Params.waypoints }}
+      <li><a href="/waypoints/{{ $item }}">{{ $item | humanize | title }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }} -->
 
-</div>
+{{ if .Params.practices }}
+  <h3>Related Practices</h3>
+  <ul class="related-list">
+    {{ range $item := .Params.practices }}
+      <li><a href="/practices/{{ $item }}">{{ $item | humanize | title }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}

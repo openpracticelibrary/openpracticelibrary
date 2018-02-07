@@ -8,8 +8,8 @@ cover:
   style: full
 ---
 
-Welcome to the [Red Hat Open Innovation Labs](https://www.redhat.com/en/open-innovation-labs) Practice Library.
+![route sketch](/images/route-sketch.png)
 
-Here, we look to provide information on the [Practices and Techniques](/practices) that are used during our engagements.
+Welcome to the [Red Hat Open Innovation Labs](https://www.redhat.com/en/open-innovation-labs) Practice Library. Here, we look to provide information on the [Practices and Techniques](/practices) that are used during our engagements.
 
-If you wish to understand how we employ those Practices within the overall consulting engagements we describe as '[Journeys](/journeys/)', please visit our [Way of Working](/way-of-working/) summary. We also have a list of all of our [concept definitions](/terms-defined/).
+The library's source is in [a public GitHub repo](https://github.com/rht-labs/practice-library) and is licensed under [Apache 2.0](https://github.com/rht-labs/practice-library/blob/master/LICENSE). Feedback and contributions are welcome! [Learn more about contributing](/about/#contributing).

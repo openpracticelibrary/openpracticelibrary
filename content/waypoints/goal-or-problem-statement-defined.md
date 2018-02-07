@@ -1,7 +1,7 @@
 ---
 title: "Goal or Problem Statement Defined"
 date: 2017-11-01T14:43:54-04:00
-draft: false
+draft: true
 practices: ['event-storming', 'impact-mapping', 'vsm-and-mbpm']
 stages: ['discovery']
 journeys: ['disrupt']

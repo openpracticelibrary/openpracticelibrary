@@ -1,7 +1,7 @@
 ---
 title: "Approach"
 date: 2017-11-01T14:43:54-04:00
-draft: false
+draft: true
 waypoints: ['residency-key-assumptions-selected', 'solution-options-identified', 'approach-presented', 'deal-negotiated-and-closed']
 journeys: ['disrupt']
 ---
