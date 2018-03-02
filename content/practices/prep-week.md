@@ -3,6 +3,7 @@ date: 2018-02-16T00:00:00-05:00
 title: Prep Week
 draft: false
 stages: ['approach']
+practices: ['design-week']
 ---
 
 ## What is it?
@@ -10,7 +11,7 @@ stages: ['approach']
 The Prep Week is a week of internal preparation before immediately before beginning a residency. It allows the team leading the engagement to immerse themselves in the particulars of the work before it kicks off. At the end of the prep week, you should have team consensus on:
 
 - what happened during discovery and the expectations the customer has for delivery
-- a bullet point agenda for the design week, with facilitators assigned for each item
+- a bullet point agenda for the design week, with facilitators assigned for each item and a rough timeline
 - a process discovery and design technique (e.g. [event storming](event-storming.md), [vsm or mbpm](vsm-and-mbpm.md), etc)
 - the key characteristics of your backlog (e.g are you planning How Might We's or User Stories, will the backlog be sliced or rank prioritized)
 - the types of technologies that will be used, and in particular an assessment of what areas are high risk
@@ -20,13 +21,11 @@ The Prep Week is a week of internal preparation before immediately before beginn
 
 ## Why use a Prep Week?
 
-- every residency is different. the series of conversations often takes the same progression (e.g. goals -> process -> delivery plan), but the level of abstraction and subject matter can vary greatly. we need time to tailor make the [design week](design-week.md) to the customer's needs
-- the way of working in Open Innovation Labs can very different than way even experienced consultants are working. a prep week gives everyone a chase to set a common baseline before engaging the customer
-- it affords a safe place for team building to begin 
+- Every residency is different. The series of conversations often takes the same progression (e.g. goals -> process -> delivery plan), but the level of abstraction and subject matter can vary greatly. We need time to tailor make the [design week](design-week.md) to the customer's needs.
+- The way of working in Open Innovation Labs can very different than way even experienced consultants are working. A prep week gives everyone a chase to set a common baseline before engaging the customer.
+- It affords a safe place for team building to begin.
+- It provides a chance to learn about technologies/methods that are new to some or all team members.
 
-## Related Practices
-
-- the [design week](design-week.md)
 
 ## Who do you need?
 
@@ -36,7 +35,7 @@ The Prep Week is a week of internal preparation before immediately before beginn
 
 ## Suggested Time
 
-4-5 days. Everyone should be collocated or remote
+4-5 days. In residencies that require a lot of technical unknowns or new/complicated methods, everyone should be collocated. In cases where the tech/method is well understood, the team can work remotely.
 
 ## Difficulty
 
