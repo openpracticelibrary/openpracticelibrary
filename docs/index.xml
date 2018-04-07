@@ -22,6 +22,16 @@ Share the Big Picture Describe how Red Hat and Red Hat Open Innovation Labs use 
     </item>
     
     <item>
+      <title>Burndown</title>
+      <link>https://rht-labs.github.io/practice-library/practices/burndown/</link>
+      <pubDate>Sat, 07 Apr 2018 23:33:55 +0100</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/practices/burndown/</guid>
+      <description>What is it? A burndown chart is a visualisation of work left to do within a specified time period. The remaining work (or backlog) is often on the vertical axis, with time along the horizontal.
+Teams often use burndown charts to track progress within fixed time periods (for example, Sprint Burndown charts). They can also be used to visualise progress for longer time periods and milestones (for example, Release Burndown charts).</description>
+    </item>
+    
+    <item>
       <title>Team Sentiment</title>
       <link>https://rht-labs.github.io/practice-library/practices/team-sentiment/</link>
       <pubDate>Sat, 31 Mar 2018 22:53:43 +0100</pubDate>
