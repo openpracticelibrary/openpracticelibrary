@@ -4,13 +4,13 @@ date: 2018-04-08T21:41:51+01:00
 draft: false
 ---
 
-## What is Visualistion of Work?
+## What is Visualisation of Work?
 
-This practice involves radiating and visually representing all aspects of work. Information that is useful to team members, stakeholders and users is physically presented on walls, windows, doors and other flat surfaces and positioned in the line of sight of those people who will get value from consuming the information. 
+This practice involves radiating and visually representing all aspects of work. Information that is useful to team members, stakeholders and users is physically presented on walls, windows, doors and other flat surfaces and positioned in the line of sight of those people who will get value from consuming the information.
 
-The "Information Radiator" is an artefact that is used to physcially provide information to one or more people. 
+The "Information Radiator" is an artefact that is used to physically provide information to one or more people.
 
-The activity of "Walking the Walls" is where someone interested in the work can walk around the physcial space the associated team(s) are working from and get all the information they need from inspecting artefacts on the wall and from the resulting conversations.
+The activity of "Walking the Walls" is where someone interested in the work can walk around the physical space the associated team(s) are working from and get all the information they need from inspecting artefacts on the wall and from the resulting conversations.
 
 
 ## Why Visualise work?
@@ -19,13 +19,13 @@ Visualising work helps facilitate a transparent and open way of working. It help
 
 Where important information is constantly accessible and visible to people, both speed and accuracy of their work can improve with reduced wastage from having to search for information. It is also more likely that the information is accurate because people are continuously being reminded of it.
 
-![Visualistion of Work](/images/visualisation-of-work.png)
+![Visualisation of Work](/images/visualisation-of-work.png)
 
 ## Related Practices
 
 Practices we use that result in information radiators which we use to visualise work include:
 
-- [Impact Mapping](/practices/impact-mapping/) 
+- [Impact Mapping](/practices/impact-mapping/)
 - [Event Storming](/practices/event-storming/)
 - [Value Stream Mapping and Metric Based Process Mapping](/practices/vsm-and-mbpm/)
 - Target Outcomes
@@ -78,9 +78,9 @@ Practices we use that result in information radiators which we use to visualise 
 - Consider use of color coding across different information radiators (for example, same color stickies to represent features)
 - Allow sufficient time to produce high quality information radiators that will inspire and drive interest
 - Introduce the information radiator to all those who will use it (either in contributing to it and/or consuming information from it)
-- Encourage continiuous inspection and update to the information presented
+- Encourage continuous inspection and update to the information presented
 
-![Visualistion of Work](/images/visualisation-of-work2.png)
+![Visualisation of Work](/images/visualisation-of-work2.png)
 
 ## External References
 
