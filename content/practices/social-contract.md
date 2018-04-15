@@ -6,12 +6,14 @@ draft: false
 
 ## What is it?
 
-The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. And between the team and its management. This is by identifying behaviors that they desire to see from their teammates and managers. To effectively use this practice you should look to create the following outcomes:
+The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders. 
+
+To effectively use this practice you should look to create the following outcomes:
 
 - Public display of the social contract
-- Revisit the social contract often and update it as necessary
 - Nobody is above the contract
-- The team agreed holds each other accountable to the contract
+- The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
+- Revisit the social contract often and update it as necessary. Retrospectives provide excellent opportunities to revisit and update a Team's Social Contract.
 
 ## Why use a Social Contract?
 
@@ -49,6 +51,8 @@ The Social Contract is a simple, yet highly effective manner to enable team auto
 
 ## Process Phase
 Beginning of engagement and revisited at any time.
+
+![Social Contract](/images/social-contract.jpg)
 
 ## External References
 
