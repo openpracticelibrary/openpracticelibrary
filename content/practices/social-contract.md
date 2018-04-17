@@ -13,7 +13,9 @@ To effectively use this practice you should look to create the following outcome
 - Public display of the social contract
 - Nobody is above the contract
 - The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
-- Revisit the social contract often and update it as necessary. Retrospectives provide excellent opportunities to revisit and update a Team's Social Contract.
+- Revisit the social contract often and update it as necessary
+
+
 
 ## Why use a Social Contract?
 
@@ -25,6 +27,7 @@ To effectively use this practice you should look to create the following outcome
 
 - Collaborative Face Drawing[<sup>1</sup>](#footnote-1) is a great ice breaker or after lunch activity. Your Social Contract can be a nicely decorated with the faces of the team to show their commitment to the contract.
 - Working Agreements[<sup>2</sup>](#footnote-2) are a form of social contract often used to help establish behavioral standards between peers on a team. This is a great alternative if you do not have stakeholders or sponsors buying in to a Social Contract.
+- Use [retrospectives](/practices/retrospectives/) as a tool to revisit and update Social Contract based on learnings of team members working with each other
 
 ## Who do you need?
 
@@ -52,7 +55,8 @@ To effectively use this practice you should look to create the following outcome
 ## Process Phase
 Beginning of engagement and revisited at any time.
 
-![Social Contract](/images/social-contract.jpg)
+![Visualisation of Work](/images/social-contract-1.png)
+![Visualisation of Work](/images/social-contract-2.png)
 
 ## External References
 
