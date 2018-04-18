@@ -6,12 +6,16 @@ draft: false
 
 ## What is it?
 
-The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. And between the team and its management. This is by identifying behaviors that they desire to see from their teammates and managers. To effectively use this practice you should look to create the following outcomes:
+The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders. 
+
+To effectively use this practice you should look to create the following outcomes:
 
 - Public display of the social contract
-- Revisit the social contract often and update it as necessary
 - Nobody is above the contract
-- The team agreed holds each other accountable to the contract
+- The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
+- Revisit the social contract often and update it as necessary
+
+
 
 ## Why use a Social Contract?
 
@@ -23,6 +27,7 @@ The Social Contract is a simple, yet highly effective manner to enable team auto
 
 - Collaborative Face Drawing[<sup>1</sup>](#footnote-1) is a great ice breaker or after lunch activity. Your Social Contract can be a nicely decorated with the faces of the team to show their commitment to the contract.
 - Working Agreements[<sup>2</sup>](#footnote-2) are a form of social contract often used to help establish behavioral standards between peers on a team. This is a great alternative if you do not have stakeholders or sponsors buying in to a Social Contract.
+- Use [retrospectives](/practices/retrospectives/) as a tool to revisit and update Social Contract based on learnings of team members working with each other
 
 ## Who do you need?
 
@@ -49,6 +54,9 @@ The Social Contract is a simple, yet highly effective manner to enable team auto
 
 ## Process Phase
 Beginning of engagement and revisited at any time.
+
+![Visualisation of Work](/images/social-contract-1.png)
+![Visualisation of Work](/images/social-contract-2.png)
 
 ## External References
 
