@@ -61,5 +61,5 @@ Beginning of engagement and revisited at any time.
 ## External References
 
 1. <a name="footnote-1"></a>[Collaborative Face Drawing](http://www.funretrospectives.com/collaborative-face-drawing/)
-2. <a name="footnote-2"></a>[Working Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-scrum-team)
+2. <a name="footnote-2"></a>[Working Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team)
 3. <a name="footnote-3"></a>[Social Contract](https://theagileexecutive.com/tag/social-contract/)
