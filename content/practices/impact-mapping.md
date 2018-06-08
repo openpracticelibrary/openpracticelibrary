@@ -9,7 +9,7 @@ stages: ['discovery']
 
 Impact Mapping is an engaging, graphical, strategic planning technique. It was introduced by Gojko Adzic in 2012. At the end of the impact map, you should have:
 
-- A shared understand of you project's [goal or problem statement](/practices/why-is-defined/)
+- A shared understand of your effort's goal or problem statement
 - An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name
 - Optionally, an inventory of project scope that could be delivered to achieve the aforementioned impacts
 - Some sort of prioritization of scope and/or impacts
@@ -24,7 +24,8 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 ## Related Practices
 
-- Nothing for now. We'd love to know more if you have a suggestion
+- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts. 
+
 
 ## Who do you need?
 
