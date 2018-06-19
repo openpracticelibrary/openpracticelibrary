@@ -1,0 +1,25 @@
+os: linux
+dist: trusty
+sudo: false
+branches:
+  only: master
+before_install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.30.2_Linux-64bit.deb
+  - rm hugo_0.30.2_Linux-64bit.deb
+  - hugo version
+addons:
+  apt:
+    update: true
+script: hugo
+before_deply: touch ./docs/.nojekyll
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: false
+  on:
+    branch: master
+  target-branch: gh-pages
+  local-dir: docs
+verbose: true
