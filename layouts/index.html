@@ -1,6 +1,8 @@
 {{ partial "header" . }}
 
 <main id='main' class='main'>
+   <div class='list-container' id='results'>
+
   {{ if .Content }}
   <article class='entry'>
     <!-- Add cover to the homepage. This feature should eventually be added upstream. -->
@@ -14,6 +16,7 @@
       {{ partial "home/recent_posts" . }}
     </div>
   </div>
+   </div>
 </main>
 
 {{ partial "footer" . }}

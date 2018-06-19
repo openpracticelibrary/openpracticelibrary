@@ -30,7 +30,11 @@ ga('send', 'pageview');
 </script>
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
+   <script src="./SearchIndex.js"></script>
+   <script src="./js/search.js"></script>
+
 </head>
+
 
 
 <body class='taxonomyTerm type-tags taxonomyTerm-tag'>
@@ -52,8 +56,14 @@ ga('send', 'pageview');
       <a href='https://rht-labs.github.io/practice-library/about/'>About</a>
     </li>
   
+    <li>
+          <form id="searchForm">
+                  <input id="searchTerm"> <button onclick="log(event, index)">SEARCH</button>
+          </form>
+      </li>
   </ul>
 </nav>
+
 
         <div class='header-info'>
           
