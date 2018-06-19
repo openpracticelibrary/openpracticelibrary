@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Start At The End</title>
+      <link>https://rht-labs.github.io/practice-library/practices/start-at-the-end/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://rht-labs.github.io/practice-library/practices/start-at-the-end/</guid>
+      <description>What is it? Start At The End is a simple exercise to identify a set of assumptions which must be tested in order achieve a long term goal. It&amp;rsquo;s a rather simple exercise, which asks participants to describe what success looks like for their work, and use this to define the goal of the effort. We default to 12 months, but it can be longer or shorter. Then, the exercise asks participants to imagine all the ways their project can fail, and using the results to enumerate key questions or assumptions that must be examined at the start of the work.</description>
+    </item>
+    
+    <item>
       <title>Visualisation of Work</title>
       <link>https://rht-labs.github.io/practice-library/practices/visualisation-of-work/</link>
       <pubDate>Sun, 08 Apr 2018 21:41:51 +0100</pubDate>
@@ -102,24 +111,13 @@ To effectively use this practice you should look to create the following outcome
     </item>
     
     <item>
-      <title>&#34;Why&#34; is Defined</title>
-      <link>https://rht-labs.github.io/practice-library/practices/why-is-defined/</link>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://rht-labs.github.io/practice-library/practices/why-is-defined/</guid>
-      <description>It&amp;rsquo;s really surprising how often organizations fail to communicate &amp;ldquo;Why&amp;rdquo; work is important. At Labs, we want to make the &amp;ldquo;Why&amp;rdquo; explicit from day 1. Everything that happens on our Journey after this point should tie by to this &amp;ldquo;Why.&amp;rdquo;
-Proven Ways to Define a Why These are proven techniques to define your &amp;ldquo;Why&amp;rdquo;, but feel free to take your own approach if it
- Define a SMART Goal. We like the way Gojko Adzic articulates this in Impact Mapping1.</description>
-    </item>
-    
-    <item>
       <title>Impact Mapping</title>
       <link>https://rht-labs.github.io/practice-library/practices/impact-mapping/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
       
       <guid>https://rht-labs.github.io/practice-library/practices/impact-mapping/</guid>
       <description>What is it? Impact Mapping is an engaging, graphical, strategic planning technique. It was introduced by Gojko Adzic in 2012. At the end of the impact map, you should have:
- A shared understand of you project&amp;rsquo;s goal or problem statement An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name Optionally, an inventory of project scope that could be delivered to achieve the aforementioned impacts Some sort of prioritization of scope and/or impacts A physical or digital diagram with the above information  Why use Impact Mapping?</description>
+ A shared understand of your effort&amp;rsquo;s goal or problem statement An inventory of human behavioral changes that must occur (or not occur) for your project to be successful. These are the impact from which the technique gets it name Optionally, an inventory of project scope that could be delivered to achieve the aforementioned impacts Some sort of prioritization of scope and/or impacts A physical or digital diagram with the above information  Why use Impact Mapping?</description>
     </item>
     
     <item>
