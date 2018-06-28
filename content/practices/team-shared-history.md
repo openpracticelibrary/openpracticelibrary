@@ -7,7 +7,7 @@ stages: ['delivery']
 
 ## What is it?
 
-A method of helping a team start to become cohesive and develop a shared sense of history and vision of the future. This simple exercise starts with a facilitator organizing the participants in order of their hire date with the company. Then a timeline is drawn and each team member marks their hire date on the timeline. Next, team members note on the timeline interesting things which may have occurred near their time of hire. Finally, the team member who has the most seniority will "tell the story" of the team's history and perhaps embellish with additional context around what has been going on around the organization.
+A method of helping a team start to become cohesive, develop a shared sense of history, and a shared vision of the future. This simple exercise starts with a facilitator organizing the participants in order of their hire date with the company. Then a timeline is drawn and each team member marks their hire date on the timeline. Next, team members note on the timeline interesting things which may have occurred near their time of hire. Finally, the team member who has the most seniority will "tell the story" of the team's history and perhaps embellish with additional context around what has been going on around the organization.
 
 Outcomes
 - A better understanding between team members of their own place in the organization
