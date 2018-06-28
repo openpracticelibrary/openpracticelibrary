@@ -1,0 +1,18 @@
+<nav id='main-menu' class='main-menu-container' aria-label='{{ i18n "mainMenu" }}'>
+  <ul class='main-menu'>
+  {{ range .Site.Menus.main }}
+    {{- $isCurrent := ( or ( $.IsMenuCurrent "main" . ) ( $.HasMenuCurrent "main" . ) ) -}}
+    <li>
+      <a {{ if $isCurrent -}} class='current' aria-current='page' {{ end -}} href='{{ .URL }}'>
+        {{- .Name -}}
+      </a>
+    </li>
+  {{ end }}
+    <li>
+          <form id="searchForm">
+                  <input id="searchTerm"> <button onclick="log(event, index)">SEARCH</button>
+          </form>
+      </li>
+  </ul>
+</nav>
+

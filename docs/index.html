@@ -30,7 +30,11 @@ ga('send', 'pageview');
 </script>
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
+   <script src="./SearchIndex.js"></script>
+   <script src="./js/search.js"></script>
+
 </head>
+
 
 
 <body class='home type-page hasCover'>
@@ -52,8 +56,14 @@ ga('send', 'pageview');
       <a href='https://rht-labs.github.io/practice-library/about/'>About</a>
     </li>
   
+    <li>
+          <form id="searchForm">
+                  <input id="searchTerm"> <button onclick="log(event, index)">SEARCH</button>
+          </form>
+      </li>
   </ul>
 </nav>
+
 
         <div class='header-info'>
           
@@ -66,6 +76,8 @@ ga('send', 'pageview');
 
 
 <main id='main' class='main'>
+   <div class='list-container' id='results'>
+
   
   <article class='entry'>
     
@@ -375,6 +387,7 @@ ga('send', 'pageview');
 
     </div>
   </div>
+   </div>
 </main>
 
     <footer id='footer' class='footer-container'>
