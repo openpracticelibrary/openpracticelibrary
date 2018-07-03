@@ -1,0 +1,19 @@
+var documents = data;
+document.getElementById('results').innerHTML = "hi";
+
+
+
+var idx = lunr(function () {
+  this.ref('title')
+  this.field('content')
+
+  documents.forEach(function (doc) {
+    this.add(doc)
+  }, this)
+})
+
+
+console.log(idx.search('this is a style of journey'));
+//console.log(RESULTS.innerHTML);
+//RESULTS.innerhtml = idx.search('this is a style of journey');
+RESULTS.innerHTMl = "hi"; 

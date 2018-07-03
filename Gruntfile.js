@@ -43,6 +43,7 @@ module.exports = function(grunt) {
             }
 
             var href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).chompRight(".md").s;
+	    console.log(href);
 
             // href for index.md files stops at the folder name
             if (filename === "_index.md") {
@@ -60,7 +61,7 @@ module.exports = function(grunt) {
             return pageIndex;
         };
 
-        grunt.file.write("./static/js/lunr/PagesIndex.json", JSON.stringify(indexPages()));
+        grunt.file.write("./static/js/lunr/PagesIndex.json", "var data = " + JSON.stringify(indexPages()));
         grunt.log.ok("Index built");
     });
 };
