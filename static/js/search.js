@@ -20,7 +20,7 @@ var initialResults = idx.search(searchTerm);
 
 for (var i = 0; i < initialResults.length; i++) {
 	console.log(initialResults[i].ref);
-	cleanedResults += "<a href='https://rht-labs.github.io/practice-library/practices/" +  initialResults[i].ref + "'>" + initialResults[i].ref + "</a><br />";
+	cleanedResults += "<a href='" + window.location.hostname + "/practices/" +  initialResults[i].ref + "'>" + initialResults[i].ref + "</a><br />";
 }
 
 cleanedResults += "</div>";
