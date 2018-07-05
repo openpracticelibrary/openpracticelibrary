@@ -58,7 +58,7 @@ if (!doNotTrack) {
     </li>
   
     </li>
-      <input type="text" id="searchInput" placeholder="search"><button id="searchButton">Search</button>
+      <input type="text" id="searchInput" placeholder="search" style="display:inline;"><button id="searchButton">Search</button>
     </li>
   </ul>
 </nav>
@@ -404,8 +404,7 @@ if (!doNotTrack) {
   <script src="./js/lunr/PagesIndex.json"></script>
   <script type="text/javascript">
 	document.getElementById("searchButton").onclick = function () {
-		console.log(document.getElementById("searchInput");
-		
+		location.href = window.location.href + "/search.html?search=" + document.getElementById("searchInput").value;
 	};
   </script>
 
