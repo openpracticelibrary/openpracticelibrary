@@ -1,0 +1,22 @@
+    <footer id='footer' class='footer-container'>
+      <div class='footer'>
+        {{ partial "nav/menus/social" . }}
+        {{ partial "footer/copyright" . }}
+      </div>
+    </footer>
+
+  </div>
+
+  {{- partial "footer/scripts" . -}}
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src="./js/lunr/PagesIndex.json"></script>
+  <script type="text/javascript">
+	document.getElementById("searchButton").onclick = function () {
+		console.log(document.getElementById("searchInput").value);
+		location.href = window.location.href + "/search.html?search=" + document.getElementById("searchInput").value;
+	};
+  </script>
+
+</body>
+
+</html>
