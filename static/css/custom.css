@@ -30,6 +30,14 @@
   font-style: normal;
 }
 
+#searchInput {
+	width: 300px;
+	margin-right: 7px;
+	margin-bottom: 5px;
+}
+
+
+
 .related-list li {
   margin-top: 1em;
 }
