@@ -1,9 +1,9 @@
 let url = new URL(window.location.href);
 var searchTerm = url.searchParams.get('search');
-console.log(searchTerm);
 
-var cleanedResults = "<div class='results'>";
+var cleanedResults = "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'>";
 	
+
 var RESULTS = document.getElementById("results-wrapper");
 	
 
@@ -19,8 +19,7 @@ var idx = lunr(function () {
 var initialResults = idx.search(searchTerm);
 
 for (var i = 0; i < initialResults.length; i++) {
-	console.log(initialResults[i].ref);
-	cleanedResults += "<a href='" + window.location.hostname + "/practices/" +  initialResults[i].ref + "'>" + initialResults[i].ref + "</a><br />";
+	cleanedResults += "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'><a href='" + window.location.hostname + "/practices/" +  initialResults[i].ref + "'>" + initialResults[i].ref + "</a></li></article></header></h3></header></article></li>";
 }
 
 cleanedResults += "</div>";
