@@ -1,7 +1,7 @@
 var yaml = require("js-yaml");
 var S = require("string");
 
-var CONTENT_PATH_PREFIX = "content";
+var CONTENT_PATH_PREFIX = "content/practices/";
 
 module.exports = function(grunt) {
 
