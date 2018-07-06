@@ -19,7 +19,7 @@ var idx = lunr(function () {
 var initialResults = idx.search(searchTerm);
 
 for (var i = 0; i < initialResults.length; i++) {
-	cleanedResults += "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'><a href='" + window.location.hostname + "/practices/" +  initialResults[i].ref + "'>" + initialResults[i].ref + "</a></li></article></header></h3></header></article></li>";
+	cleanedResults += "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'><a href='" + window.location.hostname "/practices/" +  initialResults[i].ref + "'>" + initialResults[i].ref + "</a></li></article></header></h3></header></article></li>";
 }
 
 cleanedResults += "</div>";
