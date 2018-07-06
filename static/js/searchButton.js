@@ -1,3 +1,3 @@
 document.getElementById('searchButton').onclick = function () {
-	window.location = window.location.hostname + "/practice-library/search/?search=" + document.getElementById("searchInput").value;
+	window.location.href = window.location.hostname + "/practice-library/search/?search=" + document.getElementById("searchInput").value;
 };
