@@ -2,7 +2,7 @@
 	var url = new URL(window.location.href);
 	var searchTerm = url.searchParams.get('search');
 	
-	var cleanedResults = "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'>";
+	var cleanedResults = "";
 		
 	
 	var RESULTS = document.getElementById("results-wrapper");
@@ -25,7 +25,6 @@
 		cleanedResults += "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'><a href='https://" + window.location.origin + "/practice-library/practices/" +  initialResults[i].ref + "'>" + res + "</a></li></article></header></h3></header></article></li>";
 	}
 	
-	cleanedResults += "</div>";
 	
 		
 	RESULTS.innerHTML = cleanedResults;
