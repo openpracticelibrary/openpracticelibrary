@@ -43,10 +43,11 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
-3. Run `git submodule update --init --recursive` to download the theme.
-4. Navigate to the top level of the repo.
-5. Run `npx grunt-cli lunr-index` to build the search index.
-6. Run `hugo server` to run the site locally.
+3. [Install Node.js](https://nodejs.org/en/download).
+4. Run `git submodule update --init --recursive` to download the theme.
+5. Navigate to the top level of the repo.
+6. Run `npx grunt-cli lunr-index` to build the search index.
+7. Run `hugo server` to run the site locally.
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
