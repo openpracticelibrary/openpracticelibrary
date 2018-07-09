@@ -12,7 +12,8 @@
 <meta property='og:site_name' content='Open Practice Library'>
 <meta property='og:type' content='article'><meta property='article:section' content='Practices'><meta property='article:published_time' content='2017-05-15T00:00:00-05:00'/><meta property='article:modified_time' content='2017-05-15T00:00:00-05:00'/><meta name='twitter:card' content='summary'>
 
-<meta name="generator" content="Hugo 0.40.1" />
+<meta name="generator" content="Hugo 0.42.2" />
+
 
   <title>Agile Agenda • Open Practice Library</title>
   <link rel='canonical' href='https://rht-labs.github.io/practice-library/practices/agile-agenda/'>
@@ -22,11 +23,15 @@
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700&subset=latin'>
 <link rel='stylesheet' href='https://rht-labs.github.io/practice-library/assets/css/main.77da63e1.css'><link rel='stylesheet' href='https://rht-labs.github.io/practice-library/css/custom.css'>
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-111461618-1', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-111461618-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 
@@ -38,7 +43,8 @@ ga('send', 'pageview');
 
     <header id='header' class='header-container'>
       <div class='header site-header'>
-        <nav id='main-menu' class='main-menu-container' aria-label='Main Menu'>
+        
+<nav id='main-menu' class='main-menu-container' aria-label='Main Menu'>
   <ul class='main-menu'>
   <li>
       <a href='https://rht-labs.github.io/practice-library/'>Home</a>
@@ -50,6 +56,12 @@ ga('send', 'pageview');
       <a href='https://rht-labs.github.io/practice-library/about/'>About</a>
     </li>
   
+    <li>
+      <input type="text" id="searchInput" placeholder="Search">
+    </li>
+    <li>
+      <button id="searchButton">Search</button>
+    </li>
   </ul>
 </nav>
 
@@ -201,7 +213,9 @@ ga('send', 'pageview');
       </div>
     </footer>
 
-  </div><script src='https://rht-labs.github.io/practice-library/assets/js/main.f29c93b9.js'></script></body>
+  </div>
+  <script src="https://rht-labs.github.io/practice-library/js/searchButton.js"></script>
+<script src='https://rht-labs.github.io/practice-library/assets/js/main.f29c93b9.js'></script></body>
 
 </html>
 

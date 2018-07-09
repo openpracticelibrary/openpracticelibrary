@@ -1,3 +1,11 @@
+/* Search Bar Styling */
+#searchInput {
+	display: inline;
+	width: 300px !important;
+	margin-right: 7px; 
+	margin-bottom: 5px !important;
+}
+
 .list-item .meta,
 .meta .posted-on {
   /* Hide dates. */
@@ -46,3 +54,4 @@
 .related-list a:hover {
     border-bottom-color: #ffcd00;
 }
+
