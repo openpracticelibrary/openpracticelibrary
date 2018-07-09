@@ -1,9 +1,47 @@
 /* Search Bar Styling */
+
+#searchInput,
+#searchButton {
+	font-size: 1.125rem;
+	line-height: 1;
+}
+
 #searchInput {
 	display: inline;
-	width: 300px !important;
-	margin-right: 7px; 
+	width: 250px !important;
 	margin-bottom: 5px !important;
+	margin-right: 5px;
+	padding: 8px;
+}
+
+@media (min-width: 768px) {
+	.main-menu-search {
+		float: right;
+		margin-top: -5px;
+	}
+}
+
+#searchButton {
+	cursor: pointer;
+	padding: 9px; /* 1px more of padding because this button doesn't have a border. */
+}
+
+#searchButton:hover,
+#searchButton:focus {
+	background-color: #ffdc4d;
+	color: #000;
+}
+
+
+/* Micro clearfix - http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
 }
 
 .list-item .meta,
@@ -54,4 +92,3 @@
 .related-list a:hover {
     border-bottom-color: #ffcd00;
 }
-
