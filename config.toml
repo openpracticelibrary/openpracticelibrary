@@ -2,6 +2,7 @@
 # https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
 baseURL = "https://rht-labs.github.io/practice-library/"
+#baseURL = "https://rohitmusti.github.io/practice-library/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "minimo"

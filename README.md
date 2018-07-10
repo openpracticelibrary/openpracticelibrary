@@ -43,9 +43,11 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
-3. Run `git submodule update --init --recursive` to download the theme.
-4. Navigate to the top level of the repo.
-5. Run `hugo server` to run the site locally.
+3. [Install Node.js](https://nodejs.org/en/download/).
+4. Run `git submodule update --init --recursive` to download the theme.
+5. Navigate to the top level of the repo.
+6. Run `npx grunt-cli lunr-index` to build the search index.
+7. Run `hugo server` to run the site locally.
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
@@ -56,9 +58,10 @@ The site is [published to GitHub pages](https://help.github.com/articles/configu
 To push changes to GitHub pages:
 
 1. Delete the `docs` directory. (Hugo won't delete old files by default.)
-2. Run `hugo` (without any parameters) to rebuild the `docs` directory.
-3. Add, commit, and push these changes.
-4. Create a pull request.
-5. Merge to master, or ask someone else to merge to master.
+2. Run `npx grunt-cli lunr-index` to build the search index.
+3. Run `hugo` (without any parameters) to rebuild the `docs` directory.
+4. Add, commit, and push these changes.
+5. Create a pull request.
+6. Merge to master, or ask someone else to merge to master.
 
 Once the changes are merged up, the new content will be deployed automatically.
