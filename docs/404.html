@@ -43,7 +43,7 @@ if (!doNotTrack) {
     <header id='header' class='header-container'>
       <div class='header site-header'>
         
-<nav id='main-menu' class='main-menu-container' aria-label='Main Menu'>
+<nav id='main-menu' class='main-menu-container clearfix' aria-label='Main Menu'>
   <ul class='main-menu'>
   <li>
       <a href='https://rohitmusti.github.io/practice-library/'>Home</a>
@@ -55,11 +55,9 @@ if (!doNotTrack) {
       <a href='https://rohitmusti.github.io/practice-library/about/'>About</a>
     </li>
   
-    <li>
-      <input type="text" id="searchInput" placeholder="Search">
-    </li>
-    <li>
-      <button id="searchButton">Search</button>
+    <li class="search-controls">
+      <input type="text" id="search-input" class="search-input" placeholder="Search">
+      <button id="search-button" class="search-button">Search</button>
     </li>
   </ul>
 </nav>

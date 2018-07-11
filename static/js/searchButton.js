@@ -1,5 +1,5 @@
-var searchfield = document.getElementById('searchInput');
-var searchbutton = document.getElementById('searchButton');
+var searchfield = document.getElementById('search-input');
+var searchbutton = document.getElementById('search-button');
 
 searchfield.addEventListener("keyup", function(event) {
 	event.preventDefault();
