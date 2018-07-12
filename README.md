@@ -40,8 +40,9 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 3. [Install Node.js](https://nodejs.org/en/download/).
 4. Run `git submodule update --init --recursive` to download the theme.
 5. Navigate to the top level of the repo.
-6. Run `npx grunt-cli lunr-index` to build the search index.
-7. Run `hugo server` to run the site locally.
+6. Run `npm install` to install the npm packages.
+7. Run `npx grunt-cli lunr-index` to build the search index.
+8. Run `hugo server` to run the site locally.
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
@@ -49,7 +50,7 @@ Alternately, you can run `hugo server -D` to preview drafts.
 
 The site is [published to GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch) using a `docs` directory on the master branch.
 
-To push changes to GitHub pages:
+To push changes to GitHub pages, follow steps 1-6 of the "developing" instructions, then:
 
 1. Delete the `docs` directory. (Hugo won't delete old files by default.)
 2. Run `npx grunt-cli lunr-index` to build the search index.
