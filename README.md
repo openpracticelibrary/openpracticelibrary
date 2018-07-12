@@ -14,15 +14,9 @@ Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front
 
 Create a new markdown file in `/content/practices`. If you have hugo installed, you can run `hugo new practices/my_new_practice.md`.
 
-## Waypoints
+## Pages
 
-Create a new markdown file in `/content/waypoints`. If you have hugo installed, you can run `hugo new waypoints/my_new_waypoint.md`.
-
-## Stages
-Create a new markdown file in `/content/stages`. If you have hugo installed, you can run `hugo new stages/my_new_stage.md`.
-
-## Routes
-Edit one of the [Stage](/stages) pages.
+Create a new markdown file in `/content/pages`. If you have hugo installed, you can run `hugo new pages/my_new_page.md`.
 
 ### Drafts
 
