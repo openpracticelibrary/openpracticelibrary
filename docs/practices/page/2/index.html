@@ -12,7 +12,7 @@
 <meta property='og:site_name' content='Open Practice Library'>
 <meta property='og:type' content='website'><meta property='og:updated_time' content='2018-06-08T00:00:00-05:00'/><meta name='twitter:card' content='summary'>
 
-<meta name="generator" content="Hugo 0.43" />
+<meta name="generator" content="Hugo 0.44" />
 
   <title>Practices • Open Practice Library</title>
   <link rel='canonical' href='https://rht-labs.github.io/practice-library/practices/'>
@@ -33,6 +33,8 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 
@@ -229,9 +231,18 @@ if (!doNotTrack) {
       </div>
     </footer>
 
-  </div>
-  <script src="https://rht-labs.github.io/practice-library/js/searchButton.js"></script>
-<script src='https://rht-labs.github.io/practice-library/assets/js/main.f29c93b9.js'></script></body>
+  </div><script src='https://rht-labs.github.io/practice-library/assets/js/main.f29c93b9.js'></script><script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
 
 </html>
 
