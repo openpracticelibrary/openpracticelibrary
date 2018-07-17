@@ -30,7 +30,7 @@ _printBuildStep(){
 } 
 
 clean(){
-    _printBuildStep "rm -rf docs"
+    _printBuildStep "rm -rvf docs"
 } 
 
 test(){
