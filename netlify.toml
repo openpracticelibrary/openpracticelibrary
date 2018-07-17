@@ -1,0 +1,10 @@
+
+[build]
+  # This will be your default build command
+  command = "./build.sh"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.44"
+
+[context.production.environment]
+  HUGO_VERSION = "0.44"
