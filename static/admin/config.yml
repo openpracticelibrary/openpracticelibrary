@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: springdo/practice-library
   branch: netlify # Branch to update (optional; defaults to master)
 
