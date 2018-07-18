@@ -50,8 +50,8 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 - Stickies (preferably a wide variety)
 
 
-## Process Phase
-Any time
+## How Does it Fit?
+ - Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## External References
 1. <a name="footnote-1"></a>[Information Radiator by Alistair Cockburn](http://alistair.cockburn.us/Information+radiator)
