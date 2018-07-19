@@ -29,7 +29,7 @@ A simple template is shown below which contains some example headers for use wit
 <b>Before you continue, please check the Pre-Requisites above (for example, that you have a valid GitHub.com account)</b>
 
 We are using [Netlify](https://www.netlify.com/) as the backend CRM and all content will be added here.  No technical knowledge is required as the interface is fairly WYSIWYG.
-- Visit [The Netifly Admin Page](https://quirky-benz-f1ebba.netlify.com/admin/) and click "Login with Netifly Identity".
+- Visit <a href="https://quirky-benz-f1ebba.netlify.com/admin/" target=_blank>Netifly Admin Page </a> and click "Login with Netifly Identity".
 - Select "Continue with GitHub" and enter your Github credentials.
 - Click "New Practices".
 - Fill in the Title with the name of your Practice.  Leave the publish date as is.
