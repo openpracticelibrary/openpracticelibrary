@@ -59,6 +59,9 @@ Practices we use that result in information radiators which we use to visualise 
 - Facilitator - Medium
 - Participants - Easy
 
+## How does it fit?
+
+- Tyipcally done in the Culture and Collaboration are of the Foundation of the Open Practice Library
 
 ## Facilitation Materials Needed
 
@@ -72,7 +75,7 @@ Practices we use that result in information radiators which we use to visualise 
 - Small computers to radiate dashboards (e.g. CI/CD monitors)
 
 
-## Process Phase
+## How To
 
 - Consider the positioning of all information radiators and who will have line of sight
 - Consider use of color coding across different information radiators (for example, same color stickies to represent features)
