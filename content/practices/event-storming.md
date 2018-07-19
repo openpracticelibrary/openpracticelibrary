@@ -68,8 +68,9 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 
 
-## Process Phase
-Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond design model[<sup>10</sup>](#footnote-10).
+## How does it fit?
+
+- Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
 ## Additional Resources for Red Hatters (we're working to share more broadly)
 - [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
