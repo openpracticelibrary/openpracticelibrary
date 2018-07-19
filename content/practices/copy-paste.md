@@ -1,5 +1,5 @@
 ---
-title: Copy & paste
+title: Copy & paste Practice
 date: '2018-07-19T15:17:49+02:00'
 ---
 ## What is it?
