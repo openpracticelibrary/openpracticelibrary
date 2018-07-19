@@ -39,6 +39,9 @@ Burndown charts provide real data about a team's velocity and provides a mechani
 - Facilitator - Medium
 - Participants - Easy
 
+## How does it fit?
+
+- Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## Facilitation Materials Needed
 
@@ -47,7 +50,7 @@ Burndown charts provide real data about a team's velocity and provides a mechani
 - Long ruler
 
 
-## Process Phase
+## How Do I do it?
 
 - Draw a horizonatal and vertical lines on the flip-chart
 - Mark the horizontal axis with the time measurement (for a Sprint Burndown, this is likely to be each day in the Sprint)
