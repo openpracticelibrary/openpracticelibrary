@@ -6,14 +6,10 @@ date: '2018-07-19T15:17:49+02:00'
 
 The copy & paste practice allows you to write a lot with only two combinations of keys.
 
-![agile agenda](/images/agile_agenda.png)
-
 ## Why use an Agile Agenda?
 
 * SRelated Practices
 * Collaborative Face Drawing[<sup>2</sup>](#footnote-2) is a great ice breaker or after lunch activity. Your agile agenda can be a nice home for the faces once the activity is over as seen below:
-
-![agenda with faces](/images/agenda_with_faces.png)
 
 ## Who do you need?
 
