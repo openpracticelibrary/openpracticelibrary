@@ -36,7 +36,11 @@ Once you have added your content, click the blue "Save" button at the top of the
 
 Change the Status to "In Review".
 
-This will raise a pull request on the underlying Github repository which can then be actioned by one of the site moderators.  You will receive emails once the content has been actioned.  These actions could be to add/change or content if everything is good, you will receive and email saying that the content has been merged (accepted in to the library).
+This will raise a pull request on the underlying Github repository which can then be actioned by one of the site moderators.  If you try to publish the Practice yourself, you will see an error as it needs to be curated by a moderator.
+
+<b>You will receive emails once the content has been actioned. </b>
+
+These actions could be to add/change or content if everything is good, you will receive and email saying that the content has been merged (accepted in to the library).
 
 ### Editing Content
 You can use the first steps in the above workflow to edit content.  Select the practice you wish edit.  Don't forget to update the date and click "Save" once you have edited the content.  
