@@ -1,8 +1,9 @@
 ---
-date: 2017-09-12T00:00:00-05:00
 title: Chartering
-draft: true
-stages: ['discovery']
+date: 2017-09-12T05:00:00.000Z
 ---
+# Done
 
-# TODO
+here is stuff
+
+here's more stuff
