@@ -57,8 +57,9 @@ User Story Mapping is an evolution of the traditional Agile backlog, made popula
 - Markers
 
 
-## Process Phase
-User Story Mapping is an effective way to transition from the "Develop Potential Solutions" phase to "Deliver Solutions That Work" phase of the Double Diamond[<sup>7</sup>](#footnote-7) model.
+## How does it fit?
+
+- Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
 ## Additional Resources for Red Hatters (we're working to share more broadly)
 - Red Hatters can access a copy of Jeff Patton's User Story Mapping book [here](https://mojo.redhat.com/docs/DOC-1024866)
