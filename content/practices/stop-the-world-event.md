@@ -45,8 +45,9 @@ A "Stop the World" event is when somebody on the Team identifies that the engage
 - Comfortable setting to hold a conversation among just team members
 - Additional needs determined by the team to hold the conversation
 
-## Process Phase
-Any Time
+## How does it fit?
+
+- Typicallydone in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## External Resources
 
