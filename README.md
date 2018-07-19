@@ -36,7 +36,9 @@ Once you have added your content, click the blue "Save" button at the top of the
 
 Change the Status to "In Review".
 
-This will raise a pull request on the underlying Github repository which can then be actioned by one of the site moderators.  If you try to publish the Practice yourself, you will see an error as it needs to be curated by a moderator.
+This will raise a pull request on the underlying Github repository which can then be actioned by one of the site moderators.  
+
+<b>If you try to publish the Practice yourself, you will see an error as it needs to be curated by a moderator.</b>
 
 <b>You will receive emails once the content has been actioned. </b>
 
