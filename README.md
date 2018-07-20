@@ -129,6 +129,12 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
+## Developing with Docker
+
+1. Check out this repo.
+1. Run `git submodule update --init --recursive` to download the theme.
+1. Run `docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.44 server`
+
 ### Deploying
 
 The site is [published to GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch) using a `docs` directory on the master branch.
