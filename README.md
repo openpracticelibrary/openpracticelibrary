@@ -44,6 +44,12 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
+## Developing with Docker
+
+1. Check out this repo.
+1. Run `git submodule update --init --recursive` to download the theme.
+1. Run `docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.44 server`
+
 ### Deploying
 
 When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.netlify.com. The site will then be deployed. The [build log] shows the status of each build.
