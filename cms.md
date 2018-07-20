@@ -26,7 +26,8 @@ A simple template is shown below which contains some example headers for use wit
 
 <b>Before you continue, please check the Pre-Requisites above (for example, that you have a valid GitHub.com account)</b>
 
-We are using [Netlify](https://www.netlify.com/) as the backend CRM and all content will be added here.  No technical knowledge is required as the interface is fairly WYSIWYG.
+We are using [Netlify CMS](https://www.netlifycms.org/) to update this content.
+
 - Visit <a target="_blank" href="https://quirky-benz-f1ebba.netlify.com/admin/">Netifly Admin Page </a> and click "Login with Netifly Identity".
 - Select "Continue with GitHub" and enter your Github credentials.
 - Click "New Practices".
