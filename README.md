@@ -2,7 +2,7 @@
 
 ## About
 
-The [Open Practice Library](https://rht-labs.github.io/practice-library/) provides information about practices and ideas that we use here at Red Hat Open Innovation Labs. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
+The [Open Practice Library](https://openpracticelibrary.netlify.com/) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
 
 ## Adding Content (Content Writers)
 ### Pre-requisites
