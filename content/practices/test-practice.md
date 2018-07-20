@@ -4,11 +4,7 @@ date: '2018-07-20T14:40:42+01:00'
 ---
 This is a test practice:
 
-
-
 When you transfer a repository, its issues, wiki, stars, and watchers are also transferred. In addition:
-
-
 
 If the transferred repository is a fork, then it remains associated with the upstream repository.
 
@@ -25,7 +21,5 @@ All Git information about commits, including contributions, are preserved.
 All of the issues and pull requests remain intact when transferring a repository.
 
 All links to the previous repository location are automatically redirected to the new location. When you use git clone, git fetch, or git push on a transferred repository, these commands will redirect to the new repository location or URL. However, to avoid confusion, we strongly recommend updating any existing local clones to point to the new repository URL. You can do this by using git remote on the command line:
-
-
 
 ![redhahahat](/images/redhahahat.jpg)
