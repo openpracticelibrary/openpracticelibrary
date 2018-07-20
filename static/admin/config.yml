@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: openpracticelibrary/practice-library-test
+  repo: openpracticelibrary/openpracticelibrary
   branch: master # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
