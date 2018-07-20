@@ -23,7 +23,9 @@ Just enough information for each practice to "specify the end state, it’s purp
 
 ## Contributing
 
-We'd love to hear your thoughts about the material presented here or other content you'd like to add. [Open an issue](https://github.com/rht-labs/practice-library/issues) and we can go from there.
+We'd love to hear your thoughts about the material presented here or other content you'd like to add. 
+
+Please checkout the [README](https://github.com/openpracticelibrary/practice-library-test/blob/master/README.md) on how to add/edit content.
 
 Alternately, feel free to fork our [github repo](https://github.com/rht-labs/practice-library) and submit a PR of your proposed changes. We use markdown files for our base content that gets rendered for this site. For helpful development setup see our [README](https://github.com/rht-labs/practice-library/blob/master/README.md)
 
