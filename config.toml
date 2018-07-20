@@ -1,14 +1,12 @@
 # https://gohugo.io/getting-started/configuration/
 # https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
-baseURL = "https://rht-labs.github.io/practice-library/"
-#baseURL = "https://rohitmusti.github.io/practice-library/"
+baseURL = "https://optimistic-kilby-438ca3.netlify.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "minimo"
 # Why "docs" and not "public"? https://git.io/vXzj6
 publishDir = "docs"
-canonifyURLs = true
 googleAnalytics = "UA-111461618-1"
 
 [params.assets]
