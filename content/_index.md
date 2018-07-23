@@ -8,6 +8,6 @@ cover:
   style: full
 ---
 
-Welcome to the Open Practice Library. Here, as a community, we look to provide information on the [Practices and Techniques](/practices) we use during our engagements.
+Welcome to the Open Practice Library. Here, we look to provide information on the [Practices and Techniques](/practices) that empower teams to collaborate and deliver iteratively.
 
-The library's source is in [a public GitHub repo](https://github.com/openpracticelibrary) and is licensed under [Apache 2.0](https://github.com/rht-labs/practice-library/blob/master/LICENSE). Feedback and contributions are welcome! [Learn more about contributing](/about/#contributing).
+The library's source is in [a public GitHub repo](https://github.com/openpracticelibrary/openpracticelibrary) and is licensed under [Apache 2.0](https://github.com/openpracticelibrary/openpracticelibrary/blob/master/LICENSE). Feedback and contributions are welcome! [Learn more about contributing](/about/#contributing).
