@@ -1,0 +1,29 @@
+    {{ range .Data.Pages }}
+        {{if eq .Type "home" }}
+        <div class="index-content post">
+        {{.Content}}
+        </div>
+        {{end}}
+    {{ end }}
+
+    {{ if not ($.Scratch.Get "paginatedSections") }}
+        {{ if .Site.Params.paginatedsections }}
+            {{ $.Scratch.Set "paginatedSections" .Site.Params.paginatedsections }}
+        {{ else }}
+            {{ $.Scratch.Set "paginatedSections" "post" }}
+        {{ end }}
+    {{ end }}
+
+    {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
+    {{ $list := where $list "Section" "!=" "" }}
+    {{ $paginator := .Paginate ( $list ) }}
+
+    <div class="extra-pagination inner">
+        {{ partial "pagination.html" $paginator }}
+    </div>
+
+    {{ range $index, $page := $paginator.Pages }}
+        {{ partial "li.html" . }}
+    {{ end }}
+
+    {{ partial "pagination.html" $paginator }}
