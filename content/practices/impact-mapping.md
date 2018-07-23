@@ -24,7 +24,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 ## Related Practices
 
-- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts. 
+- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
 
 
 ## Who do you need?
@@ -67,13 +67,6 @@ Physical Variation:
 ## How does it fit?
 
 - Typically done in the Why area of the Discovery of the Open Practice Library
-
-## Additional Resources for Red Hatters (we're working to share more broadly)
-
-- Gojko Adzic's [original book in pdf format](https://mojo.redhat.com/docs/DOC-988976)
-- [Printouts to facilitate a session](https://drive.google.com/drive/folders/0By2q4H1d4ahQS2M3UGVrZ0dtT2c)
-- [Facilitation Slides](https://docs.google.com/a/redhat.com/presentation/d/1xGRapKJtNFEUeY5mMT7Vrljd325wD8oPo9yOhU7mod4/edit?usp=sharing) using the Ambassadors Program as an example
-- Impact Mapping and Design Thinking [slides](https://docs.google.com/presentation/d/1io_4_pUqhgjrlZotcTUF3se4Uu-9qQqlJKj1pHtx9Vc/edit#slide=id.g2542fa993d_0_0)
 
 ## External Resources
 

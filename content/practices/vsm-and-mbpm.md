@@ -51,8 +51,8 @@ Some teams prefer whiteboards, but the most common approach uses paper and PostI
 
 ## How does it fit?
 
-Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. 
-- The current state map is typically done in the Why area of the Discovery of the Open Practice Library. 
+Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation.
+- The current state map is typically done in the Why area of the Discovery of the Open Practice Library.
 - The future state map is typically done as part of the Outcomes area of the Discoery of the Open Practice Library.
 
 ## Additional Resources
@@ -70,12 +70,6 @@ Both VSM & MBPM document a current state map, and then design a future state map
 
 - [Webinar](https://vimeo.com/54601924) and [Slides](https://www.slideshare.net/KarenMartinGroup/metricsbased-process-mapping-what-when-how) from Karen Martin's Metrics-Based Process Mapping: What, When & How
 - [List of Webinars](https://www.ksmartin.com/webinar/metrics-based-process-mapping/) by Karen Martin
-
-## Additional Resources for Red Hatters (We're figuring out how to share these more broadly)
-
-- [Facilitation Guide](https://docs.google.com/a/redhat.com/presentation/d/1dtDYS83vUDn42wj5Mjik96N-NdEuofbX5_2il0p93L4/edit?usp=sharing) - Value Stream Mapping (VSM)
-- [Facilitation Guide](https://docs.google.com/presentation/d/1Ijkm2zMLMiJ4KS_evA4ufug0fOL01QOEsxBsZ89_EdA/edit#slide=id.gb6f3e2d2d_2_207) - Metrics-Based Process Mapping (MBPM)
-- [Software Delivery Example](https://app.bluescape.com/Bszck243FZrhMzcBVTTE?targetRect=%5B33678%2C4692%2C39053%2C10011%5D) - Bluescape with a VSM segment and 1 of 5 corresponding MBPM's
 
 ## External References
 

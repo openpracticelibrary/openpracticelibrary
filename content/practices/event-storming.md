@@ -72,11 +72,6 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 - Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
-## Additional Resources for Red Hatters (we're working to share more broadly)
-- [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
-- [Event Storming facilitation guide](https://docs.google.com/a/redhat.com/document/d/1LL0cGg8xlhma8Xpffgmleo5l2pPmJBGGsXsrhPx6edU/edit?usp=sharing)
-- Red Hat copy of [Vaughn Vernon's DDD Distilled](https://mojo.redhat.com/docs/DOC-1123762)
-
 ## External Resources
 1. <a name="footnote-1"></a>Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 2. <a name="footnote-2"></a>[Aggregates](https://martinfowler.com/bliki/DDD_Aggregate.html) as defined by Martin Fowler
