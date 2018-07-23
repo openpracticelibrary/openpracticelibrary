@@ -64,9 +64,9 @@ Physical Variation:
 - sticky notes
 - markers for stickies
 
-## Process Phase
+## How does it fit?
 
-When run strategically, at senior levels, Impact Mapping is a great way to run the "Define the Area to Focus Upon" phase of the Double Diamond design model[<sup>3</sup>](#footnote-3). When applied more tactically, Impact Mapping can used as a transition from the first diamond to the second, largely as a way to synthesize strategy work down to date in an easy to consume format.
+- Typically done in the Why area of the Discovery of the Open Practice Library
 
 ## Additional Resources for Red Hatters (we're working to share more broadly)
 

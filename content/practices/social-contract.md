@@ -52,8 +52,9 @@ To effectively use this practice you should look to create the following outcome
 - Stickies (preferably a wide variety)
 
 
-## Process Phase
-Beginning of engagement and revisited at any time.
+## How does it fit?
+
+- Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ![Visualisation of Work](/images/social-contract-1.png)
 ![Visualisation of Work](/images/social-contract-2.png)
