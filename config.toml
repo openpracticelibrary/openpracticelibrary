@@ -4,10 +4,14 @@
 baseURL = "https://optimistic-kilby-438ca3.netlify.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
-theme = "minimo"
+theme = "casper"
 # Why "docs" and not "public"? https://git.io/vXzj6
 publishDir = "docs"
 googleAnalytics = "UA-111461618-1"
+
+[params]
+paginatedsections = ["practices"]
+logo = "images/avatars/chameleon.png"
 
 [params.assets]
 customCSS = ["css/custom.css"]

@@ -1,3 +1,6 @@
 [submodule "themes/minimo"]
 	path = themes/minimo
 	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/casper"]
+	path = themes/casper
+	url = https://github.com/vjeantet/hugo-theme-casper.git
