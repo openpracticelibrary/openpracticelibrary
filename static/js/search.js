@@ -29,8 +29,5 @@
 		cleanedResults = "No pages found for \"" + searchTerm + "\". <br/> Please try another search, or let us know if something is missing.";
 	}
 
-
-
-
 	RESULTS.innerHTML = cleanedResults;
 })();
