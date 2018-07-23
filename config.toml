@@ -13,6 +13,7 @@ googleAnalytics = "UA-111461618-1"
 paginatedsections = ["practices"]
 logo = "images/avatars/chameleon.png"
 description = "Practies that empower teams to collaborate and deliver iteratively"
+customFooterPartial = "netlify.html"
 
 [params.assets]
 customCSS = ["css/custom.css"]

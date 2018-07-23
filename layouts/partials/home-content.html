@@ -1,7 +1,9 @@
     {{ range .Data.Pages }}
         {{if eq .Type "home" }}
         <div class="index-content post">
-        {{.Content}}
+          <div class="post-content">
+            {{.Content}}
+          </div>
         </div>
         {{end}}
     {{ end }}
