@@ -50,9 +50,11 @@ Some teams prefer whiteboards, but the most common approach uses paper and PostI
 - charcoal pencil and eraser[<sup>5</sup>](#footnote-5) to draw lines between PostIts
 - For MBPM; chalk line can be useful, but not required
 
-## Process Phase
+## How does it fit?
 
-Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. Using the Double Diamond design model[<sup>6</sup>](#footnote-6), the current state mapping takes us from the middle of the Discover stage to the middle of the Define stage, and the future state mapping takes us from the middle of the Define stage to the middle of Develop stage.
+Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation. 
+- The current state map is typically done in the Why area of the Discovery of the Open Practice Library. 
+- The future state map is typically done as part of the Outcomes area of the Discoery of the Open Practice Library.
 
 ## Additional Resources
 

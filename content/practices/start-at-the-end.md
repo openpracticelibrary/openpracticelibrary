@@ -44,9 +44,9 @@ Start At The End is a simple exercise to identify a set of assumptions which mus
 
 None required, but 3x5 sticky notes with markers can be useful if you want participants to jot their notes down independently and then present back.
 
-## Process Phase
+## How does it fit?
 
-When run strategically, at senior levels, Start At The End is a great way to run the "Define the Area to Focus Upon" phase of the Double Diamond design model[<sup>2</sup>](#footnote-2).
+- Typically done in the Why area of the Discovery of the Open Practice Library
 
 
 ## External Resources

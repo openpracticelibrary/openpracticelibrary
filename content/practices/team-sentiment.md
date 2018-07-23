@@ -39,13 +39,17 @@ Where the team has used the [Social Contract](/practices/social-contract/) pract
 - Facilitator - Medium
 - Participants - Easy
 
+## How does it fit?
+
+- Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
+
 ## Facilitation Materials Needed
 
 To use "Mood Marbles" as the Team Sentiment practice
 - A number of containers to hold enough marbles (can be drawings of containers on large flip-chart paper)
 - Red and Green Marbles (can be sticky notes) to start with. Other colors can be introduced.
 
-## Process Phase
+## How To
 
 Mood Marble containers are placed in a straegic place where all team members will see and walk pass regularly (for example, near the door or on the way to the bathroom).
 

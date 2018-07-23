@@ -54,8 +54,9 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - Painters Tape
 
 
-## Process Phase
-Realtime Retrospectives are a great way to reflect back and could be used during most any phase of the Double Diamond[<sup>7</sup>](#footnote-7) model.
+## How does it fit
+
+- Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## Additional Resources for Red Hatters (we are working to share more broadly)
  - Red Hatters can access secondary adaptation on how to facilitate a Realtime Retrospective [here](https://mojo.redhat.com/docs/DOC-1152594)
