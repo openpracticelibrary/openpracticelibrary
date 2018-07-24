@@ -4,6 +4,7 @@ date: 2017-10-19T17:03:59-04:00
 menu: main
 draft: false
 weight: 100
+authors: ["ryan", "donal"]
 ---
 
 ## Goals of this Library

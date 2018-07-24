@@ -1,10 +1,13 @@
-{{ if not .Params.noauthor }}
-{{ if or .Params.author .Site.Params.author .author}}
-{{$authorname := or .Params.author .Site.Params.author .author}}
-{{$authorbio := or .Params.authorbio .Site.Params.authorbio .authorbio}}
-{{$authorlocation := or .Params.authorlocation .Site.Params.authorlocation .authorlocation}}
-{{$authorwebsite := or .Params.authorwebsite .Site.Params.authorwebsite .authorwebsite}}
-{{$authoravatar := or .Params.authoravatar .Site.Params.logo .authoravatar}}
+{{ if .name}}
+
+<!-- {{$authorname := or .Params.author .Site.Params.author .author}}
+ -->
+
+{{$authorname := .name}}
+{{$authorbio := .bio}}
+{{$authorlocation := .location}}
+{{$authorwebsite := .website}}
+{{$authoravatar := .avatar}}
 
 {{with $authoravatar}}
 <figure class="author-image">
@@ -24,5 +27,4 @@
     {{with $authorwebsite}}<span class="author-link icon-link"><a href="{{.}}">{{.}}</a></span>{{end}}
   </div>
 </section>
-{{end}}
 {{end}}
