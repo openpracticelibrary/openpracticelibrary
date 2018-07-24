@@ -22,11 +22,11 @@
 		for (var i = 0; i < initialResults.length; i++) {
 			var res = initialResults[i].ref;
 			res = res.replace(/-/g, " ").replace(/([^a-z]|^)([a-z])(?=[a-z]{2})/g, function(_, g1, g2) { return g1 + g2.toUpperCase();});
-			cleanedResults += "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'><a href='" + window.location.origin + "/practice-library/practices/" +  initialResults[i].ref + "'>" + res + "</a></li></article></header></h3></header></article></li>";
+			cleanedResults += "<li class='list-item'><article><header class='list-item-header'><h3 class='list-item-title'><a href='" + window.location.origin + "/practices/" +  initialResults[i].ref + "'>" + res + "</a></li></article></header></h3></header></article></li>";
 		}
 	}
 	else {
-		cleanedResults = "No pages found for \"" + searchTerm + "\". <br/> Please try another search, or let us know if something is missing.";
+		cleanedResults = "No pages found for \"" + searchTerm + "\". <br/> Please try another search, or <a style='text-decoration: underline;' href='https://github.com/openpracticelibrary/openpracticelibrary/issues/new'>let us know</a> if something is missing.";
 	}
 
 	RESULTS.innerHTML = cleanedResults;
