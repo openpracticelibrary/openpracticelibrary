@@ -4,9 +4,9 @@ date: 2017-10-19T21:03:59.000Z
 ---
 ## Goals of this Library
 
-While this is intended for everyone who has an interest in learning more about the practices used by teams on a continuous journey of discovery and delivery building applications, this Open Practice Library has two main goals in mind.
+While this is intended for everyone who has an interest in learning more about the practices used by teams on a continuous journey of discovery and delivery building applications, this Open Practice Library has two main goals in mind. test
 
-![]()
+![null]()
 
 ### Share the Big Picture
 
