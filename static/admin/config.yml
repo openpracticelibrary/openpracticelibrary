@@ -14,9 +14,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Authors", name: "authors", widget: "list", default: []}
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
@@ -24,9 +24,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Authors", name: "authors", widget: "list", default: []}
   - name: "content-authors" # Used in routes, e.g., /admin/collections/blog
     label: "Content Authors" # Used in the UI
     format: "toml"
