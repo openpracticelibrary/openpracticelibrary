@@ -11,14 +11,14 @@ Team Sentiment practices track the mood of a team and provide a mechanism for te
 
 ## Why use a Team Sentiment pratice?
 
-Team sentiment practices enable problems to be identified, radiated and addressed early. They enable the team to quickly discuss where one or more team members is suddenly troubled by the direction their work is going and can also provide an information radiator to assess the overall team health and feeling. 
+Team sentiment practices enable problems to be identified, radiated and addressed early. They enable the team to quickly discuss where one or more team members is suddenly troubled by the direction their work is going and can also provide an information radiator to assess the overall team health and feeling.
 
-Team sentiment practices are often introduced where there is a strong sense of servant leadership in the working environment. 
+Team sentiment practices are often introduced where there is a strong sense of servant leadership in the working environment.
 
 
 ## Related Practices
 
-Where the team has used the [Social Contract](/practices/social-contract/) practice, team sentiment practices can help enforce some of the feeling radiated in the Social Contract. 
+Where the team has used the [Social Contract](/practices/social-contract/) practice, team sentiment practices can help enforce some of the feeling radiated in the Social Contract.
 
 [Retrospectives](/practices/realtime-retrospective/) are excellent check-points on the team health and taking the opportunity to review the Team Sentiment artefcts can facilitate a team conversation as to how they can improve overall team mood and what has been learned in the recent iteration.
 
@@ -51,7 +51,7 @@ To use "Mood Marbles" as the Team Sentiment practice
 
 ## How To
 
-Mood Marble containers are placed in a straegic place where all team members will see and walk pass regularly (for example, near the door or on the way to the bathroom).
+Mood Marble containers are placed in a strategic place where all team members will see and walk pass regularly (for example, near the door or on the way to the bathroom).
 
 Team are encouraged to think about their current mood. Start with positive (green) and negative (red) and each team member adds a marble to the container that reflects their mood.
 
