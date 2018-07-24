@@ -4,17 +4,7 @@
 
 The [Open Practice Library](https://openpracticelibrary.com) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
 
-### Adding content
-
-Fork the repo, add or change markdown files, and create a pull request. Your changes will be built in a preview environment and linked to from the pull request.
-
-## Practices
-
-Create a new markdown file in `/content/practices`.
-
-## Pages
-
-Create a new markdown file in `/content/pages`.
+To get started contributing content, see the [Contributing](CONTRIBUTING.md) guide.
 
 ### Drafts
 
