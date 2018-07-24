@@ -29,3 +29,10 @@ collections:
     label: "Content Authors" # Used in the UI
     folder: "Data/content/authors" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "GitHub Username", name: "github", widget: "string",}
+      - {label: "Avatar", name: "avatar", widget: "string"}
+      - {label: "About you", name: "bio", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "WebSite", name: "website", widget: "string"}
