@@ -1,7 +1,9 @@
 # https://gohugo.io/getting-started/configuration/
 # https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
+
 baseURL = "https://optimistic-kilby-438ca3.netlify.com/"
+
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "minimo"
