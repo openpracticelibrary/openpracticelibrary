@@ -25,6 +25,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Authors", name: "authors", widget: "list"}
   - name: "content-authors" # Used in routes, e.g., /admin/collections/blog
     label: "Content Authors" # Used in the UI
     format: "toml"
