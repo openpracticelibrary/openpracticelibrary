@@ -1,14 +1,11 @@
 # https://gohugo.io/getting-started/configuration/
 # https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
-
 baseURL = "http://openpracticelibrary.com/"
 
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "minimo"
-# Why "docs" and not "public"? https://git.io/vXzj6
-publishDir = "docs"
 googleAnalytics = "UA-111461618-1"
 
 [params.assets]
