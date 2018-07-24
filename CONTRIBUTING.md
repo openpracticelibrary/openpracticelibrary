@@ -32,8 +32,21 @@ Once you create a pull request, your changes will be built in a deploy preview. 
 
 ## Gathering Feedback
 
-We will provide kind and constructive feedback on your PR.
+As a community, we strive to provide kind and constructive feedback on your PR.
 
 If a pull request doesn't meet the "must be" guidelines, we may ask that the practice be updated before it's merged. If a pull request doesn't meet the "should be" guidelines, we may merge the pull request and add an issue for future improvements to the practice.
 
-Again, thank you so much for your interest and support! We look forward to working with you.
+Again, thank you so much for your interest and support! We look forward to enhancing the Open Practice Library.
+
+## Style
+
+These style guidelines apply to the Markdown files in the `/content` directory.
+
+- Use hyphens, not underscores, to separate parts of a filename. (The filenames are turned into URLs when the site is built.)
+- Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag and anchors, which we're using for footnotes.
+- When linking to external sites, place the link into an "external references" section, and use a footnote anchor to point to the link.
+- Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the document's front matter (`title: my title`).
+
+## If Using Github to Contribute
+
+New Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft`. For example, typing `hugo undraft page/my_new_page.md` will publish the corresponding page.
