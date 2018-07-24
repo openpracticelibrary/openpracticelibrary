@@ -29,8 +29,5 @@
 		cleanedResults = "No pages found for \"" + searchTerm + "\". <br/> Please try another search, or <a style='text-decoration: underline;' href='https://github.com/openpracticelibrary/openpracticelibrary/issues/new'>let us know</a> if something is missing.";
 	}
 
-
-
-
 	RESULTS.innerHTML = cleanedResults;
 })();

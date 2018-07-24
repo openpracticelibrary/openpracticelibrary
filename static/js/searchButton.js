@@ -9,6 +9,6 @@ searchfield.addEventListener("keyup", function(event) {
 });
 
 searchbutton.onclick = function () {
-	window.location.replace("/practice-library/search/?search=" + searchfield.value);
+	window.location.replace("/search/?search=" + searchfield.value);
 	return false;
 };

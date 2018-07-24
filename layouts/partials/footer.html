@@ -6,13 +6,21 @@
     </footer>
 
   </div>
-  {{ partial "footer-searchbutton" }}
   {{- partial "footer/scripts" . -}}
 
-<div style="display:none;">
-  You have found the magical WoK!
-</div>
-
+  {{ partial "footer-searchbutton" }}
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 
 </html>

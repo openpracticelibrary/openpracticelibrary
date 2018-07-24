@@ -23,16 +23,39 @@ Just enough information for each practice to "specify the end state, it’s purp
 
 ## Contributing
 
-We'd love to hear your thoughts about the material presented here or other content you'd like to add. [Open an issue](https://github.com/rht-labs/practice-library/issues) and we can go from there.
+We'd love to hear your thoughts about the material presented here or other content you'd like to add. [Open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) and we can go from there.
 
-Alternately, feel free to fork our [github repo](https://github.com/rht-labs/practice-library) and submit a PR of your proposed changes. We use markdown files for our base content that gets rendered for this site. For helpful development setup see our [README](https://github.com/rht-labs/practice-library/blob/master/README.md)
+Alternately, feel free to fork our [github repo](https://github.com/openpracticelibrary/openpracticelibrary) and submit a PR of your proposed changes. We use markdown files for our base content that gets rendered for this site. For helpful development setup see our [README](https://github.com/openpracticelibrary/openpracticelibrary/blob/master/README.md)
 
 ## Style
 
 We're looking to be friendly and also authoritative, comprehensive and also concise. We use the active voice where possible to help guide teams to action. We don't always get it right, though. If you find something that could be clearer or punchier, feel free to send us a merge request!
 
 ## How to Fit These Practices into Your Existing Approach
-While we have our own approach to engagements, we understand that there might be an approach you are already following. So, we place each practice in the British Design Council's Double Diamond model. This is [originally documented here](http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond), although [we like this slightly broader and more detailed walk through](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812). The Double Diamond model is widely used and easily transferable to other Design Thinking models, so regardless of which approach you use, you should be able to see where each practice fits.
+While everybody has their approach to engagements, there is a need to identify particular outcomes that common practices look to accomplish.
+
+So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
+
+![mobius](/images/mobius-with-foundation-revised.png)
+
+Practices are identified on one of areas of the canvas:
+
+
+1. The "Why" area of the Discovery Loop - Why practices help describe purpose. Why are we doing this? What is the problem we need to solve or idea to pursue? Who are our target customers, and what do they need?
+
+2. The "Outcomes" area of the Discovery Loop - Practices about Outcomes help establish where we want to get to, and how we will measure the customer and business needs are delivered. What are our objectives and deliverables?
+
+3. The "Options" - Practices in the Options area help define what to work on first and what is enough Delivery before going to Discovery to define the next set of outcomes. What is the priority order of work items? Did we met our outcomes based on the deliverables? Did we disprove an outcome based on the deliverables?
+
+4. The "Deliver" area of the Delivery Loop - Deliver practices help establish how we run experiments and deliver solutions to stakeholders and users.
+
+5. The "Measure & Learn" area of the Delivery Loop - Measure is where we assess what really happened. Did we deliver a desired outcome? How much of an impact did we really make? How well did we do with the way we worked? Learn is the feedback loop that takes us back to the options pivot. This is where we learn what to do next.
+
+6. The "Culture & Collaboration" area of the Foundation layer - Culture practices help provide the environment, establish team relationships, mindset and engagement to facilitate a smooth and continuous journey round Discovery and Delivery loops. Collaboration practices help facilitate conversation and alignment in a transparent and open manner facilitating successful Discovery and Delivery practices to be effective.
+
+7. The "Technical" area of the Foundation layer - Technical practices enable the successful continuous and sustainable delivery of value from teams working on the discovery and delivery loops above.
+
+
 
 ## Other Libraries That Inspired Us
 
