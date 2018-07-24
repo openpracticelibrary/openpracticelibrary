@@ -54,10 +54,9 @@ There are lots of different formats retrospectives can take (see the references 
 - Clock for time boxing
 
 
-## Process Phase
+## How does it fit?
 
-Often run at the end of iterations / sprints on a rhythm (same time on same day) but can be run at any time.
-
+- Typically done in the Learn and Measure area of the Delivery of the Open Practice Library
 
 ## External References
 

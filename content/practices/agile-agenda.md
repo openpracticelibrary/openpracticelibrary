@@ -1,8 +1,6 @@
 ---
-date: 2017-05-15T00:00:00-05:00
 title: Agile Agenda
-draft: false
-stages: ['discovery']
+date: 2017-05-15T05:00:00.000Z
 ---
 
 ## What is it?
@@ -50,8 +48,8 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 - Stickies (preferably a wide variety)
 
 
-## Process Phase
-Any time
+## How Does it Fit?
+ - Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## External References
 1. <a name="footnote-1"></a>[Information Radiator by Alistair Cockburn](http://alistair.cockburn.us/Information+radiator)

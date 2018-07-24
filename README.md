@@ -2,27 +2,19 @@
 
 ## About
 
-The [Open Practice Library](https://rht-labs.github.io/practice-library/) provides information about practices and ideas that we use here at Red Hat Open Innovation Labs. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
+The [Open Practice Library](https://openpracticelibrary.com) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
 
-## Adding Content
+### Adding content
 
-To add content: fork this repository, add your content, and then send us a pull request.
-
-Content is formatted in [Markdown](http://commonmark.org/help/) with [YAML front matter](https://gohugo.io/content-management/front-matter/).
+Fork the repo, add or change markdown files, and create a pull request. Your changes will be built in a preview environment and linked to from the pull request.
 
 ## Practices
 
-Create a new markdown file in `/content/practices`. If you have hugo installed, you can run `hugo new practices/my_new_practice.md`.
+Create a new markdown file in `/content/practices`.
 
-## Waypoints
+## Pages
 
-Create a new markdown file in `/content/waypoints`. If you have hugo installed, you can run `hugo new waypoints/my_new_waypoint.md`.
-
-## Stages
-Create a new markdown file in `/content/stages`. If you have hugo installed, you can run `hugo new stages/my_new_stage.md`.
-
-## Routes
-Edit one of the [Stage](/stages) pages.
+Create a new markdown file in `/content/pages`.
 
 ### Drafts
 
@@ -43,22 +35,15 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo th
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
-3. Run `git submodule update --init --recursive` to download the theme.
-4. Navigate to the top level of the repo.
-5. Run `hugo server` to run the site locally.
+3. [Install Node.js](https://nodejs.org/en/download/).
+4. Run `git submodule update --init --recursive` to download the theme.
+5. Navigate to the top level of the repo.
+6. Run `npm install` to install the npm packages.
+7. Run `npx grunt-cli lunr-index` to build the search index.
+8. Run `hugo server` to run the site locally.
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
 ### Deploying
 
-The site is [published to GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch) using a `docs` directory on the master branch.
-
-To push changes to GitHub pages:
-
-1. Delete the `docs` directory. (Hugo won't delete old files by default.)
-2. Run `hugo` (without any parameters) to rebuild the `docs` directory.
-3. Add, commit, and push these changes.
-4. Create a pull request.
-5. Merge to master, or ask someone else to merge to master.
-
-Once the changes are merged up, the new content will be deployed automatically.
+When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.com. The site will then be deployed. The [build log] shows the status of each build.

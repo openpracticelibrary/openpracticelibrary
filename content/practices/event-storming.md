@@ -31,7 +31,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 ## Related Practices
 
-- [User Story Mapping](https://rht-labs.github.io/practice-library/practices/user-story-mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
+- [User Story Mapping](/practices/user-story-mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
 - Journey Mapping[<sup>4</sup>](#footnote-4) can provide a high level overview of the business process before using Event Storming to get into the details
 - Event Storming will identify key views for your user interface, which can jump start Site Mapping[<sup>5</sup>](#footnote-5) or Wireframing[<sup>6</sup>](#footnote-6)
 
@@ -68,13 +68,9 @@ Event Storming is a rapid, interactive approach to business process discovery an
 
 
 
-## Process Phase
-Event Storming is a great way to kick off the "Develop Potential Solutions" phase of the Double Diamond design model[<sup>10</sup>](#footnote-10).
+## How does it fit?
 
-## Additional Resources for Red Hatters (we're working to share more broadly)
-- [Slides from Red Hat Summit 2017 Session](https://docs.google.com/a/redhat.com/presentation/d/125w0k76hsZBrDEqk7XwdUdZe4aets3kE_H3U-pU56Fg/edit?usp=sharing)
-- [Event Storming facilitation guide](https://docs.google.com/a/redhat.com/document/d/1LL0cGg8xlhma8Xpffgmleo5l2pPmJBGGsXsrhPx6edU/edit?usp=sharing)
-- Red Hat copy of [Vaughn Vernon's DDD Distilled](https://mojo.redhat.com/docs/DOC-1123762)
+- Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
 ## External Resources
 1. <a name="footnote-1"></a>Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)

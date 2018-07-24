@@ -15,7 +15,7 @@ Start At The End is a simple exercise to identify a set of assumptions which mus
 
 ## Why use Start At The End?
 
-- Most planning activities revolve around juggling a "shopping list of features," as Gojko Adzic calls them in [Impact Mapping](/practices/impact-mapping/). Even though the features are delivered, often the business objective is not achieved. Start At The End gives us a light weight approach to but the business value at the center of our work and make sure that assumptions that could lead to failure are clearly identified for examination 
+- Most planning activities revolve around juggling a "shopping list of features," as Gojko Adzic calls them in [Impact Mapping](/practices/impact-mapping/). Even though the features are delivered, often the business objective is not achieved. Start At The End gives us a light weight approach to put the business value at the center of our work and make sure that assumptions that could lead to failure are clearly identified for examination 
 - Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
 - The technique forces participants to think about failure, which many teams never do. It's surprising how much you can learn about a domain just by getting participants to share their fears. 
 - It's easy to communicate the results of the session in slide ware and project rooms. We'd recommend keeping the results up in the project space throughout your effort.
@@ -44,9 +44,9 @@ Start At The End is a simple exercise to identify a set of assumptions which mus
 
 None required, but 3x5 sticky notes with markers can be useful if you want participants to jot their notes down independently and then present back.
 
-## Process Phase
+## How does it fit?
 
-When run strategically, at senior levels, Start At The End is a great way to run the "Define the Area to Focus Upon" phase of the Double Diamond design model[<sup>2</sup>](#footnote-2).
+- Typically done in the Why area of the Discovery of the Open Practice Library
 
 
 ## External Resources

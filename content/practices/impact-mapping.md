@@ -20,11 +20,11 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 - Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
 - Impact Mapping introduces a very simple human centered design process, and as such, it is a great way to put lightweight design thinking techniques into practice
 - It's a graphical mind map, which reduces the barrier to entry for participants and facilitators alike
-- The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. At Labs, we typical run a 4-6 hour session with Project Sponsors during a Discovery Session. These are just two of endless possible variations of the technique.
+- The technique is highly adaptable, because the core mind map is so simple. Gojko's original text describes a ~4 week executive level strategic planning workshop. It can also be run in a 4-6 hour session with Project Sponsors in the early stages of product development planning. These are just two of endless possible variations of the technique.
 
 ## Related Practices
 
-- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts. 
+- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
 
 
 ## Who do you need?
@@ -36,7 +36,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 ## Suggested Time
 
-For the shortened variation Labs uses:
+For the shortened variation:
 
 - 2-4 hours of prep to establish a [goal or problem statement](/practices/why-is-defined/) _before_ the session. This is important, or your session will go sideways!
 - optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
@@ -64,16 +64,9 @@ Physical Variation:
 - sticky notes
 - markers for stickies
 
-## Process Phase
+## How does it fit?
 
-When run strategically, at senior levels, Impact Mapping is a great way to run the "Define the Area to Focus Upon" phase of the Double Diamond design model[<sup>3</sup>](#footnote-3). When applied more tactically, Impact Mapping can used as a transition from the first diamond to the second, largely as a way to synthesize strategy work down to date in an easy to consume format.
-
-## Additional Resources for Red Hatters (we're working to share more broadly)
-
-- Gojko Adzic's [original book in pdf format](https://mojo.redhat.com/docs/DOC-988976)
-- [Printouts to facilitate a session](https://drive.google.com/drive/folders/0By2q4H1d4ahQS2M3UGVrZ0dtT2c)
-- [Facilitation Slides](https://docs.google.com/a/redhat.com/presentation/d/1xGRapKJtNFEUeY5mMT7Vrljd325wD8oPo9yOhU7mod4/edit?usp=sharing) using the Ambassadors Program as an example
-- Impact Mapping and Design Thinking [slides](https://docs.google.com/presentation/d/1io_4_pUqhgjrlZotcTUF3se4Uu-9qQqlJKj1pHtx9Vc/edit#slide=id.g2542fa993d_0_0)
+- Typically done in the Why area of the Discovery of the Open Practice Library
 
 ## External Resources
 
