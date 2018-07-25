@@ -153,16 +153,10 @@
 
   <footer class="post-footer">
 
-    {{if .Site.Params.logo}}
-    <figure class="author-image">
-        <a class="img" href="{{.Site.BaseURL}}" style="background-image: url({{.Site.Params.logo | relURL}})"><span class="hidden">{{.Site.Params.author}}'s Picture</span></a>
-    </figure>
-    {{end}}
-
-    {{ range $.Site.Data.content.authors }}
-    <div>PAGE</div>
-      {{ partial "author.html" . }}
-    {{ end }}    
+    {{ range $.Params.authors }}
+      {{ $currentAuthor := index $.Site.Data.content.authors .}}
+      {{ partial "author.html" $currentAuthor }}
+    {{ end }}
 
     {{ partial "share.html" . }}
 
