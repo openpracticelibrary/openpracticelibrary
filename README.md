@@ -1,5 +1,7 @@
 # Open Practice Library
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Open-Practice-Library/) [Build Log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master)
+
 ## About
 
 The [Open Practice Library](https://openpracticelibrary.com) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
@@ -23,4 +25,4 @@ Alternately, you can run `hugo server -D` to preview drafts.
 
 ### Deploying
 
-When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.com. The site will then be deployed. The [build log] shows the status of each build.
+When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.com. The site will then be deployed. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master) shows the status of each build.
