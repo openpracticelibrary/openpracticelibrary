@@ -4,10 +4,10 @@
  -->
 
 {{$authorname := .name}}
-{{$authorbio := .bio}}
-{{$authorlocation := .location}}
-{{$authorwebsite := .website}}
-{{$authoravatar := .avatar}}
+{{$authorbio := or .bio ""}}
+{{$authorlocation := or .location ""}}
+{{$authorwebsite := or .website ""}}
+{{$authoravatar :=  print "https://github.com/" .github ".png?size=40" }}
 
 {{with $authoravatar}}
 <figure class="author-image">
