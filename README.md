@@ -10,4 +10,4 @@ The [Open Practice Library](https://openpracticelibrary.com) provides informatio
 
 To get started contributing content, see the [Contributing guide](CONTRIBUTING.md). To start contributing code, see the [Developing guide](DEVELOPING.md).
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
+See also: [Code of Conduct](CODE_OF_CONDUCT.md).
