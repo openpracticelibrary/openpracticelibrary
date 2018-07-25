@@ -36,7 +36,7 @@ While everybody has their approach to engagements, there is a need to identify p
 
 So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
 
-![mobius](/images/mobius-with-foundation-revised.png)
+![mobius-on-foundation](/images/mobius-on-foundation.jpg)
 
 Practices are identified on one of areas of the canvas:
 
