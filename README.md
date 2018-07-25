@@ -1,33 +1,12 @@
 # Open Practice Library
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Open-Practice-Library/) [Build Log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master)
+
 ## About
 
-The [Open Practice Library](https://openpracticelibrary.netlify.com/) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
+The [Open Practice Library](https://openpracticelibrary.com) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
 
-### Adding content
-
-Fork the repo, add or change markdown files, and create a pull request. Your changes will be built in a preview environment and linked to from the pull request.
-
-## Practices
-
-Create a new markdown file in `/content/practices`.
-
-## Pages
-
-Create a new markdown file in `/content/pages`.
-
-### Drafts
-
-Content is created in draft status by default. To publish, set `draft: false` in the front matter or run `hugo undraft`. For example, typing `hugo undraft page/my_new_page.md` will publish the corresponding page.
-
-### Style
-
-These style guidelines apply to the Markdown files in the `/content` directory.
-
-- Use hyphens, not underscores, to separate parts of a filename. (The filenames are turned into URLs when the site is built.)
-- Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag and anchors, which we're using for footnotes.
-- When linking to external sites, place the link into an "external references" section, and use a footnote anchor to point to the link.
-- Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the document's front matter (`title: my title`).
+To get started contributing content, see the [Contributing](CONTRIBUTING.md) guide.
 
 ## Developing
 
@@ -46,4 +25,4 @@ Alternately, you can run `hugo server -D` to preview drafts.
 
 ### Deploying
 
-When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.netlify.com. The site will then be deployed. The [build log] shows the status of each build.
+When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.com. The site will then be deployed. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master) shows the status of each build.

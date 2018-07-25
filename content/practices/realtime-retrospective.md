@@ -58,9 +58,6 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 
 - Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
-## Additional Resources for Red Hatters (we are working to share more broadly)
- - Red Hatters can access secondary adaptation on how to facilitate a Realtime Retrospective [here](https://mojo.redhat.com/docs/DOC-1152594)
-
 ## External References
   1. <a name="footnote-1"></a>[Realtime Retrospectives by Emily Webber](http://emilywebber.co.uk/the-realtime-retrospective/)
   2. <a name="footnote-2"></a>[Timeline Retrospectives by Patrick Kua](https://www.thekua.com/rant/2006/03/a-retrospective-timeline/)

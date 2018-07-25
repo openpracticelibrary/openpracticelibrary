@@ -3,7 +3,7 @@
   # This will be your default build command
   command = "./build.sh"
   # This is the directory that you are publishing from (relative to root of your repo)
-  publish = "docs"
+  publish = "public"
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.44"
 
