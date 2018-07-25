@@ -28,7 +28,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "authors" # Used in routes, e.g., /admin/collections/blog
-    label: "Content Authors" # Used in the UI
+    label: "Author" # Used in the UI
     format: "toml"
     extension: "toml"
     folder: "data/content/authors" # The path to the folder where the documents are stored
