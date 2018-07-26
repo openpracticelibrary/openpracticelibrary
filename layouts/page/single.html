@@ -153,11 +153,6 @@
 
   <footer class="post-footer">
 
-    {{ range $.Params.authors }}
-      {{ $currentAuthor := index $.Site.Data.content.authors .}}
-      {{ partial "author.html" $currentAuthor }}
-    {{ end }}
-
     {{ partial "share.html" . }}
 
     {{ partial "disqus.html" . }}

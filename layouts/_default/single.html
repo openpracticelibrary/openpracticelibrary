@@ -156,11 +156,10 @@
     {{ $scratch := newScratch }}
     {{ range $.Params.authors }}
       {{ $currrentAuthor := index $.Site.Data.content.authors .}}
-      {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }} 
+      {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }}
     {{ end }}
-    {{ $kingOfAuthors := $scratch.Get "listOfAuthors" }}
-    {{ partial "author.html" $kingOfAuthors }}
-
+    {{ $listOfAuthors := $scratch.Get "listOfAuthors"}}
+    {{ partial "author.html" $listOfAuthors }}  
 
     {{ partial "share.html" . }}
 
