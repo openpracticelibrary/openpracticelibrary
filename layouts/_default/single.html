@@ -153,10 +153,14 @@
 
   <footer class="post-footer">
 
+    {{ $scratch := newScratch }}
     {{ range $.Params.authors }}
-      {{ $currentAuthor := index $.Site.Data.content.authors .}}
-      {{ partial "author.html" $currentAuthor }}
+      {{ $currrentAuthor := index $.Site.Data.content.authors .}}
+      {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }} 
     {{ end }}
+    {{ $kingOfAuthors := $scratch.Get "listOfAuthors" }}
+    {{ partial "author.html" $kingOfAuthors }}
+
 
     {{ partial "share.html" . }}
 
