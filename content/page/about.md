@@ -8,13 +8,13 @@ authors: ["ryan", "donal"]
 ---
 
 ## Goals of this Library
-While this is intended for everyone who has an interest in learning more about the Red Hat Open Innovation Labs processes and practices, this Open Practice Library has two main goals in mind.
+While this is intended for everyone who has an interest in learning more about the practices used by teams on a continuous journey of discovery and delivery building applications, this Open Practice Library has two main goals in mind.
 
 ### Share the Big Picture
-Describe how Red Hat and Red Hat Open Innovation Labs use practices to accomplish engagement success. Learn how practices fit with each other and the way that we take individual Practices to create seamless engagement delivery.
+Describe how people in this community use practices to accomplish engagement success. Learn how practices fit with each other and the way that we take individual practices to create seamless engagement delivery.
 
 ### Search with Intent
-Share details about a particular practice that Red Hat Open Innovation Labs uses. Know our perspective on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
+Share details about a particular practice that community members use, learn perspectives on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
 
 ## What This Library Is *Not*
 An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.

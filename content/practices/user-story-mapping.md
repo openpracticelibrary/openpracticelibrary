@@ -61,9 +61,6 @@ User Story Mapping is an evolution of the traditional Agile backlog, made popula
 
 - Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
-## Additional Resources for Red Hatters (we're working to share more broadly)
-- Red Hatters can access a copy of Jeff Patton's User Story Mapping book [here](https://mojo.redhat.com/docs/DOC-1024866)
-
 ## External Resources
 1. <a name="footnote-1"></a>[User Story Mapping by Jeff Patton in 2008](http://jpattonassociates.com/the-new-backlog/)
 2. <a name="footnote-2"></a>[Program Increment Planning](http://www.scaledagileframework.com/pi-planning/) by SAFe

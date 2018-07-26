@@ -5,8 +5,7 @@ baseURL = "https://openpracticelibrary.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "casper"
-# Why "docs" and not "public"? https://git.io/vXzj6
-publishDir = "docs"
+
 googleAnalytics = "UA-111461618-1"
 
 [params]

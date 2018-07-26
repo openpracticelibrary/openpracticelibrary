@@ -1,5 +1,10 @@
 .DS_Store
 node_modules/
-docs/
-public/
+
+# Editor files
 *.swp
+
+# Old publish directory (from when we used GitHub pages)
+docs/
+# New publish directory
+public/

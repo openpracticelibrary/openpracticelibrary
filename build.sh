@@ -27,11 +27,11 @@ _printBuildStep(){
   if [[ ${rc} != 0 ]];then
     exit ${rc}
   fi
-} 
+}
 
 clean(){
-    _printBuildStep "rm -rvf docs"
-} 
+    _printBuildStep "rm -rvf public"
+}
 
 test(){
     _printBuildStep "echo test-command"
