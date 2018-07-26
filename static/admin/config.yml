@@ -13,8 +13,16 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title of practice", name: "title", widget: "string"}
       - {label: "Authors", name: "authors", widget: "list", default: []}
+      - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
+          [{label: "Discovery - Why", value: "DiscoveryLoop-Why"},
+          {label: "Discovery - Outcomes", value: "DiscoveryLoop-Outcomes"},
+          {label: "Options", value: "Options"},
+          {label: "Delivery - Deliver", value: "Delivery-Deliver"},
+          {label: "Delivery - Measure & Learn", value: "Delivery-Measure&Learn"},
+          {label: "Foundation - Culture & Collaboration", value: "Foundation-Culture&Collaboration"},
+          {label: "Foundation - Technical", "Foundation-Technical"}]}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

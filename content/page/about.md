@@ -20,7 +20,7 @@ Share details about a particular practice that community members use, learn pers
 An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
 
 ## What This Library *Is*
-Just enough information for each practice to "specify the end state, it’s purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jex Humble, Joanne Molesky & Barry O'Reilly.
+Just enough information for each practice to "specify the end state, it’s purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
 
 ## Contributing
 
@@ -37,7 +37,7 @@ While everybody has their approach to engagements, there is a need to identify p
 
 So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
 
-![mobius](/images/mobius-with-foundation-revised.png)
+![mobius-on-foundation](/images/mobius-on-foundation.jpg)
 
 Practices are identified on one of areas of the canvas:
 
