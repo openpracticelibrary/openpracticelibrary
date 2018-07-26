@@ -1,8 +1,0 @@
-{{ if .Params.practices }}
-  <h3>Related Practices</h3>
-  <ul class="related-list">
-    {{ range $item := .Params.practices }}
-      <li><a href="/practices/{{ $item }}">{{ $item | humanize | title }}</a></li>
-    {{ end }}
-  </ul>
-{{ end }}

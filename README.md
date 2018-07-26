@@ -31,7 +31,7 @@ These style guidelines apply to the Markdown files in the `/content` directory.
 
 ## Developing
 
-Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo theme](https://minimo.netlify.com/). To run it locally:
+Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Hugo Casper theme](https://github.com/vjeantet/hugo-theme-casper). To run it locally:
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).

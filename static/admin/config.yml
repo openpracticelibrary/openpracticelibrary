@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  repo: springdo/practice-library
-  branch: new-theme # Branch to update (optional; defaults to master)
+  repo: openpracticelibrary/openpracticelibrary
+  branch: master # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
