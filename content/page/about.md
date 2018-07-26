@@ -19,7 +19,7 @@ Share details about a particular practice that community members use, learn pers
 An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
 
 ## What This Library *Is*
-Just enough information for each practice to "specify the end state, it’s purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jex Humble, Joanne Molesky & Barry O'Reilly.
+Just enough information for each practice to "specify the end state, it’s purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
 
 ## Contributing
 
