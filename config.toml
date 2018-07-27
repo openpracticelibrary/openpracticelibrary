@@ -11,8 +11,10 @@ googleAnalytics = "UA-111461618-1"
 [params]
 paginatedsections = ["practices"]
 logo = "images/avatars/chameleon.png"
-description = "Practies that empower teams to collaborate and deliver iteratively"
+description = "Practices that empower teams to collaborate and deliver iteratively"
 customFooterPartial = "footer-custom.html"
+
+[params.assets]
 customCSS = ["css/custom.css"]
 
 [permalinks]
