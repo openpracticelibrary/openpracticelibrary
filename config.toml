@@ -1,12 +1,18 @@
 # https://gohugo.io/getting-started/configuration/
 # https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
-baseURL = "http://openpracticelibrary.com/"
-
+baseURL = "https://openpracticelibrary.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
-theme = "minimo"
+theme = "casper"
+
 googleAnalytics = "UA-111461618-1"
+
+[params]
+paginatedsections = ["practices"]
+logo = "images/avatars/chameleon.png"
+description = "Practies that empower teams to collaborate and deliver iteratively"
+customFooterPartial = "netlify.html"
 
 [params.assets]
 customCSS = ["css/custom.css"]

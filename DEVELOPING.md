@@ -1,6 +1,6 @@
 # Developing
 
-Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Minimo theme](https://minimo.netlify.com/). To run it locally:
+Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Casper theme](https://github.com/vjeantet/hugo-theme-casper). To run it locally:
 
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
@@ -15,4 +15,4 @@ Alternately, you can run `hugo server -D` to preview drafts.
 
 ## Deploying
 
-When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.com. The site will then be deployed. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master) shows the status of each build.
+When changes are merged to master, the `build.sh` script will run, and the site will be deployed to https://openpracticelibrary.com. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master) shows the status of each build.

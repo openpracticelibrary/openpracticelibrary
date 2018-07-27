@@ -14,6 +14,7 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title of practice", name: "title", widget: "string"}
+      - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "DiscoveryLoop-Why"},
           {label: "Discovery - Outcomes", value: "DiscoveryLoop-Outcomes"},
@@ -24,12 +25,26 @@ collections:
           {label: "Foundation - Technical", "Foundation-Technical"}]}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "page" # Used in routes, e.g., /admin/collections/blog
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "authors" # Used in routes, e.g., /admin/collections/blog
+    label: "Author" # Used in the UI
+    format: "toml"
+    extension: "toml"
+    folder: "data/content/authors" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "GitHub Username", name: "github", widget: "string"}
+      - {label: "About you", name: "bio", widget: "text", required: false, pattern: [".{0,120}", "Must have at least 120 characters"]}
+      - {label: "Location", name: "location", widget: "string", required: false}
+      - {label: "WebSite", name: "website", widget: "string", required: false}
