@@ -2,7 +2,7 @@
 title: "About"
 date: 2017-10-19T17:03:59-04:00
 menu: main
-weight: 100
+weight: 4
 authors: ["ryan", "donal"]
 ---
 
