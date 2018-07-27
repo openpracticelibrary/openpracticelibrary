@@ -152,6 +152,17 @@
 
 
   <footer class="post-footer">
+    {{ $scratch := newScratch }}
+    {{ range $.Params.authors }}
+      {{ $currrentAuthor := index $.Site.Data.content.authors .}}
+      {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }}
+    {{ end }}
+    {{ $listOfAuthors := $scratch.Get "listOfAuthors"}}
+    {{ partial "author.html" $listOfAuthors }}  
+
+    {{ partial "share.html" . }}
+
+    {{ partial "disqus.html" . }}
 
   </footer>
 </article>
