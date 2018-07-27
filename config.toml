@@ -9,7 +9,7 @@ theme = "casper"
 googleAnalytics = "UA-111461618-1"
 
 [params]
-paginatedsections = ["home"]
+paginatedsections = ["practices"]
 logo = "images/avatars/chameleon.png"
 description = "Practies that empower teams to collaborate and deliver iteratively"
 customFooterPartial = "netlify.html"
