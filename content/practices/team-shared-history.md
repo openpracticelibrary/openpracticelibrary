@@ -1,8 +1,9 @@
 ---
-date: 2018-06-28T00:00:00-05:00
 title: Team Shared History
-draft: false
-stages: ['delivery']
+authors:
+  - InfoSec812
+area: Foundation-Culture&Collaboration
+date: 2018-06-28T05:00:00.000Z
 ---
 
 ## What is it?
