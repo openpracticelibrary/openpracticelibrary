@@ -1,8 +1,10 @@
 ---
-date: 2017-04-20T00:00:00-05:00
 title: User Story Mapping
-draft: false
-stages: ['discovery']
+authors:
+  - mtakane
+  - rdebeasi
+area: DiscoveryLoop-Outcomes
+date: 2017-04-20T05:00:00.000Z
 ---
 
 ## What is it?
