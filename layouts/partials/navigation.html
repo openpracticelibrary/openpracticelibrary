@@ -1,0 +1,18 @@
+<div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        {{ $currentNode := . }}
+        {{with .Site.Menus.main}}
+        {{ range sort . "Weight" "desc"}}
+            {{.Pre}}
+            <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
+            	<a href="{{.URL}}">{{.Name}}</a>
+            </li>
+        {{end}}
+        {{end}}
+    </ul>
+</div>
+<span class="nav-cover"></span>

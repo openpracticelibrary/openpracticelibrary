@@ -19,3 +19,15 @@ customCSS = ["css/custom.css"]
 
 [permalinks]
 page = "/:slug/"
+
+[[menu.main]]
+  name = "GitHub"
+  weight = 2
+  identifier = "GitHub"
+  url = "https://github.com/openpracticelibrary/openpracticelibrary"
+
+[[menu.main]]
+  name = "Gitter"
+  weight = 1
+  identifier = "Gitter"
+  url = "https://gitter.im/Open-Practice-Library/"
