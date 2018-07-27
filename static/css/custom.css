@@ -23,13 +23,27 @@
 	color: #111;
 }
 
-.post .btn-chat {
-	margin-bottom: 1em;
+.share .btn-chat {
+	margin-top: 1em;
 }
 
 .gitter-chat-embed {
 	/* Prevent our base styles from interfering with the Gitter embed */
 	font-size: 0;
+}
+
+.post,
+.author-meta span {
+	overflow-wrap: normal;
+	hyphens: none;
+}
+
+.post-footer .author {
+	margin-right: 210px;
+}
+
+.post-footer .share {
+	width: 200px;
 }
 
 /* BEGIN things that need to get ported to new theme */
