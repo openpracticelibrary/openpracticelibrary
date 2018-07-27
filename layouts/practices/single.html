@@ -158,7 +158,7 @@
       {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }}
     {{ end }}
     {{ $listOfAuthors := $scratch.Get "listOfAuthors"}}
-    {{ partial "author.html" $listOfAuthors }}  
+    {{ partial "author.html" $listOfAuthors }}
 
     {{ partial "share.html" . }}
 
@@ -174,9 +174,9 @@
 <!-- TODO Maybe this goes some other place -->
 <script>
     ((window.gitter = {}).chat = {}).options = {
-      room: 'openpracticelibrary/practices'
+      room: 'openpracticelibrary/Practices'
     };
 </script>
-<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>  
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 
 {{ partial "footer.html" . }}
