@@ -151,7 +151,9 @@
     </section>
 
 
+  <button type="button" class="btn btn-chat">Discuss This Practice</button>
   <footer class="post-footer">
+
     {{ $scratch := newScratch }}
     {{ range $.Params.authors }}
       {{ $currrentAuthor := index $.Site.Data.content.authors .}}
@@ -174,7 +176,8 @@
 <!-- TODO Maybe this goes some other place -->
 <script>
     ((window.gitter = {}).chat = {}).options = {
-      room: 'openpracticelibrary/Practices'
+      room: 'openpracticelibrary/Practices',
+      activationElement: '.btn-chat'
     };
 </script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
