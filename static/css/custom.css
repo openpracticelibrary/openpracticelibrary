@@ -9,14 +9,14 @@
     opacity: 1;
     color: #999;
     text-align: center;
-		font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 12px;
     text-transform: uppercase;
     line-height: 35px;
     border-radius: 3px;
     background: #fff;
-		transition: color 0.5s ease,
-			border-color 0.5s ease;
+    transition: color 0.5s ease,
+    	border-color 0.5s ease;
 }
 .btn:focus,
 .btn:hover {
