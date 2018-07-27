@@ -9,7 +9,7 @@ theme = "casper"
 googleAnalytics = "UA-111461618-1"
 
 [params]
-paginatedsections = ["practices"]
+paginatedsections = ["home"]
 logo = "images/avatars/chameleon.png"
 description = "Practies that empower teams to collaborate and deliver iteratively"
 customFooterPartial = "netlify.html"
@@ -19,3 +19,9 @@ customCSS = ["css/custom.css"]
 
 [permalinks]
 page = "/:slug/"
+
+[[menu.main]]
+  name = "GitHub"
+  weight = -2
+  identifier = "GitHub"
+  url = "https://github.com/openpracticelibrary/openpracticelibrary"
