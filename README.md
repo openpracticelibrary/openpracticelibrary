@@ -1,6 +1,6 @@
 # Open Practice Library
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Open-Practice-Library/) [Build Log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/openpracticelibrary/) [Build Log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master)
 
 ## About
 
