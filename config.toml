@@ -30,4 +30,4 @@ page = "/:slug/"
   name = "Gitter"
   weight = 1
   identifier = "Gitter"
-  url = "https://gitter.im/Open-Practice-Library/"
+  url = "https://gitter.im/openpracticelibrary/"
