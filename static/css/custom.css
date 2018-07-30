@@ -1,3 +1,104 @@
+/* Author styling */
+.author-avatar {
+  box-sizing: border-box;
+  display: block;
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  overflow: hidden;
+  padding: 5px;
+  background: #fff;
+  z-index: 2;
+  box-shadow: #E7EEF2 0 0 0 1px;
+  float: left;
+  margin: 0rem 1.6rem 0rem 1.6rem;
+}
+
+.round-blue {	
+  box-sizing: border-box;	
+  height: 68px;	width: 68px;	
+  border: 1px solid #4A90E2;	
+  transform: rotate(345deg);
+}
+
+.round-yellow {	
+  box-sizing: border-box;	
+  height: 68px;	width: 68px;	
+  border: 1px solid #F5A623;	
+  transform: rotate(238deg);
+}
+
+.author-avatar .img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 100%;
+
+}
+.author-info {
+  padding: 0.5rem 0rem;
+  /* padding-left: 1rem; */
+}
+
+p.author-co-authors {
+  display: block;
+  margin: 0.1rem 0;
+	color: #757575;
+}
+
+
+/* Button styles */
+
+.btn {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 38px;
+    padding: 0 15px;
+    border: 1px solid;
+    opacity: 1;
+    color: #999;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    border-radius: 3px;
+    background: #fff;
+    transition: color 0.5s ease,
+    	border-color 0.5s ease;
+}
+.btn:focus,
+.btn:hover {
+	color: #111;
+}
+
+.share .btn-chat {
+	margin-top: 1em;
+}
+
+.gitter-chat-embed {
+	/* Prevent our base styles from interfering with the Gitter embed */
+	font-size: 0;
+}
+
+.post,
+.author-meta span {
+	overflow-wrap: normal;
+	hyphens: none;
+}
+
+.post-footer .author {
+	margin-right: 210px;
+}
+
+.post-footer .share {
+	width: 200px;
+}
+
+/* BEGIN things that need to get ported to new theme */
+
 /* Search Bar Styling */
 
 .search-input,
