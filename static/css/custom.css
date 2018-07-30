@@ -14,6 +14,20 @@
   margin: 0rem 1.6rem 0rem 1.6rem;
 }
 
+.round-blue {	
+  box-sizing: border-box;	
+  height: 68px;	width: 68px;	
+  border: 1px solid #4A90E2;	
+  transform: rotate(345deg);
+}
+
+.round-yellow {	
+  box-sizing: border-box;	
+  height: 68px;	width: 68px;	
+  border: 1px solid #F5A623;	
+  transform: rotate(238deg);
+}
+
 .author-avatar .img {
   display: block;
   width: 100%;
@@ -24,12 +38,14 @@
 
 }
 .author-info {
+  padding: 0.5rem 0rem;
   /* padding-left: 1rem; */
 }
 
 p.author-co-authors {
   display: block;
   margin: 0.1rem 0;
+	color: #757575;
 }
 
 
