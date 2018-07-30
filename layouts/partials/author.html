@@ -24,12 +24,15 @@
         {{else}}
         <p>Read <a href="{{$authorwebsite}}">more posts</a> by this author.</p>
         {{end}} -->
-        <span  class="author-co-authors">
+        <p class="author-co-authors">
             Co-authors:
             {{ range after 1 $authors }}
               {{ .name }}
             {{ end }}
-        </span>
+        </p>
+        <p class="author-co-authors">
+            Last updated: 
+        </p>
 
         <!-- Do we need this anymore? -->
         <!-- <div class="author-meta">

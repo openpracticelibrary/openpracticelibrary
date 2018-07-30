@@ -11,7 +11,7 @@
   z-index: 2;
   box-shadow: #E7EEF2 0 0 0 1px;
   float: left;
-  margin: 0rem 1.6rem 0 1.6rem;
+  margin: 0rem 1.6rem 0rem 1.6rem;
 }
 
 .author-avatar .img {
@@ -27,9 +27,9 @@
   /* padding-left: 1rem; */
 }
 
-.author-co-authors {
-  display: inline;
-  /* padding-left: 1rem; */
+p.author-co-authors {
+  display: block;
+  margin: 0.1rem 0;
 }
 
 
