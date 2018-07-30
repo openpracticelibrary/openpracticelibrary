@@ -18,27 +18,13 @@
     {{end}}
     <div class="author-info"> 
         <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
-        <!-- Do we need this anymore? -->
-        <!-- {{if $authorbio}}
-        <p>{{$authorbio}}</p>
-        {{else}}
-        <p>Read <a href="{{$authorwebsite}}">more posts</a> by this author.</p>
-        {{end}} -->
         <p class="author-co-authors">
             Co-Authors:
             {{ range after 1 $authors }}
               {{ .name }}
             {{ end }}
         </p>
-        <p class="author-co-authors">
-            Last update: 
-        </p>
 
-        <!-- Do we need this anymore? -->
-        <!-- <div class="author-meta">
-          {{with $authorlocation}}<span class="author-location icon-location">{{.}}</span>{{end}}
-          {{with $authorwebsite}}<span class="author-link icon-link"><a href="{{.}}">{{.}}</a></span>{{end}}
-        </div> -->
     </div>
   </section>
   {{end}}
