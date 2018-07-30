@@ -1,4 +1,5 @@
 {{ if .}}
+{{$authors := .}}
 {{ range first 1 . }}
     
   {{$authorname := .name}}
@@ -8,30 +9,37 @@
   {{$authorwebsite := or .website $authorgithubsite }}
   {{$authoravatar :=  print "https://github.com/" .github ".png?size=140" }}
 
-  {{with $authoravatar}}
-  <figure class="author-image">
-      <a class="img" href="{{$authorwebsite}}" style="background-image: url({{. | relURL}})"><span class="hidden">{{$authorname}}'s Picture</span></a>
-  </figure>
-  {{end}}
-
+  
   <section class="author">
-    <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
-    {{if $authorbio}}
-    <p>{{$authorbio}}</p>
-    {{else}}
-    <p>Read <a href="{{$authorwebsite}}">more posts</a> by this author.</p>
+    {{with $authoravatar}}
+    <figure class="author-avatar">
+        <a class="img" href="{{$authorwebsite}}" style="background-image: url({{. | relURL}})"><span class="hidden">{{$authorname}}'s Picture</span></a>
+    </figure>
     {{end}}
-    <div class="author-meta">
-      {{with $authorlocation}}<span class="author-location icon-location">{{.}}</span>{{end}}
-      {{with $authorwebsite}}<span class="author-link icon-link"><a href="{{.}}">{{.}}</a></span>{{end}}
+    <div class="author-info"> 
+        <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
+        <!-- Do we need this anymore? -->
+        <!-- {{if $authorbio}}
+        <p>{{$authorbio}}</p>
+        {{else}}
+        <p>Read <a href="{{$authorwebsite}}">more posts</a> by this author.</p>
+        {{end}} -->
+        <span  class="author-co-authors">
+            Co-authors:
+            {{ range after 1 $authors }}
+              {{ .name }}
+            {{ end }}
+        </span>
+
+        <!-- Do we need this anymore? -->
+        <!-- <div class="author-meta">
+          {{with $authorlocation}}<span class="author-location icon-location">{{.}}</span>{{end}}
+          {{with $authorwebsite}}<span class="author-link icon-link"><a href="{{.}}">{{.}}</a></span>{{end}}
+        </div> -->
     </div>
   </section>
   {{end}}
-  <section class="author">
 
-    <h5> Co-authors.... </h5>
-    {{ range after 1 . }}
-    <p> {{ .name }} </p>
-    {{ end }}
+  <section class="author">
   </section>
 {{end}}
