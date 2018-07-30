@@ -1,7 +1,7 @@
 ---
 title: Team Shared History
 authors:
-  - InfoSec812
+  - infosec812
 area: Foundation-Culture&Collaboration
 date: 2018-06-28T05:00:00.000Z
 ---
