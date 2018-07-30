@@ -1,7 +1,10 @@
 ---
-title: "Team Sentiment"
-date: 2018-03-31T22:53:43+01:00
-draft: false
+title: Team Sentiment
+authors:
+  - tdbeattie
+  - mtakane
+area: Foundation-Culture&Collaboration
+date: 2018-03-31T21:53:43.000Z
 ---
 
 
