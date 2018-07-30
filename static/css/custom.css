@@ -1,3 +1,54 @@
+/* Author styling */
+.author-avatar {
+  box-sizing: border-box;
+  display: block;
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  overflow: hidden;
+  padding: 5px;
+  background: #fff;
+  z-index: 2;
+  box-shadow: #E7EEF2 0 0 0 1px;
+  float: left;
+  margin: 0rem 1.6rem 0rem 1.6rem;
+}
+
+.round-blue {	
+  box-sizing: border-box;	
+  height: 68px;	width: 68px;	
+  border: 1px solid #4A90E2;	
+  transform: rotate(345deg);
+}
+
+.round-yellow {	
+  box-sizing: border-box;	
+  height: 68px;	width: 68px;	
+  border: 1px solid #F5A623;	
+  transform: rotate(238deg);
+}
+
+.author-avatar .img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 100%;
+
+}
+.author-info {
+  padding: 0.5rem 0rem;
+  /* padding-left: 1rem; */
+}
+
+p.author-co-authors {
+  display: block;
+  margin: 0.1rem 0;
+	color: #757575;
+}
+
+
 /* Button styles */
 
 .btn {
