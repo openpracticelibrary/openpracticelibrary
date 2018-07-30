@@ -16,6 +16,11 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - A capture of the mood and reaction of people over the course of time in a realtime manner
 - Lots of sticky notes on a wall
 
+![Example of a Realtime Retrospective](/images/example-realtime-retro.jpg)
+
+## How does it fit
+
+- Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## Why use Realtime Retrospective?
 
@@ -23,28 +28,21 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - For long running days or weeks with multiple sessions/activities, you can visibly see people's moods or grasp of the information in realtime
 - When running similar sessions in quick succession, you may need to improve quickly and sometimes adjust on the fly.
 
-
-## Related Practices
-
-- Timeline Retrospectives by Patrick Kua[<sup>2</sup>](#footnote-2) uses a similar approach to gathering feedback in a sequential order
-- Linda Rising has a concept of the Continuous Retrospective[<sup>3</sup>](#footnote-3) that uses the timeline aspect of the Timeline Retrospective and to reflect on it everyday as a team.
-
-
 ## Who do you need?
 
 - "Facilitator" (Person to setup/cleanup)
 - People (anybody that was there during the timeframe)
-
 
 ## Suggested Time
 
 - ~10 Minutes setting up and cleaning up
 - Wall is kept up over the course of 1-5 days for active participation
 
-
 ## Difficulty
 - Facilitator: Easy
 - Participants: Easy
+
+## Recipe
 
 
 ## Facilitation Materials Needed
@@ -54,10 +52,23 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - Markers
 - Painters Tape
 
+This represents the type of feedback that you wish to receive (Positive, Negative, Surprised).
+![Realtime Retrospective Setup](/images/realtime-retro-prep.jpg)
 
-## How does it fit
+#### Step 1
+Explain to your participants your goal of using this practice and how to use your prepped area. Key things to share:
 
-- Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
+- Where to find materials for them to contribute
+- How the timelapse begins at the left and continues until the timeframe you designate as the end.
+- Any and all feedback is welcome, 1 post-it per feedback item
+
+#### Step 2
+Cycle back constantly to review your feedback and make improvements based on them as appropriate.
+
+## Related Practices
+
+- Timeline Retrospectives by Patrick Kua[<sup>2</sup>](#footnote-2) uses a similar approach to gathering feedback in a sequential order
+- Linda Rising has a concept of the Continuous Retrospective[<sup>3</sup>](#footnote-3) that uses the timeline aspect of the Timeline Retrospective and to reflect on it everyday as a team.
 
 ## External References
   1. <a name="footnote-1"></a>[Realtime Retrospectives by Emily Webber](http://emilywebber.co.uk/the-realtime-retrospective/)
