@@ -1,3 +1,53 @@
+/* Button styles */
+
+.btn {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 38px;
+    padding: 0 15px;
+    border: 1px solid;
+    opacity: 1;
+    color: #999;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    border-radius: 3px;
+    background: #fff;
+    transition: color 0.5s ease,
+    	border-color 0.5s ease;
+}
+.btn:focus,
+.btn:hover {
+	color: #111;
+}
+
+.share .btn-chat {
+	margin-top: 1em;
+}
+
+.gitter-chat-embed {
+	/* Prevent our base styles from interfering with the Gitter embed */
+	font-size: 0;
+}
+
+.post,
+.author-meta span {
+	overflow-wrap: normal;
+	hyphens: none;
+}
+
+.post-footer .author {
+	margin-right: 210px;
+}
+
+.post-footer .share {
+	width: 200px;
+}
+
+/* BEGIN things that need to get ported to new theme */
+
 /* Search Bar Styling */
 
 .search-input,
