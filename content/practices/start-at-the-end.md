@@ -2,7 +2,7 @@
 title: Start At The End
 authors:
   - sherl0cks
-  - InfoSec812
+  - infosec812
   - mtakane
 area: DiscoveryLoop-Why
 date: 2018-06-08T05:00:00.000Z
