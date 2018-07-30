@@ -12,9 +12,7 @@ googleAnalytics = "UA-111461618-1"
 paginatedsections = ["practices"]
 logo = "images/avatars/chameleon.png"
 description = "Practices that empower teams to collaborate and deliver iteratively"
-customFooterPartial = "netlify.html"
-
-[params.assets]
+customFooterPartial = "footer-custom.html"
 customCSS = ["css/custom.css"]
 
 [permalinks]
@@ -30,4 +28,4 @@ page = "/:slug/"
   name = "Gitter"
   weight = 1
   identifier = "Gitter"
-  url = "https://gitter.im/Open-Practice-Library/"
+  url = "https://gitter.im/openpracticelibrary/"
