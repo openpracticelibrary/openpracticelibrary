@@ -16,7 +16,7 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - A capture of the mood and reaction of people over the course of time in a realtime manner
 - Lots of sticky notes on a wall
 
-![Example of a Realtime Retrospective](/images/example-realtime-retro.jpg)
+![Example of a Realtime Retrospective](/images/example-realtime-retro.jpg "Example of a Realtime Retrospective")
 
 ## How does it fit
 
@@ -53,7 +53,7 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - Painters Tape
 
 This represents the type of feedback that you wish to receive (Positive, Negative, Surprised).
-![Realtime Retrospective Setup](/images/realtime-retro-prep.jpg)
+![Realtime Retrospective Setup](/images/realtime-retro-prep.jpg "Sample Prep Setup for Realtime Retrospective")
 
 #### Step 1
 Explain to your participants your goal of using this practice and how to use your prepped area. Key things to share:
