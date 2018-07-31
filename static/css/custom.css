@@ -48,6 +48,26 @@ p.author-co-authors {
 	color: #757575;
 }
 
+/* article / practice heading */
+
+.practice-title {
+	height: 40px;
+	color: #433030;
+	font-family: "Lucida Grande";
+	font-size: 34px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.practice-subtitle {
+	height: 33px;
+	color: #9B9B9B;
+	font-family: "Lucida Grande";
+	font-size: 28px;
+  line-height: 33px;
+  float: none;
+}
+
 
 /* Button styles */
 
