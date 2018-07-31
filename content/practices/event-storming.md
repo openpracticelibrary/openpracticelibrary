@@ -3,7 +3,7 @@ title: Event Storming
 authors:
   - mtakane
   - tdbeattie
-area: DiscoveryLoop-Outcomes
+area: discovery-loop-outcomes
 date: 2017-04-20T05:00:00.000Z
 ---
 

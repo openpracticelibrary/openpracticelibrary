@@ -4,6 +4,7 @@ date: 2018-04-08T21:41:51+01:00
 draft: false
 authors: ["tdbeattie", "mtakane"]
 subtitle: "The Information Radiator"
+area: foundation-culture-and-collaboration
 ---
 
 ## What is Visualisation of Work?
