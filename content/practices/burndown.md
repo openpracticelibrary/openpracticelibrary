@@ -3,7 +3,7 @@ title: Burndown
 authors:
   - tdbeattie
   - mtakane
-area: Foundation-Culture&Collaboration
+area: foundation-culture-and-collaboration
 date: 2018-04-07T22:33:55.000Z
 ---
 

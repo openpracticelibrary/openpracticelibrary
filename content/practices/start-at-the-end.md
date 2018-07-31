@@ -4,7 +4,7 @@ authors:
   - sherl0cks
   - infosec812
   - mtakane
-area: DiscoveryLoop-Why
+area: discovery-loop-why
 date: 2018-06-08T05:00:00.000Z
 ---
 

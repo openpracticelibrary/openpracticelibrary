@@ -2,7 +2,7 @@
 title: Agile Agenda
 authors:
   - mtakane
-area: Foundation-Culture&Collaboration
+area: foundation-culture-and-collaboration
 date: 2017-05-15T05:00:00.000Z
 ---
 

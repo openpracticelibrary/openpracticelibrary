@@ -4,7 +4,7 @@ authors:
   - mtakane
   - tdbeattie
   - rdebeasi
-area: Foundation-Culture&Collaboration
+area: foundation-culture-and-collaboration
 date: 2017-11-21T05:00:00.000Z
 ---
 

@@ -2,7 +2,7 @@
 title: Stop the World Event
 authors:
   - mtakane
-area: Foundation-Culture&Collaboration
+area: foundation-culture-and-collaboration
 date: 2017-10-26T20:20:14.000Z
 ---
 
