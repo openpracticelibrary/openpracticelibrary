@@ -3,7 +3,7 @@ title: Team Sentiment
 authors:
   - tdbeattie
   - mtakane
-area: Foundation-Culture&Collaboration
+area: foundation-culture-and-collaboration
 date: 2018-03-31T21:53:43.000Z
 ---
 
