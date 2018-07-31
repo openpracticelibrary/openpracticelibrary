@@ -1,4 +1,25 @@
+/* Blue button */
+
+.btn-improve {
+  height: 39px;
+  width: 228px;
+  margin: auto;
+  display:block;
+}
+
+.btn-blue-rounded {
+  border: 1.2px solid #4A90E2;
+  border-radius: 16.2px;
+  background-color: #FFFFFF;
+}
+
+.btn-text-blue {
+  color: #4A90E2;
+  text-decoration: none;
+}
+
 /* Author styling */
+
 .author-avatar {
   box-sizing: border-box;
   display: block;
@@ -14,17 +35,19 @@
   margin: 0rem 1.6rem 0rem 1.6rem;
 }
 
-.round-blue {	
-  box-sizing: border-box;	
-  height: 68px;	width: 68px;	
-  border: 1px solid #4A90E2;	
+.round-blue {
+  box-sizing: border-box;
+  height: 68px;
+  width: 68px;
+  border: 1px solid #4A90E2;
   transform: rotate(345deg);
 }
 
-.round-yellow {	
-  box-sizing: border-box;	
-  height: 68px;	width: 68px;	
-  border: 1px solid #F5A623;	
+.round-yellow {
+  box-sizing: border-box;
+  height: 68px;
+  width: 68px;
+  border: 1px solid #F5A623;
   transform: rotate(238deg);
 }
 
@@ -35,8 +58,8 @@
   background-size: cover;
   background-position: center center;
   border-radius: 100%;
-
 }
+
 .author-info {
   padding: 0.5rem 0rem;
   /* padding-left: 1rem; */
@@ -45,56 +68,55 @@
 p.author-co-authors {
   display: block;
   margin: 0.1rem 0;
-	color: #757575;
+  color: #757575;
 }
-
 
 /* Button styles */
 
 .btn {
-    box-sizing: border-box;
-    display: inline-block;
-    height: 38px;
-    padding: 0 15px;
-    border: 1px solid;
-    opacity: 1;
-    color: #999;
-    text-align: center;
-    font-family: "Open Sans", sans-serif;
-    font-size: 12px;
-    text-transform: uppercase;
-    line-height: 35px;
-    border-radius: 3px;
-    background: #fff;
-    transition: color 0.5s ease,
-    	border-color 0.5s ease;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 38px;
+  padding: 0 15px;
+  border: 1px solid;
+  opacity: 1;
+  color: #999;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  line-height: 35px;
+  border-radius: 3px;
+  background: #fff;
+  transition: color 0.5s ease, border-color 0.5s ease;
 }
+
 .btn:focus,
 .btn:hover {
-	color: #111;
+  color: #111;
 }
 
 .share .btn-chat {
-	margin-top: 1em;
+  margin-top: 1em;
 }
 
 .gitter-chat-embed {
-	/* Prevent our base styles from interfering with the Gitter embed */
-	font-size: 0;
+  /* Prevent our base styles from interfering with the Gitter embed */
+  font-size: 0;
 }
 
 .post,
 .author-meta span {
-	overflow-wrap: normal;
-	hyphens: none;
+  overflow-wrap: normal;
+  hyphens: none;
 }
 
 .post-footer .author {
-	margin-right: 210px;
+  margin-right: 210px;
 }
 
 .post-footer .share {
-	width: 200px;
+  width: 200px;
 }
 
 /* BEGIN things that need to get ported to new theme */
@@ -103,45 +125,47 @@ p.author-co-authors {
 
 .search-input,
 .search-button {
-	font-size: 1.125rem;
-	line-height: 1;
+  font-size: 1.125rem;
+  line-height: 1;
 }
 
 .search-controls .search-input {
-	display: inline;
-	width: 250px;
-	margin-bottom: 5px;
-	margin-right: 5px;
-	padding: 8px;
+  display: inline;
+  width: 250px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  padding: 8px;
 }
 
 .search-button {
-	cursor: pointer;
-	padding: 9px; /* 1px more of padding because this button doesn't have a border. */
+  cursor: pointer;
+  padding: 9px;
+  /* 1px more of padding because this button doesn't have a border. */
 }
 
 .search-button:hover,
 .search-button:focus {
-	background-color: #ffdc4d;
-	color: #000;
+  background-color: #ffdc4d;
+  color: #000;
 }
 
 @media (min-width: 768px) {
-	.search-controls {
-		float: right;
-		margin-top: -5px;
-	}
+  .search-controls {
+    float: right;
+    margin-top: -5px;
+  }
 }
 
 /* Micro clearfix - http://nicolasgallagher.com/micro-clearfix-hack/ */
+
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 .list-item .meta,
@@ -190,5 +214,5 @@ p.author-co-authors {
 .related-list a:active,
 .related-list a:focus,
 .related-list a:hover {
-    border-bottom-color: #ffcd00;
+  border-bottom-color: #ffcd00;
 }
