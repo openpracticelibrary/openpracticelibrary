@@ -18,6 +18,7 @@
 .btn-text-blue {
   color: #4A90E2;
   text-decoration: none;
+  display: block
 }
 
 /* Author styling */
