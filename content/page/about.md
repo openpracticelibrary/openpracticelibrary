@@ -1,25 +1,25 @@
 ---
-title: "About"
-date: 2017-10-19T17:03:59-04:00
-menu: main
-weight: 4
-authors: ["ryan", "donal"]
+title: About
+authors:
+  - ryan
+  - donal
+  - mtakane
+date: 2017-10-19T21:03:59.000Z
 ---
 
 ## Goals of this Library
-While this is intended for everyone who has an interest in learning more about the practices used by teams on a continuous journey of discovery and delivery building applications, this Open Practice Library has two main goals in mind.
+This Library is intended to be a wealth of knowledge on product Discovery and Delivery practices to be adopted and evolved by a positive, engaged and supportive global community.
 
-### Share the Big Picture
+While this is intended for everyone who has an interest in learning more about the practices used by teams on a continuous journey of discovery and delivery building applications, this Open Practice Library has two main use cases in mind.
+
+#### Share the Big Picture
 Describe how people in this community use practices to accomplish engagement success. Learn how practices fit with each other and the way that we take individual practices to create seamless engagement delivery.
 
-### Search with Intent
+#### Search with Intent
 Share details about a particular practice that community members use, learn perspectives on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
 
-## What This Library Is *Not*
-An exhaustive, detailed guide to apply these practices. We've tried that, and folks tend to focus on the step by step instruction but miss the "Why" information. Or they just don't read the material, which we understand. Not everyone likes reading thousands of pages of method material like we do.
-
 ## What This Library *Is*
-Just enough information for each practice to "specify the end state, it’s purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
+Just enough information for each practice to "specify the end state, its purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
 
 ## Contributing
 
