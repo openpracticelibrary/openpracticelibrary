@@ -1,7 +1,11 @@
 ---
-date: 2017-11-21T00:00:00-05:00
 title: Social Contract
-draft: false
+authors:
+  - mtakane
+  - tdbeattie
+  - rdebeasi
+area: foundation-culture-and-collaboration
+date: 2017-11-21T05:00:00.000Z
 ---
 
 ## What is it?

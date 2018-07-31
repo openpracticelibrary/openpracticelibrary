@@ -1,7 +1,10 @@
 ---
-date: 2017-11-21T00:00:00-05:00
 title: Retrospectives
-draft: false
+authors:
+  - tdbeattie
+  - mtakane
+area: Delivery-Measure&Learn
+date: 2017-11-21T05:00:00.000Z
 ---
 
 ## What are they?

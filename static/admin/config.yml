@@ -16,13 +16,13 @@ collections:
       - {label: "Title of practice", name: "title", widget: "string"}
       - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
-          [{label: "Discovery - Why", value: "DiscoveryLoop-Why"},
-          {label: "Discovery - Outcomes", value: "DiscoveryLoop-Outcomes"},
-          {label: "Options", value: "Options"},
-          {label: "Delivery - Deliver", value: "Delivery-Deliver"},
-          {label: "Delivery - Measure & Learn", value: "Delivery-Measure&Learn"},
-          {label: "Foundation - Culture & Collaboration", value: "Foundation-Culture&Collaboration"},
-          {label: "Foundation - Technical", "Foundation-Technical"}]}
+          [{label: "Discovery - Why", value: "discovery-loop-why"},
+          {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
+          {label: "Options", value: "options"},
+          {label: "Delivery - Deliver", value: "delivery-deliver"},
+          {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
+          {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
+          {label: "Foundation - Technical", "foundation-technical"}]}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page" # Used in routes, e.g., /admin/collections/blog

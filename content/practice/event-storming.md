@@ -1,8 +1,10 @@
 ---
-date: 2017-04-20T00:00:00-05:00
 title: Event Storming
-draft: false
-stages: ['discovery']
+authors:
+  - mtakane
+  - tdbeattie
+area: discovery-loop-outcomes
+date: 2017-04-20T05:00:00.000Z
 ---
 
 ## What is it?
