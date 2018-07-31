@@ -7,9 +7,9 @@ publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
 collections:
-  - name: "practices" # Used in routes, e.g., /admin/collections/blog
+  - name: "practice" # Used in routes, e.g., /admin/collections/blog
     label: "Practices" # Used in the UI
-    folder: "content/practices" # The path to the folder where the documents are stored
+    folder: "content/practice" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -25,8 +25,8 @@ collections:
           {label: "Foundation - Technical", "Foundation-Technical"}]}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Page" # Used in the UI
+  - name: "page" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -35,11 +35,11 @@ collections:
       - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "authors" # Used in routes, e.g., /admin/collections/blog
-    label: "Author" # Used in the UI
+  - name: "author" # Used in routes, e.g., /admin/collections/blog
+    label: "Authors" # Used in the UI
     format: "toml"
     extension: "toml"
-    folder: "data/content/authors" # The path to the folder where the documents are stored
+    folder: "data/content/author" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
