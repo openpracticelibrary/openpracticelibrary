@@ -11,5 +11,10 @@
         <p class="mobius-loop"></p>
         <div class="mobius-foundation"></div>
     </div>
-
 </section>
+
+{{ if .jumbotron }}
+<div>
+    <img  class="img-jumbotron" src="{{ .jumbotron }}" alt="{{ .jumbotron }}">
+</div>
+{{end}}
