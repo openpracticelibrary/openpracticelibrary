@@ -1,7 +1,14 @@
 <section class="article-heading">
-    <div style="display: block;"></div>
-    <h2 class="practice-title"> {{.title }}</h2>
-    {{ if .subtitle }}
-    <p class="practice-subtitle">{{ .subtitle }}</p>
-    {{ end }}
+    <div class="inline-block">
+        <h2 class="practice-title"> {{.title }}</h2>
+        {{ if .subtitle }}
+            <p class="practice-subtitle">{{ .subtitle }}</p>
+        {{ end }}
+    </div>
+
+    <div class="inline-block mobius-loop-position">
+        <p class="mobius-loop"></p>
+        <div class="mobius-foundation"></div>
+    </div>
+
 </section>

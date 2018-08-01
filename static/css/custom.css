@@ -48,24 +48,69 @@ p.author-co-authors {
 	color: #757575;
 }
 
+/* Loop heading */
+p.mobius-loop {
+  color: #4A90E2;
+  /* font-weight: bold; */
+  font-family: "Lucida Grande";
+  margin: 0;
+  font-size: 8rem;
+}
+
+p.mobius-loop:before {
+  content: "∞";
+}
+
+.mobius-foundation {
+  height: 0.6rem;
+  width: 5.7rem;
+  border-radius: 3.5px;
+  background-color: #A54CCF;
+  margin: auto;
+  margin-top: 1rem; 
+  margin-bottom: 1.5rem;
+}
+
+
+.inline-block {
+  display: inline-block;
+}
+
+.mobius-loop-position {
+  float: right;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.mobius-loop-size {
+  height: 37.73px;
+  width: 61.67px;
+}
+
 /* article / practice heading */
 
+.article-heading {
+  margin-top: 2rem;
+  position: relative;
+
+}
+
 .practice-title {
-	height: 40px;
+	height: 4rem;
 	color: #433030;
 	font-family: "Lucida Grande";
-	font-size: 34px;
+	font-size: 3.4rem;
 	font-weight: bold;
-	line-height: 40px;
+	line-height: 4rem;
 }
 
 .practice-subtitle {
-	height: 33px;
 	color: #9B9B9B;
 	font-family: "Lucida Grande";
-	font-size: 28px;
-  line-height: 33px;
-  float: none;
+	font-size: 2.8rem;
+  line-height: 3.3rem;
+  margin-bottom: 1.5rem  
 }
 
 
