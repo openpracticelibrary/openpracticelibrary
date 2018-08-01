@@ -3,6 +3,9 @@ title: "Visualisation of Work"
 date: 2018-04-08T21:41:51+01:00
 draft: false
 authors: ["tdbeattie", "mtakane"]
+subtitle: "The Information Radiator"
+jumbotron: "/images/visualisation-of-work.png"
+area: foundation-culture-and-collaboration
 ---
 
 ## What is Visualisation of Work?

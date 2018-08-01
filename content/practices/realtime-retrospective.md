@@ -2,7 +2,7 @@
 title: Realtime Retrospective
 authors:
   - mtakane
-area: Foundation-Culture&Collaboration
+area: foundation-culture-and-collaboration
 date: 2017-10-26T05:00:00.000Z
 ---
 
