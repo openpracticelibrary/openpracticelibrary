@@ -3,6 +3,7 @@
   - Utilities
   - Typography
   - Site Header
+  - Tiles
   - Random things to be organized
   - Links
   - Buttons
@@ -56,6 +57,30 @@ h1, h2, h3, h4, h5, h6,
 .blog-logo img {
   height: 40px;
 }
+
+/* =Tile */
+
+.tile {
+	height: 33%;
+  width: 33%;
+  border: 0.87px solid #979797;
+  display: block;
+  text-decoration: none;
+  margin-bottom: 1rem
+}
+
+.tile-img {
+  width: 100%
+
+}
+
+.tile-heading {
+  color: #4A90E2;
+  font-size: 2.6rem;
+  text-align: left;
+  margin-left: 1rem
+}
+
 
 /* =Random Things */
 
