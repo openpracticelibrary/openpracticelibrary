@@ -15,7 +15,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title of practice", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Jumbotron image", name: "jumbotron", widget: "image"}
+      - {label: "Jumbotron image", name: "jumbotron", widget: "image", required: false}
+      - {label: "Jumbotron alt text", name: "jumbotronAlt", widget: "string", required: false}
       - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "discovery-loop-why"},
