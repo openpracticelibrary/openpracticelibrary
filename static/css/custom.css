@@ -1,6 +1,7 @@
 /*
   Table of contents
   - Utilities
+  - Typography
   - Site Header
   - Random things to be organized
   - Buttons
@@ -26,6 +27,22 @@ body {
   /* Jumbotron images are viewport + scrollbar width. We need to crop the
    * right side of the image to prevent horizontal scrollbars. */
   overflow-x: hidden;
+}
+
+/* =Typography */
+h1, h2, h3, h4, h5, h6,
+.main-nav a,
+.nav,
+.subscribe-button,
+.page-title,
+.post-meta,
+.pagination,
+.site-footer,
+.read-next-story .post:before,
+.practice-title,
+.practice-subtitle,
+p.mobius-loop {
+  font-family: 'Arimo', 'Lucida Grande', sans-serif;
 }
 
 /* =Site Header */
@@ -76,10 +93,8 @@ p.author-co-authors {
 /* Loop heading and mobius areas */
 p.mobius-loop {
   color: #4A90E2;
-  /* font-weight: bold; */
-  font-family: "Lucida Grande";
   margin: 0;
-  font-size: 8rem;
+  font-size: 9.5rem;
 }
 
 p.mobius-loop:before {
@@ -187,14 +202,12 @@ p.mobius-loop:before {
 
 .practice-title {
 	color: #433030;
-	font-family: "Lucida Grande";
 	font-size: 3.4rem;
 	font-weight: bold;
 }
 
 .practice-subtitle {
 	color: #9B9B9B;
-	font-family: "Lucida Grande";
 	font-size: 2.8rem;
   margin-bottom: 1.5rem
 }
