@@ -1,3 +1,34 @@
+/*
+  Table of contents
+  - Utilities
+  - Random things to be organized
+  - Buttons
+  - Jumbotron
+  - Medium Screens
+  - Large Screens
+*/
+
+/* =Utilities */
+
+/* Micro clearfix - http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+body {
+  /* Jumbotron images are viewport + scrollbar width. We need to crop the
+   * right side of the image to prevent horizontal scrollbars. */
+  overflow-x: hidden;
+}
+
+/* =Random Things */
+
 /* Author styling */
 .author-avatar {
   box-sizing: border-box;
@@ -12,20 +43,6 @@
   box-shadow: #E7EEF2 0 0 0 1px;
   float: left;
   margin: 0rem 1.6rem 0rem 1.6rem;
-}
-
-.round-blue {	
-  box-sizing: border-box;	
-  height: 68px;	width: 68px;	
-  border: 1px solid #4A90E2;	
-  transform: rotate(345deg);
-}
-
-.round-yellow {	
-  box-sizing: border-box;	
-  height: 68px;	width: 68px;	
-  border: 1px solid #F5A623;	
-  transform: rotate(238deg);
 }
 
 .author-avatar .img {
@@ -46,19 +63,6 @@ p.author-co-authors {
   display: block;
   margin: 0.1rem 0;
 	color: #757575;
-}
-
-/* Jubotron image */
-.img-jumbotron {
-  width: 200%;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  max-width: 100%;
-  max-height: 100%;
-  margin: auto;
-  overflow: auto;
 }
 
 /* Loop heading and mobius areas */
@@ -150,7 +154,7 @@ p.mobius-loop:before {
   border-radius: 3.5px;
   background-color: #A54CCF;
   margin: auto;
-  margin-top: 1rem; 
+  margin-top: 1rem;
   margin-bottom: 1.5rem;
 }
 
@@ -174,24 +178,39 @@ p.mobius-loop:before {
 }
 
 .practice-title {
-	height: 4rem;
 	color: #433030;
 	font-family: "Lucida Grande";
 	font-size: 3.4rem;
 	font-weight: bold;
-	line-height: 4rem;
 }
 
 .practice-subtitle {
 	color: #9B9B9B;
 	font-family: "Lucida Grande";
 	font-size: 2.8rem;
-  line-height: 3.3rem;
-  margin-bottom: 1.5rem  
+  margin-bottom: 1.5rem
 }
 
+.gitter-chat-embed {
+	/* Prevent our base styles from interfering with the Gitter embed */
+	font-size: 0;
+}
 
-/* Button styles */
+.post,
+.author-meta span {
+	overflow-wrap: normal;
+	hyphens: none;
+}
+
+.post-footer .author {
+	margin-right: 210px;
+}
+
+.post-footer .share {
+	width: 200px;
+}
+
+/* =Buttons */
 
 .btn {
     box-sizing: border-box;
@@ -220,117 +239,25 @@ p.mobius-loop:before {
 	margin-top: 1em;
 }
 
-.gitter-chat-embed {
-	/* Prevent our base styles from interfering with the Gitter embed */
-	font-size: 0;
+/* =Jumbotron */
+
+
+/* Jubotron image */
+.jumbotron {
+  /* Make the image full-width */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
-.post,
-.author-meta span {
-	overflow-wrap: normal;
-	hyphens: none;
+.jumbotron-img {
+  width: 100%;
+  height: auto;
 }
 
-.post-footer .author {
-	margin-right: 210px;
-}
+/* =Medium Screens */
 
-.post-footer .share {
-	width: 200px;
-}
-
-/* BEGIN things that need to get ported to new theme */
-
-/* Search Bar Styling */
-
-.search-input,
-.search-button {
-	font-size: 1.125rem;
-	line-height: 1;
-}
-
-.search-controls .search-input {
-	display: inline;
-	width: 250px;
-	margin-bottom: 5px;
-	margin-right: 5px;
-	padding: 8px;
-}
-
-.search-button {
-	cursor: pointer;
-	padding: 9px; /* 1px more of padding because this button doesn't have a border. */
-}
-
-.search-button:hover,
-.search-button:focus {
-	background-color: #ffdc4d;
-	color: #000;
-}
-
-@media (min-width: 768px) {
-	.search-controls {
-		float: right;
-		margin-top: -5px;
-	}
-}
-
-/* Micro clearfix - http://nicolasgallagher.com/micro-clearfix-hack/ */
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-.list-item .meta,
-.meta .posted-on {
-  /* Hide dates. */
-  display: none;
-}
-
-.related-list {
-  list-style-type: none;
-  margin-left: 0;
-}
-
-.related-list:last-child {
-  margin-bottom: 0;
-}
-
-.entry-cover figcaption {
-  display: none;
-}
-
-/* Make links more visible */
-
-.entry-content a,
-.list-item a,
-.related-list a {
-  border-bottom: .125em solid #212121;
-}
-
-.entry-nav .related-list a {
-  display: inline;
-  font-style: normal;
-}
-
-.related-list li {
-  margin-top: 1em;
-}
-
-.related-list li:first-child {
-  margin-top: 0;
-}
-
-.list-item a:active,
-.list-item a:focus,
-.list-item a:hover,
-.related-list a:active,
-.related-list a:focus,
-.related-list a:hover {
-    border-bottom-color: #ffcd00;
-}
+/* =Large Screens */
