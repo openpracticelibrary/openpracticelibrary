@@ -1,8 +1,9 @@
 ---
 title: About
 authors:
-  - ryan
-  - donal
+  - sherl0cks
+  - rdebeasi
+  - springdo
   - mtakane
 date: 2017-10-19T21:03:59.000Z
 menu: main
