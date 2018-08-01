@@ -1,6 +1,7 @@
-l/*
+/*
   Table of contents
   - Utilities
+  - Site Header
   - Random things to be organized
   - Buttons
   - Jumbotron
@@ -25,6 +26,12 @@ body {
   /* Jumbotron images are viewport + scrollbar width. We need to crop the
    * right side of the image to prevent horizontal scrollbars. */
   overflow-x: hidden;
+}
+
+/* =Site Header */
+
+.blog-logo img {
+  height: 40px;
 }
 
 /* =Random Things */
