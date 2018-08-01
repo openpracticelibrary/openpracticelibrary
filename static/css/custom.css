@@ -318,5 +318,11 @@ a:focus {
 }
 
 /* =Medium Screens */
+@media (min-width: 501px) {
+  .post-content img {
+    max-width: 85%;
+  }
+}
+
 
 /* =Large Screens */
