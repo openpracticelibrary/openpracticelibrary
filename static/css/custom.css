@@ -4,6 +4,7 @@
   - Typography
   - Site Header
   - Random things to be organized
+  - Links
   - Buttons
   - Jumbotron
   - Medium Screens
@@ -228,6 +229,16 @@ p.mobius-loop:before {
 
 .post-footer .share {
 	width: 200px;
+}
+
+/* =Links */
+a {
+  color: #4A90E2;
+}
+
+a:hover,
+a:focus {
+  color: #0353af;
 }
 
 /* =Buttons */
