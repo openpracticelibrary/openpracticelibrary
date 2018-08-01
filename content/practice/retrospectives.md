@@ -3,7 +3,7 @@ title: Retrospectives
 authors:
   - tdbeattie
   - mtakane
-area: Delivery-Measure&Learn
+area: delivery-measure-and-learn
 date: 2017-11-21T05:00:00.000Z
 ---
 

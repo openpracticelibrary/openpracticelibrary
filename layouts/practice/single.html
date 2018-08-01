@@ -1,7 +1,5 @@
 {{ partial "header.html" . }}
 
-
-
 {{if .Params.image}}
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
@@ -53,33 +51,8 @@
 
   <article class="post {{ .Section }}">
     <header class="post-header">
-      <nav class="breadcrumb">
-        {{ $currentNode := . }}
-        {{ range .Site.Menus.main }}
-        {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-        <li><a href="{{.URL}}">{{.Name}}</a></li>
-              {{ range .Children }}
-              {{ if .HasChildren }}
-              {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-                <li><a href="{{.URL}}">{{.Name}}</a></li>
-                  {{ range .Children }}
-                  {{ if .HasChildren }}
-                  {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-                    <li><a href="{{.URL}}">{{.Name}}</a></li>
-                  {{end}}
-                  {{end}}
-                  {{end}}
-              {{end}}
-              {{end}}
-              {{end}}
-        {{end}}
-        {{end}}
-        <!-- <li>{{.Title}}</li> -->
-      </nav>
 
-
-        <h1 class="post-title">{{.Title}}</h1>
-        <small>{{.Description}}</small>
+        {{ partial "practice-heading.html" .Params }}
 
         <section class="post-meta">
         {{ if eq .Section "post"}}
@@ -149,7 +122,7 @@
 {{end}}
 
     </section>
-
+    {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
 
   <footer class="post-footer">
 
@@ -171,5 +144,7 @@
 </main>
 
 {{ partial "suggestions.html" . }}
+
+{{ partial "button.html" (dict "absolutePath" "/" "buttonText" "View all practices") }}
 
 {{ partial "footer.html" . }}
