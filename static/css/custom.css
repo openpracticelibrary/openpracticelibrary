@@ -48,7 +48,7 @@ p.author-co-authors {
 	color: #757575;
 }
 
-/* Loop heading */
+/* Loop heading and mobius areas */
 p.mobius-loop {
   color: #4A90E2;
   /* font-weight: bold; */
@@ -61,6 +61,76 @@ p.mobius-loop:before {
   content: "∞";
 }
 
+.discovery-loop-why {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  left: 0.9rem;
+  top: 0.4rem;
+}
+
+.discovery-loop-outcomes {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  left: 0.9rem;
+  bottom: 2.1rem;
+}
+
+.options {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  left: 3rem;
+  bottom: 3.2rem;
+}
+
+.delivery-deliver {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  right: 0.9rem;
+  top: 0.4rem;
+}
+
+.delivery-measure-and-learn {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  right: 0.9rem;
+  bottom: 2.1rem;
+}
+
+.foundation-culture-and-collaboration {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  left: 1.4rem;
+  bottom: 0.91rem;
+}
+
+.foundation-technical {
+  z-index: 10;
+  position: absolute;
+  height: 1.4rem;
+  border-radius: 8px;
+  background-color:rgba(255,255,255,0.86);
+  right: 1.4rem;
+  bottom: 0.91rem;
+}
+
 .mobius-foundation {
   height: 0.6rem;
   width: 5.7rem;
@@ -71,7 +141,6 @@ p.mobius-loop:before {
   margin-bottom: 1.5rem;
 }
 
-
 .inline-block {
   display: inline-block;
 }
@@ -81,11 +150,6 @@ p.mobius-loop:before {
   position: absolute;
   right: 0;
   bottom: 0;
-}
-
-.mobius-loop-size {
-  height: 37.73px;
-  width: 61.67px;
 }
 
 /* article / practice heading */
