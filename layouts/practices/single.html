@@ -122,7 +122,7 @@
 {{end}}
 
     </section>
-
+    {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
 
   <footer class="post-footer">
 
@@ -144,5 +144,7 @@
 </main>
 
 {{ partial "suggestions.html" . }}
+
+{{ partial "button.html" (dict "absolutePath" "/" "buttonText" "View all practices") }}
 
 {{ partial "footer.html" . }}

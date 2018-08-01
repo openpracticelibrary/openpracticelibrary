@@ -1,4 +1,4 @@
-/*
+l/*
   Table of contents
   - Utilities
   - Random things to be organized
@@ -30,6 +30,7 @@ body {
 /* =Random Things */
 
 /* Author styling */
+
 .author-avatar {
   box-sizing: border-box;
   display: block;
@@ -52,8 +53,8 @@ body {
   background-size: cover;
   background-position: center center;
   border-radius: 100%;
-
 }
+
 .author-info {
   padding: 0.5rem 0rem;
   /* padding-left: 1rem; */
@@ -62,7 +63,7 @@ body {
 p.author-co-authors {
   display: block;
   margin: 0.1rem 0;
-	color: #757575;
+  color: #757575;
 }
 
 /* Loop heading and mobius areas */
@@ -237,6 +238,28 @@ p.mobius-loop:before {
 
 .share .btn-chat {
 	margin-top: 1em;
+}
+
+.btn-primary {
+  margin: auto;
+  padding: 0.5rem;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+  border: 0.12rem solid;
+  border-radius: 1.62rem;
+  background-color: #FFFFFF;
+  color: #4A90E2;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  max-width: 25rem;
+  transition: color 0.5s ease,
+    border-color 0.5s ease;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  color: #0353af;
 }
 
 /* =Jumbotron */
