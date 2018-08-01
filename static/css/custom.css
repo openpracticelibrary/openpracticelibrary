@@ -60,27 +60,37 @@ h1, h2, h3, h4, h5, h6,
 
 /* =Tile */
 
+.tile-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 .tile {
-	height: 33%;
-  width: 33%;
-  border: 0.87px solid #979797;
+  width: 100%;
+  border: 1px solid #979797;
   display: block;
   text-decoration: none;
-  margin-bottom: 1rem
+  margin-bottom: 1rem;
 }
 
 .tile-img {
-  width: 100%
+  display: block;
+  width: 100%;
+  transition: opacity 0.5s;
+  opacity: 1;
+}
 
+.tile:hover .tile-img {
+  opacity: 0.8;
 }
 
 .tile-heading {
   color: #4A90E2;
-  font-size: 2.6rem;
+  font-size: 1.8rem;
   text-align: left;
-  margin-left: 1rem
+  margin: 1rem;
 }
-
 
 /* =Random Things */
 
@@ -347,7 +357,23 @@ a:focus {
   .post-content img {
     max-width: 85%;
   }
+
+  .tile {
+    width: 49%;
+  }
+
+  .tile-heading {
+    font-size: 2.2rem;
+  }
 }
 
+@media (min-width: 1024px) {
+  .tile {
+    width: 32%;
+  }
 
+  .tile-heading {
+    /* font-size: 2.6rem; */
+  }
+}
 /* =Large Screens */

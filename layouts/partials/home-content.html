@@ -15,28 +15,15 @@
             {{ $.Scratch.Set "paginatedSections" "post" }}
         {{ end }}
     {{ end }}
-    
-    <h2>Discovery</h2>
-    {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
-    {{ $list := where $list "Section" "!=" "" }}
-    {{ range $list }}
+
+    <div class="post">
+      <h2>All practices</h2>
+      {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
+      {{ $list := where $list "Section" "!=" "" }}
+      <div class="tile-grid">
+        {{ range $list }}
         {{ partial "tile.html" . }}
-    {{end}}
+        {{end}}
+      </div>
 
-    <div> BELOW HERE TO BE REOMVED :) </div>
-
-
-
-    {{ $paginator := .Paginate ( $list ) }}
-
-    <div class="extra-pagination inner">
-        {{ partial "pagination.html" $paginator }}
     </div>
-
-    {{ range $index, $page := $paginator.Pages }}
-        {{ partial "li.html" . }}
-    {{ end }}
-
-    {{ partial "pagination.html" $paginator }}
-
-    <div> ABOVE HERE TO BE REOMVED :) </div>
