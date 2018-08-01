@@ -2,7 +2,5 @@
 The link is either `absolutePath` or a link to the given `practicePath` to edit in the CMS -->
 {{ if .}}
 {{ $practicePath := print "/admin/#/collections/practices/entries/" .practicePath}}
-<button class="btn-blue-rounded btn-improve">
-    <a class="btn-text-blue" href="{{or .absolutePath $practicePath  }}"> {{ .buttonText }}</a>
-</button>
+<a class="btn-primary" href="{{or .absolutePath $practicePath  }}"> {{ .buttonText }}</a>
 {{end}}

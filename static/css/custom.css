@@ -1,24 +1,18 @@
 /* Blue button */
 
-.btn-improve {
-  height: 39px;
-  width: 228px;
+.btn-primary {
   margin: auto;
-  display:block;
-  margin-bottom: 40px;
-  margin-top: 40px;
-}
-
-.btn-blue-rounded {
-  border: 1.2px solid #4A90E2;
-  border-radius: 16.2px;
+  padding: 0.5rem;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+  border: 0.12rem solid #4A90E2;
+  border-radius: 1.62rem;
   background-color: #FFFFFF;
-}
-
-.btn-text-blue {
   color: #4A90E2;
   text-decoration: none;
-  display: block
+  display: block;
+  text-align: center;
+  max-width: 25rem; 
 }
 
 /* Author styling */
