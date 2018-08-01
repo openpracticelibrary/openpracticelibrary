@@ -30,6 +30,12 @@ body {
   overflow-x: hidden;
 }
 
+.post,
+.pagination,
+.inner {
+  max-width: 820px;
+}
+
 /* =Typography */
 h1, h2, h3, h4, h5, h6,
 .main-nav a,
