@@ -40,8 +40,7 @@ h1, h2, h3, h4, h5, h6,
 .site-footer,
 .read-next-story .post:before,
 .practice-title,
-.practice-subtitle,
-p.mobius-loop {
+.practice-subtitle {
   font-family: 'Arimo', 'Lucida Grande', sans-serif;
 }
 
@@ -94,7 +93,7 @@ p.author-co-authors {
 p.mobius-loop {
   color: #4A90E2;
   margin: 0;
-  font-size: 9.5rem;
+  font-size: 8rem;
 }
 
 p.mobius-loop:before {
