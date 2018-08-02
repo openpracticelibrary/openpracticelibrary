@@ -1,4 +1,5 @@
-    {{ range .Data.Pages }}
+
+ {{ range .Data.Pages }}
         {{if eq .Type "home" }}
         <div class="index-content post">
           <div class="post-content">
@@ -7,7 +8,6 @@
         </div>
         {{end}}
     {{ end }}
-
     {{ if not ($.Scratch.Get "paginatedSections") }}
         {{ if .Site.Params.paginatedsections }}
             {{ $.Scratch.Set "paginatedSections" .Site.Params.paginatedsections }}
@@ -16,16 +16,63 @@
         {{ end }}
     {{ end }}
 
-    {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
-    {{ $list := where $list "Section" "!=" "" }}
-    {{ $paginator := .Paginate ( $list ) }}
+    <div class="post">
+      {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
+      {{ $list := where $list "Section" "!=" "" }}
+      {{ $practiceMap := newScratch }}
+      {{ range $list }}
+        {{ $currentItem := (dict "pageParams" .Params "RelPermalink" .RelPermalink ) }}
+        {{ $practiceMap.Add .Params.area (slice $currentItem) }}
+      {{end}}
 
-    <div class="extra-pagination inner">
-        {{ partial "pagination.html" $paginator }}
+      <section class="loop-categories">
+          <h2>Discovery</h2>
+          <div class="tile-grid">
+            {{ range $practiceMap.Get "discovery-loop-why" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+            {{ range $practiceMap.Get "discovery-loop-outcomes" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+          </div>
+
+      </section>
+
+      <section class="loop-categories">
+          <h2>Options Pivot</h2>
+        <div class="tile-grid">
+            {{ range $practiceMap.Get "options" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+        </div>
+
+      </section>
+
+      <section class="loop-categories">
+        <h2>Delivery</h2>
+        <div class="tile-grid">
+            {{ range $practiceMap.Get "delivery-deliver" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+            {{ range $practiceMap.Get "delivery-measure-and-learn" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+        </div>
+
+      </section>
+
+      <section class="loop-categories">
+        <h2>Foundation</h2>
+        <div class="tile-grid">
+          {{ range $practiceMap.Get "foundation-culture-and-collaboration" }}
+            {{ partial "tile.html" . }}
+          {{end}}
+          {{ range $practiceMap.Get "foundation-technical" }}
+            {{ partial "tile.html" . }}
+          {{end}}
+        </div>
+      
+      </section>
+
+      {{ partial "button.html" (dict "absolutePath" "/admin/#/collections/practice/new" "buttonText" "Add new practice") }}
     </div>
-
-    {{ range $index, $page := $paginator.Pages }}
-        {{ partial "li.html" . }}
-    {{ end }}
-
-    {{ partial "pagination.html" $paginator }}
