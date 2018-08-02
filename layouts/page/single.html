@@ -53,31 +53,6 @@
 
   <article class="post {{ .Section }}">
     <header class="post-header">
-      <nav class="breadcrumb">
-        {{ $currentNode := . }}
-        {{ range .Site.Menus.main }}
-        {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-        <li><a href="{{.URL}}">{{.Name}}</a></li>
-              {{ range .Children }}
-              {{ if .HasChildren }}
-              {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-                <li><a href="{{.URL}}">{{.Name}}</a></li>
-                  {{ range .Children }}
-                  {{ if .HasChildren }}
-                  {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-                    <li><a href="{{.URL}}">{{.Name}}</a></li>
-                  {{end}}
-                  {{end}}
-                  {{end}}
-              {{end}}
-              {{end}}
-              {{end}}
-        {{end}}
-        {{end}}
-        <!-- <li>{{.Title}}</li> -->
-      </nav>
-
-
         <h1 class="post-title">{{.Title}}</h1>
         <small>{{.Description}}</small>
 

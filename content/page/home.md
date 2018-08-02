@@ -6,6 +6,8 @@ weight: 5
 type: "home"
 ---
 
-![mobius](/images/mobius-on-foundation.jpg)
+![library-loop](/images/loop-labels-path.svg)
 
-The library's source is in [a public GitHub repo](https://github.com/openpracticelibrary/openpracticelibrary) and is licensed under [Apache 2.0](https://github.com/openpracticelibrary/openpracticelibrary/blob/master/LICENSE). Feedback and contributions are welcome! [Learn more about contributing](/about/#contributing).
+This Library is intended to be a wealth of knowledge on product Discovery and Delivery practices to be adopted and evolved by a positive, engaged and supportive global community.
+
+Get started with the practices below or [learn more about this library](/about) and how to contribute to it.
