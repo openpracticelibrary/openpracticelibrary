@@ -3,6 +3,7 @@
   - Utilities
   - Typography
   - Site Header
+  - Post Header
   - Tiles
   - Random things to be organized
   - Links
@@ -58,6 +59,77 @@ h1, h2, h3, h4, h5, h6,
   height: 40px;
 }
 
+/* =Post Header */
+
+.post-header h4 {
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.author-co-authors,
+.post-meta,
+.post-date {
+  margin: 0;
+  font-family: "Merriweather", serif;
+  font-size: 1.4rem;
+  line-height: 1.6em;
+  color: #757575;
+}
+
+.post-date {
+  padding-left: 0;
+  border-left: none;
+  text-transform: none;
+}
+
+/* Create some space to the right for the share links */
+.post-header .author {
+  margin-right: 180px;
+}
+
+.post-header h4 a {
+    color: #2e2e2e;
+    text-decoration: none;
+}
+
+.post-header h4 a:hover {
+    text-decoration: underline;
+}
+
+.post-meta {
+  margin-top: 0;
+}
+
+/* Author styling */
+
+.author-avatar {
+  box-sizing: border-box;
+  display: block;
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  overflow: hidden;
+  padding: 5px;
+  background: #fff;
+  z-index: 2;
+  box-shadow: #E7EEF2 0 0 0 1px;
+  float: left;
+  margin: 0rem 1.6rem 0rem 1.6rem;
+}
+
+.author-avatar .img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 100%;
+}
+
+.author-info {
+  padding-top: 0.6rem;
+}
+
 /* =Tile */
 
 .tile-grid {
@@ -98,43 +170,6 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* =Random Things */
-
-/* Author styling */
-
-.author-avatar {
-  box-sizing: border-box;
-  display: block;
-  width: 80px;
-  height: 80px;
-  border-radius: 100%;
-  overflow: hidden;
-  padding: 5px;
-  background: #fff;
-  z-index: 2;
-  box-shadow: #E7EEF2 0 0 0 1px;
-  float: left;
-  margin: 0rem 1.6rem 0rem 1.6rem;
-}
-
-.author-avatar .img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: center center;
-  border-radius: 100%;
-}
-
-.author-info {
-  padding: 0.5rem 0rem;
-  /* padding-left: 1rem; */
-}
-
-p.author-co-authors {
-  display: block;
-  margin: 0.1rem 0;
-  color: #757575;
-}
 
 /* Loop heading and mobius areas */
 p.mobius-loop {
@@ -267,14 +302,6 @@ p.mobius-loop:before {
 .author-meta span {
 	overflow-wrap: normal;
 	hyphens: none;
-}
-
-.post-footer .author {
-	margin-right: 210px;
-}
-
-.post-footer .share {
-	width: 200px;
 }
 
 /* =Links */
