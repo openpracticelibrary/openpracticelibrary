@@ -17,13 +17,52 @@
     {{ end }}
 
     <div class="post">
-      <h2>All practices</h2>
       {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
       {{ $list := where $list "Section" "!=" "" }}
+      {{ $practiceMap := newScratch }}
+      {{ range $list }}
+        {{ $practiceMap.Add .Params.area (slice .) }}
+      {{end}}
+
+      <section class="loop-categories">
+          <h2>Discovery</h2>
+          <div class="tile-grid">
+            {{ range $practiceMap.Get "discovery-loop-why" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+            {{ range $practiceMap.Get "discovery-loop-outcomes" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+          </div>
+      </section>
+
+
+
+      <h2>Options Pivot</h2>
       <div class="tile-grid">
-        {{ range $list }}
-        {{ partial "tile.html" . }}
-        {{end}}
+          {{ range $practiceMap.Get "options" }}
+            {{ partial "tile.html" . }}
+          {{end}}
       </div>
 
+      <h2>Delivery</h2>
+      <div class="tile-grid">
+          {{ range $practiceMap.Get "delivery-deliver" }}
+            {{ partial "tile.html" . }}
+          {{end}}
+          {{ range $practiceMap.Get "delivery-measure-and-learn" }}
+            {{ partial "tile.html" . }}
+          {{end}}
+      </div>
+
+      <h2>Foundation</h2>
+      <div class="tile-grid">
+        {{ range $practiceMap.Get "foundation-culture-and-collaboration" }}
+          {{ partial "tile.html" . }}
+        {{end}}
+        {{ range $practiceMap.Get "foundation-technical" }}
+          {{ partial "tile.html" . }}
+        {{end}}
+      </div>
+      
     </div>
