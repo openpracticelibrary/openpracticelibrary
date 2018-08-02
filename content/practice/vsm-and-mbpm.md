@@ -1,6 +1,8 @@
 ---
-title: Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM)
+title: Value Stream & Process Mapping
+subtitle: Techniques for process improvement
 authors:
+  - sherl0cks
   - mtakane
   - tdbeattie
 area: discovery-loop-why
