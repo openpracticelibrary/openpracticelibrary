@@ -29,20 +29,20 @@ Where important information is constantly accessible and visible to people, both
 
 Practices we use that result in information radiators which we use to visualise work include:
 
-- [Impact Mapping](/practices/impact-mapping/)
-- [Event Storming](/practices/event-storming/)
-- [Value Stream Mapping and Metric Based Process Mapping](/practices/vsm-and-mbpm/)
+- [Impact Mapping](/practice/impact-mapping/)
+- [Event Storming](/practice/event-storming/)
+- [Value Stream Mapping and Metric Based Process Mapping](/practice/vsm-and-mbpm/)
 - Target Outcomes
-- [Social Contact](/practices/social-contract/)
-- [User Story Mapping](/practices/user-story-mapping/)
+- [Social Contact](/practice/social-contract/)
+- [User Story Mapping](/practice/user-story-mapping/)
 - Product Backlogs
 - Sprint Boards
-- [Burndown](/practices/burndown/) and Burnup Charts
+- [Burndown](/practice/burndown/) and Burnup Charts
 - Build Monitors
 - CI/CD monitors
 - Retrospectives
-- [Realtime Retrospective](/practices/realtime-retrospective/)
-- [Team Sentiment](/practices/team-sentiment/)
+- [Realtime Retrospective](/practice/realtime-retrospective/)
+- [Team Sentiment](/practice/team-sentiment/)
 
 
 ## Who do you need?

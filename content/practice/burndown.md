@@ -22,7 +22,7 @@ Burndown charts provide real data about a team's velocity and provides a mechani
 
 ## Related Practices
 
-[Retrospectives](/practices/realtime-retrospective/) provide excellent opportunities to review recent burndown charts and to facilitate conversations on what can be learned from the data presented in them. 
+[Retrospectives](/practice/realtime-retrospective/) provide excellent opportunities to review recent burndown charts and to facilitate conversations on what can be learned from the data presented in them. 
 
 
 ## Who do you need?

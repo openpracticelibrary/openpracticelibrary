@@ -21,14 +21,14 @@ Retrospectives facilitate continous improvement. Rather than wait until the end 
 
 Many practices benefit from their artefacts being re-visited, reflected upon and/or updated during retrospectives including:
 
-- [Social Contract](/practices/social-contract/)
-- [Team Sentiment](/practices/team-sentiment/)
-- [Burndown Charts](/practices/burndown/)
-- [Visualisation of Work](/practices/visualisation-of-work/)
+- [Social Contract](/practice/social-contract/)
+- [Team Sentiment](/practice/team-sentiment/)
+- [Burndown Charts](/practice/burndown/)
+- [Visualisation of Work](/practice/visualisation-of-work/)
 
 Engineering practices such as Continuous Integration and Test Automation can also benefit from being considered during retrospectives. In particular, exporting data from associated tools to give teams the opportunity for the team to review the data, inspect trends and establish whether any adaption in behaviour or practice would enable them and measurements to improve.
 
-The [Realtime-Retrospective](/practices/realtime-retrospective/) is a very similar practice which runs continiously and captured fe edback in real time.
+The [Realtime-Retrospective](/practice/realtime-retrospective/) is a very similar practice which runs continiously and captured fe edback in real time.
 
 
 ## Who do you need?
