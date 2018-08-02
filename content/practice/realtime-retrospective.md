@@ -1,7 +1,11 @@
 ---
 title: Realtime Retrospective
+subtitle: Getting feedback faster and improving the overall experience of your event
+jumbotron: /images/example-realtime-retro.jpg
+jumbotronAlt: Get Realtime feedback over the course of your event!
 authors:
   - mtakane
+icon: /images/realtime-retro-prep.jpg
 area: foundation-culture-and-collaboration
 date: 2017-10-26T05:00:00.000Z
 ---
@@ -15,8 +19,6 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - Feedback in a timeline like fashion that are both positive and negative things
 - A capture of the mood and reaction of people over the course of time in a realtime manner
 - Lots of sticky notes on a wall
-
-![Example of a Realtime Retrospective](/images/example-realtime-retro.jpg "Example of a Realtime Retrospective")
 
 ## How does it fit
 
@@ -52,7 +54,10 @@ The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#
 - Markers
 - Painters Tape
 
-This represents the type of feedback that you wish to receive (Positive, Negative, Surprised).
+#### Prep
+- Find a wall or surface that is long enough to handle the amount of feedback you are expecting.
+- Make a long line to represent time
+- Draw a Happy Face above the line, a Sad Face below the line, and a surprised face along the line. (This represents the type of feedback that you wish to receive (Positive, Negative, Surprised))
 ![Realtime Retrospective Setup](/images/realtime-retro-prep.jpg "Sample Prep Setup for Realtime Retrospective")
 
 #### Step 1
