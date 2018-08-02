@@ -21,9 +21,9 @@ Team sentiment practices are often introduced where there is a strong sense of s
 
 ## Related Practices
 
-Where the team has used the [Social Contract](/practices/social-contract/) practice, team sentiment practices can help enforce some of the feeling radiated in the Social Contract.
+Where the team has used the [Social Contract](/practice/social-contract/) practice, team sentiment practices can help enforce some of the feeling radiated in the Social Contract.
 
-[Retrospectives](/practices/realtime-retrospective/) are excellent check-points on the team health and taking the opportunity to review the Team Sentiment artefcts can facilitate a team conversation as to how they can improve overall team mood and what has been learned in the recent iteration.
+[Retrospectives](/practice/realtime-retrospective/) are excellent check-points on the team health and taking the opportunity to review the Team Sentiment artefcts can facilitate a team conversation as to how they can improve overall team mood and what has been learned in the recent iteration.
 
 
 ## Who do you need?
