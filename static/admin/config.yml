@@ -18,6 +18,7 @@ collections:
       - {label: "Jumbotron image", name: "jumbotron", widget: "image", required: false}
       - {label: "Jumbotron alt text", name: "jumbotronAlt", widget: "string", required: false}
       - {label: "Authors", name: "authors", widget: "list", default: []}
+      - {label: "Tile icon", name: "icon", widget: "image", required: false}
       - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "discovery-loop-why"},
           {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
