@@ -37,9 +37,9 @@ We're looking to be friendly and also authoritative, comprehensive and also conc
 ## How to Fit These Practices into Your Existing Approach
 While everybody has their approach to engagements, there is a need to identify particular outcomes that common practices look to accomplish.
 
-So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
+So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by Gabrielle Benefield and Ryan Shriver. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
 
-![mobius-on-foundation](/images/mobius-on-foundation.jpg)
+![library-loop](/images/loop-labels-path.svg)
 
 Practices are identified on one of areas of the canvas:
 
