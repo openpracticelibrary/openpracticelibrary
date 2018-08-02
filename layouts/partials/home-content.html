@@ -21,7 +21,8 @@
       {{ $list := where $list "Section" "!=" "" }}
       {{ $practiceMap := newScratch }}
       {{ range $list }}
-        {{ $practiceMap.Add .Params.area (slice .) }}
+        {{ $currentItem := (dict "pageParams" .Params "RelPermalink" .RelPermalink ) }}
+        {{ $practiceMap.Add .Params.area (slice $currentItem) }}
       {{end}}
 
       <section class="loop-categories">
@@ -34,35 +35,44 @@
               {{ partial "tile.html" . }}
             {{end}}
           </div>
+
       </section>
 
+      <section class="loop-categories">
+          <h2>Options Pivot</h2>
+        <div class="tile-grid">
+            {{ range $practiceMap.Get "options" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+        </div>
 
+      </section>
 
-      <h2>Options Pivot</h2>
-      <div class="tile-grid">
-          {{ range $practiceMap.Get "options" }}
+      <section class="loop-categories">
+        <h2>Delivery</h2>
+        <div class="tile-grid">
+            {{ range $practiceMap.Get "delivery-deliver" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+            {{ range $practiceMap.Get "delivery-measure-and-learn" }}
+              {{ partial "tile.html" . }}
+            {{end}}
+        </div>
+
+      </section>
+
+      <section class="loop-categories">
+        <h2>Foundation</h2>
+        <div class="tile-grid">
+          {{ range $practiceMap.Get "foundation-culture-and-collaboration" }}
             {{ partial "tile.html" . }}
           {{end}}
-      </div>
-
-      <h2>Delivery</h2>
-      <div class="tile-grid">
-          {{ range $practiceMap.Get "delivery-deliver" }}
+          {{ range $practiceMap.Get "foundation-technical" }}
             {{ partial "tile.html" . }}
           {{end}}
-          {{ range $practiceMap.Get "delivery-measure-and-learn" }}
-            {{ partial "tile.html" . }}
-          {{end}}
-      </div>
-
-      <h2>Foundation</h2>
-      <div class="tile-grid">
-        {{ range $practiceMap.Get "foundation-culture-and-collaboration" }}
-          {{ partial "tile.html" . }}
-        {{end}}
-        {{ range $practiceMap.Get "foundation-technical" }}
-          {{ partial "tile.html" . }}
-        {{end}}
-      </div>
+        </div>
       
+      </section>
+
+      {{ partial "button.html" (dict "absolutePath" "/admin/#/collections/practice/new" "buttonText" "Add new practice") }}
     </div>
