@@ -52,3 +52,25 @@ collections:
       - {label: "About you", name: "bio", widget: "text", required: false, pattern: [".{0,120}", "Must have at least 120 characters"]}
       - {label: "Location", name: "location", widget: "string", required: false}
       - {label: "WebSite", name: "website", widget: "string", required: false}
+  - name: "how-to" # Used in routes, e.g., /admin/collections/blog
+    label: "How to article" # Used in the UI
+    folder: "data/content/how-to" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "authors", widget: "list", default: []}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "No. of people required", name: "people", widget: "string"}
+      - {label: "Time length", name: "time", widget: "string"}
+      - {label: "Facilitation difficulty", name: "difficulty", widget: "select", options:
+          [{label: "Very Easy", value: "veasy"},
+          {label: "Easy", value: "easy"},
+          {label: "Moderate", value: "moderate"},
+          {label: "Hard", value: "hard"},
+          {label: "Very Hard", value: "vhard"}]}
+      - {label: "Expected participants", name: "participants", widget: "list", default: []}
+      - {label: "Materials needed", name: "materials", widget: "markdown"}
+      - {label: "Steps to carry our", name: "steps", widget: "markdown"}
+      - {label: "FAQ", name: "faq", widget: "markdown"}
+      - {label: "External Examples", name: "examples", widget: "markdown"}
