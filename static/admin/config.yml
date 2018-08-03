@@ -15,10 +15,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title of practice", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Jumbotron image", name: "jumbotron", widget: "image", required: false}
-      - {label: "Jumbotron alt text", name: "jumbotronAlt", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Authors", name: "authors", widget: "list", default: []}
-      - {label: "Tile icon", name: "icon", widget: "image", required: false}
       - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "discovery-loop-why"},
           {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
@@ -27,7 +25,16 @@ collections:
           {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
           {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
           {label: "Foundation - Technical", "foundation-technical"}]}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tile icon", name: "icon", widget: "image", required: false}
+      - {label: "Jumbotron image", name: "jumbotron", widget: "image", required: false}
+      - {label: "Jumbotron alt text", name: "jumbotronAlt", widget: "string", required: false}
+      - {label: "No. of people required", name: "people", widget: "string", required: false}
+      - {label: "Time length", name: "time", widget: "string", required: false}
+      - {label: "Facilitation difficulty", name: "difficulty", widget: "select", required: false, options:
+          [{label: "Easy", value: "easy"},
+          {label: "Moderate", value: "moderate"},
+          {label: "Hard", value: "hard"}]}
+      - {label: "Expected participants", name: "participants", required: false, widget: "list", default: []}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
@@ -52,30 +59,3 @@ collections:
       - {label: "About you", name: "bio", widget: "text", required: false, pattern: [".{0,120}", "Must have at least 120 characters"]}
       - {label: "Location", name: "location", widget: "string", required: false}
       - {label: "WebSite", name: "website", widget: "string", required: false}
-  - name: "how-to" # Used in routes, e.g., /admin/collections/blog
-    label: "How to articles" # Used in the UI
-    folder: "content/how-to" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Authors", name: "authors", widget: "list", default: []}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "No. of people required", name: "people", widget: "string"}
-      - {label: "Time length", name: "time", widget: "string"}
-      - {label: "Facilitation difficulty", name: "difficulty", widget: "select", options:
-          [{label: "Very Easy", value: "very-easy"},
-          {label: "Easy", value: "easy"},
-          {label: "Moderate", value: "moderate"},
-          {label: "Hard", value: "hard"},
-          {label: "Very Hard", value: "very-hard"}]}
-      - {label: "Expected participants", name: "participants", widget: "list", default: []}
-      - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
-          [{label: "Discovery - Why", value: "discovery-loop-why"},
-          {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
-          {label: "Options", value: "options"},
-          {label: "Delivery - Deliver", value: "delivery-deliver"},
-          {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
-          {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
-          {label: "Foundation - Technical", "foundation-technical"}]}
-      - {label: "Body", name: "body", widget: "markdown"}
