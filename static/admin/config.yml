@@ -53,8 +53,8 @@ collections:
       - {label: "Location", name: "location", widget: "string", required: false}
       - {label: "WebSite", name: "website", widget: "string", required: false}
   - name: "how-to" # Used in routes, e.g., /admin/collections/blog
-    label: "How to article" # Used in the UI
-    folder: "data/content/how-to" # The path to the folder where the documents are stored
+    label: "How to articles" # Used in the UI
+    folder: "content/how-to" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -70,7 +70,4 @@ collections:
           {label: "Hard", value: "hard"},
           {label: "Very Hard", value: "vhard"}]}
       - {label: "Expected participants", name: "participants", widget: "list", default: []}
-      - {label: "Materials needed", name: "materials", widget: "markdown"}
-      - {label: "Steps to carry our", name: "steps", widget: "markdown"}
-      - {label: "FAQ", name: "faq", widget: "markdown"}
-      - {label: "External Examples", name: "examples", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
