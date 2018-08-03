@@ -38,6 +38,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Authors", name: "authors", widget: "list", default: []}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Menu", name: "menu", widget: "select", required: false, options:
+          [{label: "True", value: "main"},
+          {label: "False", value: ""}]}
+      - {label: "Menu weight", name: "weight", widget: "string", required: false, pattern: ["^[0-9]", "Must be a number between one and 9"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "author" # Used in routes, e.g., /admin/collections/blog
     label: "Authors" # Used in the UI
