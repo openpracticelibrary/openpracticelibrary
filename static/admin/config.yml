@@ -64,10 +64,18 @@ collections:
       - {label: "No. of people required", name: "people", widget: "string"}
       - {label: "Time length", name: "time", widget: "string"}
       - {label: "Facilitation difficulty", name: "difficulty", widget: "select", options:
-          [{label: "Very Easy", value: "veasy"},
+          [{label: "Very Easy", value: "very-easy"},
           {label: "Easy", value: "easy"},
           {label: "Moderate", value: "moderate"},
           {label: "Hard", value: "hard"},
-          {label: "Very Hard", value: "vhard"}]}
+          {label: "Very Hard", value: "very-hard"}]}
       - {label: "Expected participants", name: "participants", widget: "list", default: []}
+      - {label: "Area of the Mobius Loop", name: "area", widget: "select", options:
+          [{label: "Discovery - Why", value: "discovery-loop-why"},
+          {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
+          {label: "Options", value: "options"},
+          {label: "Delivery - Deliver", value: "delivery-deliver"},
+          {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
+          {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
+          {label: "Foundation - Technical", "foundation-technical"}]}
       - {label: "Body", name: "body", widget: "markdown"}
