@@ -376,6 +376,15 @@ a:focus {
   }
 }
 
+
+/* This extra breakpoint is here to match up with one in screen.css. */
+@media (min-width: 501px) and (max-width: 900px) {
+  .no-cover.post-head.main-header {
+    height: 85px;
+  }
+}
+
+/* =Large Screens */
 @media (min-width: 1024px) {
   .tile {
     width: 32%;
@@ -385,4 +394,3 @@ a:focus {
     /* font-size: 2.6rem; */
   }
 }
-/* =Large Screens */
