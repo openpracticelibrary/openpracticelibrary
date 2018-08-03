@@ -1,7 +1,7 @@
 # https://gohugo.io/getting-started/configuration/
 # https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
-baseURL = "https://openpracticelibrary.com/"
+# baseURL = "https://openpracticelibrary.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "casper"
