@@ -49,6 +49,8 @@ h1, h2, h3, h4, h5, h6,
 .site-footer,
 .read-next-story .post:before,
 .practice-title,
+.post-header,
+.post-meta,
 .practice-subtitle {
   font-family: 'Arimo', 'Lucida Grande', sans-serif;
 }
@@ -70,7 +72,6 @@ h1, h2, h3, h4, h5, h6,
 .post-meta,
 .post-date {
   margin: 0;
-  font-family: "Merriweather", serif;
   font-size: 1.4rem;
   line-height: 1.6em;
   color: #757575;
