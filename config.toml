@@ -5,6 +5,7 @@ baseURL = "https://openpracticelibrary.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "casper"
+enableGitInfo = true
 
 googleAnalytics = "UA-111461618-1"
 
