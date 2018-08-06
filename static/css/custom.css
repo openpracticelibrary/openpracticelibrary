@@ -4,6 +4,7 @@
   - Typography
   - Site Header
   - Tiles
+  - Suggested Reading
   - Random things to be organized
   - Links
   - Buttons
@@ -96,6 +97,22 @@ h1, h2, h3, h4, h5, h6,
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
+
+/* =Suggested Reading */
+.suggestions {
+  margin-top: 8rem; 
+  width: 80%;
+  margin: auto;
+}
+
+h2.suggestions {
+  color: #433030;
+  font-size: 1.8rem;
+  font-weight: lighter;
+  padding-left: 1rem;
+  border-bottom: 1px solid #9B9B9B;
+}
+
 
 /* =Random Things */
 .copyright {
