@@ -27,7 +27,7 @@
 			}
 			res = res.replace(/[^\/]*/, "").replace(/\//g, "");
 			console.log(initialResults[i].ref )
-			cleanedResults += "<li><a href='" + window.location.origin + "/" +  initialResults[i].ref.replace(/practices/, "/practice/") + "'>" + res + "</a></li>";
+			cleanedResults += "<li><a href='" + window.location.origin + "/" +  initialResults[i].ref.replace(/practices/, "/practice/") + "' id='result'>" + res + "</a></li>";
 		}
 	}
 	else {

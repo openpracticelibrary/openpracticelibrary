@@ -1,46 +1,5 @@
-.search-button {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: inline-block;
-    height: 38px;
-    padding: 0 15px;
-    border: #bfc8cd 1px solid;
-    opacity: 1;
-    color: #9EABB3;
-    text-align: center;
-    font-size: 12px;
-    text-transform: uppercase;
-    line-height: 35px;
-    white-space: nowrap;
-    border-radius: 3px;
-    transition: all 0.5s ease;
-    background-color: white;
-    border-color: rgba(0,0,0,0.4);
-    color: rgba(0,0,0,0.4);
-}
 
-.search-input {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: inline-block;
-    height: 38px;
-    padding: 0 15px;
-    border: #bfc8cd 1px solid;
-    opacity: 1;
-    color: #9EABB3;
-    text-align: center;
-    font-size: 12px;
-    line-height: 35px;
-    white-space: nowrap;
-    border-radius: 3px;
-    transition: all 0.5s ease;
-    background-color: white;
-    border-color: black;
-    color: black;
 
-}
 
 /*
   Table of contents
@@ -52,6 +11,7 @@
   - Links
   - Buttons
   - Jumbotron
+  - Search
   - Medium Screens
   - Large Screens
 */
@@ -401,6 +361,68 @@ a:focus {
 .jumbotron-img {
   width: 100%;
   height: auto;
+}
+
+/* =Search */
+
+.search-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 38px;
+    padding: 0 15px;
+    border: #bfc8cd 1px solid;
+    opacity: 1;
+    color: #9EABB3;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    transition: all 0.5s ease;
+    background-color: white;
+    border-color: rgba(0,0,0,0.4);
+    color: rgba(0,0,0,0.4);
+}
+
+.search-input {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 38px;
+    padding: 0 15px;
+    border: #bfc8cd 1px solid;
+    opacity: 1;
+    color: #9EABB3;
+    text-align: center;
+    font-size: 12px;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    transition: all 0.5s ease;
+    background-color: white;
+    border-color: black;
+    color: black;
+
+}
+
+#results-wrapper {
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+
+#result {
+    color: black;
+    text-decoration: none;
+
+}
+#result:hover {
+    text-decoration: underline;
+    /* text-shadow: 0px -2px 0px rgba(0,0,0,1), 0 0 5px rgba(255,255,255,0.8),0 -4px 15px rgba(255,255,255,0.5); */
 }
 
 /* =Medium Screens */
