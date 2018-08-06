@@ -98,6 +98,10 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* =Random Things */
+.copyright {
+/* css from theme sets this to 45% */
+  width: 100%
+}
 
 /* Author styling */
 
