@@ -216,6 +216,10 @@ p.social-subtitle {
 }
 
 /* =Random Things */
+.copyright {
+  /* css from theme sets this to 45% */
+    width: 100%
+}
 
 /* Loop heading and mobius areas */
 p.mobius-loop {
