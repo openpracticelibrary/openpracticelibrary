@@ -28,7 +28,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 ## Related Practices
 
-- [Start At The End](/practices/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
+- [Start At The End](/practice/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
 
 
 ## Who do you need?
@@ -42,7 +42,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 For the shortened variation:
 
-- 2-4 hours of prep to establish a [goal or problem statement](/practices/why-is-defined/) _before_ the session. This is important, or your session will go sideways!
+- 2-4 hours of prep to establish a [goal or problem statement](/practice/why-is-defined/) _before_ the session. This is important, or your session will go sideways!
 - optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
 - ~4 Hours to facilitate the session, not including breaks
 - Facilitate in small sessions @ around 60-90 minutes each

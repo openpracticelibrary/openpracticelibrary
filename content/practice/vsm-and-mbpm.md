@@ -22,10 +22,6 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 - formulating specific, data driven improvement plans
 - preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process
 
-## Related Practices
-
-- In order to effectively deliver a session, it's critical you prepare with a [Chartering](/routes/chartering/) exercise
-
 ## Who do you need?
 
 - No more than 10 people
