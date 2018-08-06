@@ -13,7 +13,7 @@ paginatedsections = ["practice"]
 logo = "images/logo.svg"
 description = "Practices that empower teams to collaborate and deliver iteratively"
 hideHUGOSupport = true
-customFooterPartial = "footer-custom.html"
+
 customCSS = [
   "css/custom.css",
   "https://fonts.googleapis.com/css?family=Arimo:400,700"
