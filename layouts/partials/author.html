@@ -1,7 +1,7 @@
 {{ if .}}
 {{$authors := .}}
 {{ range first 1 . }}
-    
+
   {{$authorname := .name}}
   {{$authorbio := or .bio ""}}
   {{$authorlocation := or .location ""}}
@@ -9,14 +9,14 @@
   {{$authorwebsite := or .website $authorgithubsite }}
   {{$authoravatar :=  print "https://github.com/" .github ".png?size=140" }}
 
-  
+
   <section class="author">
     {{with $authoravatar}}
     <figure class="author-avatar">
         <a class="img" href="{{$authorwebsite}}" style="background-image: url({{. | relURL}})"><span class="hidden">{{$authorname}}'s Picture</span></a>
     </figure>
     {{end}}
-    <div class="author-info"> 
+    <div class="author-info">
         <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
         <p class="author-co-authors">
             Co-Authors:
@@ -29,6 +29,4 @@
   </section>
   {{end}}
 
-  <section class="author">
-  </section>
 {{end}}
