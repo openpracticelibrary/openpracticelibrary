@@ -12,6 +12,7 @@ googleAnalytics = "UA-111461618-1"
 paginatedsections = ["practice"]
 logo = "images/logo.svg"
 description = "Practices that empower teams to collaborate and deliver iteratively"
+hideHUGOSupport = true
 customFooterPartial = "footer-custom.html"
 customCSS = [
   "css/custom.css",
