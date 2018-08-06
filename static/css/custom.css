@@ -4,6 +4,7 @@
   - Typography
   - Site Header
   - Post Header
+  - Social Footer
   - Tiles
   - Random things to be organized
   - Links
@@ -51,7 +52,8 @@ h1, h2, h3, h4, h5, h6,
 .practice-title,
 .post-header,
 .post-meta,
-.practice-subtitle {
+.practice-subtitle,
+.social-footer {
   font-family: 'Arimo', 'Lucida Grande', sans-serif;
 }
 
@@ -130,6 +132,49 @@ h1, h2, h3, h4, h5, h6,
 .author-info {
   padding-top: 0.6rem;
 }
+
+/* =Social Footer */
+
+.share {
+  overflow: hidden;
+}
+
+.share-icons {
+  float: right;
+  margin-top: 1.5rem; 
+}
+a.share-links {
+  text-decoration: none;
+  color: #999;
+}
+a.share-links:hover,
+a.share-links:focus {
+  color: #111;
+}
+
+.float-left {
+  float: left;
+}
+
+.social-footer {
+  border-top: 1px solid #F0F0F0;
+  border-bottom: 1px solid #F0F0F0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+h2.social-title {
+  font-size: 2.4rem;
+  line-height: 1em;
+  margin-bottom: 0;
+}
+p.social-subtitle {
+  font-size: 1.3rem;
+  color: #757575;
+  margin-bottom: 0.3rem
+}
+
 
 /* =Tile */
 

@@ -131,9 +131,12 @@
 {{end}}
 
     </section>
-    {{ partial "share.html" . }}
-
-    {{ partial "disqus.html" . }}
+    
+    <section class="social-footer">
+      <h2 class="social-title">Like what you read? Give {{ .Params.authors }} an upvote.</h2>
+      <p  class="social-subtitle">Upvotes will help us curate the best content for the community</p>
+        {{ partial "share.html" . }}
+    </section>
 
     {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
 </article>
