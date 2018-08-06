@@ -1,3 +1,47 @@
+.search-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 38px;
+    padding: 0 15px;
+    border: #bfc8cd 1px solid;
+    opacity: 1;
+    color: #9EABB3;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    transition: all 0.5s ease;
+    background-color: white;
+    border-color: rgba(0,0,0,0.4);
+    color: rgba(0,0,0,0.4);
+}
+
+.search-input {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 38px;
+    padding: 0 15px;
+    border: #bfc8cd 1px solid;
+    opacity: 1;
+    color: #9EABB3;
+    text-align: center;
+    font-size: 12px;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    transition: all 0.5s ease;
+    background-color: white;
+    border-color: black;
+    color: black;
+
+}
+
 /*
   Table of contents
   - Utilities
@@ -48,7 +92,9 @@ h1, h2, h3, h4, h5, h6,
 .site-footer,
 .read-next-story .post:before,
 .practice-title,
-.practice-subtitle {
+.practice-subtitle,
+.search-button,
+.search-input {
   font-family: 'Arimo', 'Lucida Grande', sans-serif;
 }
 
