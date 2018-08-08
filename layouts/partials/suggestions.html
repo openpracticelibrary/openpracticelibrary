@@ -1,4 +1,12 @@
 
 <section class="suggestions">
-    <h2 class="suggestions">Next Practices</h2>
+    {{ $currentArea := .Params.area}}
+    <h2 class="suggestions">More {{ $currentArea }} practices</h2>
+    <div class="tile-grid">
+            {{ range .Site.RegularPages }}
+                {{ if eq .Params.area $currentArea }}
+                    {{ partial "tile.html" (dict "pageParams" .Params "RelPermalink" .RelPermalink ) }}
+                {{end}}
+            {{ end }}
+    </div>
 </section>
