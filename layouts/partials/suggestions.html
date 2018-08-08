@@ -13,9 +13,9 @@
 
     <div class="tile-grid">
         <a class="tile" href="/">
-            <img class="tile-img" src="/images/loop-new.svg" alt="Loop">
+            <img class="tile-img" src="/images/loop-labels-path.svg" alt="Loop">
             {{ $currrentArea := index $.Site.Data.content.loop .Params.area}}
-            <h2 class="tile-heading">{{ range $currrentArea.next }} Next : {{ title (humanize .) }} {{end }}</h2>
+            <h2 class="tile-heading">{{ range $currrentArea.next }} Up next: {{ title (humanize .) }} {{end }}</h2>
             <!-- <h2 class="tile-heading">{{ range $currrentArea.previous }} Previous : {{ . }} {{end }}</h2> -->
         </a>
 
