@@ -6,6 +6,8 @@
   - Utilities
   - Typography
   - Site Header
+  - Post Header
+  - Social Footer
   - Tiles
   - Random things to be organized
   - Links
@@ -21,12 +23,12 @@
 /* Micro clearfix - http://nicolasgallagher.com/micro-clearfix-hack/ */
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 body {
@@ -54,7 +56,11 @@ h1, h2, h3, h4, h5, h6,
 .practice-title,
 .practice-subtitle,
 .search-button,
-.search-input {
+.search-input,
+.post-header,
+.post-meta,
+.practice-subtitle,
+.social-footer {
   font-family: 'Arimo', 'Lucida Grande', sans-serif;
 }
 
@@ -63,6 +69,115 @@ h1, h2, h3, h4, h5, h6,
 .blog-logo img {
   height: 40px;
 }
+
+/* =Post Header */
+
+.post-header h4 {
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.author-co-authors,
+.post-meta,
+.post-date {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 1.6em;
+  color: #757575;
+}
+
+.post-date {
+  padding-left: 0;
+  border-left: none;
+  text-transform: none;
+  display: inline-block;
+}
+
+.post-header h4 a {
+    color: #2e2e2e;
+    text-decoration: none;
+}
+
+.post-header h4 a:hover {
+    text-decoration: underline;
+}
+
+.post-meta {
+  margin-top: 0;
+}
+
+/* Author styling */
+
+.author-avatar {
+  box-sizing: border-box;
+  display: block;
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  overflow: hidden;
+  padding: 5px;
+  background: #fff;
+  z-index: 2;
+  box-shadow: #E7EEF2 0 0 0 1px;
+  float: left;
+  margin: 0rem 1.6rem 0rem 1.6rem;
+}
+
+.author-avatar .img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 100%;
+}
+
+.author-info {
+  padding-top: 0.6rem;
+}
+
+/* =Social Footer */
+
+.share {
+  overflow: hidden;
+}
+
+.share-icons {
+  float: right;
+  margin-top: 1.5rem; 
+}
+a.share-links {
+  text-decoration: none;
+  color: #999;
+}
+a.share-links:hover,
+a.share-links:focus {
+  color: #111;
+}
+
+.float-left {
+  float: left;
+}
+
+.social-footer {
+  border-top: 1px solid #F0F0F0;
+  border-bottom: 1px solid #F0F0F0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+h2.social-title {
+  font-size: 2.4rem;
+  line-height: 1em;
+  margin-bottom: 0;
+}
+p.social-subtitle {
+  font-size: 1.3rem;
+  color: #757575;
+  margin-bottom: 0.3rem
+}
+
 
 /* =Tile */
 
@@ -104,42 +219,9 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* =Random Things */
-
-/* Author styling */
-
-.author-avatar {
-  box-sizing: border-box;
-  display: block;
-  width: 80px;
-  height: 80px;
-  border-radius: 100%;
-  overflow: hidden;
-  padding: 5px;
-  background: #fff;
-  z-index: 2;
-  box-shadow: #E7EEF2 0 0 0 1px;
-  float: left;
-  margin: 0rem 1.6rem 0rem 1.6rem;
-}
-
-.author-avatar .img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: center center;
-  border-radius: 100%;
-}
-
-.author-info {
-  padding: 0.5rem 0rem;
-  /* padding-left: 1rem; */
-}
-
-p.author-co-authors {
-  display: block;
-  margin: 0.1rem 0;
-  color: #757575;
+.copyright {
+  /* css from theme sets this to 45% */
+    width: 100%
 }
 
 /* Loop heading and mobius areas */
@@ -273,14 +355,6 @@ p.mobius-loop:before {
 .author-meta span {
 	overflow-wrap: normal;
 	hyphens: none;
-}
-
-.post-footer .author {
-	margin-right: 210px;
-}
-
-.post-footer .share {
-	width: 200px;
 }
 
 /* =Links */
@@ -438,8 +512,21 @@ a:focus {
   .tile-heading {
     font-size: 2.2rem;
   }
+
+  .blog-logo img {
+    height: 50px;
+  }
 }
 
+
+/* This extra breakpoint is here to match up with one in screen.css. */
+@media (min-width: 501px) and (max-width: 900px) {
+  .no-cover.post-head.main-header {
+    height: 85px;
+  }
+}
+
+/* =Large Screens */
 @media (min-width: 1024px) {
   .tile {
     width: 32%;
@@ -449,4 +536,3 @@ a:focus {
     /* font-size: 2.6rem; */
   }
 }
-/* =Large Screens */

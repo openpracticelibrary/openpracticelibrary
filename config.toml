@@ -5,6 +5,7 @@ baseURL = "https://openpracticelibrary.com/"
 languageCode = "en-us"
 title = "Open Practice Library"
 theme = "casper"
+enableGitInfo = true
 
 googleAnalytics = "UA-111461618-1"
 
@@ -12,7 +13,8 @@ googleAnalytics = "UA-111461618-1"
 paginatedsections = ["practice"]
 logo = "images/logo.svg"
 description = "Practices that empower teams to collaborate and deliver iteratively"
-customFooterPartial = "footer-custom.html"
+hideHUGOSupport = true
+
 customCSS = [
   "css/custom.css",
   "https://fonts.googleapis.com/css?family=Arimo:400,700"

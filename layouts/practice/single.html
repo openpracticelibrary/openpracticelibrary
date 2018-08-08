@@ -56,18 +56,27 @@
   <article class="post {{ .Section }}">
     <header class="post-header">
 
-        {{ partial "practice-heading.html" .Params }}
+      <!-- TODO: rename -->
+        {{ $scratch := newScratch }}
+        {{ range $.Params.authors }}
+          {{ $currrentAuthor := index $.Site.Data.content.author .}}
+          {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }}
+        {{ end }}
+        {{ $listOfAuthors := $scratch.Get "listOfAuthors"}}
+        {{ partial "author.html" $listOfAuthors }}
 
         <section class="post-meta">
-        {{ if eq .Section "post"}}
-          <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-            {{ .Date.Format "Jan 2, 2006" }}
+          Last update:
+          <time class="post-date" datetime="{{ .Page.Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+            {{ .Page.Lastmod.Format "January 2, 2006" }}
           </time>
-        {{end}}
-         {{ range .Params.tags }}
-          <span class="post-tag small"><a href="{{$.Site.BaseURL}}/tags/{{ . | urlize }}/">#{{ . }}</a></span>
-         {{ end }}
         </section>
+
+
+
+
+        {{ partial "practice-heading.html" .Params }}
+
     </header>
 
     <section class="post-content">
@@ -126,23 +135,14 @@
 {{end}}
 
     </section>
+    
+    <section class="social-footer">
+      <h2 class="social-title">Like what you read? Give {{range first 1 .Params.authors }} {{ . }} {{end}} a thumbs up in the chat.</h2>
+      <p  class="social-subtitle">Feedback on practices will help us curate the best content for the community. Open chat to share your thoughts with the author</p>
+        {{ partial "share.html" . }}
+    </section>
+
     {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
-
-  <footer class="post-footer">
-
-    {{ $scratch := newScratch }}
-    {{ range $.Params.authors }}
-      {{ $currrentAuthor := index $.Site.Data.content.author .}}
-      {{ $scratch.Add "listOfAuthors" (slice $currrentAuthor) }}
-    {{ end }}
-    {{ $listOfAuthors := $scratch.Get "listOfAuthors"}}
-    {{ partial "author.html" $listOfAuthors }}
-
-    {{ partial "share.html" . }}
-
-    {{ partial "disqus.html" . }}
-
-  </footer>
 </article>
 
 </main>
