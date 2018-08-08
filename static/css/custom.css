@@ -104,9 +104,13 @@ h1, h2, h3, h4, h5, h6,
 
 /* =Suggested Reading */
 .suggestions {
-  width: 90%;
   max-width: 820px;
   margin: 4rem auto;
+}
+.suggestions-title{
+  font-size: 2.4rem;
+  line-height: 1em;
+  margin-bottom: 2.2rem;
 }
 
 h2.suggestions {

@@ -8,7 +8,9 @@
         {{end}}
     {{ end }}
 
-    <h2 class="suggestions">More {{ $currentArea }} practices</h2>
+    <h2 class="suggestions-title">Read more <i>{{ title (humanize $currentArea) }}</i> practices </h2>
+
+    <!-- <h2 class="suggestions">More {{ $currentArea }} practices</h2> -->
     <div class="tile-grid">
         {{ range first 3 ($pageAreaMap.Get "suggestions") }}
             {{ partial "tile.html" .}}
