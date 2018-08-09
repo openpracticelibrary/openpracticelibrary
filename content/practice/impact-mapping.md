@@ -1,7 +1,7 @@
 ---
-date: 2017-09-06T00:00:00-05:00
 title: Impact Mapping
-draft: false
+subtitle: 'An engaging, graphical, strategic planning technique'
+date: 2017-09-06T05:00:00.000Z
 authors:
   - sherl0cks
   - mtakane
