@@ -97,17 +97,7 @@
             <p class="how-to-box-text">{{ range .Params.participants }} {{ . }} {{ end }}</p>
         </div>
     </div>
-
-    <li class="how-to-box-item"><span class="icon-people "></span> No. of people required: {{ .Params.people }}</li>
-    <li class="how-to-box-item"><span class="icon-time"></span>Time: {{ .Params.time }}</li>
-    <li class="how-to-box-item"> <span class="icon-stats"></span>Difficult of exercise: {{ .Params.difficulty }}</li>
-    <li class="how-to-box-item"> <span class="icon-people"></span>Participants: {{ range .Params.participants }} {{ . }} {{ end }}</li>
-
-
-
     {{ .Content }}
-
-
 
 {{if ne .Params.index true}}
 {{if .Menus.main.HasChildren }}
