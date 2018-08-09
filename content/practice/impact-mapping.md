@@ -8,6 +8,7 @@ authors:
   - rdebeasi
 area: discovery-loop-why
 people: 2+
+difficulty: moderate
 participants:
   - Facilitator
   - Product Owner
