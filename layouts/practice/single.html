@@ -76,11 +76,35 @@
     <section class="post-content">
 
     <div class="how-to-box">
-        <p>No. of people required: {{ .Params.people }}</p>
-        <p>Time: {{ .Params.time }}</p>
-        <p>Difficult of exercise: {{ .Params.difficulty }}</p>
-        <p>Participants: {{ range .Params.participants }} {{ . }} {{ end }}</p>
+        <div class="how-to-box-item">
+            <div class="icon-people how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>No. People</i></p>
+            <p class="how-to-box-text">{{ .Params.people }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-time how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Time</i></p>
+            <p class="how-to-box-text">{{ .Params.time }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-stats how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Difficulty</i></p>
+            <p class="how-to-box-text">{{ .Params.difficulty }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-speach how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Participants</i></p>
+            <p class="how-to-box-text">{{ range .Params.participants }} {{ . }} {{ end }}</p>
+        </div>
     </div>
+
+    <li class="how-to-box-item"><span class="icon-people "></span> No. of people required: {{ .Params.people }}</li>
+    <li class="how-to-box-item"><span class="icon-time"></span>Time: {{ .Params.time }}</li>
+    <li class="how-to-box-item"> <span class="icon-stats"></span>Difficult of exercise: {{ .Params.difficulty }}</li>
+    <li class="how-to-box-item"> <span class="icon-people"></span>Participants: {{ range .Params.participants }} {{ . }} {{ end }}</li>
+
+
+
     {{ .Content }}
 
 
