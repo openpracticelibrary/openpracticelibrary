@@ -69,16 +69,20 @@
         </section>
 
 
-
-
         {{ partial "practice-heading.html" .Params }}
 
     </header>
 
     <section class="post-content">
 
+    <div class="how-to-box">
+        <p>No. of people required: {{ .Params.people }}</p>
+        <p>Time: {{ .Params.time }}</p>
+        <p>Difficult of exercise: {{ .Params.difficulty }}</p>
+        <p>Participants: {{ range .Params.participants }} {{ . }} {{ end }}</p>
+    </div>
+    {{ .Content }}
 
-{{ .Content }}
 
 
 {{if ne .Params.index true}}

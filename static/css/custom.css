@@ -10,6 +10,7 @@
   - Links
   - Buttons
   - Jumbotron
+  - How to box
   - Medium Screens
   - Large Screens
 */
@@ -409,6 +410,14 @@ a:focus {
 .btn-primary:hover,
 .btn-primary:focus {
   color: #0353af;
+}
+
+/* =How to box */
+
+.how-to-box {
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* =Jumbotron */

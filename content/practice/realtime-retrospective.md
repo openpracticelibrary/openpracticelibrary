@@ -8,9 +8,13 @@ authors:
 icon: /images/realtime-retro-prep.jpg
 area: foundation-culture-and-collaboration
 date: 2017-10-26T05:00:00.000Z
+difficulty: easy
+participants:
+  - The Team
+  - Facilitator
+time: one week
+people: 2+
 ---
-
-# Realtime Retrospective
 
 ## What is it?
 
