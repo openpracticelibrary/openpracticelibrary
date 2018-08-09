@@ -6,6 +6,8 @@ authors:
   - mtakane
   - tdbeattie
 area: foundation-culture-and-collaboration
+icon: /images/agile_agenda.png
+jumbotron: /images/agile_agenda.png
 people: 2+
 time: 10 minutes
 difficulty: easy
