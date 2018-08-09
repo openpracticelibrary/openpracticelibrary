@@ -7,6 +7,12 @@ authors:
   - mtakane
   - rdebeasi
 area: discovery-loop-why
+people: 2+
+participants:
+  - Facilitator
+  - Product Owner
+  - Project Sponsor
+  - Technical and business Architects
 ---
 
 ## What is it?
