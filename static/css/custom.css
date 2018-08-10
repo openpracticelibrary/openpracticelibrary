@@ -415,20 +415,26 @@ a:focus {
 /* =How to box */
 
 .how-to-box {
+  margin: 2rem 1rem;
   border: 1px solid #ADADAD;
   display: flex;
   flex-wrap: wrap;
   /* background: #ADADAD; */
 }
 .how-to-box-item {
-  padding: 10px;
+  padding: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 .how-to-box-icon {
   font-size: 2.5em;
+  text-align: center;
 }
+
 .how-to-box-text{
   margin: 0.5rem;
-  vertical-align: middle;
+  text-align: center;
 }
 
 .icon-people:before {

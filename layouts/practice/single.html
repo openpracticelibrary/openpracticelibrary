@@ -74,7 +74,6 @@
     </header>
 
     <section class="post-content">
-
     <div class="how-to-box">
         <div class="how-to-box-item">
             <div class="icon-people how-to-box-icon"></div>
@@ -94,7 +93,7 @@
         <div class="how-to-box-item">
             <div class="icon-speach how-to-box-icon"></div>
             <p class="how-to-box-text"><i>Participants</i></p>
-            <p class="how-to-box-text">{{ range .Params.participants }} {{ . }} {{ end }}</p>
+            <p class="how-to-box-text">{{ range first 1 .Params.participants }}{{ . }}{{ end }}{{ range after 1 .Params.participants }}, {{ . }} {{ end }}</p>
         </div>
     </div>
     {{ .Content }}
