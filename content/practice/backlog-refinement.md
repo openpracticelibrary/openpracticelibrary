@@ -3,8 +3,8 @@ title: Backlog Refinement
 subtitle: Determine addition information and prioritization for existing backlog items
 date: '2018-08-10T07:50:22-04:00'
 authors:
-  - mtakane
   - theisey
+  - mtakane
   - tbeattie
 area: options
 people: 2+
