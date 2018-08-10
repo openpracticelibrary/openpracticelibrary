@@ -13,8 +13,8 @@ difficulty: moderate
 participants:
   - Product Owner
   - Team Members
-  - (Optional) Subject Matter Expert
-  - (Optional) Architect
+  - Subject Matter Expert
+  - Architect
 ---
 # What is It?
 
