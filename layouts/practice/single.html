@@ -93,7 +93,9 @@
         <div class="how-to-box-item">
             <div class="icon-speach how-to-box-icon"></div>
             <p class="how-to-box-text"><i>Participants</i></p>
-            <p class="how-to-box-text">{{ range first 1 .Params.participants }}{{ . }}{{ end }}{{ range after 1 .Params.participants }}, {{ . }} {{ end }}</p>
+            {{ if isset .Params "participants" }}
+            <p class="how-to-box-text">{{ range first 1 .Params.participants }} {{ . }}{{ end }}{{ range after 1 .Params.participants }}, {{ . }} {{ end }}</p>
+            {{ end }}
         </div>
     </div>
     {{ .Content }}
