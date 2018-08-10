@@ -13,6 +13,7 @@
   - Links
   - Buttons
   - Jumbotron
+  - How to box
   - Search
   - Medium Screens
   - Large Screens
@@ -418,6 +419,50 @@ a:focus {
 .btn-primary:hover,
 .btn-primary:focus {
   color: #0353af;
+}
+
+/* =How to box */
+
+.how-to-box {
+  margin: 2rem 1rem;
+  border: 1px solid #ADADAD;
+  display: flex;
+  flex-wrap: wrap;
+  /* background: #ADADAD; */
+}
+.how-to-box-item {
+  padding: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.how-to-box-icon {
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.how-to-box-text{
+  margin: 0.5rem;
+  text-align: center;
+}
+
+.icon-people:before {
+  content: "\f304";
+}
+
+.icon-speach:before {
+  content: "\f300";
+}
+
+.icon-time:before {
+  content: "\f303";
+}
+.icon-clipboard:before {
+  content: "\f425";
+}
+
+.no-bullets {
+  list-style-type: none;
 }
 
 /* =Jumbotron */

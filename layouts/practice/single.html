@@ -73,17 +73,39 @@
         </section>
 
 
-
-
         {{ partial "practice-heading.html" .Params }}
 
     </header>
 
     <section class="post-content">
+    {{if and (isset .Params "people") (isset .Params "time") (isset .Params "difficulty") }}
+    <div class="how-to-box">
+        <div class="how-to-box-item">
+            <div class="icon-people how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>No. People</i></p>
+            <p class="how-to-box-text">{{ .Params.people }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-time how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Time</i></p>
+            <p class="how-to-box-text">{{ .Params.time }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-stats how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Difficulty</i></p>
+            <p class="how-to-box-text">{{ .Params.difficulty }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-speach how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Participants</i></p>
+            {{ if isset .Params "participants" }}
+            <p class="how-to-box-text">{{ range first 1 .Params.participants }} {{ . }}{{ end }}{{ range after 1 .Params.participants }}, {{ . }}{{ end }}</p>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
 
-
-{{ .Content }}
-
+    {{ .Content }}
 
 {{if ne .Params.index true}}
 {{if .Menus.main.HasChildren }}
