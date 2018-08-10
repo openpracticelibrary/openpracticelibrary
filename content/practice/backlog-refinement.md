@@ -5,7 +5,7 @@ date: '2018-08-10T07:50:22-04:00'
 authors:
   - theisey
   - mtakane
-  - tbeattie
+  - tdbeattie
 area: options
 people: 2+
 time: 30 minutes
