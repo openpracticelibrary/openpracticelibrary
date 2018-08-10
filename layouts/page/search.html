@@ -14,7 +14,7 @@
         {{ if .Site.Params.logo }}
             <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="Blog Logo" /></a>
         {{end}}
-        
+
         <input type="text" id="search-input" class="search-input" placeholder="Search Term Here">
         <button id="search-button" class="search-button">search</button>
 
@@ -28,13 +28,16 @@
             {{end}}
         {{end}}
     </nav>
+    <style>
+
+    </style>
 </header>
-
-
-<main id="content" class="content" role="main">
-
-{{ partial "home-content.html" . }}
-
-</main>
+            <div class="index-content post">
+              <div class="post-content">
+                  <h2>Results</h2>
+                      <ul id='results-wrapper'>
+                      </ul>
+              </div>
+            </div>
 
 {{ partial "footer.html" . }}
