@@ -157,6 +157,7 @@
 {{end}}
 
     </section>
+    {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
     
     <section class="social-footer">
       <h2 class="social-title">Like what you read? Give {{range first 1 .Params.authors }} {{ . }} {{end}} a thumbs up in the chat.</h2>
@@ -164,12 +165,12 @@
         {{ partial "share.html" . }}
     </section>
 
-    {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
+    {{ partial "suggestions.html" . }}
+
 </article>
 
 </main>
 
-{{ partial "suggestions.html" . }}
 
 {{ partial "button.html" (dict "absolutePath" "/" "buttonText" "View all practices") }}
 

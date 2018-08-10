@@ -1,0 +1,38 @@
+<section class="suggestions">
+    {{ $currentArea := .Params.area}}
+    {{ $pageAreaMap := newScratch }}
+    {{ range where .Site.RegularPages "Type" "practice" }}
+        {{ if eq .Params.area $currentArea }}
+            {{ $currentItem := (dict "pageParams" .Params "RelPermalink" .RelPermalink ) }}
+            {{ $pageAreaMap.Add "suggestions" (slice $currentItem) }}
+        {{end}}
+    {{ end }}
+
+    <h2 class="social-title">Continue reading</h2>
+    {{ $currrentArea := index $.Site.Data.content.loop .Params.area}}
+
+    <p class="social-subtitle">Jump to the next area on the loop <i>{{ range $currrentArea.next }}{{ title (humanize .) }}{{end }}</i>, or continue to explore the  <i>{{ title (humanize $currentArea) }}</i></p>
+
+    <div class="tile-grid">
+        <a class="tile" href="/#{{ range $currrentArea.next }}{{.}}{{end}}">
+            <img class="tile-img" src="/images/loop-labels-path.svg" alt="Loop">
+            <h2 class="tile-heading">{{ range $currrentArea.next }} Next up: {{ title (humanize .) }} {{end }}</h2>
+            <!-- <h2 class="tile-heading">{{ range $currrentArea.previous }} Previous : {{ . }} {{end }}</h2> -->
+        </a>
+
+        {{ range first 2 ($pageAreaMap.Get "suggestions") }}
+            {{ partial "tile.html" .}}
+        {{ end}}
+    </div>
+
+    {{if gt (len ($pageAreaMap.Get "suggestions")) 3}}
+    <input type="checkbox" class="view-more-state" id="view-more" />
+        <div class="tile-grid hide">
+            {{ range after 3 ($pageAreaMap.Get "suggestions") }}
+                {{ partial "tile.html" .}}
+            {{ end}}
+        </div>
+    <label for="view-more" class="view-more"></label>    
+    {{end}}
+
+</section>
