@@ -78,6 +78,7 @@
     </header>
 
     <section class="post-content">
+    {{if and (isset .Params "people") (isset .Params "time") (isset .Params "difficulty") }}
     <div class="how-to-box">
         <div class="how-to-box-item">
             <div class="icon-people how-to-box-icon"></div>
@@ -102,6 +103,8 @@
             {{ end }}
         </div>
     </div>
+    {{ end }}
+
     {{ .Content }}
 
 {{if ne .Params.index true}}
