@@ -200,6 +200,8 @@ p.social-subtitle {
   width: 100%;
   transition: opacity 0.5s;
   opacity: 1;
+  max-height: 17rem;
+  object-fit: cover;
 }
 
 .tile:hover .tile-img {
@@ -434,7 +436,8 @@ a:focus {
 
 .jumbotron-img {
   width: 100%;
-  height: auto;
+  max-height: 55rem;
+  object-fit: cover;
 }
 
 /* =Search */
