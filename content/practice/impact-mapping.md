@@ -1,12 +1,27 @@
 ---
-date: 2017-09-06T00:00:00-05:00
 title: Impact Mapping
-draft: false
+subtitle: 'An engaging, graphical, strategic planning technique'
+date: 2017-09-06T05:00:00.000Z
 authors:
   - sherl0cks
   - mtakane
   - rdebeasi
 area: discovery-loop-why
+people: 2+
+time: >-
+  2-4 hours of prep to establish a goal or problem statement before the session.
+  This is important, or your session will go sideways! optionally - 2 hours
+  before the session to create an outline of the Impact Map based on your
+  current understanding, as a way to introduce the subject to participants ~4
+  Hours to facilitate the session, not including breaks Facilitate in small
+  sessions @ around 60-90 minutes each Session can be done on different days For
+  the executive level session format, see the Impact Mapping book1:
+difficulty: moderate
+participants:
+  - Facilitator
+  - Product Owner
+  - Project Sponsor
+  - Technical and business Architects
 ---
 
 ## What is it?
