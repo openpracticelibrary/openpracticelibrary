@@ -1,9 +1,19 @@
 ---
 title: Agile Agenda
+subtitle: A flexible way to manage the agenda for an in person workshop
+date: 2017-05-15T05:00:00.000Z
 authors:
   - mtakane
+  - tdbeattie
 area: foundation-culture-and-collaboration
-date: 2017-05-15T05:00:00.000Z
+icon: /images/agile_agenda.png
+jumbotron: /images/agile_agenda.png
+people: 2+
+time: 10 minutes
+difficulty: easy
+participants:
+  - Facilitator
+  - Attendees
 ---
 
 ## What is it?
@@ -29,20 +39,6 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 ![agenda with faces](/images/agenda_with_faces.png)
 
 
-## Who do you need?
-
-- Facilitator
-
-
-## Suggested Time
-
-- ~10 min prep assuming you already have an agenda in mind
-
-
-## Difficulty
-- Facilitator: Easy
-- Participants: Easy
-
 
 ## Facilitation Materials Needed
 
@@ -51,8 +47,6 @@ The Agile Agenda is a simple, yet effective way to manage the agenda for an in p
 - Stickies (preferably a wide variety)
 
 
-## How Does it Fit?
- - Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library
 
 ## External References
 1. <a name="footnote-1"></a>[Information Radiator by Alistair Cockburn](http://alistair.cockburn.us/Information+radiator)

@@ -1,80 +1,66 @@
 ---
 title: Event Storming
+subtitle: >-
+  A rapid, interactive approach to business process discovery and design that
+  yields high quality models
+date: 2017-04-20T05:00:00.000Z
 authors:
   - mtakane
   - tdbeattie
 area: discovery-loop-outcomes
-date: 2017-04-20T05:00:00.000Z
+people: 2+
+time: ~6 Hours not including breaks
+difficulty: moderate
+participants:
+  - Facilitator
+  - Product Owner
+  - User Experience Design
+  - Analysts
+  - Developers
+  - Testers (optional but recommended)
 ---
-
 ## What is it?
 
 Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini[<sup>1</sup>](#footnote-1) in 2013. At the end of the event storm, you should have:
 
-- A shared understand of the business process you are building as part of the project, including:
-  - which steps should be considered in scope and which steps are out of scope
-  - the users involved in the process
-  - an initial inventory of UI screens for the process
-  - an initial inventory of Aggregates[<sup>2</sup>](#footnote-2)
-- A physical diagram with the above information, which can be transferred to a digital format
-
+* A shared understand of the business process you are building as part of the project, including:
+  * which steps should be considered in scope and which steps are out of scope
+  * the users involved in the process
+  * an initial inventory of UI screens for the process
+  * an initial inventory of Aggregates[<sup>2</sup>](#footnote-2)
+* A physical diagram with the above information, which can be transferred to a digital format
 
 ## Why use Event Storming?
 
-- It is significantly faster, and a heck of a lot more fun, than traditional process modeling techniques. You'll be surprised how much you accomplish in a short period
-- The technique is iterative, which allows facilitators to:
-  - slowly adding more detail in each session as to not overwhelm participants.
-  - pick and choose participants by session
-  - provide cognitive breaks (participants will get tired)
-- It forces important questions about the customer journey early in the ideation process
-- It gives you the big picture of the solution by placing technical implementation details in context of the business process
-- It is particularly effective way to kick start Domain Driven Design[<sup>3</sup>](#footnote-3)
-
+* It is significantly faster, and a heck of a lot more fun, than traditional process modeling techniques. You'll be surprised how much you accomplish in a short period
+* The technique is iterative, which allows facilitators to:
+  * slowly adding more detail in each session as to not overwhelm participants.
+  * pick and choose participants by session
+  * provide cognitive breaks (participants will get tired)
+* It forces important questions about the customer journey early in the ideation process
+* It gives you the big picture of the solution by placing technical implementation details in context of the business process
+* It is particularly effective way to kick start Domain Driven Design[<sup>3</sup>](#footnote-3)
 
 ## Related Practices
 
-- [User Story Mapping](/practice/user-story-mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
-- Journey Mapping[<sup>4</sup>](#footnote-4) can provide a high level overview of the business process before using Event Storming to get into the details
-- Event Storming will identify key views for your user interface, which can jump start Site Mapping[<sup>5</sup>](#footnote-5) or Wireframing[<sup>6</sup>](#footnote-6)
-
-
-## Who do you need?
-
-- Facilitator
-- Product Owner
-- User Experience Design
-- Analysts
-- Developers
-- Testers (optional but recommended)
-
-
-## Suggested Time
-
-- ~6 Hours not including breaks
-- Facilitate in small sessions @ around ~90 minutes each
-- Session can be done on different days
-
-
-## Difficulty
-- Facilitator: Moderate
-- Participants: Easy
-
+* [User Story Mapping](/practice/user-story-mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
+* Journey Mapping[<sup>4</sup>](#footnote-4) can provide a high level overview of the business process before using Event Storming to get into the details
+* Event Storming will identify key views for your user interface, which can jump start Site Mapping[<sup>5</sup>](#footnote-5) or Wireframing[<sup>6</sup>](#footnote-6)
 
 ## Facilitation Materials Needed
 
-- Drawing paper roll[<sup>7</sup>](#footnote-7). Stickies tend to fall off walls otherwise.
-- 2 different colors of wide format sticky notes like the 4x6 sticky notes[<sup>8</sup>](#footnote-8)
-- 4 different colors of small square sticky notes like the 3x3 sticky notes[<sup>9</sup>](#footnote-9)
-- Permanent Markers for the stickies
-- Whiteboard markers if you use whiteboard roll, or charcoal pencils if you use drawing paper. Theses are useful to jot adhoc lines/arrows/annotations
-
-
+* Drawing paper roll[<sup>7</sup>](#footnote-7). Stickies tend to fall off walls otherwise.
+* 2 different colors of wide format sticky notes like the 4x6 sticky notes[<sup>8</sup>](#footnote-8)
+* 4 different colors of small square sticky notes like the 3x3 sticky notes[<sup>9</sup>](#footnote-9)
+* Permanent Markers for the stickies
+* Whiteboard markers if you use whiteboard roll, or charcoal pencils if you use drawing paper. Theses are useful to jot adhoc lines/arrows/annotations
 
 ## How does it fit?
 
-- Typically done in the Outcomes area of the Discovery of the Open Practice Library
+* Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
 ## External Resources
+
 1. <a name="footnote-1"></a>Alberto Brandolini's [original blog](http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)
 2. <a name="footnote-2"></a>[Aggregates](https://martinfowler.com/bliki/DDD_Aggregate.html) as defined by Martin Fowler
 3. <a name="footnote-3"></a>Vaughn Vernon's [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420). Chapter 7 is of particular interest.
