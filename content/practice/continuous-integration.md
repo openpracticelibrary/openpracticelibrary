@@ -11,6 +11,8 @@ time: Minutes
 difficulty: moderate
 participants:
   - Team Members
+draft: false
+
 ---
 # What is it?
 
