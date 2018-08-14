@@ -26,3 +26,4 @@ The tests and build steps are typically run in an automation server such as [Jen
 - Automated testing reduces busy work and improves software quality.
 - Small, regular code commits reduce the number of integration problems.
 - Rapid feedback loops make it easier for new contributors to get started.
+- It's fun! Shipping of functional software in small increments is more enjoyable than waiting for someone to manually test a giant code change.
