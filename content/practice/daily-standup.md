@@ -4,7 +4,7 @@ subtitle: A short time-boxed synchronization of the team that occurs in a cadenc
 date: '2018-08-10T08:21:10-04:00'
 authors:
   - mtakane
-  - tbeattie
+  - tdbeattie
 area: delivery-deliver
 people: 2+
 time: 15 minutes
