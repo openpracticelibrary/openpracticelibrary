@@ -6,13 +6,12 @@ authors:
   - tdbeattie
   - rdebeasi
   - mtakane
-area: Foundation - Technical
+area: foundation-technical
 people: 1+
 time: Minutes
 difficulty: moderate
 participants:
   - Team Members
-draft: false
 
 ---
 # What is it?
