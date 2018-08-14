@@ -9,6 +9,8 @@ authors:
   - mwalker5000
   - tenfourty
 area: foundation-culture-and-collaboration
+icon: /images/20180207_191343.jpg
+jumbotron: /images/20180207_191343.jpg
 people: A team
 time: 30-90 min
 difficulty: easy
