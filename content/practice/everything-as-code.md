@@ -5,6 +5,7 @@ date: '2018-08-15T10:37:16+01:00'
 authors:
   - springdo
 area: foundation-technical
+icon: /images/ansible-example.png
 people: ''
 participants: []
 ---
