@@ -4,7 +4,7 @@ subtitle: 'Save everything as code - configuration, infrastructure and pipelines
 date: '2018-08-15T10:37:16+01:00'
 authors:
   - springdo
-area: Foundation - Technical
+area: foundation-technical
 people: ''
 participants: []
 ---
