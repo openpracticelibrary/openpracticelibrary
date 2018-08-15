@@ -4,6 +4,7 @@
   command = "./build.sh"
   # This is the directory that you are publishing from (relative to root of your repo)
   publish = "public"
+
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.46"
 
@@ -15,3 +16,5 @@
   command = "./build.sh"
   # This is the directory that you are publishing from (relative to root of your repo)
   publish = "public"
+  [context.production.environment]
+    HUGO_VERSION = "0.46"
