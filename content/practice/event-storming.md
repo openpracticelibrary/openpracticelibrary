@@ -8,6 +8,9 @@ authors:
   - mtakane
   - tdbeattie
 area: discovery-loop-outcomes
+icon: /images/eventstormtile.jpeg
+jumbotron: /images/eventstorm.jpeg
+jumbotronAlt: An example event storm
 people: 2+
 time: ~6 Hours not including breaks
 difficulty: moderate
@@ -54,10 +57,6 @@ Event Storming is a rapid, interactive approach to business process discovery an
 * 4 different colors of small square sticky notes like the 3x3 sticky notes[<sup>9</sup>](#footnote-9)
 * Permanent Markers for the stickies
 * Whiteboard markers if you use whiteboard roll, or charcoal pencils if you use drawing paper. Theses are useful to jot adhoc lines/arrows/annotations
-
-## How does it fit?
-
-* Typically done in the Outcomes area of the Discovery of the Open Practice Library
 
 ## External Resources
 
