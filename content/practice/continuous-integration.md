@@ -6,7 +6,11 @@ authors:
   - tdbeattie
   - rdebeasi
   - mtakane
+  - springdo
 area: foundation-technical
+icon: /images/ci-icon.png
+jumbotron: /images/ci-splash.png
+jumbotronAlt: example pipeline
 people: 1+
 time: Minutes
 difficulty: moderate
@@ -25,3 +29,6 @@ The tests and build steps are typically run in an automation server such as [Jen
 * Small, regular code commits reduce the number of integration problems.
 * Rapid feedback loops make it easier for new contributors to get started.
 * It's fun! Shipping of functional software in small increments is more enjoyable than waiting for someone to manually test a giant code change.
+
+# Useful links
+* [Jenkins Documentation](https://jenkins.io/doc/) - Jenkins is an extensible automation server. He can be used as a simple CI server or turned into the continuous delivery hub for any project
