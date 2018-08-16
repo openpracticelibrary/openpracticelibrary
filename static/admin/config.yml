@@ -35,7 +35,7 @@ collections:
           {label: "Moderate", value: "moderate"},
           {label: "Hard", value: "hard"}]}
       - {label: "Expected participants", name: "participants", required: false, widget: "list", default: []}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why do it? \n\n## How do I do it? \n\n## Further Reading \n\n"}
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
