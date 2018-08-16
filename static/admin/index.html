@@ -10,9 +10,17 @@
 
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+  <style>
+    /* remove the publish button from the editorial_workflow to avoid user confusion */
+    .nc-entryEditor-toolbar-publishButton,
+    .nc-entryEditor-toolbar-statusPublished,
+    .nc-workflow-card-buttonPublish {
+        display: none !important;
+    }
+  </style>
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/cms.js"></script>
 </body>
 </html>

@@ -2,7 +2,7 @@
 {{$authors := .}}
 {{ range first 1 . }}
 
-  {{$authorname := .name}}
+  {{$authorname := .title}}
   {{$authorbio := or .bio ""}}
   {{$authorlocation := or .location ""}}
   {{$authorgithubsite :=  print "https://github.com/" .github }}
@@ -21,7 +21,7 @@
         <p class="author-co-authors">
             Co-Authors:
             {{ range after 1 $authors }}
-              {{ .name }}
+              {{ .title }}
             {{ end }}
         </p>
 
