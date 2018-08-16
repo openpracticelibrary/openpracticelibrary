@@ -24,7 +24,7 @@ collections:
           {label: "Delivery - Deliver", value: "delivery-deliver"},
           {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
           {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
-          {label: "Foundation - Technical", "foundation-technical"}]}
+          {label: "Foundation - Technical",  value: "foundation-technical"}]}
       - {label: "Tile icon", name: "icon", widget: "image", required: false}
       - {label: "Jumbotron image", name: "jumbotron", widget: "image", required: false}
       - {label: "Jumbotron alt text", name: "jumbotronAlt", widget: "string", required: false}
