@@ -129,7 +129,7 @@ _Note: Add @username in the comment so the originator receives the email.  The o
 
  - If you are happy with the content and there are no conflicts, click the "Merge pull Request" button followed by the "Confirm Merge" button.  Add some additional comments if required.
  - Once merged, delete the branch (this will hopefully be automated at some point) as there is an issue with the CMS that does not allow people to create further edits while it still exists. <b>Click the "Delete Branch" button on the PR's page.</b>
+ - This act will deploy the changes to the `staging` environment. To deploy the change to the main site, raise a PR from `staging` to `master`. On GitHub, navigate to the `staging` branch which should be ahead of `master` and hit raise PR. Merge the change set as you did before.
  - If you go back to the [List of Practices](https://openpracticelibrary.com/admin/#/collections/practices) you should see the newly added practice.
- - Change the status of the Practice from "In Review" to "Ready".  
 
  <i>Note: The order is a little quirky at the moment - not sure why.  It's mainly alphabetical with a few exceptions.</i>
