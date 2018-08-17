@@ -10,6 +10,7 @@ authors:
 area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
+people: 3+
 time: 10 minutes
 difficulty: moderate
 participants:
