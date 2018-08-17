@@ -28,8 +28,11 @@ const runQuery = function (searchTerm) {
 
 	var cleanedResults = "";
 
-	var RESULTS = document.getElementById("results-wrapper");
-
+	let RESULTS = document.getElementById("results-wrapper");
+	if (RESULTS === null ){
+		console.info("INFO: ", "Results page not set "+ location.href)
+		location.replace(location.href);
+	}
 	var initialResults = OPL.idx.search(searchTerm);
 
 	if (initialResults.length != 0) {
@@ -45,13 +48,9 @@ const runQuery = function (searchTerm) {
 			// console.log(initialResults[i].ref )
 			cleanedResults += "<li><a href='" + window.location.origin + "/" + initialResults[i].ref.replace(/practices/, "/practice/") + "' id='result'>" + res + "</a></li>";
 		}
-		console.info("CLEAN 1 -", cleanedResults)
-		// debugger
 	} else {
 		cleanedResults = "No pages found for \"" + searchTerm + "\". <br/> Please try another search, or <a style='text-decoration: underline;' href='https://github.com/openpracticelibrary/openpracticelibrary/issues/new'>let us know</a> if something is missing.";
 	}
-	// debugger;
-	console.info("CLEAN 2 -", cleanedResults)
 	RESULTS.innerHTML = cleanedResults;
 };
 
@@ -70,7 +69,9 @@ const runQuery = function (searchTerm) {
 	})
 	
 	// If query params set on url; load results
-	if (new URL(window.location.href).searchParams.get('search')) {
-		runQuery(new URL(window.location.href).searchParams.get('search'));	
+	const searchTerm = new URL(window.location.href).searchParams.get('search')
+	if (searchTerm) {
+		searchfield.placeholder = searchTerm;
+		runQuery(searchTerm);	
 	}
 }());
