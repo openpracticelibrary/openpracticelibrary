@@ -10,7 +10,7 @@ area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
 time: 10 minutes
-difficulty: easy
+difficulty: moderate
 participants:
   - Facilitator
   - Team Members
