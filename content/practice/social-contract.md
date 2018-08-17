@@ -42,7 +42,7 @@ To effectively use this practice you should look to create the following outcome
 
 ## How To
 
-Stick the large poster paper on the wall and label it "social contract".
+Stick the large poster paper on the wall and label it "Social Contract."
 
 Explain to the team that we're going to:
 
