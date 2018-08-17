@@ -310,108 +310,6 @@ p.social-subtitle {
     width: 100%
 }
 
-/* Loop heading and mobius areas */
-p.mobius-loop {
-  color: #4A90E2;
-  margin: 0;
-  font-size: 8rem;
-}
-
-p.mobius-loop:before {
-  content: "∞";
-}
-
-.discovery-loop-why {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  left: 0.9rem;
-  top: 0.4rem;
-}
-
-.discovery-loop-outcomes {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  left: 0.9rem;
-  bottom: 2.1rem;
-}
-
-.options {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  left: 3rem;
-  bottom: 3.2rem;
-}
-
-.delivery-deliver {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  right: 0.9rem;
-  top: 0.4rem;
-}
-
-.delivery-measure-and-learn {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  right: 0.9rem;
-  bottom: 2.1rem;
-}
-
-.foundation-culture-and-collaboration {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  left: 1.4rem;
-  bottom: 0.91rem;
-}
-
-.foundation-technical {
-  z-index: 10;
-  position: absolute;
-  height: 1.4rem;
-  border-radius: 8px;
-  background-color:rgba(255,255,255,0.86);
-  right: 1.4rem;
-  bottom: 0.91rem;
-}
-
-.mobius-foundation {
-  height: 0.6rem;
-  width: 5.7rem;
-  border-radius: 3.5px;
-  background-color: #A54CCF;
-  margin: auto;
-  margin-top: 1rem;
-  margin-bottom: 1.5rem;
-}
-
-.inline-block {
-  display: inline-block;
-}
-
-.mobius-loop-position {
-  float: right;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-}
-
 /* article / practice heading */
 
 .article-heading {
@@ -566,6 +464,32 @@ a:focus {
   width: 100%;
   max-height: 55rem;
   object-fit: cover;
+}
+
+/* =Mobius Position */
+
+.inline-block {
+  display: inline-block;
+}
+
+.fix-width {
+  height: auto;
+  float: left;
+	font-size: 2.2rem;
+  max-width: 85%;
+}  
+
+.mobius-loop-position {
+  float: right;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-left: 85% 
+}
+
+.loop-img {
+  width: 100%;
+  height: auto;
 }
 
 /* =Search */
