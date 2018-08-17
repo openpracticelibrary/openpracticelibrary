@@ -73,6 +73,9 @@ Try to guide the team to a contract that encourages positivity, autonomy, and re
   - Mob to learn; pair to build?
   - Focus, then share what you learned?
   - Respect individual working styles
+- How should we handle devices in meetings?
+  - Laptops closed and phones down?
+  - Step out if you need to work on something else?
 - How do you want to track tasks?
   - Jira?
   - Paper stickies?
