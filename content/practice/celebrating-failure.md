@@ -21,10 +21,11 @@ participants:
 
 Celebrating failure is all about bringing together the failures from previous team member experiences that impacted previous product success, so that all team members can share, learn and avoid repeating the same mistakes.
 
-* Visible to the team throughout for continuous reminder.
-* Someone is empowered to say that X is going to lead to Y failure.
-
 ## Why use it?
+
+* Transparency of previous failures demonstrates trust to sponsors and users.
+* Visible to the team throughout for continuous reminder.
+* Team members are empowered, so that to say that X is going to lead to Y failure.
 
 ## How to do it?
 
