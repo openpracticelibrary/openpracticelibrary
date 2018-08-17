@@ -2,7 +2,7 @@
 node_modules/
 
 # built things
-./static/js/lunr/PagesIndex.json
+static/js/lunr/PagesIndex.json
 
 # Editor files
 *.swp
