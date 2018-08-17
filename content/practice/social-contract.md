@@ -56,7 +56,10 @@ At the end, ask the team to sign the contract, and keep it in a visible place. N
 
 As the team moves foward, encourage them to refer back to the contract when there are disagreements.
 
-## Example questions and possible answers
+## Example Questions
+
+Try to guide the team to a contract that encourages positivity, autonomy, and respect.
+
 - What sort of team culture do you want to build?
   - Open, positive, blame-free, constructive
   - Fun!
@@ -77,7 +80,7 @@ As the team moves foward, encourage them to refer back to the contract when ther
 
 ## Don't do this
 
-Here's an example of a really bad social contract.
+Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
 
 - Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
 - Be more productive by juggling several projects at once.
