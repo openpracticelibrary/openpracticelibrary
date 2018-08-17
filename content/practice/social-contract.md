@@ -50,9 +50,9 @@ Explain to the team that we're going to:
 * Set some general guidelines
 * Hold one another accountable to these guidelines
 
-Ask questions such as the following. If there's consensus, write the note on a sticky and put the sticky on the poster paper. If there's not consensus, throw the sitcky away or put it in the parking lot for later discussion.
+Ask open-ended questions such as the ones below. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sitcky note away or put it in the parking lot for later discussion.
 
-At the end, ask the team to sign the contract, and keep it in a visible place. Note that we can revisit it later, change it, and initial it to indicate that the team has agreed to the change.
+At the end, ask the team to sign the contract, and keep it in a visible place. Note that the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
 
 As the team moves foward, encourage them to refer back to the contract when there are disagreements.
 
