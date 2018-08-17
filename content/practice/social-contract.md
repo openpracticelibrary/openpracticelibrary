@@ -51,46 +51,11 @@ Explain to the team that we're going to:
 * Set some general guidelines
 * Hold one another accountable to these guidelines
 
-Ask open-ended questions such as the ones below. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sitcky note away or put it in the parking lot for later discussion.
+Ask open-ended questions about the team's desired way of working. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sitcky note away or put it in the parking lot for later discussion.
 
 At the end, ask the team to sign the contract, and keep it in a visible place. Note that the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
 
 As the team moves foward, encourage them to refer back to the contract when there are disagreements.
-
-## Example Questions
-
-Try to guide the team to a contract that encourages positivity, autonomy, and respect.
-
-- What sort of team culture do you want to build?
-  - Open, positive, blame-free, constructive
-  - Fun!
-  - No magic, no wizardry, no ninjas - build shared understanding
-- Celebrate success
-- What core hours do you want to work?
-  - 10am - 3pm?
-  - The idea is _not_ to ecourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensureing that the team can still meet together.
-- What are your thoughts on pair programming? Mob programming?
-  - Mob to learn; pair to build?
-  - Focus, then share what you learned?
-  - Respect individual working styles
-- How should we handle devices in meetings?
-  - Laptops closed and phones down?
-  - Step out if you need to work on something else?
-- How do you want to track tasks?
-  - Jira?
-  - Paper stickies?
-  - This helps us avoid missing important stuff or duplicating work.
-- Embrace creative chaos
-
-## Don't do this
-
-Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
-
-- Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
-- Be more productive by juggling several projects at once.
-- Ensure accountability by finding someone to blame when things break.
-- Deploying to production is scary because it's an opportunity to get blamed for something (see above). Code should be deployed as infrequently as possible.
-- When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.
 
 ## Related Practices
 
