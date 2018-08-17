@@ -19,6 +19,11 @@ participants:
 ---
 ## What is it?
 
+Celebrating failure is all about bringing together the failures from previous team member experiences that impacted previous product success, so that all team members can share, learn and avoid repeating the same mistakes.
+
+* Visible to the team throughout for continuous reminder.
+* Someone is empowered to say that X is going to lead to Y failure.
+
 ## Why use it?
 
 ## How to do it?
