@@ -23,24 +23,24 @@ To effectively use this practice you should look to create the following outcome
 Try to guide the team to a contract that encourages positivity, autonomy, and respect.
 
 - What sort of team culture do you want to build?
-- Open, positive, blame-free, constructive
-- Fun!
-- No magic, no wizardry, no ninjas - build shared understanding
-- Celebrate success
+  - Open, positive, blame-free, constructive
+  - Fun!
+  - No magic, no wizardry, no ninjas - build shared understanding
+  - Celebrate success
 - What core hours do you want to work?
-- 10am - 3pm?
-- The idea is _not_ to ecourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensureing that the team can still meet together.
+  - 10am - 3pm?
+  - The idea is _not_ to ecourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensureing that the team can still meet together.
 - What are your thoughts on pair programming? Mob programming?
-- Mob to learn; pair to build?
-- Focus, then share what you learned?
-- Respect individual working styles
+  - Mob to learn; pair to build?
+  - Focus, then share what you learned?
+  - Respect individual working styles
 - How should we handle devices in meetings?
-- Laptops closed and phones down?
+  - Laptops closed and phones down?
 - Step out if you need to work on something else?
-- How do you want to track tasks?
-- Jira?
-- Paper stickies?
-- This helps us avoid missing important stuff or duplicating work.
+  - How do you want to track tasks?
+  - Jira?
+  - Paper stickies?
+  - This helps us avoid missing important stuff or duplicating work.
 - Embrace creative chaos
 
 ## Don't do this
