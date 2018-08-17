@@ -1,16 +1,21 @@
 <section class="article-heading">
-    <div class="inline-block">
+    <div class="inline-block ">
         <h2 class="practice-title"> {{.title }}</h2>
         {{ if .subtitle }}
-            <p class="practice-subtitle">{{ .subtitle }}</p>
+            <p class="practice-subtitle fix-width">{{ .subtitle }}</p>
         {{ end }}
     </div>
 
+
     <div class="inline-block mobius-loop-position ">
+        <img class="loop-img" src="/images/loop-positions/{{.area}}.svg" alt="{{.area}} loop position">
+    </div>
+
+    <!-- <div class="inline-block mobius-loop-position ">
         <div class="{{.area}}">&nbsp;&nbsp;&nbsp;</div>
         <p class="mobius-loop"></p>
         <div class="mobius-foundation"></div>
-    </div>
+    </div> -->
 </section>
 
 {{ if .jumbotron }}
