@@ -21,6 +21,7 @@ To effectively use this practice you should look to create the following outcome
 
 ## Example Questions
 Try to guide the team to a contract that encourages positivity, autonomy, and respect.
+
 - What sort of team culture do you want to build?
 - Open, positive, blame-free, constructive
 - Fun!
@@ -43,7 +44,9 @@ Try to guide the team to a contract that encourages positivity, autonomy, and re
 - Embrace creative chaos
 
 ## Don't do this
+
 Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
+
 - Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
 - Be more productive by juggling several projects at once.
 - Ensure accountability by finding someone to blame when things break.
