@@ -6,6 +6,7 @@ authors:
   - mtakane
   - tdbeattie
   - rdebeasi
+  - springdo
 area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
