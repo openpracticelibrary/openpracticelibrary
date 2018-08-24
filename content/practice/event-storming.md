@@ -7,6 +7,7 @@ date: 2017-04-20T05:00:00.000Z
 authors:
   - mtakane
   - tdbeattie
+  - sudhakarau1
 area: discovery-loop-outcomes
 icon: /images/eventstormtile.jpeg
 jumbotron: /images/eventstorm.jpeg
