@@ -1,10 +1,13 @@
 ---
 title: Daily Standup
-subtitle: A short time-boxed synchronization of the team that occurs in a cadence
+subtitle: >-
+  A short time-boxed synchronization of the team activities that occurs in a
+  cadence determined by the team
 date: '2018-08-10T08:21:10-04:00'
 authors:
   - mtakane
   - tdbeattie
+  - sudhakarau1
 area: delivery-deliver
 people: 2+
 time: 15 minutes
@@ -15,7 +18,7 @@ participants:
 ---
 # What is it?
 
-* Team get together to ensure everyone is transparently sharing the ongoings of the work and coordinating together
+* Team get together to transparently share the ongoing work and highlight roadblocks
 
 # Why use it?
 
