@@ -1,0 +1,39 @@
+---
+title: Showcase
+subtitle: >-
+  An event to demonstrate and show the outputs and outcomes of a team's work
+  over a recent time period
+date: 2018-08-27T18:27:14.023Z
+authors:
+  - tdbeattie
+area: delivery-measure-and-learn
+people: 2+
+time: 1 hour
+difficulty: easy
+participants:
+  - Product Owner
+  - Team Members
+  - Stakeholders (business and technical)
+---
+## What is it?
+
+* An event where stakeholders and interested parties are given a demonstration of recent work performed by a team.
+* The latest increment of the product with new features built by the the team is showcased.
+* The event also provides an opportunity to review all other work (including non-functional progress) performed by the team.
+* It is often performed at the end of an iteration (and known as a Sprint Review or Iteration Demo) but can be performed at key milestones in the life of the product and, indeed, can be scheduled at any time where feedback would be useful.
+
+
+
+## Why use it?
+
+* This provides a critical feedback loop for products being incrementally and iteratively built as stakeholders can feed back on the features as they are being built into the product, suggest improvements, new ideas for features and catch problems or defects with the product early.
+* It provides an open forum for channeling feedback from stakeholders into the product leadership so that the prioritisation and future work can be adapted accordingly.
+* It enables collaboration across all interested parties on a regular basis and facilitates conversation on the future direction of the product.
+
+
+
+## Related Links
+
+1. https://www.scrumguides.org/scrum-guide.html#events-review
+2. https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting
+3. https://www.scaledagileframework.com/system-demo/
