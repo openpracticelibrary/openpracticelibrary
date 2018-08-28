@@ -6,7 +6,7 @@ subtitle: >-
   issues.
 date: 2018-08-28T08:32:36.565Z
 authors:
-  - SandraArps
+  - sandraarps
 area: foundation-culture-and-collaboration
 people: 2+
 time: 60 min
