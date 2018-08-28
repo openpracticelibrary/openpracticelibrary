@@ -16,14 +16,8 @@ participants:
 ---
 ## What is it?
 
-
-
 ## Why use it?
 
-
-
 ## How to do it?
-
-
 
 ## Further Information
