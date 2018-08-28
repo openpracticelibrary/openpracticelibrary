@@ -8,7 +8,7 @@ authors:
   - mtakane
   - tdbeattie
   - sudhakarau1
-  - SandraArps
+  - sandraarps
 area: discovery-loop-outcomes
 icon: /images/eventstormtile.jpeg
 jumbotron: /images/eventstorm.jpeg
