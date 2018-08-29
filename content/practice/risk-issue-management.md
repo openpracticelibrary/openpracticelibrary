@@ -8,6 +8,9 @@ date: 2018-08-28T08:32:36.565Z
 authors:
   - sandraarps
 area: foundation-culture-and-collaboration
+icon: /images/img_1606.jpg
+jumbotron: /images/risk-management.jpg
+jumbotronAlt: Risk Management
 people: 2+
 time: 60 min
 difficulty: easy
