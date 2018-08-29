@@ -34,9 +34,10 @@ It will reduce the likelihood of the event to happen and reduce the magnitude of
   * Resource limitations (due to skill shortages)
   * Failure to recognise & manage dependencies (due to lack of communication)
   * Failure of external vendors / suppliers (due to poor engagement)
+
 * Next, the risks need to be rated based on likelihood and impact at the present time
 * Once the risks have been rated, mitigation strategies need to identified. 
-* Last but not least, the risk will be displayed in the area, where the Daily Standup's of the team. That way, they can be reviewed on a daily basis and dealt with, once they occur.
+* Last but not least, the risks will be displayed in the team area, where the Daily Standup's happen. That way, the risks can be reviewed on a daily basis and dealt with, if / once they occur.
 
 ## Further Information
 
