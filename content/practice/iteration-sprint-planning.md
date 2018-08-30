@@ -23,9 +23,13 @@ It is a planning meeting where the Product Owner together with the team plan and
 
 ## Why use it?
 
-Iteration or Sprint planning sets up the entire team for success throughout the iteration. Teams tent to focus on goals and activities more, when an end date (deadline) has been set, by which the work needs to be completed. Keeping the overall iteration goal in mind, it keeps the team focused and ensures progress throughout the project.
+Iteration or Sprint planning sets up the entire team for success throughout the iteration. Teams tent to focus on goals and activities more, when an end-date (deadline) has been set, by which the work needs to be completed. Keeping the overall iteration goal in mind, it keeps the team focused and ensures progress throughout the project.
 
 ## How to do it?
+
+A typical iteration ranges between 1 and 4 weeks. At the beginning of an iteration, the team will hold a planning meeting to discuss and to break down features into tasks. 
+
+On average an iteration meeting will take around 1 hr for an iteration of 1 week. Subsequently, an iteration meeting would take on average 2 hours for an iteration of 2 weeks.
 
 Coming into the meeting, the product owner will have a prioritised product backlog. They discuss each item with the development team, and the group collectively estimates the effort involved. The development team will then make a sprint forecast outlining how much work the team can complete from the product backlog. That body of work then becomes the sprint backlog.
 
