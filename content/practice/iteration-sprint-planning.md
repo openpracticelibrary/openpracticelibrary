@@ -31,7 +31,7 @@ A typical iteration ranges between 1 and 4 weeks. At the beginning of an iterati
 
 On average an iteration meeting will take around 1 hr for an iteration of 1 week. Subsequently, an iteration meeting would take on average 2 hours for an iteration of 2 weeks.
 
-Coming into the meeting, the product owner will have a prioritised product backlog.  Each item will be discussed with the DevOps team, and the group collectively estimates the effort involved. The team will then make an iteration forecast, outlining how much work the team can complete from the product backlog. That items of work then becomes the iteration backlog.
+Coming into the meeting, the product owner will have a prioritised product backlog.  Each feature will be discussed with the DevOps team, and the group collectively estimates the effort involved. The team will then make an iteration forecast, outlining how much work the team can complete from the product backlog. The features of work then become the iteration backlog.
 
 INPUTS: Identified set of prioritized and defined User Stories from the Product Owner to the team
 
