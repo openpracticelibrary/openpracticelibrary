@@ -4,16 +4,16 @@ subtitle: Like pair programming but with the whole team
 date: 2018-08-31T11:28:28.928Z
 authors:
   - sammarland-rh
-area: delivery-deliver
-people: ''
+area: foundation-culture-and-collaboration
+people: 3+
 time: Varies
 difficulty: easy
 participants:
-  - Dev team
+  - Development Team
 ---
 ## What is it?
 
-Mob programming is a practice where the whole team comes together to implement a feature or piece of functionality
+Mob programming is a practice where the whole team comes together to implement a feature or piece of functionality.
 
 ## Why use it?
 
