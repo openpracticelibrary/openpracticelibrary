@@ -3,7 +3,7 @@ title: Mob Programming
 subtitle: Like pair programming but with the whole team
 date: 2018-08-31T11:28:28.928Z
 authors:
-  - Sam Marland
+  - sammarland-rh
 area: delivery-deliver
 people: ''
 time: Varies
