@@ -27,4 +27,4 @@ The whole team then implement the feature together by talking through the develo
 
 ## Further Information
 
-https://en.wikipedia.org/wiki/Mob_programming
+https://en.wikipedia.org/wiki/mob_programming
