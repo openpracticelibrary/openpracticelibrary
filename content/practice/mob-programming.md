@@ -4,6 +4,7 @@ subtitle: Like pair programming but with the whole team
 date: 2018-08-31T11:28:28.928Z
 authors:
   - sammarland-rh
+  - syvanen
 area: foundation-culture-and-collaboration
 people: 3+
 time: Varies
