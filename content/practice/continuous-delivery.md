@@ -11,8 +11,6 @@ difficulty: moderate
 participants:
   - Team members
 ---
-## 
-
 ## What is it?
 
 Continuous Delivery (CD) is an engineering practice where each change could be a potentially release ready for production. This practice builds on top of the Continuous Integration practice as it's starting point and adds to the end a step that releases artifacts for anyone to use. These artifacts could be software packages, container images or virtual machine images.
