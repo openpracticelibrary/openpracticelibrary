@@ -1,5 +1,5 @@
 ---
-title: Continous Delivery
+title: Continuous Delivery
 subtitle: Automated testing and release of software
 date: 2018-09-03T17:51:21.023Z
 authors:
