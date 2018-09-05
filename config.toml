@@ -1,5 +1,4 @@
 # https://gohugo.io/getting-started/configuration/
-# https://github.com/MunifTanjim/minimo/blob/master/exampleSite/config.toml
 
 baseURL = "https://openpracticelibrary.com/"
 languageCode = "en-us"
@@ -7,13 +6,13 @@ title = "Open Practice Library"
 theme = "casper"
 enableGitInfo = true
 
-googleAnalytics = "UA-111461618-1"
 
 [params]
 paginatedsections = ["practice"]
 logo = "images/logo.svg"
 description = "Practices that empower teams to collaborate and deliver iteratively"
 hideHUGOSupport = true
+googleAnalyticsUserID = "UA-111461618-1"
 
 customCSS = [
   "css/custom.css",
