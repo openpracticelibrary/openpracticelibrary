@@ -1,12 +1,23 @@
 ---
 title: Value Stream & Process Mapping
 subtitle: Techniques for process improvement
+date: 2017-09-12T05:00:00.000Z
 authors:
   - sherl0cks
   - mtakane
   - tdbeattie
+  - springdo
 area: discovery-loop-why
-date: 2017-09-12T05:00:00.000Z
+icon: /images/mbpm.jpg
+jumbotron: /images/mbpm2.jpg
+jumbotronAlt: Example MBPM
+people: <10
+time: 2 - 3 Days
+difficulty: hard
+participants:
+  - BAs
+  - Directors
+  - Architects and the Team
 ---
 
 ## What is it?
@@ -24,20 +35,6 @@ Being derived from Lean Manufacturing, VSM & MBPM visually represent the way wor
 - formulating specific, data driven improvement plans
 - preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process
 
-## Who do you need?
-
-- No more than 10 people
-- VSM requires decision makers, usually Director or above
-- MBPM requires front line workers for the processes being improved
-
-## Suggested Time
-
-- Done as documented by Karen Martin, these are 2-3 day, dedicated workshops.
-
-## Difficulty
-
-- Facilitator: Hard
-- Participants: Medium to Hard
 
 ## Facilitation Materials Needed
 
