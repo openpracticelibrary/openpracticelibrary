@@ -1,6 +1,9 @@
 .DS_Store
 node_modules/
 
+# built things
+static/js/lunr/PagesIndex.json
+
 # Editor files
 *.swp
 

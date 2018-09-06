@@ -7,22 +7,26 @@ date: 2017-04-20T05:00:00.000Z
 authors:
   - mtakane
   - tdbeattie
+  - sudhakarau1
+  - sandraarps
 area: discovery-loop-outcomes
 icon: /images/eventstormtile.jpeg
 jumbotron: /images/eventstorm.jpeg
 jumbotronAlt: An example event storm
-people: 2+
+people: 5+
 time: ~6 Hours not including breaks
-difficulty: moderate
+difficulty: hard
 participants:
   - Facilitator
   - Product Owner
   - User Experience Design
   - Analysts
   - Developers
-  - Testers (optional but recommended)
+  - Testers
+  - Security
+  - Operations / Infrastructure
 ---
-## What is it?
+## What is Event Storming?
 
 Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini[<sup>1</sup>](#footnote-1) in 2013. At the end of the event storm, you should have:
 
@@ -36,6 +40,8 @@ Event Storming is a rapid, interactive approach to business process discovery an
 ## Why use Event Storming?
 
 * It is significantly faster, and a heck of a lot more fun, than traditional process modeling techniques. You'll be surprised how much you accomplish in a short period
+* It establishes a common and shared language between Business & IT
+* It sets focus in terms of scope and boundaries
 * The technique is iterative, which allows facilitators to:
   * slowly adding more detail in each session as to not overwhelm participants.
   * pick and choose participants by session
@@ -43,6 +49,14 @@ Event Storming is a rapid, interactive approach to business process discovery an
 * It forces important questions about the customer journey early in the ideation process
 * It gives you the big picture of the solution by placing technical implementation details in context of the business process
 * It is particularly effective way to kick start Domain Driven Design[<sup>3</sup>](#footnote-3)
+
+## How to do Event Storming?
+
+* Business Team maps out the Business Process from a Users perspective
+* The Best way is to start with the 'happy scenario', where the User successful reaches their goal (eg Student buys movie tickets online)
+* In addition, the Business Team identifies which data is required in order to make the business flow successful (eg Movie Name, Session Time, Student discounted price)
+* Once the Business Process has been defined, the IT team will join to provide additional information in forms of Events, Data and User Interfaces. This will establish a shared understanding of what is required
+* The architect will start grouping common objects in order to define the microservices to be developed
 
 ## Related Practices
 
@@ -74,3 +88,4 @@ Event Storming is a rapid, interactive approach to business process discovery an
 12. [Blog](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) explaining how event storming, DDD and reactive systems relate
 13. Alberto Brandolini's [Event Storming book](http://eventstorming.com/)
 14. Alberto Brandolini's [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) from Explore DDD 2017. Great overview of how the technique has evolved, tips for running a session, and articulation of the different types of sessions to run.
+15. An excellent example of Event Storming during a Red Hat Open Innovation lab "[Using 'Event Storming Practice' @ Heritage Bank](https://www.linkedin.com/pulse/using-event-storming-practice-heritage-bank-sandra-arps/)"
