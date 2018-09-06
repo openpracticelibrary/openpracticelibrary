@@ -91,7 +91,7 @@ Ask open-ended questions about the team's desired way of working. If the team ag
 
 At the end, ask the team to sign the contract, and keep it in a visible place. Note that the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
 
-As the team moves foward, encourage them to refer back to the contract when there are disagreements.
+As the team moves forward, encourage them to refer back to the contract when there are disagreements.
 
 ## Related Practices
 
