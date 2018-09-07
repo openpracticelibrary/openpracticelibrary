@@ -20,14 +20,49 @@ participants:
 ---
 ## What is it?
 
-The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders. 
+The Social Contract is a simple, yet highly effective manner to enable team autonomy and self accountability for engagements. It looks to codify the behaviors and expectations of the team. It also provides a mechanism for the team to radiate and share its desired behaviours with management and other stakeholders.
 
 To effectively use this practice you should look to create the following outcomes:
 
-* Public display of the social contract
-* Nobody is above the contract
-* The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
-* Revisit the social contract often and update it as necessary
+- Public display of the social contract
+- Nobody is above the contract
+- The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
+- Revisit the social contract often and update it as necessary
+
+## Example Questions
+Try to guide the team to a contract that encourages positivity, autonomy, and respect.
+
+- What sort of team culture do you want to build?
+  - Open, positive, blame-free, constructive
+  - Fun!
+  - No magic, no wizardry, no ninjas - build shared understanding
+  - Celebrate success
+- What core hours do you want to work?
+  - 10am - 3pm?
+  - The idea is _not_ to ecourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensureing that the team can still meet together.
+- What are your thoughts on pair programming? Mob programming?
+  - Mob to learn; pair to build?
+  - Focus, then share what you learned?
+  - Respect individual working styles
+- How should we handle devices in meetings?
+  - Laptops closed and phones down?
+- Step out if you need to work on something else?
+  - How do you want to track tasks?
+  - Jira?
+  - Paper stickies?
+  - This helps us avoid missing important stuff or duplicating work.
+- Embrace creative chaos
+
+## Don't do this
+
+Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
+
+- Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
+- Be more productive by juggling several projects at once.
+- Ensure accountability by finding someone to blame when things break.
+- Deploying to production is scary because it's an opportunity to get blamed for something (see above). Code should be deployed as infrequently as possible.
+- When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.
+
 
 ## Why use a Social Contract?
 
@@ -56,7 +91,7 @@ Ask open-ended questions about the team's desired way of working. If the team ag
 
 At the end, ask the team to sign the contract, and keep it in a visible place. Note that the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
 
-As the team moves foward, encourage them to refer back to the contract when there are disagreements.
+As the team moves forward, encourage them to refer back to the contract when there are disagreements.
 
 ## Related Practices
 
