@@ -1,5 +1,5 @@
 ---
-title: Relative Sizing
+title: Relative Estimation
 subtitle: >-
   Facilitate conversation and gain shared alignment on sizing of complexity and
   value
