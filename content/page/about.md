@@ -24,6 +24,13 @@ Share details about a particular practice that community members use, learn pers
 ## What This Library *Is*
 Just enough information for each practice to "specify the end state, its purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
 
+## What A Practice *Is*
+A practice is an exercise or an approach that we propose the reader to apply systematically to achieve specific goals.
+Practices have the following important characteristics:
+- Structured (they consist of rigorously defined, often discrete and systematic steps)
+- Replicable (they're reproducible or repeatable across situations or contexts)
+- Learned (they're not innate but rather habituated—and thus teachable!)
+
 ## Contributing
 
 We'd love to hear your thoughts about the material presented here or other content you'd like to add. [Open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) and we can go from there.
