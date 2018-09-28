@@ -7,6 +7,9 @@ date: 2018-09-28T09:38:20.325Z
 authors:
   - alexismonville
 area: foundation-culture-and-collaboration
+icon: /images/2018-09-28-08.04.09.jpg
+jumbotron: /images/2018-09-28-08.04.09.jpg
+jumbotronAlt: Moving Motivators
 people: 1+
 time: 30 minutes
 difficulty: easy
