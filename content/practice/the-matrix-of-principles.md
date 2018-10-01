@@ -28,7 +28,8 @@ Reflecting on the management principles enables the team to share their beliefs 
 * The horizontal axis represents your agreement with the principle. On the right, you agree; on the left, you disagree,
 * The vertical axis represents how the principle is applied to your organization. "Applied" at the top, "not applied" at the bottom,
 * You will now position Deming's 14 Management Principles by placing their numbers on a 2x2 matrix. Each team member uses a different color.
-* After placing each principle, the facilitator asks the outliers to explain their position.* The facilitator asks the group if it inspires some ideas for the team.
+* After placing each principle, the facilitator asks the outliers to explain their position.
+* The facilitator asks the group if it inspires some ideas for the team.
 
 _You can use the tool as a self-reflection one. As a facilitator, it is useful to try the exercise first by yourself to be able to pick the principles that will most resonate with your team._
 ## Further Information
