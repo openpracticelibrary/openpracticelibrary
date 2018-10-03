@@ -10,7 +10,7 @@ area: foundation-culture-and-collaboration
 icon: /images/20180207_191343.jpg
 jumbotron: /images/20180207_191343.jpg
 people: 1+
-time: 4 weeks lead time
+time: '4 weeks (lead time), 1 day (setup)'
 difficulty: moderate
 participants:
   - The team
@@ -21,9 +21,7 @@ This article contains a collection of best practices and lessons learned from re
 
 # Why use it?
 
-Every team needs a place to gather and collaborate.
-
-
+Intentionally designing workspace can greatly influence the way your teams can get things done.
 
 # Overall Space Recommendations
 
@@ -67,8 +65,6 @@ Breakout areas are multi-purpose spaces. They can be used for informal ad-hoc me
 
 It should be possible for the team to move around boards - in and out of their core space, e.g. moving boards to flexible spaces, breakout areas, meeting rooms. 
 
-
-
 ## Meeting Spaces
 
 * Available big breakout room for Lunch & Learn sessions or workshops to host up to 20
@@ -81,9 +77,8 @@ It should be possible for the team to move around boards - in and out of their c
 
 Quiet Zones are critical to the successful implementation of an open workplace setting. They provide a areas where workers can get privacy and quiet to perform work that may be personal or confidential or requires additional focus or attention.
 
-Advantages - Provide on-demand quiet spaces for anyone on the team.
-
-Disadvantages - If rules are not put into place the areas can be ‘hijacked’ by non-team members
+* Advantages - Provide on-demand quiet spaces for anyone on the team.
+* Disadvantages - If rules are not put into place the areas can be ‘hijacked’ by non-team members
 
 ## Hoteling Spaces
 
@@ -106,13 +101,13 @@ Hotel spaces provide  overflow work space to accommodate remote team members, ve
 
 * Must have sufficient wall space to visualize work
 * Space to hang/display boards (e.g. Scrum board) next to the team in a visible way - e.g. the Backlog, the Scrum board, the Event Storming / MBPM boards. This should be done in a way that  the whole team can see the boards without having to get up and move from their seat 
-* https://rht-labs.github.io/practice-library/practices/visualisation-of-work/
+* See [this practice](https://rht-labs.github.io/practice-library/practices/visualisation-of-work/) for more details.
 
 ## Video cameras
 
 Web Cameras are critical to successful remote work and meetings, etc. As more vendors, third parties, and remote employees are involved in the work, being able to see each other offers a sense of inclusivity 
 
-We recommend [Meeting Owl cameras](https://www.owllabs.com/) for 360-degree video conferencing. Microphone on the Owl is not ideal.
+We recommend [Meeting Owl cameras](https://www.owllabs.com/) for 360-degree video conferencing. The microphone on the Owl is not ideal, and can be supplemented with a separate mic when needed.
 
 ## Desks / Chairs / Storage
 
@@ -146,7 +141,7 @@ We recommend [Meeting Owl cameras](https://www.owllabs.com/) for 360-degree vide
 
 ## Printer
 
-* We typically use a shared printer and do not dedicate one in the Labs space, to save space
+* We typically use a shared printer, and do not dedicate one in the Labs space, to save space
 
 ## Aesthetics
 
@@ -162,8 +157,9 @@ We recommend [Meeting Owl cameras](https://www.owllabs.com/) for 360-degree vide
 * Portable / Bluetooth speaker for music, especially for after-hours coding, hackathons, workshops
 * Wellness room / quiet space for anyone that needs it
 
-# Articles and Videos featuring Open Innovation Labs Facilities
+# Other References
 
+* [Make Space - Recommended Stanford d.school book](https://dschool.stanford.edu/resources/make-space-excerpts)
 * [RedMonk article on Labs spaces](https://redmonk.com/jgovernor/2017/05/18/innovate-disrupt-lab-space-cluster/)
 * [Video of London Open Innovation Labs space](https://www.youtube.com/watch?v=VcPjOjPGa_g)
 * [Blog post about logo and design of Boston space](https://openstudio.redhat.com/open-innovation-labs-wall-graphic/)
