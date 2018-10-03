@@ -89,8 +89,8 @@ Hotel spaces provide  overflow work space to accommodate remote team members, ve
 
 ## Work Environment
 
-* ‎Coffee - free and quality
-* Water fountain or alike
+* ‎Coffee - free, quality brew
+* Water fountain
 * The team space should allow for some working "mess" as the paper and post-its on the wall and whiteboards need to remain up till the end of the residency.
 * Cleaning services should NOT touch, displace or remove any items from the room, even if on the ground - sometimes post-it notes may fall off the boards and putting them away may cause serious disruption to the work
 * Easy access at all times of day - should not restrict early starts and late end of the day
@@ -146,7 +146,7 @@ We recommend [Meeting Owl cameras](https://www.owllabs.com/) for 360-degree vide
 ## Aesthetics
 
 * ‘Unfinished’ space (exposed cabling, exposed walls, etc) provides a new and different aesthetic that feels different than a corporate space, and implies that we are building new prototypes.
-* Avoid excessive use of corporate logos, branding, and color schemes. We specifically created a new color scheme for Labs that was different, to imply that we are operating differently than our typical work areas, encouraging creative thinking
+* Consider avoiding the excessive use of corporate logos, branding, and color schemes. We specifically created a new color scheme for our space that did not match the corporate aesthetic, to imply that we are operating differently than our typical work areas, and to encourage creative thinking
 
 ## Other Nice-to-Haves
 
