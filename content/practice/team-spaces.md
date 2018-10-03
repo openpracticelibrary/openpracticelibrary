@@ -9,9 +9,9 @@ authors:
 area: foundation-culture-and-collaboration
 icon: /images/20180207_191343.jpg
 jumbotron: /images/20180207_191343.jpg
-people: A team
-time: 30-90 min
-difficulty: easy
+people: 1+
+time: 4 weeks lead time
+difficulty: moderate
 participants:
   - The team
 ---
