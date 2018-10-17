@@ -18,14 +18,11 @@ searchfield.addEventListener("keyup", function (event) {
 });
 
 searchbutton.onclick = function () {
-	window.history.replaceState(null, null, "/search/?search=" + searchfield.value);
+	window.history.pushState(null, null, "/search/?search=" + searchfield.value);
 	runQuery(searchfield.value);
 };
 
 const runQuery = function (searchTerm) {
-	// var url = new URL(window.location.href);
-	// var searchTerm = url.searchParams.get('search');
-
 	var cleanedResults = "";
 
 	let RESULTS = document.getElementById("results-wrapper");
