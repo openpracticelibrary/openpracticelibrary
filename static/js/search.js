@@ -22,6 +22,10 @@ searchbutton.onclick = function () {
 	runQuery(searchfield.value);
 };
 
+window.addEventListener('popstate', function() {
+	this.window.location.reload();
+});
+
 const runQuery = function (searchTerm) {
 	var cleanedResults = "";
 
