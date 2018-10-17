@@ -23,9 +23,6 @@ searchbutton.onclick = function () {
 };
 
 const runQuery = function (searchTerm) {
-	// var url = new URL(window.location.href);
-	// var searchTerm = url.searchParams.get('search');
-
 	var cleanedResults = "";
 
 	let RESULTS = document.getElementById("results-wrapper");
