@@ -18,7 +18,7 @@ searchfield.addEventListener("keyup", function (event) {
 });
 
 searchbutton.onclick = function () {
-	window.history.replaceState(null, null, "/search/?search=" + searchfield.value);
+	window.history.pushState(null, null, "/search/?search=" + searchfield.value);
 	runQuery(searchfield.value);
 };
 
