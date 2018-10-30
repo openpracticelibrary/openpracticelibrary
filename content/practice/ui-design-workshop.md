@@ -35,4 +35,4 @@ participants:
 - [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/)
 - [3 rapid prototyping exercises to improve your UX skills](https://uxdesign.cc/3-rapid-prototyping-exercises-to-improve-your-skills-in-ux-design-f2c8b2d690b3)
 - [The "Tuesday" portion of the book _Sprint_](https://library.gv.com/sprint-week-tuesday-d22b30f905c3) provides some great ideas for facilitating a UI design workshop.
-- [Sketches from the gnome-software design sprint](https://gitlab.gnome.org/GNOME/gnome-software/issues/451) - Participants "dot voted" on their favorite sketches.
+- [Sketches from the gnome-software design sprint](https://gitlab.gnome.org/GNOME/gnome-software/issues/451) show "dot voting" on favorite designs.
