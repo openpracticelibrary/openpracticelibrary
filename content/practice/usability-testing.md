@@ -9,7 +9,7 @@ icon: /images/usability-testing-stickies.jpg
 jumbotron: /images/usability-testing-people.jpg
 jumbotronAlt: 'Two people placing sticky notes under plus, minus, and question mark columns'
 people: 2+
-time: 1 hour
+time: 30 minutes
 difficulty: moderate
 participants:
   - The Team
