@@ -1,6 +1,6 @@
 ---
 title: Usability Testing
-subtitle: A reality check with real users
+subtitle: Observe and learn from real users
 date: 2018-10-30T13:13:26.262Z
 authors:
   - rdebeasi
