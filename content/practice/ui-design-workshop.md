@@ -21,14 +21,14 @@ participants:
 - These ideas can be written on a whiteboard, sticky notes, or sheets of paper. (A tall sticky note makes a great template for a mobile screen.)
 - The workshop can be run with just a facilitator and a UX designer, but including the entire team is even better.
 - At the end of the workshop, the participants can vote by adding dots to their favorites.
-- Later on, the best "low-fidelity" designs can be used as the basis for interactive prototypes or more complete designs.
+- Later, the best "low-fidelity" designs can serve as the basis for interactive prototypes or more complete designs.
 
 ## Why use it? 
 - UI design workshops help take a high-level business process (such as an [event storm](https://openpracticelibrary.com/practice/event-storming/)) and turn it into something concrete that developers can begin working on.
 - This activity generates new ideas and builds shared understanding, particularly if the entire team participates.
-- Jump-start development of the product by creating just enough design for the team to begin working.
+- Jump-start development by creating just enough design for the team to begin working.
 - A quick, rewarding activity like this one builds confidence and experience in team members who might be new to user experience design.
-- Teams can produce the design assets they need to move forward, even if the team does not have a dedicated UX designer.
+- Participants can produce the design assets they need to move forward, even if the team does not have a dedicated UX designer.
 
 
 ## Further Information
