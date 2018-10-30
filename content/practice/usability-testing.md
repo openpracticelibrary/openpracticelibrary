@@ -17,7 +17,7 @@ participants:
 ## What is it? 
 In a usability testing session, the team observes real users interacting with the product. Typically, a facilitator sits with a user and asks her to complete tasks and explain her thinking as she goes. The team sits in a separate room and observes the testing by video.
 
-You can run a usability test on an existing product, a prototype, or even a competitor's product! Test early and often to create products that delight users and solve real needs.
+A usability test can be run on an existing product, a prototype, or even a competitor's product! Test early and often to create products that delight users and solve real needs.
 
 ## Why use it? 
 - Something that's obvious to someone who has been working on a product might be confusing to a real user.
