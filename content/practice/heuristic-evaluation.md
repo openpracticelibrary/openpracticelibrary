@@ -1,6 +1,6 @@
 ---
 title: Heuristic Evaluation
-subtitle: Peer review designs
+subtitle: Provide expert review of UX designs
 date: 2018-10-30T16:18:22.725Z
 authors:
   - rdebeasi
