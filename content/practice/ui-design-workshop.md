@@ -5,8 +5,8 @@ date: 2018-10-30T15:46:12.331Z
 authors:
   - rdebeasi
 area: delivery-deliver
-icon: /images/screenflow.jpg
-jumbotron: /images/screenflow.jpg
+icon: /images/ui-donal.png
+jumbotron: /images/ui-donal.png
 jumbotronAlt: Whiteboard with UI sketches
 people: 2+
 time: 30 min - 1 hour
