@@ -1,6 +1,6 @@
 ---
 title: UI Design Workshop
-subtitle: Start with a Sketch
+subtitle: Start with a sketch
 date: 2018-10-30T15:46:12.331Z
 authors:
   - rdebeasi
@@ -12,9 +12,7 @@ people: 2+
 time: 30 min - 1 hour
 difficulty: moderate
 participants:
-  - UX Designer
-  - Developers
-  - Product Owner
+  - The Team
 ---
 ## What is it? 
 - A UI workshop is an activity in which participants quickly sketch rough ideas for the user interface.
