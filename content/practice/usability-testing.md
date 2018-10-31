@@ -5,7 +5,7 @@ date: 2018-10-30T13:13:26.262Z
 authors:
   - rdebeasi
 area: delivery-measure-and-learn
-icon: /images/user-testing-val.png
+icon: /images/user-testing-val-cropped.png
 jumbotron: /images/user-testing-val.png
 jumbotronAlt: 'Two people placing sticky notes under plus, minus, and question mark columns'
 people: 2+
