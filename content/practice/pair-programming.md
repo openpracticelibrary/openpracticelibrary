@@ -28,3 +28,5 @@ participants:
 ## Further Information
 
 <https://en.wikipedia.org/wiki/Pair_programming>
+
+<https://medium.com/@springdo/the-last-unicorn-developer-pairing-and-mobbing-c2caaa29b54>
