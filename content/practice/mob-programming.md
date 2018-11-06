@@ -32,4 +32,6 @@ The whole team then implement the feature together by talking through the develo
 
 ## Further Information
 
-https://en.wikipedia.org/wiki/mob_programming
+<https://en.wikipedia.org/wiki/mob_programming>
+
+<https://medium.com/@springdo/the-last-unicorn-developer-pairing-and-mobbing-c2caaa29b54>
