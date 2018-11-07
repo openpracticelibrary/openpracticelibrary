@@ -5,7 +5,7 @@ date: 2018-11-07T20:41:32.665Z
 authors:
   - sherl0cks
 area: discovery-loop-outcomes
-icon: /images/dst_logo_crop.png
+icon: /images/dst_logo-1-.png
 jumbotron: /images/dst_logo.png
 participants: []
 ---
