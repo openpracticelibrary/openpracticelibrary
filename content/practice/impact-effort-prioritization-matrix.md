@@ -29,8 +29,8 @@ This is a decision-making / prioritization practice for selection of ideas (feat
 ## Why use it?
 
 * This practice opens up the product development for the whole team
-* Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with, which requires us to filter and prioritize work on them.
-* It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.  
+* Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with. This requires us to filter and prioritize which of them to work on
+* It is a simple, easy to understand, very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first
 * Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders
 * It helps identify directions and ideas for pivoting
 
