@@ -5,6 +5,8 @@ date: 2018-11-08T12:44:41.212Z
 authors:
   - valyonchev
 area: options
+icon: /images/20181108_152213.jpg
+jumbotron: /images/20181108_152213.jpg
 jumbotronAlt: Impact & Effort Matrix
 people: 2+
 time: 30-60 min
@@ -24,19 +26,13 @@ This is a decision-making / prioritization practice for selection of ideas (feat
 * Things to avoid - Low Impact / Low Effort
 * Bad ideas - Low Impact / High Effort
 
-
-
 ## Why use it?
 
-This practice opens up the product development for the whole team
-
-Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with, which requires us to filter and prioritize work on them.
-
-It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.  
-
-Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders
-
-It helps identify directions and ideas for pivoting
+* This practice opens up the product development for the whole team
+* Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with, which requires us to filter and prioritize work on them.
+* It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.  
+* Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders
+* It helps identify directions and ideas for pivoting
 
 ## Why & How to combine it with other practices?
 
@@ -52,8 +48,6 @@ Once prioritised these ideas & hypothesis may lead to:
 * Design of Experiments
 * Spikes
 
-
-
 ## Related Practices
 
 * Kano Model 
@@ -67,10 +61,6 @@ Once prioritised these ideas & hypothesis may lead to:
 * HMW
 * Design of Experiments 
 
-
-
 ## Further Information
 
-Impact & Effort Matrix on Gamestorming.com https://gamestorming.com/impact-effort-matrix-2/
-
-Board of Innovation ?
+[Impact & Effort Matrix](https://gamestorming.com/impact-effort-matrix-2/) on Gamestorming.com
