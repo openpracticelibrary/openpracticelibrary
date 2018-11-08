@@ -3,7 +3,7 @@ title: Impact & Effort Prioritization (Matrix)
 subtitle: Prioritization of Experiments
 date: 2018-11-08T12:44:41.212Z
 authors:
-  - Val Yonchev
+  - valyonchev
 area: options
 jumbotronAlt: Impact & Effort Matrix
 people: 2+
