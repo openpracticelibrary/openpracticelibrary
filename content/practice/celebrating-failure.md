@@ -6,6 +6,7 @@ authors:
   - jackrwstevenson
   - springdo
 area: foundation-culture-and-collaboration
+ideas: ''
 icon: /images/fail-wall.jpg
 jumbotron: /images/fail-wall.jpg
 jumbotronAlt: fail-wall
