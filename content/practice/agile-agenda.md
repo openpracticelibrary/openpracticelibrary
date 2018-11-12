@@ -6,7 +6,7 @@ authors:
   - mtakane
   - tdbeattie
 area: foundation-culture-and-collaboration
-ideas: about
+ideas: ''
 icon: /images/agile_agenda.png
 jumbotron: /images/agile_agenda.png
 people: 2+
