@@ -25,11 +25,19 @@ A workshop format that helps to understand how people and/or software systems wo
 
 A moderator lets domain experts tell typical examples of how they work – so-called Domain Stories. While listening, the moderator records the domain stories using a pictographic language. The domain experts can see immediately if the moderator understands their story correctly. The moderator guides the domain experts by asking questions, for example _who_ – _does what_ – _with what_ – _why_.
 
-After very few stories, the participants are able to talk about the people, tasks, tools, work items, and events in that domain.
+After very few stories, the participants are able to talk about the people, tasks, tools, work items, and events in that domain. 
 
 ## Why use it?
 
-TODO
+Domain Storytelling versatile in many ways:
+
+\- level of detail: from "big picture" to concrete workflows
+
+\- number of participants: from "thinking tool" for a single person to bridging gaps between departments
+
+\- tools: pen&paper, sticky notes, modeling tools
+
+\- purpose: see next section
 
 ## Further Information
 
