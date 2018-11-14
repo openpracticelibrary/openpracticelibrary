@@ -5,7 +5,7 @@ subtitle: >-
   [human] perspective.
 date: 2018-11-14T18:39:21.278Z
 authors:
-  - Darcie Fitzpatrick
+  - DarcieF
 area: discovery-loop-why
 people: 4+
 time: 3+ Hours
