@@ -3,7 +3,7 @@ title: Service Blueprint
 subtitle: Applied process chart shown from the people perspective.
 date: 2018-11-14T18:39:21.278Z
 authors:
-  - DarcieF
+  - darcief
 area: discovery-loop-why
 icon: /images/service_design_blueprint.png
 jumbotron: /images/service_design_blueprint.png
