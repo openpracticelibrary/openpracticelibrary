@@ -75,6 +75,10 @@ h1, h2, h3, h4, h5, h6,
 
 /* =Post Header */
 
+.post-header {
+  margin-bottom: 2rem;
+}
+
 .post-header h4 {
     font-size: 1.8rem;
     margin: 0;
@@ -210,6 +214,11 @@ p.social-subtitle {
   font-size: 1.3rem;
   color: #757575;
   margin-bottom: 0.3rem
+}
+
+.post .social-footer:last-child {
+  border-bottom: none;
+  margin-bottom: -40px; /* Offset bottom margin on .post */
 }
 
 
@@ -405,7 +414,7 @@ a:focus {
 /* =How to box */
 
 .how-to-box {
-  margin: 2rem 1rem;
+  margin: 0 1rem 2rem 1rem;
   border: 1px solid #ADADAD;
   display: flex;
   flex-wrap: wrap;

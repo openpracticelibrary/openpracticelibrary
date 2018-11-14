@@ -1,10 +1,11 @@
 {{ if ne .Params.share false}}
+<h2 class="social-title">Like what you read? Give {{range first 1 .Params.authors }} {{ . }} {{end}} a thumbs up in the chat.</h2>
+<p  class="social-subtitle">Feedback on {{ .Type | pluralize }} will help us curate the best content for the community. Open chat to share your thoughts with the author.</p>
+
 <section class="share">
   <!-- To add a new chat topic, see footer-custom.html. -->
   <div class="float-left">
-    {{ if eq .Type "practice" }}
-        <button type="button" class="btn btn-chat" id="practice-chat">Open Chat</button>
-    {{ end }}
+    <button type="button" class="btn btn-chat" id="practice-chat">Open Chat</button>
   </div>
   <div class="share-icons">
     <a class="icon-twitter share-links" style="font-size: 1.4em" href="https://twitter.com/share?text={{ .Title | safeHTML}}&nbsp;-&nbsp;{{ .Site.Title }}&amp;url={{ .Permalink }}"

@@ -5,6 +5,8 @@ date: 2018-11-08T14:40:20.794Z
 authors:
   - valyonchev
 area: options
+perspectives:
+  - product-ownership
 icon: /images/20181108_152130.jpg
 jumbotron: /images/20181108_152130.jpg
 jumbotronAlt: How-Now-Wow Prioritization Matrix

@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: openpracticelibrary/openpracticelibrary
+  repo: rdebeasi/openpracticelibrary
   branch: staging
 
 publish_mode: editorial_workflow
@@ -8,7 +8,7 @@ media_folder: "static/images" # Media files will be stored in the repo under ima
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: "practice" # Used in routes, e.g., /admin/collections/blog
-    label: "Practices" # Used in the UI
+    label: "Practice" # Used in the UI
     folder: "content/practice" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -16,7 +16,7 @@ collections:
       - {label: "Title of practice", hint: "The name of the practice", name: "title", widget: "string"}
       - {label: "Subtitle", hint: "Catchy one liner for the article", name: "subtitle", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Authors", hint: "Comma separated list of github username eg springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
+      - {label: "Authors", hint: "Comma-separated list of github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
       - {label: "Area of the Library Loop", hint: "Choose the position on the Library Loop where your practice lives", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "discovery-loop-why"},
           {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
@@ -25,6 +25,7 @@ collections:
           {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
           {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
           {label: "Foundation - Technical",  value: "foundation-technical"}]}
+      - {label: "Related Perspectives", hint: "Comma-separated list of slugs e.g., domain-driven-design, product-ownership", name: "perspectives", widget: "list", default: []}
       - {label: "Tile icon", name: "icon", hint: "Icon to be used on the home screen and cards for the practice", widget: "image", required: false}
       - {label: "Jumbotron image", hint: "Large full width image for under the titles", name: "jumbotron", widget: "image", required: false}
       - {label: "Jumbotron alt text", hint: "Accessible description of the image for screen readers", name: "jumbotronAlt", widget: "string", required: false}
@@ -34,10 +35,23 @@ collections:
           [{label: "Easy", value: "easy"},
           {label: "Moderate", value: "moderate"},
           {label: "Hard", value: "hard"}]}
-      - {label: "Expected participants", hint: "Who should attend when running this practice? eg The Team, The Product Owner, BAs", name: "participants", required: false, widget: "list", default: []}
+      - {label: "Expected participants", hint: "Who should attend when running this practice? eg., The Team, The Product Owner, BAs", name: "participants", required: false, widget: "list", default: []}
+      - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"}
+  - name: "perspective" # Used in routes, e.g., /admin/collections/blog
+    label: "Perspective" # Used in the UI
+    folder: "content/perspective" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", hint: "The name of the perspective", name: "title", widget: "string"}
+      - {label: "Subtitle", hint: "Catchy one liner for the perspective", name: "subtitle", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Authors", hint: "Comma-separated list of github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
+      - {label: "Jumbotron image", hint: "Large full width image for under the titles", name: "jumbotron", widget: "image", required: false}
+      - {label: "Jumbotron alt text", hint: "Accessible description of the image for screen readers", name: "jumbotronAlt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"}
   - name: "page" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
+    label: "Page" # Used in the UI
     folder: "content/page" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -51,7 +65,7 @@ collections:
       - {label: "Menu weight", name: "weight", widget: "string", required: false, pattern: ["^[0-9]", "Must be a number between one and 9"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "author" # Used in routes, e.g., /admin/collections/blog
-    label: "Authors" # Used in the UI
+    label: "Author" # Used in the UI
     format: "toml"
     extension: "toml"
     folder: "data/content/author" # The path to the folder where the documents are stored

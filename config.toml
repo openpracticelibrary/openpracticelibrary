@@ -23,6 +23,12 @@ customCSS = [
 page = "/:slug/"
 
 [[menu.main]]
+  name = "Perspectives"
+  weight = 3
+  identifier = "Perspectives"
+  url = "/perspective/"
+
+[[menu.main]]
   name = "GitHub"
   weight = 2
   identifier = "GitHub"

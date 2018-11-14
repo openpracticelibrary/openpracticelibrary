@@ -6,12 +6,6 @@ subtitle: >-
 date: 2018-09-09T11:22:37.360Z
 authors:
   - tdbeattie
-area: foundation-culture-and-collaboration
-people: '1'
-time: Continuous
-difficulty: hard
-participants:
-  - Product Owners
 ---
 ## What is it?
 

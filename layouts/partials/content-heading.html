@@ -6,20 +6,15 @@
         {{ end }}
     </div>
 
-
+    {{ if .area }}
     <div class="inline-block mobius-loop-position ">
         <img class="loop-img" src="/images/loop-positions/{{.area}}.svg" alt="{{.area}} loop position">
     </div>
-
-    <!-- <div class="inline-block mobius-loop-position ">
-        <div class="{{.area}}">&nbsp;&nbsp;&nbsp;</div>
-        <p class="mobius-loop"></p>
-        <div class="mobius-foundation"></div>
-    </div> -->
+    {{ end }}
 </section>
 
 {{ if .jumbotron }}
 <div class="jumbotron">
     <img class="jumbotron-img" src="{{ .jumbotron }}" alt="{{ .jumbotronAlt }}">
 </div>
-{{end}}
+{{ end }}
