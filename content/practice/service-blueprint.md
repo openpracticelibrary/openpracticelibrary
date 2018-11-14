@@ -28,8 +28,6 @@ Develop known and unknowns about process, workflow, service offering, business s
 
 ## How to do a Service Blueprint?
 
-![Service Blueprint Template](/images/service_design_blueprint.png)
-
 ## 
 
 ## Technical Examples
@@ -54,8 +52,6 @@ Information to come…
 https://openpracticelibrary.com/practice/event-storming
 
 https://openpracticelibrary.com/practice/impact-mapping
-
-## 
 
 ## 
 
