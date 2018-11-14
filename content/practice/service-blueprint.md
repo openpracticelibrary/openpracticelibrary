@@ -7,6 +7,8 @@ date: 2018-11-14T18:39:21.278Z
 authors:
   - DarcieF
 area: discovery-loop-why
+icon: /images/service_design_blueprint.png
+jumbotron: /images/service_design_blueprint.png
 people: 4+
 time: 3+ Hours
 difficulty: moderate
@@ -18,23 +20,15 @@ participants: []
 
 Shared understanding of business, user, technical and support process in one holistic chart. Use for single process or workflow or use for entire business operation process – level of granularity to be determined by goals (can be complex or simple, facilitator should adjust as needed based on goals). It is also okay to do more than one service blueprint. Sometimes this makes it easier to understand multiple persona subgroups or divisions of people.
 
-
-
 ## Why do a Service Blueprint?
 
 Develop known and unknowns about process, workflow, service offering, business structure, etc. as a whole (depending on decided complexity of activity). Use unknowns to drive exploratory or validation research with persona users. Highlight areas of the blueprint red which can determine a discussion guide to use in research phases. This also can identify areas of technical unknowns and business opportunities, which makes a varied group of participants helpful for a that true holistic view of the process. 
-
-
 
 ## Facilitator Guideline
 
 \[INSERT - sketches of actors on a stage and behind the stage]
 
-
-
 ## How to do a Service Blueprint?
-
-## 
 
 ![Service Blueprint Template](/images/service_design_blueprint.png)
 
