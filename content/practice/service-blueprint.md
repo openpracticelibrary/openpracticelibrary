@@ -1,8 +1,6 @@
 ---
 title: Service Blueprint
-subtitle: >-
-  Applied process chart which always shows delivery process from a people
-  [human] perspective.
+subtitle: Applied process chart shown from the people perspective.
 date: 2018-11-14T18:39:21.278Z
 authors:
   - DarcieF
