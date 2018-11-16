@@ -25,7 +25,7 @@ A workshop format that helps participants understand how people and/or software 
 
 Domain Storytelling is driven by domain experts who share typical examples of how they work. These examples are known as Domain Stories. While listening, the moderator records the domain stories using a pictographic language, so domain experts can see immediately if the moderator understands their story correctly. The moderator guides the domain experts by asking questions, for example _who_ – _does what_ – _with what_ – _why_.
 
-A Domain Story covers_ one concrete example_. It shows something that _actually_ happens, rather than all things that could _possibly_ happen. After several stories, the participants are able to talk about the people, activities, tools, work objects, and events in that domain.
+A Domain Story covers _one concrete example_. It shows something that _actually_ happens, rather than all things that could _possibly_ happen. After several stories, the participants are able to talk about the people, activities, tools, work objects, and events in that domain.
  Often, the conversation that was started with Domain Storytelling is later continued with [user stories](https://openpracticelibrary.com/practice/user-story-mapping/), example mapping, [event storming](https://openpracticelibrary.com/practice/event-storming/), etc.
 
 ## Why use it?
