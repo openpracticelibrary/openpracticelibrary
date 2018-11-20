@@ -25,6 +25,8 @@
         {{ $practiceMap.Add .Params.area (slice $currentItem) }}
       {{end}}
 
+      {{ partial "button.html" (dict "absolutePath" "/admin/#/collections/practice/new" "buttonText" "Add new practice") }}
+
       <section class="loop-categories">
           <a name="discovery-loop-outcomes"></a><a name="discovery-loop-why"></a>
           <h2>Discovery</h2>
@@ -79,8 +81,7 @@
             {{ partial "tile.html" . }}
           {{end}}
         </div>
-      
+
       </section>
 
-      {{ partial "button.html" (dict "absolutePath" "/admin/#/collections/practice/new" "buttonText" "Add new practice") }}
     </div>
