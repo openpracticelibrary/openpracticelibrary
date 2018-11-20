@@ -6,6 +6,9 @@ subtitle: >-
 date: 2018-09-09T11:22:37.360Z
 authors:
   - tdbeattie
+aliases:
+  - /practice/product-ownership/
+
 ---
 ## What is it?
 

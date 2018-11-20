@@ -6,6 +6,8 @@ authors:
   - sherl0cks
 icon: /images/kandinsky.jpg
 jumbotron: /images/kandinsky.jpg
+aliases: 
+  - /practice/domain-driven-design/
 
 ---
 ## What is it?
