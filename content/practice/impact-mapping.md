@@ -61,7 +61,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 For the shortened variation:
 
-* 2-4 hours of prep to establish a [goal or problem statement](/practice/why-is-defined/) _before_ the session. This is important, or your session will go sideways!
+* 2-4 hours of prep to establish a goal or problem statement _before_ the session. This is important, or your session will go sideways!
 * optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
 * ~4 Hours to facilitate the session, not including breaks
 * Facilitate in small sessions @ around 60-90 minutes each
