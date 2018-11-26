@@ -7,6 +7,8 @@ authors:
   - mtakane
   - tdbeattie
 area: options
+perspectives:
+  - product-ownership
 people: 2+
 time: 30 minutes
 difficulty: moderate
