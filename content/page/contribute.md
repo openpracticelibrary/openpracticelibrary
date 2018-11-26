@@ -5,7 +5,7 @@ authors:
   - springdo
 date: 2017-10-19T21:03:59.000Z
 menu: main
-weight: 3
+weight: 5
 ---
 
 # Netlify CMS Instructions

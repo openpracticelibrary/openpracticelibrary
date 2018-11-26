@@ -1,7 +1,5 @@
 {{ partial "header.html" . }}
 
-
-
 {{if .Params.image}}
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
@@ -17,6 +15,9 @@
       {{ if .Site.Params.logo }}
         <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{ .Site.Params.logo | relURL }}" alt="Home" /></a>
       {{end}}
+
+      {{ partial "search-bar.html" . }}
+
       {{ if .Site.Menus.main }}
           <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
       {{else}}
@@ -40,64 +41,79 @@
         </div>
     </div>
     {{end}}
-
-
 </header>
 
-
-
 <main class="content" role="main">
-
-
-
-
   <article class="post {{ .Section }}">
     <header class="post-header">
-      <nav class="breadcrumb">
-        {{ $currentNode := . }}
-        {{ range .Site.Menus.main }}
-        {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-        <li><a href="{{.URL}}">{{.Name}}</a></li>
-              {{ range .Children }}
-              {{ if .HasChildren }}
-              {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-                <li><a href="{{.URL}}">{{.Name}}</a></li>
-                  {{ range .Children }}
-                  {{ if .HasChildren }}
-                  {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-                    <li><a href="{{.URL}}">{{.Name}}</a></li>
-                  {{end}}
-                  {{end}}
-                  {{end}}
-              {{end}}
-              {{end}}
-              {{end}}
-        {{end}}
-        {{end}}
-        <!-- <li>{{.Title}}</li> -->
-      </nav>
 
+      {{ $authorScratch := newScratch }}
+      {{ range $.Params.authors }}
+        {{ $currrentAuthor := index $.Site.Data.content.author .}}
+        {{ $authorScratch.Add "listOfAuthors" (slice $currrentAuthor) }}
+      {{ end }}
+      {{ $listOfAuthors := $authorScratch.Get "listOfAuthors"}}
+      {{ partial "author.html" $listOfAuthors }}
 
-        <h1 class="post-title">{{.Title}}</h1>
-        <small>{{.Description}}</small>
+      <section class="post-meta">
+        Last update:
+        <time class="post-date" datetime="{{ .Page.Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+          {{ .Page.Lastmod.Format "January 2, 2006" }}
+        </time>
+      </section>
 
-        <section class="post-meta">
-        {{ if eq .Section "post"}}
-          <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-            {{ .Date.Format "Jan 2, 2006" }}
-          </time>
-        {{end}}
-         {{ range .Params.tags }}
-          <span class="post-tag small"><a href="{{$.Site.BaseURL}}/tags/{{ . | urlize }}/">#{{ . }}</a></span>
-         {{ end }}
-        </section>
+      {{ partial "content-heading.html" .Params }}
+
     </header>
 
     <section class="post-content">
+    {{if and (isset .Params "people") (isset .Params "time") (isset .Params "difficulty") }}
+    <div class="how-to-box">
+        <div class="how-to-box-item">
+            <div class="icon-people how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>No. People</i></p>
+            <p class="how-to-box-text">{{ .Params.people }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-time how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Time</i></p>
+            <p class="how-to-box-text">{{ .Params.time }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-stats how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Difficulty</i></p>
+            <p class="how-to-box-text">{{ .Params.difficulty }}</p>
+        </div>
+        <div class="how-to-box-item">
+            <div class="icon-speach how-to-box-icon"></div>
+            <p class="how-to-box-text"><i>Participants</i></p>
+            {{ if isset .Params "participants" }}
+            <p class="how-to-box-text">{{ range first 1 .Params.participants }} {{ . }}{{ end }}{{ range after 1 .Params.participants }}, {{ . }}{{ end }}</p>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
 
+    {{ if isset .Params "perspectives"  }}
+      {{ $numPerspectives := len .Params.perspectives }}
+      <p><em>
+        This {{ .Type }} is part of: 
+        {{ range $index, $practice := $.Params.perspectives }}
+          {{ partial "link.html" ($.Site.GetPage "perspective" $practice) }}{{ if lt (add $index 1) $numPerspectives }},{{ else }}.{{ end }}
+        {{ end }}
+      </em></p>
+    {{ end }}
+    
+    {{ if eq .Type "perspective" }}
+      This {{ .Type }} contains:
+      <ul>
+        {{ range where .Site.Pages "Params.perspectives" "intersect" ( slice .Source.BaseFileName ) }}
+          <li>{{ partial "link.html" . }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
 
-{{ .Content }}
-
+    {{ .Content }}
 
 {{if ne .Params.index true}}
 {{if .Menus.main.HasChildren }}
@@ -114,48 +130,25 @@
 {{ end }}
 {{ end }}
 
-{{if eq .Params.index true}}
-<nav class="navpage">
+</section>
+{{ if eq .Type "practice" }}
+  <!-- TODO: Expand this to work with any content type -->
+  {{ partial "button.html" (dict "practicePath" .File.BaseFileName "buttonText" "Improve this practice") }}
+{{ end }}
 
-{{ $currentNode := . }}
-{{ range .Site.Menus.main }}
-{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
-      {{ range .Children }}
-      <ul>
-      <li><a href="{{.URL}}">{{.Name}}</a>
-      {{ if .HasChildren }}
-        <ul>
-        {{ range .Children }}
-          <li><a href="{{.URL}}">{{.Name}}</a>
-          {{ if .HasChildren }}
-            <ul>
-            {{ range .Children }}
-            <li><a href="{{.URL}}">{{ .Name }}</a></li>
-            {{ end }}
-            </ul>
-          {{ end }}
-        {{ end }}
-        </ul>
-      {{ end }}
-      </li>
-      </ul>
-      {{ end }}
+{{ if .Params.authors }}
+<section class="social-footer">
+  {{ partial "share.html" . }}
+</section>
+{{ end }}
 
-
-{{end}}
-{{end}}
-
-</nav>
-{{end}}
-
-    </section>
-
-
-  <footer class="post-footer">
-
-  </footer>
+{{ if .Params.area }}
+    {{ partial "suggestions.html" . }}
+{{ end }}
 </article>
 
 </main>
+
+{{ partial "button.html" (dict "absolutePath" "/" "buttonText" "View all practices") }}
 
 {{ partial "footer.html" . }}

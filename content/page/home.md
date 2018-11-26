@@ -2,7 +2,7 @@
 title: Home
 menu: main
 url: /
-weight: 5
+weight: 7
 type: "home"
 ---
 

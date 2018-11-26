@@ -8,6 +8,8 @@ authors:
   - sandraarps
   - tdbeattie
 area: delivery-deliver
+perspectives:
+  - product-ownership
 people: 3+
 time: 1-2 hours
 difficulty: moderate

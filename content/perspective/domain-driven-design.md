@@ -4,10 +4,11 @@ subtitle: Tackling Complexity in the Heart of Software
 date: 2018-11-06T19:14:43.638Z
 authors:
   - sherl0cks
-area: foundation-culture-and-collaboration
 icon: /images/kandinsky.jpg
 jumbotron: /images/kandinsky.jpg
-participants: []
+aliases: 
+  - /practice/domain-driven-design/
+
 ---
 ## What is it?
 
