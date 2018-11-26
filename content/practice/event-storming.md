@@ -10,6 +10,8 @@ authors:
   - sudhakarau1
   - sandraarps
 area: discovery-loop-outcomes
+perspectives:
+  - domain-driven-design
 icon: /images/eventstormtile.jpeg
 jumbotron: /images/eventstorm.jpeg
 jumbotronAlt: An example event storm
