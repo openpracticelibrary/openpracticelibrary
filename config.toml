@@ -35,7 +35,7 @@ identifier = "Gitter"
 url = "https://gitter.im/openpracticelibrary/"
 
 [[menu.main]]
-name = "Update Log"
+name = "What's New"
 weight = 0
-identifier = "Update Log"
+identifier = "What's New"
 url = "https://github.com/openpracticelibrary/openpracticelibrary/pulls?q=is%3Apr+is%3Aclosed+base%3Amaster"
