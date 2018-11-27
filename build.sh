@@ -40,6 +40,7 @@ test(){
 build(){
     _printBuildStep "npm i"
     _printBuildStep "./node_modules/.bin/grunt lunr-index"
+    _printBuildStep "./scale.sh"
     _printBuildStep "hugo"
 }
 

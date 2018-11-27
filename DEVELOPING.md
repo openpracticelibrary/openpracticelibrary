@@ -30,11 +30,16 @@ Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Casper th
 1. Check out this repo.
 2. [Install Hugo](https://gohugo.io/getting-started/installing/).
 3. [Install Node.js](https://nodejs.org/en/download/).
-4. Run `git submodule update --init --recursive` to download the theme.
-5. Navigate to the top level of the repo.
-6. Run `npm install` to install the npm packages.
-7. Run `npx grunt-cli lunr-index` to build the search index.
-8. Run `hugo server` to run the site locally.
+4. Install ImageMagick
+  - macOS: `brew install imagemagick`
+  - Fedora/CentOS: `dnf install imagemagick`
+  - Ubuntu: `sudo apt-get install imagemagick`
+  - Windows + [chocolatey](https://chocolatey.org/packages/imagemagick.app): `choco install imagemagick.app`
+5. Run `git submodule update --init --recursive` to download the theme.
+6. Navigate to the top level of the repo.
+7. Run `chmod +x` to make the build script executable.
+8. Run `./build.sh` to build the site.
+9. Run `hugo serve` to serve the site.
 
 Alternately, you can run `hugo server -D` to preview drafts.
 
