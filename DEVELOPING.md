@@ -24,24 +24,32 @@ To learn more, see [Why Optimistic Merging Works Better](http://hintjens.com/blo
 This workflow is still being refined and improved. If you have feedback, feel free to [get in touch via Gitter](https://gitter.im/openpracticelibrary/).
 
 ## Running the site locally
+Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Casper theme](https://github.com/vjeantet/hugo-theme-casper).
 
-Open Practice Library is built with [Hugo](http://gohugo.io/) and the [Casper theme](https://github.com/vjeantet/hugo-theme-casper). To run it locally:
+### Quick start
+These steps don't build card images or a search index, but they'll get the site up and running quickly. These steps should work on any platform.
 
-1. Check out this repo.
-2. [Install Hugo](https://gohugo.io/getting-started/installing/).
-3. [Install Node.js](https://nodejs.org/en/download/).
-4. Install ImageMagick
+1. [Install Hugo](https://gohugo.io/getting-started/installing/).
+2. Check out this repo.
+3. Navigate to the directory where you checked out this repo.
+4. Run `git submodule update --init --recursive` to download the theme.
+5. Run `hugo serve` to serve the site.
+
+### Full build
+These steps build the whole site, including card images and the search index. They are a bit more involved and require macOS or Linux. We're working on making this better - stay tuned!!
+
+1. [Install Hugo](https://gohugo.io/getting-started/installing/).
+2. [Install Node.js](https://nodejs.org/en/download/).
+3. Check out this repo.
+4. Navigate to the directory where you checked out this repo.
+5. Install ImageMagick:
   - macOS: `brew install imagemagick`
-  - Fedora/CentOS: `dnf install imagemagick`
-  - Ubuntu: `sudo apt-get install imagemagick`
-  - Windows + [chocolatey](https://chocolatey.org/packages/imagemagick.app): `choco install imagemagick.app`
-5. Run `git submodule update --init --recursive` to download the theme.
-6. Navigate to the top level of the repo.
-7. Run `chmod +x` to make the build script executable.
+  - Fedora/CentOS: `dnf install imagemagick` or `yum install imagemagick`
+  - Ubuntu: `apt-get install imagemagick`
+6. Run `git submodule update --init --recursive` to download the theme.
+7. Run `chmod +x build.sh` to make the build script executable.
 8. Run `./build.sh` to build the site.
 9. Run `hugo serve` to serve the site.
-
-Alternately, you can run `hugo server -D` to preview drafts.
 
 ## Deploying
 
