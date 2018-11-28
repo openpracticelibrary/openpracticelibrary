@@ -5,8 +5,10 @@ date: 2018-11-08T15:20:11.306Z
 authors:
   - valyonchev
 area: foundation-culture-and-collaboration
-icon: /images/20181108_152117.jpg
-jumbotron: /images/20181108_152117.jpg
+perspectives:
+  - product-ownership
+icon: /images/force-field.jpg
+jumbotron: /images/force-field.jpg
 jumbotronAlt: Force Field Maps
 people: 2+
 time: 30-60 min
