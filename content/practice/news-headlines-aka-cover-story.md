@@ -5,6 +5,9 @@ date: 2018-11-08T14:56:05.149Z
 authors:
   - valyonchev
 area: discovery-loop-outcomes
+perspectives:
+  - product-ownership
+  - ui-ux
 people: 2+
 time: 30-60 min
 difficulty: easy
@@ -24,8 +27,6 @@ This practice frequently precedes other which require creativity.
 
 The group is encouraged to picture and draw even their wildest ideas.
 
-
-
 ## Why use it?
 
 * Helps translate vision into a set of characteristics to describe how it would feel and look when achieved
@@ -35,17 +36,13 @@ The group is encouraged to picture and draw even their wildest ideas.
 * It allows you to gradually move the focus from the features to the benefits (outcomes)
 * Provides really good input for the goal to be used in Impact Mapping
 
-
-
 ## Why & How to combine it with other practices?
 
 This practice is really helpful if you find it hard to articulate the goal during an Impact Mapping session. It can help articulate product vision and ambitions. 
 
-It is also a good transition from a vision into a more concrete description of expected product/service design, e.g. through Event Storming.
+It is also a good transition from a vision into a more concrete description of expected product/service design, e.g. through [Event Storming](https://openpracticelibrary.com/practice/event-storming/).
 
 It can provide interesting input for Value Proposition and Lean Canvas.
-
-
 
 ## Further Information
 
