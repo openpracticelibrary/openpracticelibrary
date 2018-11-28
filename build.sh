@@ -21,20 +21,22 @@ _printBuildStep(){
     response=SUCCESS
   fi
   echo ""
-  echo "\n##################################################\n" &&\
-  echo "    BUILD STEP ${response}: $@" &&\
-  echo "\n##################################################\n"
+  echo "##################################################"
+  echo ""
+  echo "    BUILD STEP ${response}: $@"
+  echo ""
+  echo "##################################################"
   if [[ ${rc} != 0 ]];then
     exit ${rc}
   fi
 }
 
 clean(){
-    _printBuildStep "rm -rvf public"
+    _printBuildStep "rm -rvf public static/images/scaled"
 }
 
 test(){
-    _printBuildStep "echo test-command"
+    _printBuildStep "echo No tests defined"
 }
 
 build(){
