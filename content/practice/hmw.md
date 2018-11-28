@@ -7,8 +7,8 @@ authors:
 area: discovery-loop-outcomes
 perspectives:
   - product-ownership
-icon: /images/20181128_190707-small.jpg
-jumbotron: /images/20181128_190707.jpg
+icon: /images/hmw.jpg
+jumbotron: /images/hmw.jpg
 people: 2+
 time: 30-60 min
 difficulty: moderate
