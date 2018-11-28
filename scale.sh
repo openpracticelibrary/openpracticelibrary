@@ -1,3 +1,7 @@
+#!/bin/bash
+# set -o xtrace
+# set -e
+# 
 # Scale and crop images for use in cards
 # https://imagemagick.org/script/convert.php
 # https://imagemagick.org/script/command-line-processing.php#geometry
