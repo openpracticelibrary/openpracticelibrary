@@ -7,7 +7,7 @@ authors:
 area: options
 perspectives:
   - product-ownership
-icon: /images/design-of-eperiments.jpg
+icon: /images/doe-thumbnail.jpg
 jumbotron: /images/design-of-eperiments.jpg
 jumbotronAlt: Design Of Experiments
 people: 2+
