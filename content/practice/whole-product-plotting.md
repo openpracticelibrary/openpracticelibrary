@@ -5,8 +5,10 @@ date: 2018-11-08T15:09:19.857Z
 authors:
   - valyonchev
 area: discovery-loop-why
-icon: /images/20181108_152223.jpg
-jumbotron: /images/20181108_152223.jpg
+perspectives:
+  - product-ownership
+icon: /images/whole-product.jpg
+jumbotron: /images/whole-product.jpg
 jumbotronAlt: Whole Product Plot
 people: 2+
 time: 60 min
@@ -21,8 +23,6 @@ participants:
 
 A visual approach for scoping the most important features of a product/service. It is a drawing of multiple concentric circles, each of which represents an additional layer of details for the product/service. At the core are the generic product/service characteristics (features), followed by minimal conditions circle (must haves), an augmented product circle, a potential circle (differentiations and customer retention features) and additional circles if required.
 
-
-
 ## Why use it?
 
 * Opens up the product development for the whole team
@@ -31,38 +31,29 @@ A visual approach for scoping the most important features of a product/service. 
 * Helps move the focus on the important / differentiating features
 * When used for existing products/services allows for uncovering options for pivoting
 
-
-
 ## Why & How to combine it with other practices?
 
-* This practice could be used in combination with practices as Impact Mapping, Lean Canvas, Value Proposition Canvas in order to build a vision for a product/service and translate that vision into actionable and prioritized set of features.
+* This practice could be used in combination with practices as [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/), Lean Canvas, Value Proposition in order to build a vision for a product/service and translate that vision into actionable and prioritized set of features.
 * The output from the practice may invoke User Research, Usability Reviews (for existing products/services)
 * It can also serve as prioritisation tool for the Product Backlog
-
-
 
 ## Related Practices
 
 * Kano Model 
-* Impact & Effort Matrix
-* How-Now-Wow Matrix
+* [Impact & Effort Matrix](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/)
+* [How-Now-Wow Matrix](https://openpracticelibrary.com/practice/how-now-wow-prioritization-matrix/)
 * Lean Canvas
 * Value Proposition Canvas
 * User Research
 * User Interviews
 * Brainstorming
-* Product Roadmaps 
-* Product Backlog
-* Design of Experiments
-
-
+* Product Roadmapping
+* [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 
 ## Origin
 
 * Ted Levitt - Whole Product Strategy
 * Dave Gray - Whole Product Game
-
-
 
 ## Further information
 
