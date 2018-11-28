@@ -5,6 +5,8 @@ date: 2018-11-08T14:59:58.041Z
 authors:
   - valyonchev
 area: discovery-loop-outcomes
+perspectives:
+  - product-ownership
 people: 2+
 time: 30-60 min
 difficulty: easy
@@ -22,8 +24,6 @@ It gets the team to think from a big picture perspective and from the shoes of t
 
 In different formats you may either start with a blank box or provide carton to  participants and ask them to design the box in the process.
 
-
-
 ## Why use it?
 
 * Helps translate vision into a set of characteristics to describe how it would feel and look when achieved
@@ -32,24 +32,19 @@ In different formats you may either start with a blank box or provide carton to 
 * Serves as a stepping stone to Value Proposition or Lean Canvas by articulating some of the most important use cases, features and benefits.
 * Provides really good input for the goal to be used in Impact Mapping
 
-
-
 ## Why & How to combine it with other practices?
 
-* This practice is really helpful if you find it hard to articulate the goal during an Impact Mapping session. It can help articulate product vision and ambitions
-* It is also a good transition from a vision into a more concrete description of expected product/service design, e.g. through Event Storming
+* This practice is really helpful if you find it hard to articulate the goal during an [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/) session. It can help articulate product vision and ambitions
+* It is also a good transition from a vision into a more concrete description of expected product/service design, e.g. through [Event Storming](https://openpracticelibrary.com/practice/event-storming/)
 * It can provide interesting input for Value Proposition and Lean Canvas
-
-
 
 ## Related Practices
 
-* Impact Mapping
+* [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
+* [Event Storming](https://openpracticelibrary.com/practice/event-storming/)
 * Kano Model 
 * Lean Canvas
 * Value Proposition Canvas
-
-
 
 ## Further Information
 
