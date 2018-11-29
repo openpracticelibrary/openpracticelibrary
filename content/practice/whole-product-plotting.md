@@ -23,6 +23,8 @@ participants:
 
 A visual approach for scoping the most important features of a product/service. It is a drawing of multiple concentric circles, each of which represents an additional layer of details for the product/service. At the core are the generic product/service characteristics (features), followed by minimal conditions circle (must haves), an augmented product circle, a potential circle (differentiations and customer retention features) and additional circles if required.
 
+![Whole Product Canvas](/images/whole-product.jpg)
+
 ## Why use it?
 
 * Opens up the product development for the whole team
