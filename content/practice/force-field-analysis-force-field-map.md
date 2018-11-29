@@ -24,15 +24,13 @@ This is a method coming from the field of Social Science and developed by Kurt L
 
 Dave Gray has introduced a map (Force Field Map), which provides an excellent canvas for having a conversation with all participants in front of a flipchart or whiteboard.
 
-
+![Force Field Analysis Canvas](/images/force-field.jpg)
 
 ## Why use it?
 
 * Change cannot be managed. It can only be facilitated. To facilitate something one has to build sufficient understanding of it
 * Organizational systems are complex systems and require system thinking for their understanding. Force field analysis is a way to open the door to systems thinking in situations where organisations are going through change
 * Provides a good understanding of the environment, which in turn could allow for Lean Change Management practices to be used for facilitating the change process
-
-
 
 ## Related Practices
 
@@ -41,13 +39,9 @@ Dave Gray has introduced a map (Force Field Map), which provides an excellent ca
 * Lean Coffee
 * Open Space
 
-
-
 ## Origin
 
 Kurt Lewin - Force Field Analysis 
-
-
 
 ## Further information
 
