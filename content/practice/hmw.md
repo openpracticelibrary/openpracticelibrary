@@ -41,6 +41,8 @@ You need a challenge, a Point of View and a set of relevant questions starting w
 * Change a status quo
 * Break PoV into pieces
 
+![HMW](/images/hmw.jpg)
+
 ## Why use it?
 
 HMW allows for creative problem-solving and going out of the established path of thinking. Especially when a lot of time has been spent on a particular direction and the team has developed “group think” or feels stuck.
