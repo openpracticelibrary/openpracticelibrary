@@ -28,6 +28,8 @@ This is a decision-making / prioritization practice for selection of ideas (feat
 * Things to avoid - Low Impact / Low Effort
 * Bad ideas - Low Impact / High Effort
 
+![Impact & Effort Prioritization Matrix](/images/impact-effort.jpg)
+
 ## Why use it?
 
 * This practice opens up the product development for the whole team
