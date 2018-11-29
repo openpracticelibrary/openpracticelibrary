@@ -1,7 +1,9 @@
 <!-- https://unsplash.com/photos/2FPjlAyMQTA -->
 {{ $random := index (seq 9 | shuffle) 0 }}
-{{ $stockImage := print "/images/stock-tiles/" $random ".jpeg" }}
-{{ $image := or .pageParams.icon $stockImage "" }}
+{{ $image := print "/images/stock-tiles/" $random ".jpeg" }}
+{{ if .pageParams.icon }}
+  {{ $image = replace .pageParams.icon "/images/" "/images/scaled/" }}
+{{ end }}
 <a class="tile" href="{{ .RelPermalink }}">
   <img class="tile-img" src="{{ $image }}" alt="hello!">
   <h2 class="tile-heading">{{ .pageParams.title }}</h2>

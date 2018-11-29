@@ -6,10 +6,10 @@
   publish = "public"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.46"
+  HUGO_VERSION = "0.51"
 
 [context.production.environment]
-  HUGO_VERSION = "0.46"
+  HUGO_VERSION = "0.51"
 
 [context.staging]
   # This will be your default build command
@@ -17,4 +17,4 @@
   # This is the directory that you are publishing from (relative to root of your repo)
   publish = "public"
   [context.staging.environment]
-    HUGO_VERSION = "0.46"
+    HUGO_VERSION = "0.51"
