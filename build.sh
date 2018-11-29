@@ -6,29 +6,29 @@
 #util functions for build scripts
 
 _printBuildStep(){
-  echo ""
-  echo ""
-  echo "##################################################"
-  echo ""
-  echo "    START BUILD STEP:  $@"
-  echo ""
-  echo "##################################################"
+    echo ""
+    echo ""
+    echo "##################################################"
+    echo ""
+    echo "    START BUILD STEP:  $@"
+    echo ""
+    echo "##################################################"
 
-  sh -c "${@}"
-  rc=$?
-  response=FAILURE
-  if [[ ${rc} == 0 ]];then
-    response=SUCCESS
-  fi
-  echo ""
-  echo "##################################################"
-  echo ""
-  echo "    BUILD STEP ${response}: $@"
-  echo ""
-  echo "##################################################"
-  if [[ ${rc} != 0 ]];then
-    exit ${rc}
-  fi
+    sh -c "${@}"
+    rc=$?
+    response=FAILURE
+    if [[ ${rc} == 0 ]];then
+        response=SUCCESS
+    fi
+    echo ""
+    echo "##################################################"
+    echo ""
+    echo "    BUILD STEP ${response}: $@"
+    echo ""
+    echo "##################################################"
+    if [[ ${rc} != 0 ]];then
+        exit ${rc}
+    fi
 }
 
 scaleImages(){
