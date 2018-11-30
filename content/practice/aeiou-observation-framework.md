@@ -26,11 +26,11 @@ participants:
 
 That video says it all but for reference AEIOU stands for:
 
-> > **A - Activities**\
-> > **E - Environments**\
-> > **I - Interactions**\
-> > **O - Objects**\
-> > **U - Users**
+> **A - Activities**\
+> **E - Environments**\
+> **I - Interactions**\
+> **O - Objects**\
+> **U - Users**
 
 This heuristic framework provides an observation technique used to document contextual inquiries during ethnographic studies. For the purposes of digital product and software practices, AEIOU is helpful for categorizing and interpreting observations gathered during user research field studies and usability testing efforts.
 
