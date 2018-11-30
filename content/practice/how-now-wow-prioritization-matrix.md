@@ -7,8 +7,8 @@ authors:
 area: options
 perspectives:
   - product-ownership
-icon: /images/20181108_152130.jpg
-jumbotron: /images/20181108_152130.jpg
+icon: /images/how-now-wow.jpg
+jumbotron: ''
 jumbotronAlt: How-Now-Wow Prioritization Matrix
 people: 2+
 time: 30-60 min
@@ -25,7 +25,7 @@ How-Now-Wow is a prioritisation matrix / idea selection tool, which is often com
 
 It compares and plot ideas on a 2x2 matrix by comparing the idea’s difficulty to implement with its novelty/originality.  
 
-
+![How Now Wow Matrix](/images/how-now-wow.jpg)
 
 ## Why use it?
 
@@ -35,11 +35,9 @@ It compares and plot ideas on a 2x2 matrix by comparing the idea’s difficulty 
 * Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders
 * It helps identify directions and ideas for pivoting
 
-
-
 ## Why & How to combine it with other practices?
 
-The source of ideas and hypothesis are practices like Event Storming, Impact Mapping, HMW, User Research, Empathy Mapping. While we perform those aforementioned practices, often ideas would emerge for possible improvements or new hypothesis may form. Some of them may be already formulated as HMW questions. 
+The source of ideas and hypothesis are practices like [Event Storming](https://openpracticelibrary.com/practice/event-storming/), [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/), [HMW](https://openpracticelibrary.com/practice/hmw/), User Research, [Empathy Mapping](https://openpracticelibrary.com/practice/empathy-mapping/). While we perform those aforementioned practices, often ideas would emerge for possible improvements or new hypothesis may form. Some of them may be already formulated as [HMW](https://openpracticelibrary.com/practice/hmw/) questions. 
 
 Before adding any of them as items on the Product Backlog these ideas & hypothesis would typically need some research, analysis and further elaboration. As any team has a limit of bandwidth and attention, prioritisation is required and any activities would be added as items in the Product Backlog.
 
@@ -48,25 +46,20 @@ Once prioritised these ideas & hypothesis may lead to:
 * New stories being added
 * Complete new features being broken down into new stories
 * User Research
-* Design of Experiments
+* [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 * Spikes
-
-
 
 ## Related Practices
 
 * Kano Model 
-* Whole Product Plotting
-* Impact & Effort. Matrix
-* HMW
+* [Whole Product Plotting](https://openpracticelibrary.com/practice/whole-product-plotting/)
+* [Impact & Effort Matrix](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/)
+* [HMW](https://openpracticelibrary.com/practice/hmw/)
 * User Research
 * User Interviews
 * Brainstorming
-* Product Roadmaps 
-* Product Backlog
-* Design of Experiments 
-
-
+* Product Roadmapping
+* [Design of Experiments ](https://openpracticelibrary.com/practice/design-of-experiments/)
 
 ## Further Information
 
