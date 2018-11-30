@@ -21,17 +21,15 @@ participants:
 
 [TheDesignExchange.org](TheDesignExchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uvvd6pcNX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/Uvvd6pcNX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 
 That video says it all but for reference AEIOU stands for:
 
->**A - Activities**\
-**E - Environments**\
-**I - Interactions**\
-**O - Objects**\
-**U - Users**
+> > **A - Activities**\
+> > **E - Environments**\
+> > **I - Interactions**\
+> > **O - Objects**\
+> > **U - Users**
 
 This heuristic framework provides an observation technique used to document contextual inquiries during ethnographic studies. For the purposes of digital product and software practices, AEIOU is helpful for categorizing and interpreting observations gathered during user research field studies and usability testing efforts.
 
@@ -44,8 +42,8 @@ AEIOU relates to five heuristic categories to be observed and documented during 
 * **Activities:** What actions and behaviors are people taking to reach goals?
 * **Environments:** What is the overall setting in which the activities are taking place? How are people behaving in the environment?
 * **Interactions:** What are the basic interactions occurring for people to reach goals? What effect do people have on activities and environment?
-* **Objects: **What are all the details that form the environment? How do objects relate to people, activities and interactions?
-* **Users: **Who are the people being observed? What are their personalities like? How do they engage with other people to reach goals? 
+* **Objects:** What are all the details that form the environment? How do objects relate to people, activities and interactions?
+* **Users:** Who are the people being observed? What are their personalities like? How do they engage with other people to reach goals? 
 
 AEIOU is a starting point for research efforts, the above category definitions can be iterated upon and refined to align with project goals. [Rick E. Robinson](https://www.epicpeople.org/building-a-useful-research-tool/), creator of AEIOU, calls it a “categorizing heuristic” which can be modified.
 
@@ -82,15 +80,13 @@ Some idea of the research goals is helpful.
 **Deliverable**\
 The worksheets will be used to include in research analysis activities.
 
-**Supply list:**
+**Supply list:**\
+- Worksheet (free or created)\
+- Printer
 
-* Worksheet (free or created)
-* Printer
-
-**Free Templates!**
-
-* [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)
-* [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
+**Free Templates!**\
+- [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
+- [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
 ## Resource Links
 
