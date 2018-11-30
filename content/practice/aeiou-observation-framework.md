@@ -5,7 +5,8 @@ date: 2018-11-30T22:42:50.138Z
 authors:
   - darcief
 area: discovery-loop-why
-perspectives: []
+perspectives:
+  - product-ownership
 icon: /images/aeiou-empathy-map.png
 jumbotron: /images/aeiou_worksheet_crop.jpg
 jumbotronAlt: AEIOU Framework
