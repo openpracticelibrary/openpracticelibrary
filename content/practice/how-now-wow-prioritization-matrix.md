@@ -8,7 +8,7 @@ area: options
 perspectives:
   - product-ownership
 icon: /images/how-now-wow.jpg
-jumbotron: /images/how-now-wow.jpg
+jumbotron: ''
 jumbotronAlt: How-Now-Wow Prioritization Matrix
 people: 2+
 time: 30-60 min
