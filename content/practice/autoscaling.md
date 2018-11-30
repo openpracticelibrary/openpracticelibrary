@@ -5,6 +5,9 @@ date: 2018-08-31T15:58:12.992Z
 authors:
   - syvanen
 area: foundation-technical
+perspectives:
+  - ''
+difficulty: moderate
 participants: []
 ---
 ## What is it?
