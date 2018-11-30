@@ -19,7 +19,7 @@ participants:
 ---
 ## What is the AEIOU Observation Framework about?
 
-[TheDesignExchange.org](TheDesignExchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
+[TheDesignExchange.org](TheDesignExchange.org{:target="_blank"}) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
 
 [![AEIOU, The Design Exchange Video](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
 
