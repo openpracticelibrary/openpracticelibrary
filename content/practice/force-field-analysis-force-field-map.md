@@ -8,7 +8,7 @@ area: foundation-culture-and-collaboration
 perspectives:
   - product-ownership
 icon: /images/force-field.jpg
-jumbotron: /images/force-field.jpg
+jumbotron: ''
 jumbotronAlt: Force Field Maps
 people: 2+
 time: 30-60 min
