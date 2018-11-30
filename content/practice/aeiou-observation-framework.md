@@ -21,7 +21,7 @@ participants:
 
 [TheDesignExchange.org](TheDesignExchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/Uvvd6pcNX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+[![TheDesignExchange.org AEIOU](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
 
 That video says it all but for reference AEIOU stands for:
 
@@ -81,12 +81,14 @@ Some idea of the research goals is helpful.
 The worksheets will be used to include in research analysis activities.
 
 **Supply list:**\
-- Worksheet (free or created)\
-- Printer
+
+* Worksheet (free or created)\
+* Printer
 
 **Free Templates!**\
-- [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
-- [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
+
+* [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
+* [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
 ## Resource Links
 
