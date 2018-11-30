@@ -5,8 +5,10 @@ date: 2018-11-08T15:26:31.527Z
 authors:
   - valyonchev
 area: discovery-loop-outcomes
-icon: /images/20181108_152239.jpg
-jumbotron: /images/20181108_152239.jpg
+perspectives:
+  - product-ownership
+icon: /images/hmw.jpg
+jumbotron: /images/hmw.jpg
 people: 2+
 time: 30-60 min
 difficulty: moderate
@@ -34,12 +36,12 @@ You need a challenge, a Point of View and a set of relevant questions starting w
 * Question an assumption
 * Go after adjectives 
 * Identify unexpected resources
-* Create an analogy from from need or context
+* Create an analogy from need or context
 * Play against the challenge
 * Change a status quo
 * Break PoV into pieces
 
-
+![HMW](/images/hmw.jpg)
 
 ## Why use it?
 
@@ -49,30 +51,22 @@ It helps in breaking frames and molds and lead to innovative solutions.
 
 It can easily “plug” and enhance many other practices, especially when you seek innovation.
 
-
-
 ## Why & How to combine it with other practices?
 
-* HMW can be combined with Impact Mapping as a way to search for deliverables that can influence a particular behaviour change of actor/s
-* During Event Storming the team can often spot improvements or ideas for introducing a new way of handling the process. A post-it with a draft HMW question can provide a nice bridge into a HMW and Design of Experiments exercise. 
-
-
+* HMW can be combined with [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/) as a way to search for deliverables that can influence a particular behaviour change of actor/s
+* During [Event Storming](https://openpracticelibrary.com/practice/event-storming/) the team can often spot improvements or ideas for introducing a new way of handling the process, experiments to be carried out. A post-it with a draft HMW question can provide a nice bridge into a HMW and [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/) exercise. 
 
 ## Related Practices
 
-* Impact Mapping
-* Design of Experiments
-* Event Storming 
+* [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
+* [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
+* [Event Storming](https://openpracticelibrary.com/practice/event-storming/) 
 * Lean Canvas
 * Value Proposition Canvas
-
-
 
 ## Origin
 
 Made popular by Procter & Gamble in the 1970s, but origin may be tracked as far back as Greek philosophers 
-
-
 
 ## Further information
 
