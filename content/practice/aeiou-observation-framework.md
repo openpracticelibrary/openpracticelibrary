@@ -5,7 +5,8 @@ date: 2018-11-30T22:42:50.138Z
 authors:
   - darcief
 area: discovery-loop-why
-perspectives: []
+perspectives:
+  - product-ownership
 icon: /images/aeiou-empathy-map.png
 jumbotron: /images/aeiou_worksheet_crop.jpg
 jumbotronAlt: AEIOU Framework
@@ -19,17 +20,17 @@ participants:
 ---
 ## What is the AEIOU Observation Framework about?
 
-[TheDesignExchange.org](TheDesignExchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
+[TheDesignExchange.org](https://thedesignexchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look by clicking the image below:
 
 [![AEIOU, The Design Exchange Video](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
 
 That video says it all but for reference AEIOU stands for:
 
-> > **A - Activities**\
-> > **E - Environments**\
-> > **I - Interactions**\
-> > **O - Objects**\
-> > **U - Users**
+> **A - Activities**\
+> **E - Environments**\
+> **I - Interactions**\
+> **O - Objects**\
+> **U - Users**
 
 This heuristic framework provides an observation technique used to document contextual inquiries during ethnographic studies. For the purposes of digital product and software practices, AEIOU is helpful for categorizing and interpreting observations gathered during user research field studies and usability testing efforts.
 
