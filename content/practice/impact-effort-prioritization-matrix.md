@@ -8,7 +8,7 @@ area: options
 perspectives:
   - product-ownership
 icon: /images/impact-effort.jpg
-jumbotron: /images/impact-effort.jpg
+jumbotron: ''
 jumbotronAlt: Impact & Effort Matrix
 people: 2+
 time: 30-60 min
