@@ -19,7 +19,7 @@ participants:
 ---
 ## What is the AEIOU Observation Framework about?
 
-TheDesignExchange.org put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
+[TheDesignExchange.org](TheDesignExchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
 
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uvvd6pcNX84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ TheDesignExchange.org put together a really great video quickly describing the A
 
 That video says it all but for reference AEIOU stands for:
 
-**A - Activities**\
+>**A - Activities**\
 **E - Environments**\
 **I - Interactions**\
 **O - Objects**\
@@ -47,9 +47,7 @@ AEIOU relates to five heuristic categories to be observed and documented during 
 * **Objects: **What are all the details that form the environment? How do objects relate to people, activities and interactions?
 * **Users: **Who are the people being observed? What are their personalities like? How do they engage with other people to reach goals? 
 
-AEIOU is a starting point for research efforts, the above category definitions can be iterated upon and refined to align with project goals. Rick E. Robinson, creator of AEIOU, calls it a “categorizing heuristic” which can be modified.
-
-
+AEIOU is a starting point for research efforts, the above category definitions can be iterated upon and refined to align with project goals. [Rick E. Robinson](https://www.epicpeople.org/building-a-useful-research-tool/), creator of AEIOU, calls it a “categorizing heuristic” which can be modified.
 
 ## How to conduct a contextual inquiry using AEIOU?
 
@@ -63,8 +61,6 @@ The worksheet can also be designed in a fun way like this empathy map example:
 
 ![AEIOU Empathy Map https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/](/images/aeiou-empathy-map.png)
 
-
-
 ## How to use AEIOU as a methodology?
 
 While AEIOU was not necessarily created to inform methodology it can also provide a guideline for conducting user research. 
@@ -77,8 +73,6 @@ Sometimes with exploratory studies that have lengthy technically specific discus
 * Capture what you see (participant’s body language, artifacts used, etc.)
 * Capture what you hear in their words (quotes, stories, keywords, contradictions, etc.)
 * Capture what you feel that the user is feeling (emotions, beliefs, confusion, passion, etc.)
-
-
 
 ## Facilitation Notes
 
@@ -98,14 +92,10 @@ The worksheets will be used to include in research analysis activities.
 * [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)
 * [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
-
-
 ## Resource Links
 
 * [Building a Useful Research Tool: An Origin Story of AEIOU](https://www.epicpeople.org/building-a-useful-research-tool/)
 * [AEIOU Framework](https://help.ethnohub.com/guide/aeiou-framework)
-
-
 
 ## Related Practices
 
