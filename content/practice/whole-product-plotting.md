@@ -8,7 +8,7 @@ area: discovery-loop-why
 perspectives:
   - product-ownership
 icon: /images/whole-product.jpg
-jumbotron: /images/whole-product.jpg
+jumbotron: ''
 jumbotronAlt: Whole Product Plot
 people: 2+
 time: 60 min
