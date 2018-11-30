@@ -7,7 +7,6 @@ authors:
 area: discovery-loop-outcomes
 perspectives:
   - product-ownership
-  - ui-ux
 people: 2+
 time: 30-60 min
 difficulty: easy
