@@ -7,7 +7,7 @@ authors:
 area: discovery-loop-why
 perspectives: []
 icon: /images/aeiou-empathy-map.png
-jumbotron: /images/aeiou_worksheet.jpg
+jumbotron: /images/aeiou_worksheet_crop.jpg
 jumbotronAlt: AEIOU Framework
 people: 2+
 time: 1+ Hours
