@@ -21,7 +21,7 @@ participants:
 
 [TheDesignExchange.org](TheDesignExchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look:
 
-[![TheDesignExchange.org AEIOU](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
+[![AEIOU, The Design Exchange Video](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
 
 That video says it all but for reference AEIOU stands for:
 
