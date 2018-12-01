@@ -82,14 +82,12 @@ Some idea of the research goals is helpful.
 The worksheets will be used to include in research analysis activities.
 
 **Supply list:**\
-
-* Worksheet (free or created)\
-* Printer
+- Worksheet (free or created)\
+- Printer
 
 **Free Templates!**\
-
-* [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
-* [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
+****[Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
+[Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
 ## Resource Links
 
