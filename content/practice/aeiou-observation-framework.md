@@ -81,17 +81,16 @@ Some idea of the research goals is helpful.
 **Deliverable**\
 The worksheets will be used to include in research analysis activities.
 
-**Supply list:**
-
-* AEIOU Worksheet
-* Printer
+**Supply list:**\
+- AEIOU Worksheet\
+- Printer
 
 ## Resource Links
 
 * [Building a Useful Research Tool: An Origin Story of AEIOU](https://www.epicpeople.org/building-a-useful-research-tool/)
 * [AEIOU Framework](https://help.ethnohub.com/guide/aeiou-framework)
 * [Free Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)
-* [Free Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
+* [Free Empathy Map Worksheet](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
 ## Related Practices
 
