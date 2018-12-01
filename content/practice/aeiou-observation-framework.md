@@ -20,7 +20,7 @@ participants:
 ---
 ## What is the AEIOU Observation Framework about?
 
-[TheDesignExchange.org](https://thedesignexchange.org) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look by clicking the image below:
+[TheDesignExchange.org](https://www.thedesignexchange.org/) put together a really great video quickly describing the AEIOU Observation Framework in less than one minute, so please take a look by clicking the image below:
 
 [![AEIOU, The Design Exchange Video](https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uvvd6pcNX84)
 
@@ -82,14 +82,12 @@ Some idea of the research goals is helpful.
 The worksheets will be used to include in research analysis activities.
 
 **Supply list:**\
-
-* Worksheet (free or created)\
-* Printer
+- Worksheet (free or created)\
+- Printer
 
 **Free Templates!**\
-
-* [Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
-* [Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
+****[Column Worksheet](http://www.libraryuxtoolkit.com/search.html#flyOnTheWall)\
+[Empathy Map](https://www.creatlr.com/template/1knjaTEkdFHvtBOLr8DAx/aeiou-empathy-map/)
 
 ## Resource Links
 
