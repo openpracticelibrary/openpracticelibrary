@@ -4,6 +4,9 @@ node_modules/
 # built things
 static/js/lunr/PagesIndex.json
 
+# Cropped images (generated at build)
+static/images/scaled
+
 # Editor files
 *.swp
 
