@@ -19,13 +19,13 @@ participants:
   - Development Team
   - Business Stakeholder(s)
 ---
-## So what is a Service Blueprint? 
+## So what is a Service Blueprint?
 
-Before jumping into activity details please consider a brief overview about the origins of [Service Design](https://www.interaction-design.org/literature/article/service-design-design-is-not-just-for-products).
+Before jumping into activity details please consider a brief overview about the origins of [Service Design](https://www.interaction-design.org/literature/article/service-design-design-is-not-just-for-products/?target=_blank).
 
 > “In 1982, the term “service design” was coined by Lynn Shostack. It was proposed that a business should develop a “service blueprint” which details the processes within a company and how each process interacts with other processes.”
 
-Lynn Shostack later wrote an article for the [Harvard Business Review](https://hbr.org/1984/01/designing-services-that-deliver) which evangelized service design methodology and the service blueprint.  
+Lynn Shostack later wrote an article for the [Harvard Business Review](https://hbr.org/1984/01/designing-services-that-deliver/?target=_blank) which evangelized service design methodology and the service blueprint.  
 
 For the purposes of digital product and software practices, the Service Blueprint is an applied process chart which holistically dissects a particular operational workflow, product offering, business structure, or the like. The blueprint is always mapped from a people perspective providing empathy and shared understanding of the user, business, technical, and support actions for process steps, all in one easy to digest chart.
 
@@ -46,15 +46,11 @@ The example below is a simple overview for the end result of a Service Blueprint
 
 NOTE: Multiple users are usually added to the People actions because more than one user is often needed to complete a process step. A couple users make for a simple blueprint in a quick amount of activity time, while an increased number of users make for a more complex blueprint which will take longer to create.
 
-
-
 ## Why do a Service Blueprint?
 
 This versatile activity can help identify process problem areas and growth opportunities for business operational workflows, a new or existing product offering, as well as the business structure of a startup or established company. The chart is meant to be flexible with the type of process reviewed and project needs.
 
 The blueprint will quickly point out assumptions and unknowns about a process across all business units, plus discover any confusion or misinterpretations within the process steps. This information can drive exploratory and validation research with users along with necessary technical and business research, to later define opportunities, strategy and solutions.
-
-
 
 ## How to do a Service Blueprint?
 
@@ -98,15 +94,11 @@ This is nicely explained while doing a quick whiteboard sketch to talk through t
 
 **Tip #6: **Reference the blueprint after conducting research and update it based upon findings. It will be easier to do so if the blueprint is digitized after the initial activity. 
 
-
-
 ## Outcomes
 
 A user-centered chart with holistic views across all business units required to deliver the process being reviewed. This includes a detailed contextual understanding of process unknowns, problems and opportunities, plus empathy for the people responsible for each step. This information can be used for research efforts and strategy development. 
 
 Service blueprinting is a fun, collaborative activity that can truly drive direction for many projects,  plus the chart deliverable resonates well with stakeholders. 
-
-
 
 ## ‘Process’ Examples
 
@@ -114,8 +106,6 @@ Service blueprinting is a fun, collaborative activity that can truly drive direc
 * Software as a Service: User Journey Process
 * Service Organization: Customer Experience Process
 * Startup Company: Entire Business Process
-
-
 
 ## Facilitation Notes
 
@@ -142,23 +132,19 @@ It is encouraged to experiment with the type of process reviewed. This activity 
 * or Sticky notes (multiple colors) & Sharpies
 * Camera(s) for documenting
 
-
-
 ## Resource Links
 
-[Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
+[Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation/?target=_blank)
 
-[Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint)
+[Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint/?target=_blank)
 
-[Service Design Wiki](https://en.wikipedia.org/wiki/Service_design)
+[Service Design Wiki](https://en.wikipedia.org/wiki/Service_design/?target=_blank)
 
-[RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint/)
+[RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint/?target=_blank)
 
-[Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/)
+[Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/?target=_blank)
 
-[Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint target="_blank")
-
-
+[Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint/?target=_blank)
 
 ## Related Practices
 
