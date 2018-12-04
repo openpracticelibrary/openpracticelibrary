@@ -84,7 +84,9 @@ Some facilitator tips that are good to consider include:
 
 This is nicely explained while doing a quick whiteboard sketch to talk through the analogy and referencing the blueprint template.
 
-\[INSERT SKETCH OF LIVE THEATER ANALOGY]
+
+
+![blueprint concept sketch](/images/blueprint_concept_sketch.jpg)
 
 **Tip #3:** When the service blueprint activity begins, make sure to talk through each vertical step of the process chart out loud prior to documenting. This will ensure alignment and shared decision making. 
 
