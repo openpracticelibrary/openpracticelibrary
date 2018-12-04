@@ -92,7 +92,7 @@ This is nicely explained while doing a quick whiteboard sketch to talk through t
 
 **Tip #4: **Be visual and use drawings whenever possible to represent the information shared, this will create an easy to reference chart (e.g. draw a cell phone when referring to this as physical evidence or draw a database symbol to reference this in back-stage actions). Also, use multiple colored pens to highlight certain areas of interest with each step, either with notes, boxes, dashed lines, etc.. For example, Red can quickly identify unknowns or problems and maybe Blue can identify opportunities, etc.. Draw a ‘key’ in one corner of the blueprint for viewers to understand symbols and color coding.
 
-**Tip #5: **If the blueprint sketch can not stay in the scheduled work area, digitize it and print it as a large poster this will go a long way as point of reference and makes a nice centerpiece for project presentations. Also, be sure to capture pictures through the activity, including panoramic shots! A timelapse might be nice too. 
+**Tip #5: **If the blueprint sketch can not stay in the scheduled work area, digitize it and print it as a large poster this will go a long way as point of reference and makes a nice centerpiece for project presentations. Also, be sure to capture pictures through the activity, including panoramic shots! A time-lapse might be nice too. 
 
 **Tip #6: **Reference the blueprint after conducting research and update it based upon findings. It will be easier to do so if the blueprint is digitized after the initial activity. 
 
@@ -136,22 +136,16 @@ It is encouraged to experiment with the type of process reviewed. This activity 
 
 ## Resource Links
 
-[Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation/?target=_blank)
-
-[Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint/?target=_blank)
-
-[Service Design Wiki](https://en.wikipedia.org/wiki/Service_design/?target=_blank)
-
-[RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint/?target=_blank)
-
-[Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/?target=_blank)
-
-[Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint/?target=_blank)
+* [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation/?target=_blank)
+* [Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint/?target=_blank)
+* [Service Design Wiki](https://en.wikipedia.org/wiki/Service_design/?target=_blank)
+* [RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint/?target=_blank)
+* [Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/?target=_blank)
+* [Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint/?target=_blank)
 
 ## Related Practices
 
-[Event Storming](https://openpracticelibrary.com/practice/event-storming)
-
-[Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping)
+* [Event Storming](https://openpracticelibrary.com/practice/event-storming)
+* [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping)
 
 ##
