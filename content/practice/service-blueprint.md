@@ -60,176 +60,110 @@ The blueprint will quickly point out assumptions and unknowns about a process ac
 
 It is important to have primary users identified prior to starting the blueprint but some exploration of secondary or tertiary persona groups will be done with the activity. Focus on one (1) main process per service blueprint, prioritized by the top user/business problems to be solved. Follow these steps to initiate and develop blueprint:
 
-Step #1: Book a work area with a large whiteboard or flat wall surface to create the blueprint. It is ideal if the chart can remain in this area for the length of the project because it is often referenced with later activities.
+**Step #1: **Book a work area with a large whiteboard or flat wall surface to create the blueprint. It is ideal if the chart can remain in this area for the length of the project because it is often referenced with later activities.
 
-Step #2: Before the activity starts create a large physical template for the Service Blueprint chart. If a whiteboard is used make a grid with painters tape to mark off areas for Physical Evidence, People, a Line of Interaction, Front-stage, a Line of Visibility, Back-stage, a Line of Internal Interaction, and Support Channels. Be sure to leave extra space in the height of the action sections (especially People) for adding multiple rows. If a flat wall surface is available butcher paper and sticky notes will also work well.
+**Step #2: **Before the activity starts create a large physical template for the Service Blueprint chart. If a whiteboard is used make a grid with painters tape to mark off areas for Physical Evidence, People, a Line of Interaction, Front-stage, a Line of Visibility, Back-stage, a Line of Internal Interaction, and Support Channels. Be sure to leave extra space in the height of the action sections (especially People) for adding multiple rows. If a flat wall surface is available butcher paper and sticky notes will also work well.
 
+**Step #3: **Gather project team to the area and walk through an overview of the Service Blueprint template and why it will be helpful in reaching goals. Talk through the how-to instructions and ensure the team is aligned on guidelines. Also, see Tip #2 below for an easy way to introduce the blueprint concept. 
 
+**Step #4: **As a team review and align on the business process that will be dissected for this service blueprint activity. Discuss the People who are involved with this process so there is consensus on the actions being considered. The chart is flexible and can unfold a simple or complex process depending on needs of the project. 
 
-Step #3: Gather project team to the area and walk through an overview of the Service Blueprint template and why it will be helpful in reaching goals. Talk through the how-to instructions and ensure the team is aligned on guidelines. Also, see Tip #2 below for an easy way to introduce the blueprint concept. 
+**Step #5: **Facilitate the first step in the process by identifying each section of the blueprint as a vertical slice, ensure the team focuses on just one step at a time. With Front-stage consider tools such as email, interfaces or internal/external tools needed, etc., to complete the step.
 
+* Often new users or front/back-stage requirements come up further along in the process chart so leave room for adding new rows.
+* For Physical Evidence consider hardware and devices, or anything tangible and draw a small picture of these items in the row.
+* For People make sure to first focus upon primary users of the action, then add each user in a new row, to complete the step. The action steps can be drawn like a user flow diagram. 
+* With Back-stage consider what makes the Front-stage feasible consider which databases or servers are required, etc.. These sections are usually drawn like an information architecture diagram. 
+* With Support Channels think of help systems, chat, or third-parties that help deliver that step. 
 
-
-Step #4: As a team review and align on the business process that will be dissected for this service blueprint activity. Discuss the People who are involved with this process so there is consensus on the actions being considered. The chart is flexible and can unfold a simple or complex process depending on needs of the project. 
-
-
-
-Step #5: Facilitate the first step in the process by identifying each section of the blueprint as a vertical slice, ensure the team focuses on just one step at a time. With Front-stage consider tools such as email, interfaces or internal/external tools needed, etc., to complete the step.
-
-
-
-Often new users or front/back-stage requirements come up further along in the process chart so leave room for adding new rows.
-
-
-
-
-
-For Physical Evidence consider hardware and devices, or anything tangible and draw a small picture of these items in the row.
-
-For People make sure to first focus upon primary users of the action, then add each user in a new row, to complete the step. The action steps can be drawn like a user flow diagram. 
-
-With Back-stage consider what makes the Front-stage feasible consider which databases or servers are required, etc.. These sections are usually drawn like an information architecture diagram. 
-
-With Support Channels think of help systems, chat, or third-parties that help deliver that step. 
-
-
-
-Step #6: Take turns facilitating steps of the process chart and try to give everyone on the team a chance to work through at least one step. Or if the group is less inclined to collaborate feel free to use one facilitator for the entire blueprint.
-
-
+**Step #6: **Take turns facilitating steps of the process chart and try to give everyone on the team a chance to work through at least one step. Or if the group is less inclined to collaborate feel free to use one facilitator for the entire blueprint.
 
 Some facilitator tips that are good to consider include:
 
+**Tip #1: **Use different widths or colors of painters tape to separate the sections for Actions from Lines. Sometimes the blueprint length extends longer than anticipated (depending on number of process steps) so keep tape or butcher paper handy if that happens.
 
+**Tip #2: **Introducing the Service Blueprint can be a complex concept to adapt. Using a simple metaphor is a good way to overview the activity for a project team. As with some other user related tasks, the analogy of Live Theater works quite well. The story is usually shared via improv but goes something like this: 
 
-Tip #1: Use different widths or colors of painters tape to separate the sections for Actions from Lines. Sometimes the blueprint length extends longer than anticipated (depending on number of process steps) so keep tape or butcher paper handy if that happens.
-
-
-
-Tip #2: Introducing the Service Blueprint can be a complex concept to adapt. Using a simple metaphor is a good way to overview the activity for a project team. As with some other user related tasks, the analogy of Live Theater works quite well. The story is usually shared via improv but goes something like this: 
-
-
-
-On stage facing the audience (is the Front-stage) then there are actors (the People) who use props (their Physical Evidence) to act out scenes (the Steps) in a play (our Process). Behind the curtains (which is the Line of Visibility) many tasks produce the play (which is the Back-stage). Also there are partners who keep the theater operating (the Support Channels). 
-
-
+> On stage facing the audience (is the Front-stage) then there are actors (the People) who use props (their Physical Evidence) to act out scenes (the Steps) in a play (our Process). Behind the curtains (which is the Line of Visibility) many tasks produce the play (which is the Back-stage). Also there are partners who keep the theater operating (the Support Channels). 
 
 This is nicely explained while doing a quick whiteboard sketch to talk through the analogy and referencing the blueprint template.
 
-
-
 \[INSERT SKETCH OF LIVE THEATER ANALOGY]
 
+**Tip #3:** When the service blueprint activity begins, make sure to talk through each vertical step of the process chart out loud prior to documenting. This will ensure alignment and shared decision making. 
 
+**Tip #4: **Be visual and use drawings whenever possible to represent the information shared, this will create an easy to reference chart (e.g. draw a cell phone when referring to this as physical evidence or draw a database symbol to reference this in back-stage actions). Also, use multiple colored pens to highlight certain areas of interest with each step, either with notes, boxes, dashed lines, etc.. For example, Red can quickly identify unknowns or problems and maybe Blue can identify opportunities, etc.. Draw a ‘key’ in one corner of the blueprint for viewers to understand symbols and color coding.
 
-Tip #3: When the service blueprint activity begins, make sure to talk through each vertical step of the process chart out loud prior to documenting. This will ensure alignment and shared decision making. 
+**Tip #5: **If the blueprint sketch can not stay in the scheduled work area, digitize it and print it as a large poster this will go a long way as point of reference and makes a nice centerpiece for project presentations. Also, be sure to capture pictures through the activity, including panoramic shots! A timelapse might be nice too. 
 
-
-
-Tip #4: Be visual and use drawings whenever possible to represent the information shared, this will create an easy to reference chart (e.g. draw a cell phone when referring to this as physical evidence or draw a database symbol to reference this in back-stage actions). Also, use multiple colored pens to highlight certain areas of interest with each step, either with notes, boxes, dashed lines, etc.. For example, Red can quickly identify unknowns or problems and maybe Blue can identify opportunities, etc.. Draw a ‘key’ in one corner of the blueprint for viewers to understand symbols and color coding.
-
-
-
-Tip #5: If the blueprint sketch can not stay in the scheduled work area, digitize it and print it as a large poster this will go a long way as point of reference and makes a nice centerpiece for project presentations. Also, be sure to capture pictures through the activity, including panoramic shots! A timelapse might be nice too. 
+**Tip #6: **Reference the blueprint after conducting research and update it based upon findings. It will be easier to do so if the blueprint is digitized after the initial activity. 
 
 
 
-Tip #6: Reference the blueprint after conducting research and update it based upon findings. It will be easier to do so if the blueprint is digitized after the initial activity. 
-
-Outcomes
+## Outcomes
 
 A user-centered chart with holistic views across all business units required to deliver the process being reviewed. This includes a detailed contextual understanding of process unknowns, problems and opportunities, plus empathy for the people responsible for each step. This information can be used for research efforts and strategy development. 
 
-
-
 Service blueprinting is a fun, collaborative activity that can truly drive direction for many projects,  plus the chart deliverable resonates well with stakeholders. 
 
-‘Process’ Examples
 
-Enterprise B2B Application: Employee Workflow Process
 
-Software as a Service: User Journey Process
+## ‘Process’ Examples
 
-Service Organization: Customer Experience Process
+* Enterprise B2B Application: Employee Workflow Process
+* Software as a Service: User Journey Process
+* Service Organization: Customer Experience Process
+* Startup Company: Entire Business Process
 
-Startup Company: Entire Business Process
 
-Facilitation Notes
 
-Prerequisite Knowledge
+## Facilitation Notes
 
+**Prerequisite Knowledge**\
 It is best if an understanding of the people ecosystem and primary users is known ahead of this activity. A priority of top user and business problems to solve should also be established. Spend time before starting the blueprint to determine one (1) main process to focus upon which aligns with the primary users and prioritized problems.
 
+**Supply list for whiteboard:**
 
+* Painters Tape (1” for Action rows, ¼” for Lines rows)
+* Dry Erase pens (multiple colors)
+* Camera(s) for documenting
+* Sticky notes & Sharpies for good measure
 
-Supply list for whiteboard:
+**Supply list for wall space: **
 
-Painters Tape (1” for Action rows, ¼” for Lines rows)
+* Butcher Paper (white is best - might need two rows of paper)
+* Markers (multiple colors) 
+* or Sticky notes (multiple colors) & Sharpies
+* Camera(s) for documenting
 
-Dry Erase pens (multiple colors)
-
-Camera(s) for documenting
-
-Sticky notes & Sharpies for good measure
-
-
-
-Supply list for wall space: 
-
-Butcher Paper (white is best - might need two rows of paper)
-
-Markers (multiple colors) 
-
-or Sticky notes (multiple colors) & Sharpies
-
-Camera(s) for documenting
-
-
-
-Deliverable
-
+**Deliverable**\
 The level of  final chart fidelity should be determined by project requirements and goals, this blueprint can be reviewed as a photograph, digitized and shared virtually, or printed as a poster and displayed. 
 
-
-
-Experimentation
-
+**Experimentation**\
 It is encouraged to experiment with the type of process reviewed. This activity works well for all industries and business categories.
 
-Resource Links
 
-Service Blueprints: Laying the Foundation
 
-https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
+## Resource Links
 
-Service Blueprint Wiki
+[Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
 
-https://en.wikipedia.org/wiki/Service_blueprint
+[Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint)
 
-Service Design Wiki
+[Service Design Wiki](https://en.wikipedia.org/wiki/Service_design)
 
-https://en.wikipedia.org/wiki/Service_design
+[RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint/)
 
-RealtimeBoard Blueprint Free Template
+[Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/)
 
-https://realtimeboard.com/examples/service-blueprint/
+[Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint)
 
-Practical Service Design Free Resources
 
-http://www.practicalservicedesign.com/resources/
 
-Mural.co Blueprint Free Template
+## Related Practices
 
-https://mural.co/templates/service-blueprint
+[Event Storming](https://openpracticelibrary.com/practice/event-storming)
 
-Related Practices
-
-Event Storming
-
-https://openpracticelibrary.com/practice/event-storming
-
-Impact Mapping
-
-https://openpracticelibrary.com/practice/impact-mapping
+[Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping)
 
 ##
