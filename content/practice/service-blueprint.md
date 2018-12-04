@@ -122,6 +122,12 @@ Service blueprinting is a fun, collaborative activity that can truly drive direc
 **Prerequisite Knowledge**\
 It is best if an understanding of the people ecosystem and primary users is known ahead of this activity. A priority of top user and business problems to solve should also be established. Spend time before starting the blueprint to determine one (1) main process to focus upon which aligns with the primary users and prioritized problems.
 
+**Deliverable**\
+The level of  final chart fidelity should be determined by project requirements and goals, this blueprint can be reviewed as a photograph, digitized and shared virtually, or printed as a poster and displayed. 
+
+**Experimentation**\
+It is encouraged to experiment with the type of process reviewed. This activity works well for all industries and business categories.
+
 **Supply list for whiteboard:**
 
 * Painters Tape (1” for Action rows, ¼” for Lines rows)
@@ -135,12 +141,6 @@ It is best if an understanding of the people ecosystem and primary users is know
 * Markers (multiple colors) 
 * or Sticky notes (multiple colors) & Sharpies
 * Camera(s) for documenting
-
-**Deliverable**\
-The level of  final chart fidelity should be determined by project requirements and goals, this blueprint can be reviewed as a photograph, digitized and shared virtually, or printed as a poster and displayed. 
-
-**Experimentation**\
-It is encouraged to experiment with the type of process reviewed. This activity works well for all industries and business categories.
 
 
 
@@ -156,7 +156,7 @@ It is encouraged to experiment with the type of process reviewed. This activity 
 
 [Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/)
 
-[Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint)
+[Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint target="_blank")
 
 
 
