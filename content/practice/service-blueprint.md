@@ -90,11 +90,11 @@ This is nicely explained while doing a quick whiteboard sketch to talk through t
 
 **Tip #3:** When the service blueprint activity begins, make sure to talk through each vertical step of the process chart out loud prior to documenting. This will ensure alignment and shared decision making. 
 
-**Tip #4: **Be visual and use drawings whenever possible to represent the information shared, this will create an easy to reference chart (e.g. draw a cell phone when referring to this as physical evidence or draw a database symbol to reference this in back-stage actions). Also, use multiple colored pens to highlight certain areas of interest with each step, either with notes, boxes, dashed lines, etc.. For example, Red can quickly identify unknowns or problems and maybe Blue can identify opportunities, etc.. Draw a ‘key’ in one corner of the blueprint for viewers to understand symbols and color coding.
+**Tip #4:** Be visual and use drawings whenever possible to represent the information shared, this will create an easy to reference chart (e.g. draw a cell phone when referring to this as physical evidence or draw a database symbol to reference this in back-stage actions). Also, use multiple colored pens to highlight certain areas of interest with each step, either with notes, boxes, dashed lines, etc.. For example, Red can quickly identify unknowns or problems and maybe Blue can identify opportunities, etc.. Draw a ‘key’ in one corner of the blueprint for viewers to understand symbols and color coding.
 
-**Tip #5: **If the blueprint sketch can not stay in the scheduled work area, digitize it and print it as a large poster this will go a long way as point of reference and makes a nice centerpiece for project presentations. Also, be sure to capture pictures through the activity, including panoramic shots! A time-lapse might be nice too. 
+**Tip #5:** If the blueprint sketch can not stay in the scheduled work area, digitize it and print it as a large poster this will go a long way as point of reference and makes a nice centerpiece for project presentations. Also, be sure to capture pictures through the activity, including panoramic shots! A time-lapse might be nice too. 
 
-**Tip #6: **Reference the blueprint after conducting research and update it based upon findings. It will be easier to do so if the blueprint is digitized after the initial activity. 
+**Tip #6:** Reference the blueprint after conducting research and update it based upon findings. It will be easier to do so if the blueprint is digitized after the initial activity. 
 
 ## Outcomes
 
@@ -127,7 +127,7 @@ It is encouraged to experiment with the type of process reviewed. This activity 
 * Camera(s) for documenting
 * Sticky notes & Sharpies for good measure
 
-**Supply list for wall space: **
+**Supply list for wall space:**
 
 * Butcher Paper (white is best - might need two rows of paper)
 * Markers (multiple colors) 
@@ -147,5 +147,3 @@ It is encouraged to experiment with the type of process reviewed. This activity 
 
 * [Event Storming](https://openpracticelibrary.com/practice/event-storming)
 * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping)
-
-##
