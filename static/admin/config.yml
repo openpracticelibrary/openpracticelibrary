@@ -25,7 +25,7 @@ collections:
           {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
           {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
           {label: "Foundation - Technical",  value: "foundation-technical"}]}
-      - {label: "Related Perspectives", hint: "Comma-separated list of slugs e.g., domain-driven-design, product-ownership", name: "perspectives", widget: "list", default: []}
+      - {label: "Related Perspectives", hint: "Comma-separated list of slugs e.g., domain-driven-design, product-ownership", name: "perspectives", widget: "list", default: [], required: false}
       - {label: "Tile icon", name: "icon", hint: "Icon to be used on the home screen and cards for the practice", widget: "image", required: false}
       - {label: "Jumbotron image", hint: "Large full width image for under the titles", name: "jumbotron", widget: "image", required: false}
       - {label: "Jumbotron alt text", hint: "Accessible description of the image for screen readers", name: "jumbotronAlt", widget: "string", required: false}
