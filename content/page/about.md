@@ -21,9 +21,6 @@ Describe how people in this community use practices to accomplish engagement suc
 #### Search with Intent
 Share details about a particular practice that community members use, learn perspectives on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
 
-## What This Library *Is*
-Just enough information for each practice to "specify the end state, its purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
-
 ## How to Fit These Practices into Your Existing Approach
 While everybody has their approach to engagements, there is a need to identify particular outcomes that common practices look to accomplish.
 
