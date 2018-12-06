@@ -25,4 +25,4 @@ To contribute content, [log into the CMS](/admin/), or click the "add new practi
 
 To learn more about contributing code, see [DEVELOPING.md](https://github.com/openpracticelibrary/openpracticelibrary/blob/staging/DEVELOPING.md).
 
-We look forward to working together to move the Open Practice Library forward!
+We look forward to working with you to move the Open Practice Library forward!
