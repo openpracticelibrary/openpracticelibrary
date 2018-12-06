@@ -17,9 +17,9 @@ Welcome! Thank you for taking the time to contribute. This project relies on an 
 This project is governed by our [Code of Conduct](https://github.com/openpracticelibrary/openpracticelibrary/blob/staging/CODE_OF_CONDUCT.md). All participants are expected to uphold this code. Violations of the code can be reported by contacting the project team at
 [report@openpracticelibrary.com](mailto:report@openpracticelibrary.com).
 
-## Contributing
+## Getting Started
 
-To let us know about something that you'd like to see added or improved [open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) on GitHub.
+To let us know about something that you'd like to see added or improved, [open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) on GitHub.
 
 To contribute content, [log into the CMS](/admin/), or click the "add new practice" or "improve this practice" buttons throughout the site. For more information, see [Editorial Style](/editorial/) and [Using the CMS](/cms/).
 
