@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: rdebeasi/openpracticelibrary
+  repo: openpracticelibrary/openpracticelibrary
   branch: staging
 
 publish_mode: editorial_workflow
