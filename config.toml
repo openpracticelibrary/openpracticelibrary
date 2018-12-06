@@ -21,7 +21,7 @@ customCSS = [
 
 [[menu.main]]
   name = "Perspectives"
-  weight = 3
+  weight = 6
   identifier = "Perspectives"
   url = "/perspective/"
 
