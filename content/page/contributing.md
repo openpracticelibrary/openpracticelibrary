@@ -7,7 +7,7 @@ date: 2017-10-19T21:03:59.000Z
 menu: main
 weight: 5
 aliases:
-  - /contributing/
+  - /contribution-guide/
 ---
 
 Welcome! Thank you for taking the time to contribute. This project relies on an active and involved community, and we really appreciate your support.
