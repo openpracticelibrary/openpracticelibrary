@@ -3,8 +3,6 @@ title: Editorial Style
 authors:
   - rdebeasi
   - alexismonville
-menu: main
-weight: 0
 ---
 
 ## Tone

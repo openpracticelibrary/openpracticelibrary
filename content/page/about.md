@@ -8,6 +8,8 @@ authors:
 date: 2017-10-19T21:03:59.000Z
 menu: main
 weight: 4
+aliases:
+  /about/
 ---
 
 ## Goals of this Library
