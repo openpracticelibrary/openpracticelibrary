@@ -6,8 +6,6 @@ authors:
 date: 2017-10-19T21:03:59.000Z
 ---
 
-# Netlify CMS Instructions
-
 This documentation covers using Netlify CMS to write content for the Open Practice Library. At a high level the workflow is fairly simple:
 
 1. On a practice page or the home page hit the `Improve` or `Add new` button to launch the CMS.
