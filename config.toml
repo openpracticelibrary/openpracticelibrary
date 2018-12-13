@@ -20,19 +20,25 @@ customCSS = [
 ]
 
 [[menu.main]]
-  name = "Perspectives"
-  weight = 6
-  identifier = "Perspectives"
-  url = "/perspective/"
+name = "Perspectives"
+weight = 5
+identifier = "Perspectives"
+url = "/perspective/"
 
 [[menu.main]]
-  name = "GitHub"
-  weight = 2
-  identifier = "GitHub"
-  url = "https://github.com/openpracticelibrary/openpracticelibrary"
+name = "GitHub"
+weight = 2
+identifier = "GitHub"
+url = "https://github.com/openpracticelibrary/openpracticelibrary"
 
 [[menu.main]]
-  name = "Gitter"
-  weight = 1
-  identifier = "Gitter"
-  url = "https://gitter.im/openpracticelibrary/"
+name = "Gitter"
+weight = 1
+identifier = "Gitter"
+url = "https://gitter.im/openpracticelibrary/"
+
+[[menu.main]]
+name = "What's New"
+weight = 0
+identifier = "What's New"
+url = "https://github.com/openpracticelibrary/openpracticelibrary/pulls?q=is%3Apr+is%3Aclosed+base%3Amaster"
