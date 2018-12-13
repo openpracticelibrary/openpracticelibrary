@@ -7,7 +7,9 @@ authors:
   - mtakane
 date: 2017-10-19T21:03:59.000Z
 menu: main
-weight: 6
+weight: 3
+aliases:
+  /about/
 ---
 
 ## Goals of this Library
@@ -20,26 +22,6 @@ Describe how people in this community use practices to accomplish engagement suc
 
 #### Search with Intent
 Share details about a particular practice that community members use, learn perspectives on a particular practice and why practices are used, pointers on how to facilitate it, and when it should be employed.
-
-## What This Library *Is*
-Just enough information for each practice to "specify the end state, its purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
-
-## What A Practice *Is*
-A practice is an exercise or an approach that we propose the reader to apply systematically to achieve specific goals.
-Practices have the following important characteristics:
-- Structured (they consist of rigorously defined, often discrete and systematic steps)
-- Replicable (they're reproducible or repeatable across situations or contexts)
-- Learned (they're not innate but rather habituated—and thus teachable!)
-
-## Contributing
-
-We'd love to hear your thoughts about the material presented here or other content you'd like to add. [Open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) and we can go from there.
-
-Alternately, feel free to fork our [github repo](https://github.com/openpracticelibrary/openpracticelibrary) and submit a PR of your proposed changes. We use markdown files for our base content that gets rendered for this site. For helpful development setup see our [README](https://github.com/openpracticelibrary/openpracticelibrary/blob/master/README.md)
-
-## Style
-
-We're looking to be friendly and also authoritative, comprehensive and also concise. We use the active voice where possible to help guide teams to action. We don't always get it right, though. If you find something that could be clearer or punchier, feel free to send us a merge request!
 
 ## How to Fit These Practices into Your Existing Approach
 While everybody has their approach to engagements, there is a need to identify particular outcomes that common practices look to accomplish.
@@ -64,8 +46,6 @@ Practices are identified on one of areas of the canvas:
 6. The "Culture & Collaboration" area of the Foundation layer - Culture practices help provide the environment, establish team relationships, mindset and engagement to facilitate a smooth and continuous journey round Discovery and Delivery loops. Collaboration practices help facilitate conversation and alignment in a transparent and open manner facilitating successful Discovery and Delivery practices to be effective.
 
 7. The "Technical" area of the Foundation layer - Technical practices enable the successful continuous and sustainable delivery of value from teams working on the discovery and delivery loops above.
-
-
 
 ## Other Libraries That Inspired Us
 

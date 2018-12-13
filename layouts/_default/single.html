@@ -107,7 +107,7 @@
     {{ if eq .Type "perspective" }}
       This {{ .Type }} contains:
       <ul>
-        {{ range where .Site.Pages "Params.perspectives" "intersect" ( slice .Source.BaseFileName ) }}
+        {{ range where .Site.Pages "Params.perspectives" "intersect" ( slice .File.BaseFileName ) }}
           <li>{{ partial "link.html" . }}</li>
         {{ end }}
       </ul>
