@@ -36,8 +36,6 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 * Some sort of prioritization of scope and/or impacts
 * A physical or digital diagram with the above information
 
-
-
 ## Why use Impact Mapping?
 
 * Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
@@ -100,5 +98,6 @@ Physical Variation:
 3. <a name="footnote-3"></a>[Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
 4. Short [video introduction](https://www.youtube.com/watch?v=y4Rj05YVg_E)
 5. [Site on Impact Mapping](https://www.impactmapping.org/)
-6. [Blog post](https://opensource.com/open-organization/17/6/experiment-impact-mapping) on Using Impact Mapping to foster innovation
-7. [Management by Intent](https://www.youtube.com/watch?v=OqmdLcyES_Q), David Marquet, which can explain why and how Impact Mapping can be used by leaders
+6. Gojko's [Facilitation Games](https://github.com/impactmapping/open-impact-mapping-workshop/tree/master/facilitation-games), to help people properly identify Actors and Impacts
+7. [Blog post](https://opensource.com/open-organization/17/6/experiment-impact-mapping) on Using Impact Mapping to foster innovation
+8. [Management by Intent](https://www.youtube.com/watch?v=OqmdLcyES_Q), David Marquet, which can explain why and how Impact Mapping can be used by leaders
