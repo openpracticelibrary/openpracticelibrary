@@ -19,12 +19,9 @@ customCSS = [
   "https://fonts.googleapis.com/css?family=Arimo:400,700"
 ]
 
-[permalinks]
-page = "/:slug/"
-
 [[menu.main]]
   name = "Perspectives"
-  weight = 3
+  weight = 6
   identifier = "Perspectives"
   url = "/perspective/"
 

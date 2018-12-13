@@ -1,14 +1,10 @@
 ---
-title: Contribution Guide
+title: Using the CMS
 authors:
   - rdebeasi
   - springdo
 date: 2017-10-19T21:03:59.000Z
-menu: main
-weight: 0
 ---
-
-# Netlify CMS Instructions
 
 This documentation covers using Netlify CMS to write content for the Open Practice Library. At a high level the workflow is fairly simple:
 
@@ -65,21 +61,6 @@ You can use the first steps in the above workflow to edit content.  Select the p
 An email will be sent to the moderators who will approve the change.
 
 #### Guidance for Content Writers
-
-##### A practice _must_ be
-
-- **Empowering** - It helps teams discover and deliver iteratively.
-- **Concise** - It can be read in a few minutes.
-- **Agnostic** - It doesn't require the team to follow a specific project management framework.
-- **Proven** - It has been tested in the real world by the practice author.
-
-##### A practice _should_ be
-
-- **Approachable** - It can be understood by someone who's not an expert in project management.
-- **Visual** - It includes images and videos.
-- **Accessible** - It includes alt text for images and captions for videos.
-- **Novel** - It isn't already covered by another practice.
-- **Deep** - It provides links to related resources, examples, and other materials for readers who want to explore further.
 
 A simple template is shown below which contains some example headers for use when creating a new `Practice` within the Library.
 
