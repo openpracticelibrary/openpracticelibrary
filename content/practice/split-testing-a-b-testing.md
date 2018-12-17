@@ -1,6 +1,6 @@
 ---
 title: Split Testing - A/B Testing
-subtitle: The easiest path to validate learning
+subtitle: The easiest path to validated learning
 date: 2018-12-17T22:03:07.370Z
 authors:
   - valyonchev
