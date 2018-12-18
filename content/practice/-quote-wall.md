@@ -1,7 +1,6 @@
 ---
 title: '"Quote" Wall'
-subtitle: >-
-  A collection of various motivational, inspiring, or down-right hilarious
+subtitle: A collection of various motivational, inspiring, or down-right hilarious
   quotes! 
 date: 2018-12-21T19:34:53.480Z
 authors:
