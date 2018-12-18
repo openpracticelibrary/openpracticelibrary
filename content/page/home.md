@@ -2,7 +2,7 @@
 title: Home
 menu: main
 url: /
-weight: 5
+weight: 6
 type: "home"
 ---
 
@@ -21,4 +21,4 @@ These are connected with an infinity loop called Mobius. In addition to this is 
 #### Our Mission
 This Library is intended to be a wealth of knowledge on product Discovery and Delivery practices to be adopted and evolved by a positive, engaged and supportive global community.
 
-Get started with the practices below or [learn more about this library](/about) and how to contribute to it.
+[Learn more about this library](/about) and how to contribute to it, or [see what's new](https://github.com/openpracticelibrary/openpracticelibrary/pulls?q=is%3Apr+is%3Aclosed+base%3Amaster).
