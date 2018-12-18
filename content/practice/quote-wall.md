@@ -6,8 +6,6 @@ authors:
   - pcarney8
 area: foundation-culture-and-collaboration
 perspectives:
-  - team-sentiment
-  - team-shared-history
 icon: /images/post-it-notes-1284667_1920.jpg
 jumbotron: /images/post-it-notes-1284667_1920.jpg
 people: 2+
