@@ -19,7 +19,6 @@ participants:
   - Directors
   - Architects and the Team
 ---
-
 ## What is it?
 
 Value Stream Mapping (VSM) and Metrics-Based Process Mapping (MBPM) are third generation lean process improvement techniques, optimized for an extended organizational transformation effort. They work in tandem, where VSM is designed to view the big, macro picture and make strategic decisions with executives, and MBPM is designed to view the detailed, micro picture and make tactical improvements with front line workers. The first generation of these techniques comes from Toyota's "information and material flow" (as documented in Lean Thinking[<sup>1</sup>](#footnote-1) and the second generation from Learning to See[<sup>2</sup>](#footnote-2).
@@ -30,43 +29,44 @@ In the context of software delivery, VSM & MBPM are excellent tools to holistica
 
 Being derived from Lean Manufacturing, VSM & MBPM visually represent the way work flows through an organization, at both a macro and micro level, from the time a customer requests a good/service, until the time a customer receives the good/service. When used together, these tools are particularly effective at:
 
-- building shared understand throughout the various levels of an organization how work is actually done
-- creating the urgency for improvement
-- formulating specific, data driven improvement plans
-- preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process
-
+* building shared understand throughout the various levels of an organization how work is actually done
+* creating the urgency for improvement
+* formulating specific, data driven improvement plans
+* preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process
 
 ## Facilitation Materials Needed
 
 Some teams prefer whiteboards, but the most common approach uses paper and PostIts
 
-- Drawing paper roll[<sup>3</sup>](#footnote-3).
-- Different colored wide format sticky notes like the 4x6 sticky notes[<sup>4</sup>](#footnote-4)
-- markers for the PostIts
-- charcoal pencil and eraser[<sup>5</sup>](#footnote-5) to draw lines between PostIts
-- For MBPM; chalk line can be useful, but not required
+* Drawing paper roll[<sup>3</sup>](#footnote-3).
+* Different colored wide format sticky notes like the 4x6 sticky notes[<sup>4</sup>](#footnote-4)
+* markers for the PostIts
+* charcoal pencil and eraser[<sup>5</sup>](#footnote-5) to draw lines between PostIts
+* For MBPM; chalk line can be useful, but not required
 
 ## How does it fit?
 
 Both VSM & MBPM document a current state map, and then design a future state map for subsequent implementation.
-- The current state map is typically done in the Why area of the Discovery of the Open Practice Library.
-- The future state map is typically done as part of the Outcomes area of the Discoery of the Open Practice Library.
+
+* The current state map is typically done in the Why area of the Discovery of the Open Practice Library.
+* The future state map is typically done as part of the Outcomes area of the Discoery of the Open Practice Library.
 
 ## Additional Resources
 
 ### Start With
 
-- [Webinar](https://vimeo.com/149407030) and [Slides](https://www.slideshare.net/KarenMartinGroup/vsmmbpmwhenyouoptforeach) from Karen Martin's Value Stream Mapping and Process Mapping: When to Use Each
+* [Webinar](https://vimeo.com/149407030) and [Slides](https://www.slideshare.net/KarenMartinGroup/vsmmbpmwhenyouoptforeach) from Karen Martin's Value Stream Mapping and Process Mapping: When to Use Each
 
 ### VSM Specific Resources
 
-- [Book](https://www.ksmartin.com/books/value-stream-mapping/) by Karen Martin and Mike Osterling
-- [List of Webinars](https://www.ksmartin.com/webinar/value-stream-mapping/) by Karen Martin
+* [Book](https://www.ksmartin.com/books/value-stream-mapping/) by Karen Martin and Mike Osterling
+* [List of Webinars](https://www.ksmartin.com/webinar/value-stream-mapping/) by Karen Martin
+* [Value Streams are Made of People](https://lizkeogh.com/value-streams-are-made-of-people/) by Liz Keogh
 
 ### MBPM Specific Resources
 
-- [Webinar](https://vimeo.com/54601924) and [Slides](https://www.slideshare.net/KarenMartinGroup/metricsbased-process-mapping-what-when-how) from Karen Martin's Metrics-Based Process Mapping: What, When & How
-- [List of Webinars](https://www.ksmartin.com/webinar/metrics-based-process-mapping/) by Karen Martin
+* [Webinar](https://vimeo.com/54601924) and [Slides](https://www.slideshare.net/KarenMartinGroup/metricsbased-process-mapping-what-when-how) from Karen Martin's Metrics-Based Process Mapping: What, When & How
+* [List of Webinars](https://www.ksmartin.com/webinar/metrics-based-process-mapping/) by Karen Martin
 
 ## External References
 
