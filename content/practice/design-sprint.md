@@ -41,6 +41,40 @@ The aim is to fast-forward into the future to see your finished product and cust
 
 It compresses potentially months of work into one week and importantly tests the design idea and provides real user feedback in rapid fashion.
 
+## How to do a Design Sprint?
+
+### Monday
+
+* Intro
+* How Might We
+* Map
+* Notes Taking
+* Crazy 8's
+* Long Term Goals
+* Sprint Questions
+* Lightning Demos
+* Drawing Ideas
+
+### Tuesday
+
+* Decide on Solution
+* Storyboard design
+* Decider Vote
+* Storyboard Final Walk-through 
+
+### Wednesday
+
+* Prototype creation
+* User test preparation and recruiting 
+
+### Thursday
+
+* Testing with customers
+
+### Friday
+
+* Showcase
+
 ## Further Information
 
 <http://www.gv.com/sprint/>
