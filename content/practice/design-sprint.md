@@ -7,7 +7,7 @@ authors:
 area: discovery-loop-why
 perspectives:
   - ''
-icon: ''
+icon: /images/screenshot-from-2018-12-20-08-55-34.png
 jumbotron: /images/img_20181219_140828.jpg
 jumbotronAlt: Design Sprint
 people: 4-7+
