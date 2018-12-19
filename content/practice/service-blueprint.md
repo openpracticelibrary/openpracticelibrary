@@ -69,7 +69,7 @@ It is important to have primary users identified prior to starting the blueprint
 * Often new users or front/back-stage requirements come up further along in the process chart so leave room for adding new rows.
 * For Physical Evidence consider hardware and devices, or anything tangible and draw a small picture of these items in the row.
 * For People make sure to first focus upon primary users of the action, then add each user in a new row, to complete the step. The action steps can be drawn like a user flow diagram. 
-* With Back-stage consider what makes the Front-stage feasible consider which databases or servers are required, etc.. These sections are usually drawn like an information architecture diagram. 
+* With Back-stage consider what makes the Front-stage feasible. Consider which databases or servers are required, etc. These sections are usually drawn like an information architecture diagram. 
 * With Support Channels think of help systems, chat, or third-parties that help deliver that step. 
 
 **Step #6:** Take turns facilitating steps of the process chart and try to give everyone on the team a chance to work through at least one step. Or if the group is less inclined to collaborate feel free to use one facilitator for the entire blueprint.
