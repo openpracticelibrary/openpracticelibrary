@@ -21,19 +21,13 @@ Canary Release is similar to A/B Testing in the sense that it is only exposing a
 
 Canary Release is similar to the Dark Launch as they both expose only part of the population to a feature. The Dark Launch is focused on understanding the way users will react and use the new feature, while Canary Release is really focused on the technical performance of the changed product or the individual feature (if using a it can be isolated in the architecture).
 
-
-
 The term comes from the use of caged birds in coal mines to discover the build of dangerous gases early on as the gases would kill the bird long before they become life threatening for the miners. As the canary, this release provides an early warning mechanism for avoiding bigger issues. 
-
-
 
 ## Why use it?
 
 This is a feedback loop practice, which allows the team to get prompt feedback from real life use of their changes. It enables the Continuous Delivery. 
 
 The Canary Release provides continuous delivery teams with safety by enabling them to perform a phased roll-out, gradually increasing the number of users on a new version of a product. While rolling out the new version, the team will be closely monitoring the performance of the platform and try to understand the impacts of the new version and assess the risks for adverse effects as regressions, performance, even downtime. This approach allows the team to “roll-back” the release as soon as such adverse effects are observed without the majority of the customers being impacted even for a limited amount of time.
-
-
 
 ## Related Practices
 
