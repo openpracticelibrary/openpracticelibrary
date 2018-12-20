@@ -11,7 +11,7 @@ icon: /images/service_design_blueprint.png
 jumbotron: /images/service_design_blueprint.png
 jumbotronAlt: service blueprint template
 people: 3+
-time: 3+ Hours
+time: 4+ Hours
 difficulty: moderate
 participants:
   - Facilitator(s)
@@ -83,8 +83,6 @@ Some facilitator tips that are good to consider include:
 > On stage facing the audience (is the Front-stage) then there are actors (the People) who use props (their Physical Evidence) to act out scenes (the Steps) in a play (our Process). Behind the curtains (which is the Line of Visibility) many tasks produce the play (which is the Back-stage). Also there are partners who keep the theater operating (the Support Channels). 
 
 This is nicely explained while doing a quick whiteboard sketch to talk through the analogy and referencing the blueprint template.
-
-
 
 ![blueprint concept sketch](/images/blueprint_concept_sketch.jpg)
 
