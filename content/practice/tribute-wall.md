@@ -1,6 +1,6 @@
 ---
 title: Tribute Wall
-subtitle: Share the postive feedback!
+subtitle: Share the positive feedback!
 date: 2018-12-21T06:43:58.099Z
 authors:
   - jonasfrydal
