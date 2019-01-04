@@ -7,13 +7,14 @@ authors:
 area: discovery-loop-outcomes
 perspectives:
   - product-ownership
+icon: /images/matt-botsford-680057-unsplash.jpg
 people: 3+
 time: 30-60 min
 difficulty: easy
 participants:
   - Product Owner
   - UX Designer
-  - All Development and Operations team members
+  - DevOps Team
 ---
 ## What is it?
 
@@ -23,7 +24,7 @@ The method originates from Gary Klein (HBR article) and was made popular by. The
 
 The approach is really simple and transports the team in the distant future in which the product would be launched and failed miserably. The team is asked to describe the reasons, the root causes really behind the notorious failure.
 
-The practice is very similar to the black hat in the Six Thinking Hats brainstorming approach or the News Headlines. The News Headlines is a really a variation of the premortem practice using visual facilitation.
+The practice is very similar to the black hat in the Six Thinking Hats brainstorming approach or the [News Headlines](https://openpracticelibrary.com/practice/news-headlines-aka-cover-story/). The News Headlines is a really a variation of the premortem practice using visual facilitation.
 
 
 
@@ -37,7 +38,7 @@ The benefits of this method when making important product decisions:
 
 * Eliminates groupthink
 * Overcomes blind spots - as planning far ahead tends to introduce risks of overlooking details
-* A psychologically safe way to surface disagreements on important details of the product design - often in lack of psychological safety, people would not point out gaps or deficiencies in the design to avoid appearing as pessimists or getting in a debate over the relevance of their concerns.
+* A psychologically safe way to surface disagreements on important details of the product design - often in lack of psychological safety, people would not point out gaps or deficiencies in the design to avoid appearing as pessimists or getting in a debate over the relevance of their concerns
 
 
 
@@ -62,4 +63,8 @@ It can provide a good approach for [retrospectives](https://openpracticelibrary.
 
 [Thinking Fast And Slow, Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Daniel-Kahneman-2011-10-25/dp/B01FIYNOKU/)
 
-[Gary Klein HBR, Performing a project premortem ](https://hbr.org/2007/09/performing-a-project-premortem)
+[Gary Klein HBR, Performing a project premortem](https://hbr.org/2007/09/performing-a-project-premortem)
+
+
+
+Image credit: Photo by [Matt Botsford](https://unsplash.com/photos/wxuPH6QRvJc) on Unsplash
