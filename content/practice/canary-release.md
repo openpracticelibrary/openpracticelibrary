@@ -46,7 +46,7 @@ Dark Launches
 
 Blue/Green Deployment
 
-Continuous Delivery
+[Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery/)
 
 
 
