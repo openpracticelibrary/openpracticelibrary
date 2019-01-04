@@ -22,15 +22,11 @@ In software development, this is a form of Continuous Delivery in which only a s
 
 The term comes from the use of caged birds in coal mines to discover the build up of dangerous gases early on. The gases would kill the bird long before they become life threatening for the miners. As with the canary in the mine, this release practice provides an early warning mechanism for avoiding bigger issues. 
 
-
-
 ## Why use it?
 
 This is a feedback loop practice, which allows the team to get prompt feedback from real life use of their changes. It enables the Continuous Delivery. 
 
 The Canary Release provides continuous delivery teams with safety by enabling them to perform a phased roll-out, gradually increasing the number of users on a new version of a product. While rolling out the new version, the team will be closely monitoring the performance of the platform and try to understand the impacts of the new version and assess the risks for adverse effects as regressions, performance, even downtime. This approach allows the team to “roll-back” the release as soon as such adverse effects are observed without the majority of the customers being impacted even for a limited amount of time.
-
-
 
 ## Related Practices
 
@@ -48,10 +44,12 @@ Blue/Green Deployment
 
 [Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery/)
 
-
-
 ## Further information
 
 [Blue-green Deployments, A/B Testing, and Canary Releases](http://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/) by Christian Posta
 
 [Canary Release](https://martinfowler.com/bliki/CanaryRelease.html) by Martin Fowler
+
+
+
+Image credit: Photo by [Julia Craice](https://unsplash.com/photos/o0S-0Pa4F2M) on Unsplash
