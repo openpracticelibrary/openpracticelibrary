@@ -4,12 +4,13 @@ subtitle: Which group are you in?
 date: 2018-12-18T18:46:49.760Z
 authors:
   - valyonchev
-area: options
+area: delivery-measure-and-learn
 perspectives:
   - product-ownership
+icon: /images/cohort-analysis.jpg
 people: 2+
-time: 2-10 days
-difficulty: hard
+time: 2-4 hours
+difficulty: moderate
 participants:
   - Product Owner
   - Data Scientist/Analyst
@@ -23,7 +24,7 @@ Instead of treating all users as part of one population, cohort analysis is segm
 
 The discriminating characteristic can be derived from the main personas (e.g. skill level) or from the events and timeline relative to the product (new users, returning users, users from month x, etc.) 
 
-
+![Cohort Analysis](/images/cohort-analysis.jpg "Cohort Analysis")
 
 ## Why use it?
 
@@ -41,7 +42,7 @@ The cohort analysis helps the team understand the impact of product/feature chan
 
 Personas
 
-Design of Experiments
+[Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 
 Funnel Analysis
 
@@ -49,4 +50,4 @@ Funnel Analysis
 
 ## Further information
 
-Wikipedia
+[A Beginner’s Guide to Cohort Analysis: the Most Actionable (and Underrated) Report on Google Analytics](https://medium.com/analytics-for-humans/a-beginners-guide-to-cohort-analysis-the-most-actionable-and-underrated-report-on-google-c0797d826bf4) by Patrick Han
