@@ -8,6 +8,7 @@ area: discovery-loop-outcomes
 perspectives:
   - product-ownership
 icon: /images/matt-botsford-680057-unsplash.jpg
+jumbotron: /images/matt-botsford-680057-unsplash.jpg
 people: 3+
 time: 30-60 min
 difficulty: easy
