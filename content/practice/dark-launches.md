@@ -4,24 +4,21 @@ subtitle: Only for those in the know
 date: 2018-12-18T18:54:44.225Z
 authors:
   - valyonchev
-area: options
+area: delivery-measure-and-learn
 perspectives:
   - product-ownership
+icon: /images/ben-white-178537-unsplash.jpg
+jumbotron: /images/ben-white-178537-unsplash.jpg
 people: 2+
 time: 2-10 weeks
 difficulty: moderate
 participants:
+  - Product Owner
   - DevOps Team
 ---
 ## What is it?
 
 A continuous delivery practice, which allows you to release new features only to a group of users and invisible to others. The Dark Launch enables the team to understand the real life impact of new features, which may be unexpected for users in the sense that no users asked for them. These type of release allows the team to only expose a part of the user population to the new feature and carefully observe and measure the user interaction. It is one of the last steps for validating a product/market fit for new features. 
-
-
-
-Dark Launch is similar to A/B Testing in the sense that it is only exposing a part of the population to the new feature, but unlike A/B Testing, the new feature can and is typically a completely new feature and not just a small tweak of an existing one. The purpose is different too as A/B Testing is looking to improve the product performance in terms of getting business outcomes from an existing feature, while the Dark Launch is often exploring the possibility to extend the market by adding new features.
-
-Dark Launch is similar to the canary Release as they both expose only part of the population to a feature. The Dark Launch is focused on understanding the way users will react and use the new feature, while Canary Release is really focused on the technical performance of the changed product or the individual feature (if using a it can be isolated in the architecture).
 
 
 
@@ -37,6 +34,10 @@ The Dark Launch provides safety by limiting the impact of new features to only a
 
 Feature toggles are an enabling practice, which allows for Dark Launches to be implemented in existing products. 
 
+Dark Launch is similar to A/B Testing in the sense that it is only exposing a part of the population to the new feature, but unlike A/B Testing, the new feature can and is typically a completely new feature and not just a small tweak of an existing one. The purpose is different too as A/B Testing is looking to improve the product performance in terms of getting business outcomes from an existing feature, while the Dark Launch is often exploring the possibility to extend the market by adding new features.
+
+Dark Launch is similar to the Canary Release as they both expose only part of the population to a feature. The Dark Launch is focused on understanding the way users will react and use the new feature, while Canary Release is really focused on the technical performance of the changed product or the individual feature (if using it can be isolated in the architecture).
+
 Canary Deployment 
 
 Blue/Green Deployment
@@ -46,3 +47,7 @@ Continuous Delivery
 
 
 ## Further information
+
+
+
+Image credit: Photo by [Ben White](https://unsplash.com/photos/4Bs9kSDJsdc) on Unsplash
