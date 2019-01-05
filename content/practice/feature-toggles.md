@@ -13,6 +13,7 @@ people: 2+
 time: 2+ hours
 difficulty: moderate
 participants:
+  - Product Owner
   - DevOps Team
 ---
 ## What is it?
