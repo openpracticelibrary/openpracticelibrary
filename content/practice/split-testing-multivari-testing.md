@@ -54,3 +54,7 @@ Split Testing - A/B Testing
 [Multivariate Testing 101: A Scientific Method Of Optimizing Design, Paras Chopra, Smashing Magazine ](https://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/)
 
 [Multivariate Testing In Action: Five Simple Steps To Increase Conversion Rates, Paras Chopra, Smashing Magazine](https://www.smashingmagazine.com/2010/11/multivariate-testing-in-action-five-simple-steps-to-increase-conversion-rates/)
+
+
+
+Image credit: Photo by [Steve Harvey](https://unsplash.com/photos/kV7S3tyvKa8) on Unsplash
