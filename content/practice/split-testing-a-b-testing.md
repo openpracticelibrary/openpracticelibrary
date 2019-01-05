@@ -4,16 +4,19 @@ subtitle: The easiest path to validated learning
 date: 2018-12-17T22:03:07.370Z
 authors:
   - valyonchev
-area: options
+area: delivery-measure-and-learn
 perspectives:
   - product-ownership
+icon: /images/ab-testing.jpg
+jumbotron: /images/ab-testing.jpg
 people: 2+
 time: Several days
 difficulty: moderate
 participants:
   - Product Owner
+  - Data Scientist
   - UX Designer
-  - Team members
+  - DevOps Team
 ---
 ## What is it?
 
@@ -31,7 +34,7 @@ The team should take care with regards to:
 
 Simple to apply, fast to execute and often conclusions can be made simply by comparing the conversion/activity data between the two versions. It can be limiting as the two versions should not differ too much and more significant changes in the product may require a large number of A/B tests to be performed. 
 
-This is one of the practices that allow you to “tune the engine” as per The Lean Startup by Eric Reis.
+This is one of the practices that allow you to “tune the engine” as per [The Lean Startup by Eric Ries.](http://theleanstartup.com/)
 
 The practice provides an objective criteria for important decisions on the product design, features, behaviour, etc. It is used as a way to enhance the product performance, the user experience and the results the product produce for your organization.
 
