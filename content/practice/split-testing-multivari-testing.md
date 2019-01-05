@@ -14,7 +14,8 @@ difficulty: hard
 participants:
   - Product Owner
   - Data Scientist
-  - the complete team
+  - UX Designer
+  - DevOps Team
 ---
 ## What is it?
 
