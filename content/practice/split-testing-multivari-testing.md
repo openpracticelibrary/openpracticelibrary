@@ -4,9 +4,11 @@ subtitle: Testing for multiple factors changing together
 date: 2018-12-17T21:55:06.953Z
 authors:
   - valyonchev
-area: options
+area: delivery-measure-and-learn
 perspectives:
   - product-ownership
+icon: /images/steve-harvey-702421-unsplash.jpg
+jumbotron: /images/steve-harvey-702421-unsplash.jpg
 time: 2-12 weeks
 difficulty: hard
 participants:
@@ -16,21 +18,21 @@ participants:
 ---
 ## What is it?
 
-Multivari aka Multivariate, aka Multi-variable testing - is a product testing approach, which allows you to test faster the performance of multiple different factors. If you have many factors (potentially) influencing the performance of a product, an A/B testing approach will take enormous amount of tests and time, because you can only test the difference of the product performance with two different values of a particular factor (A and B) at a time. An A/B test will also not tell you of potential reinforcement between factors too. 
+Multivari, aka Multivariate or Multi-variable testing, is a product testing approach, which allow teams to understand influence of multiple different factors on the product performance. 
 
-This is where Multivari testing comes in. Unlike A/B testing, Multivari testing allows you to design product versions which differ from each other on multiple different factors. As in A/B testing all of the different product versions will be available in production and customers will be randomly redirected to different versions. The results from the customer interactions with the different versions will be collected.
+If you have many factors (potentially) influencing the performance of a product, an A/B testing approach will take enormous amount of tests and time, because you can only test the difference of the product performance with two different values of a particular factor (A and B) at a time. An A/B test will also not tell you of potential reinforcement between factors. 
 
-You can then understand the impact of each factor as well as the interplay of those factors using a statistical analysis of variance (ANOVA or MANOVA). 
+This is where Multivari testing comes in. Unlike A/B testing, Multivari testing will allow you to design product versions which differ from each other on multiple different factors. As in A/B testing all of the different product versions will be available in production and customers will be randomly redirected to different versions. The results from the customer interactions with the different versions will be collected as raw data.
+
+You can then understand the impact of each factor as well as the interplay of those factors using a statistical analysis of variance (ANOVA or MANOVA) over the collected data. 
 
 It is important to note that multivari testing requires more transactions/interactions with the product in order to achieve a statistically significant amount of data. If the data is insufficient the results will not be representative of the whole population, i.e. not meaningful. 
 
 Several variations of Multivari Testing to consider:
 
-* Full factorial testing - testing of all possible combinations of the factors
-* Fractional factorial testing - only partial combination of the factors is tested 
-* Taguchi testing - a partial combination defined with use of heuristics or other methods
-
-
+* **Full factorial testing **- testing of all possible combinations of the factors
+* **Fractional factorial testing **- only partial combination of the factors is tested 
+* **Taguchi testing** - a partial combination defined with use of heuristics or other methods
 
 ## Why use it?
 
@@ -40,15 +42,11 @@ The results of the testing will ultimately provide answers to the question which
 
 This is why this practice is one of the important practices in the pivot phase of product development.  
 
-
-
 ## Related Practices
 
 Split Testing - A/B Testing
 
 [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
-
-
 
 ## Further information
 
