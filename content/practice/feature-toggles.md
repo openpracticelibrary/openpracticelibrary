@@ -47,8 +47,10 @@ Dark Launches
 
 [Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery/)
 
-
-
 ## Further information
 
 [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html) by Martin Fowler
+
+
+
+Image credit: Photo by [Karim MANJRA](https://unsplash.com/photos/pWlM5L6PFis) on Unsplash
