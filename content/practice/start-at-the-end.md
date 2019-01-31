@@ -14,7 +14,7 @@ perspectives:
 
 Start At The End is a simple exercise to identify a set of assumptions which must be tested in order achieve a long term goal. It's a rather simple exercise, which asks participants to describe what success looks like for their work, and use this to define the goal of the effort. We default to 12 months, but it can be longer or shorter. Then, the exercise asks participants to imagine all the ways their project can fail, and using the results to enumerate key questions or assumptions that must be examined at the start of the work. The technique is derived from Chapter 4 of The Sprint Book[<sup>1</sup>](#footnote-1). At the end of the exercise, you will have:
 
-* A shared understand of your effort's goal
+* A shared understanding of your effort's goal
 * A list of key questions or assumptions that need to be examined early in the work effort in order for the team to achieve the goal.
 * A prioritization of the key questions
 
