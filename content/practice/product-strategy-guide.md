@@ -6,6 +6,7 @@ authors:
   - ''
 area: discovery-loop-why
 perspectives: []
+icon: /images/ux-strategy-template.jpg
 jumbotron: /images/ux-strategy-template.jpg
 difficulty: hard
 participants:
