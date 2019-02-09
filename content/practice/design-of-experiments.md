@@ -69,7 +69,9 @@ Often you may have a set of experiments go through a sequence of Rapid Prototypi
 
 ## Related Practices
 
-* Split Testing
+* [Feature Toggles](https://openpracticelibrary.com/practice/feature-toggles/)
+* [Split Testing - A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/)
+* [Split Testing - Multi-vari Testing](https://openpracticelibrary.com/practice/split-testing-multivari-testing/)
 * Prototyping / Pretotyping 
 * Rapid Prototyping
 * User Research
