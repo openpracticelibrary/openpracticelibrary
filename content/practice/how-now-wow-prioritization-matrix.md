@@ -51,7 +51,7 @@ Once prioritised these ideas & hypothesis may lead to:
 
 ## Related Practices
 
-* Kano Model 
+* [Kano Model ](https://openpracticelibrary.com/practice/kano-model/)
 * [Whole Product Plotting](https://openpracticelibrary.com/practice/whole-product-plotting/)
 * [Impact & Effort Matrix](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/)
 * [HMW](https://openpracticelibrary.com/practice/hmw/)
