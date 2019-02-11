@@ -24,27 +24,21 @@ The team can perform all required task for an upgrade of the product version on 
 
 If everything works fine with the “blue” environment, the now outdated “green” can be used to serve as the “blue” for the next release. If things go bad the team can switch back to a stable environment instantly using the reverse proxy/load balancer/router.
 
-
-
 ## Why use it?
 
 This is a feedback loop practice, which allows the team to get prompt feedback from real life use of their changes. It enables [Continuous Delivery.](https://openpracticelibrary.com/practice/continuous-delivery/) 
 
 The practice provides safety for performing complex releases. It removes the time pressure and reduces the downtime to practically zero. This is beneficial for both technical team as for the customers, who will not notice glitches or unavailability of the service/product, provided that the new version is performing at par. In case of adverse effects, it allows the teams to have an instant roll back alternative and limit the negative impact on customers.
 
-
-
 ## Related Practices
 
-Feature Toggles
+[Feature Toggles](https://openpracticelibrary.com/practice/feature-toggles/)
 
-Canary Deployment 
+[Canary Deployment ](https://openpracticelibrary.com/practice/canary-release/)
 
-Dark Launches
+[Dark Launches](https://openpracticelibrary.com/practice/dark-launches/)
 
 [Continuous Delivery](https://openpracticelibrary.com/practice/continuous-delivery/)
-
-
 
 ## Further information
 

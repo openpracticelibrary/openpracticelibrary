@@ -40,7 +40,7 @@ The practice provides an objective criteria for important decisions on the produ
 
 ## Related Practices
 
-Split Testing - Multivari Testing
+[Split Testing - Multivari Testing](https://openpracticelibrary.com/practice/split-testing-multivari-testing/)
 
 [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 
