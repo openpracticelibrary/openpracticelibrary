@@ -134,12 +134,12 @@ It is encouraged to experiment with the type of process reviewed. This activity 
 
 ## Resource Links
 
-* [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation/?target=_blank)
-* [Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint/?target=_blank)
-* [Service Design Wiki](https://en.wikipedia.org/wiki/Service_design/?target=_blank)
-* [RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint/?target=_blank)
-* [Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources/?target=_blank)
-* [Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint/?target=_blank)
+* [Service Blueprints: Laying the Foundation](https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation)
+* [Service Blueprint Wiki](https://en.wikipedia.org/wiki/Service_blueprint)
+* [Service Design Wiki](https://en.wikipedia.org/wiki/Service_design)
+* [RealtimeBoard Blueprint Free Template](https://realtimeboard.com/examples/service-blueprint)
+* [Practical Service Design Free Resources](http://www.practicalservicedesign.com/resources)
+* [Mural.co Blueprint Free Template](https://mural.co/templates/service-blueprint)
 
 ## Related Practices
 
