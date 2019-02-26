@@ -16,15 +16,16 @@ time: 5 Days
 difficulty: moderate
 participants:
   - Facilitator
+  - Co-Facilitator
   - Business Decision Maker
-  - Customer Representative
-  - User Experience Designer
+  - Product Owner and or Product Manager
+  - Sales Manager / Customer Representative
+  - UX/UI Designer
   - Marketing
-  - Technical Lead
 ---
 ## What is it?
 
-It is a 5 day customer-centric process for rapidly solving big challenges, creating new products, or improving existing ones. 
+It is a 5 day customer-centric process for rapidly solving a challenge, creating new products, or improving existing ones. 
 
 Design sprints enable you to:
 
@@ -65,6 +66,7 @@ The best is to try different variations and judge which one works for what conte
 * Sprint Questions
 * Lightning Demos
 * Drawing Ideas
+* Start user test recruiting 
 
 ### Tuesday
 
@@ -72,20 +74,22 @@ The best is to try different variations and judge which one works for what conte
 * Storyboard design
 * Decider Vote
 * Storyboard Final Walk-through 
+* User test recruiting 
 
 ### Wednesday
 
 * Prototype creation
-* User test preparation and recruiting 
+* User test preparation
+* Interview room setup
 
 ### Thursday
 
-* Testing with customers
+* Testing with end-user
+* Analyse results and prepare findings
 
 ### Friday
 
-* Showcase
-
+* Showcase (demonstrate process & findings)
 
 
 ## Related Practices
