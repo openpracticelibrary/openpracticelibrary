@@ -9,7 +9,7 @@ authors:
 area: discovery-loop-why
 perspectives:
   - product-ownership
-icon: /images/lean-canvas-small.png
+icon: ''
 jumbotron: /images/lean-canvas.png
 people: 1+
 time: 1hr +
