@@ -27,7 +27,23 @@ Ash Maurya modified the Business Model Canvas (by Alexander Osterwalder) with th
 
 It will help you establish if your product or service idea has merits.
 
-When filling out the canvas it is best to fill them out in a certain way. Follow the numbers in the boxes.
+When filling out the canvas it is best to fill them out in a certain way. 
+
+1. Problem section: \
+   When filling out the problem section: Think with your future customer in mind. WHY is this a problem for him?
+2. Target Customer section: \
+   Who are your early adopters of your product, specify them in terms of demographics, situation and interest.
+3. Unique Value Preposition (UVP) and High Level Concepts (HLC): \
+   UVP is directed to your customer, HLC is geared to investors, which can help you pitching your product: Shazam for mushrooms
+4. 4. Solution Box:
+5. The Solution box focuses on the key features of your product or service. Ideally, each aspect of the solution comes in line with one of the previously mentioned problems.
+6. Identifying unknown mushrooms – algorithm for mushroom identification
+
+
+
+
+
+
 
 Ensure to use bullet points – not long sentences – a good canvas should be understood in a few minutes
 
