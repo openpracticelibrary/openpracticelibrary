@@ -34,8 +34,6 @@ The Lean Canvas is frequently used by Entrepreneurs and Lean Startups.
 
 Ash Maurya modified the Business Model Canvas (by Alexander Osterwalder) with the aim to shorten the product development lifecycle and rapidly discover if your product idea is viable.
 
-The Lean Canvas will help you establish if your product or service idea has merits.
-
 When filling out the canvas it is best to fill the sections out in a certain way. 
 
 1. Problem: \
