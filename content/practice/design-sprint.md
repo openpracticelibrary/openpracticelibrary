@@ -5,6 +5,7 @@ date: 2018-12-19T21:42:38.398Z
 authors:
   - eformat
   - valyonchev
+  - sandraarps
 area: options
 perspectives:
   - product-ownership
@@ -13,18 +14,20 @@ jumbotron: /images/img_20181219_140828.jpg
 jumbotronAlt: Design Sprint
 people: 4-7+
 time: 5 Days
-difficulty: moderate
+difficulty: hard
 participants:
   - Facilitator
+  - Co-Facilitator
   - Business Decision Maker
-  - Customer Representative
-  - User Experience Designer
+  - Product Owner
+  - Product Manager
+  - UX/UI Designer
   - Marketing
-  - Technical Lead
+  - Sales
 ---
 ## What is it?
 
-It is a 5 day customer-centric process for rapidly solving big challenges, creating new products, or improving existing ones. 
+It is a 5 day customer-centric process for rapidly solving a key challenge, creating new products, or improving existing ones. 
 
 Design sprints enable you to:
 
@@ -37,7 +40,7 @@ Design sprints enable you to:
 The process phases include: Understand, Define, Sketch, Decide, Prototype and Validate.
 
 <figure class="video_container">
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/K2vSQPh6MCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+\\`<iframe width="560" height="315" src="https://www.youtube.com/embed/K2vSQPh6MCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\\`
 </figure>
 
 ## Why use it?
@@ -59,12 +62,12 @@ The best is to try different variations and judge which one works for what conte
 * Intro
 * How Might We
 * Map
+* Lightning Demos
 * Notes Taking
 * Crazy 8's
 * Long Term Goals
 * Sprint Questions
-* Lightning Demos
-* Drawing Ideas
+* Develop Concepts
 
 ### Tuesday
 
@@ -72,21 +75,22 @@ The best is to try different variations and judge which one works for what conte
 * Storyboard design
 * Decider Vote
 * Storyboard Final Walk-through 
+* User test recruiting 
 
 ### Wednesday
 
 * Prototype creation
-* User test preparation and recruiting 
+* User test preparation
+* Interview room preparation 
 
 ### Thursday
 
-* Testing with customers
+* Testing with end users
+* Analyse data from end users
 
 ### Friday
 
 * Showcase
-
-
 
 ## Related Practices
 
@@ -104,13 +108,11 @@ Research Sprint
 
 Rapid Prototyping
 
-Pretotyping
+Prototyping
 
 User Testing
 
 [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
-
-
 
 ## Further Information
 
