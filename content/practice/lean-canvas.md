@@ -35,9 +35,10 @@ When filling out the canvas it is best to fill them out in a certain way.
    Who are your early adopters of your product, specify them in terms of demographics, situation and interest.
 3. Unique Value Preposition (UVP) and High Level Concepts (HLC): \
    UVP is directed to your customer, HLC is geared to investors, which can help you pitching your product: Shazam for mushrooms
-4. 4. Solution Box:
-5. The Solution box focuses on the key features of your product or service. Ideally, each aspect of the solution comes in line with one of the previously mentioned problems.
-6. Identifying unknown mushrooms – algorithm for mushroom identification
+4. Solution Box:\
+   The Solution box focuses on the key features of your product or service. Ideally, each aspect of the solution comes in line with one of the previously mentioned problems.
+
+
 
 
 
