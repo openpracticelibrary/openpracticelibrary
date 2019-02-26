@@ -19,13 +19,15 @@ participants:
 ---
 # What is it?
 
-## The lean canvas template captures key information about your future product, what problem it will solve, who are your customers, how will you distribute it and how you will make money from it.
+The lean canvas template captures key information about your future product, what problem it will solve, who are your customers, how will you distribute it and how you will make money from it.
 
-## When filling out the canvas it is best to fill them out in a certain way. Follow the numbers in the boxes.
+When filling out the canvas it is best to fill them out in a certain way. Follow the numbers in the boxes.
 
-## Ensure to use bulletpoints – not long sentences – a good canvas should be understood in a few minutes
+Ensure to use bullet points – not long sentences – a good canvas should be understood in a few minutes
 
-## Make sure you are filling out every box, there might be a lot of uncertainty but the canvas is there to help you.
+Make sure you are filling out every box, there might be a lot of uncertainty but the canvas is there to help you.
+
+## 
 
 ## 
 
