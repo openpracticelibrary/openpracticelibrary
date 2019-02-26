@@ -40,7 +40,7 @@ Design sprints enable you to:
 The process phases include: Understand, Define, Sketch, Decide, Prototype and Validate.
 
 <figure class="video_container">
-\`<iframe width="560" height="315" src="https://www.youtube.com/embed/K2vSQPh6MCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\`
+\\`<iframe width="560" height="315" src="https://www.youtube.com/embed/K2vSQPh6MCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\\`
 </figure>
 
 ## Why use it?
@@ -62,12 +62,12 @@ The best is to try different variations and judge which one works for what conte
 * Intro
 * How Might We
 * Map
+* Lightning Demos
 * Notes Taking
 * Crazy 8's
 * Long Term Goals
 * Sprint Questions
-* Lightning Demos
-* Drawing Ideas
+* Develop Concepts
 
 ### Tuesday
 
@@ -75,15 +75,18 @@ The best is to try different variations and judge which one works for what conte
 * Storyboard design
 * Decider Vote
 * Storyboard Final Walk-through 
+* User test recruiting 
 
 ### Wednesday
 
 * Prototype creation
-* User test preparation and recruiting 
+* User test preparation
+* Interview room preparation 
 
 ### Thursday
 
-* Testing with customers
+* Testing with end users
+* Analyse data from end users
 
 ### Friday
 
@@ -105,7 +108,7 @@ Research Sprint
 
 Rapid Prototyping
 
-Pretotyping
+Prototyping
 
 User Testing
 
