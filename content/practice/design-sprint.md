@@ -19,11 +19,10 @@ participants:
   - Facilitator
   - Co-Facilitator
   - Business Decision Maker
-  - Product Owner
-  - Product Manager
+  - Product Owner and or Product Manager
+  - Sales Manager / Customer Representative
   - UX/UI Designer
   - Marketing
-  - Sales
 ---
 ## What is it?
 
@@ -67,6 +66,9 @@ The best is to try different variations and judge which one works for what conte
 * Crazy 8's
 * Long Term Goals
 * Sprint Questions
+* Lightning Demos
+* Drawing Ideas
+* Start user test recruiting 
 * Develop Concepts
 
 ### Tuesday
@@ -81,16 +83,17 @@ The best is to try different variations and judge which one works for what conte
 
 * Prototype creation
 * User test preparation
-* Interview room preparation 
+* Interview room setup
 
 ### Thursday
 
-* Testing with end users
-* Analyse data from end users
+* Testing with end-users
+* Analyse results and prepare findings
 
 ### Friday
 
-* Showcase
+* Showcase (demonstrate process & findings)
+
 
 ## Related Practices
 
