@@ -3,9 +3,8 @@ title: Product Strategy Guide
 subtitle: Helps determine Go or No-Go for new product and feature ideas
 date: 2019-02-07T17:32:17.284Z
 authors:
-  - ''
+  - 'ariellemcmahon'
 area: discovery-loop-why
-perspectives: []
 icon: /images/ux-strategy-template.jpg
 jumbotron: /images/ux-strategy-template.jpg
 difficulty: hard
