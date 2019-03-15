@@ -17,4 +17,4 @@ participants:
 
 This strategy guide is a good resource for the product team when vetting ideas for new products and features. It provides a 12-step list of requirements to have a valuable proposition, including metrics of success, risk assumptions, market research and more. Follow the guide to validate your product decisions with the right research and set your product up for success.
 
-[Vuew the Strategy Blueprint template](/images/ux-strategy-template.jpg) to get started!
+[View the Strategy Blueprint template](/images/ux-strategy-template.jpg) to get started!
