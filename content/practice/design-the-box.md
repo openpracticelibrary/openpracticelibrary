@@ -42,7 +42,7 @@ In different formats you may either start with a blank box or provide carton to 
 
 * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
 * [Event Storming](https://openpracticelibrary.com/practice/event-storming/)
-* Kano Model 
+* [Kano Model ](https://openpracticelibrary.com/practice/kano-model/)
 * Lean Canvas
 * Value Proposition Canvas
 

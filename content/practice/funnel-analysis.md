@@ -24,8 +24,6 @@ Funnel Analysis is an analytical practice studying the changes over a course of 
 
 The Funnel Analysis is an effective way to analyse conversion and fallout in applications. It is often used as a way to measure performance of similar products, e.g. web shops.
 
-
-
 ## Why use it?
 
 * This is a feedback loop practice, which allows the team to get prompt feedback from real life use of their changes
@@ -35,28 +33,26 @@ The Funnel Analysis is an effective way to analyse conversion and fallout in app
 * This is one of the practices that allow you to “tune the engine” and carry “innovation accounting” ( [The Lean Startup by Eric Ries](http://theleanstartup.com/))
 * The practice provides an objective criteria for important decisions on the product design, features, behaviour, etc. It is used as a way to enhance the product performance, the user experience and the business outcomes the product produces for your organization
 
-
-
 ## Related Practices
 
-This practice is fed with data from A/B Testing, Multi-vari Testing, and can be one of the final steps for running experiments which started with the [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/). Feature Toggles can greatly benefit the analysis as they can be used to tweak the application based on live feed of data and show if certain changes would influence the outcome.
+This practice is fed with data from [A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/), [Multi-vari Testing](https://openpracticelibrary.com/practice/split-testing-multivari-testing/), and can be one of the final steps for running experiments which started with the [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/). [Feature Toggles](https://openpracticelibrary.com/practice/feature-toggles/) can greatly benefit the analysis as they can be used to tweak the application based on live feed of data and show if certain changes would influence the outcome.
 
 The analysis is the final step before decision-making. It aims to produce actionable insight on how the team can further improve the performance of the product and the impact of past changes. 
 
-Feature Toggles
+[Feature Toggles](https://openpracticelibrary.com/practice/feature-toggles/)
 
-Cohort Analysis
+[Cohort Analysis](https://openpracticelibrary.com/practice/cohort-analysis/)
 
-A/B Testing
+[A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/)
 
-Multi-vari Testing
+[Multi-vari Testing](https://openpracticelibrary.com/practice/split-testing-multivari-testing/)
 
-Design of Experiments
+[Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 
 User Journey Mapping
-
-
 
 ## Further information
 
 [Funnel Analysis as per Wikipedia](https://en.wikipedia.org/wiki/Funnel_analysis)
+
+## _**Improve this article:** We lack links to good explanations of the practice._

@@ -41,7 +41,7 @@ A visual approach for scoping the most important features of a product/service. 
 
 ## Related Practices
 
-* Kano Model 
+* [Kano Model ](https://openpracticelibrary.com/practice/kano-model/)
 * [Impact & Effort Matrix](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/)
 * [How-Now-Wow Matrix](https://openpracticelibrary.com/practice/how-now-wow-prioritization-matrix/)
 * Lean Canvas
