@@ -1,9 +1,12 @@
 ---
 title: Stop the World Event
+subtitle: >-
+  Empower team members to stop everything when they feel engagement is off
+  course
+date: 2017-10-26T20:20:14.000Z
 authors:
   - mtakane
 area: foundation-culture-and-collaboration
-date: 2017-10-26T20:20:14.000Z
 ---
 
 ## What is it?
