@@ -8,6 +8,7 @@ authors:
   - tdbeattie
   - valyonchev
 area: discovery-loop-outcomes
+icon: /images/final_priority-sliders.png
 people: 2+
 time: 30 minutes
 difficulty: easy
