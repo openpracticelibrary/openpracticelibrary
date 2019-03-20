@@ -1,6 +1,6 @@
 ---
 title: Start At The End
-subtitle: '   '
+subtitle: Describe what success looks like and use this to define the goal of effort
 date: 2018-12-18T18:26:48.625Z
 authors:
   - sherl0cks
