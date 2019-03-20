@@ -1,10 +1,11 @@
 ---
 title: Retrospectives
+subtitle: 'Reflect, inspect and adapt ways of working driving continuous improvement'
+date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
   - mtakane
 area: delivery-measure-and-learn
-date: 2017-11-21T05:00:00.000Z
 ---
 
 ## What are they?
