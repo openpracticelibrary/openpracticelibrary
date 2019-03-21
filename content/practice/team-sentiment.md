@@ -6,6 +6,7 @@ authors:
   - tdbeattie
   - mtakane
 area: foundation-culture-and-collaboration
+icon: /images/final_team-sentiment.png
 ---
 
 
