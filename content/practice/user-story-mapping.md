@@ -8,6 +8,7 @@ authors:
   - mtakane
   - rdebeasi
 area: discovery-loop-outcomes
+icon: /images/final_value-slicing.png
 ---
 
 ## What is it?
