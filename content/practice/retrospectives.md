@@ -6,6 +6,7 @@ authors:
   - tdbeattie
   - mtakane
 area: delivery-measure-and-learn
+icon: /images/final_retrospective.png
 ---
 
 ## What are they?
