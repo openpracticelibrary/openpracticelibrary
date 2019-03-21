@@ -10,6 +10,7 @@ authors:
 area: discovery-loop-why
 perspectives:
   - domain-driven-design
+icon: /images/final_impact-mapping.png
 people: 2+
 time: >-
   2-4 hours of prep to establish a goal or problem statement before the session.
