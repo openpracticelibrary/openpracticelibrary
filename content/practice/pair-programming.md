@@ -5,6 +5,7 @@ date: 2018-08-31T15:40:43.697Z
 authors:
   - syvanen
 area: foundation-culture-and-collaboration
+icon: /images/final_pairing-_-mobbing.png
 people: '2'
 difficulty: easy
 participants:
