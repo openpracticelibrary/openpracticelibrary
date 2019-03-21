@@ -9,6 +9,7 @@ authors:
   - tdbeattie
   - sudhakarau1
 area: delivery-deliver
+icon: /images/final_daily-standup.png
 people: 2+
 time: 15 minutes
 difficulty: moderate
