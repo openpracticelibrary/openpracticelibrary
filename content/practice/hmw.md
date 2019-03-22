@@ -55,7 +55,7 @@ It can easily “plug” and enhance many other practices, especially when you s
 
 * HMW can be combined with [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/) as a way to search for deliverables that can influence a particular behaviour change of actor/s
 * During [Event Storming](https://openpracticelibrary.com/practice/event-storming/) the team can often spot improvements or ideas for introducing a new way of handling the process, experiments to be carried out. A post-it with a draft HMW question can provide a nice bridge into a HMW and [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/) exercise.
-* A list of key questions are formed during facilitation of [Start at the End](https://openpracticelibrary.com/practice/start-at-the-end/).  HMW is an applicable approach to building key questions from assumptions that could lead to failure.
+* A list of key questions are formed during facilitation of [Start at the End](https://openpracticelibrary.com/practice/start-at-the-end/).  HMW is a great approach to building key questions from assumptions that could lead to failure.
 
 ## Related Practices
 
