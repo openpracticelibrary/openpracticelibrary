@@ -7,7 +7,7 @@ authors:
 area: delivery-measure-and-learn
 perspectives: []
 icon: /images/sizing_cards.jpg
-jumbotron: /images/story_repointing.jpg
+jumbotron: /images/story_repointing1.jpg
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
 time: <30 min
@@ -33,8 +33,8 @@ Story RePointing helps to keep teams conscious about their pointing decisions, a
 
 ## Instructions:
 
-1. Draw a grid similar to the image below
-    _Include Story Identifiers, Reviewed Value, Original Value, Differential_
+1. Draw a grid similar to the image above
+   _Include Story Identifiers, Reviewed Value, Original Value, Differential_
 2. Distribute Value Cards
 3. Conceal the Original Values from the team under a Post-It, or marker the values in
 4. Share screens with your team via individual laptops, or a TV – ensure all team members are able to view and read all details of each Story, but cannot see any pointing details
