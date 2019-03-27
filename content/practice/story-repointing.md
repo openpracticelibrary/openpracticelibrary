@@ -15,6 +15,8 @@ difficulty: easy
 participants:
   - The Team
 ---
+![Story RePointing Grid Image](/images/story_repointing1.jpg "RePointing Grid")
+
 ## What is it?
 
 Story RePointing is used to reconcile the size of a story completed by your team after the sprint is over. Teams will make new story point estimates based on the actual work done to complete a story, then compare that to the original estimation and calculate an Accuracy Differential for each completed story. Individuals can talk about why they thought a story was larger/smaller than originally estimated. 
