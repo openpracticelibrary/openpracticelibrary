@@ -6,7 +6,7 @@ authors:
   - awlewis1253
 area: delivery-measure-and-learn
 perspectives: []
-icon: /images/story-repointing.jpg
+icon: /images/img-0459.jpg
 jumbotron: /images/sizing-cards.jpg
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
