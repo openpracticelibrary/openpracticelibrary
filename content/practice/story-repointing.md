@@ -10,7 +10,7 @@ icon: /images/sizing_cards.jpg
 jumbotron: ''
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
-time: <30 min
+time: 'varies with # of stories'
 difficulty: easy
 participants:
   - The Team
@@ -56,4 +56,4 @@ _Use Value Cards of varying sizes from the smallest story to the largest i.e. \[
 
 _Using Sizing Cards may spark additional discussion by compelling teammates to ask one another what the equivalent point values are to the sizes, and also stimulate thought via mental translation from size to point value._
 
-_You will get a feel for when everyone is has made a valuation of the story being RePointed quickly - body language usually is enough, but confirming with a "Ready?" ensures everyone has had time to read through the story and its details_
+_You will get a feel for when everyone is has made a valuation of the story being RePointed quickly - body language usually is enough, but confirming with a "Ready?" ensures everyone has had time to read through the story and its details and make a valuation_
