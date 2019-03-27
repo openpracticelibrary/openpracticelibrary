@@ -7,7 +7,7 @@ authors:
 area: delivery-measure-and-learn
 perspectives: []
 icon: /images/sizing_cards.jpg
-jumbotron: /images/story_repointing1.jpg
+jumbotron: /images/story_repointing2.jpg
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
 time: <30 min
