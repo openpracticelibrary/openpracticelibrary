@@ -10,7 +10,7 @@ icon: /images/sizing_cards.jpg
 jumbotron: ''
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
-time: 'varies with # of stories'
+time: 1-3 min per Story
 difficulty: easy
 participants:
   - The Team
