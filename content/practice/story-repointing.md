@@ -28,25 +28,25 @@ Story RePointing helps to keep teams conscious about their pointing decisions, a
 * Whiteboard
 * TV or laptops for all team members
 * Post Its
-* Sizing Cards
+* Value Cards
 * Dry Erase Markers
 
 ## Instructions:
 
 1. Draw a grid similar to the image below
-     _Include Story Identifiers, Reviewed Value, Original Value, Differential_
-2. Distribute Sizing Cards
+    _Include Story Identifiers, Reviewed Value, Original Value, Differential_
+2. Distribute Value Cards
 3. Conceal the Original Values from the team under a Post-It, or marker the values in
 4. Share screens with your team via individual laptops, or a TV – ensure all team members are able to view and read all details of each Story, but cannot see any pointing details
-5. Begin at the top of the story list, giving the team about 1 minute to read over the story and details, when everyone is ready, ask them at the count of 3 to hold up their chosen point value
-6. Average the Sizing Cards and record it
-7. Display/write the original value and calculate the differential and record it
+5. Begin at the top of the story list, giving the team ~1 minute to read over the story and details, when everyone is ready, ask them at a prompt to hold up their chosen Value Card
+6. Average the Value Cards and record it
+7. Display/write the Original Value and calculate the Differential and record it
 8. Ask the individual(s) who was/were assigned or completed the story to explain why they chose the value they did if it differed from the original estimation.
 9. Ask others whose chosen values differed from the original value why they felt it was a larger/smaller story than originally selected
 10. Rinse, repeat
 
 ## Suggestions:
 
-_Use cards of varying sizes from the smallest story to the largest i.e. \[Use Point Cards (1, 2, 3, 5 etc.) or Sizing Cards (S, M, L, XL, etc.)]_
+_Use Value Cards of varying sizes from the smallest story to the largest i.e. \[Use Point Cards (1, 2, 3, 5 etc.) or Sizing Cards (S, M, L, XL, etc.)]_
 
-_Sizing Cards may spark additional discussion by compelling teammates to ask one another what the equivalent point values are to the sizes, and also stimulate thought via mental translation from size to point value._
+_Using Sizing Cards may spark additional discussion by compelling teammates to ask one another what the equivalent point values are to the sizes, and also stimulate thought via mental translation from size to point value._
