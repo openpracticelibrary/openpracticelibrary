@@ -45,10 +45,15 @@ Story RePointing helps to keep teams conscious about their pointing decisions, a
 7. Display/write the Original Value and calculate the Differential and record it
 8. Ask the individual(s) who was/were assigned or completed the story to explain why they chose the value they did if it differed from the original estimation.
 9. Ask others whose chosen values differed from the original value why they felt it was a larger/smaller story than originally selected
-10. Rinse, repeat
+10. Continue until all stories have been RePointed
+11. Record in Excel and use it to track accuracy over time as below
 
-## Suggestions:
+![Excel Estimation Tracker Example](/images/estmation-tracker.jpg "Estimation Tracker Example")
+
+## Thoughts:
 
 _Use Value Cards of varying sizes from the smallest story to the largest i.e. \[Use Point Cards (1, 2, 3, 5 etc.) or Sizing Cards (S, M, L, XL, etc.)]_
 
 _Using Sizing Cards may spark additional discussion by compelling teammates to ask one another what the equivalent point values are to the sizes, and also stimulate thought via mental translation from size to point value._
+
+_You will get a feel for when everyone is has made a valuation of the story being RePointed quickly - body language usually is enough, but confirming with a "Ready?" ensures everyone has had time to read through the story and its details_
