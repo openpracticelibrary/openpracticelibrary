@@ -34,7 +34,7 @@ Story RePointing helps to keep teams conscious about their pointing decisions, a
 ## Instructions:
 
 1. Draw a grid similar to the image below
-      _Include Story Identifiers, Reviewed Value, Original Value, Differential_
+     _Include Story Identifiers, Reviewed Value, Original Value, Differential_
 2. Distribute Sizing Cards
 3. Conceal the Original Values from the team under a Post-It, or marker the values in
 4. Share screens with your team via individual laptops, or a TV – ensure all team members are able to view and read all details of each Story, but cannot see any pointing details
@@ -45,7 +45,7 @@ Story RePointing helps to keep teams conscious about their pointing decisions, a
 9. Ask others whose chosen values differed from the original value why they felt it was a larger/smaller story than originally selected
 10. Rinse, repeat
 
-## Details:
+## Suggestions:
 
 _Use cards of varying sizes from the smallest story to the largest i.e. \[Use Point Cards (1, 2, 3, 5 etc.) or Sizing Cards (S, M, L, XL, etc.)]_
 
