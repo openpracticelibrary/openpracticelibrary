@@ -55,6 +55,12 @@ Consider writing these notes on a whiteboard.
 - Use the "ladder" technique: keep asking "why" to learn more.
 - When you have something to measure, use ratings on on a scale from 1 to 11. This helps participants give honest feedback instead of thinking of the rating like a grade in school.
 
+## Materials Needed
+
+- A timer or stopwatch (the [Time Timer](https://www.timetimer.com/) is great)
+- A whiteboard (optional)
+- Lots of Legos! The [Large Creative Brick box](https://www.lego.com/en-us/themes/classic/products/lego-large-creative-brick-box-10698) is great.
+
 ## Further Information
 
 - [Objectified: Smart Design OXO Good Grips Story](https://vimeo.com/106963722)
