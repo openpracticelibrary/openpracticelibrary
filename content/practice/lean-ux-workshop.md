@@ -9,6 +9,9 @@ authors:
 area: discovery-loop-why
 perspectives:
   - product-ownership
+icon: /images/img_20190402_114951.jpg
+jumbotron: /images/img_20190402_114951.jpg
+jumbotronAlt: People building a scene with legos
 people: 3 per group
 time: 1 hour
 difficulty: moderate
@@ -62,3 +65,4 @@ Consider writing these notes on a whiteboard.
   - This article explains design thinking in terms of a "Understand, Explore, Materialize" loop, which is similar to the Lean UX loop.
 - [Usability Testing](https://openpracticelibrary.com/practice/usability-testing/)
   - This practice is similar to the open-ended interview we run here.
+
