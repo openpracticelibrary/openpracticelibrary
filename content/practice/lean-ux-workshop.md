@@ -13,7 +13,9 @@ people: 3 per group
 time: 1 hour
 difficulty: moderate
 participants:
-  - ''
+  - Developers
+  - Designers
+  - Product Owners
 ---
 ## What is it? 
 
