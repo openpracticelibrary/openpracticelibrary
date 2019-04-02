@@ -1,6 +1,6 @@
 ---
 title: Lean UX Workshop
-subtitle: Solve real problems for real humans
+subtitle: Solve real problems for real users
 date: 2019-04-02T15:13:17.103Z
 authors:
   - rileyi
