@@ -16,7 +16,7 @@ participants:
 ---
 ## What is it? 
 
-In a Lean UX workshop, participants practice interviewing and learning about a user. Then, they prototype and refine a product that solves a real problem faced by that person. 
+In a Lean UX Workshop, participants practice interviewing and learning about a user. Then, they prototype and refine a product that solves a real problem faced by that person. 
 
 ## Why use it? 
 
