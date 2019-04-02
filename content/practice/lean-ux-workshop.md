@@ -5,6 +5,7 @@ date: 2019-04-02T15:13:17.103Z
 authors:
   - rileyi
   - rdebeasi
+  - mtakane
 area: discovery-loop-why
 perspectives:
   - product-ownership
