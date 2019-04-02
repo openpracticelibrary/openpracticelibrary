@@ -54,7 +54,11 @@ Consider writing these on a whiteboard.
 
 ## Further Information
 
-- [Objectified: Smart Design OXO Good Grips Story](https://vimeo.com/106963722) - This is a great example of a team using user-centered design to solve real problems and develop a business valued at [worth hundreds of millions of dollars](https://web.archive.org/web/20161009174354/http://www.investopedia.com/stock-analysis/2010/helen-of-troys-winning-acquisitions-hele-npk-lcut-nc-jah0706.aspx).
-- [Lean UX](https://www.jeffgothelf.com/lean-ux-book/) by Jeff Gothelf covers the overall "How" and "Why" behind this activity.
-- [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/) digs into the feedback loop used in this exercise. The Nielsen Norman group calls it "Understand, Explore, Materialize", but it's very similar to the "Build, Measure, Learn" loop from [Lean Startup](http://theleanstartup.com/).
-- [Usability Testing](https://openpracticelibrary.com/practice/usability-testing/) is similar to the open-ended interview we practice here.
+- [Objectified: Smart Design OXO Good Grips Story](https://vimeo.com/106963722)
+  - This video is a great example of a team using user-centered design to solve real problems and develop a business valued at [worth hundreds of millions of dollars](https://web.archive.org/web/20161009174354/http://www.investopedia.com/stock-analysis/2010/helen-of-troys-winning-acquisitions-hele-npk-lcut-nc-jah0706.aspx).
+- [Lean UX](https://www.jeffgothelf.com/lean-ux-book/)
+  - This book covers the overall "How" and "Why" behind this activity.
+- [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
+  - This article digs into the feedback loop used in this exercise. The Nielsen Norman group calls it "Understand, Explore, Materialize", but it's very similar to the "Build, Measure, Learn" loop from [Lean Startup](http://theleanstartup.com/). The digram is super useful too!
+- [Usability Testing](https://openpracticelibrary.com/practice/usability-testing/)
+  - This practice is similar to the open-ended interview we practice here.
