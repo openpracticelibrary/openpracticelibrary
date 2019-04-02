@@ -6,7 +6,8 @@ authors:
   - rileyi
   - rdebeasi
 area: discovery-loop-why
-perspectives: []
+perspectives:
+  - product-ownership
 people: 3 per group
 time: 1 hour
 difficulty: moderate
