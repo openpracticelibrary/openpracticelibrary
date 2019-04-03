@@ -7,6 +7,7 @@ date: 2017-10-26T20:20:14.000Z
 authors:
   - mtakane
 area: foundation-culture-and-collaboration
+icon: /images/final_stop-the-world.png
 ---
 
 ## What is it?
