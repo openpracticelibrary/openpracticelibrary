@@ -6,6 +6,7 @@ authors:
   - sammarland-rh
   - syvanen
 area: foundation-culture-and-collaboration
+icon: /images/final_pairing-_-mobbing.png
 people: 3+
 time: Varies
 difficulty: easy
