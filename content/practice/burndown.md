@@ -6,6 +6,7 @@ authors:
   - tdbeattie
   - mtakane
 area: foundation-culture-and-collaboration
+icon: /images/final_burndown.png
 people: 2+
 time: 5-10 minutes
 difficulty: moderate

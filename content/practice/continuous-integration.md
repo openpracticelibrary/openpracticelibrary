@@ -8,8 +8,8 @@ authors:
   - mtakane
   - springdo
 area: foundation-technical
-icon: /images/ci-icon.png
-jumbotron: /images/ci-splash.png
+icon: ''
+jumbotron: /images/final_continuous-integration.png
 jumbotronAlt: example pipeline
 people: 1+
 time: Minutes

@@ -5,6 +5,7 @@ date: 2018-09-04T15:33:52.049Z
 authors:
   - syvanen
 area: foundation-technical
+icon: /images/final_test-automation.png
 people: 1+
 difficulty: moderate
 participants:

@@ -10,6 +10,7 @@ authors:
 area: delivery-deliver
 perspectives:
   - product-ownership
+icon: /images/final_sprint-planning.png
 people: 3+
 time: 1-2 hours
 difficulty: moderate

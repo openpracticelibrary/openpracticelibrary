@@ -1,9 +1,10 @@
 ---
 title: Team Shared History
+subtitle: Develop a shared sense of history and a shared vision of the future
+date: 2018-06-28T05:00:00.000Z
 authors:
   - infosec812
 area: foundation-culture-and-collaboration
-date: 2018-06-28T05:00:00.000Z
 ---
 
 ## What is it?

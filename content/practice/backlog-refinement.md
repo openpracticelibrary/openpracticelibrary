@@ -9,6 +9,7 @@ authors:
 area: options
 perspectives:
   - product-ownership
+icon: /images/final_backlog-refinement.png
 people: 2+
 time: 30 minutes
 difficulty: moderate

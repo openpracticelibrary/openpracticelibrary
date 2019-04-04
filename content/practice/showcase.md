@@ -7,6 +7,7 @@ date: 2018-08-27T18:27:14.023Z
 authors:
   - tdbeattie
 area: delivery-measure-and-learn
+icon: /images/final_showcase.png
 people: 2+
 time: 1 hour
 difficulty: easy

@@ -1,6 +1,6 @@
 ---
 title: Start At The End
-subtitle: '   '
+subtitle: Describe what success looks like and use this to define the goal of effort
 date: 2018-12-18T18:26:48.625Z
 authors:
   - sherl0cks
@@ -9,6 +9,7 @@ authors:
 area: discovery-loop-why
 perspectives:
   - domain-driven-design
+icon: /images/final_start-at-the-end.png
 ---
 ## What is it?
 

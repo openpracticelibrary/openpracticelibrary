@@ -8,7 +8,7 @@ authors:
   - tdbeattie
   - springdo
 area: discovery-loop-why
-icon: /images/mbpm.jpg
+icon: /images/final_metrics-based-process-mapping.png
 jumbotron: /images/mbpm2.jpg
 jumbotronAlt: Example MBPM
 people: <10

@@ -8,6 +8,7 @@ authors:
   - tdbeattie
   - mtakane
 area: foundation-culture-and-collaboration
+icon: /images/final_definition-of-done.png
 people: 2+
 time: 15 minutes
 difficulty: easy

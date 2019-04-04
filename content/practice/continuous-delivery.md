@@ -5,6 +5,7 @@ date: 2018-09-04T06:44:12.545Z
 authors:
   - syvanen
 area: foundation-technical
+icon: /images/final_continuous-delivery.png
 people: 1+
 time: Minutes
 difficulty: moderate
