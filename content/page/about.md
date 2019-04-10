@@ -8,10 +8,8 @@ authors:
 date: 2017-10-19T21:03:59.000Z
 menu: main
 weight: 3
-aliases:
-  /about/
 ---
-
+test
 ## Goals of this Library
 This Library is intended to be a wealth of knowledge on product Discovery and Delivery practices to be adopted and evolved by a positive, engaged and supportive global community.
 
