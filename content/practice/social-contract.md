@@ -7,6 +7,7 @@ authors:
   - tdbeattie
   - rdebeasi
   - springdo
+  - infosec812
 area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
@@ -69,6 +70,7 @@ Avoid building a social contract that encourages antagonistic, command-and-contr
 * Quick means to clearly determine team dynamics and expectations
 * Promote autonomy and self governing of team behavior
 * The contract keeps the team consciously aware of how they work together
+* Establish empathy and context for future conversations between team members
 
 ## Materials Needed
 
@@ -104,3 +106,4 @@ As the team moves forward, encourage them to refer back to the contract when the
 1. <a name="footnote-1"></a>[Collaborative Face Drawing](http://www.funretrospectives.com/collaborative-face-drawing/)
 2. <a name="footnote-2"></a>[Working Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team)
 3. <a name="footnote-3"></a>[Social Contract](https://theagileexecutive.com/tag/social-contract/)
+4. [Dynamic Reteaming](https://leanpub.com/dynamicreteaming)
