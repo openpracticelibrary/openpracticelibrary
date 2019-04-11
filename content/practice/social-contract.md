@@ -18,6 +18,8 @@ participants:
   - Facilitator
   - Team Members
   - Stakeholders
+aliases:
+  - /practice/team-shared-history/
 ---
 ## What is it?
 
