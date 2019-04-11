@@ -11,7 +11,6 @@ area: discovery-loop-why
 perspectives:
   - product-ownership
 icon: /images/lean-canvas-small.png
-jumbotron: /images/lean-canvas.png
 people: 1+
 time: 1hr +
 difficulty: moderate
@@ -25,7 +24,7 @@ aliases:
 
 A Lean Canvas is a one-page document that captures key information about your future product. The Lean Canvas is frequently used by Entrepreneurs and Lean Startups.
 
-## Why Use It?
+## Why use it?
 
 This document will help structure your idea in terms of: 
 
@@ -58,27 +57,27 @@ Arielle McMahon has kindly contributed this guide to the Open Practice Library.
 
 [UX Strategy Guide Template](/images/ux-strategy-template.jpg)
 
-## How to Use the Lean Canvas
+## How to use it
 
-When filling out the canvas it is best to fill the sections out in a certain way. 
+When filling out the Lean Canvas, it is best to fill the sections out in a certain way. 
 
-1. Problem: \
+1. **Problem**\
    When filling out the problem section think with your future customer in mind. WHY is this a problem for him?
-2. Target Customer: \
+2. **Target Customer**\
    Who are your early adopters of your product, specify them in terms of demographics, situation and interest.
-3. Unique Value Preposition (UVP): \
+3. **Unique Value Preposition (UVP)** \
    Your UVP is directed to your customer, what makes your product or service so special to them? What is the benefit to them? 
-4. Solutions section:\
+4. **Solutions section**\
    It focuses on the key features of your product or service. Ideally, each aspect of the solution comes in line with one of the previously mentioned problems.
-5. Channels:\
+5. **Channels**\
    How are you planning to promote your product? An example can be via 'word of mouth', colleagues, Instagram or Facebook.
-6. Revenue Streams:\
+6. **Revenue Streams**\
    This section is about how you will make money of your product. For example: Freemium - 1st month free then you would charge $2.99 per month.
-7. Cost Structure:\
+7. **Cost Structure**\
    What are the costs you occur? An example here would be fees for Apple store or Google Pay.
-8. Key Metrics:\
+8. **Key Metrics**\
    How do you measure your success? For example: Number of paid subscribers like 300 downloads in the first month.
-9. Unfair Advantage:\
+9. **Unfair Advantage**\
    What makes your product unique. Something that cannot be easily copied or bought.
 
 When filling out the canvas, use bullet points. Don't write long sentences. A good canvas should be understood in a few minutes.
