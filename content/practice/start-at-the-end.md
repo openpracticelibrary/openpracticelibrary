@@ -10,6 +10,8 @@ area: discovery-loop-why
 perspectives:
   - domain-driven-design
 icon: /images/final_start-at-the-end.png
+aliases: 
+  - /practice/visioning/
 ---
 ## What is it?
 
@@ -21,8 +23,12 @@ Start At The End is a simple exercise to identify a set of assumptions which mus
 
 ## Why use Start At The End?
 
-* Most planning activities revolve around juggling a "shopping list of features," as Gojko Adzic calls them in [Impact Mapping](/practice/impact-mapping/). Even though the features are delivered, often the business objective is not achieved. Start At The End gives us a light weight approach to put the business value at the center of our work and make sure that assumptions that could lead to failure are clearly identified for examination 
+* Most planning activities revolve around juggling a "shopping list of features," as Gojko Adzic calls them in [Impact Mapping](/practice/impact-mapping/). Even though the features are delivered, often the business objective is not achieved. Start At The End gives us a light weight approach to put the business value at the center of our work and make sure that assumptions that could lead to failure are clearly identified for examination.
 * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
+* This activity helps you and your team envision what the future will look like when you will reach success.
+
+## Tips
+
 * When defining what success looks like, it may be helpful to focus on goal setting from the perspective of the customer and business.  Identify what value or success looks likes for your customer.  Then define what value you are looking to achieve for your business.  
 * The technique forces participants to think about failure, which many teams never do. It's surprising how much you can learn about a domain just by getting participants to share their fears. 
 * It's easy to communicate the results of the session in slide ware and project rooms. We'd recommend keeping the results up in the project space throughout your effort.
@@ -59,3 +65,4 @@ None required, but 3x5 sticky notes with markers can be useful if you want parti
 
 1. <a name="footnote-1"></a>[The Sprint Book](https://www.thesprintbook.com)
 2. <a name="footnote-2"></a>[Double Diamond design model](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
+3. [Why and How visioning works](https://www.zingtrain.com/content/why-and-how-visioning-works)
