@@ -4,6 +4,7 @@ subtitle: Start with a sketch
 date: 2018-10-30T15:46:12.331Z
 authors:
   - rdebeasi
+  - rileyi
   - pcarney8
 area: delivery-deliver
 icon: /images/ui-donal.png
