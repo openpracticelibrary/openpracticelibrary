@@ -7,8 +7,6 @@ authors:
   - sherl0cks
 area: discovery-loop-outcomes
 icon: /images/dst_logo-1-.png
-jumbotron: /images/dst_logo.png
-jumbotronAlt: Domain Storytelling Logo
 people: 2-20
 time: 10-30 min per Domain Story
 difficulty: moderate
