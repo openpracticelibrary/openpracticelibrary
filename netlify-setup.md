@@ -24,7 +24,9 @@ This is a dump of some of the things we did to setup practice libaray on my gith
 
 #### Developing locally
 
-It's possible to run the admin locally, but it will exhibit some strange behavior (see [Netlify Issue 1085](https://github.com/netlify/netlify-cms/issues/1085)). For CMS development, consider forking the repo and setting up a new Netlify site that's connected to that fork.
+The simplest way to do this is to use the `test-repo-backend` documented at https://www.netlifycms.org/docs/authentication-backends/#test-repo-backend.
+
+The instructions below provide a way of running the admin locally and still pushing to a git repo, but following those instructions may introduce unexpected behavior (see [Netlify Issue 1085](https://github.com/netlify/netlify-cms/issues/1085)). For CMS development, consider forking the repo and setting up a new Netlify site that's connected to that fork.
 
 Currently, when the admin runs locally, it uses three different data sources:
 - `config.yml` comes from the local dev environment.
