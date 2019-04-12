@@ -94,7 +94,7 @@
     </div>
     {{ end }}
 
-    {{ if (.Params.perspectives)  }}
+    {{ if .Params.perspectives }}
       {{ $numPerspectives := len .Params.perspectives }}
       <p><em>
         This {{ .Type }} is part of: 
