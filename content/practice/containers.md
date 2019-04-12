@@ -6,7 +6,6 @@ authors:
   - jamesallenred
 area: foundation-technical
 icon: /images/containers.jpg
-jumbotron: /images/containers.jpg
 people: '1'
 time: Ongoing
 difficulty: moderate
