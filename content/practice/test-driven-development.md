@@ -6,8 +6,6 @@ authors:
   - syvanen
 area: foundation-technical
 icon: /images/final_test-driven-development.png
-jumbotron: /images/tdd-lifecycle.jpg
-jumbotronAlt: TDD life cycle
 people: 1+
 difficulty: moderate
 participants:
