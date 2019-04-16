@@ -45,4 +45,5 @@ Here are some examples of priorities that could be considered. These are just a 
 
 ## Further Information
 
-* Trade off Sliders in Atassian Playbook - https://www.atlassian.com/team-playbook/plays/trade-off-sliders
+* [Trade-off Sliders](https://www.atlassian.com/team-playbook/plays/trade-off-sliders
+) in Atassian Playbook
