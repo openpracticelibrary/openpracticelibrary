@@ -9,7 +9,6 @@ authors:
   - springdo
 area: foundation-technical
 icon: ''
-jumbotron: /images/final_continuous-integration.png
 jumbotronAlt: example pipeline
 people: 1+
 time: Minutes
