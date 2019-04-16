@@ -7,6 +7,7 @@ date: 2018-09-09T11:25:30.606Z
 authors:
   - tdbeattie
   - valyonchev
+  - rdebeasi
 area: discovery-loop-outcomes
 icon: /images/final_priority-sliders.png
 people: 2+
