@@ -50,7 +50,9 @@
       {{ $authorScratch := newScratch }}
       {{ range $.Params.authors }}
         {{ $currrentAuthor := index $.Site.Data.content.author .}}
-        {{ $authorScratch.Add "listOfAuthors" (slice $currrentAuthor) }}
+        {{ if $currrentAuthor }}
+          {{ $authorScratch.Add "listOfAuthors" (slice $currrentAuthor) }}
+        {{ end }}
       {{ end }}
       {{ $listOfAuthors := $authorScratch.Get "listOfAuthors"}}
       {{ partial "author.html" $listOfAuthors }}
