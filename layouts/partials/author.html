@@ -17,14 +17,15 @@
     </figure>
     {{end}}
     <div class="author-info">
-        <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
+      <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
+      {{ if gt (len $authors) 1 }}
         <p class="author-co-authors">
             Co-Authors:
             {{ range after 1 $authors }}
               {{ .title }}
             {{ end }}
         </p>
-
+      {{ end }}
     </div>
   </section>
   {{end}}
