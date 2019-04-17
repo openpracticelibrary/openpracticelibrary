@@ -52,6 +52,9 @@
         {{ $currrentAuthor := index $.Site.Data.content.author .}}
         {{ if $currrentAuthor }}
           {{ $authorScratch.Add "listOfAuthors" (slice $currrentAuthor) }}
+        {{ else }}
+          {{/*Author isn't in site data. Build a simple author dictionary so that we can output the author's name.*/}}
+          {{ $authorScratch.Add "listOfAuthors" (slice (dict "title" . "github" .))}}
         {{ end }}
       {{ end }}
       {{ $listOfAuthors := $authorScratch.Get "listOfAuthors"}}
