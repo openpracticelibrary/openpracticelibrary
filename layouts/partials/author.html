@@ -1,5 +1,7 @@
 {{ if .}}
 {{$authors := .}}
+{{$coauthors := after 1 $authors }}
+
 {{ range first 1 . }}
 
   {{$authorname := .title}}
@@ -18,12 +20,12 @@
     {{end}}
     <div class="author-info">
       <h4><a href="{{$authorwebsite}}">{{$authorname}}</a></h4>
-      {{ if gt (len $authors) 1 }}
+      {{ if $coauthors }}
         <p class="author-co-authors">
-            Co-Authors:
-            {{ range after 1 $authors }}
-              {{ .title }}
-            {{ end }}
+          Co-Authors:
+          {{ range $key, $coauthor := $coauthors }}
+            {{ $coauthor.title }}{{- if lt $key (sub (len $coauthors) 1) }},{{ end }}
+          {{ end }}
         </p>
       {{ end }}
     </div>
