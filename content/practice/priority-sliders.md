@@ -25,6 +25,8 @@ participants:
 * A slider for each dimension where groups of people collaborative slide the relative importance to the right (more important) or left (less important).
 * A practice that increases the autonomy of teams (see decision making below)
 
+![Whiteboard with words such as "user experience" and "security". Next to each word, there is a sticky note with a number.](/images/sliders.jpg)
+
 ## Why use it?
 
 * Enables an alignment and consensus on areas of focus.
@@ -36,15 +38,15 @@ participants:
 
 Here are some examples of priorities that could be considered. These are just a starting point, though - feel free to try other priorities to suit your team and project!
 
-- Functional completeness
-- Test completeness
-- Product-market fit
-- User experience
-- Performance
-- Security
-- Learning
+* Functional completeness
+* Test completeness
+* Product-market fit
+* User experience
+* Performance
+* Stability
+* Security
+* Learning
 
 ## Further Information
 
-* [Trade-off Sliders](https://www.atlassian.com/team-playbook/plays/trade-off-sliders
-) in Atassian Playbook
+* [Trade-off Sliders](https://www.atlassian.com/team-playbook/plays/trade-off-sliders) in Atassian Playbook
