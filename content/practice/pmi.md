@@ -19,6 +19,16 @@ participants:
 
 PMI is a quick and easy way to get people thinking for a retrospective.  It can also be used at the end of the day as a team checkin for past paced intensive work sessions, and can be used to group populate an engagement journal.
 
+## How to use it?
+
+This can be a whole group discussion, or done in pairs or threes, or even a solo reflection, writing exercise.
+
+Ask everyone to reflect on the work, and jot down the plus points, the minus points, and the interesting points.
+
+The idea is to focus most on the interesting points, rather than dwell on the positives and negatives.  It's also an opportunity to compare perspectives.  One person may feel an event, or activity was interesting, whilst another found it positive etc.
+
+
+
 ## Why use it?
 
 It promotes "And" thinking.  Not just good, or bad, but points of interest too, it invites people to reflect in what happened without necessarily judging those events as good or bad. But it still lets people vent and celebrate as necessary.
