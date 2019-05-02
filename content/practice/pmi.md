@@ -2,14 +2,15 @@
 title: PMI +-?
 subtitle: plus minus interesting
 date: 2019-05-02T07:12:57.079Z
-authors: []
+authors:
+  - kattekrab
 area: delivery-measure-and-learn
 perspectives:
   - retrospective
   - reflection
   - review
 icon: /images/plus-minus-interesting.png
-people: 2+
+people: 1+
 time: 30 mins
 difficulty: easy
 participants:
