@@ -4,6 +4,7 @@ subtitle: Increasing the knowledge sharing and communication between team member
 date: 2018-08-31T15:40:43.697Z
 authors:
   - syvanen
+  - trncb
 area: foundation-culture-and-collaboration
 icon: /images/final_pairing-_-mobbing.png
 people: '2'
