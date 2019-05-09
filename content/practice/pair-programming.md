@@ -1,7 +1,7 @@
 ---
 title: Pair programming
 subtitle: Increasing the knowledge sharing and communication between team members
-date: 2018-08-31T15:40:43.697Z
+date: 2019-05-09T21:15:43.697Z
 authors:
   - syvanen
   - trncb
