@@ -5,10 +5,6 @@ date: 2019-05-02T07:12:57.079Z
 authors:
   - kattekrab
 area: delivery-measure-and-learn
-perspectives:
-  - retrospective
-  - reflection
-  - review
 icon: /images/final_retrospective.png
 jumbotron: ''
 people: 1+
