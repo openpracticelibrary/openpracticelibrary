@@ -29,10 +29,10 @@ In the context of software delivery, VSM & MBPM are excellent tools to holistica
 
 Being derived from Lean Manufacturing, VSM & MBPM visually represent the way work flows through an organization, at both a macro and micro level, from the time a customer requests a good/service, until the time a customer receives the good/service. When used together, these tools are particularly effective at:
 
-* building shared understand throughout the various levels of an organization how work is actually done
-* creating the urgency for improvement
-* formulating specific, data driven improvement plans
-* preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process
+* Building shared understanding throughout the various levels of an organization on how work is actually done
+* Creating the urgency for improvement
+* Formulating specific, data driven improvement plans
+* Preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process
 
 ## Facilitation Materials Needed
 
@@ -40,8 +40,8 @@ Some teams prefer whiteboards, but the most common approach uses paper and PostI
 
 * Drawing paper roll[<sup>3</sup>](#footnote-3).
 * Different colored wide format sticky notes like the 4x6 sticky notes[<sup>4</sup>](#footnote-4)
-* markers for the PostIts
-* charcoal pencil and eraser[<sup>5</sup>](#footnote-5) to draw lines between PostIts
+* Markers for the PostIts
+* Charcoal pencil and eraser[<sup>5</sup>](#footnote-5) to draw lines between PostIts
 * For MBPM; chalk line can be useful, but not required
 
 ## How does it fit?
