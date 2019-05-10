@@ -49,12 +49,12 @@ Once prioritised these ideas & hypothesis may lead to:
 * New stories being added
 * Complete new features being broken down into new stories
 * User Research
-* Design of Experiments
+* [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 * Spikes
 
 ## Related Practices
 
-* Kano Model 
+* [Kano Model ](https://openpracticelibrary.com/practice/kano-model/)
 * [Whole Product Plotting](https://openpracticelibrary.com/practice/whole-product-plotting/)
 * [How-Now-Wow Matrix](https://openpracticelibrary.com/practice/how-now-wow-prioritization-matrix/)
 * User Research

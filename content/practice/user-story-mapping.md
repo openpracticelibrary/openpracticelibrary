@@ -1,10 +1,14 @@
 ---
 title: User Story Mapping
+subtitle: >-
+  Create lightweight release plans by slicing value out of collections of
+  features
+date: 2017-04-20T05:00:00.000Z
 authors:
   - mtakane
   - rdebeasi
 area: discovery-loop-outcomes
-date: 2017-04-20T05:00:00.000Z
+icon: /images/final_value-slicing.png
 ---
 
 ## What is it?

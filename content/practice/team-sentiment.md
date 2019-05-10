@@ -1,10 +1,12 @@
 ---
 title: Team Sentiment
+subtitle: Track the mood of a team with visible feedback
+date: 2018-03-31T21:53:43.000Z
 authors:
   - tdbeattie
   - mtakane
 area: foundation-culture-and-collaboration
-date: 2018-03-31T21:53:43.000Z
+icon: /images/final_team-sentiment.png
 ---
 
 

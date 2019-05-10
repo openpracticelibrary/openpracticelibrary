@@ -32,11 +32,9 @@ This is a feedback loop practice, which allows the team to get prompt feedback f
 
 The Cohort Analysis aims to produce actionable insights, which can inform better product decisions instead of using gut feel. 
 
-This practice enables product decisions for improvement, enhancement, overhaul or discontinuing of products/features. It is key practice in the sequence of practices which start with Design of experiments and aims to improve the product performance in terms of business outcomes. 
+This practice enables product decisions for improvement, enhancement, overhaul or discontinuing of products/features. It is key practice in the sequence of practices which start with [Design of experiments](https://openpracticelibrary.com/practice/design-of-experiments/) and aims to improve the product performance in terms of business outcomes. 
 
 The cohort analysis helps the team understand the impact of product/feature changes by comparing performance across comparable data sets (e.g. newly signed up users). It can help drive improvements towards a achieving a concrete and measurable goal, the pursuit of which results in change of user behaviour.
-
-
 
 ## Related Practices
 
@@ -44,9 +42,7 @@ Personas
 
 [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 
-Funnel Analysis
-
-
+[Funnel Analysis](https://openpracticelibrary.com/practice/funnel-analysis/)
 
 ## Further information
 

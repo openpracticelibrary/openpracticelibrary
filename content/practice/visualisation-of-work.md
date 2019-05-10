@@ -1,11 +1,13 @@
 ---
-title: "Visualisation of Work"
-date: 2018-04-08T21:41:51+01:00
-draft: false
-authors: ["tdbeattie", "mtakane"]
-subtitle: "The Information Radiator"
-jumbotron: "/images/visualisation-of-work.png"
+title: Visualisation of Work
+subtitle: The Information Radiator
+date: 2018-04-08T20:41:51.000Z
+authors:
+  - tdbeattie
+  - mtakane
 area: foundation-culture-and-collaboration
+icon: /images/final_visualization-of-work.png
+jumbotron: /images/visualisation-of-work.png
 ---
 
 ## What is Visualisation of Work?
