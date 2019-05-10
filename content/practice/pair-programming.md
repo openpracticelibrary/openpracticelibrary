@@ -14,7 +14,7 @@ participants:
 ---
 ## What is it?
 
-* An agile practice where two team members work together on one workstation (one keyboard and mouse) to implement a feature.
+* An agile practice where two team members work together on one workstation (one keyboard and mouse) to implement a feature. 
 
 ## Why use it?
 
