@@ -42,14 +42,14 @@ For example, when we talk about [visualisation of work](https://openpracticelibr
 
 ## Further Information
 
-Examples:
+Examples of shared principles in organisations:
 
 * [Agile Manifesto](https://agilemanifesto.org/)
 * [Beta Codex 12 Laws](https://betacodex.org/)
 * [UK Government Digital Service](https://www.gov.uk/service-manual/service-standard)
 * [Australian Government Digital Transformation Agency](https://www.dta.gov.au/help-and-advice/digital-service-standard/digital-service-standard-criteria)
 
-Further Reading
+Further Reading:
 
 * [Extreme Programming: Values, Principles, and Practices](https://www.altexsoft.com/blog/business/extreme-programming-values-principles-and-practices/)
 * [Practices, Principles, Values](https://brodzinski.com/2014/08/practices-principles-values.html)
