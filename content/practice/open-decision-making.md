@@ -1,5 +1,5 @@
 ---
-title: Open Decision Making
+title: Open Leadership
 subtitle: >-
   A specific fusion of behaviors and mindsets characterizes the next generation
   of leaders.
