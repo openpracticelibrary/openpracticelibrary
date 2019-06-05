@@ -8,6 +8,7 @@ authors:
   - rdebeasi
   - springdo
   - infosec812
+  - eranderson921
 area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
