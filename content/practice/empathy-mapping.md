@@ -8,6 +8,7 @@ authors:
   - tdbeattie
   - valyonchev
 area: discovery-loop-why
+icon: /images/final_empathy-mapping.png
 people: '2'
 time: 15 minutes
 difficulty: easy
