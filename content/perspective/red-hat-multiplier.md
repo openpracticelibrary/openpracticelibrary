@@ -6,6 +6,8 @@ subtitle: >-
 date: 2019-06-10T21:38:53.407Z
 authors:
   - shabshah
+jumbotron: /images/josh-calabrese-236920-unsplash.jpg
+jumbotronAlt: 'Photo by Josh Calabrese on Unsplash : https://unsplash.com/search/photos/power'
 ---
 ## What is it?
 
