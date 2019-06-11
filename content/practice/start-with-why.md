@@ -81,18 +81,18 @@ The vision is the founder’s intent, “Why” the company was founded. The mis
 
 When both are clear, it will help the “Why” and the “How” type of leaders to have clearly defined roles in the partnership.
 
-# Examples of Finding Your Why?
+# Finding Your Why?
 
 Every individual or organisation can take a different approach to find their why.
 
-Red Hat used the [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework) across their whole organisation to find their why, which is "Open unlocks the world's potential".
-
-* <https://opensource.com/open-organization/17/9/rediscovering-your-why>
-* <https://opensource.com/open-organization/18/6/explaining-your-why>
+Red Hat used the [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework) across their whole organisation to[ find their why](https://www.redhat.com/en/blog/why-open-has-been-red-hat%E2%80%99s-compass-and-purpose-25-years), which is "Open unlock's the world's potential".
 
 ## Further Information
 
-* <https://www.youtube.com/watch?v=u4ZoJKF_VuA>
-* <https://simonsinek.com/find-your-why/>
-* <https://en.wikipedia.org/wiki/Start_With_Why>
-* <https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/>
+<https://www.youtube.com/watch?v=u4ZoJKF_VuA>
+
+<https://simonsinek.com/find-your-why/>
+
+<https://en.wikipedia.org/wiki/Start_With_Why>
+
+<https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/>
