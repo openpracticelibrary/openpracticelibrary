@@ -18,7 +18,7 @@ Last year, Red Hat embarked on a journey to articulate our company's "Why"—our
 
 Simon Sinek, author, Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team,  points out that many say why is particularly important during moments of uncertainty, but the reality is that things are always uncertain. Unless you begin with the end in mind by starting with why, you will get obsessed with daily metrics. The daily gets us sidetracked from the long game.
 
-Red Hat's Why : 
+Red Hat's Why **:** 
 
 "Open unlocks the world's potential" 
 
@@ -30,15 +30,11 @@ Red Hat's Why :
 
 ## Further Information
 
-Delisa Alexander, Executive Vice President & Chief People Officer, shares here views about scaling our culture :<https://opensource.com/open-organization/18/6/explaining-your-why>
+Delisa Alexander, Executive Vice President & Chief People Officer, shares her views about scaling our culture :<https://opensource.com/open-organization/18/6/explaining-your-why>
 
 Learn more about Scaling our culture guided discussions : <https://github.com/red-hat-people-team/scaling-our-culture>
 
-What 
-
-Other Resources and Links : 
-
-
+**Other Resources and Links :** 
 
 Find Your Why : <https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519103677&sr=1-5&keywords=Simon+Sinek&linkCode=sl1&tag=aocbooks-20&linkId=fa8142c4a3615ba2692e83f505552e8c>
 
