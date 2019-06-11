@@ -33,3 +33,7 @@ DeLisa Alexander is Executive Vice President and Chief People Officer. Read her 
 Connect with open organisation community : <https://opensource.com/open-organization>
 
 Download the first chapter of the book Open Organisation :<https://opensource.com/open-organization/resources/chapter1>
+
+Download Open Organisation Field-guide : <https://opensource.com/open-organization/resources/book-series?src=too_resource_menu1a#field>
+
+Download Open Organisation Work Book : <https://opensource.com/open-organization/resources/workbook>
