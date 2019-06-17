@@ -8,7 +8,7 @@ authors:
   - shabshah
 area: foundation-culture-and-collaboration
 perspectives:
-  - Leadership works differently at Red Hat. In our open organization
+  - In open organizations
   - >-
     people don't just receive the status of "leader" when appointed to a
     position or given a title. Instead
