@@ -6,8 +6,8 @@ authors:
   - tenfourty
 area: discovery-loop-why
 perspectives: []
-icon: /images/golden-circle.webp
-jumbotron: /images/golden-circle.webp
+icon: /images/golden-circle.png
+jumbotron: /images/golden-circle.png
 jumbotronAlt: Start With Why
 people: 1+
 time: 1 day to 1 year
