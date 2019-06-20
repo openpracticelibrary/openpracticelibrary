@@ -38,3 +38,9 @@ More tooling around OpenAPI can be found [HERE](https://openapi.tools/)
 ## Related Practices
 
 [Definition Of Done](https://openpracticelibrary.com/practice/definition-of-done/)
+
+## Further Information
+
+[OpenAPI](https://swagger.io/docs/specification/about/)
+[OpenAPI Generator](https://openapi-generator.tech/)
+[OpenAPI Tools](https://openapi.tools/)
