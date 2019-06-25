@@ -5,9 +5,7 @@ date: 2019-06-11T08:45:38.061Z
 authors: []
 jumbotron: /images/bus_oswhy_520x292_ma.png
 ---
-It's easy for us to lose sight of who we want to be as an organization, and why we do what we do. Why are we in business? Why do we advance the mission that we have embraced?     Working together with Simon Sinek and many associates across the globe,  a year-long journey to re-discover our overarching company, functional, and personal "Why" was embarked on. 
-
-
+It's easy for us to lose sight of who we want to be as an organization, and why we do what we do. Why are we in business? Why do we advance the mission that we have embraced?     Working together with Simon Sinek and many associates across the globe,  a year-long journey to re-discover our overarching company, functional, and personal "Why" was embarked upon. 
 
 ## What is it?
 
