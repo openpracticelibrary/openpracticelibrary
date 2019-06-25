@@ -1,15 +1,14 @@
 ---
-title: 'Scaling Our Culture, Red Hat''s "Why"'
-subtitle: >-
-  As Red Hat grows, it's easy for us to lose sight of who we want to be as an
-  organization, and why we do what we do. Why are we in business? Why do we
-  advance the mission that we have embraced?     Working together with Simon
-  Sinek and many Red Hatters across the globe, we embarked on a year-long
-  journey to re-discover our overarching company, functional, and personal Whys
+title: Scaling Culture - Finding the  "Why"
+subtitle: 'CASE-STUDY How to find your "WHY" with a case study of Red Hat as reference. '
 date: 2019-06-11T08:45:38.061Z
 authors: []
 jumbotron: /images/bus_oswhy_520x292_ma.png
 ---
+It's easy for us to lose sight of who we want to be as an organization, and why we do what we do. Why are we in business? Why do we advance the mission that we have embraced?     Working together with Simon Sinek and many associates across the globe,  a year-long journey to re-discover our overarching company, functional, and personal "Why" was embarked on. 
+
+
+
 ## What is it?
 
 Last year, Red Hat embarked on a journey to articulate our company's "Why"—our highest level reason for existing in the world. We followed an open and inclusive process that engaged more than 10,000 Red Hatters.
