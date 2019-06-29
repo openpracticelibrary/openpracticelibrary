@@ -19,9 +19,9 @@ participants:
 
 ## Why use it?
 
-* Surfaces topics that the participants want to discuss
-* Helps create more value out the of conversation since it's participant-run
-* For meetings with a specific focus, add scope to the discussion topics
+* Allows participants to discuss about topics they want
+* Builds engagement and helps create more value out the of conversation since it's participant-run
+* For meetings with a specific focus, agree on the scope of the discussion topics with participants
 
 ## Materials Needed
 
