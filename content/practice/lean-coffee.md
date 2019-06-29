@@ -6,6 +6,8 @@ authors:
   - prakritiverma
 area: foundation-culture-and-collaboration
 perspectives: []
+icon: /images/lean-coffee-2.jpg
+jumbotron: /images/lean-coffee-2.jpg
 time: 30+ min
 difficulty: easy
 participants:
