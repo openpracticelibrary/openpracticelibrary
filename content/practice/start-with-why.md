@@ -5,7 +5,6 @@ date: 2019-05-22T12:57:41.956Z
 authors:
   - tenfourty
 area: discovery-loop-why
-perspectives: []
 icon: /images/golden-circle.png
 jumbotron: /images/golden-circle.png
 jumbotronAlt: Start With Why
