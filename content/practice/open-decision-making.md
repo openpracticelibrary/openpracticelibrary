@@ -7,24 +7,6 @@ date: 2019-05-30T18:20:06.600Z
 authors:
   - shabshah
 area: foundation-culture-and-collaboration
-perspectives:
-  - Leadership works differently at Red Hat. In our open organization
-  - >-
-    people don't just receive the status of "leader" when appointed to a
-    position or given a title. Instead
-  - >-
-    leaders earn their leadership positions when they adopt a certain
-    combination of behaviors and mindsets.  Learn about open organizations
-    Download free books Get the newsletter What is an open organization? How
-    open is your organization? That special combination of behaviors and
-    mindsets is something we call "open leadership." We study it very closely.
-    Because if we can understand
-  - document
-  - and actively cultivate it
-  - >-
-    we know we can build an organization full of innovative and passionate
-    people enabling the best in one another. Let me explain what it makes it so
-    powerfu
 jumbotron: /images/pic-students-working-on-project.jpg
 time: 'Depends on the size of an initiative, objective or decision to be taken.'
 difficulty: moderate
