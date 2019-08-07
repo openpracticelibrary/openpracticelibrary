@@ -6,9 +6,6 @@ authors:
   - rnestdvops
   - fabiopereira
 area: delivery-measure-and-learn
-perspectives:
-  - retrospectives
-  - closed-loop cycles
 icon: /images/8-spoke-spider.png
 jumbotron: /images/target-outcome-radar.jpeg
 people: 2+
