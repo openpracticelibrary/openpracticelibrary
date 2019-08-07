@@ -7,9 +7,11 @@
     "doc": "docs"
   },
   "dependencies": {
-    "grunt": "^1.0.3",
-    "js-yaml": "^3.12.0",
-    "string": "^3.3.3"
+    "grunt": "^1.0.4",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.13",
+    "string": "^3.3.3",
+    "underscore.string": "^3.3.5"
   },
   "devDependencies": {},
   "scripts": {
