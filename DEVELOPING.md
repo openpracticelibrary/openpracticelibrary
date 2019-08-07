@@ -40,7 +40,7 @@ These steps build the whole site, including card images and the search index. Th
 
 1. [Install Hugo](https://gohugo.io/getting-started/installing/).
 2. [Install Node.js](https://nodejs.org/en/download/).
-3. Check out this repo.
+3. Check out [this repo](https://github.com/openpracticelibrary/openpracticelibrary.git).
 4. Navigate to the directory where you checked out this repo.
 5. Install ImageMagick:
   - macOS: `brew install imagemagick`
