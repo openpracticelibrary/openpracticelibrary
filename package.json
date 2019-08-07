@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "grunt": "^1.0.3",
-    "js-yaml": "^3.12.0",
+    "js-yaml": "^3.13.1",
     "string": "^3.3.3"
   },
   "devDependencies": {},
