@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.0.4",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.13",
     "string": "^3.3.3",
