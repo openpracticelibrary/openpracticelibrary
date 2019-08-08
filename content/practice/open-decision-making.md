@@ -7,8 +7,6 @@ date: 2019-05-30T18:20:06.600Z
 authors:
   - shabshah
 area: foundation-culture-and-collaboration
-perspectives:
-  - ''
 jumbotron: /images/pic-students-working-on-project.jpg
 time: 'Depends on the size of an initiative, objective or decision to be taken.'
 difficulty: moderate
