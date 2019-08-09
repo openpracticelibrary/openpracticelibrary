@@ -7,7 +7,7 @@ authors:
 area: discovery-loop-outcomes
 perspectives:
   - start-with-why
-icon: /images/purpose-values-principles-practices.svg
+icon: /images/purpose-values-principles-practices.png
 jumbotronAlt: Establish Shared Principles
 people: 1+
 time: 1 hour+
