@@ -69,6 +69,8 @@ For the process to work, it is important that the participants understand it wel
 
 ## Further Information
 By "consensing" we mean the creative process of finding the best possible approximation of consensus, that is, the greatest possible agreement among people. "Systemic" we call the process described here, because it systemically leads to a constructive and cooperative behavior of all parties without being dependent on their goodwill or other qualities.
-"Systemic Consensing" was first developed and described by the Germans Visotschnig and Schrotta, they published 2005 a book (["Das SK Prinzip - Wie man Konflikte ohne Machtkämpfe löst"](http://www.amazon.de/SK-Prinzip-Konflikte-ohne-Machtk%C3%A4mpfe-l%C3%B6st/dp/3800070960/ref=sr_1_1?s=books&ie=UTF8&qid=1291638226&sr=1-1)) about this way of decision finding. 
+"Systemic Consensing" was first developed and described by the Germans Visotschnig and Schrotta, they published 2005 a book (["Das SK Prinzip - Wie man Konflikte ohne Machtkämpfe löst"](http://www.amazon.de/SK-Prinzip-Konflikte-ohne-Machtk%C3%A4mpfe-l%C3%B6st/dp/3800070960/ref=sr_1_1?s=books&ie=UTF8&qid=1291638226&sr=1-1)) about this way of decision finding.
+
+There is a free ebook in German language ["Einführung in systemisches Konsensieren"](http://www.sk-prinzip.eu/wp-content/uploads/2017/05/Einführung-in-systemisches-Konsensieren.pdf) .
 
 
