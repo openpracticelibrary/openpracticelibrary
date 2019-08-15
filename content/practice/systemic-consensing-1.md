@@ -4,7 +4,7 @@ subtitle: How to find minimal viable decisions in a group
 date: 2019-08-15T09:41:01.795Z
 authors:
   - zene22
-area: options
+area: foundation-culture-and-collaboration
 perspectives: []
 people: 3+
 time: '>= 30 minutes'
