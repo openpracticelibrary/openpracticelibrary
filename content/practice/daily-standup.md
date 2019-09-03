@@ -19,8 +19,13 @@ participants:
 ---
 # What is it?
 
-* Team get together to transparently share the ongoing work and highlight roadblocks
+* The main point of a daily standup (Daily Scrum) is for the team to better align towards the sprint goal
+* Teams get together to share transparently the ongoing work and highlight roadblocks/impediments they might be facing
 * It is a review of the things that were DONE and things we intend to get DONE. 
+* Typically this is achieved by team members answering 3 questions 
+  1. What did you do yesterday?
+  2. What will you do today?
+  3. Do you have any blockers or impediments?
 
 
 
@@ -31,8 +36,12 @@ participants:
 * Focus on getting things done rather than what keeps us busy
 * It is a reinforcement of the goal and direction the team is after and a point of recharging the team with new energy for pursuing the goal
 
+## Advice
 
+* As mentioned above, the main point of a stand up is alignment. Be careful it doesn't drift into a status update, focus on what those around you need to know and park any conversations not relevant until the end.
 
 ## Further materials
 
 A [Daily Standup music alert playlist](https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag) on YouTube
+
+[IBM Daily Stand up](https://www.youtube.com/watch?v=GzQjGhD5tSU)
