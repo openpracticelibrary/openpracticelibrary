@@ -25,16 +25,12 @@ participants:
 * Team members use this opportunity to further their shared understanding of the Product Owner's (and stakeholders they represent) acceptance criteria (or conditions of satisfaction) for features they are going to accept into the iteration.
 * Team members decompose features into low level tasks with full breadth to deliver the features to a level whereby all of the Product Owner's conditions of satisfaction are met and the Definition of Done is satisfied.
 
-
-
 ## Why use it?
 
 * Sets up the entire team for success throughout the iteration. Teams tend to focus on goals and activities more, when an end-date (deadline) has been set, by which the work needs to be completed. Keeping the overall iteration goal in mind, it keeps the team focused and ensures progress throughout the project.
 * Provides aligned and shared understanding of features to be worked on.
 * Provides a focus session of collaboration between all team members to determine all work tasks required to deliver the features into the next increment on the product.
 * A short burst of intense focus to build confidence across the team in their ability to achieve the next outcome and provide a space to collaborate to achieve this.
-
-
 
 ## How to do it?
 
@@ -44,7 +40,10 @@ participants:
 
 INPUTS: 
 
-* Identified set of prioritized and defined User Stories from the Product Owner to the team
+* Identified set of prioritised and defined User Stories from the Product Owner to the team
+* Capacity – Who is available, Are there any holiday, big meetings, etc during this period
+* Velocity – How much has the team been able to produce recently
+* Feedback ,Retro Actions and training – What else could provide value?
 
 AGENDA:
 
@@ -57,8 +56,6 @@ AGENDA:
 OUTPUTS: 
 
 * Closed out previous Sprint. Load what seems to be an appropriate and agreed upon amount of stories for the next Sprint. 
-
-
 
 ## Related Links
 
