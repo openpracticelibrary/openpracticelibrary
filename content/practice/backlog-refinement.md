@@ -31,3 +31,13 @@ participants:
   * Scope of work in the backlog
   * Conditions of satisfaction
   * Prioritization of what to do first
+
+## How often should it occur and for how long?
+
+* The simple answer is as often as is necessary
+* Typically its advised that 1 hour of refinement should suffice for each week of the sprint 
+
+## Advice
+
+* Although typically occurring as a team meeting, backlog refinement can occur throughout the sprint with the required parties. However information gained in this meeting must be adequately radiated to those who need it.
+* Product owners are also not necessarily required for a backlog refinement. The key is to have those who have sufficient knowledge to talk through a backlog item and answer questions. This may come in the form of a Product owner, Stakeholder, Developer etc
