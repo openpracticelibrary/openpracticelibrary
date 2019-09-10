@@ -14,7 +14,7 @@ Retrospectives provide opportunities for groups to reflect, inspect and adapt th
 
 ## Why use Retrospectives?
 
-Retrospectives facilitate continuous improvement. Rather than wait until the end of a project to run a full "lessons learned" exercise for the entire delivery, we encourage taking short time boxes during delivery for the team to course correct and find ways to improve their way of working.
+Retrospectives facilitate continuous improvement. Rather than wait until the end of a project to run a full "lessons learned" exercise for the entire delivery, we encourage taking short time boxes during delivery for the team to course correct and find ways to improve their way of working. This should come in the form of  actions agreed by the team with owners and estimated time due dates, allowing for tracking and helping to ensure their completion. 
 
 ## Related Practices
 
@@ -57,8 +57,15 @@ There are lots of different formats retrospectives can take (see the references 
 
 * Typically done in the Learn and Measure area of the Delivery of the Open Practice Library
 
+## Advice
+
+* Be careful not to dwell too heavily on things outside of the teams control. Ensure you track them and raise them to the relevant owners but value can rarely be found in a one hour ranting session.
+* Retro's are within reason whatever a team needs to be. They can be broad and encompass multiple issues and problems, or with the teams permission can drill down into specific issues using techniques such as the 5 whys.
+* Locations can play a major role in the outcome of a Retrospective. Changing a Retro location to a Cafe, pub or even using techniques such as the walking retro can help to drive out different problems/issues that might not have come up otherwise
+
 ## External References
 
 1. ["Agile Retrospectives: Makings Good Teams Great" by Esther Derby and Diana Larsen](http://amzn.eu/is9H7Az)
 2. [Fun Retrospectives](http://www.funretrospectives.com/)
 3. [Retrospective Coaching Cards by Geoff Watts](https://www.amazon.co.uk/Retrospective-Coaching-Cards-Geoff-Watts/dp/0957587473/ref=sr_1_16?ie=UTF8&qid=1523958717&sr=8-16&keywords=retrospectives)
+4. [Retromat: Retro ideas](https://retromat.org/en/?id=122-64-55-48-71)
