@@ -4,7 +4,7 @@ subtitle: Involving stakeholders in defining acceptance criteria
 date: 2019-09-23T00:25:52.711Z
 authors:
   - jacobsee
-area: delivery-deliver
+area: options
 perspectives: []
 icon: /images/example-mapping-2-.png
 people: 2+
