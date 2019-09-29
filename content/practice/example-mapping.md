@@ -25,6 +25,8 @@ Example mapping is a technique for fleshing out and gaining clarity around the a
 
 Begin by selecting a story and write it on a yellow sticky note. Place it at the top of your example map as a header. In a horizontal row underneath that, begin writing business rules on blue sticky notes. Beneath the blue business rules, create columns of green sticky notes with individual examples of those business rules. These could be relatively unstructured, Friends-style "The one where..." examples, or full blown Gherkin criteria. As misunderstandings arise surrounding individual examples or entire business rules, add red stickies with questions written on them if the right people to answer the question or resolve the misunderstanding are not in the room.
 
+![](/images/example-mapping-1-.png "Example Map")
+
 ## Why use it?
 
 Example mapping can be used with a team and stakeholders as a tool to ensure that the team appropriately understands what is expected as a part of the story. It gets the stakeholders involved in the development of acceptance criteria, and may bring to light misunderstandings while discussing specific examples of business rules.
