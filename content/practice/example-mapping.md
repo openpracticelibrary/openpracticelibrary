@@ -29,7 +29,7 @@ As misunderstandings arise surrounding individual examples or entire business ru
 
 When there are enough examples that everyone is comfortable with what is being asked in the story, they can be rewritten as both automated tests and acceptance criteria.
 
-![](/images/example-mapping-1-.png "Example Map")
+![](/images/example-mapping-2-.png "Example Map")
 
 ## Why use it?
 
