@@ -23,7 +23,7 @@ Example mapping is a technique for fleshing out and gaining clarity around the a
 3. Green - for examples of rules
 4. Red - for questions that arise during the discussion
 
-Begin by selecting a story and write it on a yellow sticky note. Place it at the top of your example map as a header. In a horizontal row underneath that, begin writing business rules on blue sticky notes. Beneath the blue business rules, create columns of green sticky notes with individual examples of those business rules. These could be relatively unstructured, Friends-style "The one where..." examples, or full blown Gherkin criteria. As misunderstandings arise surrounding individual examples or entire business rules, add red stickies with questions written on them if the right people to answer the question or resolve the misunderstanding are not in the room.
+Begin by selecting a story and write it on a yellow sticky note. Place it at the top of your example map as a header. In a horizontal row underneath that, begin writing business rules on blue sticky notes. Beneath the blue business rules, create columns of green sticky notes with individual examples of those business rules. These could be relatively unstructured, Friends-style "The one where..." examples, or full blown Gherkin criteria. As misunderstandings arise surrounding individual examples or entire business rules, add red stickies with questions written on them if the right people to answer the question or resolve the misunderstanding are not in the room. When there are enough examples that everyone is comfortable with what is being asked in the story, they can be rewritten as both automated tests and acceptance criteria.
 
 ![](/images/example-mapping-1-.png "Example Map")
 
