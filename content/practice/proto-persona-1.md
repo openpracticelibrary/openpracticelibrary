@@ -23,16 +23,16 @@ Proto-personas in Lean UX are like personas but without validation through month
 
 * **Shared understanding:**\
   This process helps everyone in the team to build a common vocabulary of the users they will design and develop. As a result decision making will be easier and designing product will be more focused.
-* **Decision Making:**\
-  Having a clearly stated persona attributes also helps in decision making quicker. This will help prioritizing and agree on which feature will be more beneficial for the well defined personas.
-* **Focus:**\
+* **Help prioritise:**\
+  Having a clearly stated persona attributes also helps in decision making quicker. This will help prioritising and agree on which feature will be more beneficial for the well defined personas.
+* **Drives focus:**\
   Helps the team focus on the goal and targeted users throughout.
 * **Avoid risky knowledge gap:**\
   There is a risk in knowledge gap between the team who creates persona and who uses them for e.g: external research team and the team working on the project. There is a risk of not learning about users throughout the product design cycle. In Lean UX approach, the team creates the proto-persona together and validates them throughout their learnings.
 * **Iterative approach:**\
   In Lean UX, persona is not one-time activity whereas the persona goes through multiple iterative process through learnings.
 * **Recruiting correct user type for usability testing:**\
-  This also helps in prioritizing for future usability testing on the focus user groups to validate the assumptions.
+  This also helps in prioritising for future usability testing on the focus user groups to validate the assumptions.
 
 ## How to create and use proto-persona?
 
