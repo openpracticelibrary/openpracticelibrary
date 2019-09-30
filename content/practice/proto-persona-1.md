@@ -36,7 +36,7 @@ Proto-personas in Lean UX are like personas but without validation through month
 
 ## How to create and use proto-persona?
 
-* It is best to create the persona together in a team to build shared understanding so everyone feels contributed. So, everyone buys-in on the final persona.
+* It is best to create the persona together in a team to build shared understanding so everyone feels contributed and buys-in on the final persona.
 * Discuss the group of users you have identified in user journey mapping, event storming and so on. List them down in posted note and discuss among the team and focus on the primary, secondary or focused user group whose problem you are trying to solve as a team.
 * Use the template or draw to list down their Attributes, Goal, Obstacles. Ofcourse, do not forget to give your persona a name.
 * Finally, put it on the wall and discuss in a team on your findings to built a consensus. Agree collectively as a team on the persona that suits your projects.
