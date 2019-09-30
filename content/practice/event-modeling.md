@@ -27,4 +27,4 @@ To help better understand and model an Event-Driven System with clarity for all 
 
 ## Further Information
 
-https://eventmodeling.org/posts/what-is-event-modeling/
+<https://eventmodeling.org/posts/what-is-event-modeling/>
