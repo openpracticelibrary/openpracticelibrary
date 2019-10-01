@@ -6,7 +6,7 @@ authors:
   - beckerjs
 area: discovery-loop-outcomes
 perspectives:
-  - value-stream-mapping
+  - ''
 icon: /images/opp-solution-tree.jpg
 jumbotron: /images/opp_solution_tree2.jpg
 people: 3+
