@@ -21,8 +21,6 @@ participants:
 
 An Opportunity Solution Trees is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested.
 
-![](/images/opportunity-solution-tree.png)
-
 ## Why use it?
 
 This practice is a great way to ensure a product team is taking the time to prioritize user needs and generate enough solutions to needs to broaden the potential for finding the best idea. Often times, a team generates a solution and begins development right away without considering whether a solution is a good one. But "good" is a relative term, so ideally teams should be generating a myriad of product solutions in order to compare and contrast and allow the best option to emerge.
