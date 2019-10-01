@@ -8,7 +8,7 @@ area: discovery-loop-outcomes
 perspectives:
   - value-stream-mapping
 icon: /images/opp-solution-tree.jpg
-jumbotron: /images/opp_solution_tree2-1024x545.jpg
+jumbotron: /images/opp_solution_tree2.jpg
 people: 3+
 time: 30-90min
 difficulty: easy
@@ -21,7 +21,7 @@ participants:
 
 An Opportunity Solution Trees is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested.
 
-![](/images/opportunity-solution-tree.png "Digital Opportunity Solution Tree")
+![](/images/opportunity-solution-tree.png)
 
 ## Why use it?
 
