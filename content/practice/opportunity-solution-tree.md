@@ -10,7 +10,7 @@ perspectives:
 icon: /images/opp-solution-tree.jpg
 jumbotron: /images/opp_solution_tree2.jpg
 people: 3+
-time: 30-90min
+time: 30-90 min
 difficulty: easy
 participants:
   - Product Manager/Owner
