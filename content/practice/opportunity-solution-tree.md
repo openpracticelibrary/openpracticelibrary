@@ -39,8 +39,6 @@ An Opportunity Solution Tree can be used at any point in the product lifecycle, 
 
 ## Further Information
 
-
-
-1. Writeup and conference talk from Teresa Torres, the creator of the Opportunity Solution Tree: https://www.mindtheproduct.com/2017/10/critical-thinking-product-teams-teresa-torres/
-2. Step-by-step walkthrough of the process with visual examples: https://cogent.co/blog/the-opportunity-solution-tree/
-3. Super deep-dive into the history and process of the Opportunity Solution Tree: https://www.producttalk.org/2016/08/opportunity-solution-tree/
+1. [Writeup and conference talk from Teresa Torres, the creator of the Opportunity Solution Tree](https://www.mindtheproduct.com/2017/10/critical-thinking-product-teams-teresa-torres/)
+2. [Quick step-by-step walkthrough of the process with visual examples](https://cogent.co/blog/the-opportunity-solution-tree/)
+3. [Deep-dive into the history and process of the Opportunity Solution Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/)
