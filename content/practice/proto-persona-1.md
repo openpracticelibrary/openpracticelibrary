@@ -1,6 +1,6 @@
 ---
 title: Proto-Persona
-subtitle: Defining your target audience
+subtitle: Define your target audience
 date: 2019-09-30T14:03:05.075Z
 authors:
   - dsunwar
