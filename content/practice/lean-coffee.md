@@ -6,8 +6,6 @@ authors:
   - prakritiverma
 area: foundation-culture-and-collaboration
 perspectives: []
-icon: /images/lean-coffee-2.jpg
-jumbotron: /images/lean-coffee-2.jpg
 time: 30+ min
 difficulty: easy
 participants:
@@ -21,9 +19,9 @@ participants:
 
 ## Why use it?
 
-* Allows participants to discuss about topics they want
-* Builds engagement and helps create more value out the of conversation since it's participant-run
-* For meetings with a specific focus, agree on the scope of the discussion topics with participants
+* Surfaces topics that the participants want to discuss
+* Helps create more value out the of conversation since it's participant-run
+* For meetings with a specific focus, add scope to the discussion topics
 
 ## Materials Needed
 
