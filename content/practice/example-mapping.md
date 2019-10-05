@@ -21,7 +21,7 @@ Example mapping is a technique for fleshing out and gaining clarity around the a
 
 ## When to use it?
 
-Example mapping should be used with a team and stakeholders as a tool to ensure that the team appropriately understands what is expected of the story. It gets the stakeholders involved in the development of acceptance criteria, and brings to light misunderstandings while discussing specific examples of business rules.
+Example mapping should be used when you have the right people in the room to be able to explain business rules and example scenarios, and a technical team that can ask the right questions about those rules. It should be used as a tool to ensure that the team appropriately understands what is expected of the story, and to get the stakeholders involved in the development of acceptance criteria. It also brings to light misunderstandings while discussing specific examples of business rules.
 
 ## How to do it?
 
