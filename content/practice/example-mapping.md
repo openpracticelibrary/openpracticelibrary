@@ -17,7 +17,15 @@ participants:
 ---
 ## What is it?
 
-Example mapping is a technique for fleshing out and gaining clarity around the acceptance criteria for a given story. Example mapping uses four different colors of sticky notes, which are:
+Example mapping is a technique for fleshing out and gaining clarity around the acceptance criteria for a given story. It is based on the idea that multiple examples of specific cases convey information better than a single bad abstraction of a concept.
+
+## When to use it?
+
+Example mapping should be used with a team and stakeholders as a tool to ensure that the team appropriately understands what is expected of the story. It gets the stakeholders involved in the development of acceptance criteria, and brings to light misunderstandings while discussing specific examples of business rules.
+
+## How to do it?
+
+Example mapping uses four different colors of sticky notes, which are:
 
 1. Yellow - for the story itself (as a header for the example map)
 2. Blue - for specific rules associated with the story
@@ -31,12 +39,6 @@ As misunderstandings arise surrounding individual examples or entire business ru
 When there are enough examples that everyone is comfortable with what is being asked in the story, they can be rewritten as both automated tests and acceptance criteria.
 
 ![](/images/example-mapping-2-.png "Example Map")
-
-## Why use it?
-
-Example mapping can be used with a team and stakeholders as a tool to ensure that the team appropriately understands what is expected as a part of the story. It gets the stakeholders involved in the development of acceptance criteria, and may bring to light misunderstandings while discussing specific examples of business rules.
-
-Most of all: Multiple examples of specific cases convey information better than a single bad abstraction of a concept.
 
 ## Further Information
 
