@@ -18,7 +18,7 @@ participants:
 ---
 ## What is proto-persona?
 
-Proto-personas in Lean UX are like personas but without validation through months of lengthy expensive research studies. This is a ad-hoc persona created by need to begin work on a product immediately, not spending too much time in research. These personas are built with assumptions with knowledge of team and stakeholders. Over the course of the project, the proto-persona can be updated more accurately to reflect the user with what we learn throughout the process. For e.g: survey, user interviews, usability testing and so on.
+Proto-personas in Lean UX are like personas but without validation through months of lengthy expensive research studies. This is a ad-hoc persona created by need to begin work on a product immediately, not spending too much time in research. These personas are built with assumptions with knowledge of team and stakeholders. Over the course of the project, the proto-persona can be updated more accurately to reflect the target user with what we learn throughout the process. For e.g: survey, user interviews, usability testing and so on.
 
 ## Why use proto-persona?
 
@@ -31,7 +31,7 @@ Proto-personas in Lean UX are like personas but without validation through month
 ## How to create and use proto-persona?
 
 * It is best to create the persona together in a team to build shared understanding so everyone feels contributed and buys-in on the final persona.
-* Discuss the group of users you have identified in user journey mapping, event storming and so on. List them down in posted note and discuss among the team and focus on the primary, secondary or focused user group whose problem you are trying to solve as a team.
+* Discuss the group of users you have identified in user journey mapping, event storming, research, customer team and so on. List them down in posted note and discuss among the team and focus on the primary, secondary or focused user group whose problem you are trying to solve as a team.
 * Use the template or draw to list down their Attributes, Goal, Obstacles. Ofcourse, do not forget to give your persona a name.
 * Finally, put it on the wall and discuss in a team on your findings to built a consensus. Agree collectively as a team on the persona that suits your projects.
 
