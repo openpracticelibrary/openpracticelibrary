@@ -32,3 +32,4 @@ If one makes sure to only work on one task and then on the next one doesn't get 
 
 * [Kanban WIP Limits](https://kanbantool.com/kanban-wip-limits)
 * [Example projects (video)](https://www.youtube.com/watch?v=SFMlu87MkYI)
+* Image source: ["Pipes, Valves and Gauges"](http://www.flickr.com/photos/65534354@N00/4872229081) by Coggleswort00 is licensed under CC BY-NC-ND 2.0 
