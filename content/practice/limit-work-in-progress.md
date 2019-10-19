@@ -3,7 +3,7 @@ title: Limit Work in Progress
 subtitle: Pipes that aren't clock up increase the flow through the system
 date: 2019-10-19T08:56:15.621Z
 authors:
-  - ebernoth
+  - rhdojun
 area: foundation-culture-and-collaboration
 perspectives:
   - kanban
