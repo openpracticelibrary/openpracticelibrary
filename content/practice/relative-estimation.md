@@ -55,7 +55,7 @@ An example:
 * Assuming yes - 'Okay is it bigger than the 8 pointer? Or is it roughly the same size'
 * Assuming no - 'Okay so we'll say its a 5 pointer then' 
 
-![]()
+![](/images/sizing.jpg)
 
 ## Further Information
 
