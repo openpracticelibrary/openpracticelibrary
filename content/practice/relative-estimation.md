@@ -23,27 +23,26 @@ participants:
 
 ## Why use it?
 
-* Facilitates conversation
+* Facilitates conversation.
 * Helps align groups of people to reach consensus on their understanding regarding the size of complexity and/or value of an item.
 * Avoids the emotion, buffering and other negative side effects of absolute estimation.
 
 ## Relative Estimation Example
 
-Lets say for example you were asked to estimate how difficult it is to eat the fruit below?
+Let's say for example you were asked to estimate how difficult it is to eat the fruit below?
 
-1. If we were using story points the first challenge here would be identifying the 1 pointer. Lets say that is the grape. 
+![](/images/apple.jpg)
+
+1. If we were using story points the first challenge here would be identifying the 1-pointer. Let's say that is the grape. 
 2. From there we then compare the other fruits to the grape. 
-3. Maybe the apple is a bit tougher as you've got to eat around the core, so lets call that a 2 pointer.
-4. Then the orange and banana have to be peeled first so that might make it more difficult than both of the previous fruits. Here we therefore know its harder than the grape and apple but how much harder? Is it harder than the coconut?
-5. Probably not so lets call them a 3 pointer and the coconut which requires a lot more effort an 8 pointer
-   .
+3. Maybe the apple is a bit tougher as you've got to eat around the core, so let's call that a 2-pointer.
+4. Then the orange and banana have to be peeled first so that might make it more difficult than both of the previous fruits. We therefore know it's harder than the grape and apple but how much harder? Is it harder than the coconut?
+5. Probably not. So lets call them a 3-pointer and the coconut, which requires a lot more effort, an 8-pointer.
 
 As we go through these estimations conversations will occur within the team and you'll discover more with understandings beginning to align. In this example this might include things like: 
 
 * Perhaps someone has a tool that makes opening coconuts easier so maybe it doesn't require as much effort as we thought?
-* 
-
-Maybe the orange has pips in it and also its more difficult then the banana?
+* Maybe the orange has pips in it and also it's more difficult than the banana?
 
 ## A helpful tool for big planning
 
@@ -55,9 +54,9 @@ An example:
 * Assuming yes - 'Okay is it bigger than the 8 pointer? Or is it roughly the same size'
 * Assuming no - 'Okay so we'll say its a 5 pointer then' 
 
-![]()
+![](/images/sizing.jpg)
 
 ## Further Information
 
-* Mike Cohn Blog Post about Story Points - https://www.mountaingoatsoftware.com/blog/what-are-story-points
-* Mike Cohn Blog Post about Tee-shirt Sizing - https://www.mountaingoatsoftware.com/blog/estimating-with-tee-shirt-sizes
+* [Mike Cohn Blog Post about Story Points](https://www.mountaingoatsoftware.com/blog/what-are-story-points)
+* [Mike Cohn Blog Post about Tee-shirt Sizing](https://www.mountaingoatsoftware.com/blog/estimating-with-tee-shirt-sizes)
