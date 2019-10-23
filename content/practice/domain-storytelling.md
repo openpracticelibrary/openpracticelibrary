@@ -4,8 +4,11 @@ subtitle: Learn domain language. Talk about requirements. Tell domain stories.
 date: 2018-11-07T20:41:32.665Z
 authors:
   - hofstef
+  - hschwentner
   - sherl0cks
 area: discovery-loop-outcomes
+perspectives:
+  - domain-driven-design
 icon: /images/dst_logo-1-.png
 people: 2-20
 time: 10-30 min per Domain Story
@@ -43,3 +46,5 @@ Domain Storytelling is versatile and can facilitation adapted for the purpose, f
 ## Further Information
 
 http://domainstorytelling.org
+
+https://leanpub.com/domainstorytelling

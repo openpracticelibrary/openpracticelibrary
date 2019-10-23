@@ -9,12 +9,12 @@ jumbotron: /images/kandinsky.jpg
 ---
 ## What is it?
 
-A set of guiding principles that together form a mindset about building software, often abbreviated as DDD. The concept was introduced by Eric Evans, and the original textbook was published in 2013[<sup>2</sup>](#footnote-2). The Domain Driven Design perspective is not reductionist, but rather embraces the notion that software development is part of a much larger and complex socio-technical system. As a result, many practices for managing the complexities of software development, like [Event Storming](https://openpracticelibrary.com/practice/event-storming), [Behavior Driven Development](https://github.com/openpracticelibrary/openpracticelibrary/issues/464), and [Domain Story Telling](https://github.com/openpracticelibrary/openpracticelibrary/issues/465), have their roots in the DDD community. The stated principles of Domain Driven Design are principles are:
+A set of guiding principles that together form a mindset about building software, often abbreviated as DDD. The concept was introduced by Eric Evans, and the original textbook was published in 2003[<sup>2</sup>](#footnote-2). The Domain Driven Design perspective is not reductionist, but rather embraces the notion that software development is part of a much larger and complex socio-technical system. As a result, many practices for managing the complexities of software development, like [Event Storming](https://openpracticelibrary.com/practice/event-storming), [Behavior Driven Development](https://github.com/openpracticelibrary/openpracticelibrary/issues/464), and [Domain Story Telling](https://github.com/openpracticelibrary/openpracticelibrary/issues/465), have their roots in the DDD community. The stated principles of Domain Driven Design are principles are:
 
-* Focus effort around the core complexity and opportunity in a _**domain**_.
-* Explore _**models**_ in a collaboration of domain experts and software experts.
-* Write software that expresses those _**models**_ explicitly.
-* Speak a _**ubiquitous language**_ within a _**bounded context**_.
+* Focus effort around the core complexity and opportunity in a **_domain_**.
+* Explore **_models_** in a collaboration of domain experts and software experts.
+* Write software that expresses those **_models_** explicitly.
+* Speak a **_ubiquitous language_** within a **_bounded context_**.
 
 The words in bolded, italic text above is part of the DDD terminology, which while central to understanding the mindset, is often an times is an Achilles heel[<sup>3</sup>](#footnote-3).
 
