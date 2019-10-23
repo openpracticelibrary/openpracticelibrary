@@ -61,5 +61,5 @@ An example:
 
 ## Further Information
 
-* Mike Cohn Blog Post about Story Points - https://www.mountaingoatsoftware.com/blog/what-are-story-points
-* Mike Cohn Blog Post about Tee-shirt Sizing - https://www.mountaingoatsoftware.com/blog/estimating-with-tee-shirt-sizes
+* [Mike Cohn Blog Post about Story Points](https://www.mountaingoatsoftware.com/blog/what-are-story-points)
+* [Mike Cohn Blog Post about Tee-shirt Sizing](https://www.mountaingoatsoftware.com/blog/estimating-with-tee-shirt-sizes)
