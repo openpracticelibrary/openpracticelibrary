@@ -31,6 +31,8 @@ participants:
 
 Lets say for example you were asked to estimate how difficult it is to eat the fruit below?
 
+![](/images/apple.jpg)
+
 1. If we were using story points the first challenge here would be identifying the 1 pointer. Lets say that is the grape. 
 2. From there we then compare the other fruits to the grape. 
 3. Maybe the apple is a bit tougher as you've got to eat around the core, so lets call that a 2 pointer.
