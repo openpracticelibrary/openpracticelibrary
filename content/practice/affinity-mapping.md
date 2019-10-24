@@ -18,7 +18,8 @@ participants:
 
 Affinity Mapping is a practice used to organize ideas and data. It allows large numbers of ideas stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis. It is also frequently used in contextual inquiry as a way to organize notes and insights from field interviews. Additionally, it can be used for organizing  freeform comments, such as open-ended survey responses, support call logs, or other qualitative data.
 
-Here's a quick intro video:\
+Here's a quick intro video:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UynxDyr0lAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why use it?
