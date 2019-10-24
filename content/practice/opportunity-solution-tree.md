@@ -1,6 +1,6 @@
 ---
 title: Opportunity Solution Tree
-subtitle: Find the best place to focus your team's energy
+subtitle: Find the next experiment to focus your team's energy
 date: 2019-10-01T14:26:10.092Z
 authors:
   - beckerjs
@@ -19,7 +19,9 @@ participants:
 ---
 ## What is it?
 
-An Opportunity Solution Trees is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested.
+An Opportunity Solution Trees is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested. Here's an example:
+
+![](/images/opp-solution-tree.jpg)
 
 ## Why use it?
 
@@ -29,11 +31,11 @@ An Opportunity Solution Tree can be used at any point in the product lifecycle, 
 
 ## Overview of Steps
 
-1. Have the Product Manager pick a desired outcome
-2. Generate opportunities for achieving the desired outcome (then discuss as a team)
-3. Brainstorm solutions to specific opportunities (then discuss as a team)
-4. Have the team vote on the solutions with the most potential for success
-5. Create Experiments for the top 3 solution ideas
+1. Have the Product Manager pick a desired outcome.
+2. Generate opportunities (or problem statements) for achieving the desired outcome. Discuss as a team. (tip: if your team jumps straight to solutions, ask them what specific problem their solution solves, and capture that).
+3. Brainstorm solutions to specific opportunities (try [Crazy 8s Practice](https://openpracticelibrary.com/practice/crazy-8s/)). Discuss as a team.
+4. Have the team vote on the solutions with the most potential for success (try [Dot-Voting](http://www.funretrospectives.com/dot-voting/)).
+5. Create Experiments for the top 3 solution ideas.
 
 ## Further Information
 
