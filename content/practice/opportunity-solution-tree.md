@@ -31,11 +31,11 @@ An Opportunity Solution Tree can be used at any point in the product lifecycle, 
 
 ## Overview of Steps
 
-1. Have the Product Manager pick a desired outcome
-2. Generate opportunities for achieving the desired outcome (then discuss as a team)
-3. Brainstorm solutions to specific opportunities (then discuss as a team)
-4. Have the team vote on the solutions with the most potential for success
-5. Create Experiments for the top 3 solution ideas
+1. Have the Product Manager pick a desired outcome.
+2. Generate opportunities (or problem statements) for achieving the desired outcome. Discuss as a team. (tip: if your team jumps straight to solutions, ask them what specific problem their solution solves, and capture that).
+3. Brainstorm solutions to specific opportunities (try [Crazy 8s Practice](https://openpracticelibrary.com/practice/crazy-8s/)). Discuss as a team.
+4. Have the team vote on the solutions with the most potential for success (try [Dot-Voting](http://www.funretrospectives.com/dot-voting/)).
+5. Create Experiments for the top 3 solution ideas.
 
 ## Further Information
 
