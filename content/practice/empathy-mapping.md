@@ -2,7 +2,7 @@
 title: Empathy Mapping
 subtitle: >-
   A collaborative tool for gaining insight about humans (customers, users,
-  etc.).
+  stakeholders, etc.).
 date: 2018-09-09T11:16:56.080Z
 authors:
   - tdbeattie
@@ -36,6 +36,17 @@ This tool can be used at various times in the product lifecycle. If there is a n
 * A tool to identify pain points, opportunities and starts to form a basis for improvement and optimization
 * Captures information and learning directly from the end user or customer effected by the system/application/solution in question
 * Enables a direct connection between important stakeholders and the product team (for example, developers of an application can learn directly from end users using it)
+
+## Facilitation Tips
+
+Prepare the team by letting them know this activity seeks to gain empathy for the 'human' solving a particular problem for. Let everyone know they are there to step into the shoes of the user, customer, etc.. 
+
+* For an immersive activity, use large craft paper or a whiteboard to draw the map
+* Have everyone write on sticky notes to develop their assumptions around the map
+* Make sure to use different color sticky notes to represent different ideas from the team
+* If using to collect feedback from a interview session, the same can be done with sticky notes
+* Make sure to include a representation of the face in the middle of the map (this should differ based on the pain points)
+* Give your empathy map a name! Similar to a persona it is easier to make a human connection when a name is added
 
 ## Origin
 
