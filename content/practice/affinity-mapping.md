@@ -1,9 +1,10 @@
 ---
 title: Affinity Mapping
-subtitle: Identify trends and themes in ideas and research
+subtitle: 'Identify insights, patterns and trends in research and ideas'
 date: 2019-10-24T18:10:09.959Z
 authors:
   - beckerjs
+  - DarcieF
 area: discovery-loop-outcomes
 perspectives: []
 icon: /images/am4.jpg
