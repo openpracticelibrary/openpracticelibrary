@@ -4,7 +4,6 @@ subtitle: 'Identify insights, patterns and trends in research and ideas'
 date: 2019-10-24T18:10:09.959Z
 authors:
   - beckerjs
-  - DarcieF
 area: discovery-loop-outcomes
 perspectives: []
 icon: /images/am4.jpg
@@ -17,7 +16,7 @@ participants:
 ---
 ## What is it?
 
-Affinity Mapping is a practice used to organize ideas or qualitative data. It allows large numbers of ideas stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis. It is also frequently used in contextual inquiry as a way to organize notes and insights from field interviews. Additionally, it can be used for organizing  freeform comments, such as open-ended survey responses, support call logs, or other qualitative data.
+Affinity Mapping is a practice used to organize ideas or insights. It allows large numbers of ideas  stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis. It is also frequently used in contextual inquiry as a way to organize notes and insights from field interviews for synthesis and analysis. Additionally, it can be used for organizing freeform comments, such as open-ended survey responses, support call logs, or other qualitative data.
 
 Here's a quick intro video:\
 
@@ -25,11 +24,11 @@ Here's a quick intro video:\
 
 ## Why use it?
 
-Most of us are familiar with brainstorming—a method by which a group generates as many ideas around a topic as possible in a limited amount of time. Brainstorming works to get a high quantity of information on the table. But it begs the follow-up question of how to gather meaning from all the data. Using a simple 
+Most of us are familiar with brainstorming—a method by which a group generates as many ideas around a topic as possible in a limited amount of time. Brainstorming works to get a high quantity of information on the table. But it begs the follow-up question of how to gather meaning from all the data. 
 
-Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused. 
+Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused. 
 
-Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within the group.
+Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within a group.
 
 ## Steps
 
