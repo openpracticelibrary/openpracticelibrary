@@ -33,10 +33,9 @@ An empathy map is a collaborative tool used to develop insight into customers, u
 
 This tool can be used at various times in the product lifecycle. If there is a need to gain new understanding about people that have an impact on the growth or use of an application, this may be a good time to consider an empathy map. Particularly when first learning about new customers, users, or stakeholders.
 
-* Captures information and learning directly from the end user affected by the system/application/solution in question.
-* Enables a direct connection between important stakeholders and developers (for example, developers of an application can learn directly from end users using it).
-* A tool to identify pain points, opportunities and starts to form a basis for improvement and optimization. 
-* An excellent tool to move from user empathy to value propositions - Dave Gray has integrated Alex Osterwalder's Value Proposition Canvas in the latest version of the Empathy Map
+* A tool to identify pain points, opportunities and starts to form a basis for improvement and optimization
+* Captures information and learning directly from the end user or customer effected by the system/application/solution in question
+* Enables a direct connection between important stakeholders and the product team (for example, developers of an application can learn directly from end users using it)
 
 ## Origin
 
