@@ -24,24 +24,28 @@ participants:
 
 An empathy map is a collaborative tool used to develop insight into customers, users, etc.. It is often a starting point for gaining empathy for the people a team is solving problems for. Like a persona, an empathy map can represent a group of people, such as a user or customer segment.
 
-* A tool to capture and visualize what key stakeholders are sensing when in a particular context or completing a set of tasks
 * A way to form a better understanding of users and build personas
-* The information is captured directly from interviews, observation and other facilitated conversation exercises.
-* Senses captured can include what the person is seeing, thinking, doing and feeling with information captured on a big visible chart.
+* The information is captured as a brainstorm for a team to develop assumptions about the people 
+* The information can also be directly added from interviews, observation and other facilitated conversation exercises
+* Senses captured can include what the person is seeing, thinking, doing and feeling with information captured on a big visible chart
 
-## Why use it?
+## When to use it?
+
+This tool can be used at various times in the product lifecycle. If there is a need to gain new understanding about people that have an impact on the growth or use of an application, this may be a good time to consider an empathy map. Particularly when first learning about new customers, users, or stakeholders.
 
 * Captures information and learning directly from the end user affected by the system/application/solution in question.
 * Enables a direct connection between important stakeholders and developers (for example, developers of an application can learn directly from end users using it).
-* A tool to identify pain points, opportunities and starts to form a basis for improvement and optimisation. 
+* A tool to identify pain points, opportunities and starts to form a basis for improvement and optimization. 
 * An excellent tool to move from user empathy to value propositions - Dave Gray has integrated Alex Osterwalder's Value Proposition Canvas in the latest version of the Empathy Map
 
 ## Origin
 
 The Empathy map has been created as a practice by Dave Gray of [XPLANE](http://www.xplane.com/)
 
-## Further Information
+## Resource Links
 
-[Dave Gray's explanation of Empathy Mapping](https://gamestorming.com/empathy-mapping/) on Gamestorming.com
-
-[What is an Empathy Map?](https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/) by SolutionsIQ
+* [Dave Gray's explanation of Empathy Mapping](https://gamestorming.com/empathy-mapping/) on Gamestorming.com
+* [What is an Empathy Map?](https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/) by SolutionsIQ
+* [The Practical Guide to Empathy Maps: 10-Minute User Personas](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) from Studio by UX Pin
+* [Empathy Mapping: A Guide to Getting Inside a User’s Head](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/) by UX Booth
+* [How to Run an Empathy & User Journey Mapping Workshop](https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067) by Harry Brignull
