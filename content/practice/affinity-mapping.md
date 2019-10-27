@@ -1,6 +1,6 @@
 ---
 title: Affinity Mapping
-subtitle: Identify trends and themes in ideas and research
+subtitle: 'Identify insights, patterns and trends in research and ideas'
 date: 2019-10-24T18:10:09.959Z
 authors:
   - beckerjs
@@ -8,7 +8,7 @@ area: discovery-loop-outcomes
 perspectives: []
 icon: /images/am4.jpg
 jumbotron: /images/am4.jpg
-people: 2+
+people: 3+
 time: 5-90 min
 difficulty: moderate
 participants:
@@ -16,15 +16,19 @@ participants:
 ---
 ## What is it?
 
-Affinity Mapping is a practice used to organize ideas and data. It allows large numbers of ideas stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis. It is also frequently used in contextual inquiry as a way to organize notes and insights from field interviews. Additionally, it can be used for organizing  freeform comments, such as open-ended survey responses, support call logs, or other qualitative data.
+Affinity Mapping is a practice used to organize ideas or insights. It allows large numbers of ideas  stemming from brainstorming to be sorted into groups, based on their natural relationships, for review and analysis. It is also frequently used in contextual inquiry as a way to organize notes and insights from field interviews for synthesis and analysis. Additionally, it can be used for organizing freeform comments, such as open-ended survey responses, support call logs, or other qualitative data.
 
-Here's a quick intro video:
+Here's a quick intro video:\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UynxDyr0lAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why use it?
 
-Most of us are familiar with brainstorming—a method by which a group generates as many ideas around a topic as possible in a limited amount of time. Brainstorming works to get a high quantity of information on the table. But it begs the follow-up question of how to gather meaning from all the data. Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused. Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within the group.
+Most of us are familiar with brainstorming—a method by which a group generates as many ideas around a topic as possible in a limited amount of time. Brainstorming works to get a high quantity of information on the table. But it begs the follow-up question of how to gather meaning from all the data. 
+
+Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused. 
+
+Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within a group.
 
 ## Steps
 
