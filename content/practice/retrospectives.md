@@ -7,7 +7,7 @@ authors:
   - mtakane
   - beckerjs
 area: delivery-measure-and-learn
-icon: /images/ssc-retro.png
+icon: /images/heroes-journey-retro.png
 jumbotron: /images/pirate-retro.png
 ---
 ## What are they?
