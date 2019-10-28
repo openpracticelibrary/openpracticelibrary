@@ -16,18 +16,18 @@ participants:
   - Product Owner
   - Team
 ---
-## What is it? 
+## What is it?
 
-Direct the focus of optimization on work items, e.g. tasks, problems, process steps, instead of the people. That means metrics also need to focus on work items, not on people.
+Direct the focus of optimization on work items, e.g. tasks, problems, process steps, instead of the people. That means metrics also need to focus on work items, not on people. 
 
 Typical activities for managing flow are:
 
- * visualize the work people do
- * limit the work in progress (so you can see where items get stuck and have enough free resources to handle that exception in a constructive way)
- * track how quick items go through the pipeline
- * think about how to modify your process so that stuck items won't get stuck again
+* visualize the work people do
+* limit the work in progress (so you can see where items get stuck and have enough free resources to handle that exception in a constructive way)
+* track how quick items go through the pipeline
+* think about how to modify your process so that stuck items won't get stuck again
 
-## Why use it? 
+## Why use it?
 
 Everybody already experienced a few times in their life that it is totally possible that everybody is busy to the point of being overworked but the work gets done slower and slower.
 
@@ -41,5 +41,4 @@ But to get there one cannot track indirect metrics like utilization of employees
 
 * [Article on agile42](https://www.agile42.com/en/blog/2015/04/09/managing-flow/)
 * [Example projects (video)](https://www.youtube.com/watch?v=SFMlu87MkYI)
-* picture source: ["SnowDay2_04"](https://www.flickr.com/photos/33549575@N04/4345634020) by cam_rich345 is licensed under CC BY-SA 2.0 
-
+* picture source: ["SnowDay2_04"](https://www.flickr.com/photos/33549575@N04/4345634020) by cam_rich345 is licensed under CC BY-SA 2.0
