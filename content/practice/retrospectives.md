@@ -5,6 +5,7 @@ date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
   - mtakane
+  - beckerjs
 area: delivery-measure-and-learn
 icon: /images/ssc-retro.png
 jumbotron: /images/pirate-retro.png
