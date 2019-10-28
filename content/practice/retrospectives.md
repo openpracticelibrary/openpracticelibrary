@@ -12,11 +12,9 @@ jumbotron: /images/pirate-retro.png
 ---
 ## What are they?
 
-Retrospectives provide opportunities for groups to reflect, inspect and adapt their ways of working. They often take place at the end of sprints but can be scheduled at any time. There are a myriad of types of retrospectives you can run with your team, and it's good to mix things up to keep things from getting stale which leads to decline in involvement. You might run something like in the header image (start, stop continue, more of, less of), then maybe this sailboat retro the next time
+Retrospectives provide opportunities for groups to reflect, inspect and adapt their ways of working. They often take place at the end of sprints but can be scheduled at any time. There are a myriad of types of retrospectives you can run with your team, and it's good to mix things up to keep things from getting stale which leads to decline in involvement. You might run something like in the header image (The Heroes Journey), then maybe try this sailboat retro the next time:
 
 ![](/images/pirate-retro.png)
-
-
 
 ## Why use Retrospectives?
 
