@@ -1,6 +1,8 @@
 ---
 title: Retrospectives
-subtitle: 'Reflect, inspect and adapt ways of working driving continuous improvement'
+subtitle: >-
+  Reflect, inspect and adapt ways of working to drive continuous team
+  improvement
 date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
