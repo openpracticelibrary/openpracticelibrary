@@ -1,6 +1,6 @@
 ---
 title: Opportunity Solution Tree
-subtitle: Find the next experiment to focus your team's energy
+subtitle: Show how your product solutions map back to a desired outcome
 date: 2019-10-01T14:26:10.092Z
 authors:
   - beckerjs
@@ -19,7 +19,7 @@ participants:
 ---
 ## What is it?
 
-An Opportunity Solution Trees is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested. Here's an example:
+An Opportunity Solution Tree is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested. Here's an example:
 
 ![](/images/opp-solution-tree.jpg)
 
