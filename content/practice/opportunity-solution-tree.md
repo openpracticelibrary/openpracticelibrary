@@ -8,7 +8,7 @@ area: discovery-loop-outcomes
 perspectives:
   - ''
 icon: /images/opp-solution-tree.jpg
-jumbotron: /images/opp_solution_tree2.jpg
+jumbotron: /images/opp-solution-tree.jpg
 people: 3+
 time: 30-90 min
 difficulty: easy
