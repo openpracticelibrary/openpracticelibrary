@@ -1,6 +1,6 @@
 ---
 title: Opportunity Solution Tree
-subtitle: Find the next experiment to focus your team's energy
+subtitle: Show how your product solutions map back to a desired outcome
 date: 2019-10-01T14:26:10.092Z
 authors:
   - beckerjs
@@ -8,7 +8,7 @@ area: discovery-loop-outcomes
 perspectives:
   - ''
 icon: /images/opp-solution-tree.jpg
-jumbotron: /images/opp_solution_tree2.jpg
+jumbotron: /images/opp-solution-tree.jpg
 people: 3+
 time: 30-90 min
 difficulty: easy
@@ -19,7 +19,7 @@ participants:
 ---
 ## What is it?
 
-An Opportunity Solution Trees is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested. Here's an example:
+An Opportunity Solution Tree is a visual aid that can help you find the best place to focus your team’s energies, whilst ensuring you consider enough opportunities. Opportunity solution trees bring transparency to the process and get the whole team to buy into the decisions being made and the solutions being tested. Here's an example:
 
 ![](/images/opp-solution-tree.jpg)
 
@@ -27,7 +27,9 @@ An Opportunity Solution Trees is a visual aid that can help you find the best pl
 
 This practice is a great way to ensure a product team is taking the time to prioritize user needs and generate enough solutions to needs to broaden the potential for finding the best idea. Often times, a team generates a solution and begins development right away without considering whether a solution is a good one. But "good" is a relative term, so ideally teams should be generating a myriad of product solutions in order to compare and contrast and allow the best option to emerge.
 
-An Opportunity Solution Tree can be used at any point in the product lifecycle, from the beginning of a green field product to introducing it as means to drive iterative development of a mature product. 
+An Opportunity Solution Tree can be used at any point in the product lifecycle, from the beginning of a green field product to introducing it as means to drive iterative development of a mature product. When used to visualize the work being done in a product team's regular rhythm, it might look something like this:
+
+![](/images/ost-scale.png)
 
 ## Overview of Steps
 
