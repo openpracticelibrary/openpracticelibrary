@@ -1,6 +1,6 @@
 ---
-title: HMW
-subtitle: How Might We ... ?
+title: How Might We _____ ?
+subtitle: Turning insights into questions that spur creative solutioning
 date: 2018-11-08T15:26:31.527Z
 authors:
   - valyonchev
