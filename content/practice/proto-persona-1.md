@@ -3,7 +3,7 @@ title: Proto-Persona
 subtitle: Define your target users
 date: 2019-09-30T14:03:05.075Z
 authors:
-  - dsunwar
+  - Darpan Sunwar
 area: discovery-loop-why
 perspectives: []
 icon: /images/persona1.png
