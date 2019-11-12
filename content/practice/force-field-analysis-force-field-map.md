@@ -47,6 +47,6 @@ Kurt Lewin - Force Field Analysis
 
 [Force Field Analysis](https://en.wikipedia.org/wiki/Force-field_analysis) on Wikipedia 
 
-[Force Field Analysis](https://gamestorming.com/force-field-analysis/) on Gamestroming.com
+[Force Field Analysis](https://gamestorming.com/force-field-analysis/) on Gamestorming.com
 
 ##
