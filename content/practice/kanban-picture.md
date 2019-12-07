@@ -7,10 +7,6 @@ date: 2019-10-15T18:32:07.285Z
 authors:
   - andresuman
 area: delivery-deliver
-perspectives:
-  - agile
-  - kanban
-  - agile methodologies
 icon: /images/kanban-picture-english.png
 jumbotron: /images/kanban-picture-english.png
 participants: []
