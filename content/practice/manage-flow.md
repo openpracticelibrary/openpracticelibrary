@@ -5,9 +5,6 @@ date: 2019-10-19T09:24:08.129Z
 authors:
   - rhdojun
 area: foundation-culture-and-collaboration
-perspectives:
-  - visualization-of-work
-  - limit-work-in-progress
 icon: /images/pullstuckcar.jpg
 jumbotron: /images/pullstuckcar.jpg
 people: 2+
