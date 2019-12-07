@@ -35,4 +35,4 @@ Doing this explicitly, making it tangible and actionable will empower a team to 
 
 ## Further Information
 
-See also the Spotify Health Check: https://labs.spotify.com/2014/09/16/squad-health-check-model/
+See also the Spotify Health Check: https://labs.spotify.com/2014/09/16/squad-health-check-model/ . 
