@@ -5,10 +5,6 @@ date: 2019-10-19T08:56:15.621Z
 authors:
   - rhdojun
 area: foundation-culture-and-collaboration
-perspectives:
-  - kanban
-  - manage-flow
-  - ''
 icon: /images/valves.jpg
 jumbotron: /images/valves.jpg
 people: '1'
