@@ -5,8 +5,7 @@ date: 2019-12-04T15:50:30.989Z
 authors:
   - nick-woods
 area: delivery-measure-and-learn
-perspectives:
-  - Retrospectives
+perspectives: []
 icon: /images/health-check-sliders.jpg
 jumbotron: /images/health-check-sliders.jpg
 people: 5-9
