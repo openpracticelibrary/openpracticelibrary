@@ -1,6 +1,8 @@
 ---
 title: Split Testing - A/B Testing
-subtitle: The easiest path to validated learning
+subtitle: >-
+  Quantitative testing of two alternative designs to learn which better leads to
+  a specific goal
 date: 2018-12-17T22:03:07.370Z
 authors:
   - valyonchev
