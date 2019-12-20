@@ -49,4 +49,20 @@ Identifying and describing all the components of a System Diagram should enable 
 6. Define one or more **Subsystems** that are inside the Boundar; these typically process the inputs, but may perform other tasks as well
 7. Define one or more **Feedback loops** that the system has in place to continously improve itself
 
+## Difficulty
+
+* Facilitator: Moderate
+* Participants: Easy
+
+## Facilitation Materials Needed
+
+### Digital Variation:
+
+* any collaborative diagramming tool (such as Miro or Gliphy)
+
+### Physical Variation:
+
+* a large whiteboard
+* whiteboard markers
+
 ## Further Information
