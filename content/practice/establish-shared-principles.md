@@ -17,24 +17,24 @@ participants:
 ---
 ## What is it?
 
-While it might be bizarre to say "Principles over Practices" in an article that is part of the "Open Practice Library', that is exactly what this "Practice" is all about. Establishing a set of shared principles for yourself or your organisation that are derived from your purpose and values and use those to guide you in the practices that you do every day.
+While it might be bizarre to say "Principles over Practices" in an article that is part of the "Open Practice Library', that is exactly what this "Practice" is all about. Establishing a set of shared principles for yourself or your organization that is derived from your purpose and values and use those to guide you in the practices that you do every day.
 
-You can think of Practices as the tip of the iceberg that is above the water, these are the ceremonies we do every day in our work. However if we look under the water we will see that the larger part of the iceberg that keeps the tip of the iceberg above the water, these are our principles and values.
+You can think of Practices as the tip of the iceberg that is above the water, these are the ceremonies we do every day in our work. However, if we look under the water we will see that the larger part of the iceberg that keeps the tip of the iceberg above the water, these are our principles and values.
 
 ![Iceberg with Practices above the water and Principles, Values and Why underwater](/images/purpose-values-principles-practices.svg "Why Values Principles Practices Iceberg")
 
-* Purpose (Why we are here) - our purpose, why this organization exists
-* Values - a set of shared beliefs that guides the organization
-* Principles (How we will act)- rules derived from our values and our purpose
-* Practices (What we do)- actions you take in specific situations
+* Purpose (Why we are here) - our purpose, why this organization exists.
+* Values - a set of shared beliefs that guides the organization.
+* Principles (How we will act)- rules derived from our values and our purpose.
+* Practices (What we do)- actions you take in specific situations.
 
 Organizations that have done the work to articulate "why they exist and what they believe" then need to clearly explain the "how they will act" they will work before they move to the "what they will do".
 
 ## Why use it?
 
-Transforming organizations that start with a clearly articulated purpose and then establish a shared set of principles are more likely to succeed in their transformation than organizations that simply implement practices.
+Transforming organizations that start with a clearly articulated purpose and then establish a shared set of principles is more likely to succeed in their transformation than organizations that simply implement practices.
 
-Purpose, Values and Principles are enduring but practices evolve and change over time. Blindly following practices is not encouraged, establish a set of shared principles and you can weather the storms that beat at your door.
+Purpose, Values, and Principles are enduring but practices evolve and change over time. Blindly following practices are not encouraged, establish a set of shared principles and you can weather the storms that beat at your door.
 
 It is important to use this lens to understand the success stories and reports we hear of successful organizations, often we only hear about their practices, the visible things they do, and less about their principles and values. Copying just the practices of successful organizations will not get us the same result if we do not also adopt the values and principles that originated these practices.
 
