@@ -40,11 +40,15 @@ The important thing about this example is that we are able to change the functio
 
 Effectively feature flags allow us to separate deployment of our code from feature deployment. In order to do this we might use a configuration file, a UI at runtime or dynamically per-request based on the current context (a specific user or organisation etc).
 
-[In Martin Fowler's article on Feature Flags]() two major dimensions are identified to categorise feature flags: _how long the feature flag will live_ and _how dynamic the toggling decision must be_. The following four broad categories of feature flags are identified by Martin Fowler:
+[In Martin Fowler's article on Feature Flags](https://www.martinfowler.com/articles/feature-toggles.html) two major dimensions are identified to categorise feature flags: _how long the feature flag will live_ and _how dynamic the toggling decision must be_. The following four broad categories of feature flags are identified by Martin Fowler:
+
 - **Release Flags** allow incomplete and un-tested codepaths to be shipped to production as latent code which may never be turned on.
 - **Experiment Flags** are used to perform multivariate or A/B testing. Each user of the system is placed into a cohort and at runtime the user will be sent down one codepath or another.
 - **Ops Flags** are used to control operational aspects of our system's behaviour. We might introduce an Ops Flag when rolling out a new feature which has unclear performance implications so that system operators can disable or degrade that feature quickly in production if needed.
 - **Permissioning Flags** are used to change the features or product experience that certain users receive. For example we may have a set of "premium" features which we only toggle on for our paying customers. Or perhaps we have a set of "alpha" features which are only available to internal users and another set of "beta" features which are only available to internal users plus beta users.
+
+
+These flag types can be summarised by the following image.
 
 ![These flag types can be summarised by the following image.](/images/fowler_feature_toggles.png "Feature Toggles categorised by longevity and dynamism")
 
@@ -53,6 +57,7 @@ Effectively feature flags allow us to separate deployment of our code from featu
 Feature Toggles are a foundational engineering practice and provide a great way to manage the behaviour of the product in order to perform experiments or safeguard performance when releasing fresh new features. 
 
 There are many ways feature flags are used:
+
 - [Canary Releases](/practice/canary-release/).
 - [Dark Launches](/practice/dark-launches/).
 - [A/B Testing,  and running experiments](/practice/split-testing-a-b-testing/).
@@ -67,25 +72,20 @@ The Feature Toggles can greatly complement and make easier the implementation of
 
 ## Related Practices
 
-[Blue/Green Deployment](/practice/blue-green-deployments/)
+- [Blue/Green Deployment](/practice/blue-green-deployments/)
+- [Canary Release ](/practice/canary-release/)
+- [A/B Testing,  and running experiments](/practice/split-testing-a-b-testing/)
+- [Multivari Testing](/practice/split-testing-multivari-testing/)
+- [Design of experiments](/practice/design-of-experiments/)
+- [Dark Launches](/practice/dark-launches/)
+- [Continuous Delivery](/practice/continuous-delivery/)
+- [Continuous Deployment](/practice/continuous-deployment/)
 
-[Canary Release ](/practice/canary-release/)
-
-[A/B Testing,  and running experiments](/practice/split-testing-a-b-testing/)
-
-[Multivari Testing](/practice/split-testing-multivari-testing/)
-
-[Design of experiments](/practice/design-of-experiments/)
-
-[Dark Launches](/practice/dark-launches/)
-
-[Continuous Deployment](/practice/continuous-deployment/)
-
-[Continuous Delivery](/practice/continuous-delivery/)
 
 ## Further information
 
 The following resources provide a rich source of further reading:
+
 - [Martin Fowler's article on Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) is one of the original articles on the topic.
 - [Wikipedia's article on Feature Toggles](https://en.wikipedia.org/wiki/Feature_toggle).
 - [Stack Overflow on What is a "feature flag"?](https://stackoverflow.com/questions/7707383/what-is-a-feature-flag).
