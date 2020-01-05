@@ -66,4 +66,3 @@ Identifying and describing all the components of a System Diagram should enable 
 * whiteboard markers
 
 ## Further Information
-
