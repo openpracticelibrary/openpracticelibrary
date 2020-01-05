@@ -32,7 +32,7 @@ participants:
 
 Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini[<sup>1</sup>](#footnote-1) in 2013. At the end of the event storm, you should have:
 
-* A shared understand of the business process you are building as part of the project, including:
+* A shared understanding of the business process you are building as part of the project, including:
   * which steps should be considered in scope and which steps are out of scope
   * the users involved in the process
   * an initial inventory of UI screens for the process
