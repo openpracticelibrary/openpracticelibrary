@@ -1,6 +1,6 @@
 ---
 title: Yes! And...
-subtitle: 'Improvise to create more ideas, and build good team work skills'
+subtitle: 'Improvise to create more good ideas, and build strong team work skills.'
 date: 2020-01-10T22:11:46.920Z
 authors:
   - kattekrab
@@ -39,20 +39,18 @@ From https://liberationist.org/yes-and-improv/
 
 ## Further Information
 
-This is a common and widely used practice that emerged from the Theatresports community last century. Here's some links to explore further:
+This is a common and widely used practice that emerged from the Theatresports community last century. Explore the practice further here:
 
 * https://liberationist.org/yes-and-improv/
 * https://www.dramanotebook.com/drama-games/yes-and/
 * https://www.thoughtco.com/yes-and-improv-game-2713213 
 
-Here's a couple of videos that show the practice in action:
+Videos showing the practice in action:
 
 * https://www.vox.com/2018/6/3/17414570/second-city-improv-anne-libera-kelly-leonard-code-conference 
-
 * https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be 
 
-A couple of articles showing context if how and why it can be a useful technique
+Some context for where, how and why it can be a useful technique:
 
 * https://www.fastcompany.com/3024535/yes-and-improv-techniques-to-make-you-a-better-boss 
-
 * https://zapier.com/learn/customer-support/improv-customer-support/
