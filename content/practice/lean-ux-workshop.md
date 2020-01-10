@@ -32,18 +32,20 @@ This practice helps build a culture of user-centered design and lean UX. It's a 
 
 Before each step, spend a minute or two explaining what participants will do and answering questions.
 
-* Introduce Lean UX and user-centered design. Depending on the audience, consider one or more of the following _(10-15 min)_:
+* Introduce Lean UX and user-centered design. Depending on the audience, consider one or more of the following *(10-15 min)*:
+
   * Demonstrate a mock user interview
   * Show a short video
   * Describe an experience practicing user-centered design.
 * Ask people to self-organize into groups of three and pick a role: User, Designer, or Developer.
-* Ask the designer to interview the user. _(3 min)_
+* Ask the designer to interview the user. *(3 min)*
+
   * The designer asks user about his or her morning routine (from waking up to arriving at work).
   * The interviewer looks for a problem that the user ran into and asks open-ended questions to learn more.
-* Ask the developer and designer to prototype a solution to the problem using Lego. _(7 min)_
-* Have the developer and designer present their solution to user and get feedback. If possible, they should let the user try out the product! _(3 min)_
-* Have the team refine the Lego solution and gather additional feedback. _(7 min)_
-* Ask two or three teams present their solutions. _(5 min)_
+* Ask the developer and designer to prototype a solution to the problem using Lego. *(7 min)*
+* Have the developer and designer present their solution to user and get feedback. If possible, they should let the user try out the product! *(3 min)*
+* Have the team refine the Lego solution and gather additional feedback. *(7 min)*
+* Ask two or three teams present their solutions. *(5 min)*
 
 The facilitator should move from table to table to make sure teams are progressing. If teams finish early, they can build another prototype and A/B test the solution.
 
@@ -59,17 +61,22 @@ Consider writing these notes on a whiteboard.
 
 * A timer or stopwatch (the [Time Timer](https://www.timetimer.com/) is great)
 * A whiteboard (optional)
-* Lots of Legos! The [Large Creative Brick box](https://www.lego.com/en-us/themes/classic/products/lego-large-creative-brick-box-10698) is great.
+* Lots of Lego! The [Large Creative Brick box](https://www.lego.com/en-us/themes/classic/products/lego-large-creative-brick-box-10698) is great.
 
 ## Further Information
 
 * [Objectified: Smart Design OXO Good Grips Story](https://vimeo.com/106963722)
+
   * This video is a great example of a team using user-centered design to solve real problems and develop a business valued at [worth hundreds of millions of dollars](https://web.archive.org/web/20161009174354/http://www.investopedia.com/stock-analysis/2010/helen-of-troys-winning-acquisitions-hele-npk-lcut-nc-jah0706.aspx).
 * [Lean UX](https://www.jeffgothelf.com/lean-ux-book/)
+
   * This book covers the overall "How" and "Why" behind this activity. It arranges practices around a "Build, Measure, Learn" loop.
 * [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
+
   * This article explains design thinking in terms of a "Understand, Explore, Materialize" loop, which is similar to the Lean UX loop.
 * [Usability Testing](https://openpracticelibrary.com/practice/usability-testing/)
+
   * This practice is similar to the open-ended interview we run here.
 * [Design Thinking: Friend or Fad](https://medium.com/@ericmorrow/design-thinking-friend-or-fad-91a867dfe157)
+
   * An activity with the author of this post helped inspire the Lean UX Workshop!
