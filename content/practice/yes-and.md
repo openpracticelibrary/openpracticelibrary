@@ -54,3 +54,5 @@ Some context for where, how and why it can be a useful technique:
 
 * https://www.fastcompany.com/3024535/yes-and-improv-techniques-to-make-you-a-better-boss 
 * https://zapier.com/learn/customer-support/improv-customer-support/
+
+> "The powerful thing about “yes, and” is that it creates an environment where everyone feels safe and confident contributing ideas without fear of rejection.  [Alyssa Murray](https://medium.com/@alyssadmurray/yes-and-306029ebff9a)
