@@ -19,9 +19,9 @@ An exercise to promote good team practice for generating lots of quality ideas.
 
 ## Why use it?
 
-Often when presented with a new idea, or suggestion, our natural response is to critique that idea, to review, refine, or reject it.  "Yes! And..." encourages people to accept the idea as it is, and build upon it.  It can be reviewed, and refined later, and compared or combined with other ideas generated during the session.
+Often when presented with a new idea, or suggestion, our natural response is to critique that idea, to review, refine, or reject it.  "Yes! And… " encourages people to accept the idea as it is, and build upon it.  It can be reviewed, and refined later, and compared or combined with other ideas generated during the session.
 
-The “Yes, and…” improv principle helps teams build on other people’s ideas. 
+The “Yes! And…” improv principle helps teams build on other people’s ideas. 
 
 We accept ideas without judgement. Ideas are considered as stepping stones, not judged or rejected as final products. 
 
@@ -29,7 +29,7 @@ We accept ideas without judgement. Ideas are considered as stepping stones, not 
 
 Break the group into small teams of 4–6 people.  The challenge: plan a party to celebrate last quarter’s achievements.
 
-Round 1: Everyone shares an idea (one-at-a-time). Every time one person shares an idea, someone else replies: “No, what we need to do is…” and explains his idea.
+Round 1: Everyone shares an idea (one-at-a-time). Every time one person shares an idea, someone else replies: “No, what we need to do is…” and explains the alternative idea.
 
 Round 2: Same approach. This time, the response is “Yes, but…” Everyone presents an objection and then shares their idea.
 
