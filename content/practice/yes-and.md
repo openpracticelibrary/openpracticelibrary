@@ -19,7 +19,7 @@ An exercise to promote good team practice for generating lots of quality ideas.
 
 ## Why use it?
 
-Often when presented with a new idea, or suggestion, our natural response is to critique that idea, to review, refine, or reject it.  Yes! And encourages people to accept the idea as it is, and build upon it.  It can be reviewed, and refined later, and compared or combined with other ideas generated during the session.
+Often when presented with a new idea, or suggestion, our natural response is to critique that idea, to review, refine, or reject it.  "Yes! And..." encourages people to accept the idea as it is, and build upon it.  It can be reviewed, and refined later, and compared or combined with other ideas generated during the session.
 
 The “Yes, and…” improv principle helps teams build on other people’s ideas. 
 
