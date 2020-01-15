@@ -7,7 +7,7 @@ authors:
 area: discovery-loop-outcomes
 perspectives: []
 icon: /images/jason-leung-xaanw0s0pmk-unsplash.jpg
-jumbotron: /images/Event Modeling Tutorial - New frame (1).jpg
+jumbotron: /images/Event Modeling Tutorial - New frame.jpg
 jumbotronAlt: An example event model
 people: 1+
 time: 1 afternoon
