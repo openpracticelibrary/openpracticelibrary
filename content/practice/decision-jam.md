@@ -20,7 +20,7 @@ This is a workshop exercise that you can use for ALMOST ANYTHING involving getti
 
 ## Why use it?
 
-The Decision Jam is just an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes (Design Thinking/Gamestorming/[Design Sprints](https://ajsmart.com/design-sprints/)/Agile to name a few) and crushing them down to their absolute essence. It's great to use if you feel like your team either isn't currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you're in a group where 1 or a few people tend the dominate the conversation! This helps ensure EVERYONE's ideas are considered 👏👏👏\
+The Decision Jam is just an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes ([Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/) to name a few) and crushing them down to their absolute essence. It's great to use if you feel like your team either isn't currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you're in a group where 1 or a few people tend the dominate the conversation! This helps ensure EVERYONE's ideas are considered 👏👏👏\
 It's awesome for converging on areas of improvement and driving to a clear experiment for a solution within a very short period of time. So if you wanna have fast follow-through for your team, this is a great workshop to try out!
 
 ## Overview of Steps
@@ -42,10 +42,10 @@ It's awesome for converging on areas of improvement and driving to a clear exper
 **8.** Make solutions actionable
 
 Here's an step-by-step video of the creator of the Lightning Decision Jam (AJ&Smart) on how to facilitate this jazz:\
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33hBnZzoFAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Further Information
 
 1. [Step-by-step blog post from the Creator of the Lightning Decision Jam (AJ&Smart)](https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc)
-
 2. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)
