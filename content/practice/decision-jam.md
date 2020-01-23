@@ -25,12 +25,27 @@ It's awesome for converging on areas of improvement and driving to a clear exper
 
 ## Overview of Steps
 
-1. Select a facilitator for the workshop
+**1.** Identify the things that are working
 
-2. Facilitator draws Sailboat on a whiteboard with an anchor attached. Like this:
+**2.** Capture all the problems or things holding the group back
 
-![]( "Sailboat")
+**3.** Prioritize those problems
 
-3. 
+**4.** Reframe the problems as standardized challenges
+
+**5.** Ideate solutions to the problems without discussion
+
+**6.** Prioritise solutions
+
+**7.** Decide what solution to execute on
+
+**8.** Make solutions actionable
+
+Here's an step-by-step video of the creator of the Lightning Decision Jam (AJ&Smart) on how to facilitate this jazz:\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33hBnZzoFAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Further Information
+
+1. [Step-by-step blog post from the Creator of the Lightning Decision Jam (AJ&Smart)](https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc)
+
+2. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)
