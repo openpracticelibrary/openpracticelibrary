@@ -7,11 +7,18 @@ authors:
 area: discovery-loop-outcomes
 perspectives: []
 icon: /images/jason-leung-xaanw0s0pmk-unsplash.jpg
-jumbotron: /images/jason-leung-xaanw0s0pmk-unsplash.jpg
-jumbotronAlt: Photo by Jason Leung on Unsplash
+jumbotron: /images/Event Modeling Tutorial - New frame.jpg
+jumbotronAlt: An example event model
 people: 1+
-difficulty: moderate
-participants: []
+time: 1 afternoon
+difficulty: easy
+participants:
+  - Programmers
+  - Product Owners
+  - Testers
+  - Customer Support
+  - Sales
+  - Directors and Owners
 ---
 This practice is related to: [Domain Driven Design](https://openpracticelibrary.com/perspective/domain-driven-design/).
 
@@ -23,7 +30,7 @@ This practice is related to: [Domain Driven Design](https://openpracticelibrary.
 
 ## Why use it?
 
-To help better understand and model an Event-Driven System with clarity for all through a visual representation.
+To help better understand and model an information system with clarity for all (linking UX/UI all the way through to persistance) through a visual representation. 
 
 ## Further Information
 
