@@ -55,6 +55,10 @@ Arielle McMahon has kindly contributed this guide to the Open Practice Library.
 
 [UX Strategy Guide Template](/images/ux-strategy-template.jpg)
 
+### Business Model Canvas
+
+The business model canvas is a variation that focuses on the development of new or improving existing or understanding the existing business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
+
 ## How to use it
 
 When filling out the Lean Canvas, it is best to fill the sections out in a certain way. 
