@@ -58,7 +58,7 @@ Arielle McMahon has kindly contributed this guide to the Open Practice Library.
 
 ### Business Model Canvas
 
-The business model canvas is a variation that focuses on the development of new or improving existing or understanding the existing business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
+The business model canvas is a variation that focuses on the development of new, improving existing or understanding the current business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
 
 ## How to use it
 
