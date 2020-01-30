@@ -7,6 +7,7 @@ date: 2019-02-26T02:17:52.155Z
 authors:
   - sandraarps
   - ariellemcmahon
+  - aspanner
 area: discovery-loop-why
 perspectives:
   - product-ownership
