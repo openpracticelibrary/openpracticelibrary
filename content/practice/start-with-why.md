@@ -95,4 +95,6 @@ Red Hat used the [Open Decision Framework](https://github.com/red-hat-people-tea
 
 <https://en.wikipedia.org/wiki/Start_With_Why>
 
-<https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/>
+<https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/>\
+\
+[A case study in Red Hat finding their Why](https://opensource.com/open-organization/18/6/explaining-your-why)
