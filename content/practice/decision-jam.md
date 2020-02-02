@@ -6,7 +6,7 @@ authors:
   - beckerjs
 area: discovery-loop-why
 perspectives: []
-icon: ''
+icon: /images/LDJ 2.jpeg
 jumbotron: /images/LDJ 2.jpeg
 people: 4-100+
 time: 60 - 90 min
