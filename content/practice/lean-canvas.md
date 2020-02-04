@@ -7,6 +7,7 @@ date: 2019-02-26T02:17:52.155Z
 authors:
   - sandraarps
   - ariellemcmahon
+  - aspanner
 area: discovery-loop-why
 perspectives:
   - product-ownership
@@ -54,6 +55,10 @@ The UX Strategy Guide provides a 12-step list of requirements, including metrics
 Arielle McMahon has kindly contributed this guide to the Open Practice Library.
 
 [UX Strategy Guide Template](/images/ux-strategy-template.jpg)
+
+### Business Model Canvas
+
+The business model canvas is a variation that focuses on the development of new, improving existing or understanding the current business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
 
 ## How to use it
 
