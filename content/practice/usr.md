@@ -6,8 +6,8 @@ authors:
   - kelaird
 area: foundation-culture-and-collaboration
 perspectives: []
-icon: /images/USR.JPG
-jumbotron: ''
+icon: /images/usr-small.png
+jumbotron: /images/USR.JPG
 people: 4+
 difficulty: easy
 participants: []
