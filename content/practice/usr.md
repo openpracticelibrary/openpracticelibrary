@@ -7,7 +7,7 @@ authors:
 area: foundation-culture-and-collaboration
 perspectives: []
 icon: /images/USR.JPG
-jumbotron: ''
+jumbotron: /images/USR.JPG
 people: 4+
 difficulty: easy
 participants: []
