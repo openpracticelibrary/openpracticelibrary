@@ -42,6 +42,6 @@ At the end of the meeting/workshop the points are added up, deducted and the per
 
 ## Why use it?
 
-The technique is a good way to ensure the meeting/workshop stays on track and the attendees are contracting in a positive manner.
+The technique is a good way to ensure the meeting/workshop stays on track and the attendees are contributing in a positive manner.
 
 ## Further Information
