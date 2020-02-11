@@ -37,6 +37,8 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 * Some sort of prioritization of scope and/or impacts
 * A physical or digital diagram with the above information
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pmSS69Dh71Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Why use Impact Mapping?
 
 * Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
@@ -62,7 +64,7 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 For the shortened variation:
 
-* 2-4 hours of prep to establish a goal or problem statement _before_ the session. This is important, or your session will go sideways!
+* 2-4 hours of prep to establish a goal or problem statement *before* the session. This is important, or your session will go sideways!
 * optionally - 2 hours before the session to create an outline of the Impact Map based on your current understanding, as a way to introduce the subject to participants
 * ~4 Hours to facilitate the session, not including breaks
 * Facilitate in small sessions @ around 60-90 minutes each
@@ -91,6 +93,8 @@ Physical Variation:
 ## How does it fit?
 
 * Typically done in the Why area of the Discovery of the Open Practice Library
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N8fxzeZh4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## External Resources
 
