@@ -13,14 +13,14 @@ difficulty: easy
 participants:
   - UX Designer
   - The Product Owner
-  - Busines Analysts
+  - Business Analysts
   - Developers
 ---
 ## What is proto-persona?
 
 A proto-persona is a description of the target users and audience of a product based on the assumptions of stakeholders.
 Creating this ad-hoc persona allows product teams to begin designing and building immediately without getting overly bogged down with
-the details of user behavior. Since these personas are developed using the preliminaryknowledge and assumptions of stakeholders and team members,
+the details of user behavior. Since these personas are developed using the preliminary knowledge and assumptions of stakeholders and team members,
 the persona should be updated with any new information or analysis gained during the course of the project.
 (For example, from surveys, usability tests, and user interviews)
 
