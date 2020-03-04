@@ -16,13 +16,13 @@ participants:
 ---
 ## What is it?
 
-This is a workshop exercise that you can use for ALMOST ANYTHING involving getting a few people in a room to define and solve challenges. It's a handful of practices you run in order with a group to identify pain points or problems to solve, prioritizing those problems, ideating solutions to the most important problems, prioritizing those solutions, then assigning next-steps for the team to take in order to run a solution experiment.
+This is a workshop exercise that you can use for ALMOST ANYTHING. It involves getting a few people in a room to define and solve challenges. It is a handful of practices you run with a group to identify pain points or problems to solve, to prioritize those problems, to ideate solutions to the most important problems, and to prioritize those solutions. Finally, you assign next steps for the team to take in order to run a solution experiment.
 
 ## Why use it?
 
-The Decision Jam is an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes ([Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/) to name a few) and crushing them down to their absolute essence. It's great to use if you feel like your team either isn't currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you're in a group where 1 or a few people tend the dominate the conversation! This helps ensure EVERYONE's ideas are considered 👏👏👏
+The Decision Jam is an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes ([Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/) to name a few) and crushing them down to their absolute essence. It is great to use if you feel like your team either is not currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you are in a group where a small group of people tend to dominate the conversation! This helps to ensure EVERYONE's ideas are considered 👏👏👏
 
-It's awesome for converging on areas of improvement and driving to a clear experiment for a solution within a very short period of time. So if you wanna have fast follow-through for your team, this is a great workshop to try out!
+The Decision Jam is awesome for helping the team find areas of improvement. It helps drive the conversation toward a clear experiment to discover a solution within a very short period of time. So if you want to have fast follow-through for your team, this is a great workshop to try out!
 
 ## Overview of Steps
 
@@ -34,15 +34,15 @@ It's awesome for converging on areas of improvement and driving to a clear exper
 
 **4.** Reframe the problems as standardized challenges
 
-**5.** Ideate solutions to the problems without discussion
+**5.** Ideate solutions to the problems as individuals
 
-**6.** Prioritise solutions
+**6.** Prioritize solutions as a team
 
 **7.** Decide what solution to execute on
 
-**8.** Make solutions actionable
+**8.** Make solutions actionable (S.M.A.R.T)
 
-Here's an step-by-step video of the creator of the Lightning Decision Jam (AJ&Smart) on how to facilitate this jazz:\
+Here's a step-by-step video of the creator of the Lightning Decision Jam (AJ&Smart) on how to facilitate this jazz:\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33hBnZzoFAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
