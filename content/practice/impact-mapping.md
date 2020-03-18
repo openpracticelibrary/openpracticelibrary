@@ -39,6 +39,8 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pmSS69Dh71Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ## Why use Impact Mapping?
 
 * Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
