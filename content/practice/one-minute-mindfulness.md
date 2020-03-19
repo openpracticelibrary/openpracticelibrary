@@ -6,8 +6,8 @@ authors:
   - Attila Farkas
 area: foundation-culture-and-collaboration
 perspectives: []
-icon: /images/226.jpg
-jumbotron: /images/226.jpg
+icon: /images/one-minute-mindfulness.png
+jumbotron: /images/one-minute-mindfulness.png
 time: 1 minute
 difficulty: easy
 participants:
