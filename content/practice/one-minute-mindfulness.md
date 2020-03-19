@@ -15,7 +15,7 @@ participants:
 ---
 ## What is it?
 
-We live in a fast paced world. We can all benefit from incorporating stress reduction into our daily routine in order to nurture and encourage our wellbeing. Having just sixty seconds of mindful breathing exercise per day may boost our physical and mental energy. One minute mindfulness is a micro-habit to develop an empathetic mindset. It can be easily integrated into scrum practices, we already have time and place for it at every start of daily stand-ups.
+We live in a fast paced world. We can all benefit from incorporating stress reduction into our daily routine in order to nurture and encourage our well-being. Having just sixty seconds of mindful breathing exercise per day may boost our physical and mental energy. One minute mindfulness is a micro-habit to develop an empathetic mindset. It can be easily integrated into scrum practices, we already have time and place for it at every start of daily stand-ups.
 
 ## Why use it?
 
