@@ -1,6 +1,6 @@
 ---
 title: Split Testing - Multivari Testing
-subtitle: Testing for multiple factors changing together
+subtitle: Quantitatively test how multiple factors influence the success of a design
 date: 2018-12-17T21:55:06.953Z
 authors:
   - valyonchev

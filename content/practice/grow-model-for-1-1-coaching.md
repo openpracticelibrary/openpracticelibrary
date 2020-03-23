@@ -1,0 +1,66 @@
+---
+title: 'GROW Model for 1-2-1 Coaching'
+subtitle: >-
+  The purpose of coaching is to unlock people's potential to maximise their
+  performance, facilitate personal and professional development . Here's a tool
+  to structure your coaching interaction. 
+date: 2020-02-23T17:34:54.362Z
+authors:
+  - shabnoor shah
+area: foundation-culture-and-collaboration
+perspectives:
+  - the-open-organization-definition
+icon: /images/coaching .jpeg
+people: '2 '
+time: 30-45-60 mins
+difficulty: moderate
+participants:
+  - Any individual who wants to change
+  - 'or improve: personal and professional performance and effectiveness'
+  - skills
+  - competencies
+  - behaviours
+  - mindset
+  - ways of working etc
+---
+## What is it?
+
+As per International Coach Federation (ICF)  (Professional) coaching is an ongoing professional relationship that helps people produce extraordinary results in their lives, careers, businesses or organizations. Through the process of coaching, clients deepen their learning, improve their performance, and enhance their quality of life.
+
+GROW is a framework created and evolved by Sir John Whitmore for structuring your coaching conversations
+
+While coaching is a specialised competency you don't have to wait to become a certified coach to help your direct reports, project members, peers etc to improve their performance, skills, attitudes or behaviors. 
+
+GROW is an acronym for:
+
+G - Goals , objectives, desires or aspirations
+
+R - Reality - current situation, challenges, roadblocks, efforts taken, people involved etc
+
+O- Options, Opportunities, possibilities, available resources, influencers
+
+W - Way forward, will , actions, commitment and accountability
+
+Remember as Coach you must be skilled at the following :
+
+\- Building Trust and psychological safety
+
+\- Listening actively
+
+\- Asking effective questions
+
+\- Suspending judgement
+
+## Why use it?
+
+GROW coaching model helps manage time effectively by providing a structure for a focussed coaching conversation. It is an effective model to hold coaching conversations to help "coachee" solve  problems, set goals and  improve performance. 
+
+
+
+## Further Information
+
+Learn more about GROW here
+
+<https://www.performanceconsultants.com/grow-model>
+
+ICF Core competencies for coaching : <https://coachfederation.org/core-competencies>

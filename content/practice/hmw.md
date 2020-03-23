@@ -1,6 +1,6 @@
 ---
-title: HMW
-subtitle: How Might We ... ?
+title: How Might We _____ ?
+subtitle: Turning insights into questions that spur creative solutioning
 date: 2018-11-08T15:26:31.527Z
 authors:
   - valyonchev
@@ -56,6 +56,8 @@ It can easily “plug” and enhance many other practices, especially when you s
 * HMW can be combined with [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/) as a way to search for deliverables that can influence a particular behaviour change of actor/s
 * During [Event Storming](https://openpracticelibrary.com/practice/event-storming/) the team can often spot improvements or ideas for introducing a new way of handling the process, experiments to be carried out. A post-it with a draft HMW question can provide a nice bridge into a HMW and [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/) exercise.
 * A list of key questions are formed during facilitation of [Start at the End](https://openpracticelibrary.com/practice/start-at-the-end/).  HMW is a great approach to building key questions from assumptions that could lead to failure.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N8fxzeZh4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Related Practices
 

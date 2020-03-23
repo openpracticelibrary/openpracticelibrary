@@ -50,3 +50,5 @@ Here are some examples of priorities that could be considered. These are just a 
 ## Further Information
 
 * [Trade-off Sliders](https://www.atlassian.com/team-playbook/plays/trade-off-sliders) in Atassian Playbook
+* [Try out an online example](https://www.ready-to-innovate.com/priority-sliders) from Red Hat.  You can add your own topics or choose from the examples.
+

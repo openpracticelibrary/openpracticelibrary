@@ -23,15 +23,16 @@ participants:
 * The event also provides an opportunity to review all other work (including non-functional progress) performed by the team.
 * It is often performed at the end of an iteration (and known as a Sprint Review or Iteration Demo) but can be performed at key milestones in the life of the product and, indeed, can be scheduled at any time where feedback would be useful.
 
-
-
 ## Why use it?
 
 * This provides a critical feedback loop for products being incrementally and iteratively built as stakeholders can feed back on the features as they are being built into the product, suggest improvements, new ideas for features and catch problems or defects with the product early.
 * It provides an open forum for channeling feedback from stakeholders into the product leadership so that the prioritisation and future work can be adapted accordingly.
 * It enables collaboration across all interested parties on a regular basis and facilitates conversation on the future direction of the product.
 
+## Advice
 
+* Where possible avoid scripting the showcase give stakeholders/end users the ability to play around with the new product. Showcases should be as interactive as possible, aiding the team in collecting real world feedback
+* Showcases should be a comfortable and open environment for people to speak freely. Encourage negative as well as positive feedback, this is the only way to ensure that you're building the right thing 
 
 ## Related Links
 

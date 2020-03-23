@@ -4,8 +4,11 @@ subtitle: Learn domain language. Talk about requirements. Tell domain stories.
 date: 2018-11-07T20:41:32.665Z
 authors:
   - hofstef
+  - hschwentner
   - sherl0cks
 area: discovery-loop-outcomes
+perspectives:
+  - domain-driven-design
 icon: /images/dst_logo-1-.png
 people: 2-20
 time: 10-30 min per Domain Story
@@ -21,10 +24,11 @@ participants:
 
 A workshop format that helps participants understand how people and/or software systems work together. Both existing or future state business processes can be analysed. 
 
-Domain Storytelling is driven by domain experts who share typical examples of how they work. These examples are known as Domain Stories. While listening, the moderator records the domain stories using a pictographic language, so domain experts can see immediately if the moderator understands their story correctly. The moderator guides the domain experts by asking questions, for example _who_ – _does what_ – _with what_ – _why_.
+Domain Storytelling is driven by domain experts who share typical examples of how they work. These examples are known as Domain Stories. While listening, the moderator records the domain stories using a pictographic language, so domain experts can see immediately if the moderator understands their story correctly. The moderator guides the domain experts by asking questions, for example *who* – *does what* – *with what* – *why*.
 
-A Domain Story covers _one concrete example_. It shows something that _actually_ happens, rather than all things that could _possibly_ happen. After several stories, the participants are able to talk about the people, activities, tools, work objects, and events in that domain.
- Often, the conversation that was started with Domain Storytelling is later continued with [user stories](https://openpracticelibrary.com/practice/user-story-mapping/), example mapping, [event storming](https://openpracticelibrary.com/practice/event-storming/), etc.
+A Domain Story covers *one concrete example*. It shows something that *actually* happens, rather than all things that could *possibly* happen. After several stories, the participants are able to talk about the people, activities, tools, work objects, and events in that domain.  Often, the conversation that was started with Domain Storytelling is later continued with [user stories](https://openpracticelibrary.com/practice/user-story-mapping/), example mapping, [event storming](https://openpracticelibrary.com/practice/event-storming/), etc.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63ck9AjH9O8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why use it?
 
@@ -43,3 +47,5 @@ Domain Storytelling is versatile and can facilitation adapted for the purpose, f
 ## Further Information
 
 http://domainstorytelling.org
+
+https://leanpub.com/domainstorytelling

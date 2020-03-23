@@ -6,7 +6,7 @@ authors:
   - tenfourty
 area: discovery-loop-why
 perspectives: []
-icon: /images/golden-circle.webp
+icon: /images/golden-circle.png
 jumbotron: /images/golden-circle.webp
 jumbotronAlt: Start With Why
 people: 1+
@@ -95,4 +95,6 @@ Red Hat used the [Open Decision Framework](https://github.com/red-hat-people-tea
 
 <https://en.wikipedia.org/wiki/Start_With_Why>
 
-<https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/>
+<https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/>\
+\
+[Case Study: Finding Red Hat's Why](https://opensource.com/open-organization/18/6/explaining-your-why)

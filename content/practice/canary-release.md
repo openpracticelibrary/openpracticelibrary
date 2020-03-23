@@ -1,6 +1,6 @@
 ---
 title: Canary Release
-subtitle: Mind the early warnings
+subtitle: Exposing a small number of real users to a new version
 date: 2018-12-18T19:00:46.071Z
 authors:
   - valyonchev

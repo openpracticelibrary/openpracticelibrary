@@ -7,6 +7,7 @@ date: 2019-02-26T02:17:52.155Z
 authors:
   - sandraarps
   - ariellemcmahon
+  - aspanner
 area: discovery-loop-why
 perspectives:
   - product-ownership
@@ -17,8 +18,6 @@ difficulty: moderate
 participants:
   - Product Owner
   - The Team
-aliases:
-  - /practice/product-strategy-guide/
 ---
 ## What is it?
 
@@ -49,7 +48,7 @@ Jeff Gotheelf created the [Lean UX canvas](https://www.jeffgothelf.com/blog/lean
 
 ### UX Strategy Guide
 
-Arielle McMahon created the UX Strategy Guide to help product teams vet ideas for new products and features. This buide is inspired by the Lean UX Canvas and Jim Kalbach’s [UX Strategy Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/).
+Arielle McMahon created the UX Strategy Guide to help product teams vet ideas for new products and features. This guide is inspired by the Lean UX Canvas and Jim Kalbach’s [UX Strategy Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/).
 
 The UX Strategy Guide provides a 12-step list of requirements, including metrics of success, risk assumptions, market research and more. Teams can follow the guide to validate product decisions with the right research and set their products up for success.
 
@@ -57,15 +56,19 @@ Arielle McMahon has kindly contributed this guide to the Open Practice Library.
 
 [UX Strategy Guide Template](/images/ux-strategy-template.jpg)
 
+### Business Model Canvas
+
+The business model canvas is a variation that focuses on the development of new, improving existing or understanding the current business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
+
 ## How to use it
 
 When filling out the Lean Canvas, it is best to fill the sections out in a certain way. 
 
 1. **Problem**\
-   When filling out the problem section think with your future customer in mind. WHY is this a problem for him?
+   When filling out the problem section think with your future customer in mind. WHY is this a problem for them?
 2. **Target Customer**\
    Who are your early adopters of your product, specify them in terms of demographics, situation and interest.
-3. **Unique Value Preposition (UVP)** \
+3. **Unique Value Proposition (UVP)** \
    Your UVP is directed to your customer, what makes your product or service so special to them? What is the benefit to them? 
 4. **Solutions section**\
    It focuses on the key features of your product or service. Ideally, each aspect of the solution comes in line with one of the previously mentioned problems.

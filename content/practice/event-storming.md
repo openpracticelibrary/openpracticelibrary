@@ -32,7 +32,8 @@ participants:
 
 Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini[<sup>1</sup>](#footnote-1) in 2013. At the end of the event storm, you should have:
 
-* A shared understand of the business process you are building as part of the project, including:
+* A shared understanding of the business process you are building as part of the project, including:
+
   * which steps should be considered in scope and which steps are out of scope
   * the users involved in the process
   * an initial inventory of UI screens for the process
@@ -45,6 +46,7 @@ Event Storming is a rapid, interactive approach to business process discovery an
 * It establishes a common and shared language between Business & IT
 * It sets focus in terms of scope and boundaries
 * The technique is iterative, which allows facilitators to:
+
   * slowly adding more detail in each session as to not overwhelm participants.
   * pick and choose participants by session
   * provide cognitive breaks (participants will get tired)
@@ -65,6 +67,8 @@ Event Storming is a rapid, interactive approach to business process discovery an
 * [User Story Mapping](/practice/user-story-mapping/) is a great way to create an Agile delivery plan for a business process designed with Event Storming
 * Journey Mapping[<sup>4</sup>](#footnote-4) can provide a high level overview of the business process before using Event Storming to get into the details
 * Event Storming will identify key views for your user interface, which can jump start Site Mapping[<sup>5</sup>](#footnote-5) or Wireframing[<sup>6</sup>](#footnote-6)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N8fxzeZh4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Facilitation Materials Needed
 

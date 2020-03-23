@@ -1,6 +1,6 @@
 ---
 title: Dark Launches
-subtitle: Only for those in the know
+subtitle: Letting a small group of interested users test features before others
 date: 2018-12-18T18:54:44.225Z
 authors:
   - valyonchev

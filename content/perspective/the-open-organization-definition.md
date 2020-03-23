@@ -1,9 +1,6 @@
 ---
 title: The Open Organization Definition
-subtitle: >-
-  What if we built all our organizations on the same values—transparency,
-  inclusivity, adaptability, collaboration, and community—that power open source
-  software projects?
+subtitle: Understanding open organisation definition
 date: 2019-06-11T07:50:32.730Z
 authors:
   - shabshah
