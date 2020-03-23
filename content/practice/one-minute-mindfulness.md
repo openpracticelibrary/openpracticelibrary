@@ -1,9 +1,9 @@
 ---
 title: One Minute Mindfulness
-subtitle: "Free yoga classes won't fix well-being"
+subtitle: Free yoga classes won't fix well-being
 date: 2020-03-19T21:33:47.435Z
 authors:
-  - Attila Farkas
+  - Airgidfaolchu
 area: foundation-culture-and-collaboration
 perspectives: []
 icon: /images/one-minute-mindfulness.png
