@@ -7,8 +7,8 @@ authors:
 area: foundation-culture-and-collaboration
 perspectives:
   - ''
-icon: /images/meetingonline.jpg
-jumbotron: /images/meetingonline.jpg
+icon: ''
+jumbotron: ''
 people: 3+
 difficulty: moderate
 participants: []
