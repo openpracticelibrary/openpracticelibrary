@@ -30,25 +30,32 @@ To effectively use this practice you should look to create the following outcome
 * The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
 * Revisit the social contract often and update it as necessary
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1le81ZgVLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Example Questions
 
 Try to guide the team to a contract that encourages positivity, autonomy, and respect.
 
 * What sort of team culture do you want to build?
+
   * Open, positive, blame-free, constructive
   * Fun!
   * No magic, no wizardry, no ninjas - build shared understanding
   * Celebrate success
 * What core hours do you want to work?
+
   * 10am - 3pm?
-  * The idea is _not_ to encourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensuring that the team can still meet together.
+  * The idea is *not* to encourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensuring that the team can still meet together.
 * What are your thoughts on pair programming? Mob programming?
+
   * Mob to learn; pair to build?
   * Focus, then share what you learned?
   * Respect individual working styles
 * How should we handle devices in meetings?
+
   * Laptops closed and phones down?
 * Step out if you need to work on something else?
+
   * How do you want to track tasks?
   * Jira?
   * Paper stickies?
