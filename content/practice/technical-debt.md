@@ -1,5 +1,5 @@
 ---
-title: 'Technical Debt '
+title: 'Technical Debt'
 subtitle: What is it and how do we manage it?
 date: 2020-02-17T13:56:42.629Z
 authors:

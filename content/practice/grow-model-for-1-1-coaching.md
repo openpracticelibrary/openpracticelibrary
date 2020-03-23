@@ -1,5 +1,5 @@
 ---
-title: 'GROW Model for 1:1 Coaching'
+title: 'GROW Model for 1-2-1 Coaching'
 subtitle: >-
   The purpose of coaching is to unlock people's potential to maximise their
   performance, facilitate personal and professional development . Here's a tool
@@ -9,9 +9,7 @@ authors:
   - shabnoor shah
 area: foundation-culture-and-collaboration
 perspectives:
-  - coaching
-  - learning
-  - behaviours
+  - the-open-organization-definition
 icon: /images/coaching .jpeg
 people: '2 '
 time: 30-45-60 mins
