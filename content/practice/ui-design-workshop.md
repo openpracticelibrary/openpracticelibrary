@@ -27,7 +27,7 @@ participants:
 ## Why use it?
 
 * UI design workshops help take a high-level business process (such as an [event storm](https://openpracticelibrary.com/practice/event-storming/)) and turn it into something concrete that developers can begin working on.
-* This activity generates new ideas and builds shared understanding, particularly if the entire team participates.
+* This activity generates new ideas and builds a shared understanding, particularly if the entire team participates.
 * Jump-start development by creating just enough design for the team to begin working.
 * A quick, rewarding activity like this one builds confidence and experience in team members who might be new to user experience design.
 * Participants can produce the design assets they need to move forward, even if the team does not have a dedicated UX designer.
@@ -35,11 +35,13 @@ participants:
 ## How to Facilitate
 
 1. Describe what we're sketching:
-  - User goal
-  - What size sticky
-  - Mobile-first?
-  - How long they have
-  - Use multiple stickies to depict the user flow
+
+* User goal
+* What size sticky
+* Mobile-first?
+* How long they have
+* Use multiple stickies to depict the user flow
+
 2. Everyone sketches - 10 min
 3. Playback from each person (and put stickies on board) - 2 min per person
 4. Gather feedback - 2-3 min per each person's flow (green/red stickies with comments on what exactly they like/dislike)
@@ -56,6 +58,6 @@ Instead of merging the designs in steps 6-8, ask the team to dot vote on element
 
 * [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/)
 * [3 rapid prototyping exercises to improve your UX skills](https://uxdesign.cc/3-rapid-prototyping-exercises-to-improve-your-skills-in-ux-design-f2c8b2d690b3)
-* [The "Tuesday" portion of the book _Sprint_](https://library.gv.com/sprint-week-tuesday-d22b30f905c3) provides some great ideas for facilitating a UI design workshop.
+* [The "Tuesday" portion of the book *Sprint*](https://library.gv.com/sprint-week-tuesday-d22b30f905c3) provides some great ideas for facilitating a UI design workshop.
 * [Sketches from the gnome-software design sprint](https://gitlab.gnome.org/GNOME/gnome-software/issues/451) show "dot voting" on favorite designs.
 * [Agile UX Sketching](https://gamestorming.com/1269/#more-1269) routine on Gamestorming.com
