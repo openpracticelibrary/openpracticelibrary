@@ -1,7 +1,7 @@
 ---
 title: Kanban Picture
 subtitle: >-
-  The Kanban Picture suggests a “work dynamic” for teams starting with the
+  The Kanban Picture suggests a "work dynamic" for teams starting with the
   Kanban Method. 
 date: 2019-10-15T18:32:07.285Z
 authors:

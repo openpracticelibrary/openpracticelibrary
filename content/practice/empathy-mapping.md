@@ -37,6 +37,8 @@ This tool can be used at various times in the product lifecycle. If there is a n
 * Captures information and learning directly from the end user or customer effected by the system/application/solution in question
 * Enables a direct connection between important stakeholders and the product team (for example, developers of an application can learn directly from end users using it)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N8fxzeZh4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Facilitation Tips
 
 Prepare the team by letting them know this activity seeks to gain empathy for the 'human' solving a particular problem for. Let everyone know they are there to step into the shoes of the user, customer, etc.. 
