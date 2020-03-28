@@ -7,6 +7,7 @@ authors:
 area: foundation-culture-and-collaboration
 perspectives: []
 people: '2'
+difficulty: null
 participants: []
 ---
 ## What is it?
