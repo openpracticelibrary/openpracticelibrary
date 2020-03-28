@@ -22,12 +22,20 @@ participants:
 * Increased quality of work as it is reviewed and improved simultaneously.
 * Building of trust between team members.
 
+So it is not for:
+
+* Teaching domain
+* Mentorship
+* Showing code
+* Getting confirmation
+* Finding bugs
+
 ## How to do it?
 
-* The team member behind the keyboard and mouse is the _driver_. The _driver_ is focused on performing the actual work.
-* The other team member is the _navigator_ or _observer._ The _navigator_ is focused on the strategic outcome of the work being performed.
-* The _navigator_ reviews the work being performed by the _driver_ as it is done.
-* While reviewing, the _navigator_ keeps in mind the end goal and ensures the current task is working towards it.
+* The team member behind the keyboard and mouse is the *driver*. The *driver* is focused on performing the actual work.
+* The other team member is the *navigator* or *observer.* The *navigator* is focused on the strategic outcome of the work being performed.
+* The *navigator* reviews the work being performed by the *driver* as it is done.
+* While reviewing, the *navigator* keeps in mind the end goal and ensures the current task is working towards it.
 * Switch the roles often, for example every 15 minutes, for the team members to experience the different aspects of the work.
 
 ## Further Information
@@ -35,3 +43,5 @@ participants:
 <https://en.wikipedia.org/wiki/Pair_programming>
 
 <https://medium.com/@springdo/the-last-unicorn-developer-pairing-and-mobbing-c2caaa29b54>
+
+<https://speakerdeck.com/lemiorhan/unwritten-manual-for-pair-programming>
