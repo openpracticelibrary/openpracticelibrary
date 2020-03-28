@@ -22,7 +22,7 @@ participants:
 * Increased quality of work as it is reviewed and improved simultaneously.
 * Building of trust between team members.
 
-So it is not for:
+It is not for:
 
 * Teaching domain
 * Mentorship
