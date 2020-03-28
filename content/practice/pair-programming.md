@@ -18,7 +18,7 @@ participants:
 
 ## Why use it?
 
-* Enable knowledge sharing between more experienced and less experienced team members.
+* Enable knowledge sharing between team members.
 * Increased quality of work as it is reviewed and improved simultaneously.
 * Building of trust between team members.
 
