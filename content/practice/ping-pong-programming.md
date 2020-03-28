@@ -6,7 +6,7 @@ authors:
   - mabulgu
 area: foundation-culture-and-collaboration
 perspectives: []
-people: '2'
+people: 2+
 difficulty: null
 participants: []
 ---
