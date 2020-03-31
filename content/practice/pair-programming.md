@@ -5,6 +5,7 @@ date: 2019-05-09T21:15:43.697Z
 authors:
   - syvanen
   - trncb
+  - mabulgu
 area: foundation-culture-and-collaboration
 icon: /images/final_pairing-_-mobbing.png
 people: '2'
