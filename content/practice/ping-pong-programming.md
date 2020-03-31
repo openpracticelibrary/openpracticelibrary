@@ -13,7 +13,7 @@ participants: []
 ---
 ## What is it?
 
-Ping-Pong Programming (aka. Ping-Pong Pair Programming) is a kind of [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/) that uses TDD ([Test Driven Development](https://openpracticelibrary.com/practice/test-driven-development/)) while in practice. In other words, it is a combination of Pair Programming and TDD.
+Ping-Pong Programming (aka. Ping-Pong Pair Programming) is a kind of [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/) that TDD ([Test Driven Development](https://openpracticelibrary.com/practice/test-driven-development/)) is included while in practice. In other words, it is a combination of Pair Programming and TDD.
 
 ![](/images/ping-pong-programming.png)
 
