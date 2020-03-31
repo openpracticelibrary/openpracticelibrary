@@ -37,6 +37,8 @@ Let's say there are two developers, developer A and developer B. The development
 * Continue until A and B both agree that there are no more tests for the unit they are currently working on.
 * Either developer can refactor the code only all tests stays "passing".
 
+The optimal setup to work in this rhythm is two developers sitting side by side, a single computer with two input devices: That’s two monitors, two keyboards, and two mice. However, developers may do pairs remotely if they work in a remote environment via tools like [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) etc.
+
 Ping-Pong programming can also be done in a group which is a form of  [Mob Programming](https://openpracticelibrary.com/practice/mob-programming/). So it can be called Ping-Pong Mob Programming:
 
 * A developer writes a failing unit test.
