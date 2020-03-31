@@ -20,6 +20,7 @@ Ping-Pong Programming (aka. Ping-Pong Pair Programming) is a kind of [Pair Progr
 
 In addition to the [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/)'s own benefits, Ping-Pong Pair Programming has the following advantages:
 
+* [TDD](https://openpracticelibrary.com/practice/test-driven-development/) :)
 * Easier to find the rhythm of the development flow which can be a problem when it comes to switching pairs.
 * A much smaller problem space needs to be managed, so this enables developers to sync with the flow quicker than other styles.
 * Avoids mismatched pair issues -like one developer knows more than the other- as each developer takes turns writing tests and making them pass.
