@@ -6,6 +6,7 @@ authors:
   - mabulgu
 area: foundation-culture-and-collaboration
 perspectives: []
+icon: /images/ping-pong-programming-tile.png
 people: 2+
 difficulty: null
 participants: []
