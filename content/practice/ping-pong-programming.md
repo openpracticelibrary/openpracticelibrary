@@ -18,12 +18,31 @@ Ping-Pong Programming (aka. Ping-Pong Pair Programming) is a kind of [Pair Progr
 
 ## Why use it?
 
-In addition to the Pair Programming's own benefits, Ping-Pong Pair Programming has the following advantages:
+In addition to the [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/)'s own benefits, Ping-Pong Pair Programming has the following advantages:
 
-* Easier to find the rythm of the development flow which can be a problem when it comes to switching pairs.
+* Easier to find the rhythm of the development flow which can be a problem when it comes to switching pairs.
 * A much smaller problem space needs to be managed, so this enables developers to sync with the flow quicker than other styles.
+* Avoids mismatched pair issues -like one developer knows more than the other- as each developer takes turns writing tests and making them pass.
+* The work is gamified, so it puts another kind of motivation for developers.
 
 ## How to do it?
+
+Let's say there are two developers, developer A and developer B. The development flow goes like the following:
+
+* A writes a failing test.
+* B makes the test pass writing only enough code to make the test pass.
+* B writes the next test.
+* A writes only enough code to make that test pass.
+* Continue until A and B both agree that there are no more tests for the unit they are currently working on.
+* Either developer can refactor the code only all tests stays "passing".
+
+Ping-Pong programming can also be done in a group which is a form of  [Mob Programming](https://openpracticelibrary.com/practice/mob-programming/). So it can be called Ping-Pong Mob Programming:
+
+* A developer writes a failing unit test.
+* Another developer -maybe the one next to her/him- writes as little code as possible to make the test pass.
+* Another developer -maybe the one next to her/him- writes a failing unit test. And it continues like this...
+* Any developer can refactor any code when needed but only when the tests pass.
+* When the driver asks for help, the rest of the group politely helps out without any other interruption.
 
 ## Further Information
 
