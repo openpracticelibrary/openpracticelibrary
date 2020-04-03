@@ -1,5 +1,5 @@
 ---
-title: AEIOU Observation Framework
+title: AEIOU Observation Framework TEST
 subtitle: A heuristic framework used for ethnographic observations.
 date: 2018-11-30T22:42:50.138Z
 authors:
