@@ -97,3 +97,4 @@ Event Storming is a rapid, interactive approach to business process discovery an
 15. An excellent example of Event Storming during a Red Hat Open Innovation lab "[Using 'Event Storming Practice' @ Heritage Bank](https://www.linkedin.com/pulse/using-event-storming-practice-heritage-bank-sandra-arps/)"
 16. [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 17. Alberto Brandolini's [Remote Event Storming](https://blog.avanscoperta.it/it/2020/03/26/remote-eventstorming/) guide
+18.  Open Practice Podcast Episode about Event Storming <iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Event-Storming-w-Patrick-Carney-eamad6/a-a1e5659" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
