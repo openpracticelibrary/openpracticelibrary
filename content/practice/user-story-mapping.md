@@ -1,5 +1,5 @@
 ---
-title: User Story Mapping
+title: User Story Mapping & Value Slicing
 subtitle: >-
   Create lightweight release plans by slicing value out of collections of
   features
@@ -61,9 +61,9 @@ User Story Mapping is an evolution of the traditional Agile backlog, made popula
 * 2 different colors of small square sticky notes like the 3x3 sticky notes[<sup>6</sup>](#footnote-6)
 * Markers
 
-## How does it fit?
+**Want to run this practice remotely? Here's some help to jump start your session 💻🙏**
 
-* Typically done in the Outcomes area of the Discovery of the Open Practice Library
+<div style="width: 600px;"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:28px; color: #393939;margin-bottom: 14px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> Value Slicing Template <span style="font-size: 16px; color: #393939; font-weight: 300;"> <br> by MURAL </span> </span> </h1> <div style="position: relative;padding-bottom: 56.25%;height: 0; overflow: hidden; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 100%; height: 100%;background: url(https://app.mural.co/template/c82ed898-8b47-43a4-86cd-2204cdf46667/dc8ba8d7-b779-41eb-be93-73015fd54789) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/template/c82ed898-8b47-43a4-86cd-2204cdf46667/dc8ba8d7-b779-41eb-be93-73015fd54789" target="_blank" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; background: transparent;"> <img src="https://app.mural.co/static/images/button-template-large.png" alt="GET STARTED FROM TEMPLATE" width="347" height="50" style="width: 347px !important; height: 50px !important"> </a> </div> </div> <p style="margin-top: 7px;margin-bottom: 60px;line-height: 18px; font-size: 14px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> Open to create a mural from this template in your workspace. <span style="color: #393939;">
 
 ## External Resources
 
