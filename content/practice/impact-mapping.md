@@ -39,8 +39,6 @@ Impact Mapping is an engaging, graphical, strategic planning technique. It was i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pmSS69Dh71Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## Why use Impact Mapping?
 
 * Most planning activities revolve around juggling a "shopping list of features," as Gojko calls them. Even though the features are delivered, often the business objective is not achieved. Impact Mapping reorients us towards delivering value, not delivering features.
@@ -97,6 +95,18 @@ Physical Variation:
 * Typically done in the Why area of the Discovery of the Open Practice Library
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N8fxzeZh4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Tips for remote sessions
+
+Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft GOAL done by your Product Owner.
+
+It works well if you have stakeholders and a multifunctional team, but it could be difficult to gather all data in one session. You can evaluate to running the practice 2 to 3 times with an interval between each iteration to allow people to review and fill the gaps.
+
+The facilitator will become a single point of failure if he/she is the only one updating the map.
+
+You probably need more time than the one it takes for a face-to face session.
+
+Be sure everyone is aware of commands to move multiple sticky-notes in a large map.
 
 ## External Resources
 
