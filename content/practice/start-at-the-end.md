@@ -10,7 +10,7 @@ area: discovery-loop-why
 perspectives:
   - domain-driven-design
 icon: /images/final_start-at-the-end.png
-aliases: 
+aliases:
   - /practice/visioning/
 ---
 ## What is it?
@@ -32,6 +32,14 @@ Start At The End is a simple exercise to identify a set of assumptions which mus
 * When defining what success looks like, it may be helpful to focus on goal setting from the perspective of the customer and business.  Identify what value or success looks likes for your customer.  Then define what value you are looking to achieve for your business.  
 * The technique forces participants to think about failure, which many teams never do. It's surprising how much you can learn about a domain just by getting participants to share their fears. 
 * It's easy to communicate the results of the session in slide ware and project rooms. We'd recommend keeping the results up in the project space throughout your effort.
+
+## Tips for Remote Working
+
+* Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
+* Prepare in advance a template on a whiteboard tool with title and steps and be crystal clear about what you expect providing examples
+* Use the timer visible to all attendees
+* Start with the Start at the end and apply the Affinity Map practice below to group topics
+* At the end you can review the Target outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the Open Decision Tree
 
 ## Related Practices
 

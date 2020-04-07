@@ -28,6 +28,7 @@ participants:
 # Why use it?
 
 * Drive team shared understanding of work items in regards to:
+
   * Scope of work in the backlog
   * Conditions of satisfaction
   * Prioritization of what to do first
@@ -36,6 +37,12 @@ participants:
 
 * The simple answer is as often as is necessary
 * Typically its advised that 1 hour of refinement should suffice for each week of the sprint 
+
+## Tips for Remote Working
+
+* Regular (as often as needed) session to decompose the work down into bite size chunks and ensure a shared understanding across all
+* Backlog REFINEMENT needs extra focus and discipline
+* The availability of the Product Owner is key
 
 ## Advice
 

@@ -24,6 +24,11 @@ participants:
 * Reduce scope creep on "in-flight" work items 
 * Increase understanding of the work item when pulling it to be worked on
 
+## Tips for Remote Working
+
+* It is reasonable easy to find an agreement on both definition of ready and done remotely
+* One person can be a facilitator writing it based on everyone input or everyone can co-edit
+
 ## An Example
 
 Whilst Definitions of Ready should be specific to the teams using them, it helps to have an idea of what others teams are using. Included below is just one example current in use in AXA PPP Healthcare:
@@ -32,31 +37,18 @@ Whilst Definitions of Ready should be specific to the teams using them, it helps
 >
 > \
 >
->
 > User Stories meet INVEST criteria
 >
 > \    Independent (of all others)
 >
-> 
->
 > \    Negotiable (not a specific contract for features)
->
-> 
 >
 > \    Valuable
 >
-> 
->
 > \    Estimable (to a good approximation)
->
-> 
 >
 > \    Small (so as to fit within an iteration)
 >
-> 
->
 > \    Testable (in principle, even if there isn’t a test for it yet)
->
-> 
 >
 > Must have Acceptance Criteria
