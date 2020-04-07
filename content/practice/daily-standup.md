@@ -23,11 +23,10 @@ participants:
 * Teams get together to share transparently the ongoing work and highlight roadblocks/impediments they might be facing
 * It is a review of the things that were DONE and things we intend to get DONE. 
 * Typically this is achieved by team members answering 3 questions 
+
   1. What did you do yesterday?
   2. What will you do today?
   3. Do you have any blockers or impediments?
-
-
 
 # Why use it?
 
@@ -39,6 +38,15 @@ participants:
 ## Advice
 
 * As mentioned above, the main point of a stand up is alignment. Be careful it doesn't drift into a status update, focus on what those around you need to know and park any conversations not relevant until the end.
+
+## Tips for Remote Working
+
+* Short daily sync of all the “do-ers”
+* Same time, same place every day
+* 15 minutes...NO LONGER!
+* Sync on what was done yesterday, what’s planned for today and any blockers. Focus conversation on the Goal for the iteration
+* If topics are not moving quickly during the week/sprint you could focus only on blockers to not spend too much time on the meeting if there are too many team members
+* If there are discussions on a specific topic always schedule a dedicated meeting with the right participants to close the discussion
 
 ## Further materials
 
