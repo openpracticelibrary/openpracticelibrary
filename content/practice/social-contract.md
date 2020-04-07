@@ -8,6 +8,7 @@ authors:
   - rdebeasi
   - springdo
   - infosec812
+  - Ilaria66
 area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
@@ -101,6 +102,25 @@ Ask open-ended questions about the team's desired way of working. If the team ag
 At the end, ask the team to sign the contract, and keep it in a visible place. Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
 
 As the team moves forward, encourage them to refer back to the contract when there are disagreements.
+
+## Tips for remote sessions
+
+Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts
+
+Everyone signs with a Sticky-note with his/her name.
+
+Add remote working elements to the social contract (mute on entry, video on etc,)
+
+*Example*:
+
+* One conversation at a time
+* Assume positive intent
+* Do not delete or move others contribution
+* Stay focused on our Goal working iteratively
+* Respect Breaks
+* Avoid other distractions like mail, and chat.
+* A contract can be updated based on needs... Any others to add?
+* Agree on the above adding a sticky w/name & location
 
 ## Related Practices
 
