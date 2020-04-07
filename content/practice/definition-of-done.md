@@ -26,6 +26,11 @@ participants:
 * Aligns understanding and shared expectations across stakeholder groups on, for example, quality, assurance and documentation activities being performed throughout delivery.
 * Drives quality into products being built incrementally.
 
+## Tips for Remote Working
+
+* It is reasonable easy to find an agreement on both definition of ready and done remotely
+* One person can be a facilitator writing it based on everyone input or everyone can co-edit
+
 ## Want to learn more?
 
 * [Scrum Inc 5 minute course](https://www.scruminc.com/definition-of-done/)
