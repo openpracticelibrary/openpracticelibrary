@@ -134,3 +134,4 @@ Add remote working elements to the social contract (mute on entry, video on etc,
 2. <a name="footnote-2"></a>[Working Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team)
 3. <a name="footnote-3"></a>[Social Contract](https://theagileexecutive.com/tag/social-contract/)
 4. [Dynamic Reteaming](https://leanpub.com/dynamicreteaming)
+5. [Social Contracts - The best thing your teams aren't doing](https://medium.com/@springdo/social-contracts-6c62c4588b6e)
