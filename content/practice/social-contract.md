@@ -8,6 +8,7 @@ authors:
   - rdebeasi
   - springdo
   - infosec812
+  - Ilaria66
 area: foundation-culture-and-collaboration
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
@@ -102,6 +103,25 @@ At the end, ask the team to sign the contract, and keep it in a visible place. N
 
 As the team moves forward, encourage them to refer back to the contract when there are disagreements.
 
+## Tips for remote sessions
+
+Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts
+
+Everyone signs with a Sticky-note with his/her name.
+
+Add remote working elements to the social contract (mute on entry, video on etc,)
+
+*Example*:
+
+* One conversation at a time
+* Assume positive intent
+* Do not delete or move others contribution
+* Stay focused on our Goal working iteratively
+* Respect Breaks
+* Avoid other distractions like mail, and chat.
+* A contract can be updated based on needs... Any others to add?
+* Agree on the above adding a sticky w/name & location
+
 ## Related Practices
 
 * Collaborative Face Drawing[<sup>1</sup>](#footnote-1) is a great ice breaker or after lunch activity. Your Social Contract can be a nicely decorated with the faces of the team to show their commitment to the contract.
@@ -114,3 +134,4 @@ As the team moves forward, encourage them to refer back to the contract when the
 2. <a name="footnote-2"></a>[Working Agreements for a Scrum Team](https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team)
 3. <a name="footnote-3"></a>[Social Contract](https://theagileexecutive.com/tag/social-contract/)
 4. [Dynamic Reteaming](https://leanpub.com/dynamicreteaming)
+5. [Social Contracts - The best thing your teams aren't doing](https://medium.com/@springdo/social-contracts-6c62c4588b6e)
