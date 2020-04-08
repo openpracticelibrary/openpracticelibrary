@@ -9,6 +9,7 @@ authors:
 area: discovery-loop-why
 perspectives:
   - domain-driven-design
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_start-at-the-end.png
 aliases:
   - /practice/visioning/
