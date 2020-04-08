@@ -9,6 +9,8 @@ authors:
   - mtakane
   - mvmaestri
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_definition-of-done.png
 people: 2+
 time: 15 minutes
