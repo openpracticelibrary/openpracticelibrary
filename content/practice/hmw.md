@@ -7,6 +7,7 @@ authors:
 area: discovery-loop-outcomes
 perspectives:
   - product-ownership
+  - facilitation-tips-for-remote-sessions
 icon: /images/hmw.jpg
 jumbotron: /images/hmw.jpg
 people: 2+
