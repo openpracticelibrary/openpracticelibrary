@@ -5,6 +5,8 @@ date: 2018-09-09T11:20:06.538Z
 authors:
   - tdbeattie
 area: discovery-loop-outcomes
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_target-outcomes.png
 people: 2+
 time: 30 minutes
