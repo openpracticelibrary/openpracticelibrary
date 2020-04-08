@@ -13,6 +13,7 @@ authors:
 area: options
 perspectives:
   - product-ownership
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_backlog-refinement.png
 people: 2+
 time: 30 minutes
