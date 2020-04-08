@@ -7,13 +7,11 @@ authors:
   - mvmaestri
 jumbotron: ''
 ---
-## What is it?
+# What is it?
 
 This is a list of facilitation tips that can be applied to the majority of on line sessions where you can use one or more practices together.
 
-This perspective contains:
 
-**[Start At The End](https://openpracticelibrary.com/practice/start-at-the-end/), [Target Outcomes](https://openpracticelibrary.com/practice/target-outcomes/), [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/), [Opportunity Decision Tree](https://openpracticelibrary.com/practice/opportunity-solution-tree/), [How might we](https://openpracticelibrary.com/practice/hmw/), [Affinity Mapping](https://openpracticelibrary.com/practice/affinity-mapping/), [Priority Sliders](https://openpracticelibrary.com/practice/priority-sliders/), [User Story Mapping](https://openpracticelibrary.com/practice/user-story-mapping/), [Event Storming](https://openpracticelibrary.com/practice/event-storming/),  [Social Contract](https://openpracticelibrary.com/practice/social-contract/), [Definition of Ready](https://openpracticelibrary.com/practice/definition-of-ready/), [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/), [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/),  [Mob Programming](https://openpracticelibrary.com/practice/mob-programming/),  [Backlog Refinement](https://openpracticelibrary.com/practice/backlog-refinement/),  [Planning](https://openpracticelibrary.com/practice/iteration-planning/), [Retrospective](https://openpracticelibrary.com/practice/retrospectives/), [Mood marbles](https://openpracticelibrary.com/practice/team-sentiment/).**
 
 # Why use it?
 
