@@ -8,6 +8,8 @@ authors:
   - mtakane
   - Ilaria66
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 people: 2+
 time: 15 minutes
 difficulty: easy
