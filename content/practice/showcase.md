@@ -6,6 +6,10 @@ subtitle: >-
 date: 2018-08-27T18:27:14.023Z
 authors:
   - tdbeattie
+  - jonathanjohnston
+  - mvmaestri
+  - noelo
+  - Ilaria66
 area: delivery-measure-and-learn
 icon: /images/final_showcase.png
 people: 2+
@@ -28,6 +32,18 @@ participants:
 * This provides a critical feedback loop for products being incrementally and iteratively built as stakeholders can feed back on the features as they are being built into the product, suggest improvements, new ideas for features and catch problems or defects with the product early.
 * It provides an open forum for channeling feedback from stakeholders into the product leadership so that the prioritisation and future work can be adapted accordingly.
 * It enables collaboration across all interested parties on a regular basis and facilitates conversation on the future direction of the product.
+
+## Tips for remote working
+
+* Works quite well remotely but preparation is essential.
+* The showcase is particularly important in a remote delivery as it is the primary if not the only opportunity to show the value that has been delivered during the sprint in the absence of the team being co-located.
+* Agree agenda and demo roles with the team, and use a timer to ensure you timebox the presentation.
+* Use available online tools and emulators where possible.
+* Facilitator is key to allow the team complete the demo uninterrupted and then allow stakeholders to give feedback and ask questions. 
+* Be sure the is enough time for Q&A
+* Recommend doing a virtual “walk the walls” event using the virtual whiteboard tool to playback the sprint journey.
+* Record the session and create showcase video.
+* Create a summary of the increment and share broadly, with links to all available material.
 
 ## Advice
 
