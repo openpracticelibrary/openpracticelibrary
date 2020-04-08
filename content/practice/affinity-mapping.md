@@ -4,6 +4,7 @@ subtitle: 'Identify insights, patterns and trends in research and ideas'
 date: 2019-10-24T18:10:09.959Z
 authors:
   - beckerjs
+  - Ilaria66
 area: discovery-loop-outcomes
 perspectives: []
 icon: /images/am4.jpg
@@ -39,6 +40,16 @@ Use an affinity diagram when you want to find categories and meta-categories wit
 5. Once the content is sorted, ask the group to suggest categories that represent the columns you’ve created and write the categories they agree on at the top of the column (or near a cluster if you chose a cluster rather than a column display). Don’t let the players spend an inordinate amount of time agreeing on a name for a category. If there’s disagreement over “Facilities” versus “Infrastructure,” write them both. If the players produce categories that are significantly different, pay attention to which category gets the most approval from the group and write that one. Once done, you might have something that looks like this:
 
 ![](/images/screen-shot-2019-10-24-at-2.25.16-pm.png)
+
+## Tips for remote sessions
+
+It works quite well online, it is one of the practices used in combination with others, to group ideas.
+
+Get used to it as is is very useful in any kind of remote work.
+
+Show an example, and allow different people to playback the results at the end to get more engagement.
+
+
 
 ## Further Information
 
