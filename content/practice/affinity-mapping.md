@@ -6,7 +6,8 @@ authors:
   - beckerjs
   - Ilaria66
 area: discovery-loop-outcomes
-perspectives: []
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/am4.jpg
 jumbotron: /images/am4.jpg
 people: 3+
