@@ -8,6 +8,8 @@ authors:
   - mtakane
   - rdebeasi
 area: discovery-loop-outcomes
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_value-slicing.png
 ---
 ## What is it?
