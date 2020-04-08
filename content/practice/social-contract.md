@@ -10,6 +10,8 @@ authors:
   - infosec812
   - Ilaria66
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/social-contract.jpg
 jumbotron: /images/social-contract.jpg
 people: 3+
