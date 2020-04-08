@@ -40,6 +40,10 @@ Event Storming is a rapid, interactive approach to business process discovery an
   * an initial inventory of Aggregates[<sup>2</sup>](#footnote-2)
 * A physical diagram with the above information, which can be transferred to a digital format
 
+**<div align="center">Learn more by listening to the Open Practice Podcast episode! 🎙️🌠</div>**
+
+<div align="center"><iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Event-Storming-w-Patrick-Carney-eamad6/a-a1e5659" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
+
 ## Why use Event Storming?
 
 * It is significantly faster, and a heck of a lot more fun, than traditional process modeling techniques. You'll be surprised how much you accomplish in a short period
