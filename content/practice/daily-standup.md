@@ -8,6 +8,10 @@ authors:
   - mtakane
   - tdbeattie
   - sudhakarau1
+  - jonathanjohnston
+  - noelo
+  - mvmaestri
+  - ilaria66
 area: delivery-deliver
 icon: /images/final_daily-standup.png
 people: 2+
@@ -41,12 +45,16 @@ participants:
 
 ## Tips for Remote Working
 
-* Short daily sync of all the “do-ers”
-* Same time, same place every day
-* 15 minutes...NO LONGER!
-* Sync on what was done yesterday, what’s planned for today and any blockers. Focus conversation on the Goal for the iteration
-* If topics are not moving quickly during the week/sprint you could focus only on blockers to not spend too much time on the meeting if there are too many team members
-* If there are discussions on a specific topic always schedule a dedicated meeting with the right participants to close the discussion
+* Cameras on and everyone contributes.
+* Use video conference tools. Everyone logs in separately - if a few people are co-located it can be difficult if that group is dialled in together.
+* Use an online visual timer to keep to the 15 minute timebox for stand-up. The core agenda is: 
+     1. What I did yesterday
+     2. What I am doing today 
+     3. I have blockers
+
+* People tend to talk more for socialisation and for status updates, for this reason leave 5 minutes more at the end for these aspects that can be more relevant being distributed
+* Consider that the team may be distributed across multiple time zones so agree a time that is cognisant if this.
+* Collectively create a list of topics that need to be discussed after the standup, adding to a blockers board or in the parking lot.
 
 ## Further materials
 

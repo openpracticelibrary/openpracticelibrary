@@ -6,7 +6,10 @@ subtitle: >-
 date: '2018-08-15T23:38:19-04:00'
 authors:
   - mtakane
+  - Ilaria66
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 people: 2+
 time: 15 minutes
 difficulty: easy
@@ -28,6 +31,7 @@ participants:
 
 * It is reasonable easy to find an agreement on both definition of ready and done remotely
 * One person can be a facilitator writing it based on everyone input or everyone can co-edit
+* Use virtual white boarding  tool and use techniques such as “roman voting’ or adding a sticky w/name to gain consensus.
 
 ## An Example
 

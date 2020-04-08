@@ -8,6 +8,10 @@ authors:
   - tdbeattie
   - mtakane
   - beckerjs
+  - jonathanjohnston
+  - noelo
+  - ilaria66
+  - mvmaestri
 area: delivery-measure-and-learn
 icon: /images/heroes-journey-retro.png
 jumbotron: /images/heroes-journey-retro.png
@@ -51,6 +55,23 @@ There are lots of different formats retrospectives can take (see the references 
 * Be careful not to dwell too heavily on things outside of the teams control. Ensure you track them and raise them to the relevant owners but value can rarely be found in a one hour ranting session.
 * Retro's are within reason whatever a team needs to be. They can be broad and encompass multiple issues and problems, or with the teams permission can drill down into specific issues using techniques such as the 5 whys.
 * Locations can play a major role in the outcome of a Retrospective. Changing a Retro location to a Cafe, pub or even using techniques such as the walking retro can help to drive out different problems/issues that might not have come up otherwise
+
+## Tips for remote working
+
+* This event can be completed quite easily remotely.
+* Use a virtual whiteboarding tool or another tool that suits the purpose. 
+* Prep virtual retro board beforehand.
+* Rotate on retrospective formats among the multiple available, to collect different aspects and engage more with the people.
+* Everyone has cameras on.
+* Everyone co-edits the board.
+* Ask different participants to playback the different topics.
+* Ensure everyone has a chance to contribute.
+* Ensure improvement actions are tracked and monitored:
+     * agree on their prioritisation among the team before the are fed back into the backlog.
+     * agree who is in charge of feeding them back to the backlog.
+     * review improvement actions from previous retrospectives.
+* Encourage a social element such as bring your own drink or food or add in a fun game for celebrating the hard work done by the team. 
+* You can consider a rotational responsibility to organise the social event among the team.
 
 ## Related Practices
 

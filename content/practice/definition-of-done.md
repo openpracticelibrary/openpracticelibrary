@@ -7,7 +7,10 @@ date: 2018-08-29T20:14:43.236Z
 authors:
   - tdbeattie
   - mtakane
+  - mvmaestri
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_definition-of-done.png
 people: 2+
 time: 15 minutes
@@ -28,8 +31,9 @@ participants:
 
 ## Tips for Remote Working
 
-* It is reasonable easy to find an agreement on both definition of ready and done remotely
-* One person can be a facilitator writing it based on everyone input or everyone can co-edit
+* It is reasonable easy to find an agreement on both definition of ready and done remotely.
+* One person can be a facilitator writing it based on everyone input or everyone can co-edit.
+* Use virtual white-boarding tool and use techniques such as "roman voting" or adding a sticky w/name to gain consensus. 
 
 ## Want to learn more?
 

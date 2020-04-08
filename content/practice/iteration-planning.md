@@ -7,9 +7,14 @@ date: 2018-08-29T19:32:32.594Z
 authors:
   - sandraarps
   - tdbeattie
+  - jonathanjohnston
+  - ilaria66
+  - noelo
+  - mvmaestri
 area: delivery-deliver
 perspectives:
   - product-ownership
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_sprint-planning.png
 people: 3+
 time: 1-2 hours
@@ -56,6 +61,23 @@ AGENDA:
 OUTPUTS: 
 
 * Closed out previous Sprint. Load what seems to be an appropriate and agreed upon amount of stories for the next Sprint. 
+
+## Tips for remote working
+
+* Works quite well remotely but preparation is key.
+* Ensure backlog refinement has taken place and backlog is in good order, that mean cards are compliant to the definition of ready and in a prioritised order.
+* Prepare virtual tool in advance. Have as much information and working spaces created and displayed as possible e.g.
+    * Sprint goal space
+    * Team calendar space
+    * Team velocity displayed
+    * Parking lot space etc.
+* Use a virtual timer to timebox discussions.
+* Utilize online tools for estimation and sizing.
+* Discussion can be a little harder so the facilitator is key to keep discussion on track and to make sure everyone gets involved and contributes.
+* One person can be the facilitator and everyone's should co-edit. Make this clear at the beginning of the meeting.
+* Record the output of the session as  summary of agreed goals and commitments, the stories and their breakdown and make it available to everyone.
+* Cameras on.
+* Take regular breaks.
 
 ## Related Links
 

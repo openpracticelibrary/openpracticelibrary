@@ -9,6 +9,8 @@ authors:
   - valyonchev
   - rdebeasi
 area: discovery-loop-outcomes
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_priority-sliders.png
 people: 2+
 time: 30 minutes
