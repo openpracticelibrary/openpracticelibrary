@@ -9,6 +9,8 @@ authors:
   - Ilaria66
   - mvmaestri
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_pairing-_-mobbing.png
 people: 3+
 time: Varies
