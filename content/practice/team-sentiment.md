@@ -6,6 +6,8 @@ authors:
   - tdbeattie
   - mtakane
 area: foundation-culture-and-collaboration
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/final_team-sentiment.png
 ---
 
