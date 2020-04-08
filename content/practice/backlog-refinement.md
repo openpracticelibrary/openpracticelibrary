@@ -6,6 +6,10 @@ authors:
   - theisey
   - mtakane
   - tdbeattie
+  - jonathanjohnston
+  - noelo
+  - Ilaria66
+  - mvmaestri
 area: options
 perspectives:
   - product-ownership
@@ -40,9 +44,13 @@ participants:
 
 ## Tips for Remote Working
 
-* Regular (as often as needed) session to decompose the work down into bite size chunks and ensure a shared understanding across all
-* Backlog REFINEMENT needs extra focus and discipline
-* The availability of the Product Owner is key
+* This is perhaps the one of the most difficult to do remotely to keep the team engaged, especially if there hasn’t been a proper preparation by the Product Owner and Engagement Lead.
+* Ensure the Product Owner is prepared and has the necessary details and research done prior to the group getting together.
+* You can rotate role for leading the sessions to increase the team engagement with less passive behaviours and reduce tiredness on a single person acting as lead.
+* Organise multiple small sessions instead of a single long one for remote refinement, otherwise the session becomes tedious and people lose focus.
+* Use the virtual tools available to make as interactive as possible.
+* Use online tools to share the product backlog.
+* Share definition of done and ready with the team and keep them on display during the meeting.
 
 ## Advice
 
