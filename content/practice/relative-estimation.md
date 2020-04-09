@@ -7,6 +7,10 @@ date: 2018-09-03T17:09:39.370Z
 authors:
   - tdbeattie
   - Dappleyard93
+  - jonathanjohnston
+  - ilaria66
+  - noelo
+  - mvmaestri
 area: foundation-culture-and-collaboration
 icon: /images/final_relative-sizing.png
 people: 2+
@@ -56,6 +60,11 @@ An example:
 * Assuming no - 'Okay so we'll say its a 5 pointer then' 
 
 ![](/images/sizing.jpg)
+
+## Tips for remote working
+
+* Not very different from how it is run normally but look to utilize online estimating tools and voting applications where possible.
+* It is relevant to avoid stories too big that are brought into the sprint and they are carried over multiple sprint, as in face to face engagements.
 
 ## Further Information
 
