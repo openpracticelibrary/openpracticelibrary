@@ -1,9 +1,8 @@
 ---
 title: Event Storming
-subtitle: >-
-  A rapid, interactive approach to business process discovery and design that
-  yields high quality models
-date: 2017-04-20T05:00:00.000Z
+subtitle: A rapid, interactive approach to business process discovery and design
+  that yields high quality models
+date: "2017-04-20T05:00:00.000Z"
 authors:
   - mtakane
   - tdbeattie
@@ -100,3 +99,4 @@ Event Storming is a rapid, interactive approach to business process discovery an
 14. Alberto Brandolini's [50,000 Orange Stickies Later](https://www.youtube.com/watch?v=1i6QYvYhlYQ) from Explore DDD 2017. Great overview of how the technique has evolved, tips for running a session, and articulation of the different types of sessions to run.
 15. An excellent example of Event Storming during a Red Hat Open Innovation lab "[Using 'Event Storming Practice' @ Heritage Bank](https://www.linkedin.com/pulse/using-event-storming-practice-heritage-bank-sandra-arps/)"
 16. [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
+17. Alberto Brandolini's [Remote Event Storming](https://blog.avanscoperta.it/it/2020/03/26/remote-eventstorming/) guide
