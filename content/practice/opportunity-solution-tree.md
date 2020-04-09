@@ -1,12 +1,12 @@
 ---
 title: Opportunity Solution Tree
 subtitle: Show how your product solutions map back to a desired outcome
-date: 2019-10-01T14:26:10.092Z
+date: "2019-10-01T14:26:10.092Z"
 authors:
   - beckerjs
 area: discovery-loop-outcomes
 perspectives:
-  - ''
+  - facilitation-tips-for-remote-sessions
 icon: /images/opp-solution-tree.jpg
 jumbotron: /images/opp-solution-tree.jpg
 people: 3+
