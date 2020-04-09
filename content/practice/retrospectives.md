@@ -1,9 +1,7 @@
 ---
 title: Retrospectives
-subtitle: >-
-  Reflect, inspect and adapt ways of working to drive continuous team
-  improvement
-date: 2017-11-21T05:00:00.000Z
+subtitle: Reflect, inspect and adapt ways of working to drive continuous team improvement
+date: "2017-11-21T05:00:00.000Z"
 authors:
   - tdbeattie
   - mtakane
@@ -13,6 +11,8 @@ authors:
   - ilaria66
   - mvmaestri
 area: delivery-measure-and-learn
+perspectives:
+  - facilitation-tips-for-remote-sessions
 icon: /images/heroes-journey-retro.png
 jumbotron: /images/heroes-journey-retro.png
 ---
