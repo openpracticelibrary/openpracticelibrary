@@ -25,6 +25,10 @@ Contract-First Development is about making your intent clear across team members
 
 So that everyone can be productive in parallel AND we can have strong guarantees of the resulting applications working together properly. Instead of UI development being blocked awaiting a working service to code against, UI and Service developers can work in parallel. Also, if you define the contract first when developing or changing API interfaces, you have a clearer "Definition Of Done" and "Acceptance Criteria" for the work.
 
+Here's a quick intro video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQncznMLrt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Further benefits include:
 
 - Code generation for both clients and servers
