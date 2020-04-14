@@ -1,6 +1,6 @@
 ---
 title: Code Review
-subtitle: 'Yes, you should do it:)'
+subtitle: Yes, you should do it:)
 date: 2020-04-30T10:49:53.247Z
 authors:
   - mabulgu
@@ -8,6 +8,7 @@ area: foundation-culture-and-collaboration
 perspectives:
   - pair-programming
   - ping-pong-programming
+  - everything-as-code
 participants: []
 ---
 ## What is it? 
