@@ -1,7 +1,7 @@
 ---
 title: Retrospectives
 subtitle: Reflect, inspect and adapt ways of working to drive continuous team improvement
-date: "2017-11-21T05:00:00.000Z"
+date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
   - mtakane
@@ -67,11 +67,16 @@ There are lots of different formats retrospectives can take (see the references 
 * Ask different participants to playback the different topics.
 * Ensure everyone has a chance to contribute.
 * Ensure improvement actions are tracked and monitored:
-     * agree on their prioritisation among the team before the are fed back into the backlog.
-     * agree who is in charge of feeding them back to the backlog.
-     * review improvement actions from previous retrospectives.
+
+  * agree on their prioritisation among the team before the are fed back into the backlog.
+  * agree who is in charge of feeding them back to the backlog.
+  * review improvement actions from previous retrospectives.
 * Encourage a social element such as bring your own drink or food or add in a fun game for celebrating the hard work done by the team. 
 * You can consider a rotational responsibility to organise the social event among the team.
+
+**Want to run this practice remotely? Here's some help to jump start your session 💻🙏**
+
+<div style="width: 600px;"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:28px; color: #393939;margin-bottom: 14px; font-weight: 300;font-family: Proxima Nova, sans-serif;">  <span style="padding-left: 46px; display: inline-block;"> Heroes&#39; Journey Retro Template <span style="font-size: 16px; color: #393939; font-weight: 300;"> by MURAL </span> </span> </h1> <div style="position: relative;padding-bottom: 56.25%;height: 0; overflow: hidden; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 100%; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/warhw2023/templates/d246d203-18d4-46c5-ab80-0a92f528c1b0.png?v=945a1a9d-3a34-46ac-a6e1-15aea12f4ac3) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/template/d246d203-18d4-46c5-ab80-0a92f528c1b0/1c7943fa-954c-46b1-a8c2-dc92983dfb76" target="_blank" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; background: transparent;"> <img src="https://app.mural.co/static/images/button-template-large.png" alt="GET STARTED FROM TEMPLATE" width="347" height="50" style="width: 347px !important; height: 50px !important"> </a> </div> </div> <p style="margin-top: 7px;margin-bottom: 60px;line-height: 18px; font-size: 14px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> Open to create a mural from this template in your workspace. <span style="color: #393939;"> Powered by </span> <a href="https://mural.co/" target="_blank" style="text-decoration: none;"> <span style="color: #ff0065;">MURAL</span> </a> </p></div>
 
 ## Related Practices
 
