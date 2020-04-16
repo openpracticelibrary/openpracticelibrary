@@ -1,7 +1,7 @@
 ---
 title: Opportunity Solution Tree
 subtitle: Show how your product solutions map back to a desired outcome
-date: "2019-10-01T14:26:10.092Z"
+date: 2019-10-01T14:26:10.092Z
 authors:
   - beckerjs
 area: discovery-loop-outcomes
@@ -38,6 +38,13 @@ An Opportunity Solution Tree can be used at any point in the product lifecycle, 
 3. Brainstorm solutions to specific opportunities (try [Crazy 8s Practice](https://openpracticelibrary.com/practice/crazy-8s/)). Discuss as a team.
 4. Have the team vote on the solutions with the most potential for success (try [Dot-Voting](http://www.funretrospectives.com/dot-voting/)).
 5. Create Experiments for the top 3 solution ideas.
+
+## Tips for remote facilitation
+
+* Not many difference between what you do face to face and remotely
+* You need to be very clear about steps and how you are using different practices that are connected among them on your whiteboard, otherwise people get lost
+* Example: explain if you combine The Opportunity Decision tree, with [Affinity papping](https://openpracticelibrary.com/practice/affinity-mapping/), and [How might we](https://openpracticelibrary.com/practice/hmw/), turning your opportunity areas or expected Impact into Questions
+
 
 ## Further Information
 
