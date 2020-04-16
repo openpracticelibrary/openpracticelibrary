@@ -110,7 +110,9 @@ As the team moves forward, encourage them to refer back to the contract when the
 1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts
 2. Everyone signs with a Sticky-note with his/her name.
 3. Add remote working elements to the social contract (mute on entry, video on etc)
-4. Use examples:
+4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc
+5. Use examples:
+
    * One conversation at a time
    * Assume positive intent
    * Do not delete or move others contribution
@@ -119,8 +121,6 @@ As the team moves forward, encourage them to refer back to the contract when the
    * Avoid other distractions like mail, and chat
    * A contract can be updated based on needs...
    * Agree on the above adding a sticky w/name & location
-
-
 
 ## Related Practices
 
