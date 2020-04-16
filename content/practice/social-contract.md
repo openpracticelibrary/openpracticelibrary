@@ -1,6 +1,6 @@
 ---
 title: Social Contract
-subtitle: 'Build a constructive, fun team culture'
+subtitle: Build a constructive, fun team culture
 date: 2017-11-21T05:00:00.000Z
 authors:
   - mtakane
@@ -107,22 +107,20 @@ As the team moves forward, encourage them to refer back to the contract when the
 
 ## Tips for remote sessions
 
-Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts
+1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts
+2. Everyone signs with a Sticky-note with his/her name.
+3. Add remote working elements to the social contract (mute on entry, video on etc)
+4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc
+5. Use examples:
 
-Everyone signs with a Sticky-note with his/her name.
-
-Add remote working elements to the social contract (mute on entry, video on etc,)
-
-*Example*:
-
-* One conversation at a time
-* Assume positive intent
-* Do not delete or move others contribution
-* Stay focused on our Goal working iteratively
-* Respect Breaks
-* Avoid other distractions like mail, and chat.
-* A contract can be updated based on needs... Any others to add?
-* Agree on the above adding a sticky w/name & location
+   * One conversation at a time
+   * Assume positive intent
+   * Do not delete or move others contribution
+   * Stay focused on our goal working iteratively
+   * Respect breaks
+   * Avoid other distractions like mail, and chat
+   * A contract can be updated based on needs...
+   * Agree on the above adding a sticky w/name & location
 
 ## Related Practices
 
