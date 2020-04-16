@@ -1,6 +1,6 @@
 ---
 title: Affinity Mapping
-subtitle: 'Identify insights, patterns and trends in research and ideas'
+subtitle: Identify insights, patterns and trends in research and ideas
 date: 2019-10-24T18:10:09.959Z
 authors:
   - beckerjs
@@ -42,13 +42,12 @@ Use an affinity diagram when you want to find categories and meta-categories wit
 
 ![](/images/screen-shot-2019-10-24-at-2.25.16-pm.png)
 
+
 ## Tips for remote sessions
 
-It works quite well online, it is one of the practices used in combination with others, to group ideas.
-
-Get used to it as is is very useful in any kind of remote work.
-
-Show an example, and allow different people to playback the results at the end to get more engagement.
+- It works quite well online, it is one of the practices used in combination with others, to group ideas.
+- Get used to it as is is very useful in any kind of remote work.
+- Show an example, and allow different people to playback the results at the end to get more engagement.
 
 
 
