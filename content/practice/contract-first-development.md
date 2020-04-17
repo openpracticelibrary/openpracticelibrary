@@ -4,6 +4,7 @@ subtitle: Make it clear for everyone
 date: 2019-06-20T12:49:38.825Z
 authors:
   - infosec812
+  - jameshbarton
 area: delivery-deliver
 perspectives:
   - product-ownership
