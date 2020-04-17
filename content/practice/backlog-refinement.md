@@ -1,7 +1,7 @@
 ---
 title: Backlog Refinement
 subtitle: Determine addition information and prioritization for existing backlog items
-date: '2018-08-10T07:50:22-04:00'
+date: 2018-08-10T07:50:22-04:00
 authors:
   - theisey
   - mtakane
@@ -57,3 +57,7 @@ participants:
 
 * Although typically occurring as a team meeting, backlog refinement can occur throughout the sprint with the required parties. However information gained in this meeting must be adequately radiated to those who need it.
 * Product owners are also not necessarily required for a backlog refinement. The key is to have those who have sufficient knowledge to talk through a backlog item and answer questions. This may come in the form of a Product owner, Stakeholder, Developer etc
+
+**Want to get better with Backlog Refinement remotely? Here's a game to help you and your team practice it💻🙏**
+
+<div style="width: 600px;"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:28px; color: #393939;margin-bottom: 14px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <img src="https://app.mural.co/static/images/samples-avatar.png" style="position: absolute; border-radius: 50%;width: 36px;height: 36px;margin-right: 14px; display: inline-block; margin-top: -6px;margin-right: 10px; vertical-align: middle;"> <span style="padding-left: 46px; display: inline-block;"> Backlog Management Game Template <span style="font-size: 16px; color: #393939; font-weight: 300;"> on MURAL </span> </span> </h1> <div style="position: relative;padding-bottom: 56.25%;height: 0; overflow: hidden; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 100%; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/communityplatformengineering9434/templates/150bb002-566f-438c-b7a8-f1792626af8b.png?v=08bc2c49-2678-425e-8ae3-22323578b184) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/template/150bb002-566f-438c-b7a8-f1792626af8b/636b98fe-c20d-485d-a09a-d2dedcf5c935" target="_blank" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; background: transparent;"> <img src="https://app.mural.co/static/images/button-template-large.png" alt="GET STARTED FROM TEMPLATE" width="347" height="50" style="width: 347px !important; height: 50px !important"> </a> </div> </div> <p style="margin-top: 7px;margin-bottom: 60px;line-height: 18px; font-size: 14px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> Open to create a mural from this template in your workspace. <span style="color: #393939;"> Powered by </span> <a href="https://mural.co/" target="_blank" style="text-decoration: none;"> <span style="color: #ff0065;">MURAL</span> </a> </p></div>
