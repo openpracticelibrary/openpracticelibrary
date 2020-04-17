@@ -11,9 +11,10 @@ perspectives:
   - everything-as-code
 participants: []
 ---
-## What is it? 
+## What is it?
 
-## Why use it? 
+Code Review is a process that someone other than the author(s) checks the relevant piece of code. 
+
+## Why use it?
 
 ## Further Information
-
