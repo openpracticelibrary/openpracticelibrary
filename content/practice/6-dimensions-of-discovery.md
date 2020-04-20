@@ -63,13 +63,10 @@ Focus**
 
 Get alignment and be clear on how and where the group should focus.
 
-\* From their own individual perspective? Or their perception of how others see their challenges?
-
-\* On the organisation? The team? The project? The technology?
-
-\* Are you documenting current state? (issues) or thinking about challenges that might block desired state? (risks)
-
-\* Are you thinking about bright spot skills, strengths, processes within the team? Or in the broader organisation that might be available to help?
+* From their own individual perspective? Or their perception of how others see their challenges?
+* On the organisation? The team? The project? The technology?
+* Are you documenting current state? (issues) or thinking about challenges that might block desired state? (risks)
+* Are you thinking about bright spot skills, strengths, processes within the team? Or in the broader organisation that might be available to help?
 
 **In sequence, or all at once?**
 
@@ -93,11 +90,13 @@ Set-up
 
 https://app.mural.co/template/bcdbc8d5-e84c-4159-8fc5-fb84b40b151f/98cf62dd-75cc-44ad-97fd-b6211aee17e2 
 
-
-
 ## Further Information
 
-Bright spots: <https://www.fastcompany.com/1514493/switch-dont-solve-problems-copy-success> 
+* Discovery: [https://www.thoughtworks.com/insights/blog/discovery-day-one](http://www.utsdesignindex.com/researchmethod/steep-analysis/)
+* STEEP analysis: [http://www.utsdesignindex.com/researchmethod/steep-analysis/ ](http://www.utsdesignindex.com/researchmethod/steep-analysis/)
+* Fishbone / Ishikawa: <https://en.wikipedia.org/wiki/Ishikawa_diagram>
+* Brightspots: <https://www.fastcompany.com/1514493/switch-dont-solve-problems-copy-success>
+* Appreciative inquiry: [https://en.wikipedia.org/wiki/Appreciative_inquiry ](https://en.wikipedia.org/wiki/Appreciative_inquiry)
 
 
 
@@ -113,8 +112,7 @@ Organisation design, Performance management, Professional development, Hiring pr
 
 *What do we mean by "Culture?"* 
 
-"Ideas, customs, and social behaviour of a particular group of people or society."
-"Maintain an organism in conditions suitable for growth." (common biology def.)
+"Ideas, customs, and social behaviour of a particular group of people or society." "Maintain an organism in conditions suitable for growth." (common biology def.)
 "Culture is to a human collective, what personality is to an individual." (Hofstede)
 
 **Tools & Technology**: \
@@ -122,8 +120,7 @@ Platforms, networks, interfaces, infrastructure, applications.
 
 *What do we mean by "Tools & Technologies?"* 
 
-"Technology is the knowledge and general concept or idea, and tools are how we apply it.  For example, fire is a technology, and sticks, matches, lighters, fuel, bellows, are how we apply, manage and maintain that technology."
-"Technology: Use of knowledge for practical purposes."
+"Technology is the knowledge and general concept or idea, and tools are how we apply it.  For example, fire is a technology, and sticks, matches, lighters, fuel, bellows, are how we apply, manage and maintain that technology." "Technology: Use of knowledge for practical purposes."
 "Tool: Device, implement or application used to carry out a particular function."
 
 **Process**: \
@@ -131,8 +128,7 @@ Operations, management, support, release practices, guides and frameworks.
 
 *What do we mean by "Process?"* 
 
-"actions or steps taken in order to achieve a particular end."
-"steps and decisions involved in the way work is completed."
+"actions or steps taken in order to achieve a particular end." "steps and decisions involved in the way work is completed."
 "interrelated work tasks initiated in response to an event to achieve a specific result."
 "standardised workflow for achieving a particular task.
 
@@ -148,8 +144,7 @@ Stakeholder, staff & customer engagement, meeting cadence, online, offline, 1 to
 
 *What do we mean by "Communication?"* 
 
-"Imparting or exchanging of information by speaking, listening, writing, reading, or using some other medium."
-"Successfully conveying or sharing ideas and feelings."
+"Imparting or exchanging of information by speaking, listening, writing, reading, or using some other medium." "Successfully conveying or sharing ideas and feelings."
 "Ways of sending or receiving information, such as phones, or computers."
 
 **Governance**: \
@@ -157,6 +152,5 @@ Direction, decisions, approval checkpoints, policy, budgeting, reporting, metric
 
 *What do we mean by "Governance?"* 
 
-"the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled in corporations."
-"authority, accountability, stewardship, leadership, direction, and control."
+"the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled in corporations." "authority, accountability, stewardship, leadership, direction, and control."
 "direction and decision-making procedures and metrics for validating impacts to the project."
