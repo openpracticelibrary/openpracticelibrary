@@ -35,6 +35,11 @@ To effectively use this practice you should look to create the following outcome
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o1le81ZgVLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+**<div align="center">Learn more by listening to the Open Practice Podcast episode! 🎙️🌠</div>**
+
+<div align="center"><iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Social-Contracts-w-Omar-McNeil-ecf9e1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
+
 ## Example Questions
 
 Try to guide the team to a contract that encourages positivity, autonomy, and respect.
