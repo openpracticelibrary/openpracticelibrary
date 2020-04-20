@@ -8,7 +8,8 @@ authors:
 area: discovery-loop-why
 perspectives:
   - start-with-why
-  - ""
+  - target-outcomes
+  - impact-effort-prioritization-matrix
 people: 4+
 time: 1 hour
 difficulty: moderate
