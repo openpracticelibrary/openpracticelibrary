@@ -17,14 +17,14 @@ Code Review is a software quality assurance activity that someone other than the
 
 * **TL;DR:** Is the code [clean](https://learning.oreilly.com/library/view/clean-code/9780136083238/)? :)
 * **Design:** Is the code well-designed and appropriate for your system?
-* **Functionality:** Does the code behave as the developer likely intended? Is it the right behavior for users?
+* **Functionality:** Does the code behave as the developer likely intended? Is it the right behavior for users? Looking at the requirements, are all cases/functions fully implemented?
 * **Complexity:** Could the code be made simpler? Would another developer be able to easily understand and use this code when they come across it in the future? As Martin Fowler states in his book [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/):
 
   > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-* **Tests:** Does the code have correct and well-designed automated tests?
+* **Tests:** Does the code have correct and well-designed automated tests? Are the new automated tests sufficient for the new code? Do existing automated tests need to be rewritten due to the changes in the code?
 * **Naming:** Did the developer choose clear names for variables, classes, methods, etc.?
 * **Comments:** Are the comments clear and useful?
-* **Style:** Does the code follow our style guides?
+* **Style:** Does the code follow the existing style guides?
 * **Documentation:** Did the developer also update relevant documentation?
 
 ## Why use it?
