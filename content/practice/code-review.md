@@ -39,6 +39,8 @@ By this, a second important benefit is revealed: [Ego-less Programming](https://
 
 #### Efficiency of Code Review Techniques
 
-![](/images/code_review_efficency.png "test")
+![](/images/code_review_efficency.png)
+
+*["from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*
 
 ## Further Information & References
