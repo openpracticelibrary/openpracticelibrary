@@ -1,7 +1,7 @@
 ---
 title: Code Review
 subtitle: Also a review on the developer's ego
-date: 2020-04-30T10:49:53.247Z
+date: 2020-04-23T16:09:00.000Z
 authors:
   - mabulgu
 area: foundation-culture-and-collaboration
