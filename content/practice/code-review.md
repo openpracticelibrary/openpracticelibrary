@@ -19,7 +19,7 @@ Code Review is a software quality assurance activity that someone other than the
 * Is the code is aligned with the formatting or style guidelines?
 * Is there any logic errors?
 * Are the classes etc. fully implemented due to the requirements?
-* Are there any tests written, or the current tests sufficient for the new code?
+* Are there any tests written, or are the current tests sufficient for the new code?
 * ...
 
 ## Why use it?
