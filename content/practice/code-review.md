@@ -37,10 +37,16 @@ By this, a second important benefit is revealed: [Ego-less Programming](https://
 
 > **You are not your code.** Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
 
+Other benefits may be listed as follows:
+
+* Knowledge Sharing
+* Better Code
+* Finding Defects
+
 #### Efficiency of Code Review Techniques
 
 ![](/images/code_review_efficency.png)
 
-*["from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*
+*["image from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*
 
 ## Further Information & References
