@@ -1,6 +1,6 @@
 ---
 title: Code Review
-subtitle: One more step to the "Clean Code"
+subtitle: Also a review for one's ego
 date: 2020-04-30T10:49:53.247Z
 authors:
   - mabulgu
