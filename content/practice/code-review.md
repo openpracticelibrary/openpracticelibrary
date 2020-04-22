@@ -39,6 +39,6 @@ By this, a second important benefit is revealed: [Ego-less Programming](https://
 
 #### Efficiency of Code Review Techniques
 
-![](/images/code_review_efficency.png)
+![](/images/code_review_efficency.png "test")
 
 ## Further Information & References
