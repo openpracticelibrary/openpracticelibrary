@@ -86,7 +86,7 @@ If there is not a Product Owner, look for a Project Manager or more generically 
 ## Facilitation Materials Needed
 
 * Whiteboard, sticky notes, pens or
-* an electronic canvas
+* an electronic canvas 
 
 ## Tips for Remote Working
 
