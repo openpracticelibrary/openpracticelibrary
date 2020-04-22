@@ -35,7 +35,7 @@ The most important benefit of Code Review is [Collective Code Ownership](https:/
 
 By this, a second important benefit is revealed: [Ego-less Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/). As Jeff Atwood states in his blog post:
 
-> **You are not your code.**Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
+> **You are not your code.** Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
 
 ### Efficency of Code Review Techniques
 
