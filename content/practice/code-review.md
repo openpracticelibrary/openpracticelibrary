@@ -37,8 +37,8 @@ By this, a second important benefit is revealed: [Ego-less Programming](https://
 
 > **You are not your code.** Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
 
-a
-
 ### Efficency of Code Review Techniques
+
+![]()
 
 ## Further Information & References
