@@ -1,6 +1,6 @@
 ---
 title: Code Review
-subtitle: Yes, you should do it:)
+subtitle: One more step to the "Clean Code"
 date: 2020-04-30T10:49:53.247Z
 authors:
   - mabulgu
