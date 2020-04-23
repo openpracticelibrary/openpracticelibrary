@@ -7,7 +7,7 @@ authors:
   - jonathanjohnston
 area: discovery-loop-why
 perspectives:
-  - Facilitation Tips for Remote Sessions
+  - facilitation-tips-for-remote-sessions
 people: 2+
 time: ~1h of preparation to identify the attendees and prepare the canvas before
   the session. ~1 Hours to facilitate the session
@@ -86,7 +86,7 @@ If there is not a Product Owner, look for a Project Manager or more generically 
 ## Facilitation Materials Needed
 
 * Whiteboard, sticky notes, pens or
-* an electronic canvas 
+* an electronic canvas
 
 ## Tips for Remote Working
 
