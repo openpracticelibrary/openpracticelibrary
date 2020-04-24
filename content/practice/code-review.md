@@ -27,26 +27,42 @@ Code Review is a software quality assurance activity that someone other than the
 * **Style:** Does the code follow the existing style guides?
 * **Documentation:** Did the developer also update relevant documentation?
 
+Code Reviews types can be separated into 3, regarding to how long it takes and review's intend:
+
+* **Inspections:** Long code reviews which take about an hour. A third person as "the moderator" may also join this session as well, to moderate the review process which is highly possible to take more than an hour. In this case performance and attention-to-detail tend to drop off after that point.
+* **Walkthroughs:** It is for a mid-level code that takes much less time that generally transforms into a working meeting usually intended to provide teaching opportunities for senior developers to explain concepts to newer programmers.
+* **Short reviews:** Code reviews for small changes, especially for release-fixes or bug fixes that takes a very very short time to fix.
+
 ## Why use it?
 
 The most important benefit of Code Review is [Collective Code Ownership](https://wiki.c2.com/?CollectiveCodeOwnership) which is an [eXtreme Programming (XP)](http://www.extremeprogramming.org/) practice that states the "[Code Ownership](https://martinfowler.com/bliki/CodeOwnership.html)" of any project belongs to nobody individually, but the team itself[](https://martinfowler.com/bliki/CodeOwnership.html). In his book [Code Complete](https://learning.oreilly.com/library/view/code-complete-second/0735619670/), Steve McConnell mentions about this as "Collective Ownership in Construction" which is the idea that all code is owned by a group of contributors who can each equally access and modify the collectively-owned project:
 
 > One part of managing a software-engineering process is catching problems at the "lowest-value" stage—that is, at the time at which the least investment has been made and at which problems cost the least to correct. To achieve such a goal, developers use "quality gates," periodic tests or reviews that determine whether the quality of the product at one stage is sufficient to support moving on to the next.
 
-TODO: By this, a second important benefit is revealed: [Ego-less Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/). As Jeff Atwood states in his blog post:
+By this, a second important benefit is revealed: [Ego-less Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/). As Jeff Atwood states in his blog post:
 
 > **You are not your code.** Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
 
-Other benefits may be listed as follows:
+If someone does some mistakes, it will be easier to accept them and fix them with this way. And ***"no matter how much 'karate' you know"***, as Jeff Atwood stated, ***"someone else will always know more".*** 
 
-* Knowledge Sharing
-* Better Code
-* Finding Defects
+As another case, someone may know less than the developer, in that case both deference and patience has to come out. Code Reviews make the developers understand all these in a shortcut way. 
 
-#### Efficiency of Code Review Techniques
+Other important benefits may be listed as follows:
+
+* Sharing knowledge & mentoring newer engineers
+* Better code
+* Finding defects
+* Makes committers motivated
+* Results in better estimations -in long term
+
+### Efficiency of Code Review Techniques
+
+Mob Programming, Pair Programming -or sub-types like Ping-Pong Programming- can be counted as a code review techniques, since all of them provide the benefits of the code review and suit well code review's definition. The only difference is you are sitting side-by-side with the reviewer when you are doing "Pair Programming" and your code is reviewed as you write it. That's why, the efficiency levels are different, and can be queued from the highest efficient to lowest efficient as follows:
 
 ![](/images/code_review_efficency.png)
 
-*["image from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*
+<sup>*["from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*</sup>
+
+As it can be seen from the image, apart from doing a two or more person programming in pairs, the highest efficient code review technique is opening "pull requests", which an ordinary GitHub user may know as usual.
 
 ## Further Information & References
