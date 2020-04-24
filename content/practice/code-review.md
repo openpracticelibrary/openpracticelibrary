@@ -33,6 +33,16 @@ Code Reviews types can be separated into 3, regarding to how long it takes and r
 * **Walkthroughs:** It is for a mid-level code that takes much less time that generally transforms into a working meeting usually intended to provide teaching opportunities for senior developers to explain concepts to newer programmers.
 * **Short reviews:** Code reviews for small changes, especially for release-fixes or bug fixes that takes a very very short time to fix.
 
+#### Efficiency of Code Review Techniques
+
+[Mob Programming](https://openpracticelibrary.com/practice/mob-programming/), [Pair Programming](https://openpracticelibrary.com/practice/pair-programming/) -or sub-methods like [Ping-Pong Programming](https://openpracticelibrary.com/practice/ping-pong-programming/)- can be counted as code review techniques, since all of them provide the benefits of the code review and suit well code review's definition. The only difference is you are sitting side-by-side with the reviewer when you are doing "Pair Programming" and your code is reviewed as you write it. That's why, the efficiency levels are different, and can be queued from the highest efficient to lowest efficient as follows:
+
+![](/images/code_review_efficency.png)
+
+<sup>*["from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*</sup>
+
+As it can be seen from the image, apart from doing a side-by-side programming in pairs, the highest efficient code review technique is opening "pull requests", which is a very efficient technique actively used by git providers like GitHub, GitLab, etc.
+
 ## Why use it?
 
 The most important benefit of Code Review is [Collective Code Ownership](https://wiki.c2.com/?CollectiveCodeOwnership) which is an [eXtreme Programming (XP)](http://www.extremeprogramming.org/) practice that states the "[Code Ownership](https://martinfowler.com/bliki/CodeOwnership.html)" of any project belongs to nobody individually, but the team itself[](https://martinfowler.com/bliki/CodeOwnership.html). In his book [Code Complete](https://learning.oreilly.com/library/view/code-complete-second/0735619670/), Steve McConnell mentions about this as "Collective Ownership in Construction" which is the idea that all code is owned by a group of contributors who can each equally access and modify the collectively-owned project:
@@ -55,14 +65,20 @@ Other important benefits may be listed as follows:
 * Makes committers motivated
 * Results in better estimations -in long term
 
-### Efficiency of Code Review Techniques
-
-Mob Programming, Pair Programming -or sub-types like Ping-Pong Programming- can be counted as a code review techniques, since all of them provide the benefits of the code review and suit well code review's definition. The only difference is you are sitting side-by-side with the reviewer when you are doing "Pair Programming" and your code is reviewed as you write it. That's why, the efficiency levels are different, and can be queued from the highest efficient to lowest efficient as follows:
-
-![](/images/code_review_efficency.png)
-
-<sup>*["from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*</sup>
-
-As it can be seen from the image, apart from doing a two or more person programming in pairs, the highest efficient code review technique is opening "pull requests", which an ordinary GitHub user may know as usual.
-
 ## Further Information & References
+
+<sup><https://www.wikiwand.com/en/Code_review></sup>
+
+<sup><https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review></sup>
+
+<sup><https://dev.to/vaidehijoshi/crafting-better-code-reviews></sup>
+
+<sup><https://google.github.io/eng-practices/review/></sup>
+
+<sup><https://www.atlassian.com/agile/software-development/code-reviews></sup>
+
+<sup><https://www.perforce.com/blog/qac/9-best-practices-for-code-review></sup>
+
+<sup><https://medium.com/palantir/code-review-best-practices-19e02780015f></sup>
+
+<sup><https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/></sup>
