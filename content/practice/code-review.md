@@ -12,6 +12,7 @@ perspectives:
 icon: /images/code-review.png
 people: 2+
 time: 10-60 mins.
+difficulty: easy
 participants:
   - Developers
 ---
