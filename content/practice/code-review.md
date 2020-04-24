@@ -9,7 +9,11 @@ perspectives:
   - pair-programming
   - ping-pong-programming
   - everything-as-code
-participants: []
+icon: /images/code-review.png
+people: 2+
+time: 10-60 mins.
+participants:
+  - Developers
 ---
 ## What is it?
 
