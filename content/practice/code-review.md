@@ -24,6 +24,7 @@ Code Review is a software quality assurance activity that someone other than the
 * **Complexity:** Could the code be made simpler? Would another developer be able to easily understand and use this code when they come across it in the future? As Martin Fowler states in his book [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/):
 
   > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
 * **Tests:** Does the code have correct and well-designed automated tests? Are the new automated tests sufficient for the new code? Do existing automated tests need to be rewritten due to the changes in the code?
 * **Naming:** Did the developer choose clear names for variables, classes, methods, etc.?
 * **Comments:** Are the comments clear and useful?
