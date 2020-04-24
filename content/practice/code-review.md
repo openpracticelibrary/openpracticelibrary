@@ -6,9 +6,7 @@ authors:
   - mabulgu
 area: foundation-culture-and-collaboration
 perspectives:
-  - pair-programming
-  - ping-pong-programming
-  - everything-as-code
+  - ""
 icon: /images/code-review.png
 people: 2+
 time: 10-60 mins.
