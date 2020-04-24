@@ -36,7 +36,7 @@ Code Reviews types can be separated into 3, regarding to how long it takes and r
 
 * **Inspections:** Long code reviews which take about an hour. A third person as "the moderator" may also join this session as well, to moderate the review process which is highly possible to take more than an hour. In this case performance and attention-to-detail tend to drop off after that point.
 * **Walkthroughs:** It is for a mid-level code that takes much less time that generally transforms into a working meeting usually intended to provide teaching opportunities for senior developers to explain concepts to newer programmers.
-* **Short reviews:** Code reviews for small changes, especially for release-fixes or bug fixes that takes a very very short time to fix.
+* **Short reviews:** Code reviews for small changes which takes around 10 mins., especially for release-fixes or bug fixes that takes a very very short time to fix.
 
 ## Why use it?
 
