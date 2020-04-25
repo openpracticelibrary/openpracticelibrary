@@ -66,7 +66,7 @@ Other important benefits may be listed as follows:
 
 ![](/images/code_review_efficency.png)
 
-<sup>*["from 10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*</sup>
+<sup>*[from "10 Faulty Behaviors of Code Review"](https://speakerdeck.com/lemiorhan/10-faulty-behaviors-of-code-review?slide=7)*</sup>
 
 As it can be seen from the image, apart from doing a side-by-side programming in pairs, the highest efficient code review technique is opening "pull requests", which is a very efficient technique actively used by git providers like GitHub, GitLab, etc.
 
