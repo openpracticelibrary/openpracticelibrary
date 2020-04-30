@@ -10,7 +10,7 @@ jumbotron: /images/1280px-home_sweet_studio.jpg
 ---
 ## Introduction:
 
-There are different aspects to consider when collaborating in a remote way and a remote-ready work infrastructure is not evident for many. So we should assume participants do not have a home office setup already and may lack the space / dedicated room.
+There are different aspects to consider when collaborating in a remote way and a remote-ready work infrastructure is not evident for many. So we should assume participants do not have a home office setup already and may lack the space or dedicated room.
 
 Based on this, we decided to gather on this page some tips and recommendations to improve the lives of people who work remotely, considering health, environmental, and technical requirements.
 
