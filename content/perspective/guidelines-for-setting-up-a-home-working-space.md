@@ -25,8 +25,8 @@ This is a list of helpful tips that can help you and your team set up a remote w
 With a little planning and preparation ahead, there can be a lot of difference between the efficiency and the working environment.
 
 ## Further Information
-
-## Preparations:
+>
+> ## Preparations:
 
 **Team shopping list for home work accessories**
 
@@ -35,7 +35,7 @@ With a little planning and preparation ahead, there can be a lot of difference b
 **Conduct workstation and safety assessment:**  
 
 * It is advisable to  conduct a safety assessment check and attend any relevant training provided by your employer.  Best to reach out HR and your manager.  This process helps identify any special requirement for any team member. For e.g: users with disability or risks.  
-* You can use the  DES workstation checklist to help make an assessment. 
+* You can use the  [DES workstation checklist](https://www.hse.gov.uk/msd/dse/assessment.htm) to help make an assessment. 
 
 ## Environment setup:
 
@@ -92,13 +92,13 @@ Other tips:
 
 ## Collaborative tools:
 
-* Whiteboarding tools: Mural, Miro
-* Project management: JIRA
-* Conference and video: Bluejeans, Zoom, Google chats
-* Kanban board: Trello
-* Git repository hosting service: Github
+* Whiteboarding tools: [Mural](https://mural.co/?utm_source=adwords&utm_term=mural&utm_medium=ppc&utm_campaign=TEST+1&hsa_src=g&hsa_ver=3&hsa_ad=316777106280&hsa_mt=e&hsa_cam=1607635412&hsa_tgt=kwd-92263170&hsa_acc=9046011228&hsa_kw=mural&hsa_net=adwords&hsa_grp=61957888966&gclid=EAIaIQobChMI0e2Ulor36AIVmrp3Ch3W0AyHEAAYASAAEgJpOfD_BwE), [Miro](https://miro.com/app/)
+* Project management: [JIRA](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=95003673489&campaign=9124878942&creative=415523160915&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51241609038&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=EAIaIQobChMItvytr4r36AIVzO3tCh3XbAzcEAAYASAAEgKRVfD_BwE&gclsrc=aw.ds)
+* Conference and video: Bluejeans, [Zoom](https://zoom.us/), Google chats
+* Kanban board: [Trello](https://trello.com/dsunwar/boards)
+* Git repository hosting service: [Github](https://github.com/)
 * Communication: Whatsapp, Google hangouts
-* Secure File sharing options for customer data and risk policy: Intralinks
+* Secure File sharing options for customer data and risk policy: [Intralinks](https://www.intralinks.com/solutions/secure-file-sharing)
 
 ## Health Considerations:
 
@@ -106,12 +106,12 @@ Other tips:
 
 * It is best to get a suitable height desk, chair, monitor, laptop that fits your requirement.
 * If you have a specific need on a chair, desk due to certain health issues e.g: back pain and require ergonomics chairs, standing desk then reach out to your manager or HR team members.
-* Check guidelines on how to set up the correct display screen workstation 
+* Check guidelines on how to set up the correct [display screen workstation](https://www.hse.gov.uk/toolbox/workers/home.htm) 
 
 **Try desk exercise:**
 
 * Working from home can be demanding at times with sitting on a desk for 8 hours a day for five days is not healthy.
-* Consider some desk exercise, osteopath stretches, yoga on a regular basis.
+* Consider some [desk exercise](https://snacknation.com/blog/office-exercises/), [osteopath stretches](https://www.posturepeople.co.uk/ask-an-osteopath-the-best-stretches-when-working-from-home/), yoga on a regular basis.
 
 **Stress and Mental Health:**
 
@@ -126,7 +126,7 @@ Tips: Try practices like daily standup, retrospectives and put some social consi
 **Security:**
 
 * Ensure your home internet router password is long and strong
-* 2 factor authentication device (eg. yubikey)
+* 2 factor authentication device (eg. [yubikey](https://www.yubico.com/))
 * When accessing customers applications or systems, it is important that the communication between devices is secure, either using protocols that encrypt the data such as HTTPS or using a corporate VPN.
 * Always use the supported corporate VPN access software client if available
 
@@ -151,24 +151,29 @@ Developers additionally should:
 * Depending on the tools required for the engagement you will need to get the right access to the tools selected on the project. For all access requests you should contact your local Project Manager / Coordinator or Service Delivery Manager that will give you the required authorizations
 
 **Time Management**  
+
 * Better to have a time management tools in place
 * Allocate home and work priorities in the backlog e.g: kids school pick up, shopping and meetings E.g: post-its, white board, google calendar might help
 
 **Running cost and expenses** 
+
 * Check with your employer on the additional household expenses for e.g: gas, electricity Internet if you require to work from home
 
 ## Helpful Links:
-* ACAS, Homeworking – a guide for employers and employees
-* GOV.UK, Expenses and benefits: homeworking
-* Health and Safety Executive, DSE Assessment check  
-* Ask an Osteopath: The best stretches when working from home, Osteopath stretches
-* Posture people, home working 
-* Temporary Working at Home - Workstation Setup video
-* https://mojo.redhat.com/groups/global-ergonomics
-* https://mojo.redhat.com/community/global-workplace-solutions
-* Red Hat employee sergo elf assessment https://mojo.redhat.com/docs/DOC-1035778
-* From Gitlab -  "All Remote" guides and blog posts 
-- Considerations for a Productive Home Office or Remote Workspace
-- Remote-work resources
-- Working remotely with children at home
 
+* ACAS, [Homeworking – a guide for employers and employees](http://www3.basingstoke.gov.uk/StaffHandbook/ViewDocument.axd?Id=275)
+* GOV.UK, [Expenses and benefits: homeworking](https://www.gov.uk/expenses-and-benefits-homeworking)
+* Health and Safety Executive, [DSE Assessment check](https://www.hse.gov.uk/msd/dse/assessment.htm)
+* Ask an Osteopath: The best stretches when working from home, [Osteopath stretches](https://www.posturepeople.co.uk/ask-an-osteopath-the-best-stretches-when-working-from-home/)
+* Posture people, [home working](https://www.posturepeople.co.uk/category/home-working/) 
+* Temporary Working at Home - [Workstation Setup video](https://www.youtube.com/watch?v=Af7q5j14muc&feature=emb_logo)
+* [Red Hat global GWS ergonomics](https://mojo.redhat.com/groups/global-ergonomics) 
+* [Red Hat global workplace information](https://mojo.redhat.com/community/global-workplace-solutions)
+* [Red Hat employee sergo self assessment form](https://mojo.redhat.com/docs/DOC-1035778) 
+* From Gitlab -  "All Remote" guides and blog posts 
+
+  \- [Considerations for a Productive Home Office or Remote Workspace](https://about.gitlab.com/company/culture/all-remote/workspace/)
+
+  \- [Remote-work resources](https://about.gitlab.com/company/culture/all-remote/resources/)
+
+  \- [Working remotely with children at home](https://about.gitlab.com/blog/2019/08/01/working-remotely-with-children-at-home/)
