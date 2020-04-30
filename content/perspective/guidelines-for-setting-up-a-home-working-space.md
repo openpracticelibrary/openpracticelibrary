@@ -25,7 +25,7 @@ This is a list of helpful tips that can help you and your team set up a remote w
 With a little planning and preparation ahead, there can be a lot of difference between the efficiency and the working environment.
 
 ## Further Information
->
+
 > ## Preparations:
 
 **Team shopping list for home work accessories**
@@ -102,18 +102,18 @@ Other tips:
 
 ## Health Considerations:
 
-**Correct sitting position:**
+**Correct sitting position**
 
 * It is best to get a suitable height desk, chair, monitor, laptop that fits your requirement.
 * If you have a specific need on a chair, desk due to certain health issues e.g: back pain and require ergonomics chairs, standing desk then reach out to your manager or HR team members.
 * Check guidelines on how to set up the correct [display screen workstation](https://www.hse.gov.uk/toolbox/workers/home.htm) 
 
-**Try desk exercise:**
+**Try desk exercise**
 
 * Working from home can be demanding at times with sitting on a desk for 8 hours a day for five days is not healthy.
 * Consider some [desk exercise](https://snacknation.com/blog/office-exercises/), [osteopath stretches](https://www.posturepeople.co.uk/ask-an-osteopath-the-best-stretches-when-working-from-home/), yoga on a regular basis.
 
-**Stress and Mental Health:**
+**Stress and Mental Health**
 
 * Home working can be stressful and affect people’s mental health
 * Being siloed can make it difficult to get the support from your team and managers.
@@ -123,7 +123,7 @@ Tips: Try practices like daily standup, retrospectives and put some social consi
 
 ## Others:
 
-**Security:**
+**Security**
 
 * Ensure your home internet router password is long and strong
 * 2 factor authentication device (eg. [yubikey](https://www.yubico.com/))
