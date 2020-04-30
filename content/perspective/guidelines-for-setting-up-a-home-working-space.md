@@ -5,7 +5,6 @@ date: 2020-04-30T08:54:32.939Z
 authors:
   - dsunwar
   - mvmaestri
-  - kattekrab
 jumbotron: /images/1280px-home_sweet_studio.jpg
 ---
 ## Introduction:
