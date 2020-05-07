@@ -8,7 +8,7 @@ area: foundation-culture-and-collaboration
 perspectives:
   - ""
 icon: /images/t2r2.png
-jumbotron: ""
+jumbotron: /images/t2r2.png
 people: 3+
 difficulty: moderate
 participants: []
