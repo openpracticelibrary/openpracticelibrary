@@ -7,8 +7,8 @@ authors:
 area: foundation-culture-and-collaboration
 perspectives:
   - ""
-icon: /images/t2r2.png
-jumbotron: /images/t2r2.png
+icon: /images/t2r2.jpg
+jumbotron: /images/t2r2.jpg
 people: 3+
 difficulty: moderate
 participants: []
