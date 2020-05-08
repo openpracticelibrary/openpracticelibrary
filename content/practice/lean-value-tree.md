@@ -690,6 +690,8 @@ This enhance to manage Lean Portfolio Management. It uses a lean [](<>)approach 
 
 <!--StartFragment-->
 
+It uses a framework that goes with a Top-Down structured in Goals, Bets ans Initiatives. Show the picture:
+
 The goals: LVT allows to align the goals to the company’s corporative visión, goals are raletively stable and managed at high level, they looks for to be aligned with outcomes more tan specific solutions or outputs. The goals should be ambitious.
 
 The bets: A goal is composed for a set of bets, every bet is a value hypothesis that the organization believes that can help to achieve the goal. If the bet doesn’t functions then is taken out the tree, in this way we assure not to spend time in something that doesn’t help top achieve the corporative visión. LVT uses the word bet becouse it forces to shift the mindset to the actual VUCA Markets.
