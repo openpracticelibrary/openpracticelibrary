@@ -353,7 +353,7 @@ It’s a conceptual tool to facilitate, capture and share the companie’s strat
 
 ## Why use it?
 
-This enhance to manage Lean Portfolio Management.It uses Lean [](<>)approachimpulsed with colaborative work and based in value delivery. It takes advantage of the visual work propeties that are realized into Lean Portfolio level, it permits advice us that all that we do goes in function of Customer Value and corporative visión, avoiding to make inicitatives that are time waste.
+This enhance to manage Lean Portfolio Management. It uses a lean [](<>)approach impulsed with colaborative work and based in value delivery. It takes advantage of the visual work propeties that are realized into Lean Portfolio level, it permits advice us that all that we do goes in function of Customer Value and corporative visión, avoiding to make inicitatives that are time waste.
 
 ## Further Information
 
