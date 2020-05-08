@@ -9,6 +9,7 @@ area: discovery-loop-outcomes
 perspectives:
   - Lean Portfolio Management
 icon: /images/lvt.png
+jumbotron: /images/lvt-conceptual.png
 difficulty: moderate
 participants: []
 ---
@@ -690,7 +691,9 @@ This enhance to manage Lean Portfolio Management. It uses a lean [](<>)approach 
 
 <!--StartFragment-->
 
-It uses a framework that goes with a Top-Down structured in Goals, Bets ans Initiatives. Show the picture:
+It uses a framework that goes with a Top-Down structured in Vision, Goals, Bets ans Initiatives. Show the picture:
+
+![](/images/lvt-conceptual.png)
 
 The goals: LVT allows to align the goals to the company’s corporative visión, goals are raletively stable and managed at high level, they looks for to be aligned with outcomes more tan specific solutions or outputs. The goals should be ambitious.
 
