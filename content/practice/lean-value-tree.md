@@ -1,6 +1,6 @@
 ---
 title: Lean Value Tree
-subtitle: LVT
+subtitle: (LVT)
 date: 2020-05-08T16:58:52.159Z
 authors:
   - "Author: Francisco Meza Guzmán"
