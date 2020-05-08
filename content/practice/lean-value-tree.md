@@ -8,8 +8,8 @@ authors:
 area: discovery-loop-outcomes
 perspectives:
   - Lean Portfolio Management
-icon: /images/lvt.png
-jumbotron: /images/lvt-conceptual.png
+icon: /images/lvt-conceptual.png
+jumbotron: /images/lvt.png
 difficulty: moderate
 participants: []
 ---
