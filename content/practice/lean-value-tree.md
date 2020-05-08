@@ -347,7 +347,7 @@ participants: []
 
 <!--StartFragment-->
 
-It’s a conceptual tool to facilitate, capture and share the companie’s strategy and visión. 
+It’s a conceptual tool to facilitate, capture and share the companie’s strategy and visión for all the organization's levels and teams.
 
 <!--EndFragment-->
 
