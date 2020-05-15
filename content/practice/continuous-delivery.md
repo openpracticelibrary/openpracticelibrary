@@ -7,8 +7,7 @@ authors:
   - Zenigata
 area: foundation-technical
 perspectives:
-  - open-leadership
-  - domain-driven-design
+  - ""
 icon: /images/final_continuous-delivery.png
 people: 1+
 time: Minutes
