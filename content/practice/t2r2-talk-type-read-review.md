@@ -9,6 +9,7 @@ perspectives:
   - ""
 icon: /images/t2r2.jpg
 jumbotron: /images/t2r2.jpg
+jumbotronAlt: talk type read review
 people: 3+
 difficulty: moderate
 participants: []
