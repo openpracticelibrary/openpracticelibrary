@@ -6,6 +6,8 @@ authors:
   - syvanen
   - Zenigata
 area: foundation-technical
+perspectives:
+  - ""
 icon: /images/final_continuous-delivery.png
 people: 1+
 time: Minutes
@@ -15,7 +17,7 @@ participants:
 ---
 ## What is it?
 
-Continuous Delivery (CD) is an engineering practice where each change could be a potentially release ready for production. This practice builds on top of the Continuous Integration practice as its starting point and adds to the end a step that releases artifacts for anyone to use. These artifacts could be software packages, container images or virtual machine images.
+Continuous Delivery (CD) is an engineering practice where each change could be a potential release ready for production. This practice builds on top of the Continuous Integration practice as its starting point and adds to the end a step that releases artifacts for anyone to use. These artifacts could be software packages, container images or virtual machine images.
 
 This practice typically requires automation that is run on a server such as [Jenkins](https://jenkins.io/).
 
