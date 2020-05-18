@@ -1,14 +1,13 @@
 ---
-title: Open Decision Making
-subtitle: >-
-  A specific fusion of behaviors and mindsets characterizes the next generation
-  of leaders.
+title: Open Leadership Mindset
+subtitle: A specific fusion of behaviors and mindsets characterizes the next
+  generation of leaders.
 date: 2019-05-30T18:20:06.600Z
 authors:
   - shabshah
 area: foundation-culture-and-collaboration
 jumbotron: /images/pic-students-working-on-project.jpg
-time: 'Depends on the size of an initiative, objective or decision to be taken.'
+time: Depends on the size of an initiative, objective or decision to be taken.
 difficulty: moderate
 participants:
   - The team

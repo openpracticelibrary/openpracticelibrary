@@ -1,14 +1,15 @@
 ---
-title: 'T2R2 - Talk, type, read, review!'
+title: T2R2 - Talk, type, read, review!
 subtitle: An online meeting method
 date: 2020-03-23T05:46:59.224Z
 authors:
   - kattekrab
 area: foundation-culture-and-collaboration
 perspectives:
-  - ''
-icon: ''
-jumbotron: ''
+  - ""
+icon: /images/t2r2.jpg
+jumbotron: /images/t2r2.jpg
+jumbotronAlt: talk type read review
 people: 3+
 difficulty: moderate
 participants: []
