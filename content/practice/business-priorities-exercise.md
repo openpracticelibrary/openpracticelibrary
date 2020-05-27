@@ -1,0 +1,32 @@
+---
+title: Business Priorities Exercise
+subtitle: Business Priorities
+date: 2020-05-27T10:03:44.374Z
+authors:
+  - kelaird
+area: discovery-loop-why
+perspectives: []
+icon: /images/img_0713-3.jpg
+people: 1-2
+time: 60 Mins
+difficulty: moderate
+participants:
+  - Business Decision Makers
+---
+## What is it?
+
+Business Priorities is a collaborative approach to getting stakeholders to agree on what the top priorities are for whatever they are trying to achieve.
+
+Start by asking the group to pick 3-4 top business priorities that they want to achieve from the project in question
+
+* Run through each of the priorities with the team and provide example (note: don’t lead the witness!)
+* Using Dot Marking, ask them to vote for the top 3 then workup a mind map for them identifying what they actually mean
+* Once the team have settled on their top 3, take each priority in turn and have a more detailed discussion about it.  Use different coloured markers to denote the positive and challenges they currently have in the area being discussed.
+* Similar to Impact Mapping but more ad-hoc and unstructured.
+* Should focus the team on “Why” they are doing things and perceived benefits.
+
+## Why use it?
+
+
+
+## Further Information
