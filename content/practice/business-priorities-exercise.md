@@ -7,6 +7,7 @@ authors:
 area: discovery-loop-why
 perspectives: []
 icon: /images/img_0713-3.jpg
+jumbotron: /images/img_0713-3.jpg
 people: 1-2
 time: 60 Mins
 difficulty: moderate
