@@ -15,7 +15,7 @@ participants:
 ---
 ## What is it?
 
-Business Priorities is a collaborative approach to getting stakeholders to agree on what the top priorities are for whatever they are trying to achieve.
+The Business Priorities Exercise is a collaborative approach to getting stakeholders to agree on what the top priorities are for whatever they are trying to achieve.
 
 Start by asking the group to pick 3-4 top business priorities that they want to achieve from the project in question
 
@@ -27,6 +27,6 @@ Start by asking the group to pick 3-4 top business priorities that they want to 
 
 ## Why use it?
 
-
+Helps teams to align and identify what they should be focusing on.  Also helps to share and highlight where there are challenges in the business which may not be visible to everyone.
 
 ## Further Information
