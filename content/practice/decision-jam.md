@@ -50,4 +50,4 @@ Here's a step-by-step video of the creator of the Lightning Decision Jam (AJ&Sma
 
 1. [Decision Jam Full Resource Page from AJ&Smart](https://ajsmart.com/ldj)
 2. [Step-by-step blog post from the Creator of the Lightning Decision Jam (AJ&Smart)](https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc)
-3. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)
+3. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)  
