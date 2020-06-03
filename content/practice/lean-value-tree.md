@@ -6,8 +6,7 @@ authors:
   - "Author: Francisco Meza Guzmán"
   - "Reviewer: Dario Palomino Choy"
 area: discovery-loop-outcomes
-perspectives:
-  - Lean Portfolio Management
+perspectives: []
 icon: /images/lvt-conceptual.png
 jumbotron: /images/lvt.png
 difficulty: moderate
