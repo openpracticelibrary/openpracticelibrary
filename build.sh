@@ -43,7 +43,7 @@ test(){
 build(){
     _printBuildStep "npm i"
     _printBuildStep "./node_modules/.bin/grunt lunr-index"
-    
+
     echo ""
     echo ""
     echo "##################################################"
@@ -77,6 +77,7 @@ build(){
 if [ $# -eq 0 ];then
     echo "No arguments supplied - running all"
     clean && test && build
+    mv google/google6c50c2249bcbfe59.html public/google6c50c2249bcbfe59.html
 else
     $@
 fi
