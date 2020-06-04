@@ -7,8 +7,8 @@ authors:
   - "Reviewer: Dario Palomino Choy"
 area: discovery-loop-outcomes
 perspectives: []
-icon: /images/lvt-conceptual.png
-jumbotron: /images/lvt.png
+icon:
+jumbotron: 
 difficulty: moderate
 participants: []
 ---
