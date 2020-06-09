@@ -18,6 +18,8 @@ participants:
 
 This is a workshop exercise that you can use for ALMOST ANYTHING. It involves getting a few people in a room to define and solve challenges. It is a handful of practices you run with a group to identify pain points or problems to solve, to prioritize those problems, to ideate solutions to the most important problems, and to prioritize those solutions. Finally, you assign next steps for the team to take in order to run a solution experiment.
 
+Check out the Open Practice Podcast episode with the creator of the Decision Jam, Jonathan Courtney! <iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Lightning-Decision-Jam-w-Jonathan-Courtney-ee9dqi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Why use it?
 
 The Decision Jam is an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes ([Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/) to name a few) and crushing them down to their absolute essence. It is great to use if you feel like your team either is not currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you are in a group where a small group of people tend to dominate the conversation! This helps to ensure EVERYONE's ideas are considered 👏👏👏
@@ -50,4 +52,4 @@ Here's a step-by-step video of the creator of the Lightning Decision Jam (AJ&Sma
 
 1. [Decision Jam Full Resource Page from AJ&Smart](https://ajsmart.com/ldj)
 2. [Step-by-step blog post from the Creator of the Lightning Decision Jam (AJ&Smart)](https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc)
-3. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)  
+3. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)
