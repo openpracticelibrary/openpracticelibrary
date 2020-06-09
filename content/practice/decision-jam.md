@@ -18,7 +18,12 @@ participants:
 
 This is a workshop exercise that you can use for ALMOST ANYTHING. It involves getting a few people in a room to define and solve challenges. It is a handful of practices you run with a group to identify pain points or problems to solve, to prioritize those problems, to ideate solutions to the most important problems, and to prioritize those solutions. Finally, you assign next steps for the team to take in order to run a solution experiment.
 
-Check out the Open Practice Podcast episode with the creator of the Decision Jam, Jonathan Courtney! <iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Lightning-Decision-Jam-w-Jonathan-Courtney-ee9dqi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+\
+**<div align="center">Learn more by listening to the Open Practice Podcast episode with the creator of the Decision Jam, Jonathan Courtney! 🎙️🌠</div>**
+
+<div align="center"><iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Lightning-Decision-Jam-w-Jonathan-Courtney-ee9dqi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
+
+
 
 ## Why use it?
 
