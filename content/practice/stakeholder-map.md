@@ -34,46 +34,49 @@ If there is not a Product Owner, look for a Project Manager or more generically 
 
 **Preparation**:
 
-* * Involve those responsible for the customer engagement and identify the people who should attend a short interactive session (around one hour, based on the complexity of the initiative and organisation) to be part of the mapping process. The people required are normally the key members who have a collective awareness of the initiative.
-  * Organise the session, and be ready with a whiteboard, sticky notes, pens or an electronic canvas
-  * Create an empty board with a title STAKEHOLDER MAP and keys (see graphs in diagrams below as an example)
+* Involve those responsible for the customer engagement and identify the people who should attend a short interactive session (around one hour, based on the complexity of the initiative and organisation) to be part of the mapping process. The people required are normally the key members who have a collective awareness of the initiative.
+* Organise the session, and be ready with a whiteboard, sticky notes, pens or an electronic canvas
+* Create an empty board with a title STAKEHOLDER MAP and keys (see graphs in diagrams below as an example)
 
 **Round 1:**
 
-* * Everyone individually creates a list of stakeholder groups or individuals, writing one group/individual per sticky.
-  * Consider people or groups that
-  * 1. Are impacted
-    2. Can support
-    3. Can delay if involved too late
-    4. Are decision makers
-    5. Are in the operations of the new process/tool when deployed
-    6. Have been involved with a similar project in the past
-  * The list may include, but is not limited to, the following examples: users, the team actually doing the project, people who approve the budget and people who will own the process results.
+* Everyone individually creates a list of stakeholder groups or individuals, writing one group/individual per sticky.
+* Consider people or groups that:
+
+  1. Are impacted
+  2. Can support
+  3. Can delay if involved too late
+  4. Are decision makers
+  5. Are in the operations of the new process/tool when deployed
+  6. Have been involved with a similar project in the past
+* The list may include, but is not limited to, the following examples: users, the team actually doing the project, people who approve the budget and people who will own the process results.
 
 **Round 2:**
 
-* * Take everyone’s individual stickys (of stakeholders identified) and merge them all together, as a whole group, and remove duplicates
-  * Finalise and agree on the groups of people to be involved, especially if the majority are named people
+* Take everyone’s individual stickys (of stakeholders identified) and merge them all together, as a whole group, and remove duplicates
+* Finalise and agree on the groups of people to be involved, especially if the majority are named people
 
 **Round 3:**
 
-* * Create a Map that classifies groups by Power and Interest or Sentiment
-  * Copy the sticky notes groups on the map
-  * Define a strategy to engage and communicate per quadrant. A typical approach is thinking about who has to be informed and or consulted and who is responsible for engaging with stakeholder and the frequency
+* Create a Map that classifies groups by Power and Interest or Sentiment
+* Copy the sticky notes groups on the map
+* Define a strategy to engage and communicate per quadrant. A typical approach is thinking about who has to be informed and or consulted and who is responsible for engaging with stakeholder and the frequency
 
 **Post-follow up:**
 
-* * If the initiative is reasonably small:
-  * 1. Keep the poster/whiteboard visible
-    2. Distribute to everyone involved
-  * If the initiative is broad, it is recommended to share the analysis and collect feedback to fill eventual gaps needing to be clarified
-  * Define a specific calendar for all the events identified and send out meetings to make it happen
-  * Periodically review during retrospectives, to see if the communication plan and level of involvement of stakeholders is working or needs to be refreshed
-  * Keep track of people who change roles and replace them in communications and meetings, as required
-  * Be sure to onboard new stakeholders if there are organisational changes or turnover for other reasons while the initiative is ongoing. Be sure to share
-  * 1. Target outcomes, priorities
-    2. Way of working
-    3. Communication plan
+* If the initiative is reasonably small:
+
+  1. Keep the poster/whiteboard visible
+  2. Distribute to everyone involved
+* If the initiative is broad, it is recommended to share the analysis and collect feedback to fill eventual gaps needing to be clarified
+* Define a specific calendar for all the events identified and send out meetings to make it happen
+* Periodically review during retrospectives, to see if the communication plan and level of involvement of stakeholders is working or needs to be refreshed
+* Keep track of people who change roles and replace them in communications and meetings, as required
+* Be sure to onboard new stakeholders if there are organisational changes or turnover for other reasons while the initiative is ongoing. Be sure to share
+
+  1. Target outcomes, priorities
+  2. Way of working
+  3. Communication plan
 
 ## Examples
 
