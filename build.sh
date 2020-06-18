@@ -77,7 +77,7 @@ build(){
 if [ $# -eq 0 ];then
     echo "No arguments supplied - running all"
     clean && test && build
-    mv google/google6c50c2249bcbfe59.html public/google6c50c2249bcbfe59.html
+    mv google/*.html public/
 else
     $@
 fi
