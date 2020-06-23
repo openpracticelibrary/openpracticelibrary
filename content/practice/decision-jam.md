@@ -23,8 +23,6 @@ This is a workshop exercise that you can use for ALMOST ANYTHING. It involves ge
 
 <div align="center"><iframe src="https://anchor.fm/openpracticelibrary/embed/episodes/Lightning-Decision-Jam-w-Jonathan-Courtney-ee9dqi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></div>
 
-
-
 ## Why use it?
 
 The Decision Jam is an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes ([Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/) to name a few) and crushing them down to their absolute essence. It is great to use if you feel like your team either is not currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you are in a group where a small group of people tend to dominate the conversation! This helps to ensure EVERYONE's ideas are considered 👏👏👏
@@ -55,6 +53,7 @@ Here's a step-by-step video of the creator of the Lightning Decision Jam (AJ&Sma
 
 ## Further Information
 
-1. [Decision Jam Full Resource Page from AJ&Smart](https://ajsmart.com/ldj)
-2. [Step-by-step blog post from the Creator of the Lightning Decision Jam (AJ&Smart)](https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc)
-3. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)
+1. [The Workshopper Playbook by AJ&Smart](https://www.workshopperplaybook.com/ordernow)
+2. [Decision Jam Full Resource Page from AJ&Smart](https://ajsmart.com/ldj)
+3. [Step-by-step blog post from the Creator of the Lightning Decision Jam (AJ&Smart)](https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc)
+4. [Step-by-step video walkthrough](https://youtu.be/33hBnZzoFAg)
