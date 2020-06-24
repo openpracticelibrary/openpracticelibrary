@@ -97,3 +97,4 @@ The [Realtime-Retrospective](/practice/realtime-retrospective/) is a very simila
 2. [Fun Retrospectives](http://www.funretrospectives.com/)
 3. [Retrospective Coaching Cards by Geoff Watts](https://www.amazon.co.uk/Retrospective-Coaching-Cards-Geoff-Watts/dp/0957587473/ref=sr_1_16?ie=UTF8&qid=1523958717&sr=8-16&keywords=retrospectives)
 4. [Retromat: Retro ideas](https://retromat.org/en/?id=122-64-55-48-71)
+5. [Hero's Journey Retrospective Format](https://www.youtube.com/watch?v=z8LW_2OR-e4&list=PLkg9jnMh6bhd0avDugIM81BU9VkBEaMMz&index=2) example by Matt Takane and Jerry Becker
