@@ -1,13 +1,13 @@
 ---
 title: Everything-as-Code
-subtitle: 'Save everything as code - configuration, infrastructure and pipelines'
-date: '2018-08-15T10:37:16+01:00'
+subtitle: Save everything as code - configuration, infrastructure and pipelines
+date: 2018-08-15T10:37:16+01:00
 authors:
   - springdo
   - makentenza
 area: foundation-technical
 icon: /images/ansible-example.png
-people: ''
+people: ""
 participants: []
 ---
 ## What is it?
@@ -28,3 +28,4 @@ Everything as Code includes system design, also stored as code. In old world IT,
 
 * [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html) on Infra as Code.
 * [Ansible](https://www.ansible.com/) is an infrastructure automation tool created by Red Hat, the huge enterprise open source technology provider.
+* [Infrastructure-as-code](https://www.youtube.com/watch?v=E2KOF3AdNy0&list=PLkg9jnMh6bhd0avDugIM81BU9VkBEaMMz&index=10&t=0s) example using OpenShift.
