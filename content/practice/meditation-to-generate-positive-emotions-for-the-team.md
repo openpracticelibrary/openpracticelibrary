@@ -86,6 +86,8 @@ Another variation could work is extending each stage from 2 minutes until 5 minu
 
 Works quite well remotely, be sure to mute all microphones and ask participants to move to a quiet room and close the door.
 
+
+
 ## Further Information
 
 [https://thebuddhistcentre.com/](https://thebuddhistcentre.com/search/node/positive%20emotions)
