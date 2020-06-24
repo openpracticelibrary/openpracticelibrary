@@ -80,15 +80,11 @@ The short version may include only 3 stages:
 * 2nd stage: Friend.
 * 5th stage: Everyone.
 
-Another variation could work is extending each from 2 minutes until 5 minutes.
-
-
+Another variation could work is extending each stage from 2 minutes until 5 minutes.
 
 ## **Tips for remote working**
 
 Works quite well remotely, be sure to mute all microphones and ask participants to move to a quiet room and close the door.
-
-
 
 ## Further Information
 
