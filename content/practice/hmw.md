@@ -70,7 +70,7 @@ It can easily “plug” and enhance many other practices, especially when you s
 
 ## Origin
 
-Made popular by Procter & Gamble in the 1970s, but origin may be tracked as far back as Greek philosophers 
+Made popular by Procter & Gamble in the 1970s, but its origin may be tracked as far back as Greek philosophers.
 
 ## Further information
 
@@ -83,3 +83,5 @@ IDEO Design Kit: [HMW](http://www.designkit.org/methods/3)
 Open Innovation Toolkit: [HMW](https://toolkit.mozilla.org/method/how-might-we/)
 
 Google Design Sprint Toolkit: [HMW](https://designsprintkit.withgoogle.com/methodology/phase1-understand/how-might-we)
+
+AJ&Smart's video on HMW: [HMW](https://www.youtube.com/watch?v=sRGk5oKXgCk)
