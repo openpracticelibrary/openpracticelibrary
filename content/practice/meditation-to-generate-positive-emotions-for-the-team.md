@@ -6,6 +6,8 @@ authors:
   - MaggiePerera
 area: foundation-culture-and-collaboration
 perspectives: []
+icon: /images/meditation.jpg
+jumbotron: /images/virtual-meditation.png
 jumbotronAlt: Help to develop an empathetic mindset towards team members
 people: 2+
 time: "15 minutes "
