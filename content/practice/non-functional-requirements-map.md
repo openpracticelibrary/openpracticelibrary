@@ -34,7 +34,6 @@ To gain a shared understanding of non-functional aspects of a system in a visual
 2. For each heading capture important considerations or requirements for the system or solution and add stickies for each item. Depending on the number of participants, you could use facilitation techniques such as 1-2-4-all or splitting into smaller groups to capture items.
 3. For each heading playback the stickies as a group.
 4. During the playback think about whether each sticky should be:
-
    * An item added to the backlog and prioritised as it requires work to realise.
    * An item that should be included in the [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/) for other backlog items.
    * Part of the acceptance criteria for other backlog items.
