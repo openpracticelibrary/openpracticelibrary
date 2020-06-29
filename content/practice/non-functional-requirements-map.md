@@ -36,7 +36,7 @@ To gain a shared understanding of non-functional aspects of a system in a visual
 4. During the playback think about whether each sticky should be:
 
    * An item added to the backlog and prioritised as it requires work to realise.
-   * An item that should be included in the Definition of Done for other backlog items.
+   * An item that should be included in the [Definition of Done](https://openpracticelibrary.com/practice/definition-of-done/) for other backlog items.
    * Part of the acceptance criteria for other backlog items.
 
 ## Facilitation Materials Needed
