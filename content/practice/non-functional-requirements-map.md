@@ -20,7 +20,7 @@ The Non-Functional Requirements Map is a tool to capture and articulate the non-
 
 Non-functional requirements are broken down into areas represented by each segment on the canvas which are examined and populated in turn as a group.
 
-![Non-Functional Requirements Map](/images/non-functional-requirements-map-tile.jpg)
+![Non-Functional Requirements Map](/images/non-functional-requirements-map.jpg)
 
 Findings and learnings from other [Discovery practices](https://openpracticelibrary.com/#discovery-loop-outcomes) can be input into this practice if appropriate.
 
