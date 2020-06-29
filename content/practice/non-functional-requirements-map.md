@@ -39,7 +39,7 @@ To gain a shared understanding of non-functional aspects of a system in a visual
 ## Facilitation Materials Needed
 
 ##### Digital Variation:
-* A Miro board with a canvas created for the Non-Functional Requirements Map
+* An online whiteboard (such as Miro) with a canvas created for the Non-Functional Requirements Map
 
 ##### Physical Variation:
 * A large whiteboard or writable wall space
