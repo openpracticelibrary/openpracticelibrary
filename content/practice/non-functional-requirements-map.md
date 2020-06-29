@@ -8,7 +8,7 @@ area: discovery-loop-outcomes
 perspectives:
   - facilitation-tips-for-remote-sessions
 icon: /images/non-functional-requirements-map-tile.jpg
-jumbotron: /images/non-functional-requirements-map.jpg
+jumbotron: ""
 people: 2+
 time: 30 mins - 4 hours depending on the complexity of the system under consideration
 difficulty: moderate
