@@ -16,6 +16,10 @@ participants: []
 ---
 ## What is it?
 
+![Non-Functional Requirements Map](/images/non-functional-requirements-map-tile.jpg)
+
+<div style="text-align:center"><img src="/images/non-functional-requirements-map-tile.jpg" /></div>
+
 The Non-Functional Requirements Map is a tool to capture and articulate the non-functional requirements of a solution that a team is striving to deliver. It aims to elaborate non-functional areas that are unlikely to be captured using practices primarily focused on functional aspects of a solution.
 
 Non-functional requirements are broken down into areas represented by each segment on the canvas which are examined and populated in turn as a group.
@@ -32,6 +36,7 @@ To gain a shared understanding of non-functional aspects of a system in a visual
 2. For each heading capture important considerations or requirements for the system or solution and add stickies for each item. Depending on the number of participants, you could use facilitation techniques such as 1-2-4-all or splitting into smaller groups to capture items.
 3. For each heading playback the stickies as a group.
 4. During the playback think about whether each sticky should be:
+
    * An item added to the backlog and prioritised as it requires work to realise.
    * An item that should be included in the Definition of Done for other backlog items.
    * Part of the acceptance criteria for other backlog items.
@@ -39,9 +44,11 @@ To gain a shared understanding of non-functional aspects of a system in a visual
 ## Facilitation Materials Needed
 
 ##### Digital Variation:
+
 * An online whiteboard (such as Miro) with a canvas created for the Non-Functional Requirements Map
 
 ##### Physical Variation:
+
 * A large whiteboard or writable wall space
 * Whiteboard markers
 * Stickies
