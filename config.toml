@@ -9,7 +9,8 @@ enableGitInfo = true
 
 [params]
 paginatedsections = ["practice"]
-logo = "images/logo.svg"
+# logo = "images/logo.svg"
+logo = "images/logo-option-1a.png"
 description = "Practices that empower teams to collaborate and deliver iteratively"
 hideHUGOSupport = true
 googleAnalyticsUserID = "UA-111461618-1"
