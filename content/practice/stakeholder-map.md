@@ -80,7 +80,7 @@ If there is not a Product Owner, look for a Project Manager or more generically 
 
 ## Examples
 
-![Stakeholder Map - example 1](/images/stakeholder-map-3.png "Stakeholder Map example 2")
+![Stakeholder Map - example 1](/images/stakeholder-map-3.1.png "Stakeholder Map example 2")
 
 ![Stakeholder Map - example 2](/images/stakeholder-map-1.jpg "Stakeholder Map example 2")
 
