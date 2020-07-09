@@ -1,11 +1,9 @@
 ---
 title: Lean Value Tree
-subtitle: >-
-  A simple tool for aligning people all all levels of the business
-date: 2020-07-07T09:00:01Z
+subtitle: A simple tool for aligning people all all levels of the business
+date: 2020-07-07T09:00:01.000Z
 authors:
-  - springdo
-  - tdbeattie
+  - FranciscoMezaGuzman
 area: discovery-loop-why
 perspectives:
   - product-ownership
