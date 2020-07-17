@@ -64,7 +64,11 @@ h1, h2, h3, h4, h5, h6,
 .post-meta,
 .practice-subtitle,
 .social-footer {
-  font-family: 'Arimo', 'Lucida Grande', sans-serif;
+  font-family: 'Montserrat', 'Lucida Grande', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #232582;
 }
 
 /* =Site Header */
@@ -82,6 +86,14 @@ h1, h2, h3, h4, h5, h6,
 .post-header h4 {
     font-size: 1.8rem;
     margin: 0;
+}
+
+.post-content {
+  text-align: center;
+}
+
+.post-content li {
+  text-align: left;
 }
 
 .author-co-authors,

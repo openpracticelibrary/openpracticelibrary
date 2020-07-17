@@ -6,19 +6,32 @@ weight: 6
 type: "home"
 ---
 
+## Deliver real business value quickly and move past the buzzwords.
+
+The Open Practice Library is an open source, community-driven, and community-inspired library of best practices and tools that help individuals, teams and entire businesses figure out the best way to get to the best outcome. That can mean a lot of things to alot of different kinds of people. And the Open Practice Library can help all of them. 
+
+A product owner who needs to build the right thing, the right way.
+
+A team lead who wants to get everyone’s input toward and aligned to the same goal.
+
+A stakeholder who needs a roadmap to deliver metrics-based business outcomes.
+
+For everyone, these practices are created, tested and shared by the people who use them day-to-day. The practices are for the people looking to be inspired with new ideas to create better experiences. And anyone who wants to find innovative, proven ways to solve their challenges, big and small.
+
+Start with understanding how the practices are organized:
+
 ![library-loop](/images/loop-labels-path.svg)
 
-The Open Practice Library is a community-driven repository of practices and tools. These are shared <i>by people</i> currently using them day-to-day <i>for people</i> looking to be inspired with new ideas and experience.
+## Visual of Loop
 
-To help navigate the Library, all practices can be visualised on a canvas based on the [Outcome Delivery](http://outcomedelivery.com/) framework which has three parts:
+All of the practices in this library can be mapped to the [Mobius Loop](https://www.mobiusloop.com/) - a navigator created by an open source community that generates a continuous flow of innovation from discovery, to design, to delivery.
 
-* Discovery - to generate the Outcomes
-* Options - to identify how to get there
-* Delivery - to implement and put your ideas to the test. Learn what works and what doesn’t.
+Practices can be mapped to one of three parts of the loop:
 
-These are connected with an infinity loop called Mobius. In addition to this is a foundation layer to capture practices providing culture & collaboration and technical engineering. These combined enable sustainable continuous delivery.
+* Discovery - practices to help define target outcomes
+* Options - practices to help identify the path to the right outcomes
+* Delivery - practices to put your ideas to the test. Learn what works and what doesn’t.
 
-#### Our Mission
-This Library is intended to be a wealth of knowledge on product Discovery and Delivery practices to be adopted and evolved by a positive, engaged and supportive global community.
+In addition to this framework, we have found that cultural practices and technical practices -- captured in the foundational layer --  accelerate and maximize the use of the Mobius Loop.
 
-[Learn more about this library](/about) and how to contribute to it, or [see what's new](https://github.com/openpracticelibrary/openpracticelibrary/pulls?q=is%3Apr+is%3Aclosed+base%3Amaster).
+You can learn more about this library and how you can start your journey using these open practices [here](https://openpracticelibrary.com/page/about/), or jump right in 

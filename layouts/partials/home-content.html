@@ -1,5 +1,9 @@
 
  {{ range .Data.Pages }}
+    <script>console.warn("1");</script>
+    <script>console.warn({{.Type}});</script>
+
+
         {{if eq .Type "home" }}
         <div class="index-content post">
           <div class="post-content">
@@ -18,11 +22,15 @@
 
     <div class="post">
       {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
+      <script>console.warn({{$list}});</script>
       {{ $list := where $list "Section" "!=" "" }}
       {{ $practiceMap := newScratch }}
       {{ range $list }}
         {{ $currentItem := (dict "pageParams" .Params "RelPermalink" .RelPermalink ) }}
-        {{ $practiceMap.Add .Params.area (slice $currentItem) }}
+        <script>console.warn({{ .Params }});</script>
+        {{if .Params.area }}
+          {{ $practiceMap.Add .Params.area (slice $currentItem) }}
+        {{end}}
       {{end}}
 
       {{ partial "button.html" (dict "absolutePath" "/admin/#/collections/practice/new" "buttonText" "Add new practice") }}

@@ -108,7 +108,7 @@
        style="fill:#aeca37;stroke:#aeca37;stroke-width:9.81999969px;stroke-miterlimit:10" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';letter-spacing:0px;word-spacing:0px;fill:#3973b8;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#3973b8;fill-opacity:1;stroke:none"
        x="-7.8578901"
        y="-68.530441"
        id="text835"><tspan
@@ -129,7 +129,7 @@
      transform="scale(-1)" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="-57.043377"
      y="-25.831245"
      id="text26"><tspan
@@ -140,7 +140,7 @@
   <g
      aria-label="Options
 Pivot"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';letter-spacing:0px;word-spacing:0px;fill:#eb6608;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#eb6608;fill-opacity:1;stroke:none"
      id="text839">
     <path
        d="m 375.8657,282.17255 q 0,4.01041 -1.58593,7.05468 -1.58594,3.04427 -4.53907,4.66667 -2.95312,1.60417 -6.89062,1.60417 -6.05208,0 -9.4974,-3.55469 -3.42708,-3.57292 -3.42708,-9.77083 0,-6.17969 3.42708,-9.64323 3.42709,-3.46354 9.53386,-3.46354 6.10677,0 9.53385,3.5 3.44531,3.5 3.44531,9.60677 z m -5.48698,0 q 0,-4.15625 -1.96875,-6.50782 -1.96875,-2.36979 -5.52343,-2.36979 -3.60938,0 -5.57813,2.35157 -1.96875,2.33333 -1.96875,6.52604 0,4.22916 2.00521,6.67187 2.02344,2.42448 5.50521,2.42448 3.60937,0 5.55989,-2.36979 1.96875,-2.36979 1.96875,-6.72656 z"
@@ -194,7 +194,7 @@ Pivot"
   <g
      aria-label="Delivery
 Loop"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';letter-spacing:0px;word-spacing:0px;fill:#aeca37;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#aeca37;fill-opacity:1;stroke:none"
      id="text839-4">
     <path
        d="m 643.56393,144.80343 q 0,3.97395 -1.56771,6.94531 -1.54948,2.95312 -4.41146,4.52083 -2.84375,1.56771 -6.52604,1.56771 h -10.39063 v -25.68489 h 9.29688 q 6.48958,0 10.04427,3.28125 3.55469,3.26302 3.55469,9.36979 z m -5.41407,0 q 0,-4.13802 -2.15104,-6.30729 -2.15104,-2.1875 -6.14323,-2.1875 h -3.80989 v 17.37239 h 4.55729 q 3.46354,0 5.50521,-2.38802 2.04166,-2.38802 2.04166,-6.48958 z"
@@ -248,7 +248,7 @@ Loop"
   <g
      aria-label="Discovery
 Loop"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';letter-spacing:0px;word-spacing:0px;fill:#3973b8;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#3973b8;fill-opacity:1;stroke:none"
      id="text839-3">
     <path
        d="m 104.70721,144.80343 q 0,3.97395 -1.56771,6.94531 -1.54948,2.95312 -4.41146,4.52083 -2.84375,1.56771 -6.526042,1.56771 H 81.811374 v -25.68489 h 9.296874 q 6.489584,0 10.044272,3.28125 3.55469,3.26302 3.55469,9.36979 z m -5.414066,0 q 0,-4.13802 -2.151042,-6.30729 -2.151041,-2.1875 -6.143229,-2.1875 h -3.809895 v 17.37239 h 4.557291 q 3.463542,0 5.505208,-2.38802 2.041667,-2.38802 2.041667,-6.48958 z"
@@ -305,7 +305,7 @@ Loop"
   </g>
   <g
      aria-label="Foundation"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Arimo;-inkscape-font-specification:'Arimo Bold';letter-spacing:0px;word-spacing:0px;fill:#a54ccf;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#a54ccf;fill-opacity:1;stroke:none"
      id="text839-0">
     <path
        d="m 325.61068,446.65531 v 7.94792 h 13.14323 v 4.15625 h -13.14323 v 9.42448 h -5.3776 v -25.68489 h 18.9401 v 4.15624 z"
