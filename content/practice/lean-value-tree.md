@@ -59,9 +59,6 @@ Focusing only on strategic initiatives allows for better execution of the strate
 
 Depending on the size of the organisation it may be worthwhile to include 100% of the lean portolio as long as the initiatives contribute to the strategic vision. This is generally feasible for small to medium organizations. In larger organizations, focus strategic or BAU initiatives at specific areas of the organization (such as strategic initiatives for the Executive team). Most importantly, the use of the LVT practice across the portfolio, whether it be strategic or BAU, ensure consistency in the approach of an organization's initiatives.
 
-
 The Lean Value Tree is an great tool to manage the lean portfolio and could be the key to additional agile adaptability capacity within the organisation. It is also an excellent opportunity to engage digital transformation in collaboration with the Project Management Office (PMO), shifting the PMO's traditional focus in projects to bets with hypothesis using the LVT.
 
 Further recommended reading: *EDGE: Value-driven Digital Transformation* by Jim Highsmith, Linda Luu and David Robinson.
-
-*Originally based on practice written by Francisco Meza Guzman*.
