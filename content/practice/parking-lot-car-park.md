@@ -8,7 +8,7 @@ authors:
   - mtakane
 area: foundation-culture-and-collaboration
 perspectives: []
-icon: /images/parking-lot-example.png
+icon: /images/parking-lot-example2.png
 jumbotron: /images/parking-lot.png
 people: 2+
 time: varies
