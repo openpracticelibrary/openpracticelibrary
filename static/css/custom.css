@@ -104,6 +104,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #232582;
 }
 
+h1 { 
+  font-size: 3.2rem;
+  margin-bottom: 2px;
+}
+
 /* =Site Header */
 
 .blog-logo img {
@@ -528,7 +533,7 @@ a:focus {
   border: 1px solid #ADADAD;
   display: flex;
   flex-wrap: wrap;
-  /* background: #ADADAD; */
+  border-radius: 8px;
 }
 .how-to-box-item {
   padding: 2.5rem;
