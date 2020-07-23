@@ -96,6 +96,18 @@ h1, h2, h3, h4, h5, h6,
   height: 300px;
 }
 
+.content {
+  margin-top: 100px;
+}
+
+.no-cover.main-header,
+.main-header {
+  top: 0px !important;
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  z-index: 10;
+}
+
 .author-profile .author-meta {
   font-family: "Montserrat", serif;
 }
