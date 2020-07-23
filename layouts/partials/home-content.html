@@ -37,8 +37,8 @@
 
       <section class="loop-categories">
           <a name="discovery-loop-outcomes"></a><a name="discovery-loop-why"></a>
-          <h2>Discovery</h2>
-          <p>The Discovery loop starts with the current as-is state. Practices on this loop lead to answering questions such as <i>Why are you doing this? What problems are you trying to solve, and for whom? How will you measure the Outcomes?</i></p>
+          <h2 class="discovery">Discovery</h2>
+          <p><b>The Discovery loop starts with the current as-is state.</b> Practices on this loop lead to answering questions such as <i>Why are you doing this? What problems are you trying to solve, and for whom? How will you measure the Outcomes?</i></p>
           <div class="tile-grid">
             {{ range $practiceMap.Get "discovery-loop-why" }}
               {{ partial "tile.html" . }}
@@ -52,8 +52,8 @@
 
       <section class="loop-categories">
         <a name="options"></a>
-        <h2>Options Pivot</h2>
-        <p>The Options Pivot explores how you will deliver the outcomes. <i> What are the different options? What do you need to make this happen?</i></p>
+        <h2 class="options">Options Pivot</h2>
+        <p><b>The Options Pivot explores how you will deliver the outcomes.</b> <i> What are the different options? What do you need to make this happen?</i></p>
         <div class="tile-grid">
             {{ range $practiceMap.Get "options" }}
               {{ partial "tile.html" . }}
@@ -64,8 +64,8 @@
 
       <section class="loop-categories">
         <a name="delivery-deliver"></a><a name="delivery-measure-and-learn"></a>
-        <h2>Delivery</h2>
-        <p>The Delivery Loop focuses on delivering options and getting feedback from the stakeholders. <i> What was measured impact? What did you learn?</i></p>
+        <h2 class="delivery">Delivery</h2>
+        <p><b>The Delivery Loop focuses on delivering options and getting feedback from the stakeholders.</b> <i> What was measured impact? What did you learn?</i></p>
         <div class="tile-grid">
             {{ range $practiceMap.Get "delivery-deliver" }}
               {{ partial "tile.html" . }}
@@ -79,8 +79,8 @@
 
       <section class="loop-categories">
         <a name="foundation-culture-and-collaboration"></a><a name="foundation-technical"></a>
-        <h2>Foundation</h2>
-        <p>The Foundation focuses on creating a team culture, an environment of collaboration and technical engineering practices. These support fast and iterative journeys through the discovery and delivery loops. <i> Without the foundation teams cannot reach sustainable continuous delivery.</i></p>
+        <h2 class="foundation">Foundation</h2>
+        <p><b>The Foundation focuses on creating a team culture, an environment of collaboration and technical engineering practices.</b> These support fast and iterative journeys through the discovery and delivery loops. <i> Without the foundation teams cannot reach sustainable continuous delivery.</i></p>
         <div class="tile-grid">
           {{ range $practiceMap.Get "foundation-culture-and-collaboration" }}
             {{ partial "tile.html" . }}

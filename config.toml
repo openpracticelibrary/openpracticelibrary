@@ -23,22 +23,26 @@ customCSS = [
 name = "Perspectives"
 weight = 5
 identifier = "Perspectives"
+target = "_self"
 url = "/perspective/"
 
 [[menu.main]]
 name = "GitHub"
 weight = 2
 identifier = "GitHub"
+target = "_blank"
 url = "https://github.com/openpracticelibrary/openpracticelibrary"
 
 [[menu.main]]
 name = "Gitter"
 weight = 1
 identifier = "Gitter"
+target = "_blank"
 url = "https://gitter.im/openpracticelibrary/"
 
 [[menu.main]]
 name = "What's New"
 weight = 0
 identifier = "What's New"
+target = "_blank"
 url = "https://github.com/openpracticelibrary/openpracticelibrary/pulls?q=is%3Apr+is%3Aclosed+base%3Amaster"

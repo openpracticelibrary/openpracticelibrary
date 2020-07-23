@@ -88,9 +88,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
 
-.post-content {
-  text-align: center;
-}
 
 .post-content li {
   text-align: left;
@@ -248,6 +245,10 @@ p.social-subtitle {
   display: block;
   text-decoration: none;
   margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+  /* box-shadow: 0px 2x 4px rgba(211, 208, 208, .5); */
+  box-shadow: 0px 2px 4px rgba(123, 123, 123, .5);
 }
 
 .tile-img {
@@ -259,13 +260,17 @@ p.social-subtitle {
   object-fit: cover;
 }
 
+.tile:hover {
+  box-shadow: 0px 4px 8px rgba(123, 123, 123, .9);
+}
+
 .tile:hover .tile-img {
   opacity: 0.8;
 }
 
 .tile-heading {
-  color: #4A90E2;
-  font-size: 1.8rem;
+  color: #000;
+  font-size: 18px;
   text-align: left;
   margin: 1rem;
 }
@@ -340,14 +345,15 @@ p.social-subtitle {
 }
 
 .practice-title {
-	color: #433030;
+	/* color: #433030; */
 	font-size: 3.4rem;
-	font-weight: bold;
+  font-weight: bold;
+  margin-bottom: 2px;
 }
 
 .practice-subtitle {
 	color: #9B9B9B;
-	font-size: 2.8rem;
+	font-size: 2.5rem;
   margin-bottom: 1.5rem
 }
 
@@ -379,22 +385,23 @@ a:focus {
     display: inline-block;
     height: 38px;
     padding: 0 15px;
-    border: 1px solid;
+    border: 1px solid #5e3dc4;
     opacity: 1;
-    color: #999;
+    color: #5e3dc4;
     text-align: center;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Montserrat", "Open Sans", sans-serif;
     font-size: 12px;
     text-transform: uppercase;
     line-height: 35px;
-    border-radius: 3px;
+    border-radius: 20px;
     background: #fff;
     transition: color 0.5s ease,
-    	border-color 0.5s ease;
+    border-color 0.5s ease;
 }
 .btn:focus,
 .btn:hover {
-	color: #111;
+  border: 1px solid #242582;
+  color: #242582;
 }
 
 .share .btn-chat {
@@ -407,9 +414,9 @@ a:focus {
   margin-bottom: 4rem;
   margin-top: 4rem;
   border: 0.12rem solid;
-  border-radius: 1.62rem;
-  background-color: #FFFFFF;
-  color: #4A90E2;
+  border-radius: 20px;
+  background-color: #5e3dc4;
+  color: #ffffff;
   text-decoration: none;
   display: block;
   text-align: center;
@@ -420,7 +427,8 @@ a:focus {
 
 .btn-primary:hover,
 .btn-primary:focus {
-  color: #0353af;
+  background-color: #242582;
+  color: #ffffff;
 }
 
 /* =How to box */
@@ -450,6 +458,16 @@ a:focus {
 
 .icon-people:before {
   content: "\f304";
+}
+
+.icon-search:before {
+  position: relative;
+  right: 40px;
+  content: "\f400";
+  font-size: 2.5rem;
+  top: 8px;
+  color: #242582;
+  font-weight: bold;
 }
 
 .icon-speach:before {
@@ -496,7 +514,7 @@ a:focus {
 .fix-width {
   height: auto;
   float: left;
-	font-size: 2.2rem;
+	font-size: 1.8rem;
   max-width: 84%;
 }  
 
@@ -514,27 +532,12 @@ a:focus {
 }
 
 /* =Search */
+.search-bar {
+  display: inline;
+}
 
-.search-button {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: inline-block;
-    height: 38px;
-    padding: 0 15px;
-    border: #bfc8cd 1px solid;
-    opacity: 1;
-    color: #9EABB3;
-    text-align: center;
-    font-size: 12px;
-    text-transform: uppercase;
-    line-height: 35px;
-    white-space: nowrap;
-    border-radius: 3px;
-    transition: all 0.5s ease;
-    background-color: white;
-    border-color: rgba(0,0,0,0.4);
-    color: rgba(0,0,0,0.4);
+.search {
+  width: 40%;
 }
 
 .search-input {
@@ -551,11 +554,11 @@ a:focus {
     font-size: 12px;
     line-height: 35px;
     white-space: nowrap;
-    border-radius: 3px;
+    border-radius: 30px;
     transition: all 0.5s ease;
-    background-color: white;
-    border-color: black;
-    color: black;
+    background-color: white;    
+    width: 40%;
+    box-shadow: inset 0px 2px 3px rgba(175, 160, 160, .5);
 
 }
 
@@ -585,13 +588,14 @@ a:focus {
     width: 49%;
   }
 
-  .tile-heading {
-    font-size: 2.2rem;
+  .blog-logo img {
+    margin-top: -20px;
+    height: 90px;
+  }
+  .no-cover.post-head.main-header {
+    height: 100px;
   }
 
-  .blog-logo img {
-    height: 50px;
-  }
 }
 
 
@@ -599,6 +603,11 @@ a:focus {
 @media (min-width: 501px) and (max-width: 900px) {
   .no-cover.post-head.main-header {
     height: 85px;
+  }
+
+  .blog-logo img {
+    margin-top: -15px;
+    height: 70px;
   }
 }
 
