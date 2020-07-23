@@ -1,7 +1,7 @@
 
  {{ range .Data.Pages }}
-    <script>console.warn("1");</script>
-    <script>console.warn({{.Type}});</script>
+    {{/*  <script>console.warn("1");</script>
+    <script>console.warn({{.Type}});</script>  */}}
 
 
         {{if eq .Type "home" }}
@@ -22,12 +22,12 @@
 
     <div class="post">
       {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
-      <script>console.warn({{$list}});</script>
+      {{/*  <script>console.warn({{$list}});</script>  */}}
       {{ $list := where $list "Section" "!=" "" }}
       {{ $practiceMap := newScratch }}
       {{ range $list }}
         {{ $currentItem := (dict "pageParams" .Params "RelPermalink" .RelPermalink ) }}
-        <script>console.warn({{ .Params }});</script>
+        {{/*  <script>console.warn({{ .Params }});</script>  */}}
         {{if .Params.area }}
           {{ $practiceMap.Add .Params.area (slice $currentItem) }}
         {{end}}

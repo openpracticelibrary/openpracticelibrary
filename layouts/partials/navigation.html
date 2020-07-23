@@ -10,9 +10,14 @@
         {{ $currentNode := . }}
         {{with .Site.Menus.main}}
         {{ range sort . "Weight" "desc"}}
-            {{.Pre}}
+        {{/*  <script>console.warn("STUFF", {{.}})</script>  */}}
+        {{.Pre}}
             <li class="nav-opened{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}} nav-current{{end}}" role="presentation">
-            	<a href="{{.URL}}" target="_blank">{{.Name}}</a>
+            {{ if in .URL "http" }}
+            <a href="{{.URL}}" target="_blank">{{.Name}}</a>
+            {{ else }}
+            <a href="{{.URL}}" target="_self">{{.Name}}</a>
+            {{ end }}
             </li>
         {{end}}
         {{end}}
