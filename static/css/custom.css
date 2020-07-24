@@ -87,11 +87,6 @@ h1, h2, h3, h4, h5, h6,
   font-family: 'Montserrat', 'Lucida Grande', sans-serif;
 }
 
-.no-cover .main-nav.overlay .menu-button {
-  color: none;
-  border-color: none;
-}
-
 .post-content img {
   height: 300px;
 }
@@ -105,11 +100,12 @@ h1, h2, h3, h4, h5, h6,
   position: fixed;
   background-color: rgba(255, 255, 255, 0.95) !important;
   z-index: 10;
-}
+} */
 
 .nav-opened .menu-button {
   visibility: hidden;
-} */
+  opacity: 0;
+} 
 
 .author-profile .author-meta {
   font-family: "Montserrat", serif;
@@ -204,29 +200,9 @@ h1 {
   font-weight: bold;
 }
 
-body.nav-opened .menu-button {
-  /* padding: 0 12px 0px 0px; */
-  background: #242582 !important;
-}
-
-.main-nav.overlay a {
-  color: #fff;
-}
-
-.main-nav.overlay .menu-button {
-  border-color: rgba(255,255,255,0.6);
-}
-
-.main-nav.overlay a:hover {
-  color: #222;
-  border-color: none;
-  background: #fff;
-}
-
 /* Add a border to the buttons on hover */
 .menu-button:hover {
-  border-color: none;
-  color: #5E3DC4;
+  color: #5E3DC4 !important;
 }
 
 .menu-button .burger {
