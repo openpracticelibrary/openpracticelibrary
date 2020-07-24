@@ -27,9 +27,9 @@ All of the practices in this library can be mapped to the [Mobius Loop](https://
 Practices can be mapped to one of three parts of the loop:
 
 * Discovery - practices to help define target outcomes. Learn who are the target customers and what do they need.
-* Options - practices to help identify the path to the right outcomes. Learn how you will achieve your outcomes.
+* Options - practices to help identify the path to the right outcomes. Learn how you will achieve those outcomes.
 * Delivery - practices to put your ideas to the test. Learn what works and what doesn’t.
 
 In addition to this framework, we have found that cultural practices and technical practices -- captured in the foundational layer --  accelerate and maximize the use of the Mobius Loop.
 
-You can learn more about this library and how you can start your journey using these open practices [here](https://openpracticelibrary.com/page/about/), or jump right in.
+You can learn more about this library and how you can start your journey using these open practices [here](https://openpracticelibrary.com/page/about/), or jump right in below.

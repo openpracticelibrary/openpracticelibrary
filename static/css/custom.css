@@ -98,14 +98,17 @@ h1, h2, h3, h4, h5, h6,
 
 /* .content {
   margin-top: 100px;
-} */
+}
 
-/* .no-cover.main-header,
-.main-header {
+.no-cover.main-header{
   top: 0px !important;
   position: fixed;
   background-color: rgba(255, 255, 255, 0.95) !important;
   z-index: 10;
+}
+
+.nav-opened .menu-button {
+  visibility: hidden;
 } */
 
 .author-profile .author-meta {
@@ -202,7 +205,7 @@ h1 {
 }
 
 body.nav-opened .menu-button {
-  padding: 0 12px 0px 0px;
+  /* padding: 0 12px 0px 0px; */
   background: #242582 !important;
 }
 
