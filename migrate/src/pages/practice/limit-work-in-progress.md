@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Limit Work in Progress
 subtitle: Pipes that aren't clock up increase the flow through the system
 date: 2019-10-19T08:56:15.621Z
@@ -16,7 +17,7 @@ participants:
 ---
 ## What is it?
 
-Instead of taking on all tasks that people hand to you as a person or representative of your team, you don't accept new tasks unless you still have free capacity. 
+Instead of taking on all tasks that people hand to you as a person or representative of your team, you don't accept new tasks unless you still have free capacity.
 
 ## Why use it?
 

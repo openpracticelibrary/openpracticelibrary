@@ -15,10 +15,11 @@ time: 30min
 difficulty: easy
 participants:
   - The Team
+templateKey: practice-page
 ---
 ## What is it?
 
-The "Candy or Swag?" practice uses a game environment to reinforce critical [open organization values like collaboration and transparency](https://opensource.com/open-organization/resources/open-org-definition).  The goal is to demonstrate how that, even in the simplest group scenarios, outcomes improve for everyone when members of self-organizing teams collaborate and hold each other accountable for results.  
+The "Candy or Swag?" practice uses a game environment to reinforce critical [open organization values like collaboration and transparency](https://opensource.com/open-organization/resources/open-org-definition).  The goal is to demonstrate how that, even in the simplest group scenarios, outcomes improve for everyone when members of self-organizing teams collaborate and hold each other accountable for results.
 
 ## Why use it?
 
@@ -38,7 +39,7 @@ The game proceeds through multiple sets of rounds, each of which is used in illu
 
 ### Phase 1:  Control
 
-First, explain the rules of the game.  
+First, explain the rules of the game.
 1. NO TALKING.  If you talk, you get neither Candy nor Swag.
 2. You have two cards in front of you.  For each round, choose either the Candy or Swag card and show only me your choice as I walk around the room.
 3. Here's how we determine who gets what:
@@ -55,7 +56,7 @@ What typically happens in Phase 1 is that multiple people will choose Swag in ea
 
 ### Phase 2:  Collaboration
 
-Review the principles of open source and ask if communication might help everyone achieve better outcomes.  Phase 2 adds an element of collaboration to the game.  
+Review the principles of open source and ask if communication might help everyone achieve better outcomes.  Phase 2 adds an element of collaboration to the game.
 
 Announce that the group will have one minute from when I say "go" to collaborate before you choose CANDY or SWAG. I'll hold up signs telling you when you have 30 seconds left, then 20 seconds left, then count down the last ten.  Then the game proceeds exactly as before.
 
@@ -73,7 +74,7 @@ Reflect on how the combination of collaboration and transparency achieved better
 
 ### Distribute the SWAG!
 
-Finally, distribute swag to everyone who hasn't already received it. 
+Finally, distribute swag to everyone who hasn't already received it.
 
 ## Further Information
 

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Moving Motivators
 subtitle: Moving Motivators is a practice to uncover what motivates your
   colleagues and yourself

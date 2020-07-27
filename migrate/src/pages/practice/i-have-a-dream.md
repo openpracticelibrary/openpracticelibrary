@@ -14,6 +14,7 @@ time: 10-20min
 difficulty: easy
 participants:
   - Team members
+templateKey: practice-page
 ---
 ## What is the "I Have a Dream" practice?
 
@@ -21,7 +22,7 @@ The "_I Have a Dream_" practice can be used as either a _**Team Icebreaker**_ or
 
 ## When should you use it?
 
-This practice should be used when a team already knows each other, they already know each other's names, this is not the first time they are doing something together. 
+This practice should be used when a team already knows each other, they already know each other's names, this is not the first time they are doing something together.
 
 Use this practice to allow people to get to know each other's dreams and allow them to get to know each other in a deeper manner beyond "My name is... My role is...".
 
@@ -42,9 +43,9 @@ Use this practice to allow people to get to know each other's dreams and allow t
 * _"I have a dream that my children live in a world that will not be destroyed by climate change"_
 * _"I have a dream that my work/job becomes a permanent machine for improving the world and its people"_
 
-## Where and why was this practice created? 
+## Where and why was this practice created?
 
-On January 21, 2019, a team got together in Atlanta-Georgia in the US for a week working together, face to face, attempting to initiate the solution of a very complex problem. Everyone on this team had already met before, they knew each other's names and roles. Coincidentally this exact day was [Martin Luther King Jr. Day](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day) and they decided to create a different icebreaker/Team Building practice to achieve both goals: celebrate [MLK's I have a dream famous speech](https://en.wikipedia.org/wiki/I_Have_a_Dream). 
+On January 21, 2019, a team got together in Atlanta-Georgia in the US for a week working together, face to face, attempting to initiate the solution of a very complex problem. Everyone on this team had already met before, they knew each other's names and roles. Coincidentally this exact day was [Martin Luther King Jr. Day](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day) and they decided to create a different icebreaker/Team Building practice to achieve both goals: celebrate [MLK's I have a dream famous speech](https://en.wikipedia.org/wiki/I_Have_a_Dream).
 
 ## External Links
 

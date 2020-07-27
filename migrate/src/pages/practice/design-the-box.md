@@ -15,10 +15,11 @@ participants:
   - UXD
   - team members
   - stakeholders and even real customers
+templateKey: practice-page
 ---
 ## What is it?
 
-This Design Thinking practice is exactly what the title says - the team members have to imagine the box/packaging for a new product. They need to come up with slogans that correspond to the essence of the product/service, highlight the most important valuable features it aims at. 
+This Design Thinking practice is exactly what the title says - the team members have to imagine the box/packaging for a new product. They need to come up with slogans that correspond to the essence of the product/service, highlight the most important valuable features it aims at.
 
 It gets the team to think from a big picture perspective and from the shoes of the potential customers and to start designing a new product/service.
 

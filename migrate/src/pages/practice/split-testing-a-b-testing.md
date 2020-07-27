@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Split Testing - A/B Testing
 subtitle: >-
   Quantitative testing of two alternative designs to learn which better leads to
@@ -24,17 +25,17 @@ participants:
 
 This is a randomised experiment in which we compare and evaluate the performance of different versions of a product in pairs. Both product versions are available in production (live) and randomly provided to different users. Data is being collected about the traffic, interaction, time spent and other relevant metrics, which will be used to judge the effectiveness of the two different versions based on the change in user’s behaviour. The test determines which version is performing better in terms of the target outcomes you have started with.
 
-You can compare two or more different versions of an application/product as long as you always do that in pairs. The pairs need to be identical except for a single characteristic which will vary between the two versions. 
+You can compare two or more different versions of an application/product as long as you always do that in pairs. The pairs need to be identical except for a single characteristic which will vary between the two versions.
 
 The team should take care with regards to:
 
-* Differentiating the users, e.g. new users from returning users (cohorts). 
+* Differentiating the users, e.g. new users from returning users (cohorts).
 * Comparing results - the results may not always point a significant difference between the versions and may either need to be run longer or different combinations of pairs should be used
 * Running the test always simultaneously as multiple factors may vary with time and influence the results
 
 ## Why use it?
 
-Simple to apply, fast to execute and often conclusions can be made simply by comparing the conversion/activity data between the two versions. It can be limiting as the two versions should not differ too much and more significant changes in the product may require a large number of A/B tests to be performed. 
+Simple to apply, fast to execute and often conclusions can be made simply by comparing the conversion/activity data between the two versions. It can be limiting as the two versions should not differ too much and more significant changes in the product may require a large number of A/B tests to be performed.
 
 This is one of the practices that allow you to “tune the engine” as per [The Lean Startup by Eric Ries.](http://theleanstartup.com/)
 

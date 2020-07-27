@@ -6,6 +6,7 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-transformer-toml',
     'gatsby-plugin-sass',
     {
       resolve: `gatsby-theme-material-ui`,

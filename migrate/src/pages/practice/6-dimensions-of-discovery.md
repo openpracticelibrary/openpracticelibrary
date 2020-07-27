@@ -21,6 +21,7 @@ participants:
   - architects
   - team
   - etc.
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -89,7 +90,7 @@ Set-up
 
 **Mural template**
 
-https://app.mural.co/template/bcdbc8d5-e84c-4159-8fc5-fb84b40b151f/98cf62dd-75cc-44ad-97fd-b6211aee17e2 
+https://app.mural.co/template/bcdbc8d5-e84c-4159-8fc5-fb84b40b151f/98cf62dd-75cc-44ad-97fd-b6211aee17e2
 
 ## Further Information
 
@@ -111,7 +112,7 @@ You can use these as a starting point for discussion, or as a reference for clar
 **People and culture**: \
 Organisation design, Performance management, Professional development, Hiring practices, Retention, Contribution practices
 
-*What do we mean by "Culture?"* 
+*What do we mean by "Culture?"*
 
 "Ideas, customs, and social behaviour of a particular group of people or society." "Maintain an organism in conditions suitable for growth." (common biology def.)
 "Culture is to a human collective, what personality is to an individual." (Hofstede)
@@ -119,7 +120,7 @@ Organisation design, Performance management, Professional development, Hiring pr
 **Tools & Technology**: \
 Platforms, networks, interfaces, infrastructure, applications.
 
-*What do we mean by "Tools & Technologies?"* 
+*What do we mean by "Tools & Technologies?"*
 
 "Technology is the knowledge and general concept or idea, and tools are how we apply it.  For example, fire is a technology, and sticks, matches, lighters, fuel, bellows, are how we apply, manage and maintain that technology." "Technology: Use of knowledge for practical purposes."
 "Tool: Device, implement or application used to carry out a particular function."
@@ -127,7 +128,7 @@ Platforms, networks, interfaces, infrastructure, applications.
 **Process**: \
 Operations, management, support, release practices, guides and frameworks.
 
-*What do we mean by "Process?"* 
+*What do we mean by "Process?"*
 
 "actions or steps taken in order to achieve a particular end." "steps and decisions involved in the way work is completed."
 "interrelated work tasks initiated in response to an event to achieve a specific result."
@@ -136,14 +137,14 @@ Operations, management, support, release practices, guides and frameworks.
 **Work environment**: \
 Physical environments, working styles, open plan, hot desks, remote / distributed.
 
-*What do we mean by "Work environment?"* 
+*What do we mean by "Work environment?"*
 
-"All your surroundings when working. Your physical working environment is, for example, your work tools as well as air, noise and light. But your working environment also includes the psychological aspects of how your work is organised and your wellbeing at work." 
+"All your surroundings when working. Your physical working environment is, for example, your work tools as well as air, noise and light. But your working environment also includes the psychological aspects of how your work is organised and your wellbeing at work."
 
 **Communication**: \
 Stakeholder, staff & customer engagement, meeting cadence, online, offline, 1 to 1, 1 to many, fast feedback loops, realtime/async.
 
-*What do we mean by "Communication?"* 
+*What do we mean by "Communication?"*
 
 "Imparting or exchanging of information by speaking, listening, writing, reading, or using some other medium." "Successfully conveying or sharing ideas and feelings."
 "Ways of sending or receiving information, such as phones, or computers."
@@ -151,7 +152,7 @@ Stakeholder, staff & customer engagement, meeting cadence, online, offline, 1 to
 **Governance**: \
 Direction, decisions, approval checkpoints, policy, budgeting, reporting, metrics, values and principles.
 
-*What do we mean by "Governance?"* 
+*What do we mean by "Governance?"*
 
 "the framework of rules, relationships, systems and processes within and by which authority is exercised and controlled in corporations." "authority, accountability, stewardship, leadership, direction, and control."
 "direction and decision-making procedures and metrics for validating impacts to the project."

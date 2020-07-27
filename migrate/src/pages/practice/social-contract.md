@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Social Contract
 subtitle: Build a constructive, fun team culture
 date: 2017-11-21T05:00:00.000Z

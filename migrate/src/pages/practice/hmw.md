@@ -18,6 +18,7 @@ participants:
   - UXD
   - team members
   - stakeholders and even real customers
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -35,7 +36,7 @@ You need a challenge, a Point of View and a set of relevant questions starting w
 * Remove the bad
 * Explore the opposite
 * Question an assumption
-* Go after adjectives 
+* Go after adjectives
 * Identify unexpected resources
 * Create an analogy from need or context
 * Play against the challenge
@@ -48,7 +49,7 @@ You need a challenge, a Point of View and a set of relevant questions starting w
 
 HMW allows for creative problem-solving and going out of the established path of thinking. Especially when a lot of time has been spent on a particular direction and the team has developed “group think” or feels stuck.
 
-It helps in breaking frames and molds and lead to innovative solutions. 
+It helps in breaking frames and molds and lead to innovative solutions.
 
 It can easily “plug” and enhance many other practices, especially when you seek innovation.
 
@@ -64,7 +65,7 @@ It can easily “plug” and enhance many other practices, especially when you s
 
 * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
 * [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
-* [Event Storming](https://openpracticelibrary.com/practice/event-storming/) 
+* [Event Storming](https://openpracticelibrary.com/practice/event-storming/)
 * Lean Canvas
 * Value Proposition Canvas
 
@@ -76,7 +77,7 @@ Made popular by Procter & Gamble in the 1970s, but its origin may be tracked as 
 
 HBR: [The Secret  Phrase Top Innovators Use ](https://hbr.org/2012/09/the-secret-phrase-top-innovato)
 
-Stanford d.School: [Intro and Guidance For Use](https://dschool.stanford.edu/resources/how-might-we-questions)  
+Stanford d.School: [Intro and Guidance For Use](https://dschool.stanford.edu/resources/how-might-we-questions)
 
 IDEO Design Kit: [HMW](http://www.designkit.org/methods/3)
 

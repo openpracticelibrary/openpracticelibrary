@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Minimum Viable Product (MVP)
 subtitle: 'MVP/ETP - Develop, Get feedback, Repeat'
 date: 2019-09-04T10:22:28.956Z

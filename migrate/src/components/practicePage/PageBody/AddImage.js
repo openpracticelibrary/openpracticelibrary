@@ -89,8 +89,7 @@ const AddImageCard = (props) => {
     accept: "image/*",
     onDrop: acceptedFiles => {
       acceptedFiles.forEach(async (file) => {
-          file.url = data.singleUpload.url;
-          setFiles([...files, Object.assign(file)]);
+          console.log('added a file');
       });
     }
   });
@@ -181,7 +180,7 @@ const AddImageCard = (props) => {
             <Box className={classes.filesAdded}>
               <Typography variant={"overline"}>Uploaded Files</Typography>
               <Box>
-                {uploadLoading ? <CircularProgress /> : accepted}
+                {accepted}
               </Box>
             </Box>
           </Box>

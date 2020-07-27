@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Lean UX Workshop
 subtitle: Solve real problems for real users
 date: 2019-04-02T15:13:17.103Z
@@ -22,7 +23,7 @@ participants:
 ---
 ## What is it?
 
-In a Lean UX Workshop, participants practice interviewing and learning about a user. Then, they prototype and refine a product that solves a real problem faced by that person. 
+In a Lean UX Workshop, participants practice interviewing and learning about a user. Then, they prototype and refine a product that solves a real problem faced by that person.
 
 ## Why use it?
 

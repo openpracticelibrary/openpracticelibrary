@@ -15,6 +15,7 @@ participants:
   - Product Manager/Owner
   - Tech Lead
   - Design Lead
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -23,7 +24,7 @@ Crazy 8’s is a core Design Sprint method. It is a fast sketching exercise that
 Here's a quick overview video:\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yz4g87XapQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Why use it? 
+## Why use it?
 
 This practice is a great way to ensure a product team is taking the time to prioritize user needs and generate enough solutions to needs to broaden the potential for finding the best idea. Often times, a team generates a solution and begins development right away without considering whether a solution is a good one. But “good” is a relative term, so ideally teams should be generating a myriad of product solutions in order to compare and contrast and allow the best option to emerge.
 

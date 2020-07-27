@@ -13,6 +13,7 @@ time: 60 - 90 min
 difficulty: moderate
 participants:
   - Anyone!
+templateKey: practice-page
 ---
 ## What is it?
 

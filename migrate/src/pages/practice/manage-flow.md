@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Manage Flow
 subtitle: Optimize the processing work items
 date: 2019-10-19T09:24:08.129Z
@@ -15,7 +16,7 @@ participants:
 ---
 ## What is it?
 
-Direct the focus of optimization on work items, e.g. tasks, problems, process steps, instead of the people. That means metrics also need to focus on work items, not on people. 
+Direct the focus of optimization on work items, e.g. tasks, problems, process steps, instead of the people. That means metrics also need to focus on work items, not on people.
 
 Typical activities for managing flow are:
 

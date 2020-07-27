@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Lean Coffee
 subtitle: Democratically generated agendas for more valuable conversations
 date: 2019-06-29T14:43:28.242Z

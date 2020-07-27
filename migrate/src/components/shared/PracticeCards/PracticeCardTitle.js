@@ -5,7 +5,7 @@ import OplTypography from "../components/OplTypography";
 import { Tags } from "./Tags";
 
 const PracticeCardTitle = (props) => (
-  <div onClick={() => navigate(`/practice/${props.slug}`)}>
+  <div onClick={() => navigate(props.slug)}>
     <OplTypography
       id="cardTitle"
       mb={-3}

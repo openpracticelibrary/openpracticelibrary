@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Relative Sizing
 subtitle: >-
   Facilitate conversation and gain shared alignment on sizing of complexity and
@@ -38,13 +39,13 @@ Let's say for example you were asked to estimate how difficult it is to eat the 
 
 ![](/images/apple.jpg)
 
-1. If we were using story points the first challenge here would be identifying the 1-pointer. Let's say that is the grape. 
-2. From there we then compare the other fruits to the grape. 
+1. If we were using story points the first challenge here would be identifying the 1-pointer. Let's say that is the grape.
+2. From there we then compare the other fruits to the grape.
 3. Maybe the apple is a bit tougher as you've got to eat around the core, so let's call that a 2-pointer.
 4. Then the orange and banana have to be peeled first so that might make it more difficult than both of the previous fruits. We therefore know it's harder than the grape and apple but how much harder? Is it harder than the coconut?
 5. Probably not. So lets call them a 3-pointer and the coconut, which requires a lot more effort, an 8-pointer.
 
-As we go through these estimations conversations will occur within the team and you'll discover more with understandings beginning to align. In this example this might include things like: 
+As we go through these estimations conversations will occur within the team and you'll discover more with understandings beginning to align. In this example this might include things like:
 
 * Perhaps someone has a tool that makes opening coconuts easier so maybe it doesn't require as much effort as we thought?
 * Maybe the orange has pips in it and also it's more difficult than the banana?
@@ -55,9 +56,9 @@ The Relative estimation line is one technique that can help with this sort of th
 
 An example:
 
-* 'Okay we have story A, is this bigger than the 3 points we have here?' 
+* 'Okay we have story A, is this bigger than the 3 points we have here?'
 * Assuming yes - 'Okay is it bigger than the 8 pointer? Or is it roughly the same size'
-* Assuming no - 'Okay so we'll say its a 5 pointer then' 
+* Assuming no - 'Okay so we'll say its a 5 pointer then'
 
 ![](/images/sizing.jpg)
 

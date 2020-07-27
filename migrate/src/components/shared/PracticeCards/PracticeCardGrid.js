@@ -18,25 +18,20 @@ const PracticeCardGrid = props => {
       return;
     props.onLoadMore(props.page);
   }
-
-  if (props.loading && !props.practices) return <ComponentLoading />;
+  console.log('data - ', props);
   return (
     <Grid container data-testid="practicecardgrid">
       {props.practices.map(practice => (
         <PracticeCard
-          key={practice.id}
-          practiceId={practice.id}
-          practiceTitle={practice.title}
-          coverImage={practice.coverImage}
-          tags={practice.tags}
-          slug={practice.slug}
-          subtitle={practice.subtitle}
-          mediaGallery={practice.mediaGallery.length}
-          ama={practice.ama.length}
-          upvotes={practice.upvotes}
+          key={practice.node.id}
+          practiceId={practice.node.id}
+          practiceTitle={practice.node.frontmatter.title}
+          coverImage={practice.node.frontmatter.coverImage}
+          tags={practice.node.frontmatter.tags}
+          slug={practice.node.fields.slug}
+          subtitle={practice.node.frontmatter.subtitle}
         />
       ))}
-      {props.loading && <ComponentLoading />}
     </Grid>
   );
 };

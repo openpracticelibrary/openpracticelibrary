@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Lean Canvas
 subtitle: >-
   A 1-page business plan template to help you focus on problems, solutions, key
@@ -25,11 +26,11 @@ A Lean Canvas is a one-page document that captures key information about your fu
 
 ## Why use it?
 
-This document will help structure your idea in terms of: 
+This document will help structure your idea in terms of:
 
 * What problem your product or service will solve
 * Who your potential customers are
-* How your product will be distributed and 
+* How your product will be distributed and
 * How you will make money from it.
 
 ## Variations
@@ -62,14 +63,14 @@ The business model canvas is a variation that focuses on the development of new,
 
 ## How to use it
 
-When filling out the Lean Canvas, it is best to fill the sections out in a certain way. 
+When filling out the Lean Canvas, it is best to fill the sections out in a certain way.
 
 1. **Problem**\
    When filling out the problem section think with your future customer in mind. WHY is this a problem for them?
 2. **Target Customer**\
    Who are your early adopters of your product, specify them in terms of demographics, situation and interest.
 3. **Unique Value Proposition (UVP)** \
-   Your UVP is directed to your customer, what makes your product or service so special to them? What is the benefit to them? 
+   Your UVP is directed to your customer, what makes your product or service so special to them? What is the benefit to them?
 4. **Solutions section**\
    It focuses on the key features of your product or service. Ideally, each aspect of the solution comes in line with one of the previously mentioned problems.
 5. **Channels**\

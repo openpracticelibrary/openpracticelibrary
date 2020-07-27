@@ -28,6 +28,7 @@ participants:
   - Testers
   - Security
   - Operations / Infrastructure
+templateKey: practice-page
 ---
 ## What is Event Storming?
 

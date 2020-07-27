@@ -7,7 +7,7 @@ import OplImage from "../components/OplImage";
 const CoverImage = (props) => (
   <Paper
     elevation={0}
-    onClick={() => navigate(`/practice/${props.slug}`)}
+    onClick={() => navigate(props.slug)}
   >
     <OplImage
       data-testid="coverimage"

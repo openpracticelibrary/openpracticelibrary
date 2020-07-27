@@ -38,10 +38,8 @@ export default function ContributedBy(props) {
             <Box display="flex" flexDirection="row">
               {contributors.map((author, i) => (
                 <PhotoAndName
-                  key={author.id}
-                  authorName={`${author.firstName} ${author.lastName}`}
-                  authorLink={author.mediaLink}
-                  avatar={author.Avatar}
+                  key={i}
+                  authorName={author}
                 />
               ))}
             </Box>

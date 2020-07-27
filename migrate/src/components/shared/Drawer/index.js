@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useReducer } from "react";
 import clsx from "clsx";
 import { makeStyles } from "@material-ui/core/styles";
 import MenuIcon from "@material-ui/icons/Menu";
@@ -81,7 +81,7 @@ const useStyles = makeStyles(theme => ({
 
 export default function OPLDrawer(props) {
   const classes = useStyles();
-  const { open, toggle } = props;
+  const [ open, toggle ] = useReducer(drawerOpen => !drawerOpen, false);
 
   return (
     <div className={classes.root}>

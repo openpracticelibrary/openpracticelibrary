@@ -1,16 +1,18 @@
 import React from "react";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 
-import LoginContext from "../components/shared/Login/LoginContext";
+import OplDrawer from "../components/shared/Drawer";
 import PracticePage from "../components/practicePage";
 
 const PracticePageWithData = (props) => {
 
   return (
+    <OplDrawer>
     <PracticePage
-      data={data}
+      data={props.data}
       {...props}
     />
+        </OplDrawer>
   );
 };
 
@@ -21,12 +23,14 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      rawMarkdownBody
       frontmatter {
         title
         subtitle
         date(formatString: "MMMM DD, YYYY")
         authors
         area
+        tags
       }
     }
   }

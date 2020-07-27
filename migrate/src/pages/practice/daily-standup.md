@@ -20,13 +20,14 @@ difficulty: moderate
 participants:
   - Product Owner
   - Team Members
+templateKey: practice-page
 ---
 # What is it?
 
 * The main point of a daily standup (Daily Scrum) is for the team to better align towards the sprint goal
 * Teams get together to share transparently the ongoing work and highlight roadblocks/impediments they might be facing
-* It is a review of the things that were DONE and things we intend to get DONE. 
-* Typically this is achieved by team members answering 3 questions 
+* It is a review of the things that were DONE and things we intend to get DONE.
+* Typically this is achieved by team members answering 3 questions
 
   1. What did you do yesterday?
   2. What will you do today?
@@ -47,9 +48,9 @@ participants:
 
 * Cameras on and everyone contributes.
 * Use video conference tools. Everyone logs in separately - if a few people are co-located it can be difficult if that group is dialled in together.
-* Use an online visual timer to keep to the 15 minute timebox for stand-up. The core agenda is: 
+* Use an online visual timer to keep to the 15 minute timebox for stand-up. The core agenda is:
      1. What I did yesterday
-     2. What I am doing today 
+     2. What I am doing today
      3. I have blockers
 
 * People tend to talk more for socialisation and for status updates, for this reason leave 5 minutes more at the end for these aspects that can be more relevant being distributed

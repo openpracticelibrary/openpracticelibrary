@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Offboarding
 subtitle: Practice destroying and re-creating your applications!
 date: 2019-09-09T19:22:40.014Z

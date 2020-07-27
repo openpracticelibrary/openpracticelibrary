@@ -15,10 +15,11 @@ participants:
   - Product Owner
   - Data Scientist/Analyst
   - DevOps Team
+templateKey: practice-page
 ---
 ## What is it?
 
-Funnel Analysis is an analytical practice studying the changes over a course of events or steps in a user journey. It frequently follows the flow inside an application towards achieving a specific goal. For example the purchasing of an item on an ecommerce site: the funnel analysis will show how many users go through the full flow of steps to complete a purchase and how many stop (drop off) at which step (aka fallout rates). 
+Funnel Analysis is an analytical practice studying the changes over a course of events or steps in a user journey. It frequently follows the flow inside an application towards achieving a specific goal. For example the purchasing of an item on an ecommerce site: the funnel analysis will show how many users go through the full flow of steps to complete a purchase and how many stop (drop off) at which step (aka fallout rates).
 
 ![Funnel Analysis](/images/funnel-analysis.jpg "Funnel Analysis")
 
@@ -37,7 +38,7 @@ The Funnel Analysis is an effective way to analyse conversion and fallout in app
 
 This practice is fed with data from [A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/), [Multi-vari Testing](https://openpracticelibrary.com/practice/split-testing-multivari-testing/), and can be one of the final steps for running experiments which started with the [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/). [Feature Toggles](https://openpracticelibrary.com/practice/feature-toggles/) can greatly benefit the analysis as they can be used to tweak the application based on live feed of data and show if certain changes would influence the outcome.
 
-The analysis is the final step before decision-making. It aims to produce actionable insight on how the team can further improve the performance of the product and the impact of past changes. 
+The analysis is the final step before decision-making. It aims to produce actionable insight on how the team can further improve the performance of the product and the impact of past changes.
 
 [Feature Toggles](https://openpracticelibrary.com/practice/feature-toggles/)
 

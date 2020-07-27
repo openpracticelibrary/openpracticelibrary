@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Lean Value Tree
 subtitle: A simple tool to align people and initiatives across all levels of the business
 date: 2020-07-07T09:00:01.000Z
@@ -43,7 +44,7 @@ Each goal is broken down into a set of strategic bets. A bet is a value hypothes
 
 ## Initiatives
 
-Initiatives define what should be done to test the value hypothesis of the associated bet. Typically they take the shape of one or more smaller hypotheses that clearly measure success. Through these initiatives, short term decisions can be made to determine if the hypothesis is approved or denied. 
+Initiatives define what should be done to test the value hypothesis of the associated bet. Typically they take the shape of one or more smaller hypotheses that clearly measure success. Through these initiatives, short term decisions can be made to determine if the hypothesis is approved or denied.
 
 Initiatives are not projects. The difference between a project and an initiative is that the first one has a fixed deadline, while the other does not. Initiatives should be tested within a product backlog with constantly evolving hypotheses and re-prioritization until such time the value hypothesis of the overall initiative is proven or disproven.
 
@@ -53,9 +54,9 @@ Furthermore, the LVT should define individuals who are accountable and responsib
 
 # Strategic vs BAU
 
-While the Lean Value Tree focuses on strategic initiatives, a dilemma exists in all organizations is whether the LVT should be only used for strategic initiatives or whether Business As Usual (BAU) initiatives should be included as well (generally BAU initiatives fill 80-90% of the lean portfolio). 
+While the Lean Value Tree focuses on strategic initiatives, a dilemma exists in all organizations is whether the LVT should be only used for strategic initiatives or whether Business As Usual (BAU) initiatives should be included as well (generally BAU initiatives fill 80-90% of the lean portfolio).
 
-Focusing only on strategic initiatives allows for better execution of the strategic vision, however, excluding BAU initiatives may cause disharmony amongst those business units and could contribute to a lack of motiviation towards achieving any strategic initiatives. 
+Focusing only on strategic initiatives allows for better execution of the strategic vision, however, excluding BAU initiatives may cause disharmony amongst those business units and could contribute to a lack of motiviation towards achieving any strategic initiatives.
 
 Depending on the size of the organisation it may be worthwhile to include 100% of the lean portolio as long as the initiatives contribute to the strategic vision. This is generally feasible for small to medium organizations. In larger organizations, focus strategic or BAU initiatives at specific areas of the organization (such as strategic initiatives for the Executive team). Most importantly, the use of the LVT practice across the portfolio, whether it be strategic or BAU, ensure consistency in the approach of an organization's initiatives.
 

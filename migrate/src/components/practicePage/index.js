@@ -1,29 +1,28 @@
-import React, { useRef, useState } from "react";
+import React, { useRef } from "react";
 
 import LoginButton from "../shared/Login/LoginButton";
 import PageIntro from "./PageIntro";
 import PageMenu from "./PageMenu";
 import PageBody from "./PageBody";
 import backgroundImage from "../shared/utilities/microBackgrounds";
+import { navigate } from "gatsby";
 
 import { Container, Box } from '@material-ui/core';
 import OplBox from "../shared/components/OplBox";
 
-const PracticePage = ({ data, updatePractice, loggedIn, navigate }) => {
+const PracticePage = ({ data }) => {
   const {
-    id: practiceId,
-    title,
-    subtitle,
-    authors,
-    body,
-    tags,
-    upvotes,
-    coverImage,
-    mediaGallery,
-    ama,
-    resources,
-    createdAt,
-    updatedAt,
+    markdownRemark: {
+      id: practiceId,
+      frontmatter: {
+        title,
+        subtitle,
+        authors,
+        date,
+        tags
+      },
+      rawMarkdownBody,
+    }
   } = data;
 
   // Styles
@@ -35,7 +34,6 @@ const PracticePage = ({ data, updatePractice, loggedIn, navigate }) => {
   const whyDoRef = useRef(null);
   const howToRef = useRef(null);
   const resourceRef = useRef(null);
-  const amaRef = useRef(null);
 
   // Child props
   const pageRefs = {
@@ -44,7 +42,6 @@ const PracticePage = ({ data, updatePractice, loggedIn, navigate }) => {
     whyDoRef,
     howToRef,
     resourceRef,
-    amaRef
   };
 
   const pageIntroData = {
@@ -53,22 +50,19 @@ const PracticePage = ({ data, updatePractice, loggedIn, navigate }) => {
     subtitle,
     tags,
     authors,
-    createdAt,
-    updatedAt,
-    upvotes,
-    imgCount: mediaGallery.length,
-    questions: ama.length
   };
 
-  const pageMenuData = { practiceId, upvotes, coverImage }
+  const pageMenuData = { practiceId }
 
   const pageBodyData = {
     practiceId,
     title,
-    body,
-    mediaGallery,
-    ama,
-    resources
+    body: {
+      whatIs: "",
+      whyDo: "",
+      howTo: "",
+    },
+    fullText: rawMarkdownBody,
   };
 
   return (
@@ -83,9 +77,7 @@ const PracticePage = ({ data, updatePractice, loggedIn, navigate }) => {
         />
         <Container maxWidth="md">
           <Box display="flex" flexDirection="row" justifyContent="center" alignItems="baseline">
-            <LoggedInEditing />
             <PageIntro
-              editing={editing}
               {...pageIntroData}
             />
           </Box>
@@ -109,7 +101,6 @@ const PracticePage = ({ data, updatePractice, loggedIn, navigate }) => {
 
       <Container maxWidth="md">
         <PageBody
-          editing={editing}
           {...pageBodyData}
           {...pageRefs}
         />

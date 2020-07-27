@@ -15,6 +15,7 @@ time: 2+ hours
 difficulty: moderate
 participants:
   - DevOps Team
+templateKey: practice-page
 ---
 ## What is it?
 

@@ -3,7 +3,7 @@ title: GROW Model for 1-2-1 Coaching
 subtitle: >-
   The purpose of coaching is to unlock people's potential to maximise their
   performance, facilitate personal and professional development . Here's a tool
-  to structure your coaching interaction. 
+  to structure your coaching interaction.
 date: 2020-02-23T17:34:54.362Z
 authors:
   - shabnoor shah
@@ -22,6 +22,7 @@ participants:
   - behaviours
   - mindset
   - ways of working etc
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -29,7 +30,7 @@ As per International Coach Federation (ICF)  (Professional) coaching is an ongoi
 
 GROW is a framework created and evolved by Sir John Whitmore for structuring your coaching conversations
 
-While coaching is a specialised competency you don't have to wait to become a certified coach to help your direct reports, project members, peers etc to improve their performance, skills, attitudes or behaviors. 
+While coaching is a specialised competency you don't have to wait to become a certified coach to help your direct reports, project members, peers etc to improve their performance, skills, attitudes or behaviors.
 
 GROW is an acronym for:
 
@@ -53,7 +54,7 @@ Remember as Coach you must be skilled at the following :
 
 ## Why use it?
 
-GROW coaching model helps manage time effectively by providing a structure for a focussed coaching conversation. It is an effective model to hold coaching conversations to help "coachee" solve  problems, set goals and  improve performance. 
+GROW coaching model helps manage time effectively by providing a structure for a focussed coaching conversation. It is an effective model to hold coaching conversations to help "coachee" solve  problems, set goals and  improve performance.
 
 
 

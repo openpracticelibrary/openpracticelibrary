@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Ping-Pong Programming
 subtitle: Where Pair Programming meets TDD
 date: 2020-03-30T21:31:10.661Z

@@ -9,7 +9,7 @@ const EditorPhotos = props => (
   <AvatarGroup max={3}>
     {props.editors.map(editor => (
       <OplAvatar
-        key={editor.id}
+        key={editor}
         src={editor.Avatar}
         height={props.theme.spacing(3)}
         width={props.theme.spacing(3)}

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Retrospectives
 subtitle: Reflect, inspect and adapt ways of working to drive continuous team improvement
 date: 2017-11-21T05:00:00.000Z
@@ -24,7 +25,7 @@ Retrospectives provide opportunities for groups to reflect, inspect and adapt th
 
 ## Why use Retrospectives?
 
-Retrospectives facilitate continuous improvement. Rather than wait until the end of a project to run a full "lessons learned" exercise for the entire delivery, we encourage taking short time boxes during delivery for the team to course correct and find ways to improve their way of working. This should come in the form of  actions agreed by the team with owners and estimated time due dates, allowing for tracking and helping to ensure their completion. 
+Retrospectives facilitate continuous improvement. Rather than wait until the end of a project to run a full "lessons learned" exercise for the entire delivery, we encourage taking short time boxes during delivery for the team to course correct and find ways to improve their way of working. This should come in the form of  actions agreed by the team with owners and estimated time due dates, allowing for tracking and helping to ensure their completion.
 
 ## Who do you need?
 
@@ -59,7 +60,7 @@ There are lots of different formats retrospectives can take (see the references 
 ## Tips for remote working
 
 * This event can be completed quite easily remotely.
-* Use a virtual whiteboarding tool or another tool that suits the purpose. 
+* Use a virtual whiteboarding tool or another tool that suits the purpose.
 * Prep virtual retro board beforehand.
 * Rotate on retrospective formats among the multiple available, to collect different aspects and engage more with the people.
 * Everyone has cameras on.
@@ -71,7 +72,7 @@ There are lots of different formats retrospectives can take (see the references 
   * agree on their prioritisation among the team before the are fed back into the backlog.
   * agree who is in charge of feeding them back to the backlog.
   * review improvement actions from previous retrospectives.
-* Encourage a social element such as bring your own drink or food or add in a fun game for celebrating the hard work done by the team. 
+* Encourage a social element such as bring your own drink or food or add in a fun game for celebrating the hard work done by the team.
 * You can consider a rotational responsibility to organise the social event among the team.
 
 **Want to run this practice remotely? Here's some help to jump start your session 💻🙏**
