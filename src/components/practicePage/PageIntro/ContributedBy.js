@@ -11,7 +11,7 @@ export default function ContributedBy(props) {
   let contributors = [];
   let editors = [];
 
-  if (props.authors.length > 2) {
+  if (props.authors && props.authors.length > 2) {
     contributors = props.authors.slice(0, 2);
     editors = props.authors.slice(2, props.authors.length);
   } else {
