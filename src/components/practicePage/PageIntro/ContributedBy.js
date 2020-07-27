@@ -36,7 +36,7 @@ export default function ContributedBy(props) {
           <Typography variant="overline">Contributed by</Typography>
           <Grid item>
             <Box display="flex" flexDirection="row">
-              {contributors.map((author, i) => (
+              {contributors && contributors.map((author, i) => (
                 <PhotoAndName
                   key={i}
                   authorName={author}
@@ -45,7 +45,7 @@ export default function ContributedBy(props) {
             </Box>
           </Grid>
         </Box>
-        { (editors.length > 0) &&
+        { (editors && editors.length > 0) &&
         <Box mr={3}>
           <Typography variant="overline">Edited by</Typography>
           <Grid item>
