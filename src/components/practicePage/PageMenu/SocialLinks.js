@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { EmailShareButton, TwitterShareButton, LinkedinShareButton, PinterestShareButton, RedditShareButton, FacebookShareButton } from "react-share";
 import { FacebookIcon, RedditIcon, PinterestIcon, TwitterIcon, MoreItemsIcon, NounLoveIcon, LinkedInIcon, EmailIcon } from "../../../assets/icons";
@@ -38,6 +38,11 @@ const StyledPopover = ((props) =>(
 
 export default function SocialLinks(props) {
   const classes = useStyles();
+  const [ loc, setLoc ] = React.useState(null);
+
+  useEffect(() => {
+    setLoc(window.location.href);
+  });
 
   const handleLike = () => {
     const originalLikes = props.upvotes;
@@ -85,7 +90,7 @@ export default function SocialLinks(props) {
           </Typography>
         </Grid>
         <Grid item>
-          <EmailShareButton url={window ? window.location.href : ""}>
+          <EmailShareButton url={loc}>
             <EmailIcon height="15" width="20" />
           </EmailShareButton>
         </Grid>
@@ -95,7 +100,7 @@ export default function SocialLinks(props) {
           </TwitterShareButton>
         </Grid>
         <Grid item>
-          <LinkedinShareButton url={window ? window.location.href : ""}>
+          <LinkedinShareButton url={loc}>
             <LinkedInIcon/>
           </LinkedinShareButton>
         </Grid>
@@ -119,17 +124,17 @@ export default function SocialLinks(props) {
               spacing={2}
             >
               <Grid item>
-                <PinterestShareButton url={window ? window.location.href : ""} media={props.coverImage}>
+                <PinterestShareButton url={loc} media={props.coverImage}>
                   <PinterestIcon/>
                 </PinterestShareButton>
               </Grid>
               <Grid item>
-                <RedditShareButton url={window ? window.location.href : ""}>
+                <RedditShareButton url={loc}>
                   <RedditIcon/>
                 </RedditShareButton>
               </Grid>
               <Grid item>
-                <FacebookShareButton url={window ? window.location.href : ""}>
+                <FacebookShareButton url={loc}>
                   <FacebookIcon/>
                 </FacebookShareButton>
               </Grid>
