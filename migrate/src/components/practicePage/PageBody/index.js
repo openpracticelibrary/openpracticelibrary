@@ -21,7 +21,8 @@ export default function PageBody(props) {
   const {
     practiceId,
     title,
-    body: { whatIs, whyDo, howTo, fullText },
+    body: { whatIs, whyDo, howTo },
+    fullText,
     mediaGallery,
     resources,
     ama,

@@ -16,8 +16,10 @@ participants:
   - Facilitator
   - Attendees
 tags:
-  - discovery
-  - why
+  - foundation
+  - culture
+coverImage: https://openpracticelibrary.github.io/opl-media/images/agile_agenda.png
+templateKey: practice-page
 ---
 ## What is it?
 

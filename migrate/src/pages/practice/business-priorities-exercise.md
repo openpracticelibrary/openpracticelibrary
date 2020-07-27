@@ -13,6 +13,7 @@ time: 60 Mins
 difficulty: moderate
 participants:
   - Business Decision Makers
+templateKey: practice-page
 ---
 ## What is it?
 

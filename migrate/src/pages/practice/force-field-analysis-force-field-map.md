@@ -15,10 +15,11 @@ time: 30-60 min
 difficulty: easy
 participants:
   - As diverse as possible
+templateKey: practice-page
 ---
 ## What is it?
 
-This is a simple way for evaluating the forces pro and con that are at play with regards to certain change. Typically, this is a change the organization is interested in or faces. 
+This is a simple way for evaluating the forces pro and con that are at play with regards to certain change. Typically, this is a change the organization is interested in or faces.
 
 This is a method coming from the field of Social Science and developed by Kurt Lewin.
 
@@ -41,11 +42,11 @@ Dave Gray has introduced a map (Force Field Map), which provides an excellent ca
 
 ## Origin
 
-Kurt Lewin - Force Field Analysis 
+Kurt Lewin - Force Field Analysis
 
 ## Further information
 
-[Force Field Analysis](https://en.wikipedia.org/wiki/Force-field_analysis) on Wikipedia 
+[Force Field Analysis](https://en.wikipedia.org/wiki/Force-field_analysis) on Wikipedia
 
 [Force Field Analysis](https://gamestorming.com/force-field-analysis/) on Gamestorming.com
 

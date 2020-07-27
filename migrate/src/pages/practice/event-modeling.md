@@ -19,6 +19,7 @@ participants:
   - Customer Support
   - Sales
   - Directors and Owners
+templateKey: practice-page
 ---
 This practice is related to: [Domain Driven Design](https://openpracticelibrary.com/perspective/domain-driven-design/).
 
@@ -30,7 +31,7 @@ This practice is related to: [Domain Driven Design](https://openpracticelibrary.
 
 ## Why use it?
 
-To help better understand and model an information system with clarity for all (linking UX/UI all the way through to persistance) through a visual representation. 
+To help better understand and model an information system with clarity for all (linking UX/UI all the way through to persistance) through a visual representation.
 
 ## Further Information
 

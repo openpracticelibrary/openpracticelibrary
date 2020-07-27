@@ -19,13 +19,14 @@ participants:
   - Facilitator
   - Development Team
   - Stakeholder
+templateKey: practice-page
 ---
 ## What is it?
 
 An empathy map is a collaborative tool used to develop insight into customers, users, etc.. It is often a starting point for gaining empathy for the people a team is solving problems for. Like a persona, an empathy map can represent a group of people, such as a user or customer segment.
 
 * A way to form a better understanding of users and build personas
-* The information is captured as a brainstorm for a team to develop assumptions about the people 
+* The information is captured as a brainstorm for a team to develop assumptions about the people
 * The information can also be directly added from interviews, observation and other facilitated conversation exercises
 * Senses captured can include what the person is seeing, thinking, doing and feeling with information captured on a big visible chart
 
@@ -41,7 +42,7 @@ This tool can be used at various times in the product lifecycle. If there is a n
 
 ## Facilitation Tips
 
-Prepare the team by letting them know this activity seeks to gain empathy for the 'human' solving a particular problem for. Let everyone know they are there to step into the shoes of the user, customer, etc.. 
+Prepare the team by letting them know this activity seeks to gain empathy for the 'human' solving a particular problem for. Let everyone know they are there to step into the shoes of the user, customer, etc..
 
 * For an immersive activity, use large craft paper or a whiteboard to draw the map
 * Have everyone write on sticky notes to develop their assumptions around the map

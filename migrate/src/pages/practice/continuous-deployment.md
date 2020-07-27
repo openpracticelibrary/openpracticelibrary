@@ -10,6 +10,7 @@ people: 1+
 difficulty: moderate
 participants:
   - Team members
+templateKey: practice-page
 ---
 ## What is it?
 

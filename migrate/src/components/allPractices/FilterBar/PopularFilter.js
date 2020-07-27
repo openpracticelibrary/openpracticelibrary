@@ -4,6 +4,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import { Button, Menu, MenuItem, Typography } from "@material-ui/core";
 
 export default function PopularFilter(props) {
+  console.log(props);
   const { selectedItem, handleFilterChange, menuItems } = props;
 
   const [anchorEl, setAnchorEl] = React.useState(null);

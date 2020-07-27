@@ -23,6 +23,7 @@ participants:
   - Scrum Master
   - Development Team
   - Product Owner
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -43,7 +44,7 @@ participants:
 * On average an iteration meeting will take around 1 hr for an iteration of 1 week. Subsequently, an iteration meeting would take on average 2 hours for an iteration of 2 weeks.
 * Coming into the meeting, the product owner will have a prioritised product backlog. Each feature will be discussed with the DevOps team, and the group collectively estimates the effort involved. The team will then make an iteration forecast, outlining how much work the team can complete from the product backlog. The features of work then become the iteration backlog.
 
-INPUTS: 
+INPUTS:
 
 * Identified set of prioritised and defined User Stories from the Product Owner to the team
 * Capacity – Who is available, Are there any holiday, big meetings, etc during this period
@@ -58,9 +59,9 @@ AGENDA:
 * Each person will have 5 minutes to share the stories they will complete in the next sprint and how they relate to the priorities.
 * The group should call out gaps/concerns
 
-OUTPUTS: 
+OUTPUTS:
 
-* Closed out previous Sprint. Load what seems to be an appropriate and agreed upon amount of stories for the next Sprint. 
+* Closed out previous Sprint. Load what seems to be an appropriate and agreed upon amount of stories for the next Sprint.
 
 ## Tips for remote working
 

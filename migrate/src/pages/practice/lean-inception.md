@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Lean Inception
 subtitle: how to align people and build the right product via the MVP
 date: 2020-06-10T11:17:26.615Z

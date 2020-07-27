@@ -23,10 +23,11 @@ participants:
   - Sales Manager / Customer Representative
   - UX/UI Designer
   - Marketing
+templateKey: practice-page
 ---
 ## What is it?
 
-It is a 5 day customer-centric process for rapidly solving a key challenge, creating new products, or improving existing ones. 
+It is a 5 day customer-centric process for rapidly solving a key challenge, creating new products, or improving existing ones.
 
 Design sprints enable you to:
 
@@ -46,15 +47,15 @@ The process phases include: Understand, Define, Sketch, Decide, Prototype and Va
 
 The aim is to fast-forward into the future to see your finished product and customer reactions, before making any expensive commitment. It is a simple and cheap way to validate major assumptions, the Big question/s and point to the different options to explore further through delivery.
 
-This set of practices reduces risks when bringing a new product, service or a feature to the market. Design Sprints are the fastest way to find out if a product or project is worth undertaking, if a feature is worth the effort, or if your value proposition is really valid. For the latter one should also consider running a [Research Sprint](https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25). 
+This set of practices reduces risks when bringing a new product, service or a feature to the market. Design Sprints are the fastest way to find out if a product or project is worth undertaking, if a feature is worth the effort, or if your value proposition is really valid. For the latter one should also consider running a [Research Sprint](https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25).
 
 It compresses work into one week and importantly tests the design idea and provides real user feedback in rapid fashion.
 
 ## How to do a Design Sprint? - A Sample Agenda
 
-By now there are many different variations of the format. You may come across the Google variation, a GV variation, the Design Sprint 2.0 (which is the agenda shown below). 
+By now there are many different variations of the format. You may come across the Google variation, a GV variation, the Design Sprint 2.0 (which is the agenda shown below).
 
-The best is to try different variations and judge which one works for what context. 
+The best is to try different variations and judge which one works for what context.
 
 ### Monday
 
@@ -68,7 +69,7 @@ The best is to try different variations and judge which one works for what conte
 * Sprint Questions
 * Lightning Demos
 * Drawing Ideas
-* Start user test recruiting 
+* Start user test recruiting
 * Develop Concepts
 
 ### Tuesday
@@ -76,8 +77,8 @@ The best is to try different variations and judge which one works for what conte
 * Decide on Solution
 * Storyboard design
 * Decider Vote
-* Storyboard Final Walk-through 
-* User test recruiting 
+* Storyboard Final Walk-through
+* User test recruiting
 
 ### Wednesday
 
@@ -99,7 +100,7 @@ The best is to try different variations and judge which one works for what conte
 
 Research Sprint
 
-[Start At The End](https://openpracticelibrary.com/practice/start-at-the-end/) 
+[Start At The End](https://openpracticelibrary.com/practice/start-at-the-end/)
 
 [Design The Box](https://openpracticelibrary.com/practice/design-the-box/)
 

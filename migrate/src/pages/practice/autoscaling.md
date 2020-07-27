@@ -7,6 +7,7 @@ authors:
   - Zenigata
 area: foundation-technical
 participants: []
+templateKey: practice-page
 ---
 ## What is it?
 

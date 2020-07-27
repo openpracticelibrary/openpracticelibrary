@@ -4,7 +4,7 @@ import yellowRain from "../../../assets/images/rain.svg";
 import greenDots from "../../../assets/images/polka-dots.svg";
 
 const backgroundImage = (tags) => {
-  const tagMatch = tags.map(t => t.tag.toLowerCase());
+  const tagMatch = tags.map(t => t.toLowerCase());
   if (tagMatch.includes('discovery')) {
     return `linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.76) 70.4%, #FFFFFF 900%), url(${blueDiagonals})`;
   }

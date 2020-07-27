@@ -14,6 +14,7 @@ time: 5 minutes
 difficulty: easy
 participants:
   - Anybody
+templateKey: practice-page
 ---
 # What is it?
 

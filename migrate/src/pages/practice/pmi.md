@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: PMI +-?
 subtitle: plus minus interesting
 date: 2019-05-02T07:12:57.079Z

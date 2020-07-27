@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Proto-Persona
 subtitle: Define your target users
 date: 2019-09-30T14:03:05.075Z
@@ -27,9 +28,9 @@ the persona should be updated with any new information or analysis gained during
 
 ## Why create a proto-persona?
 
-* **Build a shared understanding:** 
+* **Build a shared understanding:**
 The process of creating a proto-persona helps the team build a common vocabulary to describe the users
-for whom they are designing and developing software. 
+for whom they are designing and developing software.
 * **Help prioritise and drive focus:**
 Centering development and product design around a proto-persona drives the focus of the team.
 A user-centric development approach can save time and money by helping teams to avoid building features their user will not need or want.
@@ -52,7 +53,7 @@ List each of these users on a sticky note and decide as a team which users you w
 * Use a template or sticky notes to list out each user's attributes, goals, and obstacles. Place these attributes next to the user they describe.
 * Finally, stick each user on the wall with their descriptions. As a team, discuss each of the users and their unique circumstances. Agree collectively on the persona whose problems you will aim to solve.
 
-## 
+##
 
 ## Further Information
 

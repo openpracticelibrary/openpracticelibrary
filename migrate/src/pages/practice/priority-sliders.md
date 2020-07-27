@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Priority Sliders
 subtitle: >-
   Facilitates conversations about relative priorities and focuses upcoming

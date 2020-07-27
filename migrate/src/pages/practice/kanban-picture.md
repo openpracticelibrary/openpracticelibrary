@@ -2,7 +2,7 @@
 title: Kanban Picture
 subtitle: >-
   The Kanban Picture suggests a "work dynamic" for teams starting with the
-  Kanban Method. 
+  Kanban Method.
 date: 2019-10-15T18:32:07.285Z
 authors:
   - andresuman
@@ -10,10 +10,11 @@ area: delivery-deliver
 icon: /images/kanban-picture-english.png
 jumbotron: /images/kanban-picture-english.png
 participants: []
+templateKey: practice-page
 ---
 ## What is it?
 
-A suggestion to explain and start with the Kanban Method.  
+A suggestion to explain and start with the Kanban Method.
 
 ## Why use it?
 
@@ -59,7 +60,7 @@ _CFD_ - Cumulative Flow Diagram Shows demand, WIP, approximate average lead time
 
 To collect these metrics you only need the start and finishing date for an item then count how many items you have per day in each column.
 
-**Explicit Policies** 
+**Explicit Policies**
 
 Post policies where you can see them. Policies are rules for how we work and should be developed collaboratively. Example - pull criteria, wip limits, date to deploy.
 

@@ -26,6 +26,7 @@ participants:
   - Product Owner
   - Project Sponsor
   - Technical and business Architects
+templateKey: practice-page
 ---
 ## What is it?
 

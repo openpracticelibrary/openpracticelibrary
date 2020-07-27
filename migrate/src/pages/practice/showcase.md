@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Showcase
 subtitle: >-
   An event to demonstrate and show the outputs and outcomes of a team's work
@@ -39,7 +40,7 @@ participants:
 * The showcase is particularly important in a remote delivery as it is the primary if not the only opportunity to show the value that has been delivered during the sprint in the absence of the team being co-located.
 * Agree agenda and demo roles with the team, and use a timer to ensure you timebox the presentation.
 * Use available online tools and emulators where possible.
-* Facilitator is key to allow the team complete the demo uninterrupted and then allow stakeholders to give feedback and ask questions. 
+* Facilitator is key to allow the team complete the demo uninterrupted and then allow stakeholders to give feedback and ask questions.
 * Be sure the is enough time for Q&A
 * Recommend doing a virtual “walk the walls” event using the virtual whiteboard tool to playback the sprint journey.
 * Record the session and create showcase video.
@@ -48,7 +49,7 @@ participants:
 ## Advice
 
 * Where possible avoid scripting the showcase give stakeholders/end users the ability to play around with the new product. Showcases should be as interactive as possible, aiding the team in collecting real world feedback
-* Showcases should be a comfortable and open environment for people to speak freely. Encourage negative as well as positive feedback, this is the only way to ensure that you're building the right thing 
+* Showcases should be a comfortable and open environment for people to speak freely. Encourage negative as well as positive feedback, this is the only way to ensure that you're building the right thing
 
 ## Related Links
 

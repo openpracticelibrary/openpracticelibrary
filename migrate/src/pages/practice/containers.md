@@ -14,6 +14,7 @@ participants:
   - Developers
   - Operations
   - Infrastructure
+templateKey: practice-page
 ---
 ## What is it?
 

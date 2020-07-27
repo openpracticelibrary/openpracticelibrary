@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Parking Lot (Car Park)
 subtitle: A visible area to help track important items, ideas, questions, and
   issues that may not be important to discuss at the time, but the group does
@@ -27,12 +28,12 @@ Many groups of people getting together tend to go off-topic or the purpose of th
 1. Agree on a visible location to capture topics to discuss later
 
    * Physically Present: Use a space on a wall and post its to capture the topics.
-   * Remotely Present: Use a shared document everybody can see/access onscreen during the discussion. 
+   * Remotely Present: Use a shared document everybody can see/access onscreen during the discussion.
 2. Agree as a group how to go about identifying and capturing the off-topic items
 
    * Anybody at anytime may identify a topic as being off-topic and should be captured. This sparks a majority rules discussion on if it is off-topic or should be resolved immediately.
-   * You add your own idea to the Parking Lot (or rotate who is the scribe). 
-3. Allot some time at the end of the timebox to review Parking Lot items to determine what the appropriate next steps are for them. 
+   * You add your own idea to the Parking Lot (or rotate who is the scribe).
+3. Allot some time at the end of the timebox to review Parking Lot items to determine what the appropriate next steps are for them.
 
    * 5-10 minutes is a good starting place, but depends on the amount of items captured.
 

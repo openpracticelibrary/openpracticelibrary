@@ -23,7 +23,7 @@ const TitleAndSubtitle = (props) => (
       {props.tags && props.tags.map((t, i) => (
         <TagBox key={i}>
           <Typography variant={"overline"}>
-              #{t.tag}&nbsp;&nbsp;
+              #{t}&nbsp;&nbsp;
           </Typography>
         </TagBox>
       ))}

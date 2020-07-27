@@ -18,12 +18,13 @@ participants:
   - UXD
   - team members
   - stakeholders and even real customers
+templateKey: practice-page
 ---
 ## What is it?
 
-How-Now-Wow is a prioritisation matrix / idea selection tool, which is often combined with Brainstorming, HMW, Design of Experiments. 
+How-Now-Wow is a prioritisation matrix / idea selection tool, which is often combined with Brainstorming, HMW, Design of Experiments.
 
-It compares and plot ideas on a 2x2 matrix by comparing the idea’s difficulty to implement with its novelty/originality.  
+It compares and plot ideas on a 2x2 matrix by comparing the idea’s difficulty to implement with its novelty/originality.
 
 ![How Now Wow Matrix](/images/how-now-wow.jpg)
 
@@ -37,11 +38,11 @@ It compares and plot ideas on a 2x2 matrix by comparing the idea’s difficulty 
 
 ## Why & How to combine it with other practices?
 
-The source of ideas and hypothesis are practices like [Event Storming](https://openpracticelibrary.com/practice/event-storming/), [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/), [HMW](https://openpracticelibrary.com/practice/hmw/), User Research, [Empathy Mapping](https://openpracticelibrary.com/practice/empathy-mapping/). While we perform those aforementioned practices, often ideas would emerge for possible improvements or new hypothesis may form. Some of them may be already formulated as [HMW](https://openpracticelibrary.com/practice/hmw/) questions. 
+The source of ideas and hypothesis are practices like [Event Storming](https://openpracticelibrary.com/practice/event-storming/), [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/), [HMW](https://openpracticelibrary.com/practice/hmw/), User Research, [Empathy Mapping](https://openpracticelibrary.com/practice/empathy-mapping/). While we perform those aforementioned practices, often ideas would emerge for possible improvements or new hypothesis may form. Some of them may be already formulated as [HMW](https://openpracticelibrary.com/practice/hmw/) questions.
 
 Before adding any of them as items on the Product Backlog these ideas & hypothesis would typically need some research, analysis and further elaboration. As any team has a limit of bandwidth and attention, prioritisation is required and any activities would be added as items in the Product Backlog.
 
-Once prioritised these ideas & hypothesis may lead to: 
+Once prioritised these ideas & hypothesis may lead to:
 
 * New stories being added
 * Complete new features being broken down into new stories

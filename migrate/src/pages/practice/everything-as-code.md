@@ -9,6 +9,7 @@ area: foundation-technical
 icon: /images/ansible-example.png
 people: ""
 participants: []
+templateKey: practice-page
 ---
 ## What is it?
 

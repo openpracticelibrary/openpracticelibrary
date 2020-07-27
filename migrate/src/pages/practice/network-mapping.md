@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Network Mapping
 subtitle: building a network of relationships in your organization or team
 date: 2019-10-25T19:57:31.807Z
@@ -27,10 +28,10 @@ When new teams are forming, or there is a need for a team to form better relatio
 1. Everyone writes their name and a few personal characteristics (ie: Name, Where are you from, Favorite fictional character) on a post it
 2. Put that post it on a whiteboard or writeable canvas (use the full space)
 3. Find a partner and face each other. Each pair will line up to form two lines facing each other
-4. In 1-2 minutes, each pair needs to find something in common, draw a line on the whiteboard between their two post its and write out the common thing along that line. 
+4. In 1-2 minutes, each pair needs to find something in common, draw a line on the whiteboard between their two post its and write out the common thing along that line.
 5. Have one line rotate to the left and repeat step 4 with your new partner
 
-\*\*Go through 3-4 rounds to create a good map, not necessary to everybody at first. 
+\*\*Go through 3-4 rounds to create a good map, not necessary to everybody at first.
 
 Certainly can come back and do this again if the teams or organization is very large. This can also be a living document and put up somewhere in the room if you have a physical location, or referred back to if electronic.
 

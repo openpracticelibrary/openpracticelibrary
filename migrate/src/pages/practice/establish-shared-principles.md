@@ -14,6 +14,7 @@ time: 1 hour+
 difficulty: hard
 participants:
   - The Organisation
+templateKey: practice-page
 ---
 ## What is it?
 

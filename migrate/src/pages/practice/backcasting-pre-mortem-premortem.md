@@ -17,6 +17,7 @@ participants:
   - Product Owner
   - UX Designer
   - DevOps Team
+templateKey: practice-page
 ---
 ## What is it?
 

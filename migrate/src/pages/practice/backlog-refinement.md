@@ -23,6 +23,7 @@ participants:
   - Team Members
   - Subject Matter Expert
   - Architect
+templateKey: practice-page
 ---
 # What is It?
 
@@ -41,7 +42,7 @@ participants:
 ## How often should it occur and for how long?
 
 * The simple answer is as often as is necessary
-* Typically its advised that 1 hour of refinement should suffice for each week of the sprint 
+* Typically its advised that 1 hour of refinement should suffice for each week of the sprint
 
 ## Tips for Remote Working
 

@@ -17,6 +17,7 @@ difficulty: moderate
 participants:
   - Product Owner
   - Product Team
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -54,7 +55,7 @@ These flag types can be summarised by the following image.
 
 ## Why use it?
 
-Feature Toggles are a foundational engineering practice and provide a great way to manage the behaviour of the product in order to perform experiments or safeguard performance when releasing fresh new features. 
+Feature Toggles are a foundational engineering practice and provide a great way to manage the behaviour of the product in order to perform experiments or safeguard performance when releasing fresh new features.
 
 There are many ways feature flags are used:
 

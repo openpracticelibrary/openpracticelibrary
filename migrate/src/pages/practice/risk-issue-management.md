@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Risk Management
 subtitle: >-
   Identify potential problems that might occur during the course of your project
@@ -17,7 +18,7 @@ participants:
 ---
 ## What is it?
 
-To help the team identifying and evaluating risks (potential issues) and finding actions to avoid or minimise their impact on time, cost and or scope. 
+To help the team identifying and evaluating risks (potential issues) and finding actions to avoid or minimise their impact on time, cost and or scope.
 
 ## Why use it?
 
@@ -28,7 +29,7 @@ It will reduce the likelihood of the event to happen and reduce the magnitude of
 * The best approach to identifying risks is to arrange a workshop where the participants will brainstorm on potential, future risks
 * First, risks needs to be identified which can have an impact to the project or outcome
 * Some example of risks are:
-  * Inadequate delivery capability (due to team experience, lack of inconsistent methodology or process) 
+  * Inadequate delivery capability (due to team experience, lack of inconsistent methodology or process)
   * Ineffective delivery (due to unclear roles & responsibilities, issues not being escalated)
   * Inadequate management of stakeholders (due to expectations not being identified)
   * Unclear project or activity value (due to poor evaluation of business ownership of benefits)
@@ -36,13 +37,13 @@ It will reduce the likelihood of the event to happen and reduce the magnitude of
   * Failure to recognise & manage dependencies (due to lack of communication)
   * Failure of external vendors / suppliers (due to poor engagement)
 * Next, the risks need to be rated based on likelihood and impact at the present time
-* Once the risks have been rated, mitigation strategies need to identified. 
+* Once the risks have been rated, mitigation strategies need to identified.
 * Last but not least, the risks will be displayed in the team area, where the Daily Standup's happen. That way, the risks can be reviewed on a daily basis and dealt with, if / once they occur.
 
 ![Display of Risks](/images/img_1606.jpg)
 
 ## Further Information
 
-* Agile Risk Management [presentation](https://www.agilealliance.org/wp-content/uploads/2016/01/Agile-Risk-Management-Agile-2012.pdf) from Greg Smith 
-* [A simple approach for Risk Management in Scrum](https://www.todaysoftmag.com/article/1367/a-simple-approach-for-risk-management-in-scrum) by Sebastian Botiș 
+* Agile Risk Management [presentation](https://www.agilealliance.org/wp-content/uploads/2016/01/Agile-Risk-Management-Agile-2012.pdf) from Greg Smith
+* [A simple approach for Risk Management in Scrum](https://www.todaysoftmag.com/article/1367/a-simple-approach-for-risk-management-in-scrum) by Sebastian Botiș
 * [The Disciplined Agile (DA) Framework](http://www.disciplinedagiledelivery.com/agile-risk-management/)

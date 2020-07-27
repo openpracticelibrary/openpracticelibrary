@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Quote Wall
 subtitle: >-
   A collection of quotes or phrases captured from the team that may be

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Pair programming
 subtitle: Increasing the knowledge sharing and communication between team members
 date: 2019-05-09T21:15:43.697Z
@@ -21,7 +22,7 @@ participants:
 ---
 ## What is it?
 
-* An agile practice where two team members work together on one workstation (one keyboard and mouse) to implement a feature. 
+* An agile practice where two team members work together on one workstation (one keyboard and mouse) to implement a feature.
 
 ## Why use it?
 
@@ -51,9 +52,9 @@ It is not for:
 * Easy to apply if the team can use the same tools for documents and whiteboard
 * We activate our cameras all the time
 * A very simple way of a continuous open video conference with Video/Audio to be in the same room.
-* Video Conferencing based pairing and mobbing is possible with BlueJeans using breakout sessions feature as described in the instructions. 
+* Video Conferencing based pairing and mobbing is possible with BlueJeans using breakout sessions feature as described in the instructions.
 * For documentation at the beginning it can be very useful to allow the team to go through a diverging phase, adding all ideas on an empty document, then you can move to a converging phase where the structure of the document is agreed and the work divided among the team
-* If the team needs to distribute the workload to create the documentation, for the converging phase you can also  track who is in charge of which part, and this is also easier to keep track of the status   
+* If the team needs to distribute the workload to create the documentation, for the converging phase you can also  track who is in charge of which part, and this is also easier to keep track of the status
 * For a documentation mob, everyone can initially type in a document simultaneously, which is different to a programming mob that has only 1 person at the keyboard
 * Should rotate role for leading the sessions to increase the team engagement with less passive behaviours and reduce tiredness on a single person acting as lead
 * One facilitator shares the primary screen, showing the tool to allow everyone to understand where is the focus

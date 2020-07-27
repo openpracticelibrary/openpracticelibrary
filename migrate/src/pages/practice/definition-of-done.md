@@ -17,6 +17,7 @@ time: 15 minutes
 difficulty: easy
 participants:
   - The Team
+templateKey: practice-page
 ---
 ## What is it?
 
@@ -33,10 +34,10 @@ participants:
 
 * It is reasonable easy to find an agreement on both definition of ready and done remotely.
 * One person can be a facilitator writing it based on everyone input or everyone can co-edit.
-* Use virtual white-boarding tool and use techniques such as "roman voting" or adding a sticky w/name to gain consensus. 
+* Use virtual white-boarding tool and use techniques such as "roman voting" or adding a sticky w/name to gain consensus.
 
 ## Want to learn more?
 
 * [Scrum Inc 5 minute course](https://www.scruminc.com/definition-of-done/)
-* [Walking through the Definition of Done](https://www.scrum.org/resources/blog/walking-through-definition-done) 
+* [Walking through the Definition of Done](https://www.scrum.org/resources/blog/walking-through-definition-done)
 * [How to create your team’s Definition Of Done](https://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/)

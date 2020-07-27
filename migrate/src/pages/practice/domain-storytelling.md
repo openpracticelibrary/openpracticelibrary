@@ -19,10 +19,11 @@ participants:
   - developers
   - product owner
   - business analysts
+templateKey: practice-page
 ---
 ## What is it?
 
-A workshop format that helps participants understand how people and/or software systems work together. Both existing or future state business processes can be analysed. 
+A workshop format that helps participants understand how people and/or software systems work together. Both existing or future state business processes can be analysed.
 
 Domain Storytelling is driven by domain experts who share typical examples of how they work. These examples are known as Domain Stories. While listening, the moderator records the domain stories using a pictographic language, so domain experts can see immediately if the moderator understands their story correctly. The moderator guides the domain experts by asking questions, for example *who* – *does what* – *with what* – *why*.
 

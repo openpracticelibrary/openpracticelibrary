@@ -15,10 +15,11 @@ participants:
   - Product Owner
   - DevOps Team
   - Business Stakeholders (e.g. Product managers)
+templateKey: practice-page
 ---
 ## What is it?
 
-The Kano model is derived from the work of professor Noriaki Kano on product development and customer satisfaction. 
+The Kano model is derived from the work of professor Noriaki Kano on product development and customer satisfaction.
 
 Prof. Kano argues that customer preferences can be classified in five categories:
 
@@ -40,10 +41,10 @@ The Kano Matrix is used to easily plot the product features and have a discussio
 
 ## Why use it?
 
-* The Kano Model is widely used in Product Management for prioritisation of product features. It allows for easy visualisation and explanation of the impact and priority of different features. 
-* It can involve the whole product team in the decision-making and help increase transparency of product decisions. 
+* The Kano Model is widely used in Product Management for prioritisation of product features. It allows for easy visualisation and explanation of the impact and priority of different features.
+* It can involve the whole product team in the decision-making and help increase transparency of product decisions.
 * Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with, which requires us to filter and prioritize work on them.
-* It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.  
+* It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.
 * Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders.
 * It helps identify directions and ideas for pivoting.
 

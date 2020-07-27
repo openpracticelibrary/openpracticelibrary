@@ -16,6 +16,7 @@ time: Minutes
 difficulty: moderate
 participants:
   - Team Members
+templateKey: practice-page
 ---
 # What is it?
 

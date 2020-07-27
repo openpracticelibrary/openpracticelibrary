@@ -19,6 +19,7 @@ participants:
   - Team Members
   - Sponsors
   - Users
+templateKey: practice-page
 ---
 ## What is it?
 

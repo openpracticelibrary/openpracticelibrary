@@ -36,6 +36,7 @@ const TagBox = ({ children }) => {
 };
 
 const Tags = (props) => {
+  if (!props.tags) { return <TagBox>#sampleTag</TagBox>; }
   const tagsLength = props.tags.length;
   let initialTags = props.tags;
   if (tagsLength > 3) {
@@ -47,14 +48,14 @@ const Tags = (props) => {
           {initialTags.map((t, i) => (
             <TagBox key={i}>
               <OplTypography variant={"overline"}>
-              #{t.tag}&nbsp;
+              #{t}&nbsp;
               </OplTypography>
             </TagBox>
           ))}
           {extraTags.map((t, i) => (
             <TagBox key={i}>
               <OplTypography variant={"overline"}>
-              #{t.tag}&nbsp;
+              #{t}&nbsp;
               </OplTypography>
             </TagBox>
           ))}
@@ -68,7 +69,7 @@ const Tags = (props) => {
       {initialTags.map((t, i) => (
         <TagBox key={i}>
           <OplTypography fontSize="0.75rem" variant={"overline"}>
-                #{t.tag}&nbsp;
+                #{t}&nbsp;
           </OplTypography>
         </TagBox>
       ))}

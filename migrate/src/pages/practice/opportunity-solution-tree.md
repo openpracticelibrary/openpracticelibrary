@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Opportunity Solution Tree
 subtitle: Show how your product solutions map back to a desired outcome
 date: 2019-10-01T14:26:10.092Z

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Meditation to generate positive emotions for the team
 subtitle: Help to develop an empathetic mindset towards team members
 date: 2020-06-24T02:33:44.915Z

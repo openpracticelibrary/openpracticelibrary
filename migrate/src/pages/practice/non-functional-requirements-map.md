@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Non-Functional Requirements Map
 subtitle: A collaborative approach for capturing non-functional requirements
 date: 2020-06-29T13:16:54.534Z

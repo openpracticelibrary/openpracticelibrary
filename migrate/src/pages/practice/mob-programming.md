@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Mob Programming
 subtitle: Like pair programming but with the whole team
 date: 2018-08-31T11:28:28.928Z
@@ -42,9 +43,9 @@ The whole team then implement the feature together by talking through the develo
 * Easy to apply if the team can use the same tools for documents and whiteboard
 * We activate our cameras all the time
 * A very simple way of a continuous open video conference with Video/Audio to be in the same room.
-* Video Conferencing based pairing and mobbing is possible with BlueJeans using breakout sessions feature as described in the instructions. 
+* Video Conferencing based pairing and mobbing is possible with BlueJeans using breakout sessions feature as described in the instructions.
 * For documentation at the beginning it can be very useful to allow the team to go through a diverging phase, adding all ideas on an empty document, then you can move to a converging phase where the structure of the document is agreed and the work divided among the team
-* If the team needs to distribute the workload to create the documentation, for the converging phase you can also  track who is in charge of which part, and this is also easier to keep track of the status   
+* If the team needs to distribute the workload to create the documentation, for the converging phase you can also  track who is in charge of which part, and this is also easier to keep track of the status
 * For a documentation mob, everyone can initially type in a document simultaneously, which is different to a programming mob that has only 1 person at the keyboard
 * Should rotate role for leading the sessions to increase the team engagement with less passive behaviours and reduce tiredness on a single person acting as lead
 * One facilitator shares the primary screen, showing the tool to allow everyone to understand where is the focus

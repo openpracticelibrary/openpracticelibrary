@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: News Headlines aka Cover Story
 subtitle: From idea to essential product features and outcomes
 date: 2018-11-08T14:56:05.149Z
@@ -18,11 +19,11 @@ participants:
 ---
 ## What is it?
 
-This Design Thinking practice intends to suspend disbelief, doubts and imminent focus on the daunting task at hand (design of a new product or service). It is forcing participants to start with the end in mind by imagining a distant future in which the product/service has been super successful and provoked the admiration of the public. 
+This Design Thinking practice intends to suspend disbelief, doubts and imminent focus on the daunting task at hand (design of a new product or service). It is forcing participants to start with the end in mind by imagining a distant future in which the product/service has been super successful and provoked the admiration of the public.
 
-The participants start by listing a set of headlines and draft a popular magazine article outlining the success of the product/service and the organization. The magazine article would naturally go in details of the most important user benefits, i.e. why customers love it, beloved features, examples of use cases and may include images, customer quotes and other elements to make the story rich. 
+The participants start by listing a set of headlines and draft a popular magazine article outlining the success of the product/service and the organization. The magazine article would naturally go in details of the most important user benefits, i.e. why customers love it, beloved features, examples of use cases and may include images, customer quotes and other elements to make the story rich.
 
-This practice frequently precedes other which require creativity. 
+This practice frequently precedes other which require creativity.
 
 The group is encouraged to picture and draw even their wildest ideas.
 
@@ -37,7 +38,7 @@ The group is encouraged to picture and draw even their wildest ideas.
 
 ## Why & How to combine it with other practices?
 
-This practice is really helpful if you find it hard to articulate the goal during an Impact Mapping session. It can help articulate product vision and ambitions. 
+This practice is really helpful if you find it hard to articulate the goal during an Impact Mapping session. It can help articulate product vision and ambitions.
 
 It is also a good transition from a vision into a more concrete description of expected product/service design, e.g. through [Event Storming](https://openpracticelibrary.com/practice/event-storming/).
 

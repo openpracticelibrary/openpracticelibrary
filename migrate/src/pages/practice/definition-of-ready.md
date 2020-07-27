@@ -16,6 +16,7 @@ difficulty: easy
 participants:
   - Product Owner
   - The Team
+templateKey: practice-page
 ---
 # What is it?
 
@@ -24,7 +25,7 @@ participants:
 
 # Why use it?
 
-* Reduce scope creep on "in-flight" work items 
+* Reduce scope creep on "in-flight" work items
 * Increase understanding of the work item when pulling it to be worked on
 
 ## Tips for Remote Working
