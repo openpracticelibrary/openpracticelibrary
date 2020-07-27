@@ -95,7 +95,7 @@ export default function SocialLinks(props) {
           </EmailShareButton>
         </Grid>
         <Grid item>
-          <TwitterShareButton url={window.location.href}>
+          <TwitterShareButton url={loc}>
             <TwitterIcon fill="#1DA1F2" height="14" width="18" />
           </TwitterShareButton>
         </Grid>
