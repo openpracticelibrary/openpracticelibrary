@@ -16,29 +16,33 @@ googleAnalyticsUserID = "UA-111461618-1"
 
 customCSS = [
   "css/custom.css",
-  "https://fonts.googleapis.com/css?family=Arimo:400,700"
+  "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
 ]
 
 [[menu.main]]
 name = "Perspectives"
 weight = 5
 identifier = "Perspectives"
+target = "_self"
 url = "/perspective/"
 
 [[menu.main]]
 name = "GitHub"
 weight = 2
 identifier = "GitHub"
+target = "_blank"
 url = "https://github.com/openpracticelibrary/openpracticelibrary"
 
 [[menu.main]]
 name = "Gitter"
 weight = 1
 identifier = "Gitter"
+target = "_blank"
 url = "https://gitter.im/openpracticelibrary/"
 
 [[menu.main]]
 name = "What's New"
 weight = 0
 identifier = "What's New"
+target = "_blank"
 url = "https://github.com/openpracticelibrary/openpracticelibrary/pulls?q=is%3Apr+is%3Aclosed+base%3Amaster"
