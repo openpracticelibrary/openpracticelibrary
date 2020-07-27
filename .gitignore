@@ -14,3 +14,7 @@ static/images/scaled
 docs/
 # New publish directory
 public/
+
+.cache/
+static/admin/*.bundle.*
+yarn-error.log

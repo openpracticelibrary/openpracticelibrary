@@ -1,0 +1,304 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the About page snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-2"
+    data-testid="aboutPageGrid"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-3"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-4"
+      >
+        <h1
+          class="MuiTypography-root MuiTypography-h3"
+          data-testid="hellotext"
+        >
+          About Us
+        </h1>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-35"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-36"
+      >
+        <h3
+          class="MuiTypography-root MuiTypography-h4 MuiTypography-colorPrimary MuiTypography-gutterBottom"
+          data-testid="historyValuesHeader"
+        >
+          Our history & values
+        </h3>
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+        >
+          In 2016, 
+          <a
+            class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary"
+            href="https://www.redhat.com/en/services/consulting/open-innovation-labs"
+          >
+            Red Hat Open Innovation Labs
+          </a>
+           saw an opportunity to document the open practices and principles they used during customer engagements, thus was born the Open Practice Library. That vision turned into a website of DevOps and product development practices for running workshops and learning about the discovery and delivery of software.
+        </p>
+        <div
+          class="MuiBox-root MuiBox-root-43"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-xs-center"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-147"
+              >
+                <img
+                  alt="Friendly Icon"
+                  src="about-friendly.svg"
+                />
+                <h4
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-colorPrimary"
+                >
+                  Friendly
+                </h4>
+                <h6
+                  class="MuiTypography-root MuiTypography-subtitle2"
+                >
+                  We are here to be friends with and make connections for the Open Practice Library community.
+                </h6>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-148"
+              >
+                <img
+                  alt="Trustworthy Icon"
+                  src="about-trustworthy.svg"
+                />
+                <h4
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-colorPrimary"
+                >
+                  Trustworthy
+                </h4>
+                <h6
+                  class="MuiTypography-root MuiTypography-subtitle2"
+                >
+                  We strive to provide expertise and advice that will seamlessly fit into our users' work life.
+                </h6>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-149"
+              >
+                <img
+                  alt="Inspiring Icon"
+                  src="about-inspiring.svg"
+                />
+                <h4
+                  class="MuiTypography-root MuiTypography-h5 MuiTypography-colorPrimary"
+                >
+                  Inspiring
+                </h4>
+                <h6
+                  class="MuiTypography-root MuiTypography-subtitle2"
+                >
+                  We will venture into the unknown and share experiments that will drive innovation of the library.
+                </h6>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+        >
+          Fast forward through a few iterations and to the present day, the library has grown quite a bit in its strategy and approach to include the above core values. The product vision has evolved to adopt a value proposition with inclusion for a broader cross-functional community.
+        </p>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-150"
+        data-testid="pageGrid"
+      >
+        <h3
+          class="MuiTypography-root MuiTypography-h4 MuiTypography-colorPrimary MuiTypography-gutterBottom"
+        >
+          Our product team
+        </h3>
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+        >
+          The 2020 pandemic led to forming a small Global remote product team for improving the library and delivering upon the growth strategy. This cross-functional group included product management, product design, and engineering to bring a balanced approach for continuous discovery and continuous delivery.
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+        >
+          There was a focus on bringing the team together culturally and using various activities for getting to know one another. To align with a process that meets the most user needs the team based discovery practices on human-centered design methodologies with regular user feedback cycles for informing design and product decision making.
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+        >
+          The development approach included pulling from [open source technology, middleware, test-driven, Agile, devops.
+        </p>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-151"
+        data-testid="communityHeader"
+      >
+        <h3
+          class="MuiTypography-root MuiTypography-h4 MuiTypography-colorPrimary MuiTypography-gutterBottom"
+        >
+          Community Driven
+        </h3>
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+        >
+          This project relies on an active and involved community, and we really appreciate your support. To date we currently have:
+        </p>
+        <div
+          class="MuiBox-root MuiBox-root-152"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-justify-xs-center"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-153"
+              >
+                <h5
+                  class="MuiTypography-root MuiTypography-h1 MuiTypography-colorPrimary"
+                >
+                  <div
+                    class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+                    role="progressbar"
+                    style="width: 10rem; height: 10rem;"
+                  >
+                    <svg
+                      class="MuiCircularProgress-svg"
+                      viewBox="22 22 44 44"
+                    >
+                      <circle
+                        class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+                        cx="44"
+                        cy="44"
+                        fill="none"
+                        r="20.2"
+                        stroke-width="3.6"
+                      />
+                    </svg>
+                  </div>
+                </h5>
+                <h6
+                  class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter"
+                >
+                  Product Lifecycle Practices
+                </h6>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-166"
+              >
+                <h5
+                  class="MuiTypography-root MuiTypography-h1 MuiTypography-colorPrimary"
+                >
+                  <div
+                    class="MuiCircularProgress-root MuiCircularProgress-colorPrimary MuiCircularProgress-indeterminate"
+                    role="progressbar"
+                    style="width: 10rem; height: 10rem;"
+                  >
+                    <svg
+                      class="MuiCircularProgress-svg"
+                      viewBox="22 22 44 44"
+                    >
+                      <circle
+                        class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+                        cx="44"
+                        cy="44"
+                        fill="none"
+                        r="20.2"
+                        stroke-width="3.6"
+                      />
+                    </svg>
+                  </div>
+                </h5>
+                <h6
+                  class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter"
+                >
+                  Creative Commons Contributors
+                </h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-167"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-1"
+        >
+          <img
+            alt="Feedback"
+            color="black"
+            src="about-feedback.svg"
+            width="100%"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-7"
+        >
+          <h4
+            class="MuiTypography-root MuiTypography-h4"
+            data-testid="feedbackMsg"
+          >
+            Please give us feedback
+          </h4>
+          <h5
+            class="MuiTypography-root MuiTypography-h5"
+          >
+            We are human-centered at our core and rely on user feedback for product iterations.
+          </h5>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-3"
+        >
+          <a
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+            href="https://forms.gle/nXCvPEkjx6VdF6Px6"
+            rel="noopener"
+            tabindex="0"
+            target="_blank"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Share Thoughts
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
