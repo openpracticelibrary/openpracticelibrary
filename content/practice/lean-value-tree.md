@@ -1,9 +1,10 @@
 ---
 title: Lean Value Tree
-subtitle: >-
-  A simple tool for aligning people all all levels of the business
-date: 2020-07-07T09:00:01Z
+subtitle: A simple tool to align people and initiatives across all levels of the business
+date: 2020-07-07T09:00:01.000Z
 authors:
+  - FranciscoMezaGuzman
+  - trncb
   - springdo
   - tdbeattie
 area: discovery-loop-why
@@ -18,40 +19,49 @@ participants:
   - The Team
   - C Suite
 ---
-## What is it?
+# What is it?
 
+The Lean Value Tree (LVT) is a conceptual tool to facilitate, share, and drive a company's strategy and vision across all levels and teams of an organization.
+
+# Why use it?
 It’s a conceptual tool to facilitate, capture and share the companie’s strategy and visión for all the organization’s levels and teams.
 
-## Why use it?
+LVT is an enhancement to Lean Portfolio Management, uses a [lean approach](https://www.lean.org/whatslean/), encourages collaboration and is based in value delivery. It takes advantage of the visual work properties found in the [Lean Portfolio](https://www.scaledagileframework.com/lean-portfolio-management/) and guides decisions and initiatives that tightly integrate with customer value and corporate vision, helping avoid initiatives that are time (and budget) wasting.
 
-This is an enhancement to Lean Portfolio Management. It uses a [lean approach](https://www.lean.org/whatslean/) mixed with colaborative work and based in value delivery. It takes advantage of the visual work properties that are realized into Lean Portfolio level, it advices us that all that we do goes in function of customer value and corporate vision, helping us avoid initiatives that are time wasting.
+# How to use it
 
-## How to use it
+The LVT follows a Top-Down framework: Vision > Strategic Goals > Bets > Initiatives.
 
-It uses a framework that follows a Top-Down structure: Vision, Goals, Bets and Initiatives.
+A company's vision is broken down into a number of strategic goals, which are then defined into a number of bets, out of which value streams and initiatives with specific, targeted outcomes drive achievement from the bottom up.
 
 ![Lean-Value-Tree](/images/lean-value-tree.jpg)
 
+## Goals
 
-The goals: LVT allows to align the goals to the company’s corporative visión, goals are relatively stable and managed at high level, they looks for to be aligned with outcomes more tan specific solutions or outputs. The goals should be ambitious.
+LVT goals should be strategic and ambitious, and must align with the company vision. These should focus on high-level outcomes rather than tactical goals specific solutions or outputs.
 
-The bets: A goal is composed for a set of bets, every bet is a value hypothesis that the organization believes that can help to achieve the goal. If the bet doesn’t functions then is taken out the tree, in this way we assure not to spend time in something that doesn’t help top achieve the corporative visión. LVT uses the word bet because it forces to shift the mindset to the actual VUCA Markets.
+## Bets
 
-Initiatives: One initiative shows what should we make to test our hypothesis, typically they takes the shape of little hypothesis that have a clear way to measure its success, through that the team can take decitions in the short term about if the hypothesis is approved or denied. The difference between a project and a initiative is that the first one has a fixed deadline, while the another not. Initiatives should be tested within a product backlog with little hypothesis that evolves and constantly are re-prioritized, that means that doesn’t exist a fixed deadline. The judgment to complete an initiative is based in review the compliance of the defined outcome.
+Each goal is broken down into a set of strategic bets. A bet is a value hypothesis that the organization believes can help achieve the goal with which the bet is associated with. If a bet does not function then it is taken out the tree, thereby assuring that time is not spent on something that is not achieving the corporate vision. The word "bet" is purposefully used as it forces a shift in mindset to use a [VUCA](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) methodology.
 
-It’s important that LVT would be visible for all the organization and be reviewed regularly for the Lean Portfolio Steering Committee. Furthermore, it should define responsibilities in goals, bets and initiative levels for their implementation, creating diverse teams to achieving it.
+## Initiatives
 
-Furthermore this continuous review of Lean Portfolio with LVT makes possible to remove, incorporate or correct initiatives, bets and goals.
+Initiatives define what should be done to test the value hypothesis of the associated bet. Typically they take the shape of one or more smaller hypotheses that clearly measure success. Through these initiatives, short term decisions can be made to determine if the hypothesis is approved or denied. 
 
-A dilemma that exists in all the organizations is that the LVT would be only for strategic initiatives or Business As Usual (BAU) too (this are between the 80 ans 90% of portfolio). If the BAU are taken out it’ll permit to have better strategic visión, however the persons that works in BAU could feel displaced. The answer for this question is that it depends of the organization size, if it’s small or medium, then it’s better to incorporate 100% of the lean portfolio, on the contrary the strategic initiative can’t be seen.
+Initiatives are not projects. The difference between a project and an initiative is that the first one has a fixed deadline, while the other does not. Initiatives should be tested within a product backlog with constantly evolving hypotheses and re-prioritization until such time the value hypothesis of the overall initiative is proven or disproven.
 
-Look for an simple example of a LVT in this article’s image:
+It is important that the LVT be visible throughout the organization and be reviewed regularly by the Lean Portfolio Steering Committee. The continuous review of the Lean Portfolio makes it possible to remove, incorporate or correct initiatives, bets and goals.
 
+Furthermore, the LVT should define individuals who are accountable and responsible for the implementation of the goals, bets and initiatives at every level, thereby creating diverse teams motiviated to achieve success.
 
-How you can see in the example the long term visión is to get a healthy life, a complete goal would be to looks well for to end of the year’s party, that has associated two bets, this are to eat less and to make exercise; and everyone of the bets has initiatives associated.
+# Strategic vs BAU
 
-The idea is to define success metrics and monitor them constantly, for example. To measure the clothing size, the weight, to make glucose tests, triglycerides, cholesterol and other, and if they don’t work the bets then should be changed.
+While the Lean Value Tree focuses on strategic initiatives, a dilemma exists in all organizations is whether the LVT should be only used for strategic initiatives or whether Business As Usual (BAU) initiatives should be included as well (generally BAU initiatives fill 80-90% of the lean portfolio). 
 
-I see the LVT like an excellent tool to manage lean portfolio, that could be the key to have an more agile adaptability capacity into the VUCA market and it’s an excellent opportunity to engage digital transformation working in collaboration with PMO, shifting it’s traditional focus in projects to bets with hypothesis from LVT.
+Focusing only on strategic initiatives allows for better execution of the strategic vision, however, excluding BAU initiatives may cause disharmony amongst those business units and could contribute to a lack of motiviation towards achieving any strategic initiatives. 
 
-I recommend to read the book EDGE of Jim Highsmith, an agile manifesto signatory.
+Depending on the size of the organisation it may be worthwhile to include 100% of the lean portolio as long as the initiatives contribute to the strategic vision. This is generally feasible for small to medium organizations. In larger organizations, focus strategic or BAU initiatives at specific areas of the organization (such as strategic initiatives for the Executive team). Most importantly, the use of the LVT practice across the portfolio, whether it be strategic or BAU, ensure consistency in the approach of an organization's initiatives.
+
+The Lean Value Tree is an great tool to manage the lean portfolio and could be the key to additional agile adaptability capacity within the organisation. It is also an excellent opportunity to engage digital transformation in collaboration with the Project Management Office (PMO), shifting the PMO's traditional focus in projects to bets with hypothesis using the LVT.
+
+Further recommended reading: *EDGE: Value-driven Digital Transformation* by Jim Highsmith, Linda Luu and David Robinson.
