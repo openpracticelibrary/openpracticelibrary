@@ -5,6 +5,8 @@ date: 2020-07-07T09:00:01.000Z
 authors:
   - FranciscoMezaGuzman
   - trncb
+  - springdo
+  - tdbeattie
 area: discovery-loop-why
 perspectives:
   - product-ownership
@@ -22,6 +24,7 @@ participants:
 The Lean Value Tree (LVT) is a conceptual tool to facilitate, share, and drive a company's strategy and vision across all levels and teams of an organization.
 
 # Why use it?
+It’s a conceptual tool to facilitate, capture and share the companie’s strategy and visión for all the organization’s levels and teams.
 
 LVT is an enhancement to Lean Portfolio Management, uses a [lean approach](https://www.lean.org/whatslean/), encourages collaboration and is based in value delivery. It takes advantage of the visual work properties found in the [Lean Portfolio](https://www.scaledagileframework.com/lean-portfolio-management/) and guides decisions and initiatives that tightly integrate with customer value and corporate vision, helping avoid initiatives that are time (and budget) wasting.
 
