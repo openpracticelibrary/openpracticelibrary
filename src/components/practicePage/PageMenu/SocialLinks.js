@@ -85,7 +85,7 @@ export default function SocialLinks(props) {
           </Typography>
         </Grid>
         <Grid item>
-          <EmailShareButton url={window.location.href}>
+          <EmailShareButton url={window ? window.location.href : ""}>
             <EmailIcon height="15" width="20" />
           </EmailShareButton>
         </Grid>
@@ -95,7 +95,7 @@ export default function SocialLinks(props) {
           </TwitterShareButton>
         </Grid>
         <Grid item>
-          <LinkedinShareButton url={window.location.href}>
+          <LinkedinShareButton url={window ? window.location.href : ""}>
             <LinkedInIcon/>
           </LinkedinShareButton>
         </Grid>
@@ -119,17 +119,17 @@ export default function SocialLinks(props) {
               spacing={2}
             >
               <Grid item>
-                <PinterestShareButton url={window.location.href} media={props.coverImage}>
+                <PinterestShareButton url={window ? window.location.href : ""} media={props.coverImage}>
                   <PinterestIcon/>
                 </PinterestShareButton>
               </Grid>
               <Grid item>
-                <RedditShareButton url={window.location.href}>
+                <RedditShareButton url={window ? window.location.href : ""}>
                   <RedditIcon/>
                 </RedditShareButton>
               </Grid>
               <Grid item>
-                <FacebookShareButton url={window.location.href}>
+                <FacebookShareButton url={window ? window.location.href : ""}>
                   <FacebookIcon/>
                 </FacebookShareButton>
               </Grid>
