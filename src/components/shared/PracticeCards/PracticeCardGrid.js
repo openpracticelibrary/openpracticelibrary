@@ -26,7 +26,7 @@ const PracticeCardGrid = props => {
           key={practice.node.id}
           practiceId={practice.node.id}
           practiceTitle={practice.node.frontmatter.title}
-          coverImage={practice.node.frontmatter.coverImage}
+          coverImage={practice.node.frontmatter.icon}
           tags={practice.node.frontmatter.tags}
           slug={practice.node.fields.slug}
           subtitle={practice.node.frontmatter.subtitle}

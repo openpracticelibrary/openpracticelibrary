@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Target Outcomes
 subtitle: Capture and articulate the goals and outcomes a team are striving to deliver
 date: 2018-09-09T11:20:06.538Z

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Stop the World Event
 subtitle: >-
   Empower team members to stop everything when they feel engagement is off

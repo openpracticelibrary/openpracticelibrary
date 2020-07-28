@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: The Art Gallery
 subtitle: A collection of doodles that are captured from the team
 date: 2019-02-01T13:22:38.440Z

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Team Workspaces
 subtitle: How to create the right workspace(s) for high-performing teams
 date: '2018-08-14T12:17:51+02:00'

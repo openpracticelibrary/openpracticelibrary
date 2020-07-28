@@ -19,7 +19,12 @@ const PracticePage = ({ data }) => {
         subtitle,
         authors,
         date,
-        tags
+        tags,
+        whatIs,
+        whyDo,
+        howTo,
+        mediaGallery,
+        resources,
       },
       rawMarkdownBody,
     }
@@ -58,10 +63,13 @@ const PracticePage = ({ data }) => {
     practiceId,
     title,
     body: {
-      whatIs: "",
-      whyDo: "",
-      howTo: "",
+      whatIs,
+      whyDo,
+      howTo,
     },
+    mediaGallery,
+    resources,
+    ama: [],
     fullText: rawMarkdownBody,
   };
 

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Team Sentiment
 subtitle: Track the mood of a team with visible feedback
 date: 2018-03-31T21:53:43.000Z

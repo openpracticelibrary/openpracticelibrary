@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: System Diagram
 subtitle: A method for describing a system at the highest level possible
 date: 2019-12-20T14:52:30.100Z

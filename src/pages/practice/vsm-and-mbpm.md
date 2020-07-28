@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Value Stream & Process Mapping
 subtitle: Techniques for process improvement
 date: 2017-09-12T05:00:00.000Z

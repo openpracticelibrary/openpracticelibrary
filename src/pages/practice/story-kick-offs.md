@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Story Kick-offs
 subtitle: >-
   The act of explaining a story to the pair of developers right before they pick

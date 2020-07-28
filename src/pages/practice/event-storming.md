@@ -29,6 +29,9 @@ participants:
   - Security
   - Operations / Infrastructure
 templateKey: practice-page
+tags:
+  - discovery
+  - outcomes
 ---
 ## What is Event Storming?
 

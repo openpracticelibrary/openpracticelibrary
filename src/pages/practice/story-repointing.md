@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Story RePointing
 subtitle: Improve Story Pointing over time
 date: 2019-03-27T01:35:22.644Z

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Visualisation of Work
 subtitle: The Information Radiator
 date: 2018-04-08T20:41:51.000Z

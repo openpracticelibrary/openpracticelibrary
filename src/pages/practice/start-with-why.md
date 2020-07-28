@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Start With Why
 subtitle: Connect to your purpose
 date: 2019-05-22T12:57:41.956Z

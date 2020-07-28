@@ -56,7 +56,7 @@ export default function PracticeCard(props) {
         <CoverImage
           slug={props.slug}
           practiceTitle={props.practiceTitle}
-          coverImage={props.coverImage}
+          coverImage={props.coverImage ? props.coverImage : "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true"}
         />
         <Paper
           elevation={0}

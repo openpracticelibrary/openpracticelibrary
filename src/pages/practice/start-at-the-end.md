@@ -13,6 +13,7 @@ perspectives:
 icon: /images/final_start-at-the-end.png
 aliases:
   - /practice/visioning/
+templateKey: practice-page
 ---
 ## What is it?
 
