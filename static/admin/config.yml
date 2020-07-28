@@ -1,12 +1,9 @@
-# local_backend: true
 backend:
   name: git-gateway
-
-local_backend: true
 #  repo: openpracticelibrary/openpracticelibrary
 #  branch: staging
 
-
+local_backend: true
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
@@ -98,10 +95,10 @@ collections:
       - label: 'Media Gallery'
         name: 'mediaGallery'
         widget: "list"
-        field:
-          label: "Media Link"
-          name: link
-          widget: string
+        fields:
+          - label: "Media Link"
+            name: link
+            widget: string
       - label: 'Links we love'
         name: 'resources'
         widget: "list"
@@ -124,7 +121,7 @@ collections:
           - label: "Description"
             name: "description"
             widget: "string"
-      - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"}
+      - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n", required: false}
   - name: "perspective" # Used in routes, e.g., /admin/collections/blog
     label: "Perspective" # Used in the UI
     publish: false

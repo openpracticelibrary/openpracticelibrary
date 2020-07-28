@@ -3,8 +3,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
 import DefaultImage from "../../../assets/images/DefaultImage.png";
-import AddImage from "../../../assets/images/add.png";
-import AddImageCard from "./AddImage";
 
 import { Box, Typography } from '@material-ui/core';
 
@@ -86,12 +84,6 @@ export default function MediaGallery({ practiceId, title, mediaGallery, mediaRef
         thumbnail: media.link
       };
     };
-  });
-
-  images.push({
-    original: AddImage,
-    thumbnail: AddImage,
-    renderThumbInner: () => (<AddImageCard currentMediaGallery={mediaGallery} practiceId={practiceId} />)
   });
 
   const renderVideo = (item) => {
