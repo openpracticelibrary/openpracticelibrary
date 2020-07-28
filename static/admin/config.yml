@@ -1,7 +1,10 @@
+# local_backend: true
 backend:
   name: git-gateway
   repo: openpracticelibrary/openpracticelibrary
   branch: staging
+
+
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
@@ -69,9 +72,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "author" # Used in routes, e.g., /admin/collections/blog
     label: "Author" # Used in the UI
-    format: "toml"
+    format: "json"
     publish: false
-    extension: "toml"
+    extension: "json"
     folder: "data/content/author" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md

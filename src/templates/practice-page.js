@@ -28,7 +28,9 @@ export const pageQuery = graphql`
         title
         subtitle
         date(formatString: "MMMM DD, YYYY")
-        authors
+        authors {
+          github
+        }
         area
         tags
       }
