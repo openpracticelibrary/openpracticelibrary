@@ -33,6 +33,17 @@ export const pageQuery = graphql`
         }
         area
         tags
+        whatIs
+        whyDo
+        howTo
+        mediaGallery {
+          link
+        }
+        resources {
+          link
+          linkType
+          description
+        }
       }
     }
   }

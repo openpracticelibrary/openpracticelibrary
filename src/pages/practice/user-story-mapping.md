@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: User Story Mapping & Value Slicing
 subtitle: >-
   Create lightweight release plans by slicing value out of collections of

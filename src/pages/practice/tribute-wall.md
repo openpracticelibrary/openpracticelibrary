@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Tribute Wall
 subtitle: Sharing the feedback
 date: 2018-12-21T06:43:58.099Z

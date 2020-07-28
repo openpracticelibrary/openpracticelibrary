@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: USR
 subtitle: 'Unicorn, Skunk, Rat'
 date: 2020-02-06T15:19:12.126Z

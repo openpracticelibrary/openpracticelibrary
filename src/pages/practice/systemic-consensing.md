@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Systemic Consensing
 subtitle: How to find minimal viable decisions in a group
 date: 2019-08-15T09:41:01.795Z

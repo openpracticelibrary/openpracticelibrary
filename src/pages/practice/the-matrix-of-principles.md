@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: The Matrix of Principles
 subtitle: >-
   A reflection tool to capture how stakeholders understand Deming's 14

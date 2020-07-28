@@ -86,7 +86,7 @@ export const pageQuery = graphql`
             title
             subtitle
             tags
-            coverImage
+            icon
           }
         }
       }

@@ -1,10 +1,14 @@
 ---
+templateKey: practice-page
 title: Yes! And...
 subtitle: 'Improvise to create more good ideas, and build strong team work skills.'
 date: 2020-01-10T22:11:46.920Z
 authors:
   - kattekrab
 area: foundation-culture-and-collaboration
+tags:
+  - foundation
+  - culture
 perspectives:
   - ''
 people: 4+

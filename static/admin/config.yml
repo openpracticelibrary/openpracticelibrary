@@ -1,8 +1,10 @@
 # local_backend: true
 backend:
   name: git-gateway
-  repo: openpracticelibrary/openpracticelibrary
-  branch: staging
+
+local_backend: true
+#  repo: openpracticelibrary/openpracticelibrary
+#  branch: staging
 
 
 
@@ -13,13 +15,21 @@ collections:
   - name: "practice" # Used in routes, e.g., /admin/collections/blog
     label: "Practice" # Used in the UI
     publish: false
-    folder: "content/practice" # The path to the folder where the documents are stored
+    folder: "src/pages/practice" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title of practice", hint: "The name of the practice", name: "title", widget: "string"}
-      - {label: "Subtitle", hint: "Catchy one liner for the article", name: "subtitle", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - label: "Title of practice"
+        hint: "The name of the practice"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        hint: "Catchy one liner for the article"
+        name: "subtitle"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
       - {label: "Authors", hint: "Comma-separated list of github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
       - {label: "Area of the Library Loop", hint: "Choose the position on the Library Loop where your practice lives", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "discovery-loop-why"},
@@ -29,8 +39,44 @@ collections:
           {label: "Delivery - Measure & Learn", value: "delivery-measure-and-learn"},
           {label: "Foundation - Culture & Collaboration", value: "foundation-culture-and-collaboration"},
           {label: "Foundation - Technical",  value: "foundation-technical"}]}
+      - label: "Tags"
+        hint: "Where does this practice live on the Library Loop?"
+        name: tags
+        widget: "select"
+        multiple: true
+        max: 3
+        options: 
+          - label: "Discovery"
+            value: "discovery"
+          - label: "Delivery"
+            value: "delivery"
+          - label: "Foundation"
+            value: "foundation"
+          - label: "Options"
+            value: "options"
+          - label: "Validate (Discovery Loop)"
+            value: "validate"
+          - label: "Value (Discovery Loop)"
+            value: "value"
+          - label: "Culture (Foundation)"
+            value: "culture"
+          - label: "Methods (Foundation)"
+            value: "methods"
+          - label: "Ideate (Options Pivot)"
+            value: "ideate"
+          - label: "Insight (Options Pivot)"
+            value: "insight"
+          - label: "Measure (Delivery Loop)"
+            value: "measure"
+          - label: "Learn (Delivery Pivot)"
+            value: "learn"
       - {label: "Related Perspectives", hint: "Comma-separated list of slugs e.g., domain-driven-design, product-ownership", name: "perspectives", widget: "list", default: [], required: false,  pattern: ["^[a-z0-9-,]+$", "Must contain lower case and dash"]}
-      - {label: "Tile icon", name: "icon", hint: "Icon to be used on the home screen and cards for the practice", widget: "image", required: false}
+      - label: "Cover Image"
+        name: "icon"
+        hint: "Image to be used on the home screen and cards for the practice"
+        widget: "image"
+        required: true
+        default: "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true"
       - {label: "Jumbotron image", hint: "Large full width image for under the titles", name: "jumbotron", widget: "image", required: false}
       - {label: "Jumbotron alt text", hint: "Accessible description of the image for screen readers", name: "jumbotronAlt", widget: "string", required: false}
       - {label: "No. of people required", hint: "How many people are needed for the practice eg 2+ or 10", name: "people", widget: "string", required: false}
@@ -40,11 +86,49 @@ collections:
           {label: "Moderate", value: "moderate"},
           {label: "Hard", value: "hard"}]}
       - {label: "Expected participants", hint: "Who should attend when running this practice? eg., The Team, The Product Owner, BAs", name: "participants", required: false, widget: "list", default: []}
+      - label: 'What is this practice?'
+        name: 'whatIs'
+        widget: 'markdown'
+      - label: 'Why do this practice?'
+        name: 'whyDo'
+        widget: 'markdown'
+      - label: 'How do I execute this practice?'
+        name: 'howTo'
+        widget: 'markdown'
+      - label: 'Media Gallery'
+        name: 'mediaGallery'
+        widget: "list"
+        field:
+          label: "Media Link"
+          name: link
+          widget: string
+      - label: 'Links we love'
+        name: 'resources'
+        widget: "list"
+        fields:
+          - label: "Link"
+            name: link
+            widget: string
+          - label: "Link Type"
+            name: "linkType"
+            widget: "select"
+            options:
+              - label: "web"
+                value: "web"
+              - label: "purchase"
+                value: "purchase"
+              - label: "podcast"
+                value: "podcast"
+              - label: "video"
+                value: "video"
+          - label: "Description"
+            name: "description"
+            widget: "string"
       - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"}
   - name: "perspective" # Used in routes, e.g., /admin/collections/blog
     label: "Perspective" # Used in the UI
     publish: false
-    folder: "content/perspective" # The path to the folder where the documents are stored
+    folder: "src/pages/perspective" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -58,7 +142,7 @@ collections:
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     publish: false
-    folder: "content/page" # The path to the folder where the documents are stored
+    folder: "src/pages/page" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -75,7 +159,7 @@ collections:
     format: "json"
     publish: false
     extension: "json"
-    folder: "data/content/author" # The path to the folder where the documents are stored
+    folder: "src/data/author" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

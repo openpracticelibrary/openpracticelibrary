@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Test automation
 subtitle: Shortening the feedback loop and increasing the quality of code.
 date: 2018-09-04T15:33:52.049Z

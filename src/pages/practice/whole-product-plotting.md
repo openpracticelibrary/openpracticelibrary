@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Whole Product Plotting
 subtitle: Prioritization of features
 date: 2018-11-08T15:09:19.857Z
