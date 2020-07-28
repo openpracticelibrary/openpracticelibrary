@@ -39,7 +39,7 @@ export default function ContributedBy(props) {
               {contributors && contributors.map((author, i) => (
                 <PhotoAndName
                   key={i}
-                  authorName={author}
+                  authorName={author.title}
                 />
               ))}
             </Box>
