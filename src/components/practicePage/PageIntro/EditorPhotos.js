@@ -7,10 +7,10 @@ import { UserIcon } from "../../../assets/icons";
 
 const EditorPhotos = props => (
   <AvatarGroup max={3}>
-    {props.editors.map(editor => (
+    {props.editors.map((editor, i) => (
       <OplAvatar
-        key={editor}
-        src={editor.Avatar}
+        key={i}
+        src={`https://github.com/${editor.github}.png`}
         height={props.theme.spacing(3)}
         width={props.theme.spacing(3)}
         bgcolor="transparent"

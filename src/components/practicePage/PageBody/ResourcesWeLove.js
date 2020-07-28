@@ -1,6 +1,5 @@
 import React from "react";
 import { Typography, Box, Button } from "@material-ui/core";
-import ResourceAddLink from "./ResourceAddLink";
 import ResourceListItem from "./ResourceListItem";
 import { makeStyles } from "@material-ui/core/styles/index";
 import { DownloadIcon, PodcastIcon, WebLinkIcon } from "../../../assets/icons";
@@ -108,8 +107,6 @@ export default function ResourcesWeLove(props) {
 
         <Box className={classes.indent}>
           {resourceLinkList()}
-          <ResourceAddLink practiceId={props.practiceId} prevResources={props.links} linkTypes={linkTypes}>
-          </ResourceAddLink>
         </Box>
       </Box>
     </>

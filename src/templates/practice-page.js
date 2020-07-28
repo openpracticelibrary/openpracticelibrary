@@ -30,6 +30,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         authors {
           title
+          github
         }
         area
         tags

@@ -87,6 +87,9 @@ export const pageQuery = graphql`
             subtitle
             tags
             icon
+            mediaGallery {
+              link
+            }
           }
         }
       }

@@ -30,6 +30,7 @@ const PracticeCardGrid = props => {
           tags={practice.node.frontmatter.tags}
           slug={practice.node.fields.slug}
           subtitle={practice.node.frontmatter.subtitle}
+          mediaGallery={practice.node.frontmatter.mediaGallery ? practice.node.frontmatter.mediaGallery.length : 0}
         />
       ))}
     </Grid>

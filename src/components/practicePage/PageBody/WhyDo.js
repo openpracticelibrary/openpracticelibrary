@@ -13,6 +13,8 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
+const Image = (props) => <img {...props} style={{maxWidth: "100%"}} />
+
 export default function WhyDo(props) {
   const classes = useStyles();
 
@@ -29,7 +31,7 @@ export default function WhyDo(props) {
             props.children
             :
             <Typography component={'span'}>
-              <ReactMarkdown source={props.source} />
+              <ReactMarkdown source={props.source} renderers={{ image: Image }} />
             </Typography>
           }
         </Box>

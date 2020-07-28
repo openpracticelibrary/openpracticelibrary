@@ -5,6 +5,7 @@ import EditorPhotos from "./EditorPhotos";
 import { Typography, Grid, Box } from '@material-ui/core';
 
 export default function ContributedBy(props) {
+  console.log(props);
   const formatDate = (date) => {
     return moment(date).format("MMMM D, YYYY");
   };
@@ -40,6 +41,7 @@ export default function ContributedBy(props) {
                 <PhotoAndName
                   key={i}
                   authorName={author.title}
+                  avatar={`https://github.com/${author.github}.png`}
                 />
               ))}
             </Box>
