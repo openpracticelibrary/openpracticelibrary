@@ -17,8 +17,8 @@ const PhotoAndName = (props) => (
   >
     <OplAvatar
       src={props.avatar}
-      width={props.theme.spacing(3)}
-      height={props.theme.spacing(3)}
+      width={props.theme.spacing(4)}
+      height={props.theme.spacing(4)}
       bgcolor="transparent"
     >
       <UserIcon />

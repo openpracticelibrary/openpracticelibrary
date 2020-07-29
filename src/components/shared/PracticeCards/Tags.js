@@ -39,9 +39,9 @@ const Tags = (props) => {
   if (!props.tags) { return <TagBox>#sampleTag</TagBox>; }
   const tagsLength = props.tags.length;
   let initialTags = props.tags;
-  if (tagsLength > 3) {
-    initialTags = initialTags.slice(0, 3);
-    const extraTags = props.tags.slice(3, props.tags.length);
+  if (tagsLength > 2) {
+    initialTags = initialTags.slice(0, 2);
+    const extraTags = props.tags.slice(2, props.tags.length);
     if (props.isHovered) {
       return (
         <TagContainer>

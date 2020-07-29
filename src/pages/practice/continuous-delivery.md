@@ -1,20 +1,51 @@
 ---
-title: Continuous Delivery
 subtitle: Automated testing and releasing of software.
+participants:
+  - Team members
+resources:
+  - link: https://jenkins.io/
+    linkType: web
+    description: Jenkins
+  - link: https://openpracticelibrary.com/practice/continuous-deployment/
+    linkType: web
+    description: Continuous Deployment
+  - link: https://en.wikipedia.org/wiki/Continuous_delivery
+    linkType: web
+    description: Wikipedia definition of Continuous delivery
+templateKey: practice-page
+title: Continuous Delivery
 date: 2018-09-04T06:44:12.545Z
 authors:
   - syvanen
   - Zenigata
 area: foundation-technical
+tags:
+  - foundation
 perspectives:
   - ""
-icon: /images/final_continuous-delivery.png
+icon: /images/continuous-delivery.png
 people: 1+
 time: Minutes
 difficulty: moderate
-participants:
-  - Team members
-templateKey: practice-page
+whatIs: Continuous Delivery (CD) is an engineering practice where each change
+  could be a potential release ready for production. This practice builds on top
+  of the Continuous Integration practice as its starting point and adds to the
+  end a step that releases artifacts for anyone to use. These artifacts could be
+  software packages, container images or virtual machine images.
+whyDo: >-
+  * Automation reduces the manual work required to do the release, such as
+  publishing the artifact to required locations for deployment and releasing of
+  change notes that can now be taken from version control commit messages.
+
+  * Faster feedback cycles from customers as each change to software can be deployed to production.
+
+  * Happier operations as released software is tested to be ready for production deployment.
+
+  * Readiness to do push button deployments. This can also be taken to the next level which is [Continuous Deployment](https://openpracticelibrary.com/practice/continuous-deployment/).
+howTo: This practice typically requires automation that is run on a server such
+  as [Jenkins](https://jenkins.io/).
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous%20delivery.png?raw=true
 ---
 ## What is it?
 

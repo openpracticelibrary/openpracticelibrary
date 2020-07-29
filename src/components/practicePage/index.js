@@ -81,8 +81,7 @@ const PracticePage = ({ data }) => {
         bg={background}
       >
         <LoginButton
-          navigate={navigate}
-          redirect={`/practice/${data.slug}`}
+          practiceTitle={title.replace(/\s+/g, '-').toLowerCase()}
         />
         <Container maxWidth="md">
           <Box display="flex" flexDirection="row" justifyContent="center" alignItems="baseline">

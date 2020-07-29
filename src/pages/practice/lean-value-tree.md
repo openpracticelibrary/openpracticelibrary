@@ -6,6 +6,8 @@ date: 2020-07-07T09:00:01.000Z
 authors:
   - FranciscoMezaGuzman
   - trncb
+  - springdo
+  - tdbeattie
 area: discovery-loop-why
 perspectives:
   - product-ownership

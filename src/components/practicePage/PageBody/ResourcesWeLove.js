@@ -101,7 +101,7 @@ export default function ResourcesWeLove(props) {
             <b>Links we love</b>
           </Typography>
           <Typography>
-            Check out these great links which can help you dive a little deeper into running an event storming workshop with your team, customers or stakeholders.
+            Check out these great links which can help you dive a little deeper into running the {props.practiceTitle} practice with your team, customers or stakeholders.
           </Typography>
         </Box>
 

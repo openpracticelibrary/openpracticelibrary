@@ -11,8 +11,8 @@ const EditorPhotos = props => (
       <OplAvatar
         key={i}
         src={`https://github.com/${editor.github}.png`}
-        height={props.theme.spacing(3)}
-        width={props.theme.spacing(3)}
+        height={props.theme.spacing(4)}
+        width={props.theme.spacing(4)}
         bgcolor="transparent"
       >
         <UserIcon />

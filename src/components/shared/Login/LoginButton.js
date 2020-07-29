@@ -10,9 +10,10 @@ const Login = (props) => {
         data-testid="loginButton"
         variant="contained"
         bg={theme.palette.primary.light}
-        onClick={() => window.location.href = `${window.location.origin}/admin/`}
+        color="primary"
+        onClick={() => window.location.href = `${window.location.origin}/admin/#/collections/practice/entries/${props.practiceTitle}`}
       >
-        Login
+        Improve this practice!
       </OplButton>
   );
 }

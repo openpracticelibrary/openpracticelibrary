@@ -4,17 +4,14 @@ import { graphql } from "gatsby";
 import OplDrawer from "../components/shared/Drawer";
 import PracticePage from "../components/practicePage";
 
-const PracticePageWithData = (props) => {
-
-  return (
-    <OplDrawer>
-    <PracticePage
-      data={props.data}
-      {...props}
-    />
-        </OplDrawer>
-  );
-};
+const PracticePageWithData = (props) => (
+  <OplDrawer>
+  <PracticePage
+    data={props.data}
+    {...props}
+  />
+      </OplDrawer>
+);
 
 export default PracticePageWithData;
 

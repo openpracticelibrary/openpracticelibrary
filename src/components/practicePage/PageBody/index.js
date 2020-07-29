@@ -66,14 +66,17 @@ export default function PageBody(props) {
           >
             {howToEditor}
           </HowDo>
-          { mediaGallery && <MediaGallery
-            practiceId={practiceId}
-            title={title}
-            mediaGallery={mediaGallery}
-            mediaRef={mediaRef}
-          />}
+          { mediaGallery &&
+            <MediaGallery
+              practiceId={practiceId}
+              title={title}
+              mediaGallery={mediaGallery}
+              mediaRef={mediaRef}
+            />
+          }
           { resources &&
             <ResourcesWeLove
+              practiceTitle={title}
               practiceId={practiceId}
               links={resources}
               resourceRef={resourceRef}

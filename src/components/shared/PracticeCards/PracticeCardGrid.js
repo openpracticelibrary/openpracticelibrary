@@ -20,7 +20,7 @@ const PracticeCardGrid = props => {
   }
   console.log('data - ', props);
   return (
-    <Grid container data-testid="practicecardgrid">
+    <Grid container data-testid="practicecardgrid" justify="center">
       {props.practices.map(practice => (
         <PracticeCard
           key={practice.node.id}

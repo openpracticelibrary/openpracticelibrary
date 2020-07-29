@@ -65,7 +65,7 @@ const PracticesWithData = (props) => {
       <Practices {...props} {...dataProps}>
         <PracticeCardGrid
           practices={edges}
-        />}
+        />
       </Practices>
     </OplDrawer>
   );
