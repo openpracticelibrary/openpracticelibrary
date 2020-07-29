@@ -7,7 +7,7 @@ date: 2018-09-09T11:16:56.080Z
 authors:
   - tdbeattie
   - valyonchev
-  - DarcieF
+  - darcief
 area: discovery-loop-why
 icon: /images/final_empathy-mapping.png
 jumbotron: /images/empathymap-brainstorm.jpg

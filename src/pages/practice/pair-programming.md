@@ -9,7 +9,7 @@ authors:
   - mabulgu
   - hsavolai
   - mvmaestri
-  - Ilaria66
+  - ilaria66
   - jonathanjohnston
 area: foundation-culture-and-collaboration
 tags:

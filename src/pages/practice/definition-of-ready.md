@@ -6,7 +6,7 @@ subtitle: >-
 date: '2018-08-15T23:38:19-04:00'
 authors:
   - mtakane
-  - Ilaria66
+  - ilaria66
 area: foundation-culture-and-collaboration
 perspectives:
   - facilitation-tips-for-remote-sessions
