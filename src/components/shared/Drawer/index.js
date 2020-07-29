@@ -5,68 +5,69 @@ import MenuIcon from "@material-ui/icons/Menu";
 import { BottomListItems, TopListItems } from "./ListItems";
 import Footer from "./Footer";
 import { Drawer, IconButton, Box, Typography } from "@material-ui/core";
+import Logo from "../../../components/shared/Logo";
 
 const drawerWidth = "18.75rem";
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   root: {
-    display: "flex"
+    display: "flex",
   },
   paddedLogo: {
-    paddingTop: theme.spacing(2)
+    paddingTop: theme.spacing(2),
   },
   paddedHamburger: {
     marginLeft: 20,
-    color: theme.palette.primary.main
+    color: theme.palette.primary.main,
   },
   box: {
     zIndex: theme.zIndex.drawer + 1,
     transition: theme.transitions.create(["width", "margin"], {
       easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.leavingScreen
-    })
+      duration: theme.transitions.duration.leavingScreen,
+    }),
   },
   boxShift: {
     marginLeft: drawerWidth,
     width: `calc(100% - ${drawerWidth})`,
     transition: theme.transitions.create(["width", "margin"], {
       easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.enteringScreen
-    })
+      duration: theme.transitions.duration.enteringScreen,
+    }),
   },
   menuButton: {
-    marginRight: 36
+    marginRight: 36,
   },
   hide: {
-    display: "none"
+    display: "none",
   },
   drawer: {
     width: drawerWidth,
     flexShrink: 0,
-    whiteSpace: "nowrap"
+    whiteSpace: "nowrap",
   },
   drawerOpen: {
     width: drawerWidth,
     height: "100%",
     transition: theme.transitions.create("width", {
       easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.enteringScreen
+      duration: theme.transitions.duration.enteringScreen,
     }),
     backgroundColor: theme.palette.common.white,
     "&::-webkit-scrollbar": {
-      display: "none"
-    }
+      display: "none",
+    },
   },
   drawerClose: {
     transition: theme.transitions.create("width", {
       easing: theme.transitions.easing.sharp,
-      duration: theme.transitions.duration.leavingScreen
+      duration: theme.transitions.duration.leavingScreen,
     }),
     overflowX: "hidden",
     width: theme.spacing(7) + 1,
     [theme.breakpoints.up("sm")]: {
-      width: theme.spacing(8) + 1
+      width: theme.spacing(8) + 1,
     },
-    backgroundColor: theme.palette.common.white
+    backgroundColor: theme.palette.common.white,
   },
   toolbar: {
     display: "flex",
@@ -75,13 +76,13 @@ const useStyles = makeStyles(theme => ({
     padding: theme.spacing(0, 1),
     paddingTop: theme.spacing(2),
     // necessary for content to be below app bar
-    ...theme.mixins.toolbar
-  }
+    ...theme.mixins.toolbar,
+  },
 }));
 
 export default function OPLDrawer(props) {
   const classes = useStyles();
-  const [ open, toggle ] = useReducer(drawerOpen => !drawerOpen, false);
+  const [open, toggle] = useReducer((drawerOpen) => !drawerOpen, false);
 
   return (
     <div className={classes.root}>
@@ -89,23 +90,21 @@ export default function OPLDrawer(props) {
         variant="permanent"
         className={clsx(classes.drawer, {
           [classes.drawerOpen]: open,
-          [classes.drawerClose]: !open
+          [classes.drawerClose]: !open,
         })}
         classes={{
           paper: clsx({
             [classes.drawerOpen]: open,
-            [classes.drawerClose]: !open
-          })
+            [classes.drawerClose]: !open,
+          }),
         }}
         PaperProps={{
-          elevation: 5
+          elevation: 5,
         }}
         data-testid="drawer"
       >
         <div className={classes.toolbar}>
-          <Typography variant="h6" color="primary">
-            Open Practice Library
-          </Typography>
+          <Logo small horizontal />
           <IconButton
             onClick={toggle}
             className={clsx(classes.paddedHamburger)}
