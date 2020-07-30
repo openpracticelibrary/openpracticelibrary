@@ -3,7 +3,7 @@ title: Facilitation Tips for Remote Sessions
 subtitle: Practical tips on how to make your workshop successful with distributed people
 date: "2020-04-07T14:22:47.193Z"
 authors:
-  - Ilaria66
+  - ilaria66
   - mvmaestri
   - jonathanjohnston
 jumbotron: ""

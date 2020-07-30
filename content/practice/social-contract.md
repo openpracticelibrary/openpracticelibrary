@@ -8,7 +8,7 @@ authors:
   - rdebeasi
   - springdo
   - infosec812
-  - Ilaria66
+  - ilaria66
 area: foundation-culture-and-collaboration
 perspectives:
   - facilitation-tips-for-remote-sessions

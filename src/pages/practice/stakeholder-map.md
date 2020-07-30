@@ -4,7 +4,7 @@ title: Stakeholder Map
 subtitle: Create a stakeholders map to build a communication plan
 date: 2020-04-22T08:46:30.778Z
 authors:
-  - Ilaria66
+  - ilaria66
   - jonathanjohnston
 area: discovery-loop-why
 perspectives:

@@ -9,7 +9,7 @@ authors:
   - jonathanjohnston
   - mvmaestri
   - noelo
-  - Ilaria66
+  - ilaria66
 area: delivery-measure-and-learn
 icon: /images/final_showcase.png
 people: 2+

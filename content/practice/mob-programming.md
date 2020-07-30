@@ -6,7 +6,7 @@ authors:
   - sammarland-rh
   - syvanen
   - jonathanjohnston
-  - Ilaria66
+  - ilaria66
   - mvmaestri
 area: foundation-culture-and-collaboration
 perspectives:
