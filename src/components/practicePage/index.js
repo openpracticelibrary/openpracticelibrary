@@ -32,7 +32,7 @@ const PracticePage = ({ data }) => {
       rawMarkdownBody,
     }
   } = data;
-
+  const practiceSlug = slug.split('practice/')[1];
   // Styles
   const background = backgroundImage(tags);
 
@@ -84,7 +84,7 @@ const PracticePage = ({ data }) => {
         bg={background}
       >
         <LoginButton
-          practiceTitle={slug.split('practice/')[1].replace(/\/$/, "")}
+          practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
         />
         <Container maxWidth="md">
           <Box display="flex" flexDirection="row" justifyContent="center" alignItems="baseline">
