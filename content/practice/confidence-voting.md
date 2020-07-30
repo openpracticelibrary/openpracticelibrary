@@ -10,7 +10,7 @@ authors:
   - ""
 area: foundation-culture-and-collaboration
 people: 5+
-time: 5 minutes
+time: 1 minute
 difficulty: easy
 participants:
   - Anybody
