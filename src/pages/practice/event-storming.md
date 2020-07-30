@@ -10,6 +10,9 @@ authors:
   - sandraarps
   - adamclark
 area: discovery-loop-outcomes
+tags:
+  - discovery
+  - value
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
@@ -29,9 +32,108 @@ participants:
   - Security
   - Operations / Infrastructure
 templateKey: practice-page
-tags:
-  - discovery
-  - outcomes
+whatIs: >-
+  Event Storming is a rapid, interactive approach to business process discovery and design that yields high quality models. It was introduced in a blog by Alberto Brandolini in 2013. At the end of the event storm, you should have:
+
+  * A shared understanding of the business process you are building as part of the project, including:
+
+    * which steps should be considered in scope and which steps are out of scope
+
+    * the users involved in the process
+
+    * an initial inventory of UI screens for the process
+
+    * an initial inventory of Aggregates
+
+  * A physical diagram with the above information, which can be transferred to a digital format
+
+
+  **Learn more by listening to the [Open Practice Podcast episode](https://anchor.fm/openpracticelibrary/embed/episodes/Event-Storming-w-Patrick-Carney-eamad6/a-a1e5659)!** 🎙️🌠
+whyDo: >-
+  * It is significantly faster, and a heck of a lot more fun, than traditional process modeling techniques. You'll be surprised how much you accomplish in a short period
+
+  * It establishes a common and shared language between Business & IT
+
+  * It sets focus in terms of scope and boundaries
+
+  * The technique is iterative, which allows facilitators to:
+
+    * slowly adding more detail in each session as to not overwhelm participants.
+
+    * pick and choose participants by session
+
+    * provide cognitive breaks (participants will get tired)
+
+  * It forces important questions about the customer journey early in the ideation process
+
+  * It gives you the big picture of the solution by placing technical implementation details in context of the business process
+
+  * It is particularly effective way to kick start Domain Driven Design
+howTo: >-
+  * Business Team maps out the Business Process from a Users perspective 
+
+  * The Best way is to start with the 'happy scenario', where the User successful reaches their goal (eg Student buys movie tickets online) 
+
+  * In addition, the Business Team identifies which data is required in order to make the business flow successful (eg Movie Name, Session Time, Student discounted price) 
+
+  * Once the Business Process has been defined, the IT team will join to provide additional information in forms of Events, Data and User Interfaces. This will establish a shared understanding of what is required 
+
+  * The architect will start grouping common objects in order to define the microservices to be developed
+mediaGallery:
+- link: https://youtu.be/N8fxzeZh4Kc
+- link: https://openpracticelibrary.github.io/opl-media/images/eventstorm.jpeg
+- link: https://openpracticelibrary.github.io/opl-media/images/eventstorm-key.jpg
+resources:
+- link: http://ziobrando.blogspot.com/2013/11/introducing-event-storming.html
+  linkType: web
+  description: Alberto Brandolini's Original Blog
+- link: https://martinfowler.com/bliki/DDD_Aggregate.html
+  linkType: web
+  description: Aggregates as Defined by Martin Fowler
+- link: https://anchor.fm/openpracticelibrary/embed/episodes/Event-Storming-w-Patrick-Carney-eamad6/a-a1e5659
+  linkType: podcast
+  description: Event Storming with Patrick Carney
+- link: https://www.youtube.com/watch?v=m6h_ppEDPrU
+  linkType: video
+  description: Red Hat Summit 2017 Session
+- link: https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
+  linkType: web
+  description: Blog Explaining How Event Storming, DDD and Reactive Systems Relate
+- link: https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420
+  linkType: web
+  description: Vaughn Vernon's Domain Driven Design Distilled (Chapter 7)
+- link: http://www.designkit.org/methods/63
+  linkType: web
+  description: Journey Mapping by Design Kit
+- link: https://methods.18f.gov/decide/site-mapping/
+  linkType: web
+  description: Site Mapping by 18f
+- link: https://methods.18f.gov/make/wireframing/
+  linkType: web
+  description: Wireframing by 18f
+- link: http://www.ikea.com/us/en/catalog/products/80324072/
+  linkType: purchase
+  description: Drawing Paper Example
+- link: https://www.amazon.com/Post-Sticky-Janeiro-Collection-4621-SSAU/dp/B001UXFT70
+  linkType: purchase
+  description: 4x6 Sticky Notes
+- link: https://www.amazon.com/dp/B01N1UE0JY?psc=1
+  linkType: purchase
+  description: 3x3 Sticky Notes
+- link: http://eventstorming.com/
+  linkType: book
+  description: Alberto Brandolini's Book
+- link: https://www.youtube.com/watch?v=1i6QYvYhlYQ
+  linkType: video
+  description: Alberto Brandolini's 50,000 Orange Stickies Later from Explore DDD
+    2017
+- link: https://www.linkedin.com/pulse/using-event-storming-practice-heritage-bank-sandra-arps/
+  linkType: web
+  description: Using 'Event Storming Practice' @ Heritage Bank (Red Hat Open Innovation
+    Labs)
+- link: https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d
+  linkType: web
+  description: A Facilitator's Recipe for Event Storming
 ---
 ## What is Event Storming?
 

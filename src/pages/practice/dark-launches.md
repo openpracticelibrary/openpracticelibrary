@@ -1,21 +1,74 @@
 ---
-title: Dark Launches
 subtitle: Letting a small group of interested users test features before others
+participants:
+  - Product Owner
+  - DevOps Team
+resources:
+  - link: https://blog.leaseweb.com/2017/11/17/dark-launching/
+    linkType: web
+    description: "Dark Launching: A Way to Test New Features Before Going Live"
+  - link: https://openpracticelibrary.com/practice/split-testing-a-b-testing/
+    linkType: web
+    description: Split Testing A B Testing
+  - link: https://openpracticelibrary.com/practice/canary-release/
+    linkType: web
+    description: Canary Release
+  - link: https://openpracticelibrary.com/practice/blue-green-deployments/
+    linkType: web
+    description: Blue Green Deployments
+  - link: https://openpracticelibrary.com/practice/continuous-delivery/
+    linkType: web
+    description: Continuous Delivery
+templateKey: practice-page
+title: Dark Launches
 date: 2018-12-18T18:54:44.225Z
 authors:
   - valyonchev
 area: delivery-measure-and-learn
+tags:
+  - delivery
 perspectives:
   - product-ownership
-icon: /images/ben-white-178537-unsplash.jpg
+icon: /images/dark-launches-2.jpg
 jumbotron: /images/ben-white-178537-unsplash.jpg
 people: 2+
 time: 2-10 weeks
 difficulty: moderate
-participants:
-  - Product Owner
-  - DevOps Team
-templateKey: practice-page
+whatIs: >-
+  A continuous delivery practice, which allows you to release new features only
+  to a group of users and invisible to others. The Dark Launch enables the team
+  to understand the real life impact of new features, which may be unexpected
+  for users in the sense that no users asked for them. These type of release
+  allows the team to only expose a part of the user population to the new
+  feature and carefully observe and measure the user interaction. It is one of
+  the last steps for validating a product/market fit for new features.
+
+  Dark launching is a quick and easy way to present new features to your end users and then capture their behaviors and feedback. Rather than launch the features to your entire group of users at once, this method allows you to test the waters to make sure your application works as planned before you go live.
+whyDo: >-
+  This is a feedback loop practice, which allows the team to get prompt feedback
+  from real life use of their changes.
+
+  The Dark Launch provides safety by limiting the impact of new features to only a subset of the users. It allows the team to build better understanding of the impact created by the new feature and the ways the users would interact with it. Often novel ways of interaction can surface, ways which were not initially envisioned by the team. This can be both positive and negative and the limited availability allows the team to draw conclusions from the real life use and make a decision on if the feature will be made widely available, further developed or discontinued.
+howTo: >-
+  The biggest risk to consider before going live is how your users will react to
+  and navigate through your application. Before you launch, ask yourself three
+  questions: 
+
+  * Are your users able to find the new feature? * Are they aware of the change? * Do they even need to know about it?
+
+  Once you’ve answered these questions and decided it’s time to go live, it should be a walk in the park — assuming all your findings during the first steps were positive. In most cases, all you have to do to go live is simply disable the old functionality of the feature you wrote. This can either be done by removing the old code or by disabling it in the configuration.
+
+  After you’ve gone live, monitor the behavioral changes of your application and your users to see whether the deployment was a success. If everything is going well, give yourself a pat on the back! Most of the time, though, it’s not quite that simple. You’re never 100 percent positive the application is working correctly, so you’ll want to keep the old code available or running for a few days or weeks to ensure there are no bugs that pop up.
+
+  ### Related Practices
+
+  Feature toggles are an enabling practice, which allows for Dark Launches to be implemented in existing products. 
+
+  Dark Launch is similar to [A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/) in the sense that it is only exposing a part of the population to the new feature, but unlike [A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/), the new feature can and is typically a completely new feature and not just a small tweak of an existing one. The purpose is different too as [A/B Testing](https://openpracticelibrary.com/practice/split-testing-a-b-testing/) is looking to improve the product performance in terms of getting business outcomes from an existing feature, while the Dark Launch is often exploring the possibility to extend the market by adding new features.
+
+  Dark Launch is similar to the [Canary Release](https://openpracticelibrary.com/practice/canary-release/) as they both expose only part of the population to a feature. The Dark Launch is focused on understanding the way users will react and use the new feature, while [Canary Release](https://openpracticelibrary.com/practice/canary-release/) is really focused on the technical performance of the changed product or the individual feature (if using it can be isolated in the architecture).
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/dark%20launches%202.jpg?raw=true
 ---
 ## What is it?
 
