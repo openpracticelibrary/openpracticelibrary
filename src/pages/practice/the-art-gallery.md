@@ -12,11 +12,11 @@ jumbotron: /images/abstract-art-artist-820673.jpg
 people: 2+
 time: Ad Hoc
 difficulty: easy
+participants:
+  - Everyone!
 tags:
   - foundation
   - culture
-participants:
-  - Everyone!
 whatIs: >-
   This is a place to capture the various doodles that a Team might draw throughout their time together. Show off the idea that lots of people have creativity with this simple practice!
 whyDo: >-
