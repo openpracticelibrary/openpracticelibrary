@@ -1,5 +1,5 @@
 ---
-title: Confidence Voting
+title: Confidence Voting / Fist of Five
 subtitle: Gains consensus quickly around a team's agreement or disagreement on
   the current activity, event or questions
 date: 2018-08-10T12:25:16+01:00
