@@ -2,21 +2,20 @@ import React from "react";
 import { ArrowDownward } from "@material-ui/icons";
 import HeroImage from "../../assets/images/hero.jpg";
 import { Box, Button, Typography } from "@material-ui/core";
+import Logo from "../../components/shared/Logo";
 
 const Hero = ({ navigate, scrollTo }) => {
   const scrollDown = () => {
     scrollTo.current.scrollIntoView({
       behavior: "smooth",
-      block: "start"
+      block: "start",
     });
   };
 
   return (
     <>
       <Box position="absolute" top="2rem" left="2rem" color="common.white">
-        <Typography variant="h6" color="inherit">
-          Open Practice Library
-        </Typography>
+        <Logo color="common.white" />
       </Box>
       <Box
         display="flex"
@@ -32,7 +31,7 @@ const Hero = ({ navigate, scrollTo }) => {
           ), url(${HeroImage})`,
           backgroundSize: "cover",
           backgroundRepeat: "none",
-          backgroundPosition: "center"
+          backgroundPosition: "center",
         }}
       >
         <Box mx={8} color="common.white" textAlign="center" width="100%">
