@@ -14,6 +14,9 @@ const PracticePage = ({ data }) => {
   const {
     markdownRemark: {
       id: practiceId,
+      fields: {
+        slug,
+      },
       frontmatter: {
         title,
         subtitle,
@@ -81,7 +84,7 @@ const PracticePage = ({ data }) => {
         bg={background}
       >
         <LoginButton
-          practiceTitle={title.replace(/\s+/g, '-').toLowerCase()}
+          practiceTitle={slug.split('practice/')[1].replace(/\/$/, "")}
         />
         <Container maxWidth="md">
           <Box display="flex" flexDirection="row" justifyContent="center" alignItems="baseline">

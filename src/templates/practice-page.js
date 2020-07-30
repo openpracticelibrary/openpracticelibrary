@@ -21,6 +21,9 @@ export const pageQuery = graphql`
       id
       html
       rawMarkdownBody
+      fields {
+        slug
+      }
       frontmatter {
         title
         subtitle

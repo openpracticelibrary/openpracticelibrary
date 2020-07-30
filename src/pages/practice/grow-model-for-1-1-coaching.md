@@ -6,8 +6,11 @@ subtitle: >-
   to structure your coaching interaction.
 date: 2020-02-23T17:34:54.362Z
 authors:
-  - shabnoor shah
+  - shabshah
 area: foundation-culture-and-collaboration
+tags:
+  - foundation
+  - culture
 perspectives:
   - the-open-organization-definition
 icon: ''
@@ -23,6 +26,41 @@ participants:
   - mindset
   - ways of working etc
 templateKey: practice-page
+whatIs: >-
+  As per International Coach Federation (ICF)  (Professional) coaching is an ongoing professional relationship that helps people produce extraordinary results in their lives, careers, businesses or organizations. Through the process of coaching, clients deepen their learning, improve their performance, and enhance their quality of life.
+
+  GROW is a framework created and evolved by Sir John Whitmore for structuring your coaching conversations
+whyDo: >-
+  GROW coaching model helps manage time effectively by providing a structure for a focussed coaching conversation. It is an effective model to hold coaching conversations to help "coachee" solve  problems, set goals and  improve performance. 
+howTo: >-
+  While coaching is a specialised competency you don't have to wait to become a certified coach to help your direct reports, project members, peers etc to improve their performance, skills, attitudes or behaviors. 
+
+  GROW is an acronym for:
+
+  G - Goals , objectives, desires or aspirations
+
+  R - Reality - current situation, challenges, roadblocks, efforts taken, people involved etc
+
+  O- Options, Opportunities, possibilities, available resources, influencers
+
+  W - Way forward, will , actions, commitment and accountability
+
+  Remember as Coach you must be skilled at the following :
+
+  * Building Trust and psychological safety
+
+  * Listening actively
+
+  * Asking effective questions
+
+  * Suspending judgement
+resources:
+- link: https://www.performanceconsultants.com/grow-model
+  linkType: web
+  description: Performance Consultants Grow Model
+- link: https://coachfederation.org/core-competencies
+  linkType: web
+  description: Core Competencies from Coach Federation
 ---
 ## What is it?
 
