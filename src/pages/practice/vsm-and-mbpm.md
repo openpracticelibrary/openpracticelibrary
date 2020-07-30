@@ -15,6 +15,9 @@ jumbotronAlt: Example MBPM
 people: <10
 time: 2 - 3 Days
 difficulty: hard
+tags:
+  - foundation
+  - methods
 participants:
   - BAs
   - Directors

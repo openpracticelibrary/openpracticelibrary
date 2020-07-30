@@ -12,6 +12,9 @@ jumbotronAlt: "Two people placing sticky notes under plus, minus, and question m
 people: 2+
 time: 30 minutes
 difficulty: moderate
+tags:
+  - validate
+  - delivery
 participants:
   - The Team
 whatIs: >-

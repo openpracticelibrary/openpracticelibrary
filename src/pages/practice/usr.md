@@ -7,6 +7,9 @@ authors:
   - kelaird
 area: foundation-culture-and-collaboration
 perspectives: []
+tags:
+  - foundation
+  - culture
 icon: /images/usr-small.png
 jumbotron: /images/USR.JPG
 people: 4+

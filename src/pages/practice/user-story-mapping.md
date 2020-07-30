@@ -9,6 +9,9 @@ authors:
   - mtakane
   - rdebeasi
 area: discovery-loop-outcomes
+tags:
+  - options
+  - insight
 perspectives:
   - facilitation-tips-for-remote-sessions
 icon: /images/final_value-slicing.png

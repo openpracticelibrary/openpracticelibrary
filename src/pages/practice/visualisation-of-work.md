@@ -9,6 +9,9 @@ authors:
 area: foundation-culture-and-collaboration
 icon: /images/final_visualization-of-work.png
 jumbotron: /images/visualisation-of-work.png
+tags:
+  - foundation
+  - culture
 whatIs: >-
   This practice involves radiating and visually representing all aspects of work. Information that is useful to team members, stakeholders and users is physically presented on walls, windows, doors and other flat surfaces and positioned in the line of sight of those people who will get value from consuming the information.
 

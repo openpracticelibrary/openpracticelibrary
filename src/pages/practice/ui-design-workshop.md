@@ -14,6 +14,8 @@ jumbotronAlt: Whiteboard with UI sketches
 people: 2+
 time: 30 min - 1 hour
 difficulty: moderate
+tags:
+  - delivery
 participants:
   - The Team
 whatIs: >-

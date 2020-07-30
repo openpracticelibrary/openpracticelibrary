@@ -12,6 +12,9 @@ jumbotron: /images/img_4285.jpg
 people: 1+
 time: 30 min
 difficulty: easy
+tags:
+  - foundation
+  - culture
 participants:
   - The Team
 whatIs: >-

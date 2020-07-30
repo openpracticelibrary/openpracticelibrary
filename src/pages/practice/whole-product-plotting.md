@@ -14,6 +14,9 @@ jumbotronAlt: Whole Product Plot
 people: 2+
 time: 60 min
 difficulty: easy
+tags:
+  - discovery
+  - ideate
 participants:
   - Product Owner/Manager
   - UXD
