@@ -7,7 +7,7 @@ authors:
   - tdbeattie
   - mtakane
   - theisey
-  - ""
+  - peleg
 area: foundation-culture-and-collaboration
 people: 5+
 time: 1 minute
