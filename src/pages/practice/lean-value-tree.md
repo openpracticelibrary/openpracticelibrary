@@ -68,7 +68,7 @@ howTo: >-
 
   Further recommended reading: *EDGE: Value-driven Digital Transformation* by Jim Highsmith, Linda Luu and David Robinson.
 mediaGallery:
-- link: http://openpracticelibrary.com/images/lean-value-tree.jpg
+- link: https://openpracticelibrary.com/images/lean-value-tree.jpg
 resources:
 - link: https://www.lean.org/whatslean/
   linkType: web
