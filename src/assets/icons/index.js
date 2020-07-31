@@ -1,23 +1,2 @@
-export { default as AddIcon } from "./AddIcon";
-export { default as AmaIcon } from "./AmaIcon";
-export { default as FilledHeartIcon } from "./FilledHeartIcon";
-export { default as UserIcon } from "./UserIcon";
-export { default as CameraIcon } from "./CameraIcon";
 export { default as CCHeartIcon } from "./CCHeartIcon";
-export { default as WebLinkIcon } from "./WebLinkIcon";
-export { default as PodcastIcon } from "./PodcastIcon";
-export { default as DownloadIcon } from "./DownloadIcon";
-export { default as ArrowRightIcon } from "./ArrowRightIcon";
-export { default as EditIcon } from "./EditIcon";
-export { default as EmailIcon } from "./EmailIcon";
-export { default as GitIcon } from "./GitIcon";
-export { default as InstaIcon } from "./InstaIcon";
-export { default as YoutubeIcon } from "./YoutubeIcon";
-export { default as PodIcon } from "./PodIcon";
-export { default as TwitterIcon } from "./TwitterIcon";
-export { default as MoreItemsIcon } from "./MoreItemsIcon";
-export { default as NounLoveIcon } from "./NounLoveIcon";
-export { default as LinkedInIcon } from "./LinkedInIcon";
-export { default as FacebookIcon } from "./FacebookIcon";
-export { default as RedditIcon } from "./RedditIcon";
-export { default as PinterestIcon } from "./PinterestIcon";
+//TODO: Download this image as an SVG and use it as an <img> not an icon.

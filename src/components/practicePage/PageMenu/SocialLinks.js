@@ -9,15 +9,15 @@ import {
   FacebookShareButton,
 } from "react-share";
 import {
-  FacebookIcon,
-  RedditIcon,
-  PinterestIcon,
-  TwitterIcon,
-  MoreItemsIcon,
-  NounLoveIcon,
-  LinkedInIcon,
-  EmailIcon,
-} from "../../../assets/icons";
+  Facebook,
+  Reddit,
+  Pinterest,
+  MoreVert,
+  LinkedIn,
+  MailOutline,
+  Twitter,
+  FavoriteBorder,
+} from "@material-ui/icons";
 import { Typography, Grid, IconButton, Popover } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -88,7 +88,7 @@ export default function SocialLinks(props) {
             Like
           </Typography>
           <IconButton onClick={handleLike} data-testid={"heartIcon"}>
-            <NounLoveIcon />
+            <FavoriteBorder />
           </IconButton>
         </Grid>
         <Grid item>
@@ -98,22 +98,22 @@ export default function SocialLinks(props) {
         </Grid>
         <Grid item>
           <EmailShareButton url={loc}>
-            <EmailIcon height="15" width="20" />
+            <MailOutline />
           </EmailShareButton>
         </Grid>
         <Grid item>
           <TwitterShareButton url={loc}>
-            <TwitterIcon fill="#1DA1F2" height="14" width="18" />
+            <Twitter />
           </TwitterShareButton>
         </Grid>
         <Grid item>
           <LinkedinShareButton url={loc}>
-            <LinkedInIcon />
+            <LinkedIn />
           </LinkedinShareButton>
         </Grid>
         <Grid item>
           <IconButton aria-describedby={id} onClick={handleClick}>
-            <MoreItemsIcon />
+            <MoreVert />
           </IconButton>
           <StyledPopover
             id={id}
@@ -132,17 +132,17 @@ export default function SocialLinks(props) {
             >
               <Grid item>
                 <PinterestShareButton url={loc} media={props.coverImage}>
-                  <PinterestIcon />
+                  <Pinterest />
                 </PinterestShareButton>
               </Grid>
               <Grid item>
                 <RedditShareButton url={loc}>
-                  <RedditIcon />
+                  <Reddit />
                 </RedditShareButton>
               </Grid>
               <Grid item>
                 <FacebookShareButton url={loc}>
-                  <FacebookIcon />
+                  <Facebook />
                 </FacebookShareButton>
               </Grid>
             </Grid>

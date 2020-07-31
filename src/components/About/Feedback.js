@@ -1,7 +1,7 @@
 import React from "react";
 import { Grid, Button, Typography } from "@material-ui/core";
 import HeroColor from "../../components/shared/HeroColor";
-import FeedbackIcon from "../../assets/images/about-feedback.svg";
+import FeedbackIcon from "../../assets/images/astronaut-megaphone.svg";
 
 const Feedback = () => (
   <HeroColor color="common.black" height="18rem" px={4} type="gradient">
