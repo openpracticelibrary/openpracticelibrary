@@ -1,7 +1,7 @@
 import React from "react";
 import { withTheme } from "@material-ui/core/styles/index";
-import { UserIcon } from "../../../assets/icons";
-import { Box } from '@material-ui/core';
+import { Person } from "@material-ui/icons";
+import { Box } from "@material-ui/core";
 
 import OplTypography from "../../shared/components/OplTypography";
 import OplAvatar from "../../shared/components/OplAvatar";
@@ -21,13 +21,9 @@ const PhotoAndName = (props) => (
       height={props.theme.spacing(4)}
       bgcolor="transparent"
     >
-      <UserIcon />
+      <Person />
     </OplAvatar>
-    <OplTypography
-      variant="body1"
-      pl={1}
-      data-testid={"authorName"}
-    >
+    <OplTypography variant="body1" pl={1} data-testid={"authorName"}>
       {props.authorName}
     </OplTypography>
   </Box>

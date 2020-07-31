@@ -1,13 +1,12 @@
 import React from "react";
 import MediaGallery from "./MediaGallery";
-import AskMeAnything from "./AskMeAnything";
 import WhatIs from "./WhatIs";
 import WhyDo from "./WhyDo";
 import HowDo from "./HowDo";
 import ResourcesWeLove from "./ResourcesWeLove";
 import FullText from "./FullText";
 import { makeStyles } from "@material-ui/core/styles/index";
-import { Box } from '@material-ui/core';
+import { Box } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -31,7 +30,6 @@ export default function PageBody(props) {
     whyDoRef,
     howToRef,
     resourceRef,
-    amaRef,
     editing,
     whatIsEditor,
     whyDoEditor,
@@ -66,23 +64,22 @@ export default function PageBody(props) {
           >
             {howToEditor}
           </HowDo>
-          { mediaGallery &&
+          {mediaGallery && (
             <MediaGallery
               practiceId={practiceId}
               title={title}
               mediaGallery={mediaGallery}
               mediaRef={mediaRef}
             />
-          }
-          { resources &&
+          )}
+          {resources && (
             <ResourcesWeLove
               practiceTitle={title}
               practiceId={practiceId}
               links={resources}
               resourceRef={resourceRef}
             />
-          }
-          <AskMeAnything ama={ama} amaRef={amaRef} />
+          )}
         </Box>
       </>
     );

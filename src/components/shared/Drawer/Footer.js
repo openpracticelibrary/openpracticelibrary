@@ -2,7 +2,7 @@ import React from "react";
 import FooterList from "./FooterList";
 import Disclaimer from "./Disclaimer";
 import { Box, Grid } from "@material-ui/core";
-import { PodIcon, WebLinkIcon } from "../../../assets/icons";
+import { Feedback, Mic } from "@material-ui/icons";
 
 export default function Footer() {
   return (
@@ -18,7 +18,7 @@ export default function Footer() {
             link="https://forms.gle/nXCvPEkjx6VdF6Px6"
             text="SEND FEEDBACK"
           >
-            <WebLinkIcon size="small" />
+            <Feedback />
           </FooterList>
         </Grid>
         <Grid item>
@@ -26,7 +26,7 @@ export default function Footer() {
             link="https://podcasts.apple.com/us/podcast/open-practice-podcast/id1501715186"
             text="OUR PODCAST"
           >
-            <PodIcon />
+            <Mic />
           </FooterList>
         </Grid>
         <Grid item>

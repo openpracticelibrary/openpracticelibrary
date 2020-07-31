@@ -2,7 +2,14 @@ import React from "react";
 import { Typography, Box, Button } from "@material-ui/core";
 import ResourceListItem from "./ResourceListItem";
 import { makeStyles } from "@material-ui/core/styles/index";
-import { DownloadIcon, PodcastIcon, WebLinkIcon } from "../../../assets/icons";
+import {
+  Link,
+  Mic,
+  CloudDownload,
+  OndemandVideo,
+  Store,
+  MenuBook,
+} from "@material-ui/icons";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -21,12 +28,12 @@ const useStyles = makeStyles((theme) => ({
 //todo: review the structure of the resource.description
 
 const Icon = {
-  web: <WebLinkIcon />,
-  download: <DownloadIcon />,
-  podcast: <PodcastIcon />,
-  video: <PodcastIcon />,
-  purchase: <WebLinkIcon />,
-  book: <WebLinkIcon />,
+  web: <Link />,
+  download: <CloudDownload />,
+  podcast: <Mic />,
+  video: <OndemandVideo />,
+  purchase: <Store />,
+  book: <MenuBook />,
 };
 
 export default function ResourcesWeLove(props) {
