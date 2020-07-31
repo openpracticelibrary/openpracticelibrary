@@ -8,7 +8,7 @@ authors:
   - tdbeattie
   - jonathanjohnston
   - noelo
-  - Ilaria66
+  - ilaria66
   - mvmaestri
 area: options
 tags:
