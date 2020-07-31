@@ -10,8 +10,6 @@ import {
   formTagArray,
 } from "../utilities/dropDownValues";
 
-const paginationLimit = 20;
-
 function reducer(state, action) {
   switch (action.type) {
     case "popularFilterChange":
@@ -41,7 +39,7 @@ function reducer(state, action) {
 
 const PracticesWithData = (props) => {
   const [keywordSearchToggle, setKeywordSearchToggle] = React.useState(false);
-  const [state, dispatch] = React.useReducer(reducer, {}, () => {
+  const [state] = React.useReducer(reducer, {}, () => {
     return {
       tagArray: [],
       selectedFilterTag: filterTags[0],

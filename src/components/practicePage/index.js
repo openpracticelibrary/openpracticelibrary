@@ -5,23 +5,19 @@ import PageIntro from "./PageIntro";
 import PageMenu from "./PageMenu";
 import PageBody from "./PageBody";
 import backgroundImage from "../shared/utilities/microBackgrounds";
-import { navigate } from "gatsby";
 
-import { Container, Box } from '@material-ui/core';
+import { Container, Box } from "@material-ui/core";
 import OplBox from "../shared/components/OplBox";
 
 const PracticePage = ({ data }) => {
   const {
     markdownRemark: {
       id: practiceId,
-      fields: {
-        slug,
-      },
+      fields: { slug },
       frontmatter: {
         title,
         subtitle,
         authors,
-        date,
         tags,
         whatIs,
         whyDo,
@@ -30,9 +26,9 @@ const PracticePage = ({ data }) => {
         resources,
       },
       rawMarkdownBody,
-    }
+    },
   } = data;
-  const practiceSlug = slug.split('practice/')[1];
+  const practiceSlug = slug.split("practice/")[1];
   // Styles
   const background = backgroundImage(tags);
 
@@ -61,7 +57,7 @@ const PracticePage = ({ data }) => {
     imgCount: mediaGallery ? mediaGallery.length : 0,
   };
 
-  const pageMenuData = { practiceId }
+  const pageMenuData = { practiceId };
 
   const pageBodyData = {
     practiceId,
@@ -79,18 +75,18 @@ const PracticePage = ({ data }) => {
 
   return (
     <>
-      <OplBox
-        display="flex"
-        bg={background}
-      >
+      <OplBox display="flex" bg={background}>
         <LoginButton
           practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
         />
         <Container maxWidth="md">
-          <Box display="flex" flexDirection="row" justifyContent="center" alignItems="baseline">
-            <PageIntro
-              {...pageIntroData}
-            />
+          <Box
+            display="flex"
+            flexDirection="row"
+            justifyContent="center"
+            alignItems="baseline"
+          >
+            <PageIntro {...pageIntroData} />
           </Box>
         </Container>
       </OplBox>
@@ -107,17 +103,14 @@ const PracticePage = ({ data }) => {
         zIndex={1001}
         py={1}
       >
-        <PageMenu {...pageMenuData} { ...pageRefs } />
+        <PageMenu {...pageMenuData} {...pageRefs} />
       </Box>
 
       <Container maxWidth="md">
-        <PageBody
-          {...pageBodyData}
-          {...pageRefs}
-        />
+        <PageBody {...pageBodyData} {...pageRefs} />
       </Container>
     </>
   );
-}
+};
 
 export default PracticePage;

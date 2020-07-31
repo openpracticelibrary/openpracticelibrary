@@ -1,6 +1,6 @@
 import React from "react";
-import { AmaIcon, CameraIcon, FilledHeartIcon } from "../../../assets/icons";
-import { Box } from '@material-ui/core';
+import { CameraIcon } from "../../../assets/icons";
+import { Box } from "@material-ui/core";
 import OplTypography from "../components/OplTypography";
 
 const Collection = (props) => (

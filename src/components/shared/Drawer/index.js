@@ -4,7 +4,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import MenuIcon from "@material-ui/icons/Menu";
 import { BottomListItems, TopListItems } from "./ListItems";
 import Footer from "./Footer";
-import { Drawer, IconButton, Box, Typography } from "@material-ui/core";
+import { Drawer, IconButton, Box } from "@material-ui/core";
 import Logo from "../../../components/shared/Logo";
 
 const drawerWidth = "18.75rem";
