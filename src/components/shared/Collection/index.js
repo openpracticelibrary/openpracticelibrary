@@ -1,9 +1,5 @@
 import React from "react";
-<<<<<<< HEAD
-import { CameraIcon } from "../../../assets/icons";
-=======
 import { CameraAlt } from "@material-ui/icons";
->>>>>>> 6f24872... fix(assets): iconography
 import { Box } from "@material-ui/core";
 import OplTypography from "../components/OplTypography";
 

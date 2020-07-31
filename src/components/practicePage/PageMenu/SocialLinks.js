@@ -9,17 +9,6 @@ import {
   FacebookShareButton,
 } from "react-share";
 import {
-<<<<<<< HEAD
-  FacebookIcon,
-  RedditIcon,
-  PinterestIcon,
-  TwitterIcon,
-  MoreItemsIcon,
-  NounLoveIcon,
-  LinkedInIcon,
-  EmailIcon,
-} from "../../../assets/icons";
-=======
   Facebook,
   Reddit,
   Pinterest,
@@ -29,7 +18,6 @@ import {
   Twitter,
   FavoriteBorder,
 } from "@material-ui/icons";
->>>>>>> 6f24872... fix(assets): iconography
 import { Typography, Grid, IconButton, Popover } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -100,11 +88,7 @@ export default function SocialLinks(props) {
             Like
           </Typography>
           <IconButton onClick={handleLike} data-testid={"heartIcon"}>
-<<<<<<< HEAD
-            <NounLoveIcon />
-=======
             <FavoriteBorder />
->>>>>>> 6f24872... fix(assets): iconography
           </IconButton>
         </Grid>
         <Grid item>
@@ -124,20 +108,12 @@ export default function SocialLinks(props) {
         </Grid>
         <Grid item>
           <LinkedinShareButton url={loc}>
-<<<<<<< HEAD
-            <LinkedInIcon />
-=======
             <LinkedIn />
->>>>>>> 6f24872... fix(assets): iconography
           </LinkedinShareButton>
         </Grid>
         <Grid item>
           <IconButton aria-describedby={id} onClick={handleClick}>
-<<<<<<< HEAD
-            <MoreItemsIcon />
-=======
             <MoreVert />
->>>>>>> 6f24872... fix(assets): iconography
           </IconButton>
           <StyledPopover
             id={id}
@@ -156,29 +132,17 @@ export default function SocialLinks(props) {
             >
               <Grid item>
                 <PinterestShareButton url={loc} media={props.coverImage}>
-<<<<<<< HEAD
-                  <PinterestIcon />
-=======
                   <Pinterest />
->>>>>>> 6f24872... fix(assets): iconography
                 </PinterestShareButton>
               </Grid>
               <Grid item>
                 <RedditShareButton url={loc}>
-<<<<<<< HEAD
-                  <RedditIcon />
-=======
                   <Reddit />
->>>>>>> 6f24872... fix(assets): iconography
                 </RedditShareButton>
               </Grid>
               <Grid item>
                 <FacebookShareButton url={loc}>
-<<<<<<< HEAD
-                  <FacebookIcon />
-=======
                   <Facebook />
->>>>>>> 6f24872... fix(assets): iconography
                 </FacebookShareButton>
               </Grid>
             </Grid>
