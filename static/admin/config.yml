@@ -27,7 +27,7 @@ collections:
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
-      - {label: "Authors", hint: "Comma-separated list of github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
+      - {label: "Authors", hint: "Comma-separated list of LOWER CASE github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
       - {label: "Area of the Library Loop", hint: "Choose the position on the Library Loop where your practice lives", name: "area", widget: "select", options:
           [{label: "Discovery - Why", value: "discovery-loop-why"},
           {label: "Discovery - Outcomes", value: "discovery-loop-outcomes"},
