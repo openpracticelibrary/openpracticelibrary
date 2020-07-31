@@ -24,7 +24,7 @@ const HeroColor = ({
       width={width}
       style={{
         backgroundImage:
-          type === "gradient" ? theme.linearGradient[gradient] : null
+          type === "gradient" ? theme.linearGradient[gradient] : null,
       }}
       {...rest}
     >
