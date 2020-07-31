@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
-#  repo: openpracticelibrary/openpracticelibrary
-#  branch: v2.x
+  repo: openpracticelibrary/openpracticelibrary
+  branch: v2.x
 
-local_backend: true
+# local_backend: true
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
