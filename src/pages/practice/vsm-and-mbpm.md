@@ -67,10 +67,10 @@ mediaGallery:
 resources:
   - link: https://vimeo.com/149407030
     linkType: video
-    description: "Webinar: Karen Martin's Value Stream Mapping and Process Mapping"
+    description: "Webinar - Karen Martin's Value Stream Mapping and Process Mapping"
   - link: https://www.slideshare.net/KarenMartinGroup/vsmmbpmwhenyouoptforeach
     linkType: web
-    description: "Slides: Karen Martin's Value Stream Mapping and Process Mapping"
+    description: "Slides - Karen Martin's Value Stream Mapping and Process Mapping"
   - link: https://www.ksmartin.com/books/value-stream-mapping/
     linkType: book
     description: Value Stream Mapping by Karen Martin and Mike Osterling
@@ -82,10 +82,10 @@ resources:
     description: Value Streams are Made of People by Liz Keogh
   - link: https://vimeo.com/54601924
     linkType: video
-    description: Webinar: Karen Martin's Metrics-Based Process Mapping
+    description: "Webinar - Karen Martin's Metrics-Based Process Mapping"
   - link: https://www.slideshare.net/KarenMartinGroup/metricsbased-process-mapping-what-when-how
     linkType: web
-    description: Slides: Karen Martin's Metrics-Based Process Mapping
+    description: "Slides - Karen Martin's Metrics-Based Process Mapping"
   - link: https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88
     linkType: book
     description: Lean Thinking
