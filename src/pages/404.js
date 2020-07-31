@@ -24,7 +24,10 @@ const NotFound = () => (
       <Typography component="h2" variant="h3" color="inherit" gutterBottom>
         {content[random(0, 2)]}
       </Typography>
-      <img src={Stickies} alt="Living Sticky Notes" width="100%" />
+      <Box maxWidth="80rem">
+        <img src={Stickies} alt="Living Sticky Notes" width="100%" />
+      </Box>
+
       <Typography variant="h4" color="inherit" gutterBottom>
         404: Page Not Found
       </Typography>
