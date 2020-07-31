@@ -46,8 +46,9 @@ difficulty: moderate
 whatIs: This article contains a collection of best practices and lessons learned
   from real facilities build-out of global, permanent labs facilities, as well
   as experiences building temporary, ‘pop-up’ team spaces.
-whyDo: Intentionally designing workspace can greatly influence the way your
-  teams can get things done.
+whyDo: >
+  Intentionally designing workspace can greatly influence the way your teams can
+  get things done.
 howTo: >-
   # Overall Space Recommendations
 
