@@ -33,6 +33,10 @@ Information Radiator - Like all these practices, the Big Picture is an evolving 
 
 
 
+<iframe width="1200" height="528" src="https://www.youtube.com/embed/qXb1naW0zdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## How do I create one?
 
 Get some Stickies and painters tape and a lot of space! Draw up your servers or playforms in tape to frame the big picture. For example, a big red box could represent an OpenShift Cluster. 
