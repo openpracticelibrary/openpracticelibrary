@@ -4,10 +4,9 @@ import LoginButton from "../shared/Login/LoginButton";
 import PageIntro from "./PageIntro";
 import PageMenu from "./PageMenu";
 import PageBody from "./PageBody";
-import backgroundImage from "../shared/utilities/microBackgrounds";
-
+import gradientSelect from "../shared/utilities/gradientSelect";
+import HeroColor from "../../components/shared/HeroColor";
 import { Container, Box } from "@material-ui/core";
-import OplBox from "../shared/components/OplBox";
 
 const PracticePage = ({ data }) => {
   const {
@@ -29,8 +28,6 @@ const PracticePage = ({ data }) => {
     },
   } = data;
   const practiceSlug = slug.split("practice/")[1];
-  // Styles
-  const background = backgroundImage(tags);
 
   // Refs
   const whatIsRef = useRef(null);
@@ -69,27 +66,19 @@ const PracticePage = ({ data }) => {
     },
     mediaGallery,
     resources,
-    ama: [],
     fullText: rawMarkdownBody,
   };
 
   return (
     <>
-      <OplBox display="flex" bg={background}>
-        <LoginButton
-          practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
-        />
-        <Container maxWidth="md">
-          <Box
-            display="flex"
-            flexDirection="row"
-            justifyContent="center"
-            alignItems="baseline"
-          >
-            <PageIntro {...pageIntroData} />
-          </Box>
-        </Container>
-      </OplBox>
+      <HeroColor type="gradient" gradient={gradientSelect(tags)} height="30vh">
+        <Box mx={6}>
+          <LoginButton
+            practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
+          />
+          <PageIntro {...pageIntroData} />
+        </Box>
+      </HeroColor>
 
       <Box
         display="flex"
@@ -97,7 +86,6 @@ const PracticePage = ({ data }) => {
         justifyContent="center"
         position="sticky"
         top={0}
-        bgcolor="white"
         borderTop="1px solid rgba(0, 0, 0, 0.12)"
         borderBottom="1px solid rgba(0, 0, 0, 0.12)"
         zIndex={1001}
@@ -105,7 +93,6 @@ const PracticePage = ({ data }) => {
       >
         <PageMenu {...pageMenuData} {...pageRefs} />
       </Box>
-
       <Container maxWidth="md">
         <PageBody {...pageBodyData} {...pageRefs} />
       </Container>

@@ -1,46 +1,50 @@
 import React from "react";
 import TitleAndSubtitle from "./TitleAndSubtitle";
 import ContributedBy from "./ContributedBy";
-import Collection from "./Collection";
+import Collection from "../../shared/Collection";
+import { Box, Typography } from "@material-ui/core";
 
-import OplGrid from "../../shared/components/OplGrid";
+const PageIntro = ({
+  title,
+  tags,
+  subtitle,
+  editing,
+  titleEdit,
+  subtitleEdit,
+  authors,
+  createdAt,
+  updatedAt,
+  practiceId,
+  upvotes,
+  imgCount,
+  questions,
+}) => (
+  <Box width={1}>
+    <TitleAndSubtitle
+      title={title}
+      tags={tags}
+      subtitle={subtitle}
+      editing={editing}
+      titleEdit={titleEdit}
+      subtitleEdit={subtitleEdit}
+    />
+    <ContributedBy
+      authors={authors}
+      createdAt={createdAt}
+      updatedAt={updatedAt}
+    />
 
-const PageIntro = (props) => (
-  <OplGrid
-    container
-    direction="column"
-    justify="flex-start"
-    alignItems="flex-start"
-    my={5}
-  >
-    <OplGrid item>
-      <TitleAndSubtitle
-        title={props.title}
-        tags={props.tags}
-        subtitle={props.subtitle}
-        editing={props.editing}
-        titleEdit={props.titleEdit}
-        subtitleEdit={props.subtitleEdit}
-      >
-        {props.children}
-      </TitleAndSubtitle>
-    </OplGrid>
-    <OplGrid item>
-      <ContributedBy
-        authors={props.authors}
-        createdAt={props.createdAt}
-        updatedAt={props.updatedAt}
-      />
-    </OplGrid>
-    <OplGrid item>
-      <Collection
-        practiceId={props.practiceId}
-        upvotes={props.upvotes}
-        imgCount={props.imgCount}
-        questions={props.questions}
-      />
-    </OplGrid>
-  </OplGrid>
+    <Collection
+      spacing={2}
+      practiceId={practiceId}
+      upvotes={upvotes}
+      imgCount={imgCount}
+      questions={questions}
+      alignment={2}
+    >
+      <Typography variant="overline">Collection</Typography>
+    </Collection>
+  </Box>
 );
 
 export default PageIntro;

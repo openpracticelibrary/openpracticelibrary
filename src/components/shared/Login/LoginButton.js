@@ -1,30 +1,27 @@
-import React from 'react';
-import { useTheme } from '@material-ui/core/styles';
-import { Box } from '@material-ui/core';
-import OplButton from "../components/OplButton";
+import React from "react";
+import { Box, Button } from "@material-ui/core";
 
 const Login = (props) => {
-  const theme = useTheme();
   return (
-      <OplButton
-        data-testid="loginButton"
-        variant="contained"
-        bg={theme.palette.primary.light}
-        color="primary"
-        onClick={() => window.location.href = `${window.location.origin}/admin/#/collections/practice/entries/${props.practiceTitle}`}
-      >
-        Improve this practice!
-      </OplButton>
+    <Button
+      data-testid="loginButton"
+      variant="contained"
+      size="small"
+      onClick={() =>
+        (window.location.href = `${window.location.origin}/admin/#/collections/practice/entries/${props.practiceTitle}`)
+      }
+    >
+      Improve This Practice!
+    </Button>
   );
-}
+};
 
 const LoginButton = (props) => (
   <Box
     display={{ xs: "none", md: "flex" }}
     position="absolute"
-    top={0}
-    right={0}
-    p={3}
+    top="1rem"
+    right="1rem"
   >
     <Login {...props} />
   </Box>
