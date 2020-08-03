@@ -1,11 +1,10 @@
 import React from "react";
-import { navigate } from "@reach/router";
+import { navigate } from "gatsby";
 import OplTypography from "../components/OplTypography";
 
 const Subtitle = (props) => (
   <OplTypography
     data-testid="subtitle"
-   
     width={280}
     fontSize="0.75rem"
     my={1}
