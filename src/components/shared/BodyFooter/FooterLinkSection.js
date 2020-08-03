@@ -1,7 +1,7 @@
 import React from "react";
 import { Typography, Box, Grid } from "@material-ui/core";
 import FooterIconSection from "./FooterIconSection";
-import { navigate } from "@reach/router";
+import { navigate } from "gatsby";
 
 const sections = [
   { title: "Practices", url: "/practice" },

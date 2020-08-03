@@ -1,5 +1,6 @@
 import React from "react";
-import { Box, Grid, Typography, Link } from "@material-ui/core";
+import { Link } from "gatsby";
+import { Box, Grid, Typography } from "@material-ui/core";
 import FriendlyIcon from "../../assets/images/astronaut-friends.svg";
 import InspiringIcon from "../../assets/images/astronaut-flag.svg";
 import TrustworthyIcon from "../../assets/images/astronaut-map.svg";
@@ -18,7 +19,11 @@ const HistoryValues = () => (
     </Typography>
     <Typography gutterBottom>
       In 2016,{" "}
-      <Link href="https://www.redhat.com/en/services/consulting/open-innovation-labs">
+      <Link
+        href="https://www.redhat.com/en/services/consulting/open-innovation-labs"
+        target="_blank"
+        rel="noopener"
+      >
         Red Hat Open Innovation Labs
       </Link>{" "}
       saw an opportunity to document the open practices and principles they used

@@ -6,7 +6,8 @@ import {
   YouTube,
   Instagram,
 } from "@material-ui/icons";
-import { Link, Grid } from "@material-ui/core";
+import { Grid } from "@material-ui/core";
+import { Link } from "gatsby";
 
 const sections = [
   { url: "mailto:info@openpracticelibrary.com", icon: <MailOutline /> },
@@ -33,7 +34,7 @@ export default function FooterIconSection(props) {
       <Grid container direction="row" spacing={2} alignItems="center">
         {sections.map((section, i) => (
           <Grid item key={i}>
-            <Link href={section.url} target="_blank">
+            <Link href={section.url} target="_blank" rel="noopener">
               {section.icon}
             </Link>
           </Grid>

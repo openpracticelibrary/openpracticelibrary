@@ -1,5 +1,5 @@
 import React from "react";
-import { navigate } from "@reach/router";
+import { navigate } from "gatsby";
 import { Paper } from '@material-ui/core';
 
 import OplImage from "../components/OplImage";

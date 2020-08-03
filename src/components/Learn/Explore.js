@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Box, Typography } from "@material-ui/core";
 import { ArrowForward } from "@material-ui/icons";
-import { navigate } from "@reach/router";
+import { navigate } from "gatsby";
 
 const Explore = props => {
   return (

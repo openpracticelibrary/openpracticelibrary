@@ -1,6 +1,6 @@
 import React from "react";
 import ArrowForwardIcon from "@material-ui/icons/ArrowForward";
-import { navigate } from "@reach/router";
+import { navigate } from "gatsby";
 import { useQuery } from "@apollo/react-hooks";
 
 import ComponentLoading from "../shared/QueryState/ComponentLoading";

@@ -1,5 +1,6 @@
 import React from "react";
-import { Box, Link, Typography } from "@material-ui/core";
+import { Link } from "gatsby";
+import { Box, Typography } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
 
 const ProcessModel = () => {
@@ -30,31 +31,21 @@ const ProcessModel = () => {
           <MobiusLoopHero displayContent={false} />
         </Box>
         <Typography variant="h6" gutterBottom>
-          <Link color="secondary" href="/tags/foundation">
-            Foundation
-          </Link>{" "}
-          - we have found that cultural practices and technical practices in the
-          foundational layer, accelerate and maximize the use of the Mobius
-          Loop.
+          <Link href="/tags/foundation">Foundation</Link> - we have found that
+          cultural practices and technical practices in the foundational layer,
+          accelerate and maximize the use of the Mobius Loop.
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link color="secondary" href="/tags/discovery">
-            Discovery
-          </Link>{" "}
-          - practices to help define target outcomes.
+          <Link href="/tags/discovery">Discovery</Link> - practices to help
+          define target outcomes.
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link color="secondary" href="/tags/options">
-            Options
-          </Link>{" "}
-          - practices to help identify the path to the right outcomes
+          <Link href="/tags/options">Options</Link> - practices to help identify
+          the path to the right outcomes
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link color="secondary" href="/tags/delivery">
-            Delivery
-          </Link>{" "}
-          - practices to put your ideas to the test. Learn what works and what
-          doesn’t.
+          <Link href="/tags/delivery">Delivery</Link> - practices to put your
+          ideas to the test. Learn what works and what doesn’t.
         </Typography>
       </Box>
     </Box>
