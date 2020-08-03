@@ -35,9 +35,6 @@ const Learn = () => (
           </Typography>
         </Box>
         <Box
-          width="24rem"
-          display="flex"
-          justifyContent="space-between"
           mx="auto"
         >
           <Button
@@ -48,14 +45,6 @@ const Learn = () => (
             onClick={scrollDown}
           >
             Learn More
-          </Button>
-          <Button
-            size="large"
-            variant="contained"
-            color="primary"
-            onClick={() => navigate("/")}
-          >
-            Explore Library
           </Button>
         </Box>
       </Box>

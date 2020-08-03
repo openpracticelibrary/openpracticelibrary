@@ -1,5 +1,6 @@
 import React from "react";
 import { Button, Box, Typography } from "@material-ui/core";
+import { ArrowForward } from "@material-ui/icons";
 import { navigate } from "@reach/router";
 
 const Explore = props => {
@@ -8,13 +9,12 @@ const Explore = props => {
       display="flex"
       flexDirection="column"
       alignItems="center"
-      alignContent="center"
-      justifyContent="space-around"
+      justifyContent="center"
       height="10rem"
-      bgcolor="grey.200"
+      bgcolor="grey.300"
       px={4}
     >
-      <Typography variant="h5" data-testid="exploreMsg">
+      <Typography gutterBottom variant="h5" data-testid="exploreMsg">
         Learn something new from your peers and experiment with best practices!
       </Typography>
       <Button
@@ -22,9 +22,10 @@ const Explore = props => {
         color="primary"
         size="large"
         data-testid="exploreLibraryButton"
+        endIcon={<ArrowForward />}
         onClick={() => navigate("/")}
       >
-        Let's Go!
+        Explore the Library
       </Button>
     </Box>
   );
