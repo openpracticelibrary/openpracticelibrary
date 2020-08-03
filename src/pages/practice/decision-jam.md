@@ -3,7 +3,7 @@ title: Decision Jam
 subtitle: A workshop to solve any problem, with any amount of people
 date: 2020-01-23T14:01:25.612Z
 authors:
-  - beckerjs
+  - heyjerrybecker
 area: discovery-loop-why
 tags:
   - discovery

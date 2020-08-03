@@ -5,7 +5,7 @@ date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
   - mtakane
-  - beckerjs
+  - heyjerrybecker
   - jonathanjohnston
   - noelo
   - ilaria66
