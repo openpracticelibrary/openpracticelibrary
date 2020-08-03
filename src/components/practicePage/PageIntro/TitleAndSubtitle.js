@@ -10,8 +10,8 @@ const TitleAndSubtitle = ({
   title,
   titleEdit,
 }) => (
-  <Box display="flex" flexDirection="column">
-    <Typography variant="h2" data-testid="title">
+  <Box display="flex" flexDirection="column" marginTop={3}>
+    <Typography variant="h2" gutterBottom data-testid="title">
       {editing ? titleEdit : title}
     </Typography>
     <Box marginBottom={3}>
@@ -24,7 +24,7 @@ const TitleAndSubtitle = ({
           ))}
       </Grid>
     </Box>
-    <Typography gutterBottom variant="h5" data-testid={"subtitle"}>
+    <Typography variant="h5" data-testid={"subtitle"}>
       {editing ? subtitleEdit : subtitle}
     </Typography>
   </Box>

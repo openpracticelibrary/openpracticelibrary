@@ -72,12 +72,10 @@ const PracticePage = ({ data }) => {
   return (
     <>
       <HeroColor type="gradient" gradient={gradientSelect(tags)} height="30vh">
-        <Box mx={6}>
-          <LoginButton
-            practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
-          />
-          <PageIntro {...pageIntroData} />
-        </Box>
+        <LoginButton
+          practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
+        />
+        <PageIntro {...pageIntroData} />
       </HeroColor>
 
       <Box

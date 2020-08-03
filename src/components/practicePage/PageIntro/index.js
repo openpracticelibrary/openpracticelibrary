@@ -2,7 +2,7 @@ import React from "react";
 import TitleAndSubtitle from "./TitleAndSubtitle";
 import ContributedBy from "./ContributedBy";
 import Collection from "../../shared/Collection";
-import { Box, Typography } from "@material-ui/core";
+import { Container, Typography } from "@material-ui/core";
 
 const PageIntro = ({
   title,
@@ -19,7 +19,7 @@ const PageIntro = ({
   imgCount,
   questions,
 }) => (
-  <Box width={1}>
+  <Container maxWidth="md">
     <TitleAndSubtitle
       title={title}
       tags={tags}
@@ -44,7 +44,7 @@ const PageIntro = ({
     >
       <Typography variant="overline">Collection</Typography>
     </Collection>
-  </Box>
+  </Container>
 );
 
 export default PageIntro;
