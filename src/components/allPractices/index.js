@@ -30,23 +30,23 @@ const Practices = ({
       py={3}
       data-testid="popularFilterComponent"
     >
-      <PopularFilter
+      {/* <PopularFilter
         selectedItem={selectedPopularFilter}
         handleFilterChange={handleFilterChange}
         menuItems={Object.keys(popularMenuItems)}
-      />
+      /> */}
       <FilterTags
         tags={mobiusLoopArray}
         filter={handleFilterChange}
         selectedFilter={selectedMobiusLoopFilter}
       />
-      <KeywordSearchToggle
+      {/* <KeywordSearchToggle
         toggle={toggleKeywordSearch}
         keywordSearchToggle={keywordSearchToggle}
-      />
+      /> */}
     </Box>
 
-    {keywordSearchToggle && (
+    {/* {keywordSearchToggle && (
       <Box
         display="flex"
         flexDirection={{ xs: "column", md: "row" }}
@@ -83,7 +83,7 @@ const Practices = ({
           <KeywordSearchBox dispatch={handleFilterChange} />
         </Box>
       </Box>
-    )}
+    )} */}
     <Box
       display="flex"
       flexDirection="column"
