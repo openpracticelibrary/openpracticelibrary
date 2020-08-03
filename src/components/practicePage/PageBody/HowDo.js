@@ -13,7 +13,9 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const Image = (props) => <img {...props} style={{maxWidth: "100%"}} />
+const Image = (props) => (
+  <img {...props} style={{ maxWidth: "100%" }} alt="How to Do" />
+);
 
 export default function HowDo(props) {
   const classes = useStyles();
@@ -27,13 +29,16 @@ export default function HowDo(props) {
           </Typography>
         </Box>
         <Box className={classes.space}>
-          {props.editing ?
+          {props.editing ? (
             props.children
-            :
-            <Typography component={'span'}>
-              <ReactMarkdown source={props.source} renderers={{ image: Image }} />
+          ) : (
+            <Typography component={"span"}>
+              <ReactMarkdown
+                source={props.source}
+                renderers={{ image: Image }}
+              />
             </Typography>
-          }
+          )}
         </Box>
       </Box>
     </>

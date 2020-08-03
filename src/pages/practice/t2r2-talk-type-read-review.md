@@ -32,6 +32,7 @@ howTo: >-
   participants to talk, type, read and review in sequence.
 
 
+
   **Talk** - Invite participants to have a short discussion. Give them the opportunity to clarify the topic, build shared understanding, and get their collective brains in gear.
 
 

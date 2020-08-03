@@ -1,8 +1,14 @@
 import React from "react";
-import {makeStyles} from "@material-ui/core/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import SocialLinks from "./SocialLinks";
 import PropTypes from "prop-types";
-import { Toolbar, Container, Grid, Button, Typography } from '@material-ui/core';
+import {
+  Toolbar,
+  Container,
+  Grid,
+  Button,
+  Typography,
+} from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -30,12 +36,11 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const sections = [
-  {title: "What", ref: "whatIsRef"},
-  {title: "Why", ref: "whyDoRef"},
-  {title: "How", ref: "howToRef"},
-  {title: "Look", ref: "mediaRef"},
-  {title: "Links", ref: "resourceRef"},
-  {title: "AMA", ref: "amaRef"},
+  { title: "What", ref: "whatIsRef" },
+  { title: "Why", ref: "whyDoRef" },
+  { title: "How", ref: "howToRef" },
+  { title: "Look", ref: "mediaRef" },
+  { title: "Links", ref: "resourceRef" },
 ];
 
 export default function PageMenu(props) {
@@ -48,16 +53,8 @@ export default function PageMenu(props) {
     });
   };
   return (
-    <Toolbar
-      component="nav"
-      variant="dense"
-      className={classes.root}
-    >
-      <Grid
-        container
-        direction="row"
-        justify="center"
-      >
+    <Toolbar component="nav" variant="dense" className={classes.root}>
+      <Grid container direction="row" justify="center">
         <Grid item xs={false} md={1} xl={2}></Grid>
         <Grid item xs={8} md={6} xl={5}>
           <Container maxWidth="md">
@@ -74,11 +71,7 @@ export default function PageMenu(props) {
                     onClick={() => handleClick(section.ref)}
                     className={classes.pageNavButton}
                   >
-                    <Typography
-                      variant="overline"
-                    >
-                      {section.title}
-                    </Typography>
+                    <Typography variant="overline">{section.title}</Typography>
                   </Button>
                 </Grid>
               ))}

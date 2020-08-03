@@ -1,6 +1,6 @@
 import React from "react";
-import { AmaIcon, CameraIcon, FilledHeartIcon } from "../../../assets/icons";
-import { Box } from '@material-ui/core';
+import { CameraAlt } from "@material-ui/icons";
+import { Box } from "@material-ui/core";
 import OplTypography from "../components/OplTypography";
 
 const Collection = (props) => (
@@ -17,7 +17,7 @@ const Collection = (props) => (
       data-testid="cameraIcon"
       px={props.spacing}
     >
-      <CameraIcon fill={props.fill} /> {props.imgCount}{" "}
+      <CameraAlt /> {props.imgCount}{" "}
     </OplTypography>
   </Box>
 );

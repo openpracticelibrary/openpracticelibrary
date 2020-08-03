@@ -50,10 +50,10 @@ whyDo: >
   Intentionally designing workspace can greatly influence the way your teams can
   get things done.
 howTo: >-
-  # Overall Space Recommendations
+  ### Overall Space Recommendations
 
 
-  ## Open Plan
+  #### Open Plan
 
 
   The open workspace plan allows for open, immediate, and constant inter / intra communication among teams and team members.  The open workspace offers a professional environment fostering creativity and collaboration amongst multiple teams.
@@ -78,7 +78,7 @@ howTo: >-
 
 
 
-  ## Wall Space (Windows/Glass Walls)
+  #### Wall Space (Windows/Glass Walls)
 
 
   In order to [visualize teams’ work](https://openpracticelibrary.com/practice/visualisation-of-work/), it is vital that a large amount of wall space is available. Throughout product development efforts, different information radiators will be used to clearly show the work being done. This will allow for anyone in or outside of the project to quickly get a complete status of where things stand by ‘walking the walls’. Visual cues are strongly preferred over storing status in computer systems when possible.
@@ -94,7 +94,7 @@ howTo: >-
 
 
 
-  ## Flexible Spaces
+  #### Flexible Spaces
 
 
   We prefer spaces that can be re-configured as needed to support different team and program-level activities. Putting desks on rollers, using foldable desks and stackable chairs, and generally creating the ability to create different workspaces is a good practice. See Make Space for design inspiration around flexible workspaces.
@@ -104,7 +104,7 @@ howTo: >-
 
 
 
-  ## Breakout Areas
+  #### Breakout Areas
 
 
   Breakout areas are multi-purpose spaces. They can be used for informal ad-hoc meetings, eating, or general relaxation. The are ideal for brainstorming and breakout sessions. They provide a more creative setting than traditional meeting rooms and ideally should have internet connectivity and power outlets.
@@ -120,7 +120,7 @@ howTo: >-
 
 
 
-  ## Meeting Spaces
+  #### Meeting Spaces
 
 
   * Available big breakout room for Lunch & Learn sessions or workshops to host up to 20
@@ -139,7 +139,7 @@ howTo: >-
 
 
 
-  ## Quiet Zones
+  #### Quiet Zones
 
 
 
@@ -152,7 +152,7 @@ howTo: >-
   * Disadvantages - If rules are not put into place the areas can be ‘hijacked’ by non-team members
 
 
-  ## Hoteling Spaces
+  #### Hoteling Spaces
 
 
   Hotel spaces provide  overflow work space to accommodate remote team members, vendors, etc. who may be visiting the office but are not their permanently. They are often incorporated with break out areas.
@@ -165,7 +165,7 @@ howTo: >-
 
 
 
-  ## Work Environment
+  #### Work Environment
 
 
   * ‎Coffee - free, quality brew
@@ -190,7 +190,7 @@ howTo: >-
 
 
 
-  ## Visualization of Work
+  #### Visualization of Work
 
 
   * Must have sufficient wall space to visualize work
@@ -203,7 +203,7 @@ howTo: >-
 
 
 
-  ## Video cameras
+  #### Video cameras
 
 
   Web Cameras are critical to successful remote work and meetings, etc. As more vendors, third parties, and remote employees are involved in the work, being able to see each other offers a sense of inclusivity
@@ -213,7 +213,7 @@ howTo: >-
 
 
 
-  ## Desks / Chairs / Storage
+  #### Desks / Chairs / Storage
 
 
   * Desk should be big enough for allowing two people to sit next to each other in front of a screen - pair programming, pair reviews, user interviews, etc.
@@ -253,7 +253,7 @@ howTo: >-
 
 
 
-  ## Networking & Energy
+  #### Networking & Energy
 
 
   * Labs consumes higher amount of wireless and wired bandwidth than a typical office
@@ -281,19 +281,19 @@ howTo: >-
 
 
 
-  ## Phone
+  #### Phone
 
 
   * Wireless phones can provide great flexibility (used at WeWork spaces)
 
 
-  ## Printer
+  #### Printer
 
 
   * We typically use a shared printer, and do not dedicate one in the Labs space, to save space
 
 
-  ## Aesthetics
+  #### Aesthetics
 
 
   * ‘Unfinished’ space (exposed cabling, exposed walls, etc) provides a new and different aesthetic that feels different than a corporate space, and implies that we are building new prototypes.
@@ -302,7 +302,7 @@ howTo: >-
   * Consider avoiding the excessive use of corporate logos, branding, and color schemes. We specifically created a new color scheme for our space that did not match the corporate aesthetic, to imply that we are operating differently than our typical work areas, and to encourage creative thinking
 
 
-  ## Other Nice-to-Haves
+  #### Other Nice-to-Haves
 
 
   * Good restaurants / canteen / lunch options for the whole team nearby

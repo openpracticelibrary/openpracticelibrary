@@ -1,9 +1,8 @@
 import React, { useEffect } from "react";
 import PracticeCard from "./PracticeCard";
-import ComponentLoading from "../QueryState/ComponentLoading";
 import { Grid } from "@material-ui/core";
 
-const PracticeCardGrid = props => {
+const PracticeCardGrid = (props) => {
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
@@ -18,10 +17,10 @@ const PracticeCardGrid = props => {
       return;
     props.onLoadMore(props.page);
   }
-  console.log('data - ', props);
+  console.log("data - ", props);
   return (
     <Grid container data-testid="practicecardgrid" justify="center">
-      {props.practices.map(practice => (
+      {props.practices.map((practice) => (
         <PracticeCard
           key={practice.node.id}
           practiceId={practice.node.id}
@@ -30,7 +29,11 @@ const PracticeCardGrid = props => {
           tags={practice.node.frontmatter.tags}
           slug={practice.node.fields.slug}
           subtitle={practice.node.frontmatter.subtitle}
-          mediaGallery={practice.node.frontmatter.mediaGallery ? practice.node.frontmatter.mediaGallery.length : 0}
+          mediaGallery={
+            practice.node.frontmatter.mediaGallery
+              ? practice.node.frontmatter.mediaGallery.length
+              : 0
+          }
         />
       ))}
     </Grid>
