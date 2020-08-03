@@ -1,6 +1,7 @@
 import React from "react";
 import { Box, Chip, Select, MenuItem, Typography } from "@material-ui/core";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
+import { navigate } from "gatsby";
 
 const Tag = ({ tag, filter, selectedFilter }) => {
   const buttonRef = React.useRef(null);
@@ -11,7 +12,11 @@ const Tag = ({ tag, filter, selectedFilter }) => {
       clickable
       label={hashtag}
       ref={buttonRef}
-      onClick={() => filter({ type: "mobiusFilterChange", content: tag })}
+      onClick={() => {
+        tag.toLowerCase() === "all"
+          ? navigate("/")
+          : navigate("/tags/" + tag.toLowerCase());
+      }}
       variant={selectedFilter === tag ? "default" : "outlined"}
     />
   );
@@ -29,7 +34,7 @@ const FilterTags = ({ filter, selectedFilter, tags }) => {
           spacing={2}
           width={{ xs: "100%", lg: "30rem" }}
         >
-          {tags.map(tag => (
+          {tags.map((tag) => (
             <Tag
               key={tag}
               tag={tag}
@@ -43,11 +48,14 @@ const FilterTags = ({ filter, selectedFilter, tags }) => {
           variant="outlined"
           fullWidth
           value={selectedFilter}
-          onChange={event =>
-            filter({ type: "mobiusFilterChange", content: event.target.value })
-          }
+          onChange={(event) => {
+            const tag = event.target.value.toLowerCase();
+            tag === "all"
+              ? navigate("/")
+              : navigate("/tags/" + event.target.value.toLowerCase());
+          }}
         >
-          {tags.map(tag => (
+          {tags.map((tag) => (
             <MenuItem value={tag} key={tag}>
               <Typography variant="body2">
                 {tag === "All" ? tag : `#${tag}`}
