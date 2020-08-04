@@ -88,6 +88,7 @@ const PracticePage = ({ data }) => {
         borderBottom="1px solid rgba(0, 0, 0, 0.12)"
         zIndex={1001}
         py={1}
+        bgcolor="white"
       >
         <PageMenu {...pageMenuData} {...pageRefs} />
       </Box>

@@ -8,6 +8,7 @@ import {
   Grid,
   Button,
   Typography,
+  Hidden,
 } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -56,29 +57,31 @@ export default function PageMenu(props) {
     <Toolbar component="nav" variant="dense" className={classes.root}>
       <Grid container direction="row" justify="center">
         <Grid item xs={false} md={1} xl={2}></Grid>
-        <Grid item xs={8} md={6} xl={5}>
-          <Container maxWidth="md">
-            <Grid
-              container
-              direction="row"
-              justify="space-between"
-              alignItems="flex-start"
-              spacing={1}
-            >
-              {sections.map((section, i) => (
-                <Grid item key={i}>
-                  <Button
-                    onClick={() => handleClick(section.ref)}
-                    className={classes.pageNavButton}
-                  >
-                    <Typography variant="overline">{section.title}</Typography>
-                  </Button>
-                </Grid>
-              ))}
-            </Grid>
-          </Container>
-        </Grid>
-        <Grid item xs={4}>
+        <Hidden only="xs">
+          <Grid item md={6} xl={5}>
+            <Container maxWidth="md">
+              <Grid
+                container
+                direction="row"
+                justify="space-between"
+                alignItems="flex-start"
+                spacing={1}
+              >
+                {sections.map((section, i) => (
+                  <Grid item key={i}>
+                    <Button
+                      onClick={() => handleClick(section.ref)}
+                      className={classes.pageNavButton}
+                    >
+                      <Typography variant="overline">{section.title}</Typography>
+                    </Button>
+                  </Grid>
+                ))}
+              </Grid>
+            </Container>
+          </Grid>
+        </Hidden>
+        <Grid item xs={12} md={4}>
           <SocialLinks
             practiceId={props.practiceId}
             upvotes={props.upvotes}
