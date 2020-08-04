@@ -20,7 +20,7 @@ const HeroColor = ({
       alignItems="center"
       bgcolor={bgcolor}
       color={color}
-      height={height}
+      minHeight={height}
       width={width}
       style={{
         backgroundImage:

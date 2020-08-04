@@ -1,24 +1,19 @@
 import React from "react";
 import { CameraAlt } from "@material-ui/icons";
 import { Box } from "@material-ui/core";
-import OplTypography from "../components/OplTypography";
 
 const Collection = (props) => (
-  <Box
-    display="flex"
-    flexDirection="row"
-    alignItems="flex-start"
-    py={props.alignment}
-  >
+  <Box display="flex" alignItems="center" py={props.alignment}>
     {props.children}
-    <OplTypography
+    <Box
       fontWeight="bold"
-      variant="subtitle1"
+      display="flex"
+      alignItems="center"
       data-testid="cameraIcon"
       px={props.spacing}
     >
-      <CameraAlt /> {props.imgCount}{" "}
-    </OplTypography>
+      <CameraAlt /> {props.imgCount}
+    </Box>
   </Box>
 );
 

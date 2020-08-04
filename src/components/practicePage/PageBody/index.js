@@ -24,7 +24,6 @@ export default function PageBody(props) {
     fullText,
     mediaGallery,
     resources,
-    ama,
     whatIsRef,
     mediaRef,
     whyDoRef,
