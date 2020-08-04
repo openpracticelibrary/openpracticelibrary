@@ -61,12 +61,6 @@ export default function SocialLinks(props) {
     setLoc(window.location.href);
   }, []);
 
-  const handleLike = () => {
-    const originalLikes = props.upvotes;
-    const newUpvotes = originalLikes + 1;
-    return newUpvotes;
-  };
-
   const [anchorEl, setAnchorEl] = React.useState(null);
 
   const handleClick = (event) => {
@@ -83,14 +77,6 @@ export default function SocialLinks(props) {
   return (
     <>
       <Grid container direction="row" className={classes.root} spacing={1}>
-        <Grid item xs={3}>
-          <Typography className={classes.url} variant="overline">
-            Like
-          </Typography>
-          <IconButton onClick={handleLike} data-testid={"heartIcon"}>
-            <FavoriteBorder />
-          </IconButton>
-        </Grid>
         <Grid item>
           <Typography className={classes.url} variant="overline">
             Share{" "}
