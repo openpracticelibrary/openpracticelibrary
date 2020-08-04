@@ -16,7 +16,7 @@ authors:
   - kattekrab
 tags:
   - delivery
-icon: /images/final_retrospective.png
+icon: /images/plus-minus-interesting.png
 whatIs: PMI is a quick and easy way to get people thinking for a
   retrospective.  It can also be used at the end of the day as a team checkin
   for fast paced intensive work sessions, and can be used to facilitate the
