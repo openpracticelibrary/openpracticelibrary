@@ -15,9 +15,6 @@ resources:
   - link: https://openpracticelibrary.com/practice/blue-green-deployments/
     linkType: web
     description: Blue Green Deployments
-  - link: https://openpracticelibrary.com/practice/continuous-delivery/
-    linkType: web
-    description: Continuous Delivery
   - link: http://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/
     linkType: web
     description: Blue-green Deployments, A/B Testing, and Canary Releases
