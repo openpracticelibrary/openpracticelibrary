@@ -1,6 +1,6 @@
 ---
-title: Everything-as-Code
 participants: []
+title: Everything-as-Code
 resources:
   - link: https://martinfowler.com/bliki/InfrastructureAsCode.html
     linkType: web
@@ -14,21 +14,10 @@ date: 2018-08-15T10:37:16+01:00
 authors:
   - springdo
   - makentenza
-area: foundation-technical
 tags:
   - foundation
   - methods
 icon: /images/everything-as-code.jpeg
-people: ""
-whatIs: >-
-  Everything as Code is the practice of treating all parts of the system as
-  code. This means, storing configuration along with Source Code in a repository
-  such as git or svn. Storing the configuration from bottom to top
-  (communication switches, bare metal servers, operating systems, build
-  configurations, application properties and deployment configurations...) as
-  code means they are tracked and can be recreated at the click of a button.
-
-  Everything as Code includes system design, also stored as code. In old world IT, infrastructure required specialised skills and physical hardware and cables to be installed. Systems were precious or were not touched / updated often as the people who created them no longer work for the company. The dawn of cloud computing and cloud native applications has meant it is cheap and easy to spin up virtual infrastructure. By storing the configuration of virtual environments as code, they can be life-cycled and recreated whenever needed.
 whyDo: >-
   1. Traceability - storing your config in `git` implies controls are in place
   to track who / why a config has changed. Changes can be applied and reverted
@@ -46,8 +35,21 @@ howTo: >-
   Infra as Code.
 
   * [Ansible](https://www.ansible.com/) is an infrastructure automation tool created by Red Hat, the huge enterprise open source technology provider.
+area: foundation-technical
+whatIs: >-
+  Everything as Code is the practice of treating all parts of the system as
+  code. This means, storing configuration along with Source Code in a repository
+  such as git or svn. Storing the configuration from bottom to top
+  (communication switches, bare metal servers, operating systems, build
+  configurations, application properties and deployment configurations...) as
+  code means they are tracked and can be recreated at the click of a button.
+
+
+
+  Everything as Code includes system design, also stored as code. In old world IT, infrastructure required specialised skills and physical hardware and cables to be installed. Systems were precious or were not touched / updated often as the people who created them no longer work for the company. The dawn of cloud computing and cloud native applications has meant it is cheap and easy to spin up virtual infrastructure. By storing the configuration of virtual environments as code, they can be life-cycled and recreated whenever needed.
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/everything%20as%20code.jpeg?raw=true
+people: ""
 ---
 ## What is it?
 
