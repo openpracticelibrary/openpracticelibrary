@@ -3,7 +3,7 @@ title: Crazy 8s
 subtitle: A fast sketching exercise to generate solution ideas
 date: 2019-10-23T15:46:01.503Z
 authors:
-  - beckerjs
+  - heyjerrybecker
 area: discovery-loop-outcomes
 perspectives: []
 icon: /images/crazy-8s-1.jpg
