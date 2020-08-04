@@ -1,39 +1,36 @@
 ---
-title: Kano Model
-subtitle: Analysis & Matrix
-date: 2018-12-18T18:52:22.120Z
-authors:
-  - valyonchev
-area: discovery-loop-outcomes
-tags:
-  - discovery
-  - validate
-perspectives:
-  - product-ownership
-icon: /images/kano.jpg
-people: 2+
-time: 60 min
-difficulty: easy
 participants:
   - Product Owner
   - DevOps Team
   - Business Stakeholders (e.g. Product managers)
+subtitle: Easily visualize and explain the impact and priority of different features
+resources:
+  - link: https://openpracticelibrary.com/practice/how-now-wow-prioritization-matrix/
+    linkType: web
+    description: How Now Wow Prioritization Matrix
+  - link: https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/
+    linkType: web
+    description: Impact Effort Prioritization Matrix
+  - link: https://openpracticelibrary.com/practice/whole-product-plotting/
+    linkType: web
+    description: Whole Product Plotting
+  - link: https://en.wikipedia.org/wiki/Kano_model
+    linkType: web
+    description: The Kano model on Wikipedia
 templateKey: practice-page
-whatIs: The Kano model is derived from the work of professor Noriaki Kano on product development and customer satisfaction.
-whyDo: >-
-  * The Kano Model is widely used in Product Management for prioritisation of product features. It allows for easy visualisation and explanation of the impact and priority of different features.
-
-  * It can involve the whole product team in the decision-making and help increase transparency of product decisions.
-
-  * Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with, which requires us to filter and prioritize work on them.
-
-  * It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.
-
-  * Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders.
-
-  * It helps identify directions and ideas for pivoting.
+title: Kano Model
+date: 2018-12-18T18:52:22.120Z
+authors:
+  - valyonchev
+tags:
+  - discovery
+  - validate
+icon: /images/kano.jpg
+whatIs: The Kano model is derived from the work of professor Noriaki Kano on
+  product development and customer satisfaction.
 howTo: >-
-  Prof. Kano argues that customer preferences can be classified in five categories:
+  Prof. Kano argues that customer preferences can be classified in five
+  categories:
 
 
   1. **Must Have / Must-be** (aka Musts, Basic Needs, Dissatisfiers) - covers product/feature expectations (requirements) which are taken for granted by the customers. When done well, customers are neutral, when not present or done poorly customers are very disappointed
@@ -52,21 +49,28 @@ howTo: >-
 
 
   The Kano Matrix is used to easily plot the product features and have a discussions within the team about the correct category of a feature.
+area: discovery-loop-outcomes
+time: 60 min
 mediaGallery:
-- link: https://openpracticelibrary.github.io/opl-media/images/kano.jpg
-resources:
-- link: https://openpracticelibrary.com/practice/how-now-wow-prioritization-matrix/
-  linkType: web
-  description: How Now Wow Prioritization Matrix
-- link: https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/
-  linkType: web
-  description: Impact Effort Prioritization Matrix
-- link: https://openpracticelibrary.com/practice/whole-product-plotting/
-  linkType: web
-  description: Whole Product Plotting
-- link: https://en.wikipedia.org/wiki/Kano_model
-  linkType: web
-  description: The Kano model on Wikipedia
+  - link: https://openpracticelibrary.github.io/opl-media/images/kano.jpg
+people: 2+
+whyDo: >-
+  * The Kano Model is widely used in Product Management for prioritisation of
+  product features. It allows for easy visualisation and explanation of the
+  impact and priority of different features.
+
+  * It can involve the whole product team in the decision-making and help increase transparency of product decisions.
+
+  * Developing new products goes hand in hand with generation of ideas, hypothesis and their testing/validation. Unfortunately, it is mostly impossible to test and evaluate all ideas and hypothesis we can come up with, which requires us to filter and prioritize work on them.
+
+  * It is a simple, easy to understand and very visual and can include the whole team in the process of transparent selection of ideas/hypothesis to work on first.
+
+  * Helps the Product Managers (Product Owners) in prioritisation, building the product roadmap/backlog and explaining priorities to stakeholders.
+
+  * It helps identify directions and ideas for pivoting.
+perspectives:
+  - product-ownership
+difficulty: easy
 ---
 ## What is it?
 
