@@ -14,18 +14,10 @@ subtitle: Gather, document, sort and prioritise  our challenges and bright spots
 date: 2020-04-19T22:51:08.252Z
 authors:
   - kattekrab
-area: discovery-loop-why
 tags:
   - discovery
   - ideate
-perspectives:
-  - start-with-why
-  - target-outcomes
-  - impact-effort-prioritization-matrix
-icon: /images/needs-an-image.png
-people: 4+
-time: 1 hour
-difficulty: moderate
+icon: /images/6dimensions.png
 whatIs: >-
   This is a facilitated information gathering activity designed to explore,
   document and prioritise current challenges and bright spots in an
@@ -75,7 +67,7 @@ howTo: >-
   **Optional**
 
 
-  You could use 2 different coloured dots when voting to create a prioritisation matrix.\n\nEg. Important & Urgent, [Effort & Impact](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/), Risk & Value, etc
+  You could use 2 different coloured dots when voting to create a prioritisation matrix: Important & Urgent, [Effort & Impact](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/), Risk & Value, etc
 
 
   **Focus**
@@ -183,7 +175,7 @@ howTo: >-
 
   > "steps and decisions involved in the way work is completed."
 
-  > 
+  >
 
   > "interrelated work tasks initiated in response to an event to achieve a specific result."
 
@@ -215,7 +207,7 @@ howTo: >-
 
   > "Imparting or exchanging of information by speaking, listening, writing, reading, or using some other medium."
 
-  > 
+  >
 
   > "Successfully conveying or sharing ideas and feelings."
 
@@ -242,6 +234,16 @@ howTo: >-
   >
 
   > "direction and decision-making procedures and metrics for validating impacts to the project."
+area: discovery-loop-why
+time: 1 hour
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/6dimensions.png?raw=true
+people: 4+
+perspectives:
+  - start-with-why
+  - target-outcomes
+  - impact-effort-prioritization-matrix
+difficulty: moderate
 ---
 ## What is it?
 
