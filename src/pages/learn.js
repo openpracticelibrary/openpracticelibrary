@@ -1,5 +1,4 @@
 import React from "react";
-import { navigate } from "@reach/router";
 import HeroImage from "../components/shared/HeroImage";
 import ProcessModel from "../components/Learn/ProcessModel";
 import Explore from "../components/Learn/Explore";
@@ -34,12 +33,7 @@ const Learn = () => (
             get to the best outcome.
           </Typography>
         </Box>
-        <Box
-          width="24rem"
-          display="flex"
-          justifyContent="space-between"
-          mx="auto"
-        >
+        <Box mx="auto">
           <Button
             size="large"
             variant="contained"
@@ -48,14 +42,6 @@ const Learn = () => (
             onClick={scrollDown}
           >
             Learn More
-          </Button>
-          <Button
-            size="large"
-            variant="contained"
-            color="primary"
-            onClick={() => navigate("/")}
-          >
-            Explore Library
           </Button>
         </Box>
       </Box>

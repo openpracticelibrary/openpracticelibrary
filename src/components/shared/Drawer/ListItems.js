@@ -1,5 +1,5 @@
 import React from "react";
-import { Link as RouterLink } from "@reach/router";
+import { Link as RouterLink } from "gatsby";
 
 import { ListItem, ListSubheader, List, Typography } from "@material-ui/core";
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Button, Typography } from "@material-ui/core";
-import { navigate } from "@reach/router";
+import { navigate } from "gatsby";
 import { random } from "lodash";
 import HeroColor from "../components/shared/HeroColor";
 import Stickies from "../assets/images/whiteboarding.png";

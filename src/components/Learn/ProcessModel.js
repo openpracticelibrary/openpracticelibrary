@@ -1,7 +1,6 @@
 import React from "react";
-import { navigate } from "@reach/router";
-import { Box, Button, Link, Typography } from "@material-ui/core";
-import ArrowForwardIcon from "@material-ui/icons/ArrowForward";
+import { Link } from "gatsby";
+import { Box, Typography } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
 
 const ProcessModel = () => {
@@ -32,30 +31,22 @@ const ProcessModel = () => {
           <MobiusLoopHero displayContent={false} />
         </Box>
         <Typography variant="h6" gutterBottom>
-          Foundation - we have found that cultural practices and technical
-          practices in the foundational layer, accelerate and maximize the use
-          of the Mobius Loop.
+          <Link href="/tags/foundation">Foundation</Link> - we have found that
+          cultural practices and technical practices in the foundational layer,
+          accelerate and maximize the use of the Mobius Loop.
         </Typography>
         <Typography variant="h6" gutterBottom>
-          Discovery - practices to help define target outcomes.
+          <Link href="/tags/discovery">Discovery</Link> - practices to help
+          define target outcomes.
         </Typography>
         <Typography variant="h6" gutterBottom>
-          Options - practices to help identify the path to the right outcomes
+          <Link href="/tags/options">Options</Link> - practices to help identify
+          the path to the right outcomes
         </Typography>
         <Typography variant="h6" gutterBottom>
-          Delivery - practices to put your ideas to the test. Learn what works
-          and what doesn’t.
+          <Link href="/tags/delivery">Delivery</Link> - practices to put your
+          ideas to the test. Learn what works and what doesn’t.
         </Typography>
-      </Box>
-      <Box my={4} display="flex" justifyContent="center">
-        <Button
-          variant="outlined"
-          color="primary"
-          endIcon={<ArrowForwardIcon />}
-          onClick={() => navigate("/")}
-        >
-          Explore Library
-        </Button>
       </Box>
     </Box>
   );
