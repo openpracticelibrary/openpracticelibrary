@@ -1,24 +1,28 @@
 ---
+participants:
+  - The Team
+subtitle: Uncover what motivates your colleagues and yourself
+resources:
+  - link: https://management30.com/practice/moving-motivators/
+    linkType: web
+    description: More about the Moving Motivators practices on the Management 3.0 website
+  - link: https://management30.com/practice/moving-motivators/
+    linkType: web
+    description: Management 3.0 website
+  - link: https://www.goodreads.com/book/show/40692351-changing-your-team-from-the-inside
+    linkType: web
+    description: Changing Your Team From The Inside
 templateKey: practice-page
 title: Moving Motivators
-subtitle: Moving Motivators is a practice to uncover what motivates your
-  colleagues and yourself
-date: "2018-09-28T09:38:20.325Z"
+date: 2018-09-28T09:38:20.325Z
 authors:
   - alexismonville
-area: foundation-culture-and-collaboration
 tags:
   - foundation
   - culture
 icon: /images/2018-09-28-08.04.09.jpg
-jumbotron: /images/2018-09-28-08.04.09.jpg
-jumbotronAlt: Moving Motivators
-people: 1+
-time: 30 minutes
-difficulty: easy
-participants:
-  - The Team
-whatIs: Moving Motivators is a practice to uncover what motivates your colleagues and yourself.
+whatIs: Moving Motivators is a practice to uncover what motivates your
+  colleagues and yourself.
 whyDo: The practice helps the team members to understand different perspectives.
 howTo: >-
   ### Steps
@@ -33,26 +37,21 @@ howTo: >-
 
   #### Further Information
 
-  * [More about the Moving Motivators practices on the Management 3.0 website](https://management30.com/practice/moving-motivators/)
-  * Moving Motivators is the assignment from the third chapter of [Changing Your Team From The Inside](https://www.goodreads.com/book/show/40692351-changing-your-team-from-the-inside)
+  * [More about the Moving Motivators practices on the Management 3.0 website](https://management30.com/practice/moving-motivators/) * Moving Motivators is the assignment from the third chapter of [Changing Your Team From The Inside](https://www.goodreads.com/book/show/40692351-changing-your-team-from-the-inside)
 
 
   **Want to run this practice remotely? Here's some help to jump start your session 💻🙏** 
 
   * [Moving Motivators Template on Miro](https://app.mural.co/template/0d15bd57-7572-4617-8f43-e43a6f1bc4a0/ab7617b6-8a90-4d3b-b7cc-1ec630b3cb59)
+jumbotron: /images/2018-09-28-08.04.09.jpg
+area: foundation-culture-and-collaboration
+time: 30 minutes
 mediaGallery:
-- link: https://github.com/openpracticelibrary/opl-media/blob/master/images/moving%20motivators.png?raw=true
-- link: https://openpracticelibrary.github.io/opl-media/images/2018-09-28-08.04.09.jpg
-resources:
-- link: https://management30.com/practice/moving-motivators/
-  linkType: web
-  description: More about the Moving Motivators practices on the Management 3.0 website
-- link: https://management30.com/practice/moving-motivators/
-  linkType: web
-  description: Management 3.0 website
-- link: https://www.goodreads.com/book/show/40692351-changing-your-team-from-the-inside
-  linkType: web
-  description: Changing Your Team From The Inside
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/moving%20motivators.png?raw=true
+  - link: https://openpracticelibrary.github.io/opl-media/images/2018-09-28-08.04.09.jpg
+people: 1+
+difficulty: easy
+jumbotronAlt: Moving Motivators
 ---
 ## What is it?
 
