@@ -1,9 +1,9 @@
 ---
-subtitle: A short time-boxed synchronization of the team activities that occurs
-  in a cadence determined by the team
 participants:
   - Product Owner
   - Team Members
+subtitle: A short time-boxed synchronization of the team activities that occurs
+  in a cadence determined by the team
 resources:
   - link: https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag
     linkType: web
@@ -22,14 +22,9 @@ authors:
   - noelo
   - mvmaestri
   - ilaria66
-area: delivery-deliver
 tags:
   - foundation
   - culture
-icon: /images/dsu.jpg
-people: 2+
-time: 15 minutes
-difficulty: moderate
 whatIs: >-
   * The main point of a daily standup (Daily Scrum) is for the team to better
   align towards the sprint goal * Teams get together to share transparently the
@@ -40,11 +35,6 @@ whatIs: >-
     1. What did you do yesterday?
     2. What will you do today?
     3. Do you have any blockers or impediments?
-whyDo: "* Provides a quick touchpoint on what is going on with the team * Quick
-  feedback on impediments and keep people honest and transparent * Focus on
-  getting things done rather than what keeps us busy * It is a reinforcement of
-  the goal and direction the team is after and a point of recharging the team
-  with new energy for pursuing the goal"
 howTo: >-
   ### Advice
 
@@ -64,10 +54,19 @@ howTo: >-
   A [Daily Standup music alert playlist](https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag) on YouTube
 
   [IBM Daily Stand up](https://www.youtube.com/watch?v=GzQjGhD5tSU)
+area: delivery-deliver
+time: 15 minutes
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/dsu.jpg?raw=true
-  - link: https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag
   - link: https://www.youtube.com/watch?v=GzQjGhD5tSU
+people: 2+
+icon: /images/dsu.jpg
+whyDo: "* Provides a quick touchpoint on what is going on with the team * Quick
+  feedback on impediments and keep people honest and transparent * Focus on
+  getting things done rather than what keeps us busy * It is a reinforcement of
+  the goal and direction the team is after and a point of recharging the team
+  with new energy for pursuing the goal"
+difficulty: moderate
 ---
 # What is it?
 
