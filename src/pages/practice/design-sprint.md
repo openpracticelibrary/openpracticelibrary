@@ -1,23 +1,4 @@
 ---
-title: Design Sprint
-subtitle: Google Design Sprint
-date: 2018-12-19T21:42:38.398Z
-authors:
-  - eformat
-  - valyonchev
-  - sandraarps
-area: options
-tags:
-  - options
-  - ideate
-perspectives:
-  - product-ownership
-icon: /images/screenshot-from-2018-12-20-08-55-34.png
-jumbotron: /images/img_20181219_140828.jpg
-jumbotronAlt: Design Sprint
-people: 4-7+
-time: 5 Days
-difficulty: hard
 participants:
   - Facilitator
   - Co-Facilitator
@@ -26,9 +7,40 @@ participants:
   - Sales Manager / Customer Representative
   - UX/UI Designer
   - Marketing
+subtitle: Google Design Sprint
+resources:
+  - link: http://www.gv.com/sprint/
+    linkType: web
+    description: The GV Design Sprint
+  - link: https://designsprintkit.withgoogle.com/introduction/overview
+    linkType: web
+    description: The Google Design Sprint
+  - link: https://www.invisionapp.com/inside-design/enterprise-design-sprints/
+    linkType: web
+    description: The Enterprise Design Sprint
+  - link: https://www.invisionapp.com/inside-design/design-sprint-2/
+    linkType: web
+    description: The Design Sprint 2.0
+  - link: https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
+    linkType: web
+    description: The GV Research Sprint
+  - link: https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
+    linkType: web
+    description: Research Sprint
 templateKey: practice-page
+title: Design Sprint
+date: 2018-12-19T21:42:38.398Z
+authors:
+  - eformat
+  - valyonchev
+  - sandraarps
+tags:
+  - options
+  - ideate
+icon: /images/screenshot-from-2018-12-20-08-55-34.png
 whatIs: >-
-  It is a 5 day customer-centric process for rapidly solving a key challenge, creating new products, or improving existing ones.
+  It is a 5 day customer-centric process for rapidly solving a key challenge,
+  creating new products, or improving existing ones.
 
   Design sprints enable you to:
 
@@ -39,12 +51,15 @@ whatIs: >-
   * Distil your ideas into one or two solutions that you can test
 
   * Prototype your solution and bring it to life
-  
+
   * Test the prototype with people who would use it
 
   The process phases include: Understand, Define, Sketch, Decide, Prototype and Validate.
 whyDo: >-
-  The aim is to fast-forward into the future to see your finished product and customer reactions, before making any expensive commitment. It is a simple and cheap way to validate major assumptions, the Big question/s and point to the different options to explore further through delivery.
+  The aim is to fast-forward into the future to see your finished product and
+  customer reactions, before making any expensive commitment. It is a simple and
+  cheap way to validate major assumptions, the Big question/s and point to the
+  different options to explore further through delivery.
 
   This set of practices reduces risks when bringing a new product, service or a feature to the market. Design Sprints are the fastest way to find out if a product or project is worth undertaking, if a feature is worth the effort, or if your value proposition is really valid. For the latter one should also consider running a [Research Sprint](https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25).
 
@@ -58,82 +73,35 @@ howTo: >-
 
   #### Monday
 
-  * Intro
-  * How Might We
-  * Map
-  * Lightning Demos
-  * Notes Taking
-  * Crazy 8's
-  * Long Term Goals
-  * Sprint Questions
-  * Lightning Demos
-  * Drawing Ideas
-  * Start user test recruiting
-  * Develop Concepts
+  * Intro * How Might We * Map * Lightning Demos * Notes Taking * Crazy 8's * Long Term Goals * Sprint Questions * Lightning Demos * Drawing Ideas * Start user test recruiting * Develop Concepts
 
   #### Tuesday
 
-  * Decide on Solution
-  * Storyboard design
-  * Decider Vote
-  * Storyboard Final Walk-through
-  * User test recruiting
+  * Decide on Solution * Storyboard design * Decider Vote * Storyboard Final Walk-through * User test recruiting
 
   #### Wednesday
 
-  * Prototype creation
-  * User test preparation
-  * Interview room setup
+  * Prototype creation * User test preparation * Interview room setup
 
   #### Thursday
 
-  * Testing with end-users
-  * Analyse results and prepare findings
+  * Testing with end-users * Analyse results and prepare findings
 
   #### Friday
 
   * Showcase (demonstrate process & findings)
+jumbotron: /images/img_20181219_140828.jpg
+area: options
+time: 5 Days
 mediaGallery:
-- link: https://youtu.be/K2vSQPh6MCE
-- link: https://openpracticelibrary.github.io/opl-media/images/img_20181219_140828.jpg
-- link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Design%20Sprint.jpeg?raw=true
-resources:
-- link: http://www.gv.com/sprint/
-  linkType: web
-  description: The GV Design Sprint
-- link: https://designsprintkit.withgoogle.com/introduction/overview
-  linkType: web
-  description: The Google Design Sprint
-- link: https://www.invisionapp.com/inside-design/enterprise-design-sprints/
-  linkType: web
-  description: The Enterprise Design Sprint
-- link: https://www.invisionapp.com/inside-design/design-sprint-2/
-  linkType: web
-  description: The Design Sprint 2.0
-- link: https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
-  linkType: web
-  description: The GV Research Sprint
-- link: https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
-  linkType: web
-  description: Research Sprint
-- link: https://openpracticelibrary.com/practice/start-at-the-end/
-  linkType: web
-  description: Start At The End
-- link: https://openpracticelibrary.com/practice/design-the-box/
-  linkType: web
-  description: Design The Box
-- link: https://openpracticelibrary.com/practice/backcasting-pre-mortem-premortem/
-  linkType: web
-  description: Backcasting Pre Mortem Premortem
-- link: https://openpracticelibrary.com/practice/news-headlines-aka-cover-story/
-  linkType: web
-  description: News Headlines Aka Cover Story
-- link: https://openpracticelibrary.com/practice/hmw/
-  linkType: web
-  description: Hmw
-- link: https://openpracticelibrary.com/practice/design-of-experiments/
-  linkType: web
-  description: Design Of Experiments
+  - link: https://youtu.be/K2vSQPh6MCE
+  - link: https://openpracticelibrary.github.io/opl-media/images/img_20181219_140828.jpg
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Design%20Sprint.jpeg?raw=true
+people: 4-7+
+perspectives:
+  - product-ownership
+difficulty: hard
+jumbotronAlt: Design Sprint
 ---
 ## What is it?
 
