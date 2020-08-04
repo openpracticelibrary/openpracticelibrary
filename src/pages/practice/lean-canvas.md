@@ -1,9 +1,9 @@
 ---
-subtitle: A 1-page business plan template to help you focus on problems,
-  solutions, key metrics and competitive advantages.
 participants:
   - Product Owner
   - The Team
+subtitle: A 1-page business plan template to help you focus on problems,
+  solutions, key metrics and competitive advantages.
 resources:
   - link: https://leanstack.com/leancanvas
     linkType: web
@@ -33,25 +33,13 @@ authors:
   - sandraarps
   - ariellemcmahon
   - aspanner
-area: discovery-loop-why
 tags:
   - discovery
   - value
-perspectives:
-  - product-ownership
 icon: /images/lean-canvas.png
-people: 1+
-time: 1hr +
-difficulty: moderate
 whatIs: A Lean Canvas is a one-page document that captures key information about
   your future product. The Lean Canvas is frequently used by Entrepreneurs and
   Lean Startups.
-whyDo: |-
-  This document will help structure your idea in terms of:
-  * What problem your product or service will solve
-  * Who your potential customers are
-  * How your product will be distributed and
-  * How you will make money from it.
 howTo: >-
   When filling out the Lean Canvas, it is best to fill the sections out in a
   certain way.
@@ -131,10 +119,22 @@ howTo: >-
   #### Business Model Canvas
 
   The business model canvas is a variation that focuses on the development of new, improving existing or understanding the current business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
+area: discovery-loop-why
+time: 1hr +
 mediaGallery:
-  - link: https://openpracticelibrary.com/images/ux-strategy-template.jpg
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Lean%20Canvas.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-canvas-small.png?raw=true
+  - link: https://openpracticelibrary.com/images/ux-strategy-template.jpg
+people: 1+
+whyDo: |-
+  This document will help structure your idea in terms of:
+  * What problem your product or service will solve
+  * Who your potential customers are
+  * How your product will be distributed and
+  * How you will make money from it.
+perspectives:
+  - product-ownership
+difficulty: moderate
 ---
 ## What is it?
 
