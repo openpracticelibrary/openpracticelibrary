@@ -21,4 +21,5 @@
   [plugins.inputs.preBuild]
     start = 'npm start'
     wait-on = 'http://localhost:8000'
+    wait-on-timeout = '360' # seconds
   
