@@ -11,7 +11,7 @@
     "apollo-boost": "^0.4.9",
     "bad-words": "^3.0.3",
     "bulma": "^0.9.0",
-    "gatsby": "^2.20.35",
+    "gatsby": "^2.24.28",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-google-analytics": "^2.3.13",
     "gatsby-plugin-netlify": "^2.2.4",
@@ -54,7 +54,7 @@
   "scripts": {
     "clean": "gatsby clean",
     "start": "npm run develop",
-    "build": "npm run clean && gatsby build",
+    "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
     "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
