@@ -2,7 +2,18 @@
   publish = "public"
   command = "npm run build"
   functions = "lambda"
+
 [build.environment]
   NODE_VERSION = "12"
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
+  # do not show Cypress installation progress messages
+  CI = "1"
+  # cache Cypress binary in local "node_modules" folder
+  # so Netlify caches it
+  CYPRESS_CACHE_FOLDER = "./node_modules/CypressBinary"
+  # set TERM variable for terminal output
+  TERM = "xterm"
+
+[[plugins]]
+  package = "netlify-plugin-cypress"
