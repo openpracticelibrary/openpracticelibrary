@@ -17,4 +17,8 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+
+  [plugins.inputs.preBuild]
+    start = 'npm start'
+    wait-on = 'http://localhost:5000'
   
