@@ -1,1 +1,6 @@
-{}
+{
+  "baseUrl": "http://localhost:5000",
+  "supportFile": false,
+  "pluginsFile": false,
+  "fixturesFolder": false
+}

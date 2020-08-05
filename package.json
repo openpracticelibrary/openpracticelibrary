@@ -45,6 +45,7 @@
     "react-lottie-hook": "0.0.5",
     "react-markdown": "^4.3.1",
     "react-share": "^4.2.1",
+    "serve": "^11.3.2",
     "styled-components": "^5.1.1",
     "url-validation": "^2.1.0",
     "uuid": "^7.0.0"
@@ -53,12 +54,13 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean",
-    "start": "npm run develop",
+    "start": "serve public/",
     "build": "npm run clean && gatsby build",
     "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:open": "cypress open"
+    "cy:open": "cypress open",
+    "cy:test": "cypress run"
   },
   "devDependencies": {
     "babel-jest": "^26.1.0",

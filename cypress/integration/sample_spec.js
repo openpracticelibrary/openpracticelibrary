@@ -1,5 +1,7 @@
 describe('My First Test', () => {
-    it('Does not do much!', () => {
-      cy.visit("http://localhost:8000")
+    it('Verify Discovery Tag Navigates to /tags/discovery', () => {
+      cy.visit("/");
+      cy.get('[data-testid="filter_tag_Discovery"]').click();
+      cy.url().should('include', '/tags/discovery')
     })
   })
