@@ -1,12 +1,12 @@
 import React from "react";
 
-import { Box, Typography } from "@material-ui/core";
+import { Box } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
 import FilterTags from "./FilterBar/FilterTags";
-import KeywordSearchToggle from "./FilterBar/KeywordSearchToggle";
-import DropDownSelectionFilter from "./FilterBar/DropDownSelectionFilter";
-import KeywordSearchBox from "./FilterBar/KeywordSearchBox";
-import PopularFilter from "./FilterBar/PopularFilter";
+// import KeywordSearchToggle from "./FilterBar/KeywordSearchToggle";
+// import DropDownSelectionFilter from "./FilterBar/DropDownSelectionFilter";
+// import KeywordSearchBox from "./FilterBar/KeywordSearchBox";
+// import PopularFilter from "./FilterBar/PopularFilter";
 
 const Practices = ({
   children,

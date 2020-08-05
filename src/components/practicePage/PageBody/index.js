@@ -35,10 +35,11 @@ export default function PageBody(props) {
     howToEditor,
   } = props;
 
-  if (whatIs && whyDo && howTo) {
+  if (whatIs || whyDo || howTo) {
     return (
       <>
         <Box className={classes.root}>
+          {whatIs && (
           <WhatIs
             title={title}
             source={whatIs}
@@ -46,7 +47,9 @@ export default function PageBody(props) {
             editing={editing}
           >
             {whatIsEditor}
-          </WhatIs>
+            </WhatIs>
+          )}
+          {whyDo && (
           <WhyDo
             title={title}
             source={whyDo}
@@ -54,7 +57,9 @@ export default function PageBody(props) {
             editing={editing}
           >
             {whyDoEditor}
-          </WhyDo>
+            </WhyDo>
+          )}
+          {howTo && (
           <HowDo
             title={title}
             source={howTo}
@@ -62,7 +67,8 @@ export default function PageBody(props) {
             editing={editing}
           >
             {howToEditor}
-          </HowDo>
+            </HowDo>
+          )}
           {mediaGallery && (
             <MediaGallery
               practiceId={practiceId}

@@ -16,7 +16,6 @@ import {
   LinkedIn,
   MailOutline,
   Twitter,
-  FavoriteBorder,
 } from "@material-ui/icons";
 import { Typography, Grid, IconButton, Popover } from "@material-ui/core";
 

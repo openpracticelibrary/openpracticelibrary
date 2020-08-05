@@ -17,7 +17,6 @@ const PracticeCardGrid = (props) => {
       return;
     props.onLoadMore(props.page);
   }
-  console.log("data - ", props);
   return (
     <Grid container data-testid="practicecardgrid" justify="center">
       {props.practices.map((practice) => (
