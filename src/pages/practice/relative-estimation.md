@@ -23,6 +23,7 @@ authors:
   - mvmaestri
 area: foundation-culture-and-collaboration
 tags:
+  - foundation
   - methods
 icon: /images/final_relative-sizing.png
 people: 2+
