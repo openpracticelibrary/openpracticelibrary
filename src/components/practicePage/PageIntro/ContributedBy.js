@@ -5,7 +5,6 @@ import EditorPhotos from "./EditorPhotos";
 import { Typography, Grid, Box } from '@material-ui/core';
 
 export default function ContributedBy(props) {
-  console.log(props);
   const formatDate = (date) => {
     return moment(date).format("MMMM D, YYYY");
   };

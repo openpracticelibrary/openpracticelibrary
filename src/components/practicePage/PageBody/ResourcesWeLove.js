@@ -40,25 +40,42 @@ export default function ResourcesWeLove(props) {
   const [expanded, setExpanded] = React.useState(false);
   const classes = useStyles();
   const resourceLinkList = () => {
-    const resourceList = props.links.filter(
-      (resource) => resource.link.length > 0
-    );
-    const listLength = resourceList.length;
-    let initialLinkList = [];
-    let expandedLinkList = [];
-    let expandedListLength = 0;
-    if (listLength > 5) {
-      initialLinkList = resourceList.slice(0, 5);
-      expandedLinkList = resourceList;
-      expandedListLength = listLength - 5;
-    } else {
-      initialLinkList = resourceList;
-    }
+    if (Object.keys(props.links[0]).length !== 0) {
+      const resourceList = props.links.filter(
+        (resource) => resource.link.length > 0
+      );
+      const listLength = resourceList.length;
+      let initialLinkList = [];
+      let expandedLinkList = [];
+      let expandedListLength = 0;
+      if (listLength > 5) {
+        initialLinkList = resourceList.slice(0, 5);
+        expandedLinkList = resourceList;
+        expandedListLength = listLength - 5;
+      } else {
+        initialLinkList = resourceList;
+      }
 
-    if (expanded) {
+      if (expanded) {
+        return (
+          <React.Fragment>
+            {expandedLinkList.map((resource, i) => (
+              <ResourceListItem
+                key={i}
+                listItemKey={i}
+                url={resource.link}
+                description={resource.description}
+              >
+                {Icon[resource.linkType]}
+              </ResourceListItem>
+            ))}
+          </React.Fragment>
+        );
+      }
+
       return (
         <React.Fragment>
-          {expandedLinkList.map((resource, i) => (
+          {initialLinkList.map((resource, i) => (
             <ResourceListItem
               key={i}
               listItemKey={i}
@@ -68,31 +85,16 @@ export default function ResourcesWeLove(props) {
               {Icon[resource.linkType]}
             </ResourceListItem>
           ))}
+          {resourceList.length > 5 && !expanded && (
+            <Button>
+              <Typography variant={"overline"} onClick={handleExpand}>
+                See {expandedListLength} more links
+              </Typography>
+            </Button>
+          )}
         </React.Fragment>
       );
     }
-
-    return (
-      <React.Fragment>
-        {initialLinkList.map((resource, i) => (
-          <ResourceListItem
-            key={i}
-            listItemKey={i}
-            url={resource.link}
-            description={resource.description}
-          >
-            {Icon[resource.linkType]}
-          </ResourceListItem>
-        ))}
-        {resourceList.length > 5 && !expanded && (
-          <Button>
-            <Typography variant={"overline"} onClick={handleExpand}>
-              See {expandedListLength} more links
-            </Typography>
-          </Button>
-        )}
-      </React.Fragment>
-    );
   };
 
   const handleExpand = () => {

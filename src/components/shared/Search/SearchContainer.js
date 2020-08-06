@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React from "react";
 import * as JsSearch from "js-search";
 import PracticeCardGrid from "../PracticeCards/PracticeCardGrid";
@@ -45,7 +46,6 @@ export default function SearchContainer(props) {
       search: dataToSearch,
       isLoading: false,
     });
-    console.log(state);
   }, []);
 
   return (

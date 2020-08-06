@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
 export default function MediaGallery({ practiceId, title, mediaGallery, mediaRef }) {
   const classes = useStyles();
   const images = mediaGallery.map(media => {
-    const url = new URL(media.link);
+    const url = media.link ? new URL(media.link) : new URL('https://via.placeholder.com/300');
     if (url.hostname.includes('youtube') && url.pathname.includes('watch')) {
       const youtubeId = url.searchParams.get('v');
       const link = `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`;

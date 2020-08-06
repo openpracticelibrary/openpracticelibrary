@@ -34,7 +34,7 @@ collections:
         widget: "select"
         multiple: true
         max: 3
-        options: 
+        options:
           - label: "Discovery"
             value: "discovery"
           - label: "Delivery"

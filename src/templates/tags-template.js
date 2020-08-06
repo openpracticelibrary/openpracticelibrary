@@ -1,17 +1,11 @@
 import React from "react";
 import { graphql } from "gatsby";
 import OplDrawer from "../components/shared/Drawer";
-import PracticeCardGrid from "../components/shared/PracticeCards/PracticeCardGrid";
 import Practices from "../components/allPractices";
 import SearchContainer from "../components/shared/Search/SearchContainer";
 import {
-  filterTags,
   mobiusLoopArray,
-  popularMenuItems,
-  formTagArray,
 } from "../utilities/dropDownValues";
-
-const paginationLimit = 20;
 
 const PracticesWithDataTags = (props) => {
   //make first letter of tag upper case (example: discovery => Discovery)
