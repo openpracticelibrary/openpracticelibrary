@@ -18,6 +18,7 @@ const PageIntro = ({
   upvotes,
   imgCount,
   questions,
+  date
 }) => (
   <Container maxWidth="md">
     <TitleAndSubtitle
@@ -30,7 +31,7 @@ const PageIntro = ({
     />
     <ContributedBy
       authors={authors}
-      createdAt={createdAt}
+      createdAt={date}
       updatedAt={updatedAt}
     />
 

@@ -2,10 +2,9 @@ import React from "react";
 import moment from "moment";
 import PhotoAndName from "./PhotoAndName";
 import EditorPhotos from "./EditorPhotos";
-import { Typography, Grid, Box } from '@material-ui/core';
+import { Typography, Grid, Box } from "@material-ui/core";
 
 export default function ContributedBy(props) {
-  console.log(props);
   const formatDate = (date) => {
     return moment(date).format("MMMM D, YYYY");
   };
@@ -37,28 +36,28 @@ export default function ContributedBy(props) {
           <Typography variant="overline">Contributed by</Typography>
           <Grid item>
             <Box display="flex" flexDirection="row">
-              {contributors && contributors.map((author, i) => (
-                <PhotoAndName
-                  key={i}
-                  authorName={author.title}
-                  avatar={`https://github.com/${author.github}.png`}
-                />
-              ))}
+              {contributors &&
+                contributors.map((author, i) => (
+                  <PhotoAndName
+                    key={i}
+                    authorName={author.title}
+                    avatar={`https://github.com/${author.github}.png`}
+                  />
+                ))}
             </Box>
           </Grid>
         </Box>
-        { (editors && editors.length > 0) &&
-        <Box mr={3}>
-          <Typography variant="overline">Edited by</Typography>
-          <Grid item>
-            <EditorPhotos editors={editors} />
-          </Grid>
-        </Box>
-        }
+        {editors && editors.length > 0 && (
+          <Box mr={3}>
+            <Typography variant="overline">Edited by</Typography>
+            <Grid item>
+              <EditorPhotos editors={editors} />
+            </Grid>
+          </Box>
+        )}
         <Grid item>
           <Typography variant="overline" data-testid={"dates"}>
-                Published {formatDate(props.createdAt)} | Last edited{" "}
-            {formatDate(props.updatedAt)}
+            Published {formatDate(props.createdAt)}
           </Typography>
         </Grid>
       </Grid>

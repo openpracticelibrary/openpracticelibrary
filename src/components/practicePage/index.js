@@ -23,6 +23,7 @@ const PracticePage = ({ data }) => {
         howTo,
         mediaGallery,
         resources,
+        date
       },
       rawMarkdownBody,
     },
@@ -51,6 +52,7 @@ const PracticePage = ({ data }) => {
     subtitle,
     tags,
     authors,
+    date,
     imgCount: mediaGallery ? mediaGallery.length : 0,
   };
 
