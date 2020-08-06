@@ -40,7 +40,6 @@ export default function ResourcesWeLove(props) {
   const [expanded, setExpanded] = React.useState(false);
   const classes = useStyles();
   const resourceLinkList = () => {
-    console.log(props);
     if (Object.keys(props.links[0]).length !== 0) {
       const resourceList = props.links.filter(
         (resource) => resource.link.length > 0
