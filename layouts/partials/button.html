@@ -1,6 +1,0 @@
-<!-- Button takes a dict with some `buttonText` to display in the dom. 
-The link is either `absolutePath` or a link to the given `practicePath` to edit in the CMS -->
-{{ if .}}
-{{ $practicePath := print "/admin/#/collections/practice/entries/" .practicePath}}
-<a class="btn-primary" href="{{or .absolutePath $practicePath  }}"> {{ .buttonText }}</a>
-{{end}}
