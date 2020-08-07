@@ -32,7 +32,7 @@ resources:
     description: Team Sentiment
 templateKey: practice-page
 title: Visualisation of Work
-subtitle: Visually represent all aspects of the team's work
+subtitle: Visually represent all aspects of your team's work
 date: 2018-04-08T20:41:51.000Z
 authors:
   - tdbeattie
