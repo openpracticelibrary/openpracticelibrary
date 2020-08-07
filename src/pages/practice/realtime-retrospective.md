@@ -1,26 +1,39 @@
 ---
+participants:
+  - The Team
+  - Facilitator
+subtitle: Getting feedback faster and improving the overall experience of your event.
+resources:
+  - link: http://emilywebber.co.uk/the-realtime-retrospective/
+    linkType: web
+    description: Realtime Retrospectives
+  - link: https://www.amazon.com/Post-Sticky-Janeiro-Collection-6845-SSP/dp/B000CD0MHQ/
+    linkType: purchase
+    description: 8x6 Sticky Notes on Amazon
+  - link: https://www.amazon.com/dp/B01N1UE0JY?psc=1
+    linkType: purchase
+    description: 3x3 Sticky Notes on Amazon
+  - link: https://www.infoq.com/articles/rising-continuous-retrospective/
+    linkType: web
+    description: Continuous Retrospective
+  - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
+    linkType: web
+    description: the Double Diamond design model
 templateKey: practice-page
 title: Realtime Retrospective
-subtitle: Getting feedback faster and improving the overall experience of your event.
 date: 2017-10-26T05:00:00.000Z
 authors:
   - mtakane
   - Zenigata
-area: foundation-culture-and-collaboration
-icon: /images/realtime-retro-prep.jpg
-jumbotron: /images/example-realtime-retro.jpg
-jumbotronAlt: Get Realtime feedback over the course of your event!
-people: 2+
-time: one week
-difficulty: easy
-participants:
-  - The Team
-  - Facilitator
 tags:
   - foundation
   - culture
+icon: /images/realtime-retro-prep.jpg
 whatIs: >-
-  The Realtime Retrospective technique was created by Emily Webber. This is a great way to capture feedback from a large number of participants in realtime over an extended period of time. By the middle of your event you should already have:
+  The Realtime Retrospective technique was created by Emily Webber. This is a
+  great way to capture feedback from a large number of participants in realtime
+  over an extended period of time. By the middle of your event you should
+  already have:
 
 
   * some feedback in a timeline-like fashion that includes both positive and negative things
@@ -37,7 +50,11 @@ whatIs: >-
 
   * Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library.
 whyDo: >-
-  * Let's face it, nobody _likes_ filling out surveys, especially if it's more than three questions. Why not have the participants write unfiltered, uncensored, and quick feedback at the time they think of it? Realtime Retrospectives provide a low bar of entry and is voluntary and easy to participate anonymously.
+  * Let's face it, nobody _likes_ filling out surveys, especially if it's more
+  than three questions. Why not have the participants write unfiltered,
+  uncensored, and quick feedback at the time they think of it? Realtime
+  Retrospectives provide a low bar of entry and is voluntary and easy to
+  participate anonymously.
 
 
   * For long running days or weeks with multiple sessions or activities, you can visibly see people's moods or grasp of the information in realtime.
@@ -129,27 +146,14 @@ howTo: >-
 
 
   * Linda Rising has a concept of the Continuous Retrospective that uses the timeline aspect of the Timeline Retrospective and to reflect on it everyday as a team.
+jumbotron: /images/example-realtime-retro.jpg
+area: foundation-culture-and-collaboration
+time: one week
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/realtime-retro-prep.jpg
-resources:
-  - link: http://emilywebber.co.uk/the-realtime-retrospective/
-    linkType: web
-    description: Realtime Retrospectives
-  - link: https://www.amazon.com/Post-Sticky-Janeiro-Collection-6845-SSP/dp/B000CD0MHQ/
-    linkType: web
-    description: example
-  - link: https://www.amazon.com/dp/B01N1UE0JY?psc=1
-    linkType: web
-    description: example
-  - link: https://www.amazon.com/dp/B01N1UE0JY?psc=1
-    linkType: web
-    description: Timeline Retrospectives
-  - link: https://www.infoq.com/articles/rising-continuous-retrospective/
-    linkType: web
-    description: Continuous Retrospective
-  - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
-    linkType: web
-    description: the Double Diamond design model
+people: 2+
+difficulty: easy
+jumbotronAlt: Get Realtime feedback over the course of your event!
 ---
 
 ## What is it?
