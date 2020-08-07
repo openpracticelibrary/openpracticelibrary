@@ -1,9 +1,9 @@
 ---
-subtitle: Facilitate conversation and gain shared alignment on sizing of
-  complexity and value
 participants:
   - Facilitators
   - Team Members
+subtitle: Facilitate conversation and gain shared alignment on sizing of
+  complexity and value
 resources:
   - link: https://www.mountaingoatsoftware.com/blog/what-are-story-points
     linkType: web
@@ -21,13 +21,8 @@ authors:
   - ilaria66
   - noelo
   - mvmaestri
-area: foundation-culture-and-collaboration
 tags:
   - methods
-icon: /images/final_relative-sizing.png
-people: 2+
-time: Varies
-difficulty: moderate
 whatIs: >-
   * A mechanism for sizing different items relative to each other.
 
@@ -38,16 +33,6 @@ whatIs: >-
 
 
   * Common techniques include use of story points, planning poker, t-shirt sizes and double figures.
-whyDo: >-
-  * Facilitates conversation.
-
-
-
-  * Helps align groups of people to reach consensus on their understanding regarding the size of complexity and/or value of an item.
-
-
-
-  * Avoids the emotion, buffering and other negative side effects of absolute estimation.
 howTo: >-
   Let's say for example you were asked to estimate how difficult it is to eat
   the fruit below?
@@ -127,10 +112,25 @@ howTo: >-
 
 
   * It is relevant to avoid stories too big that are brought into the sprint and they are carried over multiple sprint, as in face to face engagements.
+area: foundation-culture-and-collaboration
+time: Varies
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/apple.jpg
   - link: https://openpracticelibrary.github.io/opl-media/images/sizing.jpg
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Relative%20Sizing.jpeg?raw=true
+  - link: https://openpracticelibrary.github.io/opl-media/images/apple.jpg
+people: 2+
+icon: /images/final_relative-sizing.png
+whyDo: >-
+  * Facilitates conversation.
+
+
+
+  * Helps align groups of people to reach consensus on their understanding regarding the size of complexity and/or value of an item.
+
+
+
+  * Avoids the emotion, buffering and other negative side effects of absolute estimation.
+difficulty: moderate
 ---
 ## What is it?
 
