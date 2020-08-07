@@ -1,27 +1,50 @@
 ---
+participants:
+  - Organisation
+subtitle: Connect to your purpose
+resources:
+  - link: https://www.youtube.com/watch?v=u4ZoJKF_VuA
+    linkType: web
+    description: https://www.youtube.com/watch?v=u4ZoJKF_VuA
+  - link: https://simonsinek.com/find-your-why/
+    linkType: web
+    description: https://simonsinek.com/find-your-why/
+  - link: https://en.wikipedia.org/wiki/Start_With_Why
+    linkType: web
+    description: https://en.wikipedia.org/wiki/Start_With_Why
+  - link: https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us
+    linkType: web
+    description: '"Drive: The Surprising Truth About What Motivates Us"'
+  - link: http://people.duke.edu/~dandan/webfiles/PapersUpside/Large%20Stakes%20Big%20Mistakes.pdf
+    linkType: web
+    description: '"Large Stakes and Big Mistakes"'
+  - link: https://www.redhat.com/en/blog/why-open-has-been-red-hat%E2%80%99s-compass-and-purpose-25-years
+    linkType: web
+    description: Open Decision Framework
+  - link: https://github.com/red-hat-people-team/open-decision-framework
+    linkType: web
+    description: Open Decision Framework
+  - link: https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/
+    linkType: web
+    description: https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/
+  - link: https://opensource.com/open-organization/18/6/explaining-your-why
+    linkType: web
+    description: https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/
 templateKey: practice-page
 title: Start With Why
-subtitle: Connect to your purpose
 date: 2019-05-22T12:57:41.956Z
 authors:
   - tenfourty
-area: discovery-loop-why
-perspectives: []
-icon: /images/golden-circle.png
-jumbotron: /images/golden-circle.webp
-jumbotronAlt: Start With Why
-people: 1+
-time: 1 day to 1 year
-difficulty: moderate
-participants:
-  - Organisation
 tags:
   - discovery
   - insight
-whatIs: >-
-  Start with why is a practice to discover your organisation's or your personal why. The "Why" is within you and finding your "Why" is a process of discovery, not invention.
+icon: /images/golden-circle.png
+whatIs: Start with why is a practice to discover your organisation's or your
+  personal why. The "Why" is within you and finding your "Why" is a process of
+  discovery, not invention.
 whyDo: >-
-  Why are you here? Why does your organisation exist? Is it just to please the shareholders?
+  Why are you here? Why does your organisation exist? Is it just to please the
+  shareholders?
 
 
   You will have heard the brilliant statement by Harvard marketing professor Theodore Levitt: “People don’t want to buy a quarter-inch drill. They want a quarter-inch hole.” In his book, This Is Marketing, Seth Godin says:
@@ -109,36 +132,15 @@ howTo: >-
 
 
   Red Hat used the [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework) across their whole organisation to[ find their why](https://www.redhat.com/en/blog/why-open-has-been-red-hat%E2%80%99s-compass-and-purpose-25-years), which is "Open unlock's the world's potential".
+jumbotron: /images/golden-circle.webp
+area: discovery-loop-why
+time: 1 day to 1 year
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/golden-circle.png?raw=true
-resources:
-  - link: https://www.youtube.com/watch?v=u4ZoJKF_VuA
-    linkType: web
-    description: https://www.youtube.com/watch?v=u4ZoJKF_VuA
-  - link: https://simonsinek.com/find-your-why/
-    linkType: web
-    description: https://simonsinek.com/find-your-why/
-  - link: https://en.wikipedia.org/wiki/Start_With_Why
-    linkType: web
-    description: https://en.wikipedia.org/wiki/Start_With_Why
-  - link: https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us
-    linkType: web
-    description: '"Drive: The Surprising Truth About What Motivates Us"'
-  - link: http://people.duke.edu/~dandan/webfiles/PapersUpside/Large%20Stakes%20Big%20Mistakes.pdf
-    linkType: web
-    description: '"Drive: The Surprising Truth About What Motivates Us"'
-  - link: https://www.redhat.com/en/blog/why-open-has-been-red-hat%E2%80%99s-compass-and-purpose-25-years
-    linkType: web
-    description: Open Decision Framework
-  - link: https://github.com/red-hat-people-team/open-decision-framework
-    linkType: web
-    description: Open Decision Framework
-  - link: https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/
-    linkType: web
-    description: https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/
-  - link: https://opensource.com/open-organization/18/6/explaining-your-why
-    linkType: web
-    description: https://www.freshworks.com/freshsales-crm/resources/summary-of-start-with-why-blog/
+people: 1+
+perspectives: []
+difficulty: moderate
+jumbotronAlt: Start With Why
 ---
 
 ## What is it?
