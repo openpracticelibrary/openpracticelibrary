@@ -2,12 +2,12 @@
 participants: []
 subtitle: An online meeting method
 resources:
-  - link: https://en.wikipedia.org/wiki/Zing_Technologies
-    linkType: web
-    description: Zing Technologies
   - link: https://podcasts.apple.com/us/podcast/t2r2-w-donna-benjamin/id1501715186?i=1000482347700
     linkType: podcast
     description: Listen to the Open Practice Podcast episode about T2R2!
+  - link: https://en.wikipedia.org/wiki/Zing_Technologies
+    linkType: web
+    description: Zing Technologies
 templateKey: practice-page
 title: T2R2 - Talk, type, read, review!
 date: 2020-03-23T05:46:59.224Z
