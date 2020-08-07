@@ -1,30 +1,43 @@
 ---
-templateKey: practice-page
-title: Service Blueprint
-subtitle: A business process diagram analyzed from the people perspective.
-date: 2018-11-14T18:39:21.278Z
-authors:
-  - darcief
-area: discovery-loop-why
-perspectives:
-  - product-ownership
-icon: /images/service_design_blueprint.png
-jumbotron: /images/service_design_blueprint.png
-jumbotronAlt: service blueprint template
-people: 3+
-time: 4+ Hours
-difficulty: moderate
 participants:
   - Facilitator(s)
   - Product Team
   - Development Team
   - Business Stakeholder(s)
+subtitle: A business process diagram analyzed from the people perspective.
+resources:
+  - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
+    linkType: web
+    description: "Service Blueprints: Laying the Foundation"
+  - link: https://en.wikipedia.org/wiki/Service_blueprint
+    linkType: web
+    description: Service Blueprint Wiki
+  - link: https://mural.co/templates/service-blueprint
+    linkType: web
+    description: Mural.co Blueprint Free Template
+  - link: https://en.wikipedia.org/wiki/Service_design
+    linkType: web
+    description: Service Design Wiki
+  - link: https://realtimeboard.com/examples/service-blueprint
+    linkType: web
+    description: RealtimeBoard Blueprint Free Template
+  - link: http://www.practicalservicedesign.com/resources
+    linkType: web
+    description: Practical Service Design Free Resources
+templateKey: practice-page
+title: Service Blueprint
+date: 2018-11-14T18:39:21.278Z
+authors:
+  - darcief
 tags:
   - discovery
   - options
   - ideate
+icon: /images/service_design_blueprint.png
 whatIs: >-
-  Before jumping into activity details please consider a brief overview about the origins of [Service Design](https://www.interaction-design.org/literature/article/service-design-design-is-not-just-for-products/?target=_blank).
+  Before jumping into activity details please consider a brief overview about
+  the origins of [Service
+  Design](https://www.interaction-design.org/literature/article/service-design-design-is-not-just-for-products/?target=_blank).
 
 
   > “In 1982, the term “service design” was coined by Lynn Shostack. It was proposed that a business should develop a “service blueprint” which details the processes within a company and how each process interacts with other processes.”
@@ -43,20 +56,20 @@ whatIs: >-
 
 
   **2: People Actions:** User steps that people take as part of the process 
-  
+
 
   *Line of Interaction: Separates people actions from technical actions*
 
 
   **3: Front-stage Actions:** The technical interface or tools people interact with in each step
-  
-  
+
+
   *Line of Visibility: Separates front-stage and back-stage actions*
 
 
   **4: Back-stage Actions:** Non-visible technical requirements needed for each step
-  
-  
+
+
   *Line of Internal Interaction: Separates technical actions from external support efforts*
 
 
@@ -71,12 +84,20 @@ whatIs: >-
 
   NOTE: Multiple users are usually added to the People actions because more than one user is often needed to complete a process step. A couple users make for a simple blueprint in a quick amount of activity time, while an increased number of users make for a more complex blueprint which will take longer to create.
 whyDo: >-
-  This versatile activity can help identify process problem areas and growth opportunities for business operational workflows, a new or existing product offering, as well as the business structure of a startup or established company. The chart is meant to be flexible with the type of process reviewed and project needs.
+  This versatile activity can help identify process problem areas and growth
+  opportunities for business operational workflows, a new or existing product
+  offering, as well as the business structure of a startup or established
+  company. The chart is meant to be flexible with the type of process reviewed
+  and project needs.
 
 
   The blueprint will quickly point out assumptions and unknowns about a process across all business units, plus discover any confusion or misinterpretations within the process steps. This information can drive exploratory and validation research with users along with necessary technical and business research, to later define opportunities, strategy and solutions.
 howTo: >-
-  It is important to have primary users identified prior to starting the blueprint but some exploration of secondary or tertiary persona groups will be done with the activity. Focus on one (1) main process per service blueprint, prioritized by the top user/business problems to be solved. Follow these steps to initiate and develop blueprint:
+  It is important to have primary users identified prior to starting the
+  blueprint but some exploration of secondary or tertiary persona groups will be
+  done with the activity. Focus on one (1) main process per service blueprint,
+  prioritized by the top user/business problems to be solved. Follow these steps
+  to initiate and develop blueprint:
 
 
   **Step #1:** Book a work area with a large whiteboard or flat wall surface to create the blueprint. It is ideal if the chart can remain in this area for the length of the project because it is often referenced with later activities.
@@ -92,8 +113,8 @@ howTo: >-
 
 
   **Step #5:** Facilitate the first step in the process by identifying each section of the blueprint as a vertical slice, ensure the team focuses on just one step at a time. With Front-stage consider tools such as email, interfaces or internal/external tools needed, etc., to complete the step.
-  
-  
+
+
   * Often new users or front/back-stage requirements come up further along in the process chart so leave room for adding new rows.
 
 
@@ -140,8 +161,8 @@ howTo: >-
 
 
   ## Outcomes
-  
-  
+
+
   A user-centered chart with holistic views across all business units required to deliver the process being reviewed. This includes a detailed contextual understanding of process unknowns, problems and opportunities, plus empathy for the people responsible for each step. This information can be used for research efforts and strategy development.
 
 
@@ -173,8 +194,8 @@ howTo: >-
 
 
   **Experimentation**: It is encouraged to experiment with the type of process reviewed. This activity works well for all industries and business categories.
-  
-  
+
+
   **Supply list for whiteboard:**
 
 
@@ -203,28 +224,17 @@ howTo: >-
 
 
   * Camera(s) for documenting
+jumbotron: /images/service_design_blueprint.png
+area: discovery-loop-why
+time: 4+ Hours
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/blueprint_concept_sketch.jpg
   - link: https://openpracticelibrary.github.io/opl-media/images/service_design_blueprint.png
-resources:
-  - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
-    linkType: web
-    description: "Service Blueprints: Laying the Foundation"
-  - link: https://en.wikipedia.org/wiki/Service_blueprint
-    linkType: web
-    description: Service Blueprint Wiki
-  - link: https://en.wikipedia.org/wiki/Service_design
-    linkType: web
-    description: Service Design Wiki
-  - link: https://realtimeboard.com/examples/service-blueprint
-    linkType: web
-    description: RealtimeBoard Blueprint Free Template
-  - link: http://www.practicalservicedesign.com/resources
-    linkType: web
-    description: Practical Service Design Free Resources
-  - link: https://mural.co/templates/service-blueprint
-    linkType: web
-    description: Mural.co Blueprint Free Template
+people: 3+
+perspectives:
+  - product-ownership
+difficulty: moderate
+jumbotronAlt: service blueprint template
 ---
 
 ## So what is a Service Blueprint?
