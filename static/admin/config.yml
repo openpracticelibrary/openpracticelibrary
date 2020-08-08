@@ -103,6 +103,34 @@ collections:
           - label: "Description"
             name: "description"
             widget: "string"
+      - label: "No. of people required"
+        hint: "How many people are needed for the practice eg 2+ or 10"
+        name: "people"
+        widget: "string"
+        required: false
+      - label: "Time length"
+        hint: "How long is needed to facilitate this practice"
+        name: "time"
+        widget: "string"
+        required: false
+      - label: "Facilitation difficulty"
+        hint: "How difficult is it to facilitate this practice"
+        name: "difficulty"
+        widget: "select"
+        required: false
+        options:
+          - label: "Easy"
+            value: "easy"
+          - label: "Moderate"
+            value: "moderate"
+          - label: "Hard"
+            value: "hard"
+      - label: "Expected participants"
+        hint: "Who should attend when running this practice? eg., The Team, The Product Owner, BAs"
+        name: "participants"
+        required: false
+        widget: "list"
+        default: []
   - name: "perspective" # Used in routes, e.g., /admin/collections/blog
     label: "Perspective" # Used in the UI
     publish: false
