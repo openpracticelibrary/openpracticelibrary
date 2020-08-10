@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
   repo: openpracticelibrary/openpracticelibrary
-  branch: mobius-loop-tags-required
+  branch: next
 
-local_backend: true
+# local_backend: true
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
@@ -54,7 +54,7 @@ collections:
             value: "learn"
       - label: "Mobius Loop Tag"
         hint: "Where does this practice live on the Mobius Loop?"
-        name: mobiusTags
+        name: mobiusTag
         widget: "select"
         multiple: false
         required: true

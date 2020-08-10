@@ -1,62 +1,67 @@
 ---
 participants:
   - The Team
-subtitle: Improvise to create more good ideas, and build strong team work skills.
+subtitle: 'Improvise to create more good ideas, and build strong team work skills.'
 resources:
-  - link: https://medium.com/@alyssadmurray/yes-and-306029ebff9a
+  - link: 'https://medium.com/@alyssadmurray/yes-and-306029ebff9a'
     linkType: web
     description: Alyssa Murray
-  - link: https://liberationist.org/yes-and-improv/
+  - link: 'https://liberationist.org/yes-and-improv/'
     linkType: web
     description: 'Improv Principle: "Yes, and..."'
-  - link: https://www.dramanotebook.com/drama-games/yes-and/
+  - link: 'https://www.dramanotebook.com/drama-games/yes-and/'
     linkType: web
     description: '"Yes, and..." Drama Game'
-  - link: https://www.thoughtco.com/yes-and-improv-game-2713213
+  - link: 'https://www.thoughtco.com/yes-and-improv-game-2713213'
     linkType: web
     description: Improve Acting Instincts and Performance With This Clever Improv Game
-  - link: "
-      https://www.fastcompany.com/3024535/yes-and-improv-techniques-to-make-you\
-      -a-better-boss "
+  - link: ' https://www.fastcompany.com/3024535/yes-and-improv-techniques-to-make-you-a-better-boss '
     linkType: web
-    description: Yes, And… Improv Techniques To Make You A Better Boss
-  - link: https://zapier.com/learn/customer-support/improv-customer-support/
+    description: 'Yes, And… Improv Techniques To Make You A Better Boss'
+  - link: 'https://zapier.com/learn/customer-support/improv-customer-support/'
     linkType: web
     description: 4 Rules of Improv and How They Relate to Customer Support
-  - link: https://www.vox.com/2018/6/3/17414570/second-city-improv-anne-libera-kelly-leonard-code-conference
+  - link: >-
+      https://www.vox.com/2018/6/3/17414570/second-city-improv-anne-libera-kelly-leonard-code-conference
     linkType: web
-    description: '"Improvisation is ‘yoga for your social skills’ and can make you
-      better leaders" by Vox Media'
+    description: >-
+      "Improvisation is ‘yoga for your social skills’ and can make you better
+      leaders" by Vox Media
 templateKey: practice-page
 title: Yes! And...
 date: 2020-01-10T22:11:46.920Z
 authors:
   - kattekrab
 tags:
-  - foundation
   - culture
 icon: /images/yes-and.jpeg
-whatIs: An exercise to promote good team practice for generating lots of quality ideas.
+whatIs: >-
+  An exercise to promote good team practice for generating lots of quality
+  ideas.
 howTo: >-
   Break the group into small teams of 4–6 people.  The challenge: plan a party
   to celebrate last quarter’s achievements.
 
 
-  Round 1: Everyone shares an idea (one-at-a-time). Every time one person shares an idea, someone else replies: “No, what we need to do is…” and explains the alternative idea.
+  Round 1: Everyone shares an idea (one-at-a-time). Every time one person shares
+  an idea, someone else replies: “No, what we need to do is…” and explains the
+  alternative idea.
 
 
-  Round 2: Same approach. This time, the response is “Yes, but…” Everyone presents an objection and then shares their idea.
+  Round 2: Same approach. This time, the response is “Yes, but…” Everyone
+  presents an objection and then shares their idea.
 
 
-  Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”
+  Round 3: Finally, you bring up the “Yes, and…” approach. People need to build
+  on other’s ideas by replying “yes, and we can also…”
 
 
   From https://liberationist.org/yes-and-improv/
 area: foundation-culture-and-collaboration
 time: 1-2 hours
 mediaGallery:
-  - link: https://youtu.be/KA447nZpVzs?list=PLKof9YSAshgzxvPf6HLzELtVZyaoaVwRh
-  - link: https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be
+  - link: 'https://youtu.be/KA447nZpVzs?list=PLKof9YSAshgzxvPf6HLzELtVZyaoaVwRh'
+  - link: 'https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be'
 people: 4+
 whyDo: >-
   Often when presented with a new idea, or suggestion, our natural response is
@@ -69,12 +74,13 @@ whyDo: >-
   The “Yes! And…” improv principle helps teams build on other people’s ideas.
 
 
-  We accept ideas without judgement. Ideas are considered as stepping stones, not judged or rejected as final products.
+  We accept ideas without judgement. Ideas are considered as stepping stones,
+  not judged or rejected as final products.
 perspectives:
-  - ""
+  - ''
 difficulty: easy
+mobiusTag: foundation
 ---
-
 ## What is it?
 
 An exercise to promote good team practice for generating lots of quality ideas.

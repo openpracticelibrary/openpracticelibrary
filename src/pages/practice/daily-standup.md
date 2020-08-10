@@ -2,18 +2,20 @@
 participants:
   - Product Owner
   - Team Members
-subtitle: A short time-boxed synchronization of the team activities that occurs
-  in a cadence determined by the team
+subtitle: >-
+  A short time-boxed synchronization of the team activities that occurs in a
+  cadence determined by the team
 resources:
-  - link: https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag
+  - link: >-
+      https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag
     linkType: web
     description: Daily Standup music alert playlist
-  - link: https://www.youtube.com/watch?v=GzQjGhD5tSU
+  - link: 'https://www.youtube.com/watch?v=GzQjGhD5tSU'
     linkType: web
     description: IBM Daily Stand up
 templateKey: practice-page
 title: Daily Standup
-date: 2018-08-10T08:21:10-04:00
+date: 2018-08-10T12:21:10.000Z
 authors:
   - mtakane
   - tdbeattie
@@ -23,7 +25,6 @@ authors:
   - mvmaestri
   - ilaria66
 tags:
-  - foundation
   - culture
 whatIs: >-
   * The main point of a daily standup (Daily Scrum) is for the team to better
@@ -38,35 +39,50 @@ whatIs: >-
 howTo: >-
   ### Advice
 
-  * As mentioned above, the main point of a stand up is alignment. Be careful it doesn't drift into a status update, focus on what those around you need to know and park any conversations not relevant until the end.
+  * As mentioned above, the main point of a stand up is alignment. Be careful it
+  doesn't drift into a status update, focus on what those around you need to
+  know and park any conversations not relevant until the end.
 
   ### Tips for Remote Working
 
-  * Cameras on and everyone contributes. * Use video conference tools. Everyone logs in separately - if a few people are co-located it can be difficult if that group is dialled in together. * Use an online visual timer to keep to the 15 minute timebox for stand-up. The core agenda is:
+  * Cameras on and everyone contributes. * Use video conference tools. Everyone
+  logs in separately - if a few people are co-located it can be difficult if
+  that group is dialled in together. * Use an online visual timer to keep to the
+  15 minute timebox for stand-up. The core agenda is:
       1. What I did yesterday
       2. What I am doing today
       3. I have blockers
 
-  * People tend to talk more for socialisation and for status updates, for this reason leave 5 minutes more at the end for these aspects that can be more relevant being distributed * Consider that the team may be distributed across multiple time zones so agree a time that is cognisant if this. * Collectively create a list of topics that need to be discussed after the standup, adding to a blockers board or in the parking lot.
+  * People tend to talk more for socialisation and for status updates, for this
+  reason leave 5 minutes more at the end for these aspects that can be more
+  relevant being distributed * Consider that the team may be distributed across
+  multiple time zones so agree a time that is cognisant if this. * Collectively
+  create a list of topics that need to be discussed after the standup, adding to
+  a blockers board or in the parking lot.
 
   ### Further materials
 
-  A [Daily Standup music alert playlist](https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag) on YouTube
+  A [Daily Standup music alert
+  playlist](https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag)
+  on YouTube
 
   [IBM Daily Stand up](https://www.youtube.com/watch?v=GzQjGhD5tSU)
 area: delivery-deliver
 time: 15 minutes
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/dsu.jpg?raw=true
-  - link: https://www.youtube.com/watch?v=GzQjGhD5tSU
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/dsu.jpg?raw=true
+  - link: 'https://www.youtube.com/watch?v=GzQjGhD5tSU'
 people: 2+
 icon: /images/dsu.jpg
-whyDo: "* Provides a quick touchpoint on what is going on with the team * Quick
+whyDo: >-
+  * Provides a quick touchpoint on what is going on with the team * Quick
   feedback on impediments and keep people honest and transparent * Focus on
   getting things done rather than what keeps us busy * It is a reinforcement of
   the goal and direction the team is after and a point of recharging the team
-  with new energy for pursuing the goal"
+  with new energy for pursuing the goal
 difficulty: moderate
+mobiusTag: foundation
 ---
 # What is it?
 

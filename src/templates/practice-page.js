@@ -34,7 +34,7 @@ export const pageQuery = graphql`
         }
         area
         tags
-        mobiusTags
+        mobiusTag
         whatIs
         whyDo
         howTo

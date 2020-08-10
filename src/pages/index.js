@@ -45,7 +45,7 @@ export const pageQuery = graphql`
             title
             subtitle
             tags
-            mobiusTags
+            mobiusTag
             icon
             mediaGallery {
               link

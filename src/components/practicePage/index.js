@@ -18,7 +18,7 @@ const PracticePage = ({ data, preview }) => {
         subtitle,
         authors,
         tags,
-        mobiusTags,
+        mobiusTag,
         whatIs,
         whyDo,
         howTo,
@@ -52,7 +52,7 @@ const PracticePage = ({ data, preview }) => {
     title,
     subtitle,
     tags,
-    mobiusTags,
+    mobiusTag,
     authors,
     date,
     imgCount: mediaGallery ? mediaGallery.length : 0,
@@ -75,7 +75,7 @@ const PracticePage = ({ data, preview }) => {
 
   return (
     <>
-      <HeroColor type="gradient" gradient={gradientSelect(mobiusTags)} height="30vh">
+      <HeroColor type="gradient" gradient={gradientSelect([mobiusTag])} height="30vh">
         {!preview &&
           <LoginButton
             practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}

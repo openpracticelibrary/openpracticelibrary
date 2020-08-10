@@ -4,15 +4,15 @@ participants:
   - The Team
 templateKey: practice-page
 title: Definition of Ready
-subtitle: Shared knowledge regarding what it means for a work item to be ready
-  to be worked on
-date: 2018-08-15T23:38:19-04:00
+subtitle: >-
+  Shared knowledge regarding what it means for a work item to be ready to be
+  worked on
+date: 2018-08-16T03:38:19.000Z
 authors:
   - mtakane
   - ilaria66
 area: foundation-culture-and-collaboration
 tags:
-  - foundation
   - culture
 perspectives:
   - facilitation-tips-for-remote-sessions
@@ -31,15 +31,20 @@ whyDo: |-
 howTo: >-
   ### Tips for Remote Working
 
-  * It is reasonable easy to find an agreement on both definition of ready and done remotely
+  * It is reasonable easy to find an agreement on both definition of ready and
+  done remotely
 
-  * One person can be a facilitator writing it based on everyone input or everyone can co-edit
+  * One person can be a facilitator writing it based on everyone input or
+  everyone can co-edit
 
-  * Use virtual white boarding  tool and use techniques such as “roman voting’ or adding a sticky w/name to gain consensus.
+  * Use virtual white boarding  tool and use techniques such as “roman voting’
+  or adding a sticky w/name to gain consensus.
 
   ### An Example
 
-  Whilst Definitions of Ready should be specific to the teams using them, it helps to have an idea of what others teams are using. Included below is just one example current in use in AXA PPP Healthcare:
+  Whilst Definitions of Ready should be specific to the teams using them, it
+  helps to have an idea of what others teams are using. Included below is just
+  one example current in use in AXA PPP Healthcare:
 
 
   > **DEFINITION OF READY** 
@@ -80,7 +85,9 @@ howTo: >-
 
   > *Must have Acceptance Criteria*
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/DoR.jpg?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/DoR.jpg?raw=true
+mobiusTag: foundation
 ---
 # What is it?
 
