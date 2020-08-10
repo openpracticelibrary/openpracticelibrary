@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
   repo: openpracticelibrary/openpracticelibrary
-  branch: next
+  branch: mobius-loop-tags-required
 
-# local_backend: true
+local_backend: true
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
@@ -33,16 +33,9 @@ collections:
         name: tags
         widget: "select"
         multiple: true
+        required: false
         max: 3
         options:
-          - label: "Discovery"
-            value: "discovery"
-          - label: "Delivery"
-            value: "delivery"
-          - label: "Foundation"
-            value: "foundation"
-          - label: "Options"
-            value: "options"
           - label: "Validate (Discovery Loop)"
             value: "validate"
           - label: "Value (Discovery Loop)"
@@ -59,6 +52,21 @@ collections:
             value: "measure"
           - label: "Learn (Delivery Loop)"
             value: "learn"
+      - label: "Mobius Loop Tag"
+        hint: "Where does this practice live on the Mobius Loop?"
+        name: mobiusTags
+        widget: "select"
+        multiple: false
+        required: true
+        options:
+          - label: "Discovery"
+            value: "discovery"
+          - label: "Delivery"
+            value: "delivery"
+          - label: "Foundation"
+            value: "foundation"
+          - label: "Options"
+            value: "options"
       - label: "Cover Image"
         name: "icon"
         hint: "Image to be used on the home screen and cards for the practice"

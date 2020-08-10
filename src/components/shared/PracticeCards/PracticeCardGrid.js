@@ -19,22 +19,32 @@ const PracticeCardGrid = (props) => {
   }
   return (
     <Grid container data-testid="practicecardgrid" justify="center">
-      {props.practices.map((practice) => (
-        <PracticeCard
-          key={practice.node.id}
-          practiceId={practice.node.id}
-          practiceTitle={practice.node.frontmatter.title}
-          coverImage={practice.node.frontmatter.icon}
-          tags={practice.node.frontmatter.tags}
-          slug={practice.node.fields.slug}
-          subtitle={practice.node.frontmatter.subtitle}
-          mediaGallery={
-            practice.node.frontmatter.mediaGallery
-              ? practice.node.frontmatter.mediaGallery.length
-              : 0
-          }
-        />
-      ))}
+      {props.practices.map((practice) => {
+        let allTags = [];
+        if(practice.node.frontmatter.tags && practice.node.frontmatter.mobiusTags) {
+          // allTags = practice.node.frontmatter.tags.map(tag => allTags.push(tag))
+          // allTags = practice.node.frontmatter.mobiusTags.map(tag => allTags.push(tag))
+
+          allTags = [...practice.node.frontmatter.tags,...practice.node.frontmatter.mobiusTags]
+        }
+
+        return (
+          <PracticeCard
+            key={practice.node.id}
+            practiceId={practice.node.id}
+            practiceTitle={practice.node.frontmatter.title}
+            coverImage={practice.node.frontmatter.icon}
+            tags={allTags}
+            slug={practice.node.fields.slug}
+            subtitle={practice.node.frontmatter.subtitle}
+            mediaGallery={
+              practice.node.frontmatter.mediaGallery
+                ? practice.node.frontmatter.mediaGallery.length
+                : 0
+            }
+          />
+        );
+      })}
     </Grid>
   );
 };

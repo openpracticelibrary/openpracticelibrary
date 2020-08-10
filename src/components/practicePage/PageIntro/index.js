@@ -7,6 +7,7 @@ import { Container, Typography } from "@material-ui/core";
 const PageIntro = ({
   title,
   tags,
+  mobiusTags,
   subtitle,
   editing,
   titleEdit,
@@ -23,7 +24,7 @@ const PageIntro = ({
   <Container maxWidth="md">
     <TitleAndSubtitle
       title={title}
-      tags={tags}
+      tags={[...tags,...mobiusTags]}
       subtitle={subtitle}
       editing={editing}
       titleEdit={titleEdit}
