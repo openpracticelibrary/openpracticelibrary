@@ -1,25 +1,39 @@
 ---
+participants:
+  - The Team
+subtitle: Quickly sketch rough ideas for the user interface.
+resources:
+  - link: https://www.nngroup.com/articles/wireflows/
+    linkType: web
+    description: "Wireflows: A UX Deliverable for Workflows and Apps"
+  - link: https://uxdesign.cc/3-rapid-prototyping-exercises-to-improve-your-skills-in-ux-design-f2c8b2d690b3
+    linkType: web
+    description: 3 rapid prototyping exercises to improve your UX skills
+  - link: https://gamestorming.com/1269/#more-1269
+    linkType: web
+    description: Agile UX Sketching
+  - link: https://gitlab.gnome.org/GNOME/gnome-software/issues/451
+    linkType: web
+    description: Sketches from the gnome-software design sprint
+  - link: https://library.gv.com/sprint-week-tuesday-d22b30f905c3
+    linkType: web
+    description: 'The "Tuesday" portion of the book '
+  - link: https://openpracticelibrary.com/practice/event-storming/
+    linkType: web
+    description: Event Storming
 templateKey: practice-page
 title: UI Design Workshop
-subtitle: Start with a sketch
 date: 2018-10-30T15:46:12.331Z
 authors:
   - rdebeasi
   - rileyi
   - pcarney8
-area: delivery-deliver
-icon: /images/ui-donal.png
-jumbotron: /images/ui-donal.png
-jumbotronAlt: Whiteboard with UI sketches
-people: 2+
-time: 30 min - 1 hour
-difficulty: moderate
 tags:
   - delivery
-participants:
-  - The Team
+icon: /images/ui-donal.png
 whatIs: >-
-  * A UI workshop is an activity in which participants quickly sketch rough ideas for the user interface.
+  * A UI workshop is an activity in which participants quickly sketch rough
+  ideas for the user interface.
 
 
   * These ideas can be written on a whiteboard, sticky notes, or sheets of paper. (A tall sticky note makes a great template for a mobile screen.)
@@ -33,7 +47,9 @@ whatIs: >-
 
   * Later, the best "low-fidelity" designs can serve as the basis for interactive prototypes or more complete designs.
 whyDo: >-
-  * UI design workshops help take a high-level business process (such as an [event storm](https://openpracticelibrary.com/practice/event-storming/)) and turn it into something concrete that developers can begin working on.
+  * UI design workshops help take a high-level business process (such as an
+  [event storm](https://openpracticelibrary.com/practice/event-storming/)) and
+  turn it into something concrete that developers can begin working on.
 
 
   * This activity generates new ideas and builds a shared understanding, particularly if the entire team participates.
@@ -84,28 +100,15 @@ howTo: >-
   ### Alternate facilitation style
 
   Instead of merging the designs in steps 6-8, ask the team to dot vote on elements of each deisgn. A UX designer can then use those sketches as inspiration for more detailed wireframes.
+jumbotron: /images/ui-donal.png
+area: delivery-deliver
+time: 30 min - 1 hour
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/ui-donal.png
   - link: https://www.youtube.com/watch?v=54Ce8j-SXyg
-resources:
-  - link: https://www.nngroup.com/articles/wireflows/
-    linkType: web
-    description: "Wireflows: A UX Deliverable for Workflows and Apps"
-  - link: https://uxdesign.cc/3-rapid-prototyping-exercises-to-improve-your-skills-in-ux-design-f2c8b2d690b3
-    linkType: web
-    description: 3 rapid prototyping exercises to improve your UX skills
-  - link: https://gamestorming.com/1269/#more-1269
-    linkType: web
-    description: Agile UX Sketching
-  - link: https://gitlab.gnome.org/GNOME/gnome-software/issues/451
-    linkType: web
-    description: Sketches from the gnome-software design sprint
-  - link: https://library.gv.com/sprint-week-tuesday-d22b30f905c3
-    linkType: web
-    description: 'The "Tuesday" portion of the book '
-  - link: https://openpracticelibrary.com/practice/event-storming/
-    linkType: web
-    description: Event Storming
+people: 2+
+difficulty: moderate
+jumbotronAlt: Whiteboard with UI sketches
 ---
 
 ## What is it?
