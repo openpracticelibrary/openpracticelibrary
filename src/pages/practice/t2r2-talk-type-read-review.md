@@ -1,7 +1,10 @@
 ---
-subtitle: An online meeting method
 participants: []
+subtitle: An online meeting method
 resources:
+  - link: https://podcasts.apple.com/us/podcast/t2r2-w-donna-benjamin/id1501715186?i=1000482347700
+    linkType: podcast
+    description: Listen to the Open Practice Podcast episode about T2R2!
   - link: https://en.wikipedia.org/wiki/Zing_Technologies
     linkType: web
     description: Zing Technologies
@@ -10,23 +13,12 @@ title: T2R2 - Talk, type, read, review!
 date: 2020-03-23T05:46:59.224Z
 authors:
   - kattekrab
-area: foundation-culture-and-collaboration
 tags:
   - foundation
   - culture
-perspectives:
-  - ""
 icon: /images/t2r2.jpg
-jumbotron: /images/t2r2.jpg
-jumbotronAlt: talk type read review
-people: 3+
-difficulty: moderate
 whatIs: T2R2 is an online meeting method that encourages people to participate
   and respond in real time.
-whyDo: This method helps make sure everyone who has something to contribute gets
-  heard. The final step, review, helps make sure the meeting was meaningful, by
-  creating a summary of the contributions, or identifying decisions or action
-  steps.
 howTo: >-
   Once you've posed a question, or started a new topic or agenda item, you ask
   participants to talk, type, read and review in sequence.
@@ -50,8 +42,19 @@ howTo: >-
 
 
   Time box each step and make it clear to all what time they have, and check in to see if people need more time than has been allocated. How much time? Well, that depends on the topic and purpose, but between 2-10 minutes for each step seems to work well for most things.
+jumbotron: /images/t2r2.jpg
+area: foundation-culture-and-collaboration
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/t2r2.jpg
+people: 3+
+whyDo: This method helps make sure everyone who has something to contribute gets
+  heard. The final step, review, helps make sure the meeting was meaningful, by
+  creating a summary of the contributions, or identifying decisions or action
+  steps.
+perspectives:
+  - ""
+difficulty: moderate
+jumbotronAlt: talk type read review
 ---
 ## What is it?
 
