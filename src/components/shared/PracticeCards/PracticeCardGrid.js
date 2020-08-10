@@ -21,8 +21,10 @@ const PracticeCardGrid = (props) => {
     <Grid container data-testid="practicecardgrid" justify="center">
       {props.practices.map((practice) => {
         let allTags = [];
-        if(practice.node.frontmatter.tags && practice.node.frontmatter.mobiusTag) {
-          allTags = [...practice.node.frontmatter.tags,practice.node.frontmatter.mobiusTag]
+        if(practice.node.frontmatter.tags) {
+          allTags = [...practice.node.frontmatter.tags];
+        } if(practice.node.frontmatter.mobiusTag) {
+          allTags = [...allTags,practice.node.frontmatter.mobiusTag];
         }
 
         return (

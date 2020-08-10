@@ -6,8 +6,7 @@ import { Container, Typography } from "@material-ui/core";
 
 const PageIntro = ({
   title,
-  tags,
-  mobiusTag,
+  allTags,
   subtitle,
   editing,
   titleEdit,
@@ -19,22 +18,18 @@ const PageIntro = ({
   upvotes,
   imgCount,
   questions,
-  date
+  date,
 }) => (
   <Container maxWidth="md">
     <TitleAndSubtitle
       title={title}
-      tags={[...tags,mobiusTag]}
+      tags={allTags}
       subtitle={subtitle}
       editing={editing}
       titleEdit={titleEdit}
       subtitleEdit={subtitleEdit}
     />
-    <ContributedBy
-      authors={authors}
-      createdAt={date}
-      updatedAt={updatedAt}
-    />
+    <ContributedBy authors={authors} createdAt={date} updatedAt={updatedAt} />
 
     <Collection
       spacing={2}
