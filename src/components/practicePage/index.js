@@ -75,7 +75,7 @@ const PracticePage = ({ data, preview }) => {
 
   return (
     <>
-      <HeroColor type="gradient" gradient={gradientSelect([mobiusTag])} height="30vh">
+      <HeroColor type="gradient" gradient={gradientSelect([...tags,mobiusTag])} height="30vh">
         {!preview &&
           <LoginButton
             practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
