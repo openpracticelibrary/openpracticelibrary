@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: openpracticelibrary/openpracticelibrary
-  branch: mobius-loop-tags-required
+  branch: next
 
 # local_backend: true
 
