@@ -1,4 +1,15 @@
 ---
+resources:
+  - link: https://www.thesprintbook.com
+    linkType: web
+    description: The Sprint Book
+  - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
+    linkType: web
+    description: Double Diamond Design Model
+  - link: https://www.zingtrain.com/content/why-and-how-visioning-works
+    linkType: web
+    description: Why and How Visioning Works
+templateKey: practice-page
 title: Start At The End
 subtitle: Describe what success looks like and use this to define the goal of effort
 date: 2018-12-18T18:26:48.625Z
@@ -6,19 +17,19 @@ authors:
   - sherl0cks
   - infosec812
   - mtakane
-area: discovery-loop-why
-perspectives:
-  - domain-driven-design
-  - facilitation-tips-for-remote-sessions
-icon: /images/final_start-at-the-end.png
-aliases:
-  - /practice/visioning/
-templateKey: practice-page
 tags:
-  - foundation
-  - culture
+  - discovery
+icon: /images/final_start-at-the-end.png
 whatIs: >-
-  Start At The End is a simple exercise to identify a set of assumptions which must be tested in order achieve a long term goal. It's a rather simple exercise, which asks participants to describe what success looks like for their work, and use this to define the goal of the effort. We default to 12 months, but it can be longer or shorter. Then, the exercise asks participants to imagine all the ways their project can fail, and using the results to enumerate key questions or assumptions that must be examined at the start of the work. The technique is derived from Chapter 4 of The Sprint Book. At the end of the exercise, you will have:
+  Start At The End is a simple exercise to identify a set of assumptions which
+  must be tested in order achieve a long term goal. It's a rather simple
+  exercise, which asks participants to describe what success looks like for
+  their work, and use this to define the goal of the effort. We default to 12
+  months, but it can be longer or shorter. Then, the exercise asks participants
+  to imagine all the ways their project can fail, and using the results to
+  enumerate key questions or assumptions that must be examined at the start of
+  the work. The technique is derived from Chapter 4 of The Sprint Book. At the
+  end of the exercise, you will have:
 
 
   * A shared understanding of your effort's goal.
@@ -28,14 +39,6 @@ whatIs: >-
 
 
   * A prioritization of the key questions.
-whyDo: >-
-  * Most planning activities revolve around juggling a "shopping list of features," as Gojko Adzic calls them in [Impact Mapping](/practice/impact-mapping/). Even though the features are delivered, often the business objective is not achieved. Start At The End gives us a light weight approach to put the business value at the center of our work and make sure that assumptions that could lead to failure are clearly identified for examination.
-
-
-  * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
-
-
-  * This activity helps you and your team envision what the future will look like when you will reach success.
 howTo: >-
   ### Tips
 
@@ -79,17 +82,27 @@ howTo: >-
   ### How does it fit?
 
   * Typically done in the Why area of the Discovery of the Open Practice Library
-mediaGallery:
-resources:
-  - link: https://www.thesprintbook.com
-    linkType: web
-    description: The Sprint Book
-  - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
-    linkType: web
-    description: Double Diamond Design Model
-  - link: https://www.zingtrain.com/content/why-and-how-visioning-works
-    linkType: web
-    description: Why and How Visioning Works
+area: discovery-loop-why
+whyDo: >-
+  * Most planning activities revolve around juggling a "shopping list of
+  features," as Gojko Adzic calls them in [Impact
+  Mapping](/practice/impact-mapping/). Even though the features are delivered,
+  often the business objective is not achieved. Start At The End gives us a
+  light weight approach to put the business value at the center of our work and
+  make sure that assumptions that could lead to failure are clearly identified
+  for examination.
+
+
+  * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
+
+
+  * This activity helps you and your team envision what the future will look like when you will reach success.
+mediaGallery: null
+perspectives:
+  - domain-driven-design
+  - facilitation-tips-for-remote-sessions
+aliases:
+  - /practice/visioning/
 ---
 
 ## What is it?
