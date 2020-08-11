@@ -1,10 +1,11 @@
 import React from "react";
 import { Typography, Box, Grid } from "@material-ui/core";
 import FooterIconSection from "./FooterIconSection";
-import { navigate } from "gatsby";
+import { Link } from "gatsby";
 
 const sections = [
-  { title: "Practices", url: "/practice" },
+  { title: "Practices", url: "/" },
+  { title: "Blog", url: "/blog" },
   { title: "About", url: "/about" },
   { title: "Terms", url: "https://creativecommons.org/licenses/by-sa/4.0/" },
 ];
@@ -28,12 +29,11 @@ export default function FooterLogoSection() {
             {sections.map((section, i) => (
               <Grid item key={i}>
                 <Box color="grey.A400">
-                  <Typography
-                    variant="button"
-                    onClick={() => navigate(section.url)}
-                  >
-                    {section.title}
-                  </Typography>
+                  <Link to={section.url} style={{ textDecoration: "none", color: "inherit" }}>
+                    <Typography variant="button">
+                      {section.title}
+                    </Typography>
+                  </Link>
                 </Box>
               </Grid>
             ))}

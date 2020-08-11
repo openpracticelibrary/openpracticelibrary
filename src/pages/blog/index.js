@@ -9,6 +9,9 @@ const BlogRoll = ({ slug, title, date, excerpt }) => (
     <Box mt={4} mb={4}>
       <Link
         to={slug}
+        style={{
+          textDecoration: "none"
+        }}
       >
         <Typography variant="h4">
           {title}
