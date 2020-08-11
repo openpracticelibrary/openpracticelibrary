@@ -28,7 +28,6 @@ const sections = [
 ];
 
 export default function FooterIconSection(props) {
-  console.log(sections);
   return (
     <>
       <Grid container direction="row" spacing={2} alignItems="center">
