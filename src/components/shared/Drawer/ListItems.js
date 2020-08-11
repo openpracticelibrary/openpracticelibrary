@@ -64,7 +64,7 @@ export default function ListItems(props) {
       <ListItemLink to="/blog" primary="Blog" />
       <ListItem button onClick={handleClick}>
         <ListItemText>
-          <Typography variant="body2">
+          <Typography variant="body1">
             Contributing
           </Typography>
         </ListItemText>

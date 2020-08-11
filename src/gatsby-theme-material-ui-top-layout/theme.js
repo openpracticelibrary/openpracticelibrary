@@ -230,7 +230,7 @@ const theme = createMuiTheme({
     },
     caption: {
       fontFamily: ["Montserrat", "sans-serif"],
-      fontSize: "0.75rem",
+      fontSize: "0.5rem",
       lineHeight: 1.66,
       letterSpacing: "0.03333em",
     },
