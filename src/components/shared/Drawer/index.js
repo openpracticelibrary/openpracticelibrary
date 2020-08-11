@@ -1,26 +1,15 @@
 import React, { useReducer } from "react";
 import clsx from "clsx";
 import { makeStyles } from "@material-ui/core/styles";
-import MenuIcon from "@material-ui/icons/Menu";
-import { BottomListItems, TopListItems } from "./ListItems";
-import Footer from "./Footer";
 import { Drawer, IconButton, Box } from "@material-ui/core";
+import MenuIcon from "@material-ui/icons/Menu";
+import ListItems from "./ListItems";
+import DrawerFooter from "./DrawerFooter";
 import Logo from "../../../components/shared/Logo";
 
 const drawerWidth = "18.75rem";
 const useStyles = makeStyles((theme) => ({
-  root: {
-    display: "flex",
-  },
-  paddedLogo: {
-    paddingTop: theme.spacing(2),
-  },
-  paddedHamburger: {
-    marginLeft: 20,
-    color: theme.palette.primary.main,
-  },
   box: {
-    zIndex: theme.zIndex.drawer + 1,
     transition: theme.transitions.create(["width", "margin"], {
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.leavingScreen,
@@ -34,12 +23,6 @@ const useStyles = makeStyles((theme) => ({
       duration: theme.transitions.duration.enteringScreen,
     }),
   },
-  menuButton: {
-    marginRight: 36,
-  },
-  hide: {
-    display: "none",
-  },
   drawer: {
     width: drawerWidth,
     flexShrink: 0,
@@ -52,7 +35,6 @@ const useStyles = makeStyles((theme) => ({
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.enteringScreen,
     }),
-    backgroundColor: theme.palette.common.white,
     "&::-webkit-scrollbar": {
       display: "none",
     },
@@ -67,25 +49,14 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.up("sm")]: {
       width: theme.spacing(8) + 1,
     },
-    backgroundColor: theme.palette.common.white,
-  },
-  toolbar: {
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "flex-end",
-    padding: theme.spacing(0, 1),
-    paddingTop: theme.spacing(2),
-    // necessary for content to be below app bar
-    ...theme.mixins.toolbar,
   },
 }));
 
 export default function OPLDrawer(props) {
   const classes = useStyles();
   const [open, toggle] = useReducer((drawerOpen) => !drawerOpen, false);
-
   return (
-    <div className={classes.root}>
+    <Box display="flex">
       <Drawer
         variant="permanent"
         className={clsx(classes.drawer, {
@@ -103,34 +74,31 @@ export default function OPLDrawer(props) {
         }}
         data-testid="drawer"
       >
-        <div className={classes.toolbar}>
-          <Logo small horizontal />
-          <IconButton
-            onClick={toggle}
-            className={clsx(classes.paddedHamburger)}
-            data-testid="drawerActions"
-          >
-            <MenuIcon />
+        <Box
+          display="flex"
+          alignItems="center"
+          justifyContent="center"
+          paddingTop={2}
+          px={2}
+        >
+          {open ? <Logo small horizontal /> : null}
+          <IconButton onClick={toggle} data-testid="drawerActions">
+            <MenuIcon color="primary" />
           </IconButton>
-        </div>
-
+        </Box>
         {open && (
           <>
             <Box m={2}>
-              <Box>
-                <TopListItems drawerOpen={open} toggle={toggle} />
-              </Box>
-              <Box>
-                <BottomListItems />
-              </Box>
+              <ListItems drawerOpen={open} toggle={toggle} />
             </Box>
-            <Footer />
+            <DrawerFooter />
           </>
         )}
       </Drawer>
+
       <Box bgcolor="common.white" width="100%">
         {props.children}
       </Box>
-    </div>
+    </Box>
   );
 }
