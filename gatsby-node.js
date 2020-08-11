@@ -45,17 +45,22 @@ exports.createPages = ({ actions, graphql }) => {
     const posts = result.data.allMarkdownRemark.edges;
 
     posts.forEach((edge) => {
+      const templateType = edge.node.fields.slug.split("/")[1];
       const id = edge.node.id;
+
+      let templateValue = "";
+      if (templateType === "blog") {
+        templateValue = "blog-template";
+      } else if (templateType === "page") {
+        templateValue = "practice-page";
+      } else if (templateType === "practice") {
+        templateValue = "practice-page";
+      }
+
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${
-            edge.node.frontmatter.templateKey
-              ? String(edge.node.frontmatter.templateKey)
-              : "practice-page"
-          }.js`
-        ),
+        component: path.resolve(`src/templates/${templateValue}.js`),
         // additional data can be passed via context
         context: {
           id,

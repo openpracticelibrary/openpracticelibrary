@@ -44,11 +44,12 @@ export default function PracticeCard(props) {
         onMouseOut={() => setHovered(false)}
         onMouseOver={() => setHovered(true)}
         style={{
+          cursor: `${hovered ? "pointer" : "auto"}`,
           transform: `${hovered ? "scale(1.1,1.05)" : "scale(1, 1)"}`,
           transition: `${hovered ? "0.5s" : "0.5s"}`,
           zIndex: `${hovered ? "10" : "1"}`,
           boxShadow: `${
-            hovered ? "1px 2px 2px 1px rgba(0,0,0,.2)" : "0px 0px 0px 0px"
+            hovered ? "2px 3px 3px 2px rgba(0,0,0,.5)" : "0px 0px 0px 0px"
           }`,
           background: hovered ? "white" : "transparent"
         }}

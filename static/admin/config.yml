@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
-  repo: openpracticelibrary/openpracticelibrary
-  branch: next
+  # repo: openpracticelibrary/openpracticelibrary
+  # branch: next
 
-# local_backend: true
+local_backend: true
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
@@ -16,6 +16,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+      - label: "Template Key"
+        name: "templateKey"
+        widget: "hidden"
+        default: "practice-page"
       - label: "Title of practice"
         hint: "The name of the practice"
         name: "title"
@@ -131,13 +135,14 @@ collections:
         required: false
         widget: "list"
         default: []
-  - name: "perspective" # Used in routes, e.g., /admin/collections/blog
-    label: "Perspective" # Used in the UI
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
     publish: false
-    folder: "src/pages/perspective" # The path to the folder where the documents are stored
+    folder: "src/pages/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-page"}
       - {label: "Title", hint: "The name of the perspective", name: "title", widget: "string"}
       - {label: "Subtitle", hint: "Catchy one liner for the perspective", name: "subtitle", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}

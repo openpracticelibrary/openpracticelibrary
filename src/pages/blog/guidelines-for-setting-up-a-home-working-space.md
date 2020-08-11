@@ -1,4 +1,5 @@
 ---
+templateKey: "blog-page"
 title: Guidelines for setting up a home working space
 subtitle: Tips and considerations for better remote working environment
 date: 2020-04-30T08:54:32.939Z
@@ -29,12 +30,12 @@ With a little planning and preparation ahead, there can be a lot of difference b
 
 **Team shopping list for home work accessories**
 
-* Agree collaboratively what is needed from equipment, environment, health, security and so on. 
+* Agree collaboratively what is needed from equipment, environment, health, security and so on.
 
-**Conduct workstation and safety assessment:**  
+**Conduct workstation and safety assessment:**
 
-* It is advisable to  conduct a safety assessment check and attend any relevant training provided by your employer.  Best to reach out HR and your manager.  This process helps identify any special requirement for any team member. For e.g: users with disability or risks.  
-* You can use the  [DES workstation checklist](https://www.hse.gov.uk/msd/dse/assessment.htm) to help make an assessment. 
+* It is advisable to  conduct a safety assessment check and attend any relevant training provided by your employer.  Best to reach out HR and your manager.  This process helps identify any special requirement for any team member. For e.g: users with disability or risks.
+* You can use the  [DES workstation checklist](https://www.hse.gov.uk/msd/dse/assessment.htm) to help make an assessment.
 
 ## Environment setup:
 
@@ -42,7 +43,7 @@ With a little planning and preparation ahead, there can be a lot of difference b
 
 * There are a few options for types of desks that you can buy, and it really just comes down to your preference or your line of work. We recommend at least a 60x135cm desk size for a good starting point. For a healthier option, consider an adjustable laptop desk or stand desks.
 
-**Ergonomic Office Chair**  
+**Ergonomic Office Chair**
 
 * Even though sitting doesn't require as much physical effort as standing, it still puts undue stress on your lower back. Combine the effects of a sedentary lifestyle with sitting all day and it can lead to various health problems.
 
@@ -53,7 +54,7 @@ With a little planning and preparation ahead, there can be a lot of difference b
 **Storage**
 
 * In order to keep the place tidy, you will need somewhere to store your supplies, such as pens, paper, sticky notes, ink, and business cards.
-* Suitable home workspace that supports productivity. The space should be quiet, free from distraction, with deskware that is comfortable for the required working hours. Screen reader support enabled. 
+* Suitable home workspace that supports productivity. The space should be quiet, free from distraction, with deskware that is comfortable for the required working hours. Screen reader support enabled.
 
 **Plants**
 
@@ -61,7 +62,7 @@ With a little planning and preparation ahead, there can be a lot of difference b
 
 Other tips:
 
-* Keep it clean. 
+* Keep it clean.
 * Less is more
 * Have a quiet space, free from distractions
 * Separate the professional from the personal
@@ -105,7 +106,7 @@ Other tips:
 
 * It is best to get a suitable height desk, chair, monitor, laptop that fits your requirement.
 * If you have a specific need on a chair, desk due to certain health issues e.g: back pain and require ergonomics chairs, standing desk then reach out to your manager or HR team members.
-* Check guidelines on how to set up the correct [display screen workstation](https://www.hse.gov.uk/toolbox/workers/home.htm) 
+* Check guidelines on how to set up the correct [display screen workstation](https://www.hse.gov.uk/toolbox/workers/home.htm)
 
 **Try desk exercise**
 
@@ -144,17 +145,17 @@ Developers additionally should:
 * Test connectivity to applicable products (OpenShift, etc)
 * Test connectivity for IDE to run remote pairing.
 
-**Privilege & permissions**  
+**Privilege & permissions**
 
-* Enforce the **Principle of Least Privilege** by granting only the minimum permissions required by an end user, application, service, task or system to perform the jobs they have been assigned if you are not using customer tools and procedures 
+* Enforce the **Principle of Least Privilege** by granting only the minimum permissions required by an end user, application, service, task or system to perform the jobs they have been assigned if you are not using customer tools and procedures
 * Depending on the tools required for the engagement you will need to get the right access to the tools selected on the project. For all access requests you should contact your local Project Manager / Coordinator or Service Delivery Manager that will give you the required authorizations
 
-**Time Management**  
+**Time Management**
 
 * Better to have a time management tools in place
 * Allocate home and work priorities in the backlog e.g: kids school pick up, shopping and meetings E.g: post-its, white board, google calendar might help
 
-**Running cost and expenses** 
+**Running cost and expenses**
 
 * Check with your employer on the additional household expenses for e.g: gas, electricity Internet if you require to work from home
 
@@ -164,12 +165,12 @@ Developers additionally should:
 * GOV.UK, [Expenses and benefits: homeworking](https://www.gov.uk/expenses-and-benefits-homeworking)
 * Health and Safety Executive, [DSE Assessment check](https://www.hse.gov.uk/msd/dse/assessment.htm)
 * Ask an Osteopath: The best stretches when working from home, [Osteopath stretches](https://www.posturepeople.co.uk/ask-an-osteopath-the-best-stretches-when-working-from-home/)
-* Posture people, [home working](https://www.posturepeople.co.uk/category/home-working/) 
+* Posture people, [home working](https://www.posturepeople.co.uk/category/home-working/)
 * Temporary Working at Home - [Workstation Setup video](https://www.youtube.com/watch?v=Af7q5j14muc&feature=emb_logo)
-* [Red Hat global GWS ergonomics](https://mojo.redhat.com/groups/global-ergonomics) 
+* [Red Hat global GWS ergonomics](https://mojo.redhat.com/groups/global-ergonomics)
 * [Red Hat global workplace information](https://mojo.redhat.com/community/global-workplace-solutions)
-* [Red Hat employee sergo self assessment form](https://mojo.redhat.com/docs/DOC-1035778) 
-* From Gitlab -  "All Remote" guides and blog posts 
+* [Red Hat employee sergo self assessment form](https://mojo.redhat.com/docs/DOC-1035778)
+* From Gitlab -  "All Remote" guides and blog posts
 
   \- [Considerations for a Productive Home Office or Remote Workspace](https://about.gitlab.com/company/culture/all-remote/workspace/)
 

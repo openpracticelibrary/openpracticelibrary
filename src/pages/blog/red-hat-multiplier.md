@@ -1,4 +1,5 @@
 ---
+templateKey: "blog-page"
 title: Red Hat Multiplier
 subtitle: >-
   RED HAT MULTIPLIER: Practice open leadership behaviors that create and
@@ -13,7 +14,7 @@ jumbotronAlt: 'Photo by Josh Calabrese on Unsplash : https://unsplash.com/search
 
 A leadership capability that defines five behaviors that make someone a great leader in an open organization (in this case, Red Hat).
 
-The Red Hat Multiplier is comprised of five behaviors : 
+The Red Hat Multiplier is comprised of five behaviors :
 
 1.Collaborate
 

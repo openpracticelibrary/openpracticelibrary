@@ -1,4 +1,5 @@
 ---
+templateKey: "blog-page"
 title: Open Decision Framework for open decision making
 subtitle: Learn about Open Decision Frame-work for Open Decision Making
 date: 2019-06-11T08:01:21.311Z
@@ -16,7 +17,7 @@ Growing and sustaining an open organisation can be challenging. One tool that's 
 
 The Open Decision Framework contains the collective wisdom of practitioners of open principles, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas, to make better decisions.
 
-You can use the Open Decision Framework with your teams today! Simply download copies available online. 
+You can use the Open Decision Framework with your teams today! Simply download copies available online.
 
 
 
@@ -34,7 +35,7 @@ Download Open Organisation Field-guide : <https://opensource.com/open-organizati
 
 Download Open Organisation Work Book : <https://opensource.com/open-organization/resources/workbook>
 
-If  you are interested in knowing how Open Decision Framework is being used by companies then visit some links below. Also feel free to share links and resources and best practises around open decision-making. 
+If  you are interested in knowing how Open Decision Framework is being used by companies then visit some links below. Also feel free to share links and resources and best practises around open decision-making.
 
 Learn more about open decision framework (ODF) at  Github :<https://github.com/red-hat-people-team/open-decision-framework>
 

@@ -1,4 +1,5 @@
 ---
+templateKey: "blog-page"
 title: Product Ownership
 subtitle: >-
   Focuses development on products and associated business outcomes as opposed to
@@ -22,7 +23,7 @@ aliases:
 
 * Facilitates a connection between development teams and the products that deliver business and customer value.
 * Provides a strong foundation for long lived cross functional teams to iteratively discovery and deliver increments of the product releasing value early and often.
-* Enables a flexible and adaptive approach to delivering products that can be responsive to feedback and the market. 
+* Enables a flexible and adaptive approach to delivering products that can be responsive to feedback and the market.
 
 
 

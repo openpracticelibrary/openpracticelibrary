@@ -52,6 +52,7 @@ export function BottomListItems() {
         </Typography>
       </ListSubheader>
       <ListItemLink to="/about" primary="About Us" data-testid="LearnAboutUs" />
+      <ListItemLink to="/blog" primary="Blog" />
     </List>
   );
 }

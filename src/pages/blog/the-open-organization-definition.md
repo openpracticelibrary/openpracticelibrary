@@ -1,4 +1,5 @@
 ---
+templateKey: "blog-page"
 title: The Open Organization Definition
 subtitle: Understanding open organisation definition
 date: 2019-06-11T07:50:32.730Z
@@ -22,7 +23,7 @@ Open organizations take many shapes. Their size, composition, and missions vary.
 
 ## Why use it?
 
-Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success. 
+Openness is becoming increasingly central to the ways groups and teams of all sizes are working together to achieve shared goals. And today, the most forward-thinking organizations—whatever their missions—are embracing openness as a necessary orientation toward success.
 
 They've seen that openness can lead to:
 
@@ -34,6 +35,6 @@ They've seen that openness can lead to:
 
 ## Further Information
 
-Read more and download a copy of The Open `Organisation Definition at: 
+Read more and download a copy of The Open `Organisation Definition at:
 
 https://opensource.com/open-organization/resources/open-org-definition
