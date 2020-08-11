@@ -7,6 +7,7 @@ const HeroImage = ({
   opacity = 0.5,
   bgPos = "center",
   imageUrl = DefaultImage,
+  height = "100vh"
 }) => {
   return (
     <Box
@@ -14,7 +15,7 @@ const HeroImage = ({
       flexDirection="row"
       justifyContent="center"
       alignItems="center"
-      height="100vh"
+      minHeight={height}
       flexWrap="wrap"
       style={{
         backgroundImage: `linear-gradient(

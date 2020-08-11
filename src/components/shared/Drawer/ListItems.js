@@ -3,10 +3,14 @@ import { Link as RouterLink } from "gatsby";
 import {
   Divider,
   ListItem,
+  ListItemText,
   ListSubheader,
   List,
   Typography,
+  Collapse,
 } from "@material-ui/core";
+
+import { ExpandMore, ExpandLess } from "@material-ui/icons";
 
 function ListItemLink({ primary, to, toggle }) {
   const renderLink = React.useMemo(
@@ -22,8 +26,15 @@ function ListItemLink({ primary, to, toggle }) {
     </ListItem>
   );
 }
-export function TopListItems(props) {
+export default function ListItems(props) {
+  const [open, setOpen] = React.useState(true);
+
+  const handleClick = () => {
+    setOpen(!open);
+  };
+
   const { toggle } = props;
+
   return (
     <List data-testid="drawerPractices">
       <ListSubheader>
@@ -50,11 +61,22 @@ export function TopListItems(props) {
         </Typography>
       </ListSubheader>
       <ListItemLink to="/about" primary="About Us" data-testid="LearnAboutUs" />
-      <ListItemLink
-        to="/page/contribution-guide"
-        primary="Contribution Guide"
-        data-testid="ContributionGuide"
-      />
+      <ListItemLink to="/blog" primary="Blog" />
+      <ListItem button onClick={handleClick}>
+        <ListItemText>
+          <Typography variant="body1">
+            Contributing
+          </Typography>
+        </ListItemText>
+        {open ? <ExpandLess /> : <ExpandMore />}
+      </ListItem>
+      <Collapse in={open} timeout="auto" unmountOnExit>
+        <List component="div">
+          <ListItemLink to="/page/contribution-guide" primary="Contribution Guide" data-testid="ContributionGuide" />
+          <ListItemLink to="/page/cms" primary="Using the CMS" />
+          <ListItemLink to="/page/editorial" primary="Editorial Flow" />
+        </List>
+      </Collapse>
     </List>
   );
 }

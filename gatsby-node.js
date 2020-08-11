@@ -49,8 +49,8 @@ exports.createPages = ({ actions, graphql }) => {
       const id = edge.node.id;
 
       let templateValue = "";
-      if (templateType === "perspective") {
-        templateValue = "practice-page";
+      if (templateType === "blog") {
+        templateValue = "blog-template";
       } else if (templateType === "page") {
         templateValue = "additional-page";
       } else if (templateType === "practice") {

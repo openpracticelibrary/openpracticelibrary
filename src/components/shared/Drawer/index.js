@@ -3,7 +3,7 @@ import clsx from "clsx";
 import { makeStyles } from "@material-ui/core/styles";
 import { Drawer, IconButton, Box } from "@material-ui/core";
 import MenuIcon from "@material-ui/icons/Menu";
-import { BottomListItems, TopListItems } from "./ListItems";
+import ListItems from "./ListItems";
 import DrawerFooter from "./DrawerFooter";
 import Logo from "../../../components/shared/Logo";
 
@@ -89,7 +89,7 @@ export default function OPLDrawer(props) {
         {open && (
           <>
             <Box m={2}>
-              <TopListItems drawerOpen={open} toggle={toggle} />
+              <ListItems drawerOpen={open} toggle={toggle} />
             </Box>
             <DrawerFooter />
           </>

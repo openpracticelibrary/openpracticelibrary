@@ -2,12 +2,9 @@ import React from "react";
 import { graphql } from "gatsby";
 import { makeStyles } from "@material-ui/core/styles/index";
 import ReactMarkdown from "react-markdown";
-import { Box, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@material-ui/core";
 import HeroColor from "../components/shared/HeroColor";
-import HistoryValues from "../components/About/HistoryValues";
-import ProductTeam from "../components/About/ProductTeam";
 import Feedback from "../components/About/Feedback";
-import Contributors from "../components/About/Contributors";
 import OplDrawer from "../components/shared/Drawer";
 
 const useStyles = makeStyles((theme) => ({
@@ -35,8 +32,10 @@ const AdditionalPage = (props) => {
             </Typography>
           </Box>
         </HeroColor>
-        <Box maxWidth="70rem" alignSelf="center" mx={6}>
-          <PageBodyData {...props} />
+          <Box alignSelf="center" my={4}>
+            <Container maxWidth="md">
+              <PageBodyData {...props} />
+            </Container>
         </Box>
         <Feedback />
       </Box>
