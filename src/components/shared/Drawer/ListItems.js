@@ -55,3 +55,16 @@ export function BottomListItems() {
     </List>
   );
 }
+
+export function AdditionalListItems() {
+  return (
+    <List data-testid="drawerFurtherInfo">
+      <ListSubheader>
+        <Typography variant="overline" color="primary">
+          Further Information
+        </Typography>
+      </ListSubheader>
+      <ListItemLink to="/page/contribution-guide" primary="Contribution Guide" data-testid="ContributionGuide" />
+    </List>
+  );
+}

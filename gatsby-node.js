@@ -59,7 +59,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       createPage({
         path: edge.node.fields.slug,
-        tags: tags: edge.node.frontmatter.mobiusTag,
+        tags: edge.node.frontmatter.mobiusTag,
         component: path.resolve(`src/templates/${templateValue}.js`),
         // additional data can be passed via context
         context: {

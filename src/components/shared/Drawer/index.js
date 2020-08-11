@@ -2,7 +2,7 @@ import React, { useReducer } from "react";
 import clsx from "clsx";
 import { makeStyles } from "@material-ui/core/styles";
 import MenuIcon from "@material-ui/icons/Menu";
-import { BottomListItems, TopListItems } from "./ListItems";
+import { BottomListItems, TopListItems, AdditionalListItems } from "./ListItems";
 import Footer from "./Footer";
 import { Drawer, IconButton, Box } from "@material-ui/core";
 import Logo from "../../../components/shared/Logo";
@@ -122,6 +122,9 @@ export default function OPLDrawer(props) {
               </Box>
               <Box>
                 <BottomListItems />
+              </Box>
+              <Box>
+                <AdditionalListItems />
               </Box>
             </Box>
             <Footer />
