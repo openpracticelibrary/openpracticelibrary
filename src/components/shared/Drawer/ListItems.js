@@ -1,7 +1,9 @@
 import React from "react";
 import { Link as RouterLink } from "gatsby";
 
-import { ListItem, ListSubheader, List, Typography } from "@material-ui/core";
+import { ListItem, ListItemText, ListSubheader, List, Typography, Collapse } from "@material-ui/core";
+import ExpandLess from '@material-ui/icons/ExpandLess';
+import ExpandMore from '@material-ui/icons/ExpandMore';
 
 function ListItemLink(props) {
   const { primary, to, toggle } = props;
@@ -44,6 +46,12 @@ export function TopListItems(props) {
 }
 
 export function BottomListItems() {
+  const [open, setOpen] = React.useState(true);
+
+  const handleClick = () => {
+    setOpen(!open);
+  };
+
   return (
     <List data-testid="drawerCommunity">
       <ListSubheader>
@@ -53,7 +61,21 @@ export function BottomListItems() {
       </ListSubheader>
       <ListItemLink to="/about" primary="About Us" data-testid="LearnAboutUs" />
       <ListItemLink to="/blog" primary="Blog" />
-      <ListItemLink to="/page/contribution-guide" primary="Contribution Guide" data-testid="ContributionGuide" />
+      <ListItem button onClick={handleClick}>
+        <ListItemText>
+          <Typography variant="body2">
+            Contributing
+          </Typography>
+        </ListItemText>
+        {open ? <ExpandLess /> : <ExpandMore />}
+      </ListItem>
+      <Collapse in={open} timeout="auto" unmountOnExit>
+        <List component="div">
+          <ListItemLink to="/page/contribution-guide" primary="Contribution Guide" data-testid="ContributionGuide" />
+          <ListItemLink to="/page/cms" primary="Using the CMS" />
+          <ListItemLink to="/page/editorial" primary="Editorial Flow" />
+        </List>
+      </Collapse>
     </List>
   );
 }

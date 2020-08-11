@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
-  # repo: openpracticelibrary/openpracticelibrary
-  # branch: next
+  repo: openpracticelibrary/openpracticelibrary
+  branch: next
 
-local_backend: true
+# local_backend: true
 
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
@@ -150,14 +150,40 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-page"}
-      - {label: "Title", hint: "The name of the perspective", name: "title", widget: "string"}
-      - {label: "Subtitle", hint: "Catchy one liner for the perspective", name: "subtitle", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Authors", hint: "Comma-separated list of github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
-      - {label: "Jumbotron image", hint: "Large full width image for under the titles", name: "jumbotron", widget: "image", required: false}
-      - {label: "Jumbotron alt text", hint: "Accessible description of the image for screen readers", name: "jumbotronAlt", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown", default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"}
+      - label: "Template Key"
+        name: "templateKey"
+        widget: "hidden"
+        default: "blog-page"
+      - label: "Title"
+        hint: "The name of the perspective"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        hint: "Catchy one liner for the perspective"
+        name: "subtitle"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Authors"
+        hint: "Comma-separated list of github usernames eg., springdo, rdebeasi, tdbeattie"
+        name: "authors"
+        widget: "list"
+        default: []
+      - label: "Jumbotron image"
+        hint: "Large full width image for under the titles"
+        name: "jumbotron"
+        widget: "image"
+        required: false
+      - label: "Jumbotron alt text"
+        hint: "Accessible description of the image for screen readers"
+        name: "jumbotronAlt"
+        widget: "string"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     publish: false
@@ -165,14 +191,33 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Authors", name: "authors", widget: "list", default: []}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Menu", name: "menu", widget: "select", required: false, options:
-          [{label: "True", value: "main"},
-          {label: "False", value: ""}]}
-      - {label: "Menu weight", name: "weight", widget: "string", required: false, pattern: ["^[0-9]", "Must be a number between one and 9"]}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Authors"
+        name: "authors"
+        widget: "list"
+        default: []
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Menu"
+        name: "menu"
+        widget: "select"
+        required: false
+        options:
+          - label: "True"
+            value: "main"
+          - label: "False"
+            value: ""
+      - label: "Menu weight"
+        name: "weight"
+        widget: "string"
+        required: false
+        pattern: ["^[0-9]", "Must be a number between one and 9"]
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: "author" # Used in routes, e.g., /admin/collections/blog
     label: "Author" # Used in the UI
     format: "json"
@@ -182,8 +227,27 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Name", hint: "Your full name to be displayed on an article", name: "title", widget: "string"}
-      - {label: "GitHub Username", hint: "Your github username", name: "github", widget: "string"}
-      - {label: "About you", hint: "Short description of you", name: "bio", widget: "text", required: false, pattern: [".{0,120}", "Must have at least 120 characters"]}
-      - {label: "Location", hint: "Where are you based", name: "location", widget: "string", required: false}
-      - {label: "WebSite", hint: "Your personal blog or website", name: "website", widget: "string", required: false}
+      - label: "Name"
+        hint: "Your full name to be displayed on an article"
+        name: "title"
+        widget: "string"
+      - label: "GitHub Username"
+        hint: "Your github username"
+        name: "github"
+        widget: "string"
+      - label: "About you"
+        hint: "Short description of you"
+        name: "bio"
+        widget: "text"
+        required: false
+        pattern: [".{0,120}", "Must have at least 120 characters"]
+      - label: "Location"
+        hint: "Where are you based"
+        name: "location"
+        widget: "string"
+        required: false
+      - label: "WebSite"
+        hint: "Your personal blog or website"
+        name: "website"
+        widget: "string"
+        required: false
