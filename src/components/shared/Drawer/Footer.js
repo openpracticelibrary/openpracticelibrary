@@ -15,7 +15,7 @@ export default function Footer() {
       >
         <Grid item>
           <FooterList
-            link="https://forms.gle/nXCvPEkjx6VdF6Px6"
+            link="https://forms.gle/tg5STmZmb2m6HwA87"
             text="SEND FEEDBACK"
           >
             <Feedback />
