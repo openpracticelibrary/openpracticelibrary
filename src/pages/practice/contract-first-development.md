@@ -3,19 +3,19 @@ participants:
   - DevOps Team
 subtitle: Make it clear for everyone
 resources:
-  - link: https://swagger.io/docs/specification/about/
+  - link: 'https://swagger.io/docs/specification/about/'
     linkType: web
     description: OpenAPI
-  - link: https://openapi.tools/
+  - link: 'https://openapi.tools/'
     linkType: web
     description: HERE
-  - link: https://openpracticelibrary.com/practice/definition-of-done/
+  - link: 'https://openpracticelibrary.com/practice/definition-of-done/'
     linkType: web
     description: Definition Of Done
-  - link: https://openapi-generator.tech/
+  - link: 'https://openapi-generator.tech/'
     linkType: web
     description: OpenAPI Generator
-  - link: https://openapi.tools/
+  - link: 'https://openapi.tools/'
     linkType: web
     description: OpenAPI Tools
 templateKey: practice-page
@@ -24,8 +24,7 @@ date: 2019-06-20T12:49:38.825Z
 authors:
   - infosec812
   - jameshbarton
-tags:
-  - delivery
+tags: []
 icon: /images/contract-first-api-development.png
 whatIs: >-
   Contract-First Development is about making your intent clear across team
@@ -38,10 +37,13 @@ whatIs: >-
 
   - Code generation for both clients and servers
 
-  - Automated testing and validation tools\n- Simple mocking of the service under development
+  - Automated testing and validation tools\n- Simple mocking of the service
+  under development
 
-  - More relevant and current documentation\n\nMore tooling around OpenAPI can be found [HERE](https://openapi.tools/)
-whyDo: So that everyone can be productive in parallel AND we can have strong
+  - More relevant and current documentation\n\nMore tooling around OpenAPI can
+  be found [HERE](https://openapi.tools/)
+whyDo: >-
+  So that everyone can be productive in parallel AND we can have strong
   guarantees of the resulting applications working together properly. Instead of
   UI development being blocked awaiting a working service to code against, UI
   and Service developers can work in parallel. Also, if you define the contract
@@ -55,12 +57,14 @@ jumbotron: /images/contract-first-api-development.png
 area: delivery-deliver
 time: 2+ hours
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/contract-first-api-development.png
-  - link: https://youtu.be/zQncznMLrt4
+  - link: >-
+      https://openpracticelibrary.github.io/opl-media/images/contract-first-api-development.png
+  - link: 'https://youtu.be/zQncznMLrt4'
 people: 2+
 perspectives:
   - product-ownership
 difficulty: moderate
+mobiusTag: delivery
 ---
 ## What is it?
 

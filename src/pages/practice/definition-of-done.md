@@ -1,16 +1,18 @@
 ---
 participants:
   - The Team
-subtitle: Shared knowledge and understanding regarding what it means for a work
-  item to be done by a team
+subtitle: >-
+  Shared knowledge and understanding regarding what it means for a work item to
+  be done by a team
 resources:
-  - link: https://www.scruminc.com/definition-of-done/
+  - link: 'https://www.scruminc.com/definition-of-done/'
     linkType: web
     description: Scrum Inc 5 minute course
-  - link: https://www.scrum.org/resources/blog/walking-through-definition-done
+  - link: 'https://www.scrum.org/resources/blog/walking-through-definition-done'
     linkType: web
     description: Walking through the Definition of Done
-  - link: https://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/
+  - link: >-
+      https://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/
     linkType: web
     description: How to create your team’s Definition Of Done
 templateKey: practice-page
@@ -21,7 +23,6 @@ authors:
   - mtakane
   - mvmaestri
 tags:
-  - foundation
   - culture
 icon: /images/dod.jpeg
 whatIs: >-
@@ -30,20 +31,25 @@ whatIs: >-
 
   * *Collaboratively created, maintained and enforced criteria by the team.*
 
-  * A place where non-functional and functional work that should be performed for each and every work item can be managed.
+  * A place where non-functional and functional work that should be performed
+  for each and every work item can be managed.
 howTo: >-
   ### Tips for Remote Working
 
 
-  * It is reasonably easy to find an agreement on both definition of ready and done remotely.
+  * It is reasonably easy to find an agreement on both definition of ready and
+  done remotely.
 
-  * *One person can be a facilitator writing it based on everyone's input or everyone can co-edit.*
+  * *One person can be a facilitator writing it based on everyone's input or
+  everyone can co-edit.*
 
-  * Use virtual white-boarding tool and use techniques such as "roman voting" or adding a sticky w/name to gain consensus.
+  * Use virtual white-boarding tool and use techniques such as "roman voting" or
+  adding a sticky w/name to gain consensus.
 area: foundation-culture-and-collaboration
 time: 15 minutes
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/DoD.JPG?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/DoD.JPG?raw=true
 people: 2+
 whyDo: >-
   * Aligns understanding and shared expectations across stakeholder groups on,
@@ -54,6 +60,7 @@ whyDo: >-
 perspectives:
   - facilitation-tips-for-remote-sessions
 difficulty: easy
+mobiusTag: foundation
 ---
 ## What is it?
 

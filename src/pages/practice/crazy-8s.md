@@ -5,13 +5,15 @@ participants:
   - Design Lead
 subtitle: A fast sketching exercise to generate solution ideas
 resources:
-  - link: http://www.funretrospectives.com/dot-voting/
+  - link: 'http://www.funretrospectives.com/dot-voting/'
     linkType: web
     description: dot-voting exercise
-  - link: https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-eights
+  - link: >-
+      https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-eights
     linkType: web
     description: Overview of Crazy 8s Exercise
-  - link: https://www.iamnotmypixels.com/how-to-use-crazy-8s-to-generate-design-ideas/
+  - link: >-
+      https://www.iamnotmypixels.com/how-to-use-crazy-8s-to-generate-design-ideas/
     linkType: web
     description: Alternative overview of Crazy 8s Exercise
 templateKey: practice-page
@@ -20,7 +22,6 @@ date: 2019-10-23T15:46:01.503Z
 authors:
   - heyjerrybecker
 tags:
-  - discovery
   - ideate
 icon: /images/crazy-8s-1.jpg
 whatIs: >-
@@ -30,8 +31,9 @@ whatIs: >-
   generate a wide variety of solutions to your challenge.
 
   Check out the video in the gallery for a quick overview.
-whyDo: This practice is a great way to ensure a product team is taking the time
-  to prioritize user needs and generate enough solutions to needs to broaden the
+whyDo: >-
+  This practice is a great way to ensure a product team is taking the time to
+  prioritize user needs and generate enough solutions to needs to broaden the
   potential for finding the best idea. Often times, a team generates a solution
   and begins development right away without considering whether a solution is a
   good one. But “good” is a relative term, so ideally teams should be generating
@@ -43,7 +45,8 @@ howTo: >-
 
   1. Give each participant a single sheet of printer paper and a sharpie
 
-  2. Have participants fold their paper into eight sections (it should look like the paper in the header image for this post)
+  2. Have participants fold their paper into eight sections (it should look like
+  the paper in the header image for this post)
 
   3. Set the timer for eight minutes
 
@@ -57,16 +60,20 @@ howTo: >-
   ### Follow-on Activities
 
 
-  After the team presents ideas, you can run a [dot-voting exercise](http://www.funretrospectives.com/dot-voting/) to vote on which ideas and idea components the team likes the most. Afterwards, you can consolidate the ideas into a single idea to flesh out into a testable prototype.
+  After the team presents ideas, you can run a [dot-voting
+  exercise](http://www.funretrospectives.com/dot-voting/) to vote on which ideas
+  and idea components the team likes the most. Afterwards, you can consolidate
+  the ideas into a single idea to flesh out into a testable prototype.
 jumbotron: /images/crazy-8s-1.jpg
 area: discovery-loop-outcomes
 time: 30 min
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/crazy-8s-1.jpg
-  - link: https://youtu.be/yz4g87XapQ0
+  - link: 'https://openpracticelibrary.github.io/opl-media/images/crazy-8s-1.jpg'
+  - link: 'https://youtu.be/yz4g87XapQ0'
 people: 3+
 perspectives: []
 difficulty: easy
+mobiusTag: discovery
 ---
 ## What is it?
 

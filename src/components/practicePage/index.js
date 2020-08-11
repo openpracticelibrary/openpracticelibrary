@@ -18,6 +18,7 @@ const PracticePage = ({ data, preview }) => {
         subtitle,
         authors,
         tags,
+        mobiusTag,
         whatIs,
         whyDo,
         howTo,
@@ -29,6 +30,13 @@ const PracticePage = ({ data, preview }) => {
     },
   } = data;
   const practiceSlug = slug.split("practice/")[1];
+
+  let allTags = [];
+  if(mobiusTag) {
+    allTags = [...allTags,mobiusTag]
+  } if(tags) {
+    allTags = [...allTags,...tags]
+  }
 
   // Refs
   const whatIsRef = useRef(null);
@@ -50,7 +58,7 @@ const PracticePage = ({ data, preview }) => {
     practiceId,
     title,
     subtitle,
-    tags,
+    allTags,
     authors,
     date,
     imgCount: mediaGallery ? mediaGallery.length : 0,
@@ -73,7 +81,7 @@ const PracticePage = ({ data, preview }) => {
 
   return (
     <>
-      <HeroColor type="gradient" gradient={gradientSelect(tags)} height="30vh">
+      <HeroColor type="gradient" gradient={gradientSelect(allTags)} height="30vh">
         {!preview &&
           <LoginButton
             practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
