@@ -1,13 +1,16 @@
 import React from "react";
 import { Link as RouterLink } from "gatsby";
+import {
+  Divider,
+  ListItem,
+  ListItemText,
+  ListSubheader,
+  List,
+  Typography,
+  Collapse,
+} from "@material-ui/core";
 
-import { ListItem, ListItemText, ListSubheader, List, Typography, Collapse } from "@material-ui/core";
-import ExpandLess from '@material-ui/icons/ExpandLess';
-import ExpandMore from '@material-ui/icons/ExpandMore';
-
-function ListItemLink(props) {
-  const { primary, to, toggle } = props;
-
+function ListItemLink({ primary, to, toggle }) {
   const renderLink = React.useMemo(
     () =>
       React.forwardRef((itemProps, ref) => (
@@ -15,18 +18,21 @@ function ListItemLink(props) {
       )),
     [to]
   );
-
   return (
-    <li>
-      <ListItem button component={renderLink} onClick={toggle}>
-        <Typography variant="body2">{primary}</Typography>
-      </ListItem>
-    </li>
+    <ListItem button component={renderLink} onClick={toggle}>
+      <Typography variant="body1">{primary}</Typography>
+    </ListItem>
   );
 }
-
 export function TopListItems(props) {
+  const [open, setOpen] = React.useState(true);
+
+  const handleClick = () => {
+    setOpen(!open);
+  };
+  
   const { toggle } = props;
+  
   return (
     <List data-testid="drawerPractices">
       <ListSubheader>
@@ -34,26 +40,19 @@ export function TopListItems(props) {
           Practices
         </Typography>
       </ListSubheader>
+      <ListItemLink to="/" primary="View Library" toggle={toggle} />
       <ListItemLink
         to="/learn"
         primary="Learn More"
         toggle={toggle}
         data-testid="SeeEverything"
       />
-      <ListItemLink to="/" primary="View Library" toggle={toggle} />
-    </List>
-  );
-}
-
-export function BottomListItems() {
-  const [open, setOpen] = React.useState(true);
-
-  const handleClick = () => {
-    setOpen(!open);
-  };
-
-  return (
-    <List data-testid="drawerCommunity">
+      <ListItemLink
+        to={`${window.location.origin}/admin/#/collections/practice/entries/new`}
+        primary="Add a Practice"
+        toggle={toggle}
+      />
+      <Divider />
       <ListSubheader>
         <Typography variant="overline" color="primary">
           Community
