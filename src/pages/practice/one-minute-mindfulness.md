@@ -3,24 +3,26 @@ participants:
   - The Team
 subtitle: Calm the mind and body to help team members manage stress levels
 resources:
-  - link: https://link.springer.com/chapter/10.1007/978-3-319-57633-6_7
+  - link: 'https://link.springer.com/chapter/10.1007/978-3-319-57633-6_7'
     linkType: web
-    description: "Don’t Forget to Breathe: A Controlled Trial of Mindfulness
-      Practices in Agile Project Teams"
-  - link: https://hbr.org/2018/07/how-to-use-mindfulness-to-increase-your-teams-creativity
+    description: >-
+      Don’t Forget to Breathe: A Controlled Trial of Mindfulness Practices in
+      Agile Project Teams
+  - link: >-
+      https://hbr.org/2018/07/how-to-use-mindfulness-to-increase-your-teams-creativity
     linkType: web
-    description: "How to Use Mindfulness to Increase Your Team’s Creativity "
+    description: 'How to Use Mindfulness to Increase Your Team’s Creativity '
 templateKey: practice-page
 title: One Minute Mindfulness
 date: 2020-03-19T21:33:47.435Z
 authors:
   - Airgidfaolchu
 tags:
-  - foundation
   - culture
 icon: /images/one-minute-mindfulness.png
-whatIs: We live in a fast paced world. We can all benefit from incorporating
-  stress reduction into our daily routine in order to nurture and encourage our
+whatIs: >-
+  We live in a fast paced world. We can all benefit from incorporating stress
+  reduction into our daily routine in order to nurture and encourage our
   well-being. Having just sixty seconds of mindful breathing exercise per day
   may boost our physical and mental energy. One minute mindfulness is a
   micro-habit to develop an empathetic mindset. It can be easily integrated into
@@ -33,7 +35,8 @@ howTo: >-
 
   3. Set a timer for one minute.
 
-  4. Ask participants to close their eyes and focus on their breath; have them inhale through their nose and exhale through their mouth slowly.
+  4. Ask participants to close their eyes and focus on their breath; have them
+  inhale through their nose and exhale through their mouth slowly.
 
   5. Start the timer and enjoy the exercise.
 
@@ -41,14 +44,17 @@ howTo: >-
 jumbotron: /images/one-minute-mindfulness.png
 area: foundation-culture-and-collaboration
 time: 1 minute
-whyDo: Agile software development can be exacting, and stressed people tend to
-  share their worst ideas. The benefit of this practice is to calm the mind and
-  body to help team members manage stress levels. What’s more, mindfulness
-  meditation enhances creativity and innovation.
+whyDo: >-
+  Agile software development can be exacting, and stressed people tend to share
+  their worst ideas. The benefit of this practice is to calm the mind and body
+  to help team members manage stress levels. What’s more, mindfulness meditation
+  enhances creativity and innovation.
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/one-minute-mindfulness.png
+  - link: >-
+      https://openpracticelibrary.github.io/opl-media/images/one-minute-mindfulness.png
 perspectives: []
 difficulty: easy
+mobiusTag: foundation
 ---
 ## What is it?
 

@@ -1,5 +1,5 @@
 ---
-title: Contributing
+title: Contribution Guide
 authors:
   - rdebeasi
   - springdo

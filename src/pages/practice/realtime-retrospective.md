@@ -4,19 +4,21 @@ participants:
   - Facilitator
 subtitle: Getting feedback faster and improving the overall experience of your event.
 resources:
-  - link: http://emilywebber.co.uk/the-realtime-retrospective/
+  - link: 'http://emilywebber.co.uk/the-realtime-retrospective/'
     linkType: web
     description: Realtime Retrospectives
-  - link: https://www.amazon.com/Post-Sticky-Janeiro-Collection-6845-SSP/dp/B000CD0MHQ/
+  - link: >-
+      https://www.amazon.com/Post-Sticky-Janeiro-Collection-6845-SSP/dp/B000CD0MHQ/
     linkType: purchase
     description: 8x6 Sticky Notes on Amazon
-  - link: https://www.amazon.com/dp/B01N1UE0JY?psc=1
+  - link: 'https://www.amazon.com/dp/B01N1UE0JY?psc=1'
     linkType: purchase
     description: 3x3 Sticky Notes on Amazon
-  - link: https://www.infoq.com/articles/rising-continuous-retrospective/
+  - link: 'https://www.infoq.com/articles/rising-continuous-retrospective/'
     linkType: web
     description: Continuous Retrospective
-  - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
+  - link: >-
+      https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
     linkType: web
     description: the Double Diamond design model
 templateKey: practice-page
@@ -26,7 +28,6 @@ authors:
   - mtakane
   - Zenigata
 tags:
-  - foundation
   - culture
 icon: /images/realtime-retro-prep.jpg
 whatIs: >-
@@ -36,10 +37,12 @@ whatIs: >-
   already have:
 
 
-  * some feedback in a timeline-like fashion that includes both positive and negative things
+  * some feedback in a timeline-like fashion that includes both positive and
+  negative things
 
 
-  * a capture of the mood and reaction of people over the course of time in a realtime manner
+  * a capture of the mood and reaction of people over the course of time in a
+  realtime manner
 
 
   * lots of sticky notes on a wall
@@ -48,7 +51,8 @@ whatIs: >-
   ## How does it fit?
 
 
-  * Typically done in the Culture and Collaboration area of the Foundation of the Open Practice Library.
+  * Typically done in the Culture and Collaboration area of the Foundation of
+  the Open Practice Library.
 whyDo: >-
   * Let's face it, nobody _likes_ filling out surveys, especially if it's more
   than three questions. Why not have the participants write unfiltered,
@@ -57,10 +61,12 @@ whyDo: >-
   participate anonymously.
 
 
-  * For long running days or weeks with multiple sessions or activities, you can visibly see people's moods or grasp of the information in realtime.
+  * For long running days or weeks with multiple sessions or activities, you can
+  visibly see people's moods or grasp of the information in realtime.
 
 
-  * When running similar sessions in quick succession, you may need to improve quickly and sometimes adjust on the fly.
+  * When running similar sessions in quick succession, you may need to improve
+  quickly and sometimes adjust on the fly.
 howTo: >-
   ## Who do you need?
 
@@ -106,28 +112,34 @@ howTo: >-
   #### Preparations
 
 
-  * Find a wall or surface that is long enough to handle the amount of feedback you are expecting.
+  * Find a wall or surface that is long enough to handle the amount of feedback
+  you are expecting.
 
 
   * Make a long line to represent time.
 
 
-  * Draw a Happy Face above the line, a Sad Face below the line, and a Surprised Face along the line (this represents the type of feedback that you wish to receive – Positive, Negative, Surprised).
+  * Draw a Happy Face above the line, a Sad Face below the line, and a Surprised
+  Face along the line (this represents the type of feedback that you wish to
+  receive – Positive, Negative, Surprised).
 
 
-  ![Realtime Retrospective Setup](/images/realtime-retro-prep.jpg "Sample Prep Setup for Realtime Retrospective")
+  ![Realtime Retrospective Setup](/images/realtime-retro-prep.jpg "Sample Prep
+  Setup for Realtime Retrospective")
 
 
   #### Step 1
 
 
-  Explain to your participants your goal of using this practice and how to use your prepped area. Key things to share:
+  Explain to your participants your goal of using this practice and how to use
+  your prepped area. Key things to share:
 
 
   * Where to find materials for them to contribute.
 
 
-  * How the timelapse begins at the left and continues until the timeframe you designate as the end.
+  * How the timelapse begins at the left and continues until the timeframe you
+  designate as the end.
 
 
   * Any and all feedback is welcome, 1 post-it per feedback item.
@@ -136,26 +148,31 @@ howTo: >-
   #### Step 2
 
 
-  Cycle back constantly to review your feedback and make appropriate improvements based on them.
+  Cycle back constantly to review your feedback and make appropriate
+  improvements based on them.
 
 
   ## Related Practices
 
 
-  * Timeline Retrospectives by Patrick Kua uses a similar approach to gathering feedback in a sequential order
+  * Timeline Retrospectives by Patrick Kua uses a similar approach to gathering
+  feedback in a sequential order
 
 
-  * Linda Rising has a concept of the Continuous Retrospective that uses the timeline aspect of the Timeline Retrospective and to reflect on it everyday as a team.
+  * Linda Rising has a concept of the Continuous Retrospective that uses the
+  timeline aspect of the Timeline Retrospective and to reflect on it everyday as
+  a team.
 jumbotron: /images/example-realtime-retro.jpg
 area: foundation-culture-and-collaboration
 time: one week
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/realtime-retro-prep.jpg
+  - link: >-
+      https://openpracticelibrary.github.io/opl-media/images/realtime-retro-prep.jpg
 people: 2+
 difficulty: easy
 jumbotronAlt: Get Realtime feedback over the course of your event!
+mobiusTag: foundation
 ---
-
 ## What is it?
 
 The Realtime Retrospective technique was created by Emily Webber[<sup>1</sup>](#footnote-1). This is a great way to capture feedback from a large number of participants in realtime over an extended period of time. By the middle of your event you should already have:

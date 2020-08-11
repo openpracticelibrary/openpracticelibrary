@@ -37,7 +37,7 @@ export default PracticesWithDataTags;
 
 export const tagPageQuery = graphql`
   query TagPageTemplate($tag: String) {
-    allMarkdownRemark(filter: { frontmatter: { tags: { in: [$tag] } } }) {
+    allMarkdownRemark(filter: { frontmatter: { mobiusTag: { eq: $tag } } }) {
       edges {
         node {
           id
@@ -48,6 +48,7 @@ export const tagPageQuery = graphql`
             title
             subtitle
             tags
+            mobiusTag
             icon
             mediaGallery {
               link
