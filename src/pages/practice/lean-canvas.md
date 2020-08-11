@@ -2,28 +2,30 @@
 participants:
   - Product Owner
   - The Team
-subtitle: A 1-page business plan template to help you focus on problems,
-  solutions, key metrics and competitive advantages.
+subtitle: >-
+  A 1-page business plan template to help you focus on problems, solutions, key
+  metrics and competitive advantages.
 resources:
-  - link: https://leanstack.com/leancanvas
+  - link: 'https://leanstack.com/leancanvas'
     linkType: web
     description: Lean Stack's Lean Canvas
-  - link: https://www.strategyzer.com/canvas/business-model-canvas
+  - link: 'https://www.strategyzer.com/canvas/business-model-canvas'
     linkType: web
     description: Lean Canvas from Strategyzer
-  - link: https://leanstack.com/LeanCanvas.pdf
+  - link: 'https://leanstack.com/LeanCanvas.pdf'
     linkType: web
     description: Lean Canvas Template and Instructions from Lean Stack
-  - link: https://www.jeffgothelf.com/blog/leanuxcanvas/
+  - link: 'https://www.jeffgothelf.com/blog/leanuxcanvas/'
     linkType: web
     description: Lean UX canvas by Jeff Gothelf
-  - link: https://www.jeffgothelf.com/wp-content/uploads/2016/12/LeanUX_canvas_v4.pdf
+  - link: >-
+      https://www.jeffgothelf.com/wp-content/uploads/2016/12/LeanUX_canvas_v4.pdf
     linkType: web
     description: Lean UX Canvas Template from Jeff Gothelf
-  - link: https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/
+  - link: 'https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/'
     linkType: web
     description: UX Strategy Blueprint
-  - link: https://openpracticelibrary.com/images/ux-strategy-template.jpg
+  - link: 'https://openpracticelibrary.com/images/ux-strategy-template.jpg'
     linkType: web
     description: Open Practice Library's UX Strategy Template
 templateKey: practice-page
@@ -34,12 +36,12 @@ authors:
   - ariellemcmahon
   - aspanner
 tags:
-  - discovery
   - value
 icon: /images/lean-canvas.png
-whatIs: A Lean Canvas is a one-page document that captures key information about
-  your future product. The Lean Canvas is frequently used by Entrepreneurs and
-  Lean Startups.
+whatIs: >-
+  A Lean Canvas is a one-page document that captures key information about your
+  future product. The Lean Canvas is frequently used by Entrepreneurs and Lean
+  Startups.
 howTo: >-
   When filling out the Lean Canvas, it is best to fill the sections out in a
   certain way.
@@ -82,49 +84,72 @@ howTo: >-
     What makes your product unique. Something that cannot be easily copied or bought.
 
 
-  When filling out the canvas, use bullet points. Don't write long sentences. A good canvas should be understood in a few minutes.
+  When filling out the canvas, use bullet points. Don't write long sentences. A
+  good canvas should be understood in a few minutes.
 
 
-  Make sure you are filling out every box. There might be a lot of uncertainty but the canvas is there to help you and to structure your idea.
+  Make sure you are filling out every box. There might be a lot of uncertainty
+  but the canvas is there to help you and to structure your idea.
 
   ### Variations
 
   #### Lean Canvas
 
-  The [Lean Canvas](https://leanstack.com/leancanvas) was created by Ash Maurya and based on the [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) by Alexander Osterwalder. It aims to shorten the product development lifecycle and rapidly discover if a product idea is viable.
+  The [Lean Canvas](https://leanstack.com/leancanvas) was created by Ash Maurya
+  and based on the [Business Model
+  Canvas](https://www.strategyzer.com/canvas/business-model-canvas) by Alexander
+  Osterwalder. It aims to shorten the product development lifecycle and rapidly
+  discover if a product idea is viable.
 
 
   [Lean Canvas Template and Instructions](https://leanstack.com/LeanCanvas.pdf)
 
   #### Lean UX Canvas
 
-  Jeff Gotheelf created the [Lean UX canvas](https://www.jeffgothelf.com/blog/leanuxcanvas/) to help organizations practice user-centered design and test hypotheses. Jeff based his work on the Lean Canvas and the Business Model Canvas.
+  Jeff Gotheelf created the [Lean UX
+  canvas](https://www.jeffgothelf.com/blog/leanuxcanvas/) to help organizations
+  practice user-centered design and test hypotheses. Jeff based his work on the
+  Lean Canvas and the Business Model Canvas.
 
 
-  [Lean UX Canvas Template](https://www.jeffgothelf.com/wp-content/uploads/2016/12/LeanUX_canvas_v4.pdf)
+  [Lean UX Canvas
+  Template](https://www.jeffgothelf.com/wp-content/uploads/2016/12/LeanUX_canvas_v4.pdf)
 
   #### UX Strategy Guide
 
-  Arielle McMahon created the UX Strategy Guide to help product teams vet ideas for new products and features. This guide is inspired by the Lean UX Canvas and Jim Kalbach’s [UX Strategy Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/).
+  Arielle McMahon created the UX Strategy Guide to help product teams vet ideas
+  for new products and features. This guide is inspired by the Lean UX Canvas
+  and Jim Kalbach’s [UX Strategy
+  Blueprint](https://experiencinginformation.com/2014/08/12/ux-strategy-blueprint/).
 
 
-  The UX Strategy Guide provides a 12-step list of requirements, including metrics of success, risk assumptions, market research and more. Teams can follow the guide to validate product decisions with the right research and set their products up for success.
+  The UX Strategy Guide provides a 12-step list of requirements, including
+  metrics of success, risk assumptions, market research and more. Teams can
+  follow the guide to validate product decisions with the right research and set
+  their products up for success.
 
 
-  Arielle McMahon has kindly contributed this guide to the Open Practice Library.
+  Arielle McMahon has kindly contributed this guide to the Open Practice
+  Library.
 
 
   [UX Strategy Guide Template](/images/ux-strategy-template.jpg)
 
   #### Business Model Canvas
 
-  The business model canvas is a variation that focuses on the development of new, improving existing or understanding the current business model. In a time where existing business models are disrupted this is a vital exercise. It adds the dimension of Key Partners, Key Activities, Customer Relationships, Customer Segments to the canvas.
+  The business model canvas is a variation that focuses on the development of
+  new, improving existing or understanding the current business model. In a time
+  where existing business models are disrupted this is a vital exercise. It adds
+  the dimension of Key Partners, Key Activities, Customer Relationships,
+  Customer Segments to the canvas.
 area: discovery-loop-why
 time: 1hr +
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Lean%20Canvas.png?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-canvas-small.png?raw=true
-  - link: https://openpracticelibrary.com/images/ux-strategy-template.jpg
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/Lean%20Canvas.png?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-canvas-small.png?raw=true
+  - link: 'https://openpracticelibrary.com/images/ux-strategy-template.jpg'
 people: 1+
 whyDo: |-
   This document will help structure your idea in terms of:
@@ -135,6 +160,7 @@ whyDo: |-
 perspectives:
   - product-ownership
 difficulty: moderate
+mobiusTag: discovery
 ---
 ## What is it?
 

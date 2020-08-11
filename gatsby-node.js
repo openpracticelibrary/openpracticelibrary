@@ -29,7 +29,7 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              tags
+              mobiusTag
               templateKey
             }
           }
@@ -52,14 +52,14 @@ exports.createPages = ({ actions, graphql }) => {
       if (templateType === "blog") {
         templateValue = "blog-template";
       } else if (templateType === "page") {
-        templateValue = "practice-page";
+        templateValue = "additional-page";
       } else if (templateType === "practice") {
         templateValue = "practice-page";
       }
 
       createPage({
         path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
+        tags: edge.node.frontmatter.mobiusTag,
         component: path.resolve(`src/templates/${templateValue}.js`),
         // additional data can be passed via context
         context: {

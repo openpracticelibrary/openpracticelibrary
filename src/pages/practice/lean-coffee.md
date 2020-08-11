@@ -3,13 +3,14 @@ subtitle: Democratically generated agendas for more valuable conversations
 participants:
   - Open to anyone
 resources:
-  - link: http://leancoffee.org/
+  - link: 'http://leancoffee.org/'
     linkType: web
     description: Original Lean Coffee
-  - link: https://www.retrium.com/resources/techniques/lean-coffee
+  - link: 'https://www.retrium.com/resources/techniques/lean-coffee'
     linkType: web
     description: Lean Coffee as a Retrospective
-  - link: https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9
+  - link: >-
+      https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9
     linkType: web
     description: Lean Coffee Facilitator's Guide
 templateKey: practice-page
@@ -19,7 +20,6 @@ authors:
   - prakritiverma
 area: foundation-culture-and-collaboration
 tags:
-  - foundation
   - culture
 perspectives: []
 icon: /images/lean-coffee-2.jpg
@@ -28,9 +28,11 @@ difficulty: easy
 whatIs: >-
   * Lean Coffee started in Seattle in 2009 by Jim Benson and Jeremy Lightsmith
 
-  * A structured, but agenda-less meeting.  Participants gather, build an agenda, and begin talking.
+  * A structured, but agenda-less meeting.  Participants gather, build an
+  agenda, and begin talking.
 
-  * Intentionally minimalist - to be the least structure necessary for a coherent and productive meeting
+  * Intentionally minimalist - to be the least structure necessary for a
+  coherent and productive meeting
 whyDo: |-
   * Surfaces topics that the participants want to discuss
   * Helps create more value out the of conversation since it's participant-run
@@ -38,7 +40,8 @@ whyDo: |-
 howTo: >-
   ### Materials Needed
 
-  * Writing utensils for all participants (markers are easier to read from a distance)
+  * Writing utensils for all participants (markers are easier to read from a
+  distance)
 
   * Sticky notes (any medium size: 3x3, 4x6, etc)
 
@@ -66,7 +69,9 @@ howTo: >-
       * Thumbs down = "end discussion and switch to next topic"
     * Keep updating the Kanban board.  Continue this until you are out of time or out of topics.
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-coffee-2.jpg?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-coffee-2.jpg?raw=true
+mobiusTag: foundation
 ---
 ## What is it?
 

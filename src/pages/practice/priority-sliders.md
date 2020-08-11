@@ -3,12 +3,14 @@ participants:
   - Development Team
   - Product Owner
   - Stakeholders
-subtitle: Facilitate conversations about relative priorities to focus upcoming activities
+subtitle: >-
+  Facilitate conversations about relative priorities to focus upcoming
+  activities
 resources:
-  - link: https://www.atlassian.com/team-playbook/plays/trade-off-sliders
+  - link: 'https://www.atlassian.com/team-playbook/plays/trade-off-sliders'
     linkType: web
     description: Trade-off Sliders
-  - link: https://www.ready-to-innovate.com/priority-sliders
+  - link: 'https://www.ready-to-innovate.com/priority-sliders'
     linkType: web
     description: Try out an online example
 templateKey: practice-page
@@ -19,7 +21,6 @@ authors:
   - valyonchev
   - rdebeasi
 tags:
-  - discovery
   - value
 icon: /images/priority-sliders-irl.jpg
 whatIs: >-
@@ -27,16 +28,20 @@ whatIs: >-
   upcoming activities.
 
 
-  * A finite set of topics/dimensions/areas that can be relatively prioritised against each other.
+  * A finite set of topics/dimensions/areas that can be relatively prioritised
+  against each other.
 
 
-  * A slider for each dimension where groups of people collaborative slide the relative importance to the right (more important) or left (less important).
+  * A slider for each dimension where groups of people collaborative slide the
+  relative importance to the right (more important) or left (less important).
 
 
   * A practice that increases the autonomy of teams (see decision making below)
 
 
-  Whiteboard with words such as "user experience" and "security". Next to each word, there is a sticky note with a number. (https://github.com/openpracticelibrary/opl-media/blob/master/images/final_priority-sliders.png?raw=true)
+  Whiteboard with words such as "user experience" and "security". Next to each
+  word, there is a sticky note with a number.
+  (https://github.com/openpracticelibrary/opl-media/blob/master/images/final_priority-sliders.png?raw=true)
 howTo: >-
   Steps:
 
@@ -66,32 +71,47 @@ howTo: >-
   2. Introduce the sliders and explain them to the participants
 
 
-  3.  Have everyone write down the number of each slider as to where they would place it on the scale (~5 min). Do this on individual sticky notes and don't let the team members share until later - this keeps bias to a minimum. Once time is up, have everyone put their stickies up on the scale for each slider
+  3.  Have everyone write down the number of each slider as to where they would
+  place it on the scale (~5 min). Do this on individual sticky notes and don't
+  let the team members share until later - this keeps bias to a minimum. Once
+  time is up, have everyone put their stickies up on the scale for each slider
 
 
-  4. Review each slider individually as a team, having a discussion about alignment. Drive toward an agree-upon spot on the scale and annotate that with a different color sticky. (~20 min)
+  4. Review each slider individually as a team, having a discussion about
+  alignment. Drive toward an agree-upon spot on the scale and annotate that with
+  a different color sticky. (~20 min)
 area: discovery-loop-outcomes
 time: 30 minutes
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Priority%20Sliders.jpg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/final_priority-sliders.png?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/Priority%20Sliders.jpg?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/final_priority-sliders.png?raw=true
 people: 2+
 whyDo: >-
   * Enables an alignment and consensus on areas of focus.
 
 
-  * Provides clarifications across stakeholder groups of motivations and desires.
+  * Provides clarifications across stakeholder groups of motivations and
+  desires.
 
 
-  * Can be used as a filtering mechanism for later prioritisation (of, for example, product backlog items).
+  * Can be used as a filtering mechanism for later prioritisation (of, for
+  example, product backlog items).
 
 
-  * Can be used for decision-making: the alternatives/options of specific decisions (features or product decisions in particular) can be evaluated in the context of each priority starting from the highest ranking priority. If all alternatives score the same on that highest priority aspect, the next in line is used. This provides an objective discriminating factor and allows the team to take a decision on their own using the Priority Sliders as a decision principle.
+  * Can be used for decision-making: the alternatives/options of specific
+  decisions (features or product decisions in particular) can be evaluated in
+  the context of each priority starting from the highest ranking priority. If
+  all alternatives score the same on that highest priority aspect, the next in
+  line is used. This provides an objective discriminating factor and allows the
+  team to take a decision on their own using the Priority Sliders as a decision
+  principle.
 perspectives:
   - facilitation-tips-for-remote-sessions
 difficulty: moderate
+mobiusTag: discovery
 ---
-
 ## What is it?
 
 - A tool that facilitates conversations about relative priorities and focuses upcoming activities.
