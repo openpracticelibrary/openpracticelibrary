@@ -10,6 +10,8 @@ import {
   Collapse,
 } from "@material-ui/core";
 
+import { ExpandMore, ExpandLess } from "@material-ui/icons";
+
 function ListItemLink({ primary, to, toggle }) {
   const renderLink = React.useMemo(
     () =>
@@ -24,15 +26,15 @@ function ListItemLink({ primary, to, toggle }) {
     </ListItem>
   );
 }
-export function TopListItems(props) {
+export default function ListItems(props) {
   const [open, setOpen] = React.useState(true);
 
   const handleClick = () => {
     setOpen(!open);
   };
-  
+
   const { toggle } = props;
-  
+
   return (
     <List data-testid="drawerPractices">
       <ListSubheader>
