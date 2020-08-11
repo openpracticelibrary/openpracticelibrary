@@ -5,7 +5,7 @@ import ReactMarkdown from "react-markdown";
 import { Box, Container, Typography } from "@material-ui/core";
 import HeroColor from "../components/shared/HeroColor";
 import Feedback from "../components/About/Feedback";
-import OplDrawer from "../components/shared/Drawer";
+import Layout from "../components/Layout";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -23,7 +23,7 @@ const Image = (props) => (
 
 const AdditionalPage = (props) => {
   return (
-    <OplDrawer>
+    <Layout>
       <Box data-testid="additionalPage" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
           <Box px={6}>
@@ -39,7 +39,7 @@ const AdditionalPage = (props) => {
         </Box>
         <Feedback />
       </Box>
-    </OplDrawer>
+    </Layout>
   );
 };
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
-import OplDrawer from "../components/shared/Drawer";
+import Layout from "../components/Layout";
 import Practices from "../components/allPractices";
 import SearchContainer from "../components/shared/Search/SearchContainer";
 import {
@@ -25,11 +25,11 @@ const PracticesWithDataTags = (props) => {
   } = props;
 
   return (
-    <OplDrawer>
+    <Layout>
       <Practices {...props} {...dataProps}>
         <SearchContainer practices={edges} />
       </Practices>
-    </OplDrawer>
+    </Layout>
   );
 };
 

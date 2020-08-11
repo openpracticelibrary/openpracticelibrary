@@ -1,9 +1,8 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
 import { Container, Box, Typography, Divider } from "@material-ui/core";
-import OplDrawer from "../../components/shared/Drawer";
+import Layout from "../../components/Layout";
 import HeroColor from "../../components/shared/HeroColor";
-import Feedback from "../../components/About/Feedback";
 
 const BlogRoll = ({ slug, title, date, excerpt }) => (
   <>
@@ -34,7 +33,7 @@ const BlogPage = (props) => {
   } = props;
 
   return (
-    <OplDrawer>
+    <Layout>
       <Box display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1} height="30vh">
           <Container maxWidth="md">
@@ -60,9 +59,8 @@ const BlogPage = (props) => {
             ))}
           </Container>
         </Box>
-        <Feedback />
       </Box>
-    </OplDrawer>
+    </Layout>
   );
 };
 

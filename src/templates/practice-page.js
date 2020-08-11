@@ -1,16 +1,16 @@
 import React from "react";
 import { graphql } from "gatsby";
 
-import OplDrawer from "../components/shared/Drawer";
+import Layout from "../components/Layout";
 import PracticePage from "../components/practicePage";
 
 const PracticePageWithData = (props) => (
-  <OplDrawer>
+  <Layout>
     <PracticePage
       data={props.data}
       {...props}
     />
-  </OplDrawer>
+  </Layout>
 );
 
 export default PracticePageWithData;
