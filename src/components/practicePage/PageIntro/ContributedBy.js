@@ -1,9 +1,13 @@
 import React from "react";
+import moment from "moment";
 import PhotoAndName from "./PhotoAndName";
 import EditorPhotos from "./EditorPhotos";
 import { Typography, Grid, Box } from "@material-ui/core";
 
 export default function ContributedBy(props) {
+  const formatDate = (date) => {
+    return moment(date).format("MMMM D, YYYY");
+  };
   let contributors = [];
   let editors = [];
 
@@ -53,7 +57,7 @@ export default function ContributedBy(props) {
         )}
         <Grid item>
           <Typography variant="overline" data-testid={"dates"}>
-            Published {props.createdAt}
+            Published { props.preview ? formatDate(props.createdAt) : props.createdAt }
           </Typography>
         </Grid>
       </Grid>

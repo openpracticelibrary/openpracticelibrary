@@ -62,6 +62,7 @@ const PracticePage = ({ data, preview }) => {
     authors,
     date,
     imgCount: mediaGallery ? mediaGallery.length : 0,
+    preview,
   };
 
   const pageMenuData = { practiceId };
