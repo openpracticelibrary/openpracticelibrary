@@ -23,7 +23,7 @@ const Feedback = () => (
           variant="contained"
           color="primary"
           size="large"
-          href="https://forms.gle/nXCvPEkjx6VdF6Px6"
+          href="https://forms.gle/tg5STmZmb2m6HwA87"
           target="_blank"
           rel="noopener"
         >
