@@ -11,7 +11,7 @@ authors:
   - tdbeattie
   - mtakane
   - theisey
-  - peleg
+  - shaypeleg
 area: foundation-culture-and-collaboration
 tags:
   - culture
