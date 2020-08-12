@@ -21,7 +21,7 @@ This project is governed by our [Code of Conduct](https://github.com/openpractic
 
 To let us know about something that you'd like to see added or improved, [open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) on GitHub.
 
-To contribute content, [log into the CMS](/admin/), or click the "add new practice" or "improve this practice" buttons throughout the site. For more information, see [Editorial Style](/page/editorial/) and [Using the CMS](/page/cms/).
+To contribute content, [log into the CMS](/admin/), or click the "add new practice" or "improve this practice" links throughout the site. For more information, see [Editorial Style](/page/editorial/) and [Using the CMS](/page/cms/).
 
 To learn more about contributing code, see [DEVELOPING.md](https://github.com/openpracticelibrary/openpracticelibrary/blob/staging/DEVELOPING.md).
 
