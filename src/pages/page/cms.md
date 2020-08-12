@@ -23,8 +23,8 @@ For even more details on these, see the guides below for Content Writers and Con
 
 If you're new to the CMS and have not created content before; there are two things you need to do before creating content
 
-1. To create or edit a practice, you will need a [GitHub](https://github.com) account. You don't need to have any content in Github as it is only used for authentication purposes.
-2. With a GitHub account created [add your author information](https://openpracticelibrary.com/admin/#/collections/author/new) to the CMS by filling in the fields (only name and github username are mandatory). Hit save and this will create a Pull Request to add your author into the Git repository.
+1. To create or edit a practice, you will need a [GitHub](https://github.com) account. You don't need to have any content in GitHub as it is only used for authentication purposes.
+2. With a GitHub account created [add your author information](/admin/#/collections/author/new) to the CMS by filling in the fields (only name and github username are mandatory). Hit save and this will create a Pull Request to add your author into the Git repository.
 
    ![example-author](/images/contributing/author.png)
 
