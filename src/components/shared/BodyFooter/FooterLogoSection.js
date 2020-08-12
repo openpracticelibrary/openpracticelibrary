@@ -8,9 +8,11 @@ export default function FooterLogoSection() {
     <>
       <Logo horizontal />
       <Box display="flex" alignItems="center">
-        <Typography variant="overline" data-testid="poweredBy">
-          powered by
-        </Typography>
+        <Box mr={1}>
+          <Typography variant="overline" data-testid="poweredBy">
+            powered by
+          </Typography>
+        </Box>
         <img src={logoLabs} alt="Open Innovation Labs Logo" />
       </Box>
     </>
