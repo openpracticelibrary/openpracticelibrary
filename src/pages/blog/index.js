@@ -18,7 +18,7 @@ const BlogRoll = ({ slug, title, date, excerpt }) => (
         </Typography>
       </Link>
       <Typography variant="overline">
-        Last Published {date}
+        Published {date}
       </Typography>
       <Typography variant="body1">
         {excerpt}
@@ -45,7 +45,7 @@ const BlogPage = (props) => {
                 Blog
               </Typography>
               <Typography variant="h5">
-                Non-practice Content from the Open Practice Library
+                Perspectives from the Open Practice Library
               </Typography>
             </Box>
           </Container>
