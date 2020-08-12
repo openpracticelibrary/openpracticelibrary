@@ -4,7 +4,6 @@ import { makeStyles } from "@material-ui/core/styles/index";
 import ReactMarkdown from "react-markdown";
 import { Box, Container, Typography } from "@material-ui/core";
 import HeroColor from "../components/shared/HeroColor";
-import Feedback from "../components/About/Feedback";
 import Layout from "../components/Layout";
 
 const useStyles = makeStyles((theme) => ({
