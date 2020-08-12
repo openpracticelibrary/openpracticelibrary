@@ -34,6 +34,7 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "practice-page" } } }
+      sort: { fields: fields___slug }
     ) {
       edges {
         node {
