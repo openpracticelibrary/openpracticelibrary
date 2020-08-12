@@ -1,6 +1,6 @@
 ### Netlify
 
-This is a dump of some of the things we did to setup practice libaray on my github working along side netlify
+This is a dump of some of the things we did to setup practice library on my github working along side netlify
 
 1. created `static/admin` folder
 2. added 2 files `index.html` and `config.toml`

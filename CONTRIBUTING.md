@@ -40,12 +40,12 @@ Again, thank you so much for your interest and support! We look forward to enhan
 
 ## Style
 
-These style guidelines apply to the Markdown files in the `/content` directory.
+These style guidelines apply to the Markdown files in the `/src/pages` directory.
 
 - Use hyphens, not underscores, to separate parts of a filename. (The filenames are turned into URLs when the site is built.)
-- Where possible, avoid putting HTML in Markdown. Exception: the `<sup>` tag and anchors, which we're using for footnotes.
-- When linking to external sites, place the link into an "external references" section, and use a footnote anchor to point to the link.
+- Avoid putting HTML in Markdown. This is unsafe, and the site will not render your content.
 - Don't put the document's title into a heading (`# My Title`). Instead, just include the title in the document's front matter (`title: my title`).
+- We are using front matter to create the entire document. Look at other documents if you need help with the schema, or you can use the Netlify CMS, which will give you the fields to fill in.
 
 ## If Using Github to Contribute
 

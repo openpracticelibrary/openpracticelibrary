@@ -1,20 +1,10 @@
-
 [build]
-  # This will be your default build command
-  command = "./build.sh"
-  # This is the directory that you are publishing from (relative to root of your repo)
   publish = "public"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.51"
-
-[context.production.environment]
-  HUGO_VERSION = "0.51"
-
-[context.staging]
-  # This will be your default build command
-  command = "./build.sh"
-  # This is the directory that you are publishing from (relative to root of your repo)
-  publish = "public"
-  [context.staging.environment]
-    HUGO_VERSION = "0.51"
+  command = "npm run build"
+  functions = "lambda"
+[build.environment]
+  NODE_VERSION = "12"
+  YARN_VERSION = "1.22.4"
+  YARN_FLAGS = "--no-ignore-optional"
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
