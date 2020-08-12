@@ -19,6 +19,7 @@ const PageIntro = ({
   imgCount,
   questions,
   date,
+  preview,
 }) => (
   <Container maxWidth="md">
     <TitleAndSubtitle
@@ -29,7 +30,13 @@ const PageIntro = ({
       titleEdit={titleEdit}
       subtitleEdit={subtitleEdit}
     />
-    <ContributedBy authors={authors} createdAt={date} updatedAt={updatedAt} />
+
+    <ContributedBy
+      authors={authors}
+      createdAt={date}
+      updatedAt={updatedAt}
+      preview={preview}
+    />
 
     <Collection
       spacing={2}
