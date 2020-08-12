@@ -37,7 +37,6 @@ const AdditionalPage = (props) => {
               <PageBodyData {...props} />
             </Container>
         </Box>
-        <Feedback />
       </Box>
     </Layout>
   );
