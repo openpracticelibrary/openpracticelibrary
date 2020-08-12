@@ -5,11 +5,11 @@ import HistoryValues from "../components/About/HistoryValues";
 import ProductTeam from "../components/About/ProductTeam";
 import Feedback from "../components/About/Feedback";
 import Contributors from "../components/About/Contributors";
-import OplDrawer from "../components/shared/Drawer";
+import Layout from "../components/Layout";
 
 export default function About(props) {
   return (
-    <OplDrawer>
+    <Layout>
       <Box data-testid="aboutPageGrid" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
           <Box px={6}>
@@ -25,6 +25,6 @@ export default function About(props) {
         </Box>
         <Feedback />
       </Box>
-    </OplDrawer>
+    </Layout>
   );
 }

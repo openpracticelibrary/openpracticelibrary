@@ -2,12 +2,11 @@ import React from "react";
 import {
   Mic,
   MailOutline,
-  Github,
+  GitHub,
   YouTube,
   Instagram,
 } from "@material-ui/icons";
 import { Grid } from "@material-ui/core";
-import { Link } from "gatsby";
 
 const sections = [
   { url: "mailto:info@openpracticelibrary.com", icon: <MailOutline /> },
@@ -15,7 +14,7 @@ const sections = [
     url: "https://www.instagram.com/openpracticelibrary/?hl=en",
     icon: <Instagram />,
   },
-  { url: "https://github.com/openpracticelibrary", icon: <Github /> },
+  { url: "https://github.com/openpracticelibrary", icon: <GitHub /> },
   {
     url:
       "https://podcasts.apple.com/us/podcast/open-practice-podcast/id1501715186",
@@ -34,9 +33,9 @@ export default function FooterIconSection(props) {
       <Grid container direction="row" spacing={2} alignItems="center">
         {sections.map((section, i) => (
           <Grid item key={i}>
-            <Link href={section.url} target="_blank" rel="noopener">
+            <a href={section.url} target="_blank" rel="noreferrer">
               {section.icon}
-            </Link>
+            </a>
           </Grid>
         ))}
       </Grid>

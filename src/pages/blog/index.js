@@ -1,22 +1,24 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
 import { Container, Box, Typography, Divider } from "@material-ui/core";
-import OplDrawer from "../../components/shared/Drawer";
+import Layout from "../../components/Layout";
 import HeroColor from "../../components/shared/HeroColor";
-import Feedback from "../../components/About/Feedback";
 
 const BlogRoll = ({ slug, title, date, excerpt }) => (
   <>
     <Box mt={4} mb={4}>
       <Link
         to={slug}
+        style={{
+          textDecoration: "none"
+        }}
       >
         <Typography variant="h4">
           {title}
         </Typography>
       </Link>
       <Typography variant="overline">
-        Last Published {date}
+        Published {date}
       </Typography>
       <Typography variant="body1">
         {excerpt}
@@ -34,7 +36,7 @@ const BlogPage = (props) => {
   } = props;
 
   return (
-    <OplDrawer>
+    <Layout>
       <Box display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1} height="30vh">
           <Container maxWidth="md">
@@ -43,7 +45,7 @@ const BlogPage = (props) => {
                 Blog
               </Typography>
               <Typography variant="h5">
-                Non-practice Content from the Open Practice Library
+                Perspectives from the Open Practice Library
               </Typography>
             </Box>
           </Container>
@@ -60,9 +62,8 @@ const BlogPage = (props) => {
             ))}
           </Container>
         </Box>
-        <Feedback />
       </Box>
-    </OplDrawer>
+    </Layout>
   );
 };
 

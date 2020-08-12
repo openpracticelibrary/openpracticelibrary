@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import ReactMarkdown from "react-markdown";
 import { Container, Box, Typography } from "@material-ui/core";
 
-import OplDrawer from "../components/shared/Drawer";
+import Layout from "../components/Layout";
 import Feedback from "../components/About/Feedback";
 import HeroColor from "../components/shared/HeroColor";
 import HeroImage from "../components/shared/HeroImage";
@@ -38,7 +38,7 @@ const BlogPostTemplate = (props) => {
   const { data: { markdownRemark: { rawMarkdownBody, frontmatter: { title, subtitle, authors, date, jumbotron } } } } = props;
 
   return (
-    <OplDrawer>
+    <Layout>
       <Box display="flex" flexDirection="column">
         <Hero jumbotron={jumbotron}>
           <Container maxWidth="md">
@@ -62,7 +62,7 @@ const BlogPostTemplate = (props) => {
         </Box>
         <Feedback />
       </Box>
-    </OplDrawer>
+    </Layout>
   )
 };
 

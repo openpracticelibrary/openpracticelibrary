@@ -7,11 +7,13 @@ export default function FooterLogoSection() {
   return (
     <>
       <Logo horizontal />
-      <Box display="flex" alignItems="center">
+      <Box display="-webkit-inline-box" mt={1}>
         <Typography variant="overline" data-testid="poweredBy">
           powered by
         </Typography>
-        <img src={logoLabs} alt="Open Innovation Labs Logo" />
+        <Box display="flex" ml={1}>
+          <img src={logoLabs} alt="Open Innovation Labs Logo" />
+        </Box>
       </Box>
     </>
   );
