@@ -4,14 +4,15 @@ import EditorPhotos from "./EditorPhotos";
 import { Typography, Grid, Box } from "@material-ui/core";
 
 export default function ContributedBy(props) {
+  const authors = props.authors.filter(a => a);
   let contributors = [];
   let editors = [];
 
-  if (props.authors && props.authors.length > 2) {
-    contributors = props.authors.slice(0, 2);
-    editors = props.authors.slice(2, props.authors.length);
+  if (authors && authors.length > 2) {
+    contributors = authors.slice(0, 2);
+    editors = authors.slice(2, authors.length);
   } else {
-    contributors = props.authors;
+    contributors = authors;
   }
 
   return (
