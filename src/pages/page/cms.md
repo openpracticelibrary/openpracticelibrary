@@ -17,7 +17,7 @@ For even more details on these, see the guides below for Content Writers and Con
 
 - - -
 
-## Adding or updating practices (Content Writers)
+## Adding or Updating Practices (Content Writers)
 
 ### Pre-requisites
 
@@ -34,12 +34,12 @@ If you're new to the CMS and have not created content before; there are two thin
 
 We are using [Netlify CMS](https://www.netlifycms.org/) to update this content.
 
-* Visit [Netifly Admin Page](https://openpracticelibrary.com/admin/) and click "Login with Netifly Identity".
+* Visit [Netifly Admin Page](/admin/) and click "Login with Netifly Identity".
 * Select "Continue with GitHub" and enter your GitHub credentials.
 * Click "New Practices".
 * Fill in the Title with the name of your Practice and the subtitle with something catchy to describe your content. Leave the publish date as is.
 * Add your `GitHub` username to the list of Authors to get a writers credit.
-* Add a Mobius Loop Tag (required) and additional optional Tags in the drop-down to organize your practice based on where it falls on the [Mobius Loop](https://openpracticelibrary.com/learn/).
+* Add a Mobius Loop Tag (required) and additional optional Tags in the drop-down to organize your practice based on where it falls on the [Mobius Loop](/learn/).
 * Add a cover image to the practice for it to appear on the homepage.
 * You can either use Rich Text or Markdown format for the content.  Rich Text could be easier for non-technical people and you can use the style icons at the top of the Body section to add headers and formatting.
 * Select the `Add media gallery` to add media content that is relevant to helping others understand your practice.
@@ -64,8 +64,6 @@ You can use the first steps in the above workflow to edit content.  Select the p
 
 An email will be sent to the moderators who will approve the change.
 
-
-
 ## Publishing Content (Moderators)
 
 As a moderator, you will receive and email to say that new content has been added.
@@ -76,10 +74,8 @@ As a moderator, you will receive and email to say that new content has been adde
 * To see what has been added / changed, go to the "Files changed" tab.
 * If you require more information or would like changed to be made, write the comment in the "Leave a Comment" box.  
 
- *Note: Add @username in the comment so the originator receives the email.  The originators user name can be found in the "Commits" tab.*
-
-
+  *Note: Add @username in the comment so the originator receives the email.  The originators user name can be found in the "Commits" tab.*
 * If you are happy with the content and there are no conflicts, click the "Merge pull Request" button followed by the "Confirm Merge" button.  Add some additional comments if required.
 * Once merged, delete the branch (this will hopefully be automated at some point) as there is an issue with the CMS that does not allow people to create further edits while it still exists. **Click the "Delete Branch" button on the PR's page.**
 * This act will deploy the changes to the `staging` environment. To deploy the change to the main site, raise a PR from `staging` to `master`. On GitHub, navigate to the `staging` branch which should be ahead of `master` and hit raise PR. Merge the change set as you did before.
-* If you go back to the [List of Practices](https://openpracticelibrary.com/admin/#/collections/practices) you should see the newly added practice.
+* If you go back to the [List of Practices](/admin/#/collections/practices) you should see the newly added practice.
