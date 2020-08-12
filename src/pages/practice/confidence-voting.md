@@ -11,12 +11,13 @@ authors:
   - tdbeattie
   - mtakane
   - theisey
+  - peleg
 area: foundation-culture-and-collaboration
 tags:
   - culture
 icon: /images/fist-of-five-voting-method.jpg
 people: 2+
-time: 5 minutes
+time: 1 minute
 difficulty: easy
 whatIs: >-
   * A practice that gains consensus around a team's agreement or disagreement on
@@ -28,7 +29,17 @@ whatIs: >-
 
 
   * A safety check
-whyDo: '* Builds a consensus for team agreement to progress or not progress'
+whyDo: >-
+  * Builds a consensus for team agreement to progress or not progress
+
+
+  * A facilitator will conduct the vote. As a topic discussion concludes, the facilitator will ask the participants to vote how confident they are on understanding the topic, the ability to execute, and sufficent resources and time.
+
+
+  * At the count of 3, all participants will raise their hand and raise fingers indicating their confidence: 1 for low, 5 for high and 2, 3 or 4 for anything in between.
+
+
+  *  In the end the facilitator will count the votes and open a discussion on what is yet to be cleared or addressed before moving on to the next topic.
 howTo: >-
   **State the question**: “Is everyone okay with Indian food for dinner?’
 
