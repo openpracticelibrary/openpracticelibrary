@@ -3,6 +3,7 @@ title: Editorial Style
 authors:
   - rdebeasi
   - alexismonville
+date: 2020-08-12T19:32:40.328Z
 ---
 
 ## Tone
@@ -35,7 +36,7 @@ A practice is an activity that helps teams achieve specific goals. It's not just
 
 A perspective is an idea that underpins a group of practices. It's a way of framing a problem. It's not something that you do; it's something that you have in mind as you do the practices.
 
-For example, [Domain Driven Design](/perspective/domain-driven-design/) is the perspective behind [Impact Mapping](/practice/impact-mapping/), [Event Storming](https://openpracticelibrary.com/practice/event-storming/), and [Start at the End](https://openpracticelibrary.com/practice/start-at-the-end/).
+For example, [Domain Driven Design](/blog/domain-driven-design/) is the perspective behind [Impact Mapping](/practice/impact-mapping/), [Event Storming](/practice/event-storming/), and [Start at the End](/practice/start-at-the-end/).
 
 ## Gathering Feedback
 
