@@ -24,6 +24,7 @@ collections:
         name: "templateKey"
         widget: "hidden"
         default: "practice-page"
+        required: true
       - label: "Title of practice"
         hint: "The name of the practice"
         name: "title"
@@ -162,6 +163,7 @@ collections:
         name: "templateKey"
         widget: "hidden"
         default: "blog-page"
+        required: true
       - label: "Title"
         hint: "The name of the perspective"
         name: "title"
