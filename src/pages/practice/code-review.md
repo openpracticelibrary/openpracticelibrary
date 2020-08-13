@@ -1,4 +1,5 @@
 ---
+templateKey: "practice-page"
 title: Code Review
 subtitle: Also a review on the developer's ego
 date: 2020-08-12T20:44:12.964Z
@@ -53,10 +54,10 @@ whyDo: >-
   > **You are not your code.** Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
 
 
-  If someone does some mistakes, it will be easier to accept them and fix them with this way. And ***"no matter how much 'karate' you know"***, as Jeff Atwood stated, ***"someone else will always know more".*** 
+  If someone does some mistakes, it will be easier to accept them and fix them with this way. And ***"no matter how much 'karate' you know"***, as Jeff Atwood stated, ***"someone else will always know more".***
 
 
-  As another case, someone may know less than the developer, in that case both deference and patience has to come out. Code Reviews make the developers understand all these in a shortcut way. 
+  As another case, someone may know less than the developer, in that case both deference and patience has to come out. Code Reviews make the developers understand all these in a shortcut way.
 
 
   Other important benefits may be listed as follows:
