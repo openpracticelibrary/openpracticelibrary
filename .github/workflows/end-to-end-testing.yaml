@@ -1,8 +1,7 @@
 name: E2E Tests
 
 on:
-  repository_dispatch:
-    types: [synced]
+  workflow_dispatch:
 
 jobs:
   test:
