@@ -1,1 +1,8 @@
-{}
+{
+  "fixturesFolder": false,
+  "screenshotsFolder": false,
+  "testFiles": "**/*.js",
+  "video": false,
+  "defaultCommandTimeout": 10000,
+  "requestTimeout": 10000
+}
