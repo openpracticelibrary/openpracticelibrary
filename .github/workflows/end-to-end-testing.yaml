@@ -1,0 +1,32 @@
+name: E2E Tests
+
+on: pull_request
+
+jobs:
+  test:
+    runs-on: ubuntu-16.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Wait for Netlify
+        uses: probablyup/wait-for-netlify-action@3.2.0
+        id: waitForDeployment
+        with:
+          site_id: ${{ secrets.NETLIFY_SITE_ID }}
+        env:
+          NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
+
+      - name: Cypress Tests
+        uses: cypress-io/github-action@v2
+        with:
+          browser: chrome
+          headless: true
+          config: baseUrl=${{ steps.waitForDeployment.outputs.url }}
+          record: true
+        env:
+          # pass the Dashboard record key as an environment variable
+          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          # this is automatically set by GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

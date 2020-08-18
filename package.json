@@ -3,6 +3,12 @@
   "description": "Open Practice Library web application",
   "version": "2.2.0",
   "author": "Open Practice Library Community",
+  "homepage": "https://openpracticelibrary.com",
+  "bugs": {
+    "url": "https://github.com/openpracticelibrary/openpracticelibrary/issues",
+    "email": "info@openpracticelibrary.com"
+  },
+  "repository": "github:openpracticelibrary/openpracticelibrary",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -55,13 +61,14 @@
     "clean": "gatsby clean",
     "start": "npm run develop",
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
-    "develop": "npm run clean && gatsby develop",
+    "develop": "npm run clean && GATSBY_GRAPHQL_IDE=playground gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "babel-jest": "^26.1.0",
     "babel-preset-gatsby": "^0.5.4",
+    "cypress": "^4.12.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.1.0",
     "prettier": "^2.0.5",

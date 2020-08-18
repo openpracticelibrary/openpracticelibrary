@@ -8,6 +8,10 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacements: "-"
 collections:
   - name: "practice" # Used in routes, e.g., /admin/collections/blog
     label: "Practice" # Used in the UI
@@ -20,6 +24,7 @@ collections:
         name: "templateKey"
         widget: "hidden"
         default: "practice-page"
+        required: true
       - label: "Title of practice"
         hint: "The name of the practice"
         name: "title"
@@ -31,7 +36,11 @@ collections:
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
-      - {label: "Authors", hint: "Comma-separated list of LOWER CASE github usernames eg., springdo, rdebeasi, tdbeattie", name: "authors", widget: "list", default: []}
+      - label: "Authors"
+        hint: "Comma-separated list of LOWER CASE github usernames eg., springdo, rdebeasi, tdbeattie"
+        name: "authors"
+        widget: "list"
+        default: []
       - label: "Tags"
         hint: "Where does this practice live on the Library Loop?"
         name: tags
@@ -154,6 +163,7 @@ collections:
         name: "templateKey"
         widget: "hidden"
         default: "blog-page"
+        required: true
       - label: "Title"
         hint: "The name of the perspective"
         name: "title"
