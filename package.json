@@ -68,6 +68,7 @@
   "devDependencies": {
     "babel-jest": "^26.1.0",
     "babel-preset-gatsby": "^0.5.4",
+    "cypress": "^4.12.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.1.0",
     "prettier": "^2.0.5",
