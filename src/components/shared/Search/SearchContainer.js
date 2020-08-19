@@ -2,9 +2,8 @@
 import React from "react";
 import * as JsSearch from "js-search";
 import PracticeCardGrid from "../PracticeCards/PracticeCardGrid";
-import Grid from "@material-ui/core/Grid";
-import TextField from '@material-ui/core/TextField';
-
+import { Box } from "@material-ui/core";
+import TextField from "@material-ui/core/TextField";
 
 export default function SearchContainer(props) {
   const books = props.practices;
@@ -49,22 +48,22 @@ export default function SearchContainer(props) {
   }, []);
 
   return (
-    <div>
-      <Grid container direction="row" justify="center" alignItems="center">
+    <>
+      <Box mx="auto" width={{ xs: 1, sm: "50%" }}>
         <form onSubmit={handleSubmit}>
-          <div style={{ margin: "0 auto" }}>
-            <TextField
-              id="Search"
-              variant="outlined"
-              value={state.searchQuery}
-              onChange={searchData}
-              placeholder="Enter your search here"
-              style={{ margin: "0 auto", width: "400px" }}
-            />
-          </div>
+          <TextField
+            id="Search"
+            variant="outlined"
+            value={state.searchQuery}
+            onChange={searchData}
+            placeholder="Know the name of the practice?"
+            fullWidth
+          />
         </form>
+      </Box>
+      <Box my={4}>
         <PracticeCardGrid practices={state.searchResults} />
-      </Grid>
-    </div>
+      </Box>
+    </>
   );
 }

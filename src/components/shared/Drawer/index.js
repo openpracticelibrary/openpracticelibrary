@@ -96,9 +96,7 @@ export default function OPLDrawer(props) {
         )}
       </Drawer>
 
-      <Box bgcolor="common.white" width="100%">
-        {props.children}
-      </Box>
+      <Box width="100%">{props.children}</Box>
     </Box>
   );
 }
