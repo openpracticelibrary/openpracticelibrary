@@ -8,8 +8,8 @@ const PracticePageWithData = (props) => (
   <Layout ogContent={{
     title: props.data.markdownRemark.frontmatter.title,
     desc: props.data.markdownRemark.excerpt,
-    image: props.data.markdownRemark.frontmatter.mediaGallery ?
-            props.data.markdownRemark.frontmatter.mediaGallery[0].link : null,
+    image: props.data.markdownRemark.frontmatter.icon ?
+            props.data.markdownRemark.frontmatter.icon : null,
   }}>
     <PracticePage
       data={props.data}
@@ -31,6 +31,7 @@ export const pageQuery = graphql`
         slug
       }
       frontmatter {
+        icon
         title
         subtitle
         date(formatString: "MMMM DD, YYYY")
