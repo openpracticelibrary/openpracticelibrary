@@ -35,10 +35,28 @@ const Hero = ({ jumbotron, children }) => {
 };
 
 const BlogPostTemplate = (props) => {
-  const { data: { markdownRemark: { rawMarkdownBody, frontmatter: { title, subtitle, authors, date, jumbotron } } } } = props;
+  const {
+    data: {
+      markdownRemark: {
+        rawMarkdownBody,
+        excerpt,
+        frontmatter: {
+          title,
+          subtitle,
+          authors,
+          date,
+          jumbotron
+        }
+      }
+    }
+  } = props;
 
   return (
-    <Layout>
+    <Layout ogContent={{
+      title,
+      desc: excerpt,
+      image: jumbotron ? jumbotron : null,
+    }}>
       <Box display="flex" flexDirection="column">
         <Hero jumbotron={jumbotron}>
           <Container maxWidth="md">
@@ -73,6 +91,7 @@ export const blogQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       rawMarkdownBody
+      excerpt
       frontmatter {
         title
         subtitle

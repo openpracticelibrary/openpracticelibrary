@@ -5,7 +5,12 @@ import Layout from "../components/Layout";
 import PracticePage from "../components/practicePage";
 
 const PracticePageWithData = (props) => (
-  <Layout>
+  <Layout ogContent={{
+    title: props.data.markdownRemark.frontmatter.title,
+    desc: props.data.markdownRemark.excerpt,
+    image: props.data.markdownRemark.frontmatter.mediaGallery ?
+            props.data.markdownRemark.frontmatter.mediaGallery[0].link : null,
+  }}>
     <PracticePage
       data={props.data}
       {...props}
@@ -21,6 +26,7 @@ export const pageQuery = graphql`
       id
       html
       rawMarkdownBody
+      excerpt
       fields {
         slug
       }
