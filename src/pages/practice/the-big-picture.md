@@ -1,7 +1,6 @@
 ---
 title: The Big Picture
-subtitle: CI/CD can be complex - this a simple workshop for getting shared
-  understanding in a complex space
+subtitle: A simple workshop for getting shared understanding in a complex space
 date: 2020-08-02T12:04:58.410Z
 authors:
   - springdo
