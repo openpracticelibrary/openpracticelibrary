@@ -55,7 +55,7 @@ const BlogPostTemplate = (props) => {
     <Layout ogContent={{
       title,
       desc: excerpt,
-      image: jumbotron ? jumbotron : null,
+      image: jumbotron ? jumbotron : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
     }}>
       <Box display="flex" flexDirection="column">
         <Hero jumbotron={jumbotron}>
