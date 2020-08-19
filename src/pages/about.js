@@ -12,7 +12,7 @@ export default function About(props) {
     <Layout ogContent={{
       title: "Open Practice Library",
       desc: "Practices that empower teams to collaborate and deliver iteratively",
-      image: null,
+      image: "https://openpracticelibrary.com/images/logo.svg",
     }}>
       <Box data-testid="aboutPageGrid" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>

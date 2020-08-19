@@ -9,7 +9,9 @@ const PracticePageWithData = (props) => (
     title: props.data.markdownRemark.frontmatter.title,
     desc: props.data.markdownRemark.excerpt,
     image: props.data.markdownRemark.frontmatter.icon ?
-            props.data.markdownRemark.frontmatter.icon : null,
+    `https://openpracticelibrary.com${props.data.markdownRemark.frontmatter.icon}`
+    :
+    "https://openpracticelibrary.com/images/logo.svg",
   }}>
     <PracticePage
       data={props.data}
