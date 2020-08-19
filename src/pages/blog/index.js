@@ -37,7 +37,7 @@ const BlogPage = (props) => {
 
   return (
     <Layout ogContent={{
-      title: "Open Practice Library - Blog,
+      title: "Open Practice Library - Blog",
       desc: "Perspectives from the Open Practice Library",
       image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
     }}>
