@@ -12,6 +12,7 @@ const Tag = ({ tag, filter, selectedFilter }) => {
       clickable
       label={hashtag}
       ref={buttonRef}
+      size="large"
       onClick={() => {
         tag.toLowerCase() === "all"
           ? navigate("/")

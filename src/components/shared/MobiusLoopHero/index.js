@@ -5,39 +5,39 @@ import { Box, Card, CardContent, Typography } from "@material-ui/core";
 const coloraton = (display, practice, color, baseColor) => {
   let coloration;
   switch (display) {
-  case "all":
-    coloration = color;
-    break;
-  case practice:
-    coloration = color;
-    break;
-  default:
-    coloration = baseColor;
+    case "all":
+      coloration = color;
+      break;
+    case practice:
+      coloration = color;
+      break;
+    default:
+      coloration = baseColor;
   }
   return coloration;
 };
 
-const descripton = status => {
+const descripton = (status) => {
   let message;
   switch (status) {
-  case "foundation":
-    message =
+    case "foundation":
+      message =
         "The Foundation focuses on creating a team culture, an environment of collaboration and technical engineering practices. These support fast and iterative journeys through the discovery and delivery loops. Without the foundation teams cannot reach sustainable continuous delivery.";
-    break;
-  case "discovery":
-    message =
+      break;
+    case "discovery":
+      message =
         "The Discovery loop starts with the current as-is state. Practices on this loop lead to answering questions such as: Why are you doing this? What problems are you trying to solve, and for whom? How will you measure the results?";
-    break;
-  case "options":
-    message =
-        "The Options Pivot explores how you weigh your learnings with the direction you are heading. What are the teams possibilities? What might you need to realize the outcomes you've discoverd?";
-    break;
-  case "delivery":
-    message =
-        "The Delivery Loop focuses on delivering the options you have decided on and getting feedback from the users and stakeholders. What was measured impact? What did you learn?";
-    break;
-  default:
-    message =
+      break;
+    case "options":
+      message =
+        "The Options Pivot explores how you weigh your learnings with the direction you are heading. What are the team's possibilities? What might you need to realize the outcomes you've discovered?";
+      break;
+    case "delivery":
+      message =
+        "The Delivery Loop focuses on delivering the options you have decided on and getting feedback from the users and stakeholders. What was the measured impact? What did you learn?";
+      break;
+    default:
+      message =
         "The Mobius Loop is a process model for developing digital products. The Open Practice Library is organized around this model and filtering below will show you practices that fall on that part of the loop.";
   }
   return message;
