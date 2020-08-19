@@ -13,6 +13,7 @@ title: Target Outcomes
 date: 2018-09-09T11:20:06.538Z
 authors:
   - tdbeattie
+  - jonathanjohnston
 tags: []
 icon: /images/final_target-outcomes.png
 whatIs: >-
@@ -27,7 +28,19 @@ whatIs: >-
   * Often harnesses and summarises the findings and learnings from other
   Discovery practices into a finite set of statements that can be publicly
   displayed for team and stakeholders to regularly reference.
-howTo: "No info yet...help out by contributing \U0001F603"
+howTo: >-
+  ### Tips for Remote Working
+
+
+  * Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
+
+  * Prepare in advance a template on a whiteboard tool with title and steps and be crystal clear about what you expect providing examples
+
+  * Use the timer visible to all attendees
+
+  * Start with the Start at the end and apply the Affinity Map practice to group topics
+
+  * At the end you can review the Target outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the Open Decision Tree
 area: discovery-loop-outcomes
 time: 30 minutes
 mediaGallery:

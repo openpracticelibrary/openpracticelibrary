@@ -25,7 +25,11 @@ const PracticesWithDataTags = (props) => {
   } = props;
 
   return (
-    <Layout>
+    <Layout ogContent={{
+      title: tag,
+      desc: `Practices under the ${tag} section of the mobius loop in the Open Practice Library`,
+      image: null,
+    }}>
       <Practices {...props} {...dataProps}>
         <SearchContainer practices={edges} />
       </Practices>
