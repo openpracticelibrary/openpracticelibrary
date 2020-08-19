@@ -8,11 +8,11 @@ const Layout = ({ ogContent, children }) => (
   <>
     <Helmet>
       <link rel="icon" href={favicon} />
-      <title>{ogContent.title}</title>
-      <meta property="og:title" content={ ogContent.title ? ogContent.title : "Open Practice Library" } />
-      <meta property="og:description" content={ ogContent.desc ? ogContent.desc : "Practices that empower teams to collaborate and deliver iteratively" } />
+      <title>{ogContent.title || "Open Practice Library"}</title>
+      <meta property="og:title" content={ ogContent && ogContent.title ? ogContent.title : "Open Practice Library" } />
+      <meta property="og:description" content={ ogContent && ogContent.desc ? ogContent.desc : "Practices that empower teams to collaborate and deliver iteratively" } />
       <meta property="og:site_name" content="Open Practice Library" />
-      { ogContent.image ?
+      { ogContent && ogContent.image ?
           <meta property="og:image" content={ogContent.image} />
           :
           <meta property="og:image" content="https://d33wubrfki0l68.cloudfront.net/bf16c1ca0eaa00f72b5f366cc4795bc3592f706f/59282/images/logo.svg" />
