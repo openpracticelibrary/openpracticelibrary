@@ -8,7 +8,7 @@ const Layout = ({ ogContent, children }) => (
   <>
     <Helmet>
       <link rel="icon" href={favicon} />
-      <title>{ogContent.title || "Open Practice Library"}</title>
+      <title>{ ogContent && ogContent.title ? ogContent.title : "Open Practice Library"}</title>
       <meta property="og:title" content={ ogContent && ogContent.title ? ogContent.title : "Open Practice Library" } />
       <meta property="og:description" content={ ogContent && ogContent.desc ? ogContent.desc : "Practices that empower teams to collaborate and deliver iteratively" } />
       <meta property="og:site_name" content="Open Practice Library" />
