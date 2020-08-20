@@ -13,6 +13,7 @@ const Tag = ({ tag, filter, selectedFilter }) => {
       label={hashtag}
       data-testid={tag}
       ref={buttonRef}
+      size="large"
       onClick={() => {
         tag.toLowerCase() === "all"
           ? navigate("/")
