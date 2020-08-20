@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Box } from "@material-ui/core";
+import { Box, Container } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
 import FilterTags from "./FilterBar/FilterTags";
 
@@ -32,15 +32,7 @@ const Practices = ({
         selectedFilter={selectedMobiusLoopFilter}
       />
     </Box>
-    <Box
-      display="flex"
-      flexDirection="column"
-      justifyContent="space-around"
-      alignContent="center"
-      mx={6}
-    >
-      {children}
-    </Box>
+    <Container>{children}</Container>
   </>
 );
 
