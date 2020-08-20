@@ -13,16 +13,10 @@ const PracticeCardGrid = (props) => {
         if (practice.node.frontmatter.mobiusTag) {
           allTags = [...allTags, practice.node.frontmatter.mobiusTag];
         }
-
         return (
           <PracticeCard
             key={practice.node.id}
             coverImage={practice.node.frontmatter.icon}
-            mediaGallery={
-              practice.node.frontmatter.mediaGallery
-                ? practice.node.frontmatter.mediaGallery.length
-                : 0
-            }
             practiceId={practice.node.id}
             practiceTitle={practice.node.frontmatter.title}
             slug={practice.node.fields.slug}

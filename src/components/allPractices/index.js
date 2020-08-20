@@ -32,7 +32,7 @@ const Practices = ({
         selectedFilter={selectedMobiusLoopFilter}
       />
     </Box>
-    <Contaner>{children}</Container>
+    <Container>{children}</Container>
   </>
 );
 
