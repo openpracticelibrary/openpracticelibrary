@@ -1,6 +1,5 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles/index";
-import { Link } from "gatsby";
 import { Typography, Box } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -26,7 +25,7 @@ export default function ResourceListItem(props) {
       <Box className={classes.root}>
         <Box className={classes.space}>{props.children}</Box>
         <Box>
-          <Link href={props.url}>
+          <a href={props.url} target="_blank" rel="noopener noreferrer">
             <Typography
               variant="body1"
               key={props.listItemKey}
@@ -34,7 +33,7 @@ export default function ResourceListItem(props) {
             >
               {props.description}
             </Typography>
-          </Link>
+          </a>
         </Box>
       </Box>
     </>
