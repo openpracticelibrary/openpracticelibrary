@@ -28,7 +28,7 @@ export default function ResourceListItem(props) {
         <Box className={classes.space}>{props.children}</Box>
         <Box>
           {linkValue.hostname === "openpracticelibrary.com" ? (
-            <Link href={linkValue.pathname}>
+            <Link to={linkValue.pathname}>
               <Typography
                 variant="body1"
                 key={props.listItemKey}
