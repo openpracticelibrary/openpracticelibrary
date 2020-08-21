@@ -1,5 +1,6 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles/index";
+import { Link } from "gatsby";
 import { Typography, Box } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -19,21 +20,34 @@ const useStyles = makeStyles((theme) => ({
 
 export default function ResourceListItem(props) {
   const classes = useStyles();
+  const linkValue = new URL(props.url);
 
   return (
     <>
       <Box className={classes.root}>
         <Box className={classes.space}>{props.children}</Box>
         <Box>
-          <a href={props.url} target="_blank" rel="noopener noreferrer">
-            <Typography
-              variant="body1"
-              key={props.listItemKey}
-              className={classes.color}
-            >
-              {props.description}
-            </Typography>
-          </a>
+          {linkValue.hostname === "openpracticelibrary.com" ? (
+            <Link href={linkValue.pathname}>
+              <Typography
+                variant="body1"
+                key={props.listItemKey}
+                className={classes.color}
+              >
+                {props.description}
+              </Typography>
+            </Link>
+          ) : (
+            <a href={props.url} target="_blank" rel="noopener noreferrer">
+              <Typography
+                variant="body1"
+                key={props.listItemKey}
+                className={classes.color}
+              >
+                {props.description}
+              </Typography>
+            </a>
+          )}
         </Box>
       </Box>
     </>
