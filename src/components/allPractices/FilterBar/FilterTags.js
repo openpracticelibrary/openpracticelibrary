@@ -11,6 +11,7 @@ const Tag = ({ tag, filter, selectedFilter }) => {
     <Chip
       clickable
       label={hashtag}
+      data-testid={tag}
       ref={buttonRef}
       size="large"
       onClick={() => {
@@ -57,7 +58,7 @@ const FilterTags = ({ filter, selectedFilter, tags }) => {
           }}
         >
           {tags.map((tag) => (
-            <MenuItem value={tag} key={tag}>
+            <MenuItem value={tag} key={tag} data-testid={tag}>
               <Typography variant="body2">
                 {tag === "All" ? tag : `#${tag}`}
               </Typography>
