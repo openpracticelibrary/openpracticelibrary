@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: openpracticelibrary/openpracticelibrary
-  branch: staging
+  branch: master
 
 # local_backend: true
 
