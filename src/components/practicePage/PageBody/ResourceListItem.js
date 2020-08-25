@@ -20,21 +20,34 @@ const useStyles = makeStyles((theme) => ({
 
 export default function ResourceListItem(props) {
   const classes = useStyles();
+  const linkValue = new URL(props.url);
 
   return (
     <>
       <Box className={classes.root}>
         <Box className={classes.space}>{props.children}</Box>
         <Box>
-          <Link href={props.url}>
-            <Typography
-              variant="body1"
-              key={props.listItemKey}
-              className={classes.color}
-            >
-              {props.description}
-            </Typography>
-          </Link>
+          {linkValue.hostname === "openpracticelibrary.com" ? (
+            <Link to={linkValue.pathname}>
+              <Typography
+                variant="body1"
+                key={props.listItemKey}
+                className={classes.color}
+              >
+                {props.description}
+              </Typography>
+            </Link>
+          ) : (
+            <a href={props.url} target="_blank" rel="noopener noreferrer">
+              <Typography
+                variant="body1"
+                key={props.listItemKey}
+                className={classes.color}
+              >
+                {props.description}
+              </Typography>
+            </a>
+          )}
         </Box>
       </Box>
     </>
