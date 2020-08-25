@@ -23,6 +23,9 @@ const Learn = () => (
       <link rel="icon" href={favicon} />
       <title>Open Practice Library</title>
       <meta name="description" content="Practices that empower teams to collaborate and deliver iteratively" />
+      <meta property="og:site_name" content="Open Practice Library" />
+      <meta property="og:image" content="https://openpracticelibrary.github.io/opl-media/images/opl-logo.png" />
+      <meta name="twitter:card" content="summary_large_image" />
     </Helmet>
     <Box display="flex" flexDirection="column">
       <Box position="absolute" top="2rem" left="2rem" color="common.white">

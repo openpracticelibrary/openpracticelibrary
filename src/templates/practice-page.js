@@ -5,7 +5,14 @@ import Layout from "../components/Layout";
 import PracticePage from "../components/practicePage";
 
 const PracticePageWithData = (props) => (
-  <Layout>
+  <Layout ogContent={{
+    title: props.data.markdownRemark.frontmatter.title,
+    desc: props.data.markdownRemark.excerpt,
+    image: props.data.markdownRemark.frontmatter.icon ?
+    `https://openpracticelibrary.com${props.data.markdownRemark.frontmatter.icon}`
+    :
+    "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
+  }}>
     <PracticePage
       data={props.data}
       {...props}
@@ -21,10 +28,12 @@ export const pageQuery = graphql`
       id
       html
       rawMarkdownBody
+      excerpt
       fields {
         slug
       }
       frontmatter {
+        icon
         title
         subtitle
         date(formatString: "MMMM DD, YYYY")
