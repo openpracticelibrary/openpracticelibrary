@@ -36,7 +36,11 @@ const BlogPage = (props) => {
   } = props;
 
   return (
-    <Layout>
+    <Layout ogContent={{
+      title: "Open Practice Library - Blog",
+      desc: "Perspectives from the Open Practice Library",
+      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+    }}>
       <Box display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1} height="30vh">
           <Container maxWidth="md">

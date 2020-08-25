@@ -20,7 +20,11 @@ const PracticesWithData = (props) => {
   } = props;
 
   return (
-    <Layout>
+    <Layout ogContent={{
+      title: "Open Practice Library",
+      desc: "Practices that empower teams to collaborate and deliver iteratively",
+      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
+    }}>
       <Practices {...props} {...dataProps}>
         <SearchContainer practices={edges} />
       </Practices>

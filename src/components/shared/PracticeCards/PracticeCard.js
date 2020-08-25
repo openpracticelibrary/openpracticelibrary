@@ -1,97 +1,98 @@
 import React from "react";
-import { makeStyles } from "@material-ui/core/styles";
-import { Paper, Box, Grid } from "@material-ui/core";
-import CardCollection from "../Collection";
-import CoverImage from "./CoverImage";
-import PracticeCardTitle from "./PracticeCardTitle";
-import Subtitle from "./Subtitle";
+import { navigate } from "gatsby";
+import {
+  Chip,
+  Card,
+  CardActions,
+  CardContent,
+  CardMedia,
+  Box,
+  Grid,
+  Typography,
+} from "@material-ui/core";
+import { CameraAlt } from "@material-ui/icons";
 
-const useStyles = makeStyles(theme => ({
-  practiceItemBound: {
-    overflow: "visible",
-    height: 250,
-    margin: 10
-  },
-  practiceItem: {
-    borderRadius: 10,
-    "&:hover #cardTitle": {
-      color: theme.palette.primary.main
-    },
-    "&:hover #tags": {
-      overflow: "visible"
-    }
+//TODO: When Mobius is refactored, extract this into it's own hook/function
+const coloration = (mobiusSection) => {
+  let coloration;
+  switch (mobiusSection) {
+    case "foundation":
+      coloration = "primary.dark";
+      break;
+    case "discovery":
+      coloration = "secondary.main";
+      break;
+    case "options":
+      coloration = "error.main";
+      break;
+    case "delivery":
+      coloration = "warning.main";
+      break;
+    default:
+      coloration = "grey.800";
   }
-}));
+  return coloration;
+};
 
-export default function PracticeCard(props) {
-  const classes = useStyles();
+const PracticeCard = ({
+  coverImage,
+  mobiusTag,
+  practiceId,
+  practiceTitle,
+  slug,
+  subtitle,
+  tags,
+}) => {
   const [hovered, setHovered] = React.useState(false);
-
   return (
-    <Grid
-      item
-      className={classes.practiceItemBound}
-      style={{
-        zIndex: `${hovered ? "10" : "0"}`,
-        transition: `${hovered ? "0.5s" : "0.5s"}`
-      }}
-      data-testid={props.practiceId}
-    >
-      <Box
+    <Grid item data-testid={practiceId} xs={12} sm={6} md={4}>
+      <Card
+        role="button"
+        onClick={() => {
+          navigate(slug);
+        }}
         data-testid="practicecard"
-        className={classes.practiceItem}
-        maxWidth={295}
+        raised={hovered}
         onMouseOut={() => setHovered(false)}
         onMouseOver={() => setHovered(true)}
-        style={{
-          cursor: `${hovered ? "pointer" : "auto"}`,
-          transform: `${hovered ? "scale(1.1,1.05)" : "scale(1, 1)"}`,
-          transition: `${hovered ? "0.5s" : "0.5s"}`,
-          zIndex: `${hovered ? "10" : "1"}`,
-          boxShadow: `${
-            hovered ? "2px 3px 3px 2px rgba(0,0,0,.5)" : "0px 0px 0px 0px"
-          }`,
-          background: hovered ? "white" : "transparent"
-        }}
+        style={{ cursor: "pointer", height: "100%", width: "100%" }}
       >
-        <CoverImage
-          slug={props.slug}
-          practiceTitle={props.practiceTitle}
-          coverImage={props.coverImage ? props.coverImage : "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true"}
-        />
-        <Paper
-          elevation={0}
-          style={{
-            transform: `${hovered ? "scale(.9, .95)" : "scale(1, 1)"}`,
-            transition: `${hovered ? "0.5s" : "0.5s"}`,
-            background: hovered ? "white" : "transparent"
-          }}
-        >
-          <PracticeCardTitle
-            slug={props.slug}
-            practiceTitle={props.practiceTitle}
-            tags={props.tags}
-            isHovered={hovered ? true : false}
+        <Box borderBottom={6} color={coloration(mobiusTag)}>
+          <CardMedia
+            classes={{ height: 0, paddingTop: "56.25%" }}
+            component="img"
+            alt={practiceTitle}
+            height="200"
+            image={
+              coverImage
+                ? coverImage
+                : "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true"
+            }
+            title={practiceTitle}
           />
-          <Paper
-            data-testid="expandedcard"
-            elevation={0}
-            style={{
-              opacity: `${hovered ? "1" : "0"}`,
-              transition: `${hovered ? "1.0s" : "0.5s"}`
-            }}
+        </Box>
+        <CardContent>
+          <Typography
+            gutterBottom
+            variant="h6"
+            component="h3"
+            data-testid="practicetitle"
           >
-            <Subtitle subtitle={props.subtitle} slug={props.slug} />
-            <CardCollection
-              practiceId={props.practiceId}
-              upvotes={props.upvotes}
-              imgCount={props.mediaGallery}
-              questions={props.ama}
-              spacing={2}
-            />
-          </Paper>
-        </Paper>
-      </Box>
+            {practiceTitle}
+          </Typography>
+          <Typography component="p" gutterBottom variant="subtitle">
+            {subtitle}
+          </Typography>
+          <CardActions>
+            {tags.length !== 0
+              ? tags.map((t, i) => (
+                  <Chip label={`#${t}`} variant="outlined" size="small" />
+                ))
+              : null}
+          </CardActions>
+        </CardContent>
+      </Card>
     </Grid>
   );
-}
+};
+export default PracticeCard;

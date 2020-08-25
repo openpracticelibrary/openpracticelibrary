@@ -9,7 +9,11 @@ import Layout from "../components/Layout";
 
 export default function About(props) {
   return (
-    <Layout>
+    <Layout ogContent={{
+      title: "Open Practice Library",
+      desc: "Practices that empower teams to collaborate and deliver iteratively",
+      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+    }}>
       <Box data-testid="aboutPageGrid" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
           <Box px={6}>
