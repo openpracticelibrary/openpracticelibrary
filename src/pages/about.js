@@ -3,17 +3,20 @@ import { Box, Typography } from "@material-ui/core";
 import HeroColor from "../components/shared/HeroColor";
 import HistoryValues from "../components/About/HistoryValues";
 import ProductTeam from "../components/About/ProductTeam";
-import Feedback from "../components/About/Feedback";
 import Contributors from "../components/About/Contributors";
 import Layout from "../components/Layout";
 
 export default function About(props) {
   return (
-    <Layout ogContent={{
-      title: "Open Practice Library",
-      desc: "Practices that empower teams to collaborate and deliver iteratively",
-      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
-    }}>
+    <Layout
+      ogContent={{
+        title: "Open Practice Library",
+        desc:
+          "Practices that empower teams to collaborate and deliver iteratively",
+        image:
+          "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+      }}
+    >
       <Box data-testid="aboutPageGrid" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
           <Box px={6}>
@@ -27,7 +30,6 @@ export default function About(props) {
           <ProductTeam />
           <Contributors />
         </Box>
-        <Feedback />
       </Box>
     </Layout>
   );
