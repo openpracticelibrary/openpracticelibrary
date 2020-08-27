@@ -29,10 +29,6 @@ export default function PageBody(props) {
     whyDoRef,
     howToRef,
     resourceRef,
-    editing,
-    whatIsEditor,
-    whyDoEditor,
-    howToEditor,
   } = props;
 
   if (whatIs || whyDo || howTo) {
@@ -40,35 +36,10 @@ export default function PageBody(props) {
       <>
         <Box className={classes.root}>
           {whatIs && (
-          <WhatIs
-            title={title}
-            source={whatIs}
-            whatIsRef={whatIsRef}
-            editing={editing}
-          >
-            {whatIsEditor}
-            </WhatIs>
+            <WhatIs title={title} source={whatIs} whatIsRef={whatIsRef} />
           )}
-          {whyDo && (
-          <WhyDo
-            title={title}
-            source={whyDo}
-            whyDoRef={whyDoRef}
-            editing={editing}
-          >
-            {whyDoEditor}
-            </WhyDo>
-          )}
-          {howTo && (
-          <HowDo
-            title={title}
-            source={howTo}
-            howToRef={howToRef}
-            editing={editing}
-          >
-            {howToEditor}
-            </HowDo>
-          )}
+          {whyDo && <WhyDo title={title} source={whyDo} whyDoRef={whyDoRef} />}
+          {howTo && <HowDo title={title} source={howTo} howToRef={howToRef} />}
           {mediaGallery && (
             <MediaGallery
               practiceId={practiceId}
