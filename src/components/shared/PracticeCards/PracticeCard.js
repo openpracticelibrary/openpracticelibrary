@@ -10,7 +10,6 @@ import {
   Grid,
   Typography,
 } from "@material-ui/core";
-import { CameraAlt } from "@material-ui/icons";
 
 //TODO: When Mobius is refactored, extract this into it's own hook/function
 const coloration = (mobiusSection) => {
