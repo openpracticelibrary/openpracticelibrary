@@ -4,7 +4,6 @@ import ReactMarkdown from "react-markdown";
 import { Container, Box, Typography } from "@material-ui/core";
 
 import Layout from "../components/Layout";
-import Feedback from "../components/About/Feedback";
 import HeroColor from "../components/shared/HeroColor";
 import HeroImage from "../components/shared/HeroImage";
 import ContributedBy from "../components/practicePage/PageIntro/ContributedBy";
@@ -24,14 +23,14 @@ const Hero = ({ jumbotron, children }) => {
           {children}
         </Box>
       </HeroImage>
-    )
+    );
   }
 
   return (
     <HeroColor type="gradient" gradient={1} height="40vh">
       {children}
     </HeroColor>
-  )
+  );
 };
 
 const BlogPostTemplate = (props) => {
@@ -40,48 +39,39 @@ const BlogPostTemplate = (props) => {
       markdownRemark: {
         rawMarkdownBody,
         excerpt,
-        frontmatter: {
-          title,
-          subtitle,
-          authors,
-          date,
-          jumbotron
-        }
-      }
-    }
+        frontmatter: { title, subtitle, authors, date, jumbotron },
+      },
+    },
   } = props;
 
   return (
-    <Layout ogContent={{
-      title,
-      desc: excerpt,
-      image: jumbotron ? jumbotron : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
-    }}>
+    <Layout
+      ogContent={{
+        title,
+        desc: excerpt,
+        image: jumbotron
+          ? jumbotron
+          : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+      }}
+    >
       <Box display="flex" flexDirection="column">
         <Hero jumbotron={jumbotron}>
           <Container maxWidth="md">
             <Box px={6}>
-              <Typography variant="h2">
-                {title}
-              </Typography>
-              <Typography variant="h5">
-                {subtitle}
-              </Typography>
+              <Typography variant="h2">{title}</Typography>
+              <Typography variant="h5">{subtitle}</Typography>
               <ContributedBy authors={authors} createdAt={date} />
             </Box>
           </Container>
         </Hero>
         <Box margin={6}>
           <Container maxWidth="md">
-            <ReactMarkdown
-              source={rawMarkdownBody}
-            />
+            <ReactMarkdown source={rawMarkdownBody} />
           </Container>
         </Box>
-        <Feedback />
       </Box>
     </Layout>
-  )
+  );
 };
 
 export default BlogPostTemplate;
@@ -105,4 +95,3 @@ export const blogQuery = graphql`
     }
   }
 `;
-
