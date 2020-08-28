@@ -29,16 +29,9 @@ export default function WhatIs(props) {
           </Typography>
         </Box>
         <Box className={classes.space}>
-          {props.editing ? (
-            props.children
-          ) : (
-            <Typography component={"span"}>
-              <ReactMarkdown
-                source={props.source}
-                renderers={{ image: Image }}
-              />
-            </Typography>
-          )}
+          <Typography component={"span"}>
+            <ReactMarkdown source={props.source} renderers={{ image: Image }} />
+          </Typography>
         </Box>
       </Box>
     </>

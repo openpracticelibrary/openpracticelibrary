@@ -1,20 +1,13 @@
 import React from "react";
-
 import { Box, Container } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
 import FilterTags from "./FilterBar/FilterTags";
 
 const Practices = ({
   children,
-  filterTags,
   handleFilterChange,
-  keywordSearchToggle,
   mobiusLoopArray,
-  popularMenuItems,
-  selectedFilterTag,
-  selectedPopularFilter,
   selectedMobiusLoopFilter,
-  toggleKeywordSearch,
 }) => (
   <>
     <MobiusLoopHero displaySection={selectedMobiusLoopFilter} />
