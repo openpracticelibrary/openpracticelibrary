@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@material-ui/core";
 import { Feedback, Mic } from "@material-ui/icons";
-import { CCHeartIcon } from "../../../assets/icons/index";
+import { CCHeart } from "../../../assets/icons/index";
 
 const DrawerFooter = () => (
   <Box marginTop="auto" m={2}>
@@ -39,7 +39,7 @@ const DrawerFooter = () => (
       </ListItem>
     </List>
     <Box style={{ whiteSpace: "normal " }} display="flex" alignItems="center">
-      <CCHeartIcon />
+      <CCHeart />
       <Typography variant="caption">
         Except where otherwise noted, content on this site is licensed under a
         Creative Commons Attribution 4.0 International license.

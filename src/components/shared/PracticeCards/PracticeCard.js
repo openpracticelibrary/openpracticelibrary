@@ -28,7 +28,7 @@ const coloration = (mobiusSection) => {
       coloration = "warning.main";
       break;
     default:
-      coloration = "grey.800";
+      coloration = "grey.400";
   }
   return coloration;
 };
