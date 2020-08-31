@@ -64,15 +64,17 @@ export default function ListItems(props) {
       <ListItemLink to="/blog" primary="Blog" />
       <ListItem button onClick={handleClick}>
         <ListItemText>
-          <Typography variant="body1">
-            Contributing
-          </Typography>
+          <Typography variant="body1">Contributing</Typography>
         </ListItemText>
         {open ? <ExpandLess /> : <ExpandMore />}
       </ListItem>
-      <Collapse in={open} timeout="auto" unmountOnExit>
+      <Collapse timeout="auto" unmountOnExit>
         <List component="div">
-          <ListItemLink to="/page/contribution-guide" primary="Contribution Guide" data-testid="ContributionGuide" />
+          <ListItemLink
+            to="/page/contribution-guide"
+            primary="Contribution Guide"
+            data-testid="ContributionGuide"
+          />
           <ListItemLink to="/page/cms" primary="Using the CMS" />
           <ListItemLink to="/page/editorial" primary="Editorial Flow" />
         </List>

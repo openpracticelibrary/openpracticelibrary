@@ -38,7 +38,7 @@ const DrawerFooter = () => (
         <ListItemText primary="Send Feedback" />
       </ListItem>
     </List>
-    <Box style={{ whiteSpace: "normal " }} display="flex" alignItems="center">
+    <Box display="flex" alignItems="center">
       <CCHeart />
       <Typography variant="caption">
         Except where otherwise noted, content on this site is licensed under a
