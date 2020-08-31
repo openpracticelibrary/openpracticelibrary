@@ -28,7 +28,7 @@ const ProcessModel = () => {
           Practices can be mapped to one of three parts of the loop:
         </Typography>
         <Box my={4}>
-          <MobiusLoopHero displayContent={false} />
+          <MobiusLoopHero showContent={false} />
         </Box>
         <Typography variant="h6" gutterBottom>
           <Link href="/tags/foundation">Foundation</Link> - we have found that
