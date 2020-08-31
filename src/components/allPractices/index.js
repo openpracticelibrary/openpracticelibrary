@@ -25,7 +25,7 @@ const Practices = ({
         selectedFilter={selectedMobiusLoopFilter}
       />
     </Box>
-    <Container>{children}</Container>
+    <Container maxWidth="md">{children}</Container>
   </>
 );
 

@@ -38,10 +38,7 @@ const sectionContent = (status) => {
   return content;
 };
 
-const MobiusLoopHero = ({
-  showDescriptions = true,
-  displaySection = "all",
-}) => {
+const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
   const section = displaySection.toLocaleLowerCase();
   return (
     <Container>
@@ -76,12 +73,13 @@ const MobiusLoopHero = ({
               position="absolute"
               style={{
                 position: "absolute",
-                left: "50%",
+                left: "60%",
                 top: "50%",
                 transform: "translate(-50%, -50%)",
               }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
             >
-              <Typography color="inherit" variant="h6">
+              <Typography color="inherit" variant="inherit">
                 Discovery
               </Typography>
             </Box>
@@ -103,13 +101,14 @@ const MobiusLoopHero = ({
           >
             <Box
               position="absolute"
-              bottom="15%"
+              bottom="10%"
               style={{
                 left: "50%",
                 transform: "translate(-50%, 0)",
               }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
             >
-              <Typography variant="h6">Options</Typography>
+              <Typography variant="inherit">Options</Typography>
             </Box>
             <OptionsGraphic />
           </Box>
@@ -131,12 +130,13 @@ const MobiusLoopHero = ({
             <Box
               style={{
                 position: "absolute",
-                left: "50%",
+                left: "40%",
                 top: "50%",
                 transform: "translate(-50%, -50%)",
               }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
             >
-              <Typography variant="h6">Delivery</Typography>
+              <Typography variant="inherit">Delivery</Typography>
             </Box>
             <DeliveryGraphic />
           </Box>
@@ -154,15 +154,16 @@ const MobiusLoopHero = ({
           }}
           position="relative"
           role="button"
-          style={{ cursor: "pointer" }}
+          style={{ cursor: "pointer", textAlign: "center" }}
+          fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
         >
           <FoundationGraphic />
-          <Typography align="center" color="inherit" variant="h6">
+          <Typography align="center" color="inherit" variant="inherit">
             Foundation
           </Typography>
         </Box>
       </Box>
-      {showDescriptions ? (
+      {showContent ? (
         <Box maxWidth={{ xs: "100%", sm: "80%", md: "70%" }} mx="auto">
           <Card>
             <CardContent data-testid={`mobius-display-${section}`}>
