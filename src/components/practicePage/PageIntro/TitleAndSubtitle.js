@@ -12,7 +12,7 @@ const TitleAndSubtitle = ({ subtitle, tags, title }) => (
         {tags &&
           tags.map((t, i) => (
             <Grid item>
-              <Chip icon={<LocalOffer />} label={`${t}`} key={i} size="small" />
+              <Chip icon={<LocalOffer />} label={`${t}`} key={i} size="small" data-testid={`tagLabel${t}`}/>
             </Grid>
           ))}
       </Grid>
