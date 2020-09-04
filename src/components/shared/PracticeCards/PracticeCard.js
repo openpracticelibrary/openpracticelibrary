@@ -1,6 +1,7 @@
 import React from "react";
 import { navigate } from "gatsby";
 import { LazyLoadComponent as LazyLoad } from "react-lazy-load-image-component";
+import Img from "gatsby-image";
 import {
   Box,
   Chip,
@@ -62,21 +63,22 @@ const PracticeCard = ({
         style={{ cursor: "pointer", height: "100%", width: "100%" }}
       >
         <Box borderBottom={6} color={coloration(mobiusTag)} bgcolor="grey.300">
-          <LazyLoad
+          {/* <LazyLoad
             threshold={250}
             placeholder={
               <Box role="image" alt="placeholder" height="12.5rem" width={1} />
             }
-          >
+          > */}
             <CardMedia
               classes={{ height: 0, paddingTop: "56.25%" }}
-              component="img"
               alt={practiceTitle}
-              height="200"
-              image={coverImage ? coverImage : placeholder}
+              height="100"
+              // image={coverImage ? coverImage : placeholder}
               title={practiceTitle}
-            />
-          </LazyLoad>
+            >
+              <Img fluid={coverImage} />
+            </CardMedia>
+          {/* </LazyLoad> */}
         </Box>
         <CardContent>
           <Typography

@@ -86,7 +86,13 @@ export const blogQuery = graphql`
         title
         subtitle
         date(formatString: "MMMM DD, YYYY")
-        jumbotron
+        jumbotron {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         authors {
           title
           github
