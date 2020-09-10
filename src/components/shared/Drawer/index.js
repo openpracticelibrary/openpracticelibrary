@@ -6,7 +6,7 @@ import ListItems from "./ListItems";
 import DrawerFooter from "./DrawerFooter";
 import Logo from "../../../components/shared/Logo";
 
-const OPLDrawer = ({ children }) => {
+const OPLDrawer = () => {
   const [open, toggle] = useReducer((drawerOpen) => !drawerOpen, false);
   return (
     <>
@@ -24,7 +24,11 @@ const OPLDrawer = ({ children }) => {
             paddingTop={2}
             px={2}
           >
-            {open ? <Logo small horizontal /> : null}
+            {open ? (
+              <Box marginRight={2}>
+                <Logo small horizontal />
+              </Box>
+            ) : null}
             <Fab
               color="primary"
               disableFocusRipple
@@ -41,7 +45,6 @@ const OPLDrawer = ({ children }) => {
               <DrawerFooter />
             </>
           )}
-          {children}
         </Drawer>
       </Hidden>
       <Hidden mdUp>
