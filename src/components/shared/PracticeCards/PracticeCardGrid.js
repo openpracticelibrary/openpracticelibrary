@@ -13,20 +13,10 @@ const PracticeCardGrid = (props) => {
         if (practice.node.frontmatter.mobiusTag) {
           allTags = [...allTags, practice.node.frontmatter.mobiusTag];
         }
-
-        const placeholder =
-          "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true";
-
-        console.log("here");
-        console.log(practice.node.frontmatter);
         return (
           <PracticeCard
             key={practice.node.id}
-            coverImage={
-              practice.node.frontmatter.icon
-                ? practice.node.frontmatter.icon.childImageSharp.fluid
-                : placeholder
-            }
+            coverImage={practice.node.frontmatter.icon}
             practiceId={practice.node.id}
             practiceTitle={practice.node.frontmatter.title}
             slug={practice.node.fields.slug}
