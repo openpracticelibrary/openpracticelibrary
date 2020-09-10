@@ -2,6 +2,7 @@ import React from "react";
 import { Box, Chip, Select, MenuItem, Typography } from "@material-ui/core";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import { navigate } from "gatsby";
+import Hidden from "@material-ui/core/Hidden";
 
 const Tag = ({ tag, filter, selectedFilter }) => {
   const buttonRef = React.useRef(null);
@@ -46,25 +47,27 @@ const FilterTags = ({ filter, selectedFilter, tags }) => {
           ))}
         </Box>
       ) : (
-        <Select
-          variant="outlined"
-          fullWidth
-          value={selectedFilter}
-          onChange={(event) => {
-            const tag = event.target.value.toLowerCase();
-            tag === "all"
-              ? navigate("/")
-              : navigate("/tags/" + event.target.value.toLowerCase());
-          }}
-        >
-          {tags.map((tag) => (
-            <MenuItem value={tag} key={tag} data-testid={tag}>
-              <Typography variant="body2">
-                {tag === "All" ? tag : `#${tag}`}
-              </Typography>
-            </MenuItem>
-          ))}
-        </Select>
+        <Hidden smUp>
+          <Select
+            variant="outlined"
+            fullWidth
+            value={selectedFilter}
+            onChange={(event) => {
+              const tag = event.target.value.toLowerCase();
+              tag === "all"
+                ? navigate("/")
+                : navigate("/tags/" + event.target.value.toLowerCase());
+            }}
+          >
+            {tags.map((tag) => (
+              <MenuItem value={tag} key={tag} data-testid={tag}>
+                <Typography variant="body2">
+                  {tag === "All" ? tag : `#${tag}`}
+                </Typography>
+              </MenuItem>
+            ))}
+          </Select>
+        </Hidden>
       )}
     </div>
   );

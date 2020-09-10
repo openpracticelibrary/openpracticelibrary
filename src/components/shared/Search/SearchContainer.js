@@ -56,6 +56,7 @@ export default function SearchContainer(props) {
             variant="outlined"
             value={state.searchQuery}
             onChange={searchData}
+            data-testid="searchTextField"
             placeholder="Know the name of the practice?"
             fullWidth
           />
