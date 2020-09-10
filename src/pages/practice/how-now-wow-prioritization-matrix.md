@@ -101,7 +101,6 @@ howTo: >-
   Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
 
   * Spikes
-jumbotron: ''
 area: options
 time: 30-60 min
 mediaGallery:

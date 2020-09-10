@@ -39,7 +39,6 @@ howTo: >-
   positives and negatives.  It's also an opportunity to compare perspectives. 
   One person may feel an event, or activity was interesting, whilst another
   found it positive etc.
-jumbotron: ''
 area: delivery-measure-and-learn
 time: 30 mins
 mediaGallery:
