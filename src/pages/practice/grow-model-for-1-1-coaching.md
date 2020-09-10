@@ -12,7 +12,7 @@ tags:
   - culture
 perspectives:
   - the-open-organization-definition
-icon: ''
+icon: /images/needs-an-image.png
 people: '2 '
 time: 30-45-60 mins
 difficulty: moderate

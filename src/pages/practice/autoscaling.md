@@ -9,6 +9,7 @@ area: foundation-technical
 tags:
   - measure
 participants: []
+icon: /images/needs-an-image.png
 templateKey: practice-page
 whatIs: >-
   Autoscaling is a method of changing amount of computing resources based on the
