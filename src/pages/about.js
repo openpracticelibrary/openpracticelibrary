@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@material-ui/core";
 import HeroColor from "../components/shared/HeroColor";
 import HistoryValues from "../components/About/HistoryValues";
 import ProductTeam from "../components/About/ProductTeam";
@@ -19,17 +19,17 @@ export default function About(props) {
     >
       <Box data-testid="aboutPageGrid" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
-          <Box px={6}>
+          <Container maxWidth="md">
             <Typography component="h1" variant="h3" data-testid="hellotext">
               About Us
             </Typography>
-          </Box>
+          </Container>
         </HeroColor>
-        <Box maxWidth="70rem" alignSelf="center" mx={6}>
+        <Container maxWidth="md">
           <HistoryValues />
           <ProductTeam />
           <Contributors />
-        </Box>
+        </Container>
       </Box>
     </Layout>
   );
