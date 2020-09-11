@@ -7,7 +7,6 @@ authors:
   - ilaria66
   - mvmaestri
   - jonathanjohnston
-jumbotron: ""
 ---
 # What is it?
 

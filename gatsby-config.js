@@ -5,6 +5,8 @@ module.exports = {
       "Practices that empower teams to collaborate and deliver iteratively",
   },
   plugins: [
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     "gatsby-plugin-react-helmet",
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -53,8 +55,6 @@ module.exports = {
         name: "data",
       },
     },
-    "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {
