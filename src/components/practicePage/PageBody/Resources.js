@@ -1,7 +1,6 @@
 import React from "react";
 import { Typography, Box, Button } from "@material-ui/core";
 import ResourceListItem from "./ResourceListItem";
-import { makeStyles } from "@material-ui/core/styles/index";
 import {
   Link,
   Mic,
@@ -10,22 +9,6 @@ import {
   Store,
   MenuBook,
 } from "@material-ui/icons";
-
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: "flex",
-    flexDirection: "column",
-  },
-  space: {
-    padding: theme.spacing(1),
-  },
-  indent: {
-    marginLeft: theme.spacing(4),
-  },
-}));
-
-//todo: (@Darcie) icons for video, purchase, books
-//todo: review the structure of the resource.description
 
 const Icon = {
   web: <Link />,
@@ -38,7 +21,6 @@ const Icon = {
 
 export default function ResourcesWeLove(props) {
   const [expanded, setExpanded] = React.useState(false);
-  const classes = useStyles();
   const resourceLinkList = () => {
     if (Object.keys(props.links[0]).length !== 0) {
       const resourceList = props.links.filter(
@@ -58,7 +40,7 @@ export default function ResourcesWeLove(props) {
 
       if (expanded) {
         return (
-          <React.Fragment>
+          <Box>
             {expandedLinkList.map((resource, i) => (
               <ResourceListItem
                 key={i}
@@ -69,12 +51,12 @@ export default function ResourcesWeLove(props) {
                 {Icon[resource.linkType]}
               </ResourceListItem>
             ))}
-          </React.Fragment>
+          </Box>
         );
       }
 
       return (
-        <React.Fragment>
+        <>
           {initialLinkList.map((resource, i) => (
             <ResourceListItem
               key={i}
@@ -92,7 +74,7 @@ export default function ResourcesWeLove(props) {
               </Typography>
             </Button>
           )}
-        </React.Fragment>
+        </>
       );
     }
   };
@@ -102,21 +84,16 @@ export default function ResourcesWeLove(props) {
   };
 
   return (
-    <>
-      <Box className={classes.root}>
-        <Box className={classes.space}>
-          <Typography variant={"h4"} ref={props.resourceRef}>
-            <b>Links we love</b>
-          </Typography>
-          <Typography>
-            Check out these great links which can help you dive a little deeper
-            into running the {props.practiceTitle} practice with your team,
-            customers or stakeholders.
-          </Typography>
-        </Box>
+    <Box>
+      <Typography>
+        Check out these great links which can help you dive a little deeper into
+        running the {props.practiceTitle} practice with your team, customers or
+        stakeholders.
+      </Typography>
 
-        <Box className={classes.indent}>{resourceLinkList()}</Box>
+      <Box marginLeft={2} my={2}>
+        {resourceLinkList()}
       </Box>
-    </>
+    </Box>
   );
 }
