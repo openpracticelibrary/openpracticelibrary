@@ -6,7 +6,8 @@ import HowDo from "./HowDo";
 import ResourcesWeLove from "./ResourcesWeLove";
 import FullText from "./FullText";
 import { makeStyles } from "@material-ui/core/styles/index";
-import { Box } from "@material-ui/core";
+import { Box, Typography } from "@material-ui/core";
+import HyvorTalk from "hyvor-talk-react";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -48,6 +49,7 @@ export default function PageBody(props) {
               mediaRef={mediaRef}
             />
           )}
+
           {resources && (
             <ResourcesWeLove
               practiceTitle={title}
@@ -56,6 +58,10 @@ export default function PageBody(props) {
               resourceRef={resourceRef}
             />
           )}
+          <Typography variant="h4">
+            <b>Ask Us Anything</b>
+          </Typography>
+          <HyvorTalk.Embed websiteId={1938} />
         </Box>
       </>
     );
