@@ -11,7 +11,6 @@ area: delivery-measure-and-learn
 tags: []
 perspectives: []
 icon: /images/sizing_cards.jpg
-jumbotron: ''
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
 time: 1-3 min per Story

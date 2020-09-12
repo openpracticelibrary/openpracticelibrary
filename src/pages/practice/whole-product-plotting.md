@@ -70,7 +70,6 @@ howTo: >-
   (for existing products/services)
 
   * It can also serve as prioritisation tool for the Product Backlog
-jumbotron: ''
 area: discovery-loop-why
 time: 60 min
 mediaGallery:
