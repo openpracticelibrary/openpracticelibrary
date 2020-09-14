@@ -27,7 +27,7 @@ const variants = {
   }
 };
 
-function ListItemLink({ primary, to, toggle }) {
+function ListItemLink({ primary, to }) {
   const renderLink = React.useMemo(
     () =>
       React.forwardRef((itemProps, ref) => (
@@ -66,7 +66,7 @@ const ListItems = () => {
       </motion.li>
       <motion.li variants={variants}>
         <ListItemLink
-          to={`${window.location.origin}/admin/#/collections/practice/entries/new`}
+          to={`${typeof window !== 'undefined' && window.location.origin}/admin/#/collections/practice/entries/new`}
           primary="Add a Practice"
         />
       </motion.li>
