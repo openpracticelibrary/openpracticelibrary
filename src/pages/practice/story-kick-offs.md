@@ -10,7 +10,7 @@ authors:
 area: delivery-deliver
 perspectives:
   - product-ownership
-icon: ''
+icon: /images/needs-an-image.png
 jumbotron: /images/kickoff.jpg
 people: 3+
 time: 1-20 minutes
