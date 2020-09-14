@@ -27,7 +27,7 @@ export const Navigation = () => (
     display="flex"
     flexDirection="column"
     justifyContent="space-between"
-    paddingTop={2}
+    paddingTop={{ sm: 2, md: 7 }}
   >
     <>
       <motion.ul variants={variantMenu}>

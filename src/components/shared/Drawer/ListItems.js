@@ -12,14 +12,14 @@ import Logo from "../../../components/shared/Logo";
 
 const variants = {
   open: {
-    y: 70,
+    y: 0,
     opacity: 1,
     transition: {
       y: { stiffness: 1000, velocity: -1 }
     }
   },
   closed: {
-    y: 120,
+    y: 50,
     opacity: 0,
     transition: {
       y: { stiffness: 1000 }

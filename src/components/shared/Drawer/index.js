@@ -24,13 +24,19 @@ const useStyles = makeStyles(theme => ({
     left: 0,
     bottom: 0,
     width: "300px",
-    zIndex: 1,
+    zIndex: 10000,
   },
   button: {
     cursor: "pointer",
     position: "absolute",
-    top: "18px",
-    left: "15px",
+    [theme.breakpoints.down("sm")]: {
+      bottom: "18px",
+      left: "15px",
+    },
+    [theme.breakpoints.up("md")]: {
+      top: "18px",
+      left: "15px",
+    },
   }})
 );
 
