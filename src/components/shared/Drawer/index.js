@@ -1,28 +1,4 @@
-// import React, { useState } from "react";
-// import { motion } from "framer-motion"
-// import MenuIcon from "@material-ui/icons/Menu";
-// import ListItems from "./ListItems";
-
-// const variants = {
-  // open: { opacity: 1, x: 0 },
-  // closed: { opacity: 0, x: "-100%" },
-// }
-
-// const OPLDrawer = () => {
-  // const [isOpen, setIsOpen] = useState(true)
-
-  // return (
-    // <motion.nav
-      // animate={isOpen ? "open" : "closed"}
-      // variants={variants}
-    // >
-      // <MenuIcon onClick={() => setIsOpen(!isOpen)} />
-      // <ListItems />
-    // </motion.nav>
-  // )
-// }
-
-import * as React from "react";
+import React from "react";
 import { useRef, useReducer } from "react";
 import { motion, useCycle } from "framer-motion";
 import { useDimensions } from "./use-dimensions";
@@ -43,11 +19,12 @@ const useStyles = makeStyles(theme => ({
     background: "#fff",
   },
   nav: {
-    position: "absolute",
+    position: "fixed",
     top: 0,
     left: 0,
     bottom: 0,
     width: "300px",
+    zIndex: 1,
   },
   button: {
     cursor: "pointer",
@@ -59,6 +36,7 @@ const useStyles = makeStyles(theme => ({
 
 const sidebar = {
   open: (height = 1000) => ({
+    backgroundColor: "white",
     clipPath: `circle(${height * 2 + 200}px at 40px 40px)`,
     transition: {
       type: "spring",
@@ -67,6 +45,7 @@ const sidebar = {
     }
   }),
   closed: {
+    backgroundColor: "transparent",
     clipPath: "circle(30px at 40px 40px)",
     transition: {
       delay: 0.5,
@@ -79,7 +58,6 @@ const sidebar = {
 
 const OPLDrawer = () => {
   const [isOpen, toggleOpen] = useReducer((drawerOpen) => !drawerOpen, false);
-  // const [isOpen, toggleOpen] = useCycle(false, true);
   const containerRef = useRef(null);
   const { height } = useDimensions(containerRef);
   const classes = useStyles();

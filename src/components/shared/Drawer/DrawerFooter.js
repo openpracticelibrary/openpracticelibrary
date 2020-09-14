@@ -11,14 +11,12 @@ import { Feedback, Mic } from "@material-ui/icons";
 
 const variants = {
   open: {
-    y: 380,
     opacity: 1,
     transition: {
       y: { stiffness: 1000, velocity: -1 }
     }
   },
   closed: {
-    y: 430,
     opacity: 0,
     transition: {
       y: { stiffness: 1000 }

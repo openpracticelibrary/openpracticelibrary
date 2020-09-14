@@ -29,11 +29,13 @@ const AdditionalPage = (props) => {
     }}>
       <Box data-testid="additionalPage" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
-          <Box px={6}>
-            <Typography component="h1" variant="h3">
-              {props.data.markdownRemark.frontmatter.title}
-            </Typography>
-          </Box>
+          <Container maxWidth="md">
+            <Box px={6}>
+              <Typography component="h1" variant="h3">
+                {props.data.markdownRemark.frontmatter.title}
+              </Typography>
+            </Box>
+          </Container>
         </HeroColor>
           <Box alignSelf="center" my={4}>
             <Container maxWidth="md">
