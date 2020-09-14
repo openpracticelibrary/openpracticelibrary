@@ -17,6 +17,7 @@
     "apollo-boost": "^0.4.9",
     "bad-words": "^3.0.3",
     "bulma": "^0.9.0",
+    "framer-motion": "^2.6.13",
     "gatsby": "^2.24.28",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-google-analytics": "^2.3.13",

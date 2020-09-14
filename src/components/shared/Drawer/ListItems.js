@@ -1,5 +1,6 @@
 import React from "react";
 import { Link as RouterLink } from "gatsby";
+import { motion } from "framer-motion";
 import {
   Divider,
   ListItem,
@@ -7,6 +8,24 @@ import {
   List,
   Typography,
 } from "@material-ui/core";
+import Logo from "../../../components/shared/Logo";
+
+const variants = {
+  open: {
+    y: 70,
+    opacity: 1,
+    transition: {
+      y: { stiffness: 1000, velocity: -1 }
+    }
+  },
+  closed: {
+    y: 120,
+    opacity: 0,
+    transition: {
+      y: { stiffness: 1000 }
+    }
+  }
+};
 
 function ListItemLink({ primary, to, toggle }) {
   const renderLink = React.useMemo(
@@ -17,40 +36,59 @@ function ListItemLink({ primary, to, toggle }) {
     [to]
   );
   return (
-    <ListItem button component={renderLink} onClick={toggle}>
+    <ListItem button component={renderLink}>
       <Typography variant="body1">{primary}</Typography>
     </ListItem>
   );
 }
-const ListItems = ({ toggle }) => {
+const ListItems = () => {
   return (
     <List data-testid="drawerPractices">
-      <ListSubheader>
-        <Typography variant="overline" color="primary">
-          Practices
-        </Typography>
-      </ListSubheader>
-      <ListItemLink to="/" primary="View Library" toggle={toggle} />
-      <ListItemLink
-        to="/learn"
-        primary="Learn More"
-        toggle={toggle}
-        data-testid="SeeEverything"
-      />
-      <ListItemLink
-        to={`${window.location.origin}/admin/#/collections/practice/entries/new`}
-        primary="Add a Practice"
-        toggle={toggle}
-      />
-      <Divider />
-      <ListSubheader>
-        <Typography variant="overline" color="primary">
-          Community
-        </Typography>
-      </ListSubheader>
-      <ListItemLink to="/about" primary="About Us" data-testid="LearnAboutUs" />
-      <ListItemLink to="/blog" primary="Blog" />
-      <ListItemLink to="/page/contribution-guide" primary="Contributing" />
+      <motion.li variants={variants}>
+        <Logo small horizontal />
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListSubheader>
+          <Typography variant="overline" color="primary">
+            Practices
+          </Typography>
+        </ListSubheader>
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListItemLink to="/" primary="View Library" />
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListItemLink
+          to="/learn"
+          primary="Learn More"
+          data-testid="SeeEverything"
+        />
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListItemLink
+          to={`${window.location.origin}/admin/#/collections/practice/entries/new`}
+          primary="Add a Practice"
+        />
+      </motion.li>
+      <motion.li variants={variants}>
+        <Divider />
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListSubheader>
+          <Typography variant="overline" color="primary">
+            Community
+          </Typography>
+        </ListSubheader>
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListItemLink to="/about" primary="About Us" data-testid="LearnAboutUs" />
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListItemLink to="/blog" primary="Blog" />
+      </motion.li>
+      <motion.li variants={variants}>
+        <ListItemLink to="/page/contribution-guide" primary="Contributing" />
+      </motion.li>
     </List>
   );
 };
