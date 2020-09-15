@@ -1,19 +1,15 @@
 import React from "react";
 import { navigate } from "gatsby";
-import { LazyLoadComponent as LazyLoad } from "react-lazy-load-image-component";
+import Img from "gatsby-image/withIEPolyfill";
 import {
   Box,
   Chip,
   Card,
   CardActions,
   CardContent,
-  CardMedia,
   Grid,
   Typography,
 } from "@material-ui/core";
-
-const placeholder =
-  "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true";
 
 //TODO: When Mobius is refactored, extract this into it's own hook/function
 const coloration = (mobiusSection) => {
@@ -62,21 +58,13 @@ const PracticeCard = ({
         style={{ cursor: "pointer", height: "100%", width: "100%" }}
       >
         <Box borderBottom={6} color={coloration(mobiusTag)} bgcolor="grey.300">
-          <LazyLoad
-            threshold={250}
-            placeholder={
-              <Box role="image" alt="placeholder" height="12.5rem" width={1} />
-            }
-          >
-            <CardMedia
-              classes={{ height: 0, paddingTop: "56.25%" }}
-              component="img"
-              alt={practiceTitle}
-              height="200"
-              image={coverImage ? coverImage : placeholder}
-              title={practiceTitle}
-            />
-          </LazyLoad>
+          <Img
+            alt={practiceTitle}
+            imgStyle={{ objectFit: "cover", width: "100%", height: "100%" }}
+            fluid={coverImage}
+            style={{ width: "100%", height: "12rem" }}
+            title={practiceTitle}
+          />
         </Box>
         <CardContent>
           <Typography

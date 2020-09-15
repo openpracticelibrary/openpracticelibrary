@@ -1,30 +1,16 @@
 import React from "react";
-import { Typography, Box } from "@material-ui/core";
-import { makeStyles } from "@material-ui/core/styles/index";
+import { Typography } from "@material-ui/core";
 import ReactMarkdown from "react-markdown";
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: "flex",
-    flexDirection: "column",
-  },
-  space: {
-    padding: theme.spacing(1),
-  },
-}));
+const Image = (props) => (
+  <img {...props} style={{ maxWidth: "100%" }} alt="Embedded Content" />
+);
 
-export default function WhatIs(props) {
-  const classes = useStyles();
-
+const FullText = ({ source }) => {
   return (
-    <>
-      <Box className={classes.root}>
-        <Box className={classes.space}>
-          <Typography>
-            <ReactMarkdown source={props.source} />
-          </Typography>
-        </Box>
-      </Box>
-    </>
+    <Typography>
+      <ReactMarkdown source={source} renderers={{ image: Image }} />
+    </Typography>
   );
-}
+};
+export default FullText;

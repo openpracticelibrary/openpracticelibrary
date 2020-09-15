@@ -3,9 +3,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Practices from "../components/allPractices";
 import SearchContainer from "../components/shared/Search/SearchContainer";
-import {
-  mobiusLoopArray,
-} from "../utilities/dropDownValues";
+import { mobiusLoopArray } from "../utilities/dropDownValues";
 
 const PracticesWithData = (props) => {
   const dataProps = {
@@ -20,11 +18,15 @@ const PracticesWithData = (props) => {
   } = props;
 
   return (
-    <Layout ogContent={{
-      title: "Open Practice Library",
-      desc: "Practices that empower teams to collaborate and deliver iteratively",
-      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
-    }}>
+    <Layout
+      ogContent={{
+        title: "Open Practice Library",
+        desc:
+          "Practices that empower teams to collaborate and deliver iteratively",
+        image:
+          "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+      }}
+    >
       <Practices {...props} {...dataProps}>
         <SearchContainer practices={edges} />
       </Practices>
@@ -51,7 +53,13 @@ export const pageQuery = graphql`
             subtitle
             tags
             mobiusTag
-            icon
+            icon {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             mediaGallery {
               link
             }

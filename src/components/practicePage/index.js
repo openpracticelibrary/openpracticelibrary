@@ -1,12 +1,11 @@
 import React, { useRef } from "react";
-
 import LoginButton from "../shared/Login/LoginButton";
 import PageIntro from "./PageIntro";
 import PageMenu from "./PageMenu";
 import PageBody from "./PageBody";
 import gradientSelect from "../shared/utilities/gradientSelect";
 import HeroColor from "../../components/shared/HeroColor";
-import { Container, Box } from "@material-ui/core";
+import { Container } from "@material-ui/core";
 
 const PracticePage = ({ data, preview }) => {
   const {
@@ -24,7 +23,7 @@ const PracticePage = ({ data, preview }) => {
         howTo,
         mediaGallery,
         resources,
-        date
+        date,
       },
       rawMarkdownBody,
     },
@@ -32,10 +31,11 @@ const PracticePage = ({ data, preview }) => {
   const practiceSlug = slug.split("practice/")[1];
 
   let allTags = [];
-  if(mobiusTag) {
-    allTags = [...allTags,mobiusTag]
-  } if(tags) {
-    allTags = [...allTags,...tags]
+  if (mobiusTag) {
+    allTags = [...allTags, mobiusTag];
+  }
+  if (tags) {
+    allTags = [...allTags, ...tags];
   }
 
   // Refs
@@ -44,9 +44,11 @@ const PracticePage = ({ data, preview }) => {
   const whyDoRef = useRef(null);
   const howToRef = useRef(null);
   const resourceRef = useRef(null);
+  const discussRef = useRef(null);
 
   // Child props
   const pageRefs = {
+    discussRef,
     whatIsRef,
     mediaRef,
     whyDoRef,
@@ -82,31 +84,20 @@ const PracticePage = ({ data, preview }) => {
 
   return (
     <>
-      <HeroColor type="gradient" gradient={gradientSelect(allTags)} height="30vh">
-        {!preview &&
+      <HeroColor
+        type="gradient"
+        gradient={gradientSelect(allTags)}
+        height="30vh"
+      >
+        {!preview && (
           <LoginButton
             practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
           />
-        }
+        )}
         <PageIntro {...pageIntroData} />
       </HeroColor>
 
-      { !preview &&
-        <Box
-          display="flex"
-          alignItems="center"
-          justifyContent="center"
-          position="sticky"
-          top={0}
-          borderTop="1px solid rgba(0, 0, 0, 0.12)"
-          borderBottom="1px solid rgba(0, 0, 0, 0.12)"
-          zIndex={1001}
-          py={1}
-          bgcolor="white"
-        >
-          <PageMenu {...pageMenuData} {...pageRefs} />
-        </Box>
-      }
+      {!preview && <PageMenu {...pageMenuData} {...pageRefs} />}
       <Container maxWidth="md">
         <PageBody {...pageBodyData} {...pageRefs} />
       </Container>

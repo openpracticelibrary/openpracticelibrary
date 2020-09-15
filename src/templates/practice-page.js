@@ -33,7 +33,13 @@ export const pageQuery = graphql`
         slug
       }
       frontmatter {
-        icon
+        icon {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         title
         subtitle
         date(formatString: "MMMM DD, YYYY")

@@ -184,7 +184,7 @@ collections:
         hint: "Large full width image for under the titles"
         name: "jumbotron"
         widget: "image"
-        required: false
+        required: true
       - label: "Jumbotron alt text"
         hint: "Accessible description of the image for screen readers"
         name: "jumbotronAlt"
