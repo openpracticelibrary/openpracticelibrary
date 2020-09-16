@@ -7,6 +7,7 @@ authors:
   - zene22
 area: foundation-culture-and-collaboration
 perspectives: []
+icon: /images/needs-an-image.png
 people: 3+
 time: '>= 30 minutes'
 difficulty: moderate

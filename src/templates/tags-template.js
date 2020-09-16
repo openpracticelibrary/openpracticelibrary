@@ -56,7 +56,13 @@ export const tagPageQuery = graphql`
             subtitle
             tags
             mobiusTag
-            icon
+            icon {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             mediaGallery {
               link
             }

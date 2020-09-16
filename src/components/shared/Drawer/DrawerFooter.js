@@ -5,10 +5,8 @@ import {
   ListItem,
   ListItemIcon,
   ListItemText,
-  Typography,
 } from "@material-ui/core";
 import { Feedback, Mic } from "@material-ui/icons";
-import { CCHeartIcon } from "../../../assets/icons/index";
 
 const DrawerFooter = () => (
   <Box marginTop="auto" m={2}>
@@ -38,13 +36,6 @@ const DrawerFooter = () => (
         <ListItemText primary="Send Feedback" />
       </ListItem>
     </List>
-    <Box style={{ whiteSpace: "normal " }} display="flex" alignItems="center">
-      <CCHeartIcon />
-      <Typography variant="caption">
-        Except where otherwise noted, content on this site is licensed under a
-        Creative Commons Attribution 4.0 International license.
-      </Typography>
-    </Box>
   </Box>
 );
 export default DrawerFooter;

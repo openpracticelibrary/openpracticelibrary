@@ -5,6 +5,7 @@ import {
   Box,
   Card,
   CardContent,
+  Link,
   Typography,
 } from "@material-ui/core";
 import MobiusDescription from "./MobiusDescription";
@@ -38,19 +39,11 @@ const sectionContent = (status) => {
   return content;
 };
 
-const MobiusLoopHero = ({
-  showDescriptions = true,
-  displaySection = "all",
-}) => {
+const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
   const section = displaySection.toLocaleLowerCase();
   return (
-    <Container>
-      <Box
-        maxWidth={{ xs: "100%", sm: "80%", md: "70%" }}
-        mx="auto"
-        marginTop={2}
-        marginBottom={4}
-      >
+    <Container maxWidth="md">
+      <Box mx="auto" marginTop={2} marginBottom={4}>
         <Box
           display="flex"
           alignItems="center"
@@ -76,12 +69,13 @@ const MobiusLoopHero = ({
               position="absolute"
               style={{
                 position: "absolute",
-                left: "50%",
+                left: "60%",
                 top: "50%",
                 transform: "translate(-50%, -50%)",
               }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
             >
-              <Typography color="inherit" variant="h6">
+              <Typography color="inherit" variant="inherit">
                 Discovery
               </Typography>
             </Box>
@@ -103,13 +97,14 @@ const MobiusLoopHero = ({
           >
             <Box
               position="absolute"
-              bottom="15%"
+              bottom="10%"
               style={{
                 left: "50%",
                 transform: "translate(-50%, 0)",
               }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
             >
-              <Typography variant="h6">Options</Typography>
+              <Typography variant="inherit">Options</Typography>
             </Box>
             <OptionsGraphic />
           </Box>
@@ -131,12 +126,13 @@ const MobiusLoopHero = ({
             <Box
               style={{
                 position: "absolute",
-                left: "50%",
+                left: "40%",
                 top: "50%",
                 transform: "translate(-50%, -50%)",
               }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
             >
-              <Typography variant="h6">Delivery</Typography>
+              <Typography variant="inherit">Delivery</Typography>
             </Box>
             <DeliveryGraphic />
           </Box>
@@ -154,16 +150,17 @@ const MobiusLoopHero = ({
           }}
           position="relative"
           role="button"
-          style={{ cursor: "pointer" }}
+          style={{ cursor: "pointer", textAlign: "center" }}
+          fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
         >
           <FoundationGraphic />
-          <Typography align="center" color="inherit" variant="h6">
+          <Typography color="inherit" variant="inherit">
             Foundation
           </Typography>
         </Box>
       </Box>
-      {showDescriptions ? (
-        <Box maxWidth={{ xs: "100%", sm: "80%", md: "70%" }} mx="auto">
+      {showContent ? (
+        <Box mx="auto">
           <Card>
             <CardContent data-testid={`mobius-display-${section}`}>
               {sectionContent(section)}
@@ -171,6 +168,32 @@ const MobiusLoopHero = ({
           </Card>
         </Box>
       ) : null}
+      <Box display="flex" justifyContent="flex-end" fontSize=".625rem">
+        <Typography
+          align="right"
+          color="default"
+          gutterBottom
+          variant="inherit"
+        >
+          <Link
+            color="secondary"
+            href="http://mobiusloop.com"
+            rel="noopener"
+            target="_blank"
+          >
+            “Mobius Loop”
+          </Link>{" "}
+          is licensed under{" "}
+          <Link
+            color="secondary"
+            href="https://creativecommons.org/licenses/by-sa/4.0/"
+            rel="noopener"
+            target="blank"
+          >
+            CC BY-SA 4.0.
+          </Link>
+        </Typography>
+      </Box>
     </Container>
   );
 };

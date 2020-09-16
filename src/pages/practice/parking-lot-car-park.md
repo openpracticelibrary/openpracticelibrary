@@ -12,6 +12,7 @@ area: foundation-culture-and-collaboration
 tags:
   - culture
 perspectives: []
+icon: /images/needs-an-image.png
 people: 2+
 time: varies
 difficulty: easy

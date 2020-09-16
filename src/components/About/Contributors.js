@@ -1,8 +1,5 @@
 import React from "react";
-
-import PracticeCount from "./PracticeCount";
 import ContentCircle from "./ContentCircle";
-import ContributorCount from "./ContributorCount";
 import { Box, Grid, Typography } from "@material-ui/core";
 
 const Contributors = () => (
@@ -19,9 +16,8 @@ const Contributors = () => (
         <Grid item>
           <ContentCircle>
             <Typography variant="h1" component="h5" color="primary">
-              <PracticeCount color="primary" />
+              107
             </Typography>
-
             <Typography variant="h6" align="center">
               Product Lifecycle Practices
             </Typography>
@@ -30,7 +26,7 @@ const Contributors = () => (
         <Grid item>
           <ContentCircle>
             <Typography variant="h1" component="h5" color="primary">
-              <ContributorCount color="primary" />
+              73
             </Typography>
             <Typography variant="h6" align="center">
               Creative Commons Contributors

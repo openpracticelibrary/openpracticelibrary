@@ -8,9 +8,6 @@ const PageIntro = ({
   title,
   allTags,
   subtitle,
-  editing,
-  titleEdit,
-  subtitleEdit,
   authors,
   createdAt,
   updatedAt,
@@ -22,15 +19,7 @@ const PageIntro = ({
   preview,
 }) => (
   <Container maxWidth="md">
-    <TitleAndSubtitle
-      title={title}
-      tags={allTags}
-      subtitle={subtitle}
-      editing={editing}
-      titleEdit={titleEdit}
-      subtitleEdit={subtitleEdit}
-    />
-
+    <TitleAndSubtitle title={title} tags={allTags} subtitle={subtitle} />
     <ContributedBy
       authors={authors}
       createdAt={date}

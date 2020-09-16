@@ -11,7 +11,6 @@ tags:
 perspectives:
   - facilitation-tips-for-remote-sessions
 icon: /images/non-functional-requirements-map-tile.jpg
-jumbotron: ''
 people: 2+
 time: >-
   30 mins - 2 hours depending on the complexity of the system under
