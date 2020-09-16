@@ -8,10 +8,10 @@ const MobiusDescription = () => (
       </Typography>
       <Divider />
     </Box>
-    <Typography gutterBottom>
+    <Typography gutterBottom variant="body2">
       An iterative process model for rapidly developing digital products.
     </Typography>
-    <Typography>
+    <Typography variant="body2">
       The Open Practice Library is organized around this model. Filtering below
       will show you practices that fall on the relevant part of the loop.
     </Typography>

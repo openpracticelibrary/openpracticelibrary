@@ -35,7 +35,7 @@ const HistoryValues = () => (
     <Box my={4}>
       <Grid container justify="center" spacing={2}>
         <Grid item>
-          <ContentCircle size="20rem">
+          <ContentCircle size="18rem">
             <img src={FriendlyIcon} alt={"Friendly Icon"} />
             <Typography variant="h5" component="h4" color="primary">
               Friendly
@@ -47,7 +47,7 @@ const HistoryValues = () => (
           </ContentCircle>
         </Grid>
         <Grid item>
-          <ContentCircle size="20rem">
+          <ContentCircle size="18rem">
             <img src={TrustworthyIcon} alt={"Trustworthy Icon"} />
             <Typography variant="h5" component="h4" color="primary">
               Trustworthy
@@ -59,7 +59,7 @@ const HistoryValues = () => (
           </ContentCircle>
         </Grid>
         <Grid item>
-          <ContentCircle size="20rem">
+          <ContentCircle size="18rem">
             <img src={InspiringIcon} alt={"Inspiring Icon"} />
             <Typography variant="h5" component="h4" color="primary">
               Inspiring

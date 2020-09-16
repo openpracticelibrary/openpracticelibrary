@@ -16,7 +16,7 @@ const PracticeCardGrid = (props) => {
         return (
           <PracticeCard
             key={practice.node.id}
-            coverImage={practice.node.frontmatter.icon}
+            coverImage={practice.node.frontmatter.icon.childImageSharp.fluid}
             practiceId={practice.node.id}
             practiceTitle={practice.node.frontmatter.title}
             slug={practice.node.fields.slug}
