@@ -5,6 +5,7 @@ import {
   Box,
   Card,
   CardContent,
+  Link,
   Typography,
 } from "@material-ui/core";
 import MobiusDescription from "./MobiusDescription";
@@ -41,13 +42,8 @@ const sectionContent = (status) => {
 const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
   const section = displaySection.toLocaleLowerCase();
   return (
-    <Container>
-      <Box
-        maxWidth={{ xs: "100%", sm: "80%", md: "70%" }}
-        mx="auto"
-        marginTop={2}
-        marginBottom={4}
-      >
+    <Container maxWidth="md">
+      <Box mx="auto" marginTop={2} marginBottom={4}>
         <Box
           display="flex"
           alignItems="center"
@@ -158,13 +154,13 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
           fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
         >
           <FoundationGraphic />
-          <Typography align="center" color="inherit" variant="inherit">
+          <Typography color="inherit" variant="inherit">
             Foundation
           </Typography>
         </Box>
       </Box>
       {showContent ? (
-        <Box maxWidth={{ xs: "100%", sm: "80%", md: "70%" }} mx="auto">
+        <Box mx="auto">
           <Card>
             <CardContent data-testid={`mobius-display-${section}`}>
               {sectionContent(section)}
@@ -172,6 +168,32 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
           </Card>
         </Box>
       ) : null}
+      <Box display="flex" justifyContent="flex-end" fontSize=".625rem">
+        <Typography
+          align="right"
+          color="default"
+          gutterBottom
+          variant="inherit"
+        >
+          <Link
+            color="secondary"
+            href="http://mobiusloop.com"
+            rel="noopener"
+            target="_blank"
+          >
+            “Mobius Loop”
+          </Link>{" "}
+          is licensed under{" "}
+          <Link
+            color="secondary"
+            href="https://creativecommons.org/licenses/by-sa/4.0/"
+            rel="noopener"
+            target="blank"
+          >
+            CC BY-SA 4.0.
+          </Link>
+        </Typography>
+      </Box>
     </Container>
   );
 };

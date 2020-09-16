@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Container } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
-import FilterTags from "./FilterBar/FilterTags";
+import FilterTags from "./FilterTags";
 
 const Practices = ({
   children,
