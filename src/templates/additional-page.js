@@ -22,23 +22,27 @@ const Image = (props) => (
 
 const AdditionalPage = (props) => {
   return (
-    <Layout ogContent={{
-      title: "Open Practice Library",
-      desc: "Practices that empower teams to collaborate and deliver iteratively",
-      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
-    }}>
+    <Layout
+      ogContent={{
+        title: "Open Practice Library",
+        desc:
+          "Practices that empower teams to collaborate and deliver iteratively",
+        image:
+          "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+      }}
+    >
       <Box data-testid="additionalPage" display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1}>
-          <Box px={6}>
+          <Container maxWidth="md">
             <Typography component="h1" variant="h3">
               {props.data.markdownRemark.frontmatter.title}
             </Typography>
-          </Box>
+          </Container>
         </HeroColor>
-          <Box alignSelf="center" my={4}>
-            <Container maxWidth="md">
-              <PageBodyData {...props} />
-            </Container>
+        <Box alignSelf="center" my={4}>
+          <Container maxWidth="md">
+            <PageBodyData {...props} />
+          </Container>
         </Box>
       </Box>
     </Layout>

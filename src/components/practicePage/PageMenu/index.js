@@ -1,40 +1,13 @@
 import React from "react";
-import { makeStyles } from "@material-ui/core/styles";
-import SocialLinks from "./SocialLinks";
-import PropTypes from "prop-types";
 import {
-  Toolbar,
+  Box,
   Container,
-  Grid,
+  Divider,
+  Toolbar,
   Button,
-  Typography,
   Hidden,
 } from "@material-ui/core";
-
-const useStyles = makeStyles((theme) => ({
-  root: {
-    flexGrow: 1,
-    display: "flex",
-    flexDirection: "column",
-    justifyContent: "space-evenly",
-    padding: theme.spacing(2, 0),
-  },
-  wrapBox: {
-    display: "flex",
-    flexWrap: "wrap",
-    justifyContent: "center",
-    textAlign: "center",
-  },
-  menuLinks: {
-    maxWidth: "700px",
-  },
-  pageNavButton: {
-    borderRadius: "16.5px",
-    "&:focus": {
-      backgroundColor: theme.palette.primary.light,
-    },
-  },
-}));
+import SocialLinks from "./SocialLinks";
 
 const sections = [
   { title: "What", ref: "whatIsRef" },
@@ -42,58 +15,57 @@ const sections = [
   { title: "How", ref: "howToRef" },
   { title: "Look", ref: "mediaRef" },
   { title: "Links", ref: "resourceRef" },
+  { title: "Discuss", ref: "discussRef" },
 ];
 
 export default function PageMenu(props) {
-  const classes = useStyles();
-
-  const handleClick = (ref) => {
+  const scrollTo = (ref) => {
     props[ref].current.scrollIntoView({
       behavior: "smooth",
       block: "start",
     });
   };
   return (
-    <Toolbar component="nav" variant="dense" className={classes.root}>
-      <Grid container direction="row" justify="center">
-        <Grid item xs={false} md={1} xl={2}></Grid>
-        <Hidden only="xs">
-          <Grid item md={6} xl={5}>
-            <Container maxWidth="md">
-              <Grid
-                container
-                direction="row"
-                justify="space-between"
-                alignItems="flex-start"
-                spacing={1}
-              >
+    <Box
+      position="sticky"
+      top={0}
+      bgcolor="white"
+      marginBottom={3}
+      zIndex="appBar"
+    >
+      <Toolbar component="nav">
+        <Container maxWidth="md">
+          <Box
+            display="flex"
+            alignItems="center"
+            justifyContent="space-between"
+          >
+            <Box>
+              <Hidden xsDown>
                 {sections.map((section, i) => (
-                  <Grid item key={i}>
-                    <Button
-                      onClick={() => handleClick(section.ref)}
-                      className={classes.pageNavButton}
-                    >
-                      <Typography variant="overline">{section.title}</Typography>
-                    </Button>
-                  </Grid>
+                  <Button
+                    color="default"
+                    disableElevation
+                    onClick={() => scrollTo(section.ref)}
+                    size="small"
+                    variant="text"
+                  >
+                    {section.title}
+                  </Button>
                 ))}
-              </Grid>
-            </Container>
-          </Grid>
-        </Hidden>
-        <Grid item xs={12} md={4}>
-          <SocialLinks
-            practiceId={props.practiceId}
-            upvotes={props.upvotes}
-            coverImage={props.coverImage}
-          />
-        </Grid>
-      </Grid>
-    </Toolbar>
+              </Hidden>
+            </Box>
+            <Box>
+              <SocialLinks
+                coverImage={props.coverImage}
+                practiceId={props.practiceId}
+                upvotes={props.upvotes}
+              />
+            </Box>
+          </Box>
+        </Container>
+      </Toolbar>
+      <Divider />
+    </Box>
   );
 }
-
-PageMenu.propTypes = {
-  sections: PropTypes.array,
-  title: PropTypes.string,
-};
