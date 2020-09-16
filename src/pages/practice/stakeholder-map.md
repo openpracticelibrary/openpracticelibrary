@@ -18,6 +18,7 @@ participants:
   - Facilitator
   - Key Actors
 tags: []
+icon: /images/needs-an-image.png
 whatIs: >-
   It is a practice that helps you to understand more about your customer,
   mapping stakeholders and agreeing ways of communicating with different

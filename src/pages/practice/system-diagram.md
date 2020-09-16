@@ -7,6 +7,7 @@ authors:
   - zedr
 area: discovery-loop-why
 people: 1+
+icon: /images/needs-an-image.png
 time: '15 minutes or more, as required to flesh out all the components of the diagram'
 difficulty: moderate
 participants:
