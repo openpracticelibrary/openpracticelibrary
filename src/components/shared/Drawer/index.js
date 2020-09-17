@@ -67,18 +67,27 @@ const OPLDrawer = () => {
           open={open}
           transitionDuration={200}
         >
-          <Box height="100vh" position="relative">
-            <Box
-              display="flex"
-              alignItems="center"
-              justifyContent="space-between"
-              paddingTop={2}
-              px={2}
-            >
-              <Logo small horizontal />
+          <Box
+            height="100vh"
+            position="relative"
+            display="flex"
+            flexDirection="column"
+            justifyContent="space-between"
+          >
+            <Box>
+              <Box
+                display="flex"
+                alignItems="center"
+                justifyContent="center"
+                paddingTop={2}
+              >
+                <Logo small horizontal />
+              </Box>
+              <ListItems drawerOpen={open} toggle={toggle} />
             </Box>
-            <ListItems drawerOpen={open} toggle={toggle} />
-            <DrawerFooter />
+            <Box marginBottom={4}>
+              <DrawerFooter />
+            </Box>
             <Box position="absolute" bottom={0} right={0} m={1}>
               <Fab
                 onClick={toggle}
