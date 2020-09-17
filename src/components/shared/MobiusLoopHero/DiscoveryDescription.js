@@ -7,8 +7,10 @@ const DiscoveryDescription = () => (
       important questions about outcomes.
     </Typography>
     <Typography variant="body2">
-      Why are you doing this? What problems are you trying to solve, and for
-      whom? How will you measure the results?
+      <i>
+        Why are you doing this? What problems are you trying to solve, and for
+        whom? How will you measure the results?
+      </i>
     </Typography>
   </Box>
 );

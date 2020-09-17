@@ -49,7 +49,7 @@ export default function SearchContainer(props) {
 
   return (
     <>
-      <Box mx="auto" width={{ xs: 1, sm: "50%" }}>
+      <Box mx="auto" width={{ xs: 1, sm: "60%" }}>
         <form onSubmit={handleSubmit}>
           <TextField
             id="Search"
@@ -59,6 +59,7 @@ export default function SearchContainer(props) {
             data-testid="searchTextField"
             placeholder="Know the name of the practice?"
             fullWidth
+            size="small"
           />
         </form>
       </Box>
