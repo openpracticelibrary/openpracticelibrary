@@ -7,7 +7,7 @@ const DeliveryDescription = () => (
       getting feedback from the users and stakeholders.
     </Typography>
     <Typography variant="body2">
-      What was the measured impact? What did you learn?
+      <i>What was the measured impact? What did you learn?</i>
     </Typography>
   </Box>
 );
