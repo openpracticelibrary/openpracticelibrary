@@ -50,7 +50,7 @@ const OPLDrawer = () => {
       </Hidden>
 
       <Hidden mdUp>
-        <Box position="fixed" bottom={0} m={1}>
+        <Box position="fixed" bottom={0} m={1} zIndex="drawer">
           <Fab
             edge={false}
             onClick={toggle}
