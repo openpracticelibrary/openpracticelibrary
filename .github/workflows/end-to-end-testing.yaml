@@ -12,7 +12,7 @@ jobs:
 
       - name: Waiting for 200 from the Netlify Preview
         uses: jakepartusch/wait-for-netlify-action@v1.2
-        id: waitFor200
+        id: waitForDeployment
         with:
           site_name: "openpracticelibrary"
           max_timeout: 3600
