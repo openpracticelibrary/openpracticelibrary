@@ -15,6 +15,7 @@ jobs:
         id: waitForDeployment
         with:
           site_id: ${{ secrets.NETLIFY_SITE_ID }}
+          max_timeout: 3600
         env:
           NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
 
