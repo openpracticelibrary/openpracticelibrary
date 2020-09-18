@@ -63,6 +63,8 @@ howTo: >-
 
   MBPM can be paired with Value Stream Mapping. Used together, a MBPM visually details an implementation-level segment of the strategy-level value stream map. One or more Metrics-Based Process Maps may align to segments within the higher-level map.
 mediaGallery:
+  - link: https://www.youtube.com/watch?v=g1XSbEwR3bU
+  - link: https://www.youtube.com/watch?v=Bh1RwpLvGp8
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM2.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM.JPG?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM3.jpg?raw=true
