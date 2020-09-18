@@ -10,14 +10,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Wait for Netlify
-        uses: probablyup/wait-for-netlify-action@3.2.0
-        id: waitForDeployment
+      - name: Waiting for 200 from the Netlify Preview
+        uses: jakepartusch/wait-for-netlify-action@v1.2
+        id: waitFor200
         with:
-          site_id: ${{ secrets.NETLIFY_SITE_ID }}
+          site_name: "openpracticelibrary"
           max_timeout: 3600
-        env:
-          NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
 
       - name: Cypress Tests
         uses: cypress-io/github-action@v2
