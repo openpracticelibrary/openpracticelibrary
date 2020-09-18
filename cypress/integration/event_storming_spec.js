@@ -10,7 +10,4 @@ describe("Full Use Case of Selecting Event Storming", () => {
   it("Verify Title is Event Storming", () => {
     cy.get('[data-testid="title"]').contains("Event Storming");
   });
-  it("Verify Discovery Mobius Loop Tag on Event Storming", () => {
-    cy.get('[data-testid="tagLabeldiscovery"]').contains("discovery");
-  });
 });
