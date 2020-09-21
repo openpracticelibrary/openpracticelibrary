@@ -25,7 +25,7 @@ const PageBody = ({
         {whatIs && (
           <>
             <Typography gutterBottom variant="h4" ref={whatIsRef}>
-              WhatIs {title}?
+              What Is {title}?
             </Typography>
             <FullText source={whatIs} />
           </>
