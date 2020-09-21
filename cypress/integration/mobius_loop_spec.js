@@ -1,3 +1,4 @@
+
 describe("Test All Mobius Loop Filters Work as Expected", () => {
   it("Verifies the Foundation Tag link", () => {
     cy.visit("/");
