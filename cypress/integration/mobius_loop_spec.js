@@ -1,7 +1,7 @@
-
 describe("Test All Mobius Loop Filters Work as Expected", () => {
   beforeEach(() => {
     cy.visit("/");
+    cy.get('[data-testid="site-logo"]').should("be.visible");
   });
   it("Verifies the Foundation Tag link", () => {
     cy.get('[data-testid="foundation-button"]').click();
