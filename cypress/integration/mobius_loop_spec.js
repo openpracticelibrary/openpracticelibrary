@@ -1,7 +1,9 @@
 
 describe("Test All Mobius Loop Filters Work as Expected", () => {
-  it("Verifies the Foundation Tag link", () => {
+  beforeEach(() => {
     cy.visit("/");
+  });
+  it("Verifies the Foundation Tag link", () => {
     cy.get('[data-testid="foundation-button"]').click();
     cy.url().should("include", "/tags/foundation");
   });
