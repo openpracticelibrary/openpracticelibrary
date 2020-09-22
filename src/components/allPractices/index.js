@@ -6,9 +6,9 @@ import Logo from "../../components/shared/Logo";
 
 const Practices = ({ children, selectedMobiusLoopFilter }) => (
   <Container maxWidth="md">
-    <Hidden xsDown data-testid="site-logo">
+    <Hidden xsDown>
       <Box marginTop={2} marginBottom={3}>
-        <Logo small horizontal />
+        <Logo data-testid="site-logo" small horizontal />
       </Box>
     </Hidden>
     <MobiusLoopHero displaySection={selectedMobiusLoopFilter} />
