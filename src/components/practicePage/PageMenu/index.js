@@ -27,6 +27,7 @@ export default function PageMenu(props) {
   };
   return (
     <Box
+      data-testid="practice-nav"
       position="sticky"
       top={0}
       bgcolor="white"
@@ -44,6 +45,7 @@ export default function PageMenu(props) {
               <Hidden xsDown>
                 {sections.map((section, i) => (
                   <Button
+                    data-testid={`practice-nav-${section.title.toLowerCase()}`}
                     color="default"
                     disableElevation
                     onClick={() => scrollTo(section.ref)}
