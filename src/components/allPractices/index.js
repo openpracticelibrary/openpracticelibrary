@@ -1,32 +1,22 @@
 import React from "react";
-import { Box, Container } from "@material-ui/core";
+import { Box, Container, Hidden } from "@material-ui/core";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
-import FilterTags from "./FilterTags";
+import FilterBar from "./FilterBar";
+import Logo from "../../components/shared/Logo";
 
-const Practices = ({
-  children,
-  handleFilterChange,
-  mobiusLoopArray,
-  selectedMobiusLoopFilter,
-}) => (
-  <>
+const Practices = ({ children, selectedMobiusLoopFilter }) => (
+  <Container maxWidth="md">
+    <Hidden xsDown implementation="css">
+      <Box marginTop={2} marginBottom={3}>
+        <Logo data-testid="site-logo" small horizontal />
+      </Box>
+    </Hidden>
     <MobiusLoopHero displaySection={selectedMobiusLoopFilter} />
-    <Box
-      display="flex"
-      flexDirection={{ xs: "column", md: "row" }}
-      justifyContent="space-around"
-      alignItems="center"
-      py={3}
-      data-testid="popularFilterComponent"
-    >
-      <FilterTags
-        tags={mobiusLoopArray}
-        filter={handleFilterChange}
-        selectedFilter={selectedMobiusLoopFilter}
-      />
+    <Box my={{ xs: 1, md: 2, lg: 4 }}>
+      <FilterBar selectedFilter={selectedMobiusLoopFilter} />
     </Box>
-    <Container maxWidth="md">{children}</Container>
-  </>
+    {children}
+  </Container>
 );
 
 export default Practices;

@@ -1,13 +1,6 @@
 import React from "react";
 import { navigate } from "gatsby";
-import {
-  Container,
-  Box,
-  Card,
-  CardContent,
-  Link,
-  Typography,
-} from "@material-ui/core";
+import { Box, Card, CardContent, Link, Typography } from "@material-ui/core";
 import MobiusDescription from "./MobiusDescription";
 import FoundationGraphic from "./FoundationGraphic";
 import FoundationDescription from "./FoundationDescription";
@@ -42,14 +35,13 @@ const sectionContent = (status) => {
 const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
   const section = displaySection.toLocaleLowerCase();
   return (
-    <Container maxWidth="md">
-      <Box mx="auto" marginTop={2} marginBottom={4}>
-        <Box
-          display="flex"
-          alignItems="center"
-          marginBottom={2}
-          justifyContent="center"
-        >
+    <Box
+      display="flex"
+      alignItems="center"
+      flexDirection={{ xs: "column", md: "row" }}
+    >
+      <Box width={1}>
+        <Box display="flex" alignItems="center" justifyContent="center">
           <Box
             color={
               section === "discovery" || section === "all"
@@ -73,7 +65,7 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
                 top: "50%",
                 transform: "translate(-50%, -50%)",
               }}
-              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
             >
               <Typography color="inherit" variant="inherit">
                 Discovery
@@ -102,7 +94,7 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
                 left: "50%",
                 transform: "translate(-50%, 0)",
               }}
-              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
             >
               <Typography variant="inherit">Options</Typography>
             </Box>
@@ -130,7 +122,7 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
                 top: "50%",
                 transform: "translate(-50%, -50%)",
               }}
-              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
+              fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
             >
               <Typography variant="inherit">Delivery</Typography>
             </Box>
@@ -151,7 +143,7 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
           position="relative"
           role="button"
           style={{ cursor: "pointer", textAlign: "center" }}
-          fontSize={{ xs: ".75rem", sm: "1rem", md: "1.25rem" }}
+          fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
         >
           <FoundationGraphic />
           <Typography color="inherit" variant="inherit">
@@ -160,41 +152,41 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
         </Box>
       </Box>
       {showContent ? (
-        <Box mx="auto">
+        <Box width={{ xs: 1, md: 1 / 2 }} marginLeft={{ xs: 0, md: 3 }}>
           <Card>
             <CardContent data-testid={`mobius-display-${section}`}>
               {sectionContent(section)}
             </CardContent>
           </Card>
+          <Box display="flex" justifyContent="center" fontSize=".625rem">
+            <Typography
+              align="right"
+              color="default"
+              gutterBottom
+              variant="inherit"
+            >
+              <Link
+                color="secondary"
+                href="http://mobiusloop.com"
+                rel="noopener"
+                target="_blank"
+              >
+                “Mobius Loop”
+              </Link>{" "}
+              is licensed under{" "}
+              <Link
+                color="secondary"
+                href="https://creativecommons.org/licenses/by-sa/4.0/"
+                rel="noopener"
+                target="blank"
+              >
+                CC BY-SA 4.0.
+              </Link>
+            </Typography>
+          </Box>
         </Box>
       ) : null}
-      <Box display="flex" justifyContent="flex-end" fontSize=".625rem">
-        <Typography
-          align="right"
-          color="default"
-          gutterBottom
-          variant="inherit"
-        >
-          <Link
-            color="secondary"
-            href="http://mobiusloop.com"
-            rel="noopener"
-            target="_blank"
-          >
-            “Mobius Loop”
-          </Link>{" "}
-          is licensed under{" "}
-          <Link
-            color="secondary"
-            href="https://creativecommons.org/licenses/by-sa/4.0/"
-            rel="noopener"
-            target="blank"
-          >
-            CC BY-SA 4.0.
-          </Link>
-        </Typography>
-      </Box>
-    </Container>
+    </Box>
   );
 };
 

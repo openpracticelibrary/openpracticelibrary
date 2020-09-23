@@ -18,37 +18,39 @@ const OPLDrawer = () => {
           open={open}
         >
           <Box
+            positon="relative"
+            height="100vh"
             display="flex"
-            alignItems="center"
-            justifyContent="space-between"
-            paddingTop={2}
-            px={2}
+            flexDirection="column"
           >
-            {open ? (
-              <Box marginRight={2}>
-                <Logo small horizontal />
-              </Box>
-            ) : null}
-            <Fab
-              color="primary"
-              disableFocusRipple
-              data-testid="drawerActions"
-              onClick={toggle}
-              size="small"
+            <Box
+              position={open ? "absolute" : "relative"}
+              padding={1}
+              top={0}
+              right={0}
+              zIndex="drawer"
             >
-              {!open ? <MenuIcon /> : <CloseIcon />}
-            </Fab>
+              <Fab
+                color="primary"
+                disableFocusRipple
+                data-testid="drawerActions"
+                onClick={toggle}
+              >
+                {!open ? <MenuIcon /> : <CloseIcon />}
+              </Fab>
+            </Box>
+            {open && (
+              <>
+                <ListItems drawerOpen={open} toggle={toggle} />
+                <DrawerFooter />
+              </>
+            )}
           </Box>
-          {open && (
-            <>
-              <ListItems drawerOpen={open} toggle={toggle} />
-              <DrawerFooter />
-            </>
-          )}
         </Drawer>
       </Hidden>
+
       <Hidden mdUp>
-        <Box position="fixed" bottom={0} m={1}>
+        <Box position="fixed" bottom={0} m={1} zIndex="drawer">
           <Fab
             edge={false}
             onClick={toggle}
@@ -65,18 +67,27 @@ const OPLDrawer = () => {
           open={open}
           transitionDuration={200}
         >
-          <Box height="100vh" position="relative">
-            <Box
-              display="flex"
-              alignItems="center"
-              justifyContent="space-between"
-              paddingTop={2}
-              px={2}
-            >
-              <Logo small horizontal />
+          <Box
+            height="100vh"
+            position="relative"
+            display="flex"
+            flexDirection="column"
+            justifyContent="space-between"
+          >
+            <Box>
+              <Box
+                display="flex"
+                alignItems="center"
+                justifyContent="center"
+                paddingTop={2}
+              >
+                <Logo small horizontal />
+              </Box>
+              <ListItems drawerOpen={open} toggle={toggle} />
             </Box>
-            <ListItems drawerOpen={open} toggle={toggle} />
-            <DrawerFooter />
+            <Box marginBottom={4}>
+              <DrawerFooter />
+            </Box>
             <Box position="absolute" bottom={0} right={0} m={1}>
               <Fab
                 onClick={toggle}
