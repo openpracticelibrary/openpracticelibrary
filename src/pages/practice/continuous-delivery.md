@@ -43,6 +43,9 @@ resources:
   - link: https://en.wikipedia.org/wiki/Continuous_delivery
     linkType: web
     description: Wikipedia definition of Continuous delivery
+  - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
+    linkType: podcast
+    description: CI/CD Open Practice Podcast Episode
 participants:
   - Team members
 area: foundation-technical
