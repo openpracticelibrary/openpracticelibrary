@@ -72,6 +72,9 @@ resources:
   - link: https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular
     linkType: web
     description: Design Thinking
+  - link: https://podcasts.apple.com/us/podcast/retrospectives-w-mary-provinciatto/id1501715186?i=1000486726700
+    linkType: podcast
+    description: Retrospectives Open Practice Podcast Episode
   - link: https://openpracticelibrary.com/practice/design-sprint/
     linkType: web
     description: Design Sprint
