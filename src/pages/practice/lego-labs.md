@@ -241,6 +241,8 @@ mediaGallery:
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421518473-2W585GR9N7J44INP3UJJ/?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421553674-YMN9VSYC64O89H0NE2NB/ProductCon_LegoLabs_09.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421602773-VFM20NHOCKFYWR3N7MDY/?format=1500w&content-type=image%2Fpng
+  - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421820745-YWVXXMQ1CWQK3TZDQ4PY/ProductCon_LegoLabs_016.png?format=1500w&content-type=image%2Fpng
+  - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421885371-B9W87Q8V658B9LGKRUG3/ProductCon_LegoLabs_019.png?format=1500w&content-type=image%2Fpng
 resources:
   - description: Lego Labs Amazon Shopping List
     linkType: purchase
