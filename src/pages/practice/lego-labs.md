@@ -262,7 +262,8 @@ resources:
   - description: More About Product School / Creators of ProductCon
     link: https://productschool.com/?utm_source=redhat
     linkType: web
-  - description: Forbes Article Citation
+  - description: "Citation: “8 Significant Ways to Foster a Culture of
+      Experimentation” Forbes, May 21, 2019"
     link: https://www.forbes.com/sites/williamcraig/2019/05/21/8-significant-ways-to-foster-a-culture-of-experimentation/#5b3d0d6917e2
     linkType: web
 participants: []
