@@ -248,10 +248,25 @@ mediaGallery:
   - link: https://drive.google.com/file/d/1zl1x3ZX-I9_a25CyplN0yNTYzlRLbqMe/view
 resources:
   - description: Lego Labs Amazon Shopping List
-    linkType: web
+    linkType: purchase
     link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
   - description: Mars Map Image for Printing on Cardstock
     linkType: web
     link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
+  - description: Facilitator’s Guide Folder
+    link: https://drive.google.com/drive/folders/1tZzS97yfM7omaLTPFlAYOuEgTPHTVs2d?usp=sharing
+    linkType: web
+  - description: "Participant Handouts Folder "
+    link: https://drive.google.com/drive/folders/1Z0-7-hHB_R3EFl6m3HHHxTAl1j-vxS1t?usp=sharing
+    linkType: web
+  - description: Lego Labs Spotify Playlist
+    link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg
+    linkType: web
+  - description: More About Product School / Creators of ProductCon
+    link: https://productschool.com/?utm_source=redhat
+    linkType: web
+  - description: Forbes Article Citation
+    link: https://www.forbes.com/sites/williamcraig/2019/05/21/8-significant-ways-to-foster-a-culture-of-experimentation/#5b3d0d6917e2
+    linkType: web
 participants: []
 ---
