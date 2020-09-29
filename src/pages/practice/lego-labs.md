@@ -12,7 +12,7 @@ tags:
   - culture
   - learn
 mobiusTag: foundation
-icon: /images/productcon_legolabs_06.png
+icon: /images/productcon_legolabs_010.png
 whatIs: Legos inspire creativity and nostalgia, they also offer a great building
   block (no pun intended) for experimentation. This workshop is for large or
   small groups of people to experiment with software processes and is especially
