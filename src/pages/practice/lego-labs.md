@@ -250,10 +250,10 @@ resources:
   - description: Mars Map Image for Printing on Cardstock
     linkType: web
     link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
-  - description: Facilitator’s Guide Folder
+  - description: Facilitator’s Guide Templates
     link: https://drive.google.com/drive/folders/1tZzS97yfM7omaLTPFlAYOuEgTPHTVs2d?usp=sharing
     linkType: web
-  - description: "Participant Handouts Folder "
+  - description: "Participant Handouts Templates "
     link: https://drive.google.com/drive/folders/1Z0-7-hHB_R3EFl6m3HHHxTAl1j-vxS1t?usp=sharing
     linkType: web
   - description: Lego Labs Spotify Playlist
