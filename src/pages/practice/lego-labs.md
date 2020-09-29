@@ -142,7 +142,7 @@ howTo: >-
   Allow participants to self-assign into groups of three based on those roles and choose a Mars build area (Epic) to focus upon. Each product team now has a set amount of time to brainstorm together what they will build as specific Features for the Colony area chosen. These features should be noted on 3x3 sticky and consolidated.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_010.png "Ideation sessions")
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_04.png "Ideation sessions")
 
 
   ###### The teams ideating feature solutions for their build area.
@@ -160,6 +160,9 @@ howTo: >-
   Once the stack feels relevant provide an introduction to using a simple Kanban board for each team to prioritize a backlog. Discuss that the features on the Roadmap can be translated into User Stories and have the Product Managers on each team prepare to manage completion of each item added to the backlog.
 
 
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_05.png "Roadmap and prioritizing ")
+
+
   ###### Groups adding features to the Roadmap and deciding on stack rank.
 
 
@@ -172,7 +175,10 @@ howTo: >-
   Detail a basic task list for building prototypes: 1) Build 2) Approve 3) Iterate 4) Repeat. Ensure the group understands the goal is to complete more than one feature / user story from their backlog. Allow teams to deploy the prototypes to the Mars Colony Map after completing a story or provide a couple minutes at the end of the building to do so.
 
 
-  ###### ![](https://lh4.googleusercontent.com/sE2u98_b5YPYd-ST008LxfV_f7XglMKkhIH8prF9P8T9HokZN3Q2mLo0FEJGOZOdolJBkEEiTcL05uWpiV6k0nNM2EIKpjr1gJdxi0PwBLL_5eZm-kDG9AGMsfv4FFzMiRYxfe00)People who had never met each other before working closely to create a Lego prototype.
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_010.png "Building rapid prototypes")
+
+
+  ###### People who had never met each other before working closely to create a Lego prototype.
 
 
   ## STEP 6: Feedback & Options
@@ -184,7 +190,10 @@ howTo: >-
   Allow the Colonists to study the work and think out loud about what they see or do not see. Product Owners should be sure to point out any reminders about the vision or goals. Teams can then ask clarifying questions about the feedback received. Talk to the group about developing actionable insights from user feedback, and ensure it is understood how that will inform iterations in the next sprint.
 
 
-  ###### ![](https://lh6.googleusercontent.com/FtfxzpHKmtwcvyyhKzFsvdbUxY8DOHxzlLV9W2kR1sf2zJInBWLcqChBccvL9eSqofCY7L2KUaFYNl3tw2GGHf-3172mv0vQ2MiSja8mQJcZk9h-W8DlvDhbsdserpGovlV3r3Sn)Gathering feedback from the Colonists and Product Owners for iteration planning.
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_013.png "Feedback for iterations")
+
+
+  ###### Gathering feedback from the Colonists and Product Owners for iteration planning.
 
 
   Note: Most groups will immediately notice the holistic view of how each separate prototype connects with the other build areas on the Mars map. Often this develops some ideas about how to iterate, if this is not discussed Product Owners can point it out.
@@ -196,7 +205,10 @@ howTo: >-
   At this point teams should be comfortable with the sprint process and some may be ahead of the group in planning out iterations for the prototypes. Before jumping in, ensure the teams are thinking about any Hangover Work that did not get done from the first sprint. This can be incorporated into what is built next.
 
 
-  ###### ![](https://lh3.googleusercontent.com/2BUqHRsYgo9PENvofrDeQRTQ1ubBM3xI6O-fF6Pw7riolIOkfZ8N_4I0TnFxdz1LRTICiEUyWkYYBE9K9tvPWnkFbistjoIn9JIG2JX4qfrQBHjxzYcZx3uc4N1TFtTjC4WQXfXv)The full workshop room with Roadmap on the left side windows and Kanban board on the right.
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_08.png "Workshop space")
+
+
+  ###### The full workshop room with Roadmap on the left side windows and Kanban board on the right.
 
 
   ## STEP 8: Reflect & Admire
@@ -205,7 +217,10 @@ howTo: >-
   In true agile fashion, the workshop shall end with a [Retrospective](https://openpracticelibrary.com/practice/retrospectives/) for team reflection on what was learned and effectiveness of the session. Please also take time to admire how much creativity and dedication went into building an amazing lego Colony on Mars. If time is running short, consider a simple retrospective style such as Plus/Delta.
 
 
-  ###### ![](https://lh4.googleusercontent.com/_Iwnz2i0yQL1icEBwTkw-EM1fPwDn_nhSnyRJeBj7Ykc0aXpsZf0yr2apMD-GbNQf_ZzDWK4iAaPyujHoHAF9bebwRT0fIqyDY8zCLqnE7UnohbO-VI6Ack7DZXNEk3TSM3buX8v)The Colony prototypes added to Mars map with notes to identify features.
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_021.png "All prototypes on Mars map")
+
+
+  ###### The Colony prototypes added to Mars map with notes to identify features.
 
 
   **Note:** The Colony on Mars is one way to facilitate Lego Labs. If changing the scenario is what works best for participants feel free to do so!
