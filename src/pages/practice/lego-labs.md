@@ -34,7 +34,7 @@ whyDo: >-
 
   When growing a culture of experimentation it can be counterproductive to jump right into changes in process, primarily because too much too fast often deters people from adopting new ways of working.
 howTo: >-
-  A small team led this workshop at [ProductCon
+  A small team led Lego Labs at [ProductCon
   LA](https://www.meetup.com/productmanagementLA/events/265177941/) and this
   practice outlines the progress of that session, including photos of
   participants. This was with a group of 30+ product management professionals
@@ -67,15 +67,15 @@ howTo: >-
 
   * Schedule a time and place for the workshop & plan 1-3 hours
 
-  * [Create a presentation](https://drive.google.com/file/d/17qUa6JWR8ODGVqJ4IqRrTCm5n-IyZz_x/view?usp=sharing) document as facilitator’s guide (templates in ‘links we love’ below)
+  * [Create a presentation](https://drive.google.com/file/d/17qUa6JWR8ODGVqJ4IqRrTCm5n-IyZz_x/view?usp=sharing) document as facilitator’s guide (more templates in ‘links we love’ below)
 
-  * Make handouts of process overview and Colony specifics (examples below)
+  * Make handouts of [process overview](https://drive.google.com/file/d/1CAWE9y8xNi7PIE08muHn3207MRaivEGk/view?usp=sharing) and Colony specifics (more examples in links below)
 
-  * Create a space-y themed playlist to invoke a fun ambience
+  * Create a space-y themed [playlist](https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg) to invoke a fun ambience
 
-  * Supplies needed (see shopping list below): Assorted lego pieces & baseplates, sharpies, pencils & paper, printed handouts, sticky notes 3x3 + 8x6
+  * Supplies needed: Assorted lego pieces & baseplates, sharpies, pencils & paper, printed handouts, sticky notes 3x3 + 8x6 (create a [shopping list](https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share))
 
-  * Map of Mars: This can be printed on cardstock from a large image of the planet
+  * Map of Mars: This can be printed on card stock from a large image of the planet
 
   * Brainstorming food: Healthy snacks and drinks for sessions longer than an hour
 
