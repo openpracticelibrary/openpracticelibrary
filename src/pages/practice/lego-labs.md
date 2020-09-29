@@ -146,7 +146,10 @@ howTo: >-
   Allow participants to self-assign into groups of three based on those roles and choose a Mars build area (Epic) to focus upon. Each product team now has a set amount of time to brainstorm together what they will build as specific Features for the Colony area chosen. These features should be noted on 3x3 sticky and consolidated.
 
 
-  ###### ![](https://lh5.googleusercontent.com/8eOyjbxHlIV8udAkqTxRHoqMI1rIyZKk-SbnAnDeMrrBbgfsBzBpEVIv13uWdqyjWDJFDx9v9QsH7KVRS_7NnG1GgHB3C4i2EsK0-ezDvTfYnRngfCpcfSBKItAk-Zcycdqo49cH)The teams ideating feature solutions for their build area. 
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_010.png "Ideation sessions")
+
+
+  ###### The teams ideating feature solutions for their build area. 
 
 
   **Note:** Encouraging participants to choose a role on the team other than their current profession can help in gaining empathy for cross-functional tasks. For a longer workshop timeframe consider adding a quick brainstorm for the groups to create their team name.
