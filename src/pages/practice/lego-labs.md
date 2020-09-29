@@ -127,7 +127,7 @@ howTo: >-
   Next give a quick introduction to creating a Product Roadmap and explain the difference between Epics and Features. With insights from Discovery fresh in mind, ask the participants a [How Might We](https://openpracticelibrary.com/practice/hmw/) question to brainstorm out loud the high level build areas for the Colony, which will be the Epics. As ideas are shared, write those onto the 8x6 sticky pad, after ideation consolidate similar topics and collaborate on adding build areas to the Spine of the Roadmap.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_023.png "Learning from Colonist")
+  ![ProductCon - Lego Labs](/images/legolabs-opl_1.png "Learning from Colonist")
 
 
   ##### Facilitating Lego Labs at ProductCon in Los Angeles for a VIP group of conference attendees.
@@ -142,7 +142,7 @@ howTo: >-
   Allow participants to self-assign into groups of three based on those roles and choose a Mars build area (Epic) to focus upon. Each product team now has a set amount of time to brainstorm together what they will build as specific Features for the Colony area chosen. These features should be noted on 3x3 sticky and consolidated.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_04.png "Ideation sessions")
+  ![ProductCon - Lego Labs](/images/legolabs-opl_2.png "Ideation sessions")
 
 
   ###### The teams ideating feature solutions for their build area.
@@ -160,7 +160,7 @@ howTo: >-
   Once the stack feels relevant provide an introduction to using a simple Kanban board for each team to prioritize a backlog. Discuss that the features on the Roadmap can be translated into User Stories and have the Product Managers on each team prepare to manage completion of each item added to the backlog.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_05.png "Roadmap and prioritizing ")
+  ![ProductCon - Lego Labs](/images/legolabs-opl_3.png "Roadmap and prioritizing ")
 
 
   ###### Groups adding features to the Roadmap and deciding on stack rank.
@@ -175,7 +175,7 @@ howTo: >-
   Detail a basic task list for building prototypes: 1) Build 2) Approve 3) Iterate 4) Repeat. Ensure the group understands the goal is to complete more than one feature / user story from their backlog. Allow teams to deploy the prototypes to the Mars Colony Map after completing a story or provide a couple minutes at the end of the building to do so.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_010.png "Building rapid prototypes")
+  ![ProductCon - Lego Labs](/images/legolabs-opl_4.png "Building rapid prototypes")
 
 
   ###### People who had never met each other before working closely to create a Lego prototype.
@@ -190,7 +190,7 @@ howTo: >-
   Allow the Colonists to study the work and think out loud about what they see or do not see. Product Owners should be sure to point out any reminders about the vision or goals. Teams can then ask clarifying questions about the feedback received. Talk to the group about developing actionable insights from user feedback, and ensure it is understood how that will inform iterations in the next sprint.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_013.png "Feedback for iterations")
+  ![ProductCon - Lego Labs](/images/legolabs-opl_5.png "Feedback for iterations")
 
 
   ###### Gathering feedback from the Colonists and Product Owners for iteration planning.
@@ -205,7 +205,7 @@ howTo: >-
   At this point teams should be comfortable with the sprint process and some may be ahead of the group in planning out iterations for the prototypes. Before jumping in, ensure the teams are thinking about any Hangover Work that did not get done from the first sprint. This can be incorporated into what is built next.
 
 
-  ![ProductCon - Lego Labs](/images/productcon_legolabs_08.png "Workshop space")
+  ![ProductCon - Lego Labs](/images/legolabs-opl_6.png "Workshop space")
 
 
   ###### The full workshop room with Roadmap on the left side windows and Kanban board on the right.
