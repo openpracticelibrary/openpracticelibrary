@@ -34,6 +34,29 @@ whyDo: >-
 
   When growing a culture of experimentation it can be counterproductive to jump right into changes in process, primarily because too much too fast often deters people from adopting new ways of working.
 howTo: >-
+  A small team led this workshop at [ProductCon
+  LA](https://www.meetup.com/productmanagementLA/events/265177941/) and this
+  practice outlines the progress of that session, including photos of
+  participants. This was with a group of 30+ product management professionals
+  from various organizations, who met for the first time that day. The workshop
+  was facilitated over the course of 90 minutes.
+
+
+  > ### *It is the year 2099. Earth is still awesome, but overpopulated. Interplanetary City Builders, Inc. has been awarded a contract to build the First Colony on Mars.*
+
+  >
+
+  > ### *There is efficient transportation to and from the planet and the necessary infrastructure is in place for workers to build quickly. The people who will colonize Mars have visited and are aware of the challenges so they will be involved in progress reviews to provide feedback.*
+
+  >
+
+  > ### *Two employees have been assigned as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.*
+
+  >
+
+  >
+
+
   ## PLAN: Workshop Setup
 
 
@@ -96,6 +119,9 @@ howTo: >-
   The goal in this step is to help participants know what to expect. After a brief introduction to why the workshop is happening, start with a [Social Contract](https://openpracticelibrary.com/practice/social-contract/) exercise to help instill a sense of trust amongst the group. Use participant handouts to assist in understanding the scenario and logistics for building a Colony on Mars. [The Mobius Loop](https://drive.google.com/file/d/1CAWE9y8xNi7PIE08muHn3207MRaivEGk/view?usp=sharing) process map may also be printed and available to discuss phases of iteration and steps for the workshop.
 
 
+  **Note:** Use the Interplanetary City Builders, Inc. scenario outlined above or be creative and develop what works best for the session participants and business goals.
+
+
   ## STEP 2: Discovery to Roadmap
 
 
@@ -105,7 +131,10 @@ howTo: >-
   Next give a quick introduction to creating a Product Roadmap and explain the difference between Epics and Features. With insights from Discovery fresh in mind, ask the participants a [How Might We](https://openpracticelibrary.com/practice/hmw/) question to brainstorm out loud the high level build areas for the Colony, which will be the Epics. As ideas are shared, write those onto the 8x6 sticky pad, after ideation consolidate similar topics and collaborate on adding build areas to the Spine of the Roadmap.
 
 
-  ##### ![](https://lh5.googleusercontent.com/jgyl_q0of-qT1dpaXWRx_dpHoY27LNDNL80BElPjPrk_kKcgnDzAtXqXG9Z3GFLYYC0ezHVxKD0DRIFevhP5KUGrcU7q2Ee23x0Melp5eMJrFJKBlZbvIGh7E6xJ5bOH9EnTfV5Z)Facilitating Lego Labs at ProductCon in Los Angeles for a VIP group of conference attendees.
+  ![ProductCon - Lego Labs](/images/productcon_legolabs_023.png "Learning from Colonist")
+
+
+  ##### Facilitating Lego Labs at ProductCon in Los Angeles for a VIP group of conference attendees.
 
 
   ## STEP 3: Teams to Ideation
