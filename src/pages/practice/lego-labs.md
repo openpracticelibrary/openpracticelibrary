@@ -239,10 +239,12 @@ howTo: >-
 mediaGallery:
   - link: https://images.squarespace-cdn.com/content/v1/52fe796be4b0b557f85ce582/1601421361076-DHY58MPPUBOLNNHI1OUB/ke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URzgPPikUZssS1h5OCSHTE-Uiu8iG41OxdsCuqROkgDgoRwB-dUGsSquCnVTFQcaRg/ProductCon_LegoLabs_03.png?format=1500w
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421518473-2W585GR9N7J44INP3UJJ/?format=1500w&content-type=image%2Fpng
+  - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601423593717-RBNOVDYTKWS28EPDC2J1/ProductCon_LegoLabs_07.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421553674-YMN9VSYC64O89H0NE2NB/ProductCon_LegoLabs_09.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421602773-VFM20NHOCKFYWR3N7MDY/?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421820745-YWVXXMQ1CWQK3TZDQ4PY/ProductCon_LegoLabs_016.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421885371-B9W87Q8V658B9LGKRUG3/ProductCon_LegoLabs_019.png?format=1500w&content-type=image%2Fpng
+  - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601423693618-BQE30O1FU47RJV77EBYG/ProductCon_LegoLabs_020.png?format=1500w&content-type=image%2Fpng
 resources:
   - description: Facilitator’s Guide Templates
     link: https://drive.google.com/drive/folders/1tZzS97yfM7omaLTPFlAYOuEgTPHTVs2d?usp=sharing
