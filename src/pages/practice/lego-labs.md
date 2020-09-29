@@ -52,10 +52,6 @@ howTo: >-
 
   > ### *Two employees have been assigned as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.*
 
-  >
-
-  >
-
 
   ## PLAN: Workshop Setup
 
@@ -119,7 +115,7 @@ howTo: >-
   The goal in this step is to help participants know what to expect. After a brief introduction to why the workshop is happening, start with a [Social Contract](https://openpracticelibrary.com/practice/social-contract/) exercise to help instill a sense of trust amongst the group. Use participant handouts to assist in understanding the scenario and logistics for building a Colony on Mars. [The Mobius Loop](https://drive.google.com/file/d/1CAWE9y8xNi7PIE08muHn3207MRaivEGk/view?usp=sharing) process map may also be printed and available to discuss phases of iteration and steps for the workshop.
 
 
-  **Note:** Use the Interplanetary City Builders, Inc. scenario outlined above or be creative and develop what works best for the session participants and business goals.
+  **Note:** Use the Interplanetary City Builders, Inc. scenario outlined above or be creative and develop something new based on session goals.
 
 
   ## STEP 2: Discovery to Roadmap
@@ -149,7 +145,7 @@ howTo: >-
   ![ProductCon - Lego Labs](/images/productcon_legolabs_010.png "Ideation sessions")
 
 
-  ###### The teams ideating feature solutions for their build area. 
+  ###### The teams ideating feature solutions for their build area.
 
 
   **Note:** Encouraging participants to choose a role on the team other than their current profession can help in gaining empathy for cross-functional tasks. For a longer workshop timeframe consider adding a quick brainstorm for the groups to create their team name.
@@ -200,7 +196,7 @@ howTo: >-
   At this point teams should be comfortable with the sprint process and some may be ahead of the group in planning out iterations for the prototypes. Before jumping in, ensure the teams are thinking about any Hangover Work that did not get done from the first sprint. This can be incorporated into what is built next.
 
 
-  ###### ![](https://lh3.googleusercontent.com/2BUqHRsYgo9PENvofrDeQRTQ1ubBM3xI6O-fF6Pw7riolIOkfZ8N_4I0TnFxdz1LRTICiEUyWkYYBE9K9tvPWnkFbistjoIn9JIG2JX4qfrQBHjxzYcZx3uc4N1TFtTjC4WQXfXv)The full workshop room with Roadmap on the left side windows and Kanban board on the right. 
+  ###### ![](https://lh3.googleusercontent.com/2BUqHRsYgo9PENvofrDeQRTQ1ubBM3xI6O-fF6Pw7riolIOkfZ8N_4I0TnFxdz1LRTICiEUyWkYYBE9K9tvPWnkFbistjoIn9JIG2JX4qfrQBHjxzYcZx3uc4N1TFtTjC4WQXfXv)The full workshop room with Roadmap on the left side windows and Kanban board on the right.
 
 
   ## STEP 8: Reflect & Admire
@@ -209,7 +205,7 @@ howTo: >-
   In true agile fashion, the workshop shall end with a [Retrospective](https://openpracticelibrary.com/practice/retrospectives/) for team reflection on what was learned and effectiveness of the session. Please also take time to admire how much creativity and dedication went into building an amazing lego Colony on Mars. If time is running short, consider a simple retrospective style such as Plus/Delta.
 
 
-  ###### ![](https://lh4.googleusercontent.com/_Iwnz2i0yQL1icEBwTkw-EM1fPwDn_nhSnyRJeBj7Ykc0aXpsZf0yr2apMD-GbNQf_ZzDWK4iAaPyujHoHAF9bebwRT0fIqyDY8zCLqnE7UnohbO-VI6Ack7DZXNEk3TSM3buX8v)The Colony prototypes added to Mars map with notes to identify features. 
+  ###### ![](https://lh4.googleusercontent.com/_Iwnz2i0yQL1icEBwTkw-EM1fPwDn_nhSnyRJeBj7Ykc0aXpsZf0yr2apMD-GbNQf_ZzDWK4iAaPyujHoHAF9bebwRT0fIqyDY8zCLqnE7UnohbO-VI6Ack7DZXNEk3TSM3buX8v)The Colony prototypes added to Mars map with notes to identify features.
 
 
   **Note:** The Colony on Mars is one way to facilitate Lego Labs. If changing the scenario is what works best for participants feel free to do so!
