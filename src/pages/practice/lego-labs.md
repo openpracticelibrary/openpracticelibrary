@@ -25,11 +25,11 @@ whyDo: >-
   successes while fostering camaraderie with teammates.
 
 
-  > ### *“One of the best things a company can do when it comes to innovation is to provide employees with the time and resources they need to freely experiment with new techniques....”* 
+  > ### *“One of the best things a company can do when it comes to innovation is to provide employees with the time and resources they need to freely experiment with new techniques....”*
 
   >
 
-  > ##### *— See “8 Significant Ways to Foster a Culture of Experimentation” Forbes, May 21, 2019*
+  > ##### *— “8 Significant Ways to Foster a Culture of Experimentation” Forbes, May 21, 2019*
 
 
   When growing a culture of experimentation it can be counterproductive to jump right into changes in process, primarily because too much too fast often deters people from adopting new ways of working.
@@ -246,6 +246,7 @@ mediaGallery:
   - link: https://drive.google.com/file/d/1xEqioOID9BUfigbjuWjnW7qKmPtrEFd8/view
   - link: https://drive.google.com/file/d/1vC3boce_Oog9PotLwTN_PIC3cvAKopbI/view
   - link: https://drive.google.com/file/d/1zl1x3ZX-I9_a25CyplN0yNTYzlRLbqMe/view
+  - link: https://images.squarespace-cdn.com/content/v1/52fe796be4b0b557f85ce582/1601421361076-DHY58MPPUBOLNNHI1OUB/ke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URzgPPikUZssS1h5OCSHTE-Uiu8iG41OxdsCuqROkgDgoRwB-dUGsSquCnVTFQcaRg/ProductCon_LegoLabs_03.png?format=1500w
 resources:
   - description: Lego Labs Amazon Shopping List
     linkType: purchase
