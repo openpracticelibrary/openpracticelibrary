@@ -236,5 +236,7 @@ howTo: >-
 
 
   The online lego modeling platform [mecabricks.com](https://www.mecabricks.com/) is an option for virtual building. Some other tools that work well for ideation and visual collaboration include [mural.co](https://mural.co/), [miro.com](https://miro.com/) or [Freehand](https://www.invisionapp.com/lp/ss-freehand-gen), and of course a video conference platform that works best for all participants involved should be utilized.
+mediaGallery:
+  - link: https://drive.google.com/file/d/1Fs1JheVPGTXJAjAwIJEUiVTuTZaOdHF3/view
 participants: []
 ---
