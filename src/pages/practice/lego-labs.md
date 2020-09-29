@@ -246,5 +246,12 @@ mediaGallery:
   - link: https://drive.google.com/file/d/1xEqioOID9BUfigbjuWjnW7qKmPtrEFd8/view
   - link: https://drive.google.com/file/d/1vC3boce_Oog9PotLwTN_PIC3cvAKopbI/view
   - link: https://drive.google.com/file/d/1zl1x3ZX-I9_a25CyplN0yNTYzlRLbqMe/view
+resources:
+  - description: Lego Labs Amazon Shopping List
+    linkType: web
+    link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
+  - description: Mars Map Image for Printing on Cardstock
+    linkType: web
+    link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
 participants: []
 ---
