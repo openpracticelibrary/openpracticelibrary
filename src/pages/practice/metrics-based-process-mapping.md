@@ -35,8 +35,6 @@ howTo: >-
   * Chalk line can be useful, but not required
 
 
-
-
   Metrics-Based Process Mapping should be used to map out specific process steps for an agreed upon process. Through facilitation, work together to define each process step, aligned to responsible actors. For each step, estimate the following metrics:
 
 
@@ -61,7 +59,7 @@ howTo: >-
   * The future state map is typically done as part of the Outcomes area of the Discovery of the Open Practice Library.
 
 
-  MBPM can be paired with Value Stream Mapping. Used together, a MBPM visually details an implementation-level segment of the strategy-level value stream map. One or more Metrics-Based Process Maps may align to segments within the higher-level map.
+  MBPM can be paired with [Value Stream Mapping](https://openpracticelibrary.com/practice/vsm-and-mbpm/). Used together, a MBPM visually details an implementation-level segment of the strategy-level value stream map. One or more Metrics-Based Process Maps may align to segments within the higher-level map.
 mediaGallery:
   - link: https://www.youtube.com/watch?v=g1XSbEwR3bU
   - link: https://www.youtube.com/watch?v=Bh1RwpLvGp8
@@ -76,6 +74,9 @@ resources:
   - link: https://tkmg.com/books/metrics-based-process-mapping/
     linkType: web
     description: MBPM Book
+  - link: https://openpracticelibrary.com/practice/vsm-and-mbpm/
+    linkType: web
+    description: Value Stream Mapping Practice
 time: 4+ hours
 participants:
   - Facilitator
