@@ -14,7 +14,7 @@ tags:
 mobiusTag: foundation
 icon: /images/productcon_legolabs_010.png
 whatIs: Legos inspire creativity and nostalgia, they also offer a great building
-  block (no pun intended 😜 ) for experimentation. This workshop is for large or
+  block for experimentation (no pun intended 😜 ). This workshop is for large or
   small groups of people to experiment with software processes and is especially
   helpful in gaining buy-in for new ways of working. The session touches upon
   human-centered design, lean product development and agile delivery.
