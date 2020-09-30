@@ -14,7 +14,7 @@ tags:
 mobiusTag: foundation
 icon: /images/productcon_legolabs_010.png
 whatIs: Legos inspire creativity and nostalgia, they also offer a great building
-  block (no pun intended) for experimentation. This workshop is for large or
+  block (no pun intended 😜 ) for experimentation. This workshop is for large or
   small groups of people to experiment with software processes and is especially
   helpful in gaining buy-in for new ways of working. The session touches upon
   human-centered design, lean product development and agile delivery.
@@ -42,7 +42,7 @@ howTo: >-
   was facilitated over the course of 90 minutes.
 
 
-  > ### *It is the year 2099. Earth is still awesome, but overpopulated. Interplanetary City Builders, Inc. has been awarded a contract to build the First Colony on Mars.*
+  > ### *It is the year 2099. Earth is still awesome, but overpopulated. Interplanetary City Builders, Inc. has been awarded a contract to build the First Colony on Mars.* 👽
 
   >
 
@@ -229,7 +229,7 @@ howTo: >-
   \_\_\_\__
 
 
-  ## Tips for remote facilitation:
+  ## ➡️ Tips for remote facilitation: ⬅️
 
 
   The goal of Lego Labs is less about what is built and more about the practice and collaboration. This workshop can be redefined for a virtual environment by changing the scenario and setting.
