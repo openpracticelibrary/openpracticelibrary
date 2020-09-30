@@ -52,8 +52,12 @@ howTo: >-
 
   > ### *Two employees have been assigned as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.*
 
+  >
 
-  ## PLAN: Workshop Setup
+  >
+
+
+  ## ✔️ PLAN: Workshop Setup
 
 
   There is pre-production that will need to be completed as well as supplies prepared. Some things to consider include:
@@ -83,7 +87,7 @@ howTo: >-
   **Note:** Determining who should participate can be tough. In addition to cross-functional product team roles it is important to include leadership and different lines of business, which will help gain empathy and understanding of processes across an entire organization.
 
 
-  ## STEP 0: Agenda
+  ## ✔️ STEP 0: Agenda
 
 
   Every good session should have an agenda. These steps can be added to a whiteboard or printed for participants to have an overview of the time together.
@@ -109,7 +113,7 @@ howTo: >-
   Plan the workshop according to the timeframe available. Each step can be shortened or lengthened based upon what is desired to be learned. For example, the second sprint can be removed or some of the exercises combined if necessary.
 
 
-  ## STEP 1: Intro & Scenario
+  ## ✔️ STEP 1: Intro & Scenario
 
 
   The goal in this step is to help participants know what to expect. After a brief introduction to why the workshop is happening, start with a [Social Contract](https://openpracticelibrary.com/practice/social-contract/) exercise to help instill a sense of trust amongst the group. Use participant handouts to assist in understanding the scenario and logistics for building a Colony on Mars. [The Mobius Loop](https://drive.google.com/file/d/1CAWE9y8xNi7PIE08muHn3207MRaivEGk/view?usp=sharing) process map may also be printed and available to discuss phases of iteration and steps for the workshop.
@@ -118,7 +122,7 @@ howTo: >-
   **Note:** Use the Interplanetary City Builders, Inc. scenario outlined above or be creative and develop something new based on session goals.
 
 
-  ## STEP 2: Discovery to Roadmap
+  ## ✔️ STEP 2: Discovery to Roadmap
 
 
   First is Discovery of the problem space where participants have an opportunity to ask questions of the Product Owners and the Colonists. Give a quick overview on how to conduct qualitative research and encourage note-taking on an [Empathy Map](https://openpracticelibrary.com/practice/empathy-mapping/), then allow the participants to ask open-ended questions and learn more. The goal is to get an understanding of the challenges and determine areas of the Colony that must be built.
@@ -133,7 +137,7 @@ howTo: >-
   ##### Facilitating Lego Labs at ProductCon in Los Angeles for a VIP group of conference attendees.
 
 
-  ## STEP 3: Teams to Ideation
+  ## ✔️ STEP 3: Teams to Ideation
 
 
   Now that the Colony Epics have been determined, give an overview about working in cross-functional teams. Discuss the role of a Product Manager as voice of the business, a Product Designer as voice of the user, and a Software Engineer as voice of the system.
@@ -151,7 +155,7 @@ howTo: >-
   **Note:** Encouraging participants to choose a role on the team other than their current profession can help in gaining empathy for cross-functional tasks. For a longer workshop timeframe consider adding a quick brainstorm for the groups to create their team name.
 
 
-  ## STEP 4: Sprint 1 Planning
+  ## ✔️ STEP 4: Sprint 1 Planning
 
 
   Allow the teams to add features under the Epic on the roadmap and discuss that this gives a holistic view across each build area. Give an overview of how to prioritize a stack rank of the Features based upon User Value – with most valuable features at the top of the stack.
@@ -166,7 +170,7 @@ howTo: >-
   ###### Groups adding features to the Roadmap and deciding on stack rank.
 
 
-  ## STEP 5: Sprint 1 Delivery
+  ## ✔️ STEP 5: Sprint 1 Delivery
 
 
   Refer to the Mobius Loop handout and explain moving through to the Delivery phase of the product development process. Give an overview of the feedback loop cycles for Build, Measure, Learn. Ensure team members keep the vision and Colonist’s needs in-mind.
@@ -181,7 +185,7 @@ howTo: >-
   ###### People who had never met each other before working closely to create a Lego prototype.
 
 
-  ## STEP 6: Feedback & Options
+  ## ✔️ STEP 6: Feedback & Options
 
 
   Refer back to the Mobius Loop and discuss the Options pivot, this is the time when teams will decide how to iterate based upon feedback. Provide some time for the entire group to now look at the prototypes holistically on the map.
@@ -199,7 +203,7 @@ howTo: >-
   Note: Most groups will immediately notice the holistic view of how each separate prototype connects with the other build areas on the Mars map. Often this develops some ideas about how to iterate, if this is not discussed Product Owners can point it out.
 
 
-  ## STEP 7: Sprint 2 Planning & Delivery
+  ## ✔️ STEP 7: Sprint 2 Planning & Delivery
 
 
   At this point teams should be comfortable with the sprint process and some may be ahead of the group in planning out iterations for the prototypes. Before jumping in, ensure the teams are thinking about any Hangover Work that did not get done from the first sprint. This can be incorporated into what is built next.
@@ -211,7 +215,7 @@ howTo: >-
   ###### The full workshop room with Roadmap on the left side windows and Kanban board on the right.
 
 
-  ## STEP 8: Reflect & Admire
+  ## ✔️ STEP 8: Reflect & Admire
 
 
   In true agile fashion, the workshop shall end with a [Retrospective](https://openpracticelibrary.com/practice/retrospectives/) for team reflection on what was learned and effectiveness of the session. Please also take time to admire how much creativity and dedication went into building an amazing lego Colony on Mars. If time is running short, consider a simple retrospective style such as Plus/Delta.
