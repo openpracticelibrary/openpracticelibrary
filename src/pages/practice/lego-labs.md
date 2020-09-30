@@ -46,11 +46,11 @@ howTo: >-
 
   >
 
-  > ### *There is efficient transportation to and from the planet and the necessary infrastructure is in place for workers to build quickly. The people who will colonize Mars have visited and are aware of the challenges so they will be involved in progress reviews to provide feedback.*
+  > ### *There is efficient transportation* 🚀 *to and from the planet and the necessary infrastructure is in place for workers to build quickly. The people who will colonize Mars have visited and are aware of the challenges so they will be involved in progress reviews to provide feedback.*
 
   >
 
-  > ### *Two employees have been assigned as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.*
+  > ### *Two employees have been hired as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.* 🧰
 
   >
 
