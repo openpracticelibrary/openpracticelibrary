@@ -250,27 +250,27 @@ mediaGallery:
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421885371-B9W87Q8V658B9LGKRUG3/ProductCon_LegoLabs_019.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601423693618-BQE30O1FU47RJV77EBYG/ProductCon_LegoLabs_020.png?format=1500w&content-type=image%2Fpng
 resources:
-  - description: Facilitator’s Guide Templates
-    link: https://drive.google.com/drive/folders/1tZzS97yfM7omaLTPFlAYOuEgTPHTVs2d?usp=sharing
-    linkType: web
-  - description: Lego Labs Amazon Shopping List
-    linkType: purchase
-    link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
-  - description: "Participant Handouts Templates "
-    link: https://drive.google.com/drive/folders/1Z0-7-hHB_R3EFl6m3HHHxTAl1j-vxS1t?usp=sharing
-    linkType: web
-  - description: Mars Map Image for Printing on Cardstock
-    linkType: web
-    link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
-  - description: Lego Labs Spotify Playlist
-    link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg
-    linkType: web
-  - description: More About Product School - Creators of ProductCon
-    link: https://productschool.com/?utm_source=redhat
-    linkType: web
   - description: Citation - “8 Significant Ways to Foster a Culture of
       Experimentation” Forbes, May 21, 2019
     link: https://www.forbes.com/sites/williamcraig/2019/05/21/8-significant-ways-to-foster-a-culture-of-experimentation/#5b3d0d6917e2
     linkType: web
+  - description: More About Product School - Creators of ProductCon
+    link: https://productschool.com/?utm_source=redhat
+    linkType: web
+  - description: Facilitator’s Guide Templates
+    link: https://drive.google.com/drive/folders/1tZzS97yfM7omaLTPFlAYOuEgTPHTVs2d?usp=sharing
+    linkType: web
+  - description: "Participant Handouts Templates "
+    link: https://drive.google.com/drive/folders/1Z0-7-hHB_R3EFl6m3HHHxTAl1j-vxS1t?usp=sharing
+    linkType: web
+  - description: Lego Labs Amazon Shopping List
+    linkType: purchase
+    link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
+  - description: Lego Labs Spotify Playlist
+    link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg
+    linkType: web
+  - description: Mars Map Image for Printing on Cardstock
+    linkType: web
+    link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
 participants: []
 ---
