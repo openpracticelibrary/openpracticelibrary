@@ -29,7 +29,7 @@ whyDo: >-
 
   >
 
-  > ##### *— “8 Significant Ways to Foster a Culture of Experimentation” Forbes, May 21, 2019*
+  > ##### *— “8 Significant Ways to Foster a Culture of Experimentation,” Forbes*
 
 
   When growing a culture of experimentation it can be counterproductive to jump right into changes in process, primarily because too much too fast often deters people from adopting new ways of working.
