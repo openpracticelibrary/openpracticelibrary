@@ -241,7 +241,7 @@ howTo: >-
 
   The online lego modeling platform [mecabricks.com](https://www.mecabricks.com/) is an option for virtual building. Some other tools that work well for ideation and visual collaboration include [mural.co](https://mural.co/), [miro.com](https://miro.com/) or [Freehand](https://www.invisionapp.com/lp/ss-freehand-gen), and of course a video conference platform that works best for all participants involved should be utilized.
 mediaGallery:
-  - link: https://images.squarespace-cdn.com/content/v1/52fe796be4b0b557f85ce582/1601421361076-DHY58MPPUBOLNNHI1OUB/ke17ZwdGBToddI8pDm48kCPztTQZpDiZMOuuCfUxiyx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URzgPPikUZssS1h5OCSHTE-Uiu8iG41OxdsCuqROkgDgoRwB-dUGsSquCnVTFQcaRg/ProductCon_LegoLabs_03.png?format=1500w
+  - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421361076-DHY58MPPUBOLNNHI1OUB/ProductCon_LegoLabs_03.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421518473-2W585GR9N7J44INP3UJJ/?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601423593717-RBNOVDYTKWS28EPDC2J1/ProductCon_LegoLabs_07.png?format=1500w&content-type=image%2Fpng
   - link: https://images.squarespace-cdn.com/content/52fe796be4b0b557f85ce582/1601421553674-YMN9VSYC64O89H0NE2NB/ProductCon_LegoLabs_09.png?format=1500w&content-type=image%2Fpng
