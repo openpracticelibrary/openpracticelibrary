@@ -254,22 +254,22 @@ resources:
       Experimentation” Forbes, May 21, 2019
     link: https://www.forbes.com/sites/williamcraig/2019/05/21/8-significant-ways-to-foster-a-culture-of-experimentation/#5b3d0d6917e2
     linkType: web
-  - description: More About Product School - Creators of ProductCon
+  - description: Photos - More About Product School the creators of ProductCon
     link: https://productschool.com/?utm_source=redhat
     linkType: web
-  - description: Facilitator’s Guide Templates
+  - description: Templates - Facilitator’s Guide Presentation and more...
     link: https://drive.google.com/drive/folders/1tZzS97yfM7omaLTPFlAYOuEgTPHTVs2d?usp=sharing
     linkType: web
-  - description: "Participant Handouts Templates "
+  - description: Templates - Participant Handout Examples
     link: https://drive.google.com/drive/folders/1Z0-7-hHB_R3EFl6m3HHHxTAl1j-vxS1t?usp=sharing
     linkType: web
-  - description: Lego Labs Amazon Shopping List
+  - description: Shopping - Lego Labs Amazon List
     linkType: purchase
     link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
-  - description: Lego Labs Spotify Playlist
+  - description: "Playlist - Lego Labs on Spotify "
     link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg
     linkType: web
-  - description: Mars Map Image for Printing on Cardstock
+  - description: Mars Map - Use this Image for Printing on Cardstock
     linkType: web
     link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
 participants: []
