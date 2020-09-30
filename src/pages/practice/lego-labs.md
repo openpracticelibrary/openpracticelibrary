@@ -52,10 +52,6 @@ howTo: >-
 
   > ### *Two employees have been hired as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.* 🛠
 
-  >
-
-  >
-
 
   ## ✔️ PLAN: Workshop Setup
 
@@ -233,7 +229,7 @@ howTo: >-
   \_\_\_\__
 
 
-  ## ➡️ Tips for remote facilitation: ⬅️
+  ## ➡️ Tips for remote facilitation! ⬅️
 
 
   The goal of Lego Labs is less about what is built and more about the practice and collaboration. This workshop can be redefined for a virtual environment by changing the scenario and setting.
