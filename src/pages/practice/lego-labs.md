@@ -50,7 +50,7 @@ howTo: >-
 
   >
 
-  > ### *Two employees have been hired as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.* 🧰
+  > ### *Two employees have been hired as Product Owners to guide the direction, Colonists are available to learn from, and a team of people are ready to start building.* 🛠
 
   >
 
