@@ -266,7 +266,7 @@ resources:
   - description: Shopping - Lego Labs Amazon List
     linkType: purchase
     link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
-  - description: Music - Lego Labs on Spotify playlist
+  - description: Music - Lego Labs Spotify playlist
     link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg
     linkType: web
   - description: Mars Map - Image for printing on card stock
