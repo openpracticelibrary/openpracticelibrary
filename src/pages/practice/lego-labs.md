@@ -46,7 +46,7 @@ howTo: >-
 
   >
 
-  > ### *There is efficient transportation* 🚀 *to and from the planet and the necessary infrastructure is in place for workers to build quickly. The people who will colonize Mars have visited and are aware of the challenges so they will be involved in progress reviews to provide feedback.*
+  > ### *There is efficient transportation to-and-from the planet* 🚀 *and the necessary infrastructure is in place for workers to build quickly. The people who will colonize Mars have visited and are aware of the challenges so they will be involved in progress reviews to provide feedback.*
 
   >
 
