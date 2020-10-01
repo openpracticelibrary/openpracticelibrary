@@ -2,7 +2,7 @@
 templateKey: practice-page
 title: Leaders Eat Last
 subtitle: Building Trust Between Leaders and Teams
-date: 2019-04-04T18:35:43.849Z
+date: 2020-10-01T20:58:55.856Z
 authors:
   - pcarney8
   - david-beltz
