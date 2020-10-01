@@ -74,7 +74,7 @@ const PageBody = ({
           </>
         )}
         <Typography ref={discussRef} variant="h4">
-          Ask Us Anything
+          Discuss with the Community
         </Typography>
         <HyvorTalk.Embed websiteId={1961} />
       </Box>
