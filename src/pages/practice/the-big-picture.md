@@ -48,13 +48,17 @@ howTo: >-
 mediaGallery:
   - link: https://www.youtube.com/watch?v=qXb1naW0zdY
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/big-pic.png?raw=true
-time: 60mins
+resources:
+  - link: https://podcasts.apple.com/us/podcast/the-big-picture-w-haitham-shahin/id1501715186?i=1000488772813
+    linkType: podcast
+    description: Big Picture Open Practice Podcast Episode
 participants:
   - The Dev Team
   - The PO & Designers
 jumbotron: /images/big-pic.png
 area: foundation-technical
 people: 3+
+time: 60mins
 perspectives: []
 difficulty: easy
 jumbotronAlt: example-big-picture

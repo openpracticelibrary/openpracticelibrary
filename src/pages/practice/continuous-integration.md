@@ -30,6 +30,9 @@ howTo: The tests and build steps are typically run in an automation server such
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous-integration-1.png?raw=true
 resources:
+  - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
+    linkType: podcast
+    description: CI/CD Open Practice Podcast Episode
   - link: https://jenkins.io/
     linkType: web
     description: Jenkins
