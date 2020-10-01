@@ -23,6 +23,6 @@ To let us know about something that you'd like to see added or improved, [open a
 
 To contribute content, [log into the CMS](/admin/), or click the "add new practice" or "improve this practice" links throughout the site. For more information, see [Editorial Style](/page/editorial/) and [Using the CMS](/page/cms/).
 
-To learn more about contributing code, see [DEVELOPING.md](https://github.com/openpracticelibrary/openpracticelibrary/blob/staging/DEVELOPING.md).
+To learn more about contributing code, see [DEVELOPING.md](https://github.com/openpracticelibrary/openpracticelibrary/blob/master/DEVELOPING.md).
 
 We look forward to working with you to move the Open Practice Library forward!
