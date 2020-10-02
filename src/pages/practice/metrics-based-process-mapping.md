@@ -6,6 +6,7 @@ authors:
   - prakritiverma
   - mtakane
 mobiusTag: discovery
+templateKey: practice-page
 icon: /images/mbpm2.jpg
 whatIs: >-
   
