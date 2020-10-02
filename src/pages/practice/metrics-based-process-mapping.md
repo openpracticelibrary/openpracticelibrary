@@ -69,12 +69,12 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM3.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM5.png?raw=true
 resources:
-  - link: https://www.slideshare.net/KarenMartinGroup/metrics-based-process-mapping
-    linkType: web
-    description: MBPM Slide Deck
   - link: https://tkmg.com/books/metrics-based-process-mapping/
     linkType: web
     description: MBPM Book
+  - link: https://www.slideshare.net/KarenMartinGroup/metrics-based-process-mapping
+    linkType: web
+    description: MBPM Slide Deck
   - link: https://openpracticelibrary.com/practice/vsm-and-mbpm/
     linkType: web
     description: Value Stream Mapping Practice
