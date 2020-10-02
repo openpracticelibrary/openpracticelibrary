@@ -1,5 +1,6 @@
 ---
 title: Kanban
+templateKey: practice-page
 subtitle: Visualized workflow management method to maximize efficiency and
   become more agile.
 date: 2020-09-15T12:02:15.251Z
