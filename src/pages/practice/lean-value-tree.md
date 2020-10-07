@@ -137,6 +137,7 @@ resources:
       Wikipedia entry for Volatility, Uncertainty, Complexity and Ambiguity
       (VUAT)
 mobiusTag: discovery
+primaryElement: leadership
 ---
 # What is it?
 

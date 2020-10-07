@@ -108,6 +108,7 @@ resources:
     linkType: web
     description: Cohort Analysis
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

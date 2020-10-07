@@ -44,6 +44,7 @@ resources:
     linkType: web
     description: Linkedin's Project Inversion
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is Technical Debt?
 

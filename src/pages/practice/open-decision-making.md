@@ -104,6 +104,7 @@ howTo: >-
   You can use Open Decision Framework (ODF) to practise open decision making.
   Check out the links section for more.
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

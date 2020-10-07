@@ -72,6 +72,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/lean-coffee-2.jpg?raw=true
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

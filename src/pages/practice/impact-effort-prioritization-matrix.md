@@ -90,6 +90,7 @@ resources:
     linkType: web
     description: Impact & Effort Matrix on Gamestorming.com
 mobiusTag: options
+primaryElement: product management
 ---
 ## What is it?
 

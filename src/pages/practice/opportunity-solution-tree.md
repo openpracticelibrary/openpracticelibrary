@@ -81,6 +81,7 @@ resources:
     linkType: web
     description: Mural Template
 mobiusTag: discovery
+primaryElement: leadership
 ---
 ## What is it?
 

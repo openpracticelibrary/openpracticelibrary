@@ -61,6 +61,7 @@ perspectives:
   - facilitation-tips-for-remote-sessions
 difficulty: easy
 mobiusTag: foundation
+primaryElement: product management
 ---
 ## What is it?
 

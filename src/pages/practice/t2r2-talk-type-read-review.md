@@ -68,6 +68,7 @@ perspectives:
 difficulty: moderate
 jumbotronAlt: talk type read review
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

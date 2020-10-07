@@ -73,6 +73,7 @@ resources:
     linkType: web
     description: Steering the Conversation with Example Mapping
 mobiusTag: options
+primaryElement: product management
 ---
 ## What is it?
 

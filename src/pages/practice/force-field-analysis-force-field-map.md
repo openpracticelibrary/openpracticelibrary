@@ -117,6 +117,7 @@ resources:
     linkType: web
     description: Force Field Analysis from Gamestorming.com
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

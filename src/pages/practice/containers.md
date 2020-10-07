@@ -62,6 +62,7 @@ resources:
     linkType: web
     description: Understanding Linux containers
 mobiusTag: foundation
+primaryElement: architecture
 ---
 ## What is it?
 

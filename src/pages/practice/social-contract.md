@@ -88,6 +88,7 @@ resources:
     linkType: web
     description: Social Contract MURAL Template
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

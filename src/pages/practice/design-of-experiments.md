@@ -182,6 +182,7 @@ perspectives:
 difficulty: hard
 jumbotronAlt: Design Of Experiments
 mobiusTag: options
+primaryElement: product management
 ---
 ## What is it?
 

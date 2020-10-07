@@ -111,6 +111,7 @@ mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/purpose-values-principles-practices.svg
 mobiusTag: discovery
+primaryElement: leadership
 ---
 ## What is it?
 

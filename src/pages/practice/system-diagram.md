@@ -110,6 +110,7 @@ mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/system-diagram.png'
 resources: null
 mobiusTag: discovery
+primaryElement: architecture
 ---
 ## What is it?
 

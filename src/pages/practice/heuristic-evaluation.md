@@ -87,6 +87,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/heuristic%20evaluation.png?raw=true
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 Heuristic evaluation is a method for reviewing designs based on ten basic principles. The term was [coined by Jakob Neilsen](https://www.nngroup.com/articles/ten-usability-heuristics/) back in 1995, but the principles are still just as relevant today.

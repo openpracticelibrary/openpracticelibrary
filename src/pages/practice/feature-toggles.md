@@ -168,6 +168,7 @@ resources:
     linkType: web
     description: Blue Green Deployments
 mobiusTag: foundation
+primaryElement: architecture
 ---
 ## What is it?
 

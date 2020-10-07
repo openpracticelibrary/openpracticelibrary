@@ -118,6 +118,7 @@ resources:
     linkType: web
     description: Usability Testing
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

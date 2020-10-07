@@ -63,6 +63,7 @@ resources:
     linkType: web
     description: '"SnowDay2_04"'
 mobiusTag: foundation
+primaryElement: product management
 ---
 ## What is it?
 

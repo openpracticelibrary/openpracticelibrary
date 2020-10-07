@@ -94,6 +94,7 @@ perspectives:
   - product-ownership
 difficulty: easy
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

@@ -129,6 +129,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Pre-Mortem.jpg?raw=true
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

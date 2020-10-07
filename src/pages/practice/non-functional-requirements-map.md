@@ -75,6 +75,7 @@ howTo: >-
 mediaGallery:
   - link: 'https://openpracticelibrary.com/images/non-functional-requirements-map.jpg'
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

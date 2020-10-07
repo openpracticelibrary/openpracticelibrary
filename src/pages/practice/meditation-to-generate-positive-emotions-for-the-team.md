@@ -182,6 +182,7 @@ resources:
     linkType: web
     description: Loving Kindness Meditation
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

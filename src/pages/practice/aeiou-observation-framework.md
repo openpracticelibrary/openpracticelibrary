@@ -166,6 +166,7 @@ mediaGallery:
   - link: 'https://youtu.be/Uvvd6pcNX84'
   - link: 'https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg'
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is the AEIOU Observation Framework about?
 

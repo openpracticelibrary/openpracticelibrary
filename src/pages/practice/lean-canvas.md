@@ -161,6 +161,7 @@ perspectives:
   - product-ownership
 difficulty: moderate
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

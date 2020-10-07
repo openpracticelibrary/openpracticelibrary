@@ -39,6 +39,7 @@ mediaGallery:
 people: '1'
 perspectives: []
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

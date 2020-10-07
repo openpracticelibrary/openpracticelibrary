@@ -64,6 +64,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/design-the-box-300x195-1.jpg?raw=true
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

@@ -29,6 +29,7 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/abstract-art-artist-820673.jpg
 resources: null
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

@@ -10,9 +10,10 @@ tags:
   - methods
 mobiusTag: foundation
 icon: /images/continuous-deployment.png
-whatIs: With Continuous Deployment (CD), the development team maintains software
-  so that it can be released to production at any moment, specifically on
-  demand. This practice builds on top of [Continuous
+whatIs: >-
+  With Continuous Deployment (CD), the development team maintains software so
+  that it can be released to production at any moment, specifically on demand.
+  This practice builds on top of [Continuous
   Integration](https://openpracticelibrary.com/practice/continuous-integration/)
   and [Continuous
   Delivery](https://openpracticelibrary.com/practice/continuous-delivery/). As a
@@ -26,7 +27,8 @@ whyDo: >-
 
   * Each feature can be pushed out after completion.
 
-  * It enforces everything as code practices as configuration and deployment orchestration needs to be part of the automation.
+  * It enforces everything as code practices as configuration and deployment
+  orchestration needs to be part of the automation.
 
   * It enables fast rollbacks and recovery from failures.
 howTo: >-
@@ -38,23 +40,28 @@ howTo: >-
   launches](https://openpracticelibrary.com/practice/dark-launches/) becomes
   important.
 
-  Continuous Deployment also needs a good level of monitoring of the application. These monitors should be visualised so that changes to response times or error to success rates can be quickly spotted when new deployment is rolled out.
+  Continuous Deployment also needs a good level of monitoring of the
+  application. These monitors should be visualised so that changes to response
+  times or error to success rates can be quickly spotted when new deployment is
+  rolled out.
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous%20deployment.png?raw=true
+  - link: >-
+      https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous%20deployment.png?raw=true
 resources:
-  - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
+  - link: >-
+      https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
     linkType: podcast
     description: CI/CD Open Practice Podcast Episode
-  - link: https://openpracticelibrary.com/practice/continuous-integration/
+  - link: 'https://openpracticelibrary.com/practice/continuous-integration/'
     linkType: web
     description: Continuous Integration
-  - link: https://openpracticelibrary.com/practice/continuous-delivery/
+  - link: 'https://openpracticelibrary.com/practice/continuous-delivery/'
     linkType: web
     description: Continuous Delivery
-  - link: https://martinfowler.com/articles/feature-toggles.html
+  - link: 'https://martinfowler.com/articles/feature-toggles.html'
     linkType: web
     description: feature toggles
-  - link: https://openpracticelibrary.com/practice/dark-launches/
+  - link: 'https://openpracticelibrary.com/practice/dark-launches/'
     linkType: web
     description: Dark Launches
 people: 1+
@@ -62,6 +69,7 @@ difficulty: moderate
 participants:
   - Team members
 area: foundation-technical
+primaryElement: development
 ---
 ## What is it?
 

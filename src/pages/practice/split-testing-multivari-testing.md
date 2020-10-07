@@ -109,6 +109,7 @@ resources:
     linkType: web
     description: Design Of Experiments
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

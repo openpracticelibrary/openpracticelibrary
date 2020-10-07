@@ -106,6 +106,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/mob%20programming.jpg?raw=true
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

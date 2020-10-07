@@ -140,6 +140,7 @@ resources:
     linkType: web
     description: Scrum Guide to Sprint Planning
 mobiusTag: delivery
+primaryElement: leadership
 ---
 ## What is it?
 

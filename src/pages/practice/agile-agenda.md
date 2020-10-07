@@ -80,6 +80,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Agile%20Agenda.jpg?raw=true
 mobiusTag: options
+primaryElement: leadership
 ---
 ## What is it?
 

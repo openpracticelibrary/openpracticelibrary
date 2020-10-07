@@ -88,6 +88,7 @@ resources:
     linkType: web
     description: Digital Mood Marble Tool
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

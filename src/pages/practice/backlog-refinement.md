@@ -40,6 +40,7 @@ perspectives:
   - facilitation-tips-for-remote-sessions
 difficulty: moderate
 mobiusTag: options
+primaryElement: product management
 ---
 # What is It?
 

@@ -77,6 +77,7 @@ resources:
       Addresses some of how to account for time to discuss the items in the
       Parking Lot
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

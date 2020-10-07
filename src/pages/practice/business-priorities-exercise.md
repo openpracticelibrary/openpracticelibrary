@@ -47,6 +47,7 @@ mediaGallery:
   - link: >-
       https://d33wubrfki0l68.cloudfront.net/317870b09dc6a5b15c4517c141c82366ddde8596/e1070/images/img_0713-3.jpg
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

@@ -50,6 +50,7 @@ resources:
     linkType: web
     description: Wikipedia Article - Test automation
 mobiusTag: foundation
+primaryElement: development
 ---
 ## What is it?
 

@@ -25,20 +25,28 @@ whatIs: >-
   * A shared understanding of your effort's goal.
 
 
-  * A list of key questions or assumptions that need to be examined early in the work effort in order for the team to achieve the goal.
+  * A list of key questions or assumptions that need to be examined early in the
+  work effort in order for the team to achieve the goal.
 
 
   * A prioritization of the key questions.
 howTo: >-
   ### Tips
 
-  * When defining what success looks like, it may be helpful to focus on goal setting from the perspective of the customer and business.  Identify what value or success looks likes for your customer.  Then define what value you are looking to achieve for your business.  
+  * When defining what success looks like, it may be helpful to focus on goal
+  setting from the perspective of the customer and business.  Identify what
+  value or success looks likes for your customer.  Then define what value you
+  are looking to achieve for your business.  
 
 
-  * The technique forces participants to think about failure, which many teams never do. It's surprising how much you can learn about a domain just by getting participants to share their fears. 
+  * The technique forces participants to think about failure, which many teams
+  never do. It's surprising how much you can learn about a domain just by
+  getting participants to share their fears. 
 
 
-  * It's easy to communicate the results of the session in slide ware and project rooms. We'd recommend keeping the results up in the project space throughout your effort.
+  * It's easy to communicate the results of the session in slide ware and
+  project rooms. We'd recommend keeping the results up in the project space
+  throughout your effort.
 
 
   ### Who do you need?
@@ -66,20 +74,22 @@ howTo: >-
 
   ### Facilitation Materials Needed
 
-  * None required, but 3x5 sticky notes with markers can be useful if you want participants to jot their notes down independently and then present back.
+  * None required, but 3x5 sticky notes with markers can be useful if you want
+  participants to jot their notes down independently and then present back.
 
 
   ### How does it fit?
 
   * Typically done in the Why area of the Discovery of the Open Practice Library
 resources:
-  - link: https://www.thesprintbook.com
+  - link: 'https://www.thesprintbook.com'
     linkType: web
     description: The Sprint Book
-  - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
+  - link: >-
+      https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
     linkType: web
     description: Double Diamond Design Model
-  - link: https://www.zingtrain.com/content/why-and-how-visioning-works
+  - link: 'https://www.zingtrain.com/content/why-and-how-visioning-works'
     linkType: web
     description: Why and How Visioning Works
 area: discovery-loop-why
@@ -93,16 +103,20 @@ whyDo: >-
   for examination.
 
 
-  * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
+  * Start At The End is really easy and quick to facilitate, but often yields
+  great results. It's a great technique for those new to facilitating workshops
+  or sessions that are short on time.
 
 
-  * This activity helps you and your team envision what the future will look like when you will reach success.
+  * This activity helps you and your team envision what the future will look
+  like when you will reach success.
 mediaGallery: null
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
 aliases:
   - /practice/visioning/
+primaryElement: leadership
 ---
 ## What is it?
 

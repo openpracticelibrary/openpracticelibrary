@@ -101,6 +101,7 @@ resources:
     linkType: web
     description: 'Objectified: Smart Design OXO Good Grips Story'
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

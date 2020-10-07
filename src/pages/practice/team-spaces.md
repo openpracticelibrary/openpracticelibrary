@@ -427,6 +427,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Team%20Workspaces%201.png?raw=true
 mobiusTag: foundation
+primaryElement: leadership
 ---
 # What is it?
 

@@ -116,6 +116,7 @@ resources:
     linkType: web
     description: System Demo by Scaled Agile Framework
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

@@ -181,6 +181,7 @@ mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/visualisation-of-work2.png
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is Visualisation of Work?
 

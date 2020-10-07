@@ -87,6 +87,7 @@ resources:
     linkType: web
     description: The Lean Startup by Eric Ries.
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

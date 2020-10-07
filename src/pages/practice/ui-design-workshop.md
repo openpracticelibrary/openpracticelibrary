@@ -122,6 +122,7 @@ people: 2+
 difficulty: moderate
 jumbotronAlt: Whiteboard with UI sketches
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

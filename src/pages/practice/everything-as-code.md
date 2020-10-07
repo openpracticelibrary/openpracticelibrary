@@ -70,6 +70,7 @@ mediaGallery:
       https://github.com/openpracticelibrary/opl-media/blob/master/images/everything%20as%20code.jpeg?raw=true
 people: ''
 mobiusTag: foundation
+primaryElement: operations
 ---
 ## What is it?
 

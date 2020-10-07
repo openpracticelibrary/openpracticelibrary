@@ -62,6 +62,7 @@ resources:
     linkType: web
     description: The Disciplined Agile (DA) Framework - Agile Risk Management
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

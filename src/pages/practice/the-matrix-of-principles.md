@@ -64,6 +64,7 @@ resources:
     linkType: web
     description: Changing Your Team From The Inside
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

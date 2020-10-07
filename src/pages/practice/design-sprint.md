@@ -119,6 +119,7 @@ perspectives:
 difficulty: hard
 jumbotronAlt: Design Sprint
 mobiusTag: options
+primaryElement: product management
 ---
 ## What is it?
 

@@ -65,6 +65,7 @@ resources:
     linkType: web
     description: OpenShift Pod Autoscaling
 mobiusTag: delivery
+primaryElement: operations
 ---
 ## What is it?
 

@@ -87,6 +87,7 @@ perspectives:
   - product-ownership
 difficulty: moderate
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

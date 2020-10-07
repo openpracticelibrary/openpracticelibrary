@@ -111,6 +111,7 @@ perspectives:
   - facilitation-tips-for-remote-sessions
 difficulty: moderate
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

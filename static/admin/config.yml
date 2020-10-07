@@ -41,6 +41,38 @@ collections:
         name: "authors"
         widget: "list"
         default: []
+      - label: "Mobius Loop Tag"
+        hint: "Where does this practice live on the Mobius Loop?"
+        name: mobiusTag
+        widget: "select"
+        multiple: false
+        required: true
+        options:
+          - label: "Discovery"
+            value: "discovery"
+          - label: "Delivery"
+            value: "delivery"
+          - label: "Foundation"
+            value: "foundation"
+          - label: "Options"
+            value: "options"
+      - label: "Five Elements Tag"
+        hint: "Where does this practice live on the Five Elements?"
+        name: primaryElement
+        widget: "select"
+        multiple: false
+        required: true
+        options:
+          - label: "Leadership"
+            value: "leadership"
+          - label: "Product Management"
+            value: "product management"
+          - label: "Architecture"
+            value: "architecture"
+          - label: "Development"
+            value: "development"
+          - label: "Operations"
+            value: "operations"
       - label: "Tags"
         hint: "Where does this practice live on the Library Loop?"
         name: tags
@@ -65,21 +97,6 @@ collections:
             value: "measure"
           - label: "Learn (Delivery Loop)"
             value: "learn"
-      - label: "Mobius Loop Tag"
-        hint: "Where does this practice live on the Mobius Loop?"
-        name: mobiusTag
-        widget: "select"
-        multiple: false
-        required: true
-        options:
-          - label: "Discovery"
-            value: "discovery"
-          - label: "Delivery"
-            value: "delivery"
-          - label: "Foundation"
-            value: "foundation"
-          - label: "Options"
-            value: "options"
       - label: "Cover Image"
         name: "icon"
         hint: "Image to be used on the home screen and cards for the practice"

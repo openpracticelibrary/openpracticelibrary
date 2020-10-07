@@ -119,6 +119,7 @@ resources:
     linkType: web
     description: Boost Empathy Quickly With Proto-Personas
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is proto-persona?
 

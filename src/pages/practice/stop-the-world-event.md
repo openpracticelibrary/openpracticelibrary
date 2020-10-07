@@ -90,6 +90,7 @@ resources:
     linkType: web
     description: High Performing Teams Need Psychological Safety
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

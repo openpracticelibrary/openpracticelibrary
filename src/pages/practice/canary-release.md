@@ -110,6 +110,7 @@ perspectives:
 difficulty: moderate
 jumbotronAlt: Canary
 mobiusTag: delivery
+primaryElement: operations
 ---
 ## What is it?
 

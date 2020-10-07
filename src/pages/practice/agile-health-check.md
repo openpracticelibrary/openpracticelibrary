@@ -41,6 +41,7 @@ resources:
     linkType: web
     description: Spotify Health Check
 mobiusTag: delivery
+primaryElement: leadership
 ---
 ## What is it?
 

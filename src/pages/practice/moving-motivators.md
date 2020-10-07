@@ -38,6 +38,7 @@ people: 1+
 difficulty: easy
 jumbotronAlt: Moving Motivators
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

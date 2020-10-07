@@ -88,6 +88,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/DoR.jpg?raw=true
 mobiusTag: foundation
+primaryElement: product management
 ---
 # What is it?
 

@@ -120,6 +120,7 @@ resources:
     linkType: web
     description: A Facilitator's Recipe for Event Storming
 mobiusTag: discovery
+primaryElement: architecture
 ---
 ## What is Event Storming?
 

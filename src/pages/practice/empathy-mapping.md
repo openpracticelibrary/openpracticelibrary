@@ -136,6 +136,7 @@ resources:
     linkType: web
     description: How to Run an Empathy & User Journey Mapping Workshop
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

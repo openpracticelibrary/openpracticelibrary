@@ -72,6 +72,7 @@ resources:
     linkType: web
     description: JIRA Burndown Charts
 mobiusTag: foundation
+primaryElement: product management
 ---
 ## What is it?
 

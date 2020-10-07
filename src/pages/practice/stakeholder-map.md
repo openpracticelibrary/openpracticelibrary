@@ -183,6 +183,7 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/stakeholder-map-2.jpg
 resources: null
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

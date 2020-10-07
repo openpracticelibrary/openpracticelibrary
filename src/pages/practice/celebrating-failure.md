@@ -59,6 +59,7 @@ howTo: >-
 mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/fail-wall.jpg'
 mobiusTag: foundation
+primaryElement: product management
 ---
 ## What is it?
 

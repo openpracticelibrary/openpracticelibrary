@@ -119,6 +119,7 @@ resources:
     linkType: web
     description: Jeff Patton's Index of Materials
 mobiusTag: options
+primaryElement: product management
 ---
 ## What is it?
 

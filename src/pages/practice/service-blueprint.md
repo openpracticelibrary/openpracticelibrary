@@ -333,6 +333,7 @@ perspectives:
 difficulty: moderate
 jumbotronAlt: service blueprint template
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## So what is a Service Blueprint?
 

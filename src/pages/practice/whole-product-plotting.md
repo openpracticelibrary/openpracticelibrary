@@ -80,6 +80,7 @@ perspectives:
 difficulty: easy
 jumbotronAlt: Whole Product Plot
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

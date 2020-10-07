@@ -90,6 +90,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/domain%20storytelling.png?raw=true
 mobiusTag: discovery
+primaryElement: architecture
 ---
 ## What is it?
 

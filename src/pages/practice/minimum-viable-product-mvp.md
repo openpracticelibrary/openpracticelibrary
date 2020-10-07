@@ -109,6 +109,7 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/MVP.jpg?raw=true
 mobiusTag: options
+primaryElement: product management
 ---
 ## What is it?
 

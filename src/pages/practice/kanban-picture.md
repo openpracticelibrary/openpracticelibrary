@@ -125,6 +125,7 @@ mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/kanban-picture-english.png
 mobiusTag: delivery
+primaryElement: product management
 ---
 ## What is it?
 

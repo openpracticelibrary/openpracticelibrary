@@ -72,6 +72,7 @@ resources:
     linkType: web
     description: Core Competencies from Coach Federation
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

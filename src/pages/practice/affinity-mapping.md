@@ -106,6 +106,7 @@ resources:
   - link: 'https://gamestorming.com/affinity-map/'
     linkType: Affinity Mapping on Gamestorming.com
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

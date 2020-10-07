@@ -74,6 +74,7 @@ people: 3+
 perspectives: []
 difficulty: easy
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

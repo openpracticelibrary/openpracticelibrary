@@ -69,6 +69,7 @@ people: 4+
 perspectives: []
 difficulty: easy
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 

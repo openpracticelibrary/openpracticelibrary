@@ -133,6 +133,7 @@ resources:
     linkType: web
     description: Live Share
 mobiusTag: foundation
+primaryElement: development
 ---
 ## What is it?
 

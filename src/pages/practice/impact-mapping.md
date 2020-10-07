@@ -201,6 +201,7 @@ mediaGallery:
       https://github.com/openpracticelibrary/opl-media/blob/master/images/impact-mapping-questions.jpg?raw=true
   - link: 'https://youtu.be/OqmdLcyES_Q'
 mobiusTag: discovery
+primaryElement: product management
 ---
 ## What is it?
 

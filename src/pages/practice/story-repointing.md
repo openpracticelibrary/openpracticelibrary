@@ -119,6 +119,7 @@ mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/estmation-tracker.jpg
 mobiusTag: delivery
+primaryElement: product management
 ---
 ![Story RePointing Grid Image](/images/story_repointing1.jpg "RePointing Grid")
 

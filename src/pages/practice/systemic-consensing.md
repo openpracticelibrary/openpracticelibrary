@@ -188,6 +188,7 @@ resources:
     linkType: web
     description: '"Einführung in systemisches Konsensieren"'
 mobiusTag: foundation
+primaryElement: leadership
 ---
 ## What is it?
 
