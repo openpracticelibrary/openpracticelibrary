@@ -1,8 +1,30 @@
 ---
 templateKey: practice-page
+title: User Story Mapping & Value Slicing
+subtitle: Create lightweight release plans by slicing value out of collections
+  of features
+date: 2017-04-20T05:00:00.000Z
 authors:
   - mtakane
   - rdebeasi
+tags:
+  - insight
+mobiusTag: options
+icon: /images/final_value-slicing.png
+whatIs: >-
+  User Story Mapping is an evolution of the traditional Agile backlog, made
+  popular by Jeff Patton in 2008. It's an effective practice for creating
+  lightweight release plans that can drive standard Agile delivery practices. At
+  the end of user story mapping, you should have:
+
+
+  * A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window. This means some items will be placed out of scope
+
+
+  * The backlog "sliced" into ~3 iterations, such that it forms the outline of plan
+
+
+  * Enough detail in the first iteration of the plan to get started with the work
 howTo: >-
   ### Who do you need?
 
@@ -70,23 +92,10 @@ resources:
   - link: http://jpattonassociates.com/user-story-mapping/
     linkType: web
     description: Jeff Patton's Index of Materials
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
 area: discovery-loop-outcomes
-date: 2017-04-20T05:00:00.000Z
-mobiusTag: options
-whatIs: >-
-  User Story Mapping is an evolution of the traditional Agile backlog, made
-  popular by Jeff Patton in 2008. It's an effective practice for creating
-  lightweight release plans that can drive standard Agile delivery practices. At
-  the end of user story mapping, you should have:
-
-
-  * A backlog of scope items (captured as stories or simply feature titles) the team believes can be delivered in the planning window. This means some items will be placed out of scope
-
-
-  * The backlog "sliced" into ~3 iterations, such that it forms the outline of plan
-
-
-  * Enough detail in the first iteration of the plan to get started with the work
 whyDo: >-
   * No one likes estimating work effort, but it's an important step in many
   environments. User Story Mapping presents an approach to estimation that many
@@ -103,12 +112,6 @@ mediaGallery:
   - link: https://youtu.be/VaN9rCQrdko
 perspectives:
   - facilitation-tips-for-remote-sessions
-title: User Story Mapping & Value Slicing
-subtitle: Create lightweight release plans by slicing value out of collections
-  of features
-tags:
-  - insight
-icon: /images/final_value-slicing.png
 ---
 ## What is it?
 
