@@ -1,5 +1,8 @@
 ---
 templateKey: practice-page
+title: Backlog Refinement
+subtitle: Determine addition information and prioritization for existing backlog items
+date: 2018-08-10T11:50:22.000Z
 authors:
   - theisey
   - mtakane
@@ -9,6 +12,22 @@ authors:
   - ilaria66
   - mvmaestri
   - cverna
+tags: []
+mobiusTag: options
+icon: /images/final_backlog-refinement.png
+whatIs: >-
+  * Having a conversation to provide clarity surrounding the detail or
+  conditions of satisfaction for work items in the backlog
+
+  * Identifying priority for work items in the backlog
+
+  * Sometimes called "Backlog Grooming"
+whyDo: |-
+  * Drive team shared understanding of work items in regards to:
+
+    * Scope of work in the backlog
+    * Conditions of satisfaction
+    * Prioritization of what to do first
 howTo: >-
   ### How often should it occur and for how long?
 
@@ -45,36 +64,21 @@ howTo: >-
 
 
   **Want to get better with Backlog Refinement remotely? [Here's a game to help you and your team practice it](https://www.tastycupcakes.org/2015/05/weekend-escape/) 💻 🙏**
+resources:
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
 participants:
   - Product Owner
   - Team Members
   - Subject Matter Expert
   - Architect
 area: options
-date: 2018-08-10T11:50:22.000Z
-mobiusTag: options
-whatIs: >-
-  * Having a conversation to provide clarity surrounding the detail or
-  conditions of satisfaction for work items in the backlog
-
-  * Identifying priority for work items in the backlog
-
-  * Sometimes called "Backlog Grooming"
-whyDo: |-
-  * Drive team shared understanding of work items in regards to:
-
-    * Scope of work in the backlog
-    * Conditions of satisfaction
-    * Prioritization of what to do first
 people: 2+
 time: 30 minutes
 perspectives:
   - product-ownership
   - facilitation-tips-for-remote-sessions
-title: Backlog Refinement
-subtitle: Determine addition information and prioritization for existing backlog items
-tags: []
-icon: /images/final_backlog-refinement.png
 difficulty: moderate
 ---
 # What is It?
