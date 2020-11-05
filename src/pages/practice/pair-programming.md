@@ -81,6 +81,9 @@ resources:
   - link: https://speakerdeck.com/lemiorhan/unwritten-manual-for-pair-programming
     linkType: web
     description: The Unwritten Manual for Pair Programming
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
 people: "2"
 participants:
   - The Team
