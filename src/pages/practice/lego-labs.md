@@ -268,5 +268,8 @@ resources:
   - description: Mars Map - Image for printing on card stock
     linkType: web
     link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
+  - link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=n1-xjlJMRPOWCf_QYisr7Q
+    linkType: web
+    description: Spotify Playlist for Background Music
 participants: []
 ---
