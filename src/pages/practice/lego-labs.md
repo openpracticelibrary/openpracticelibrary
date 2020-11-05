@@ -259,14 +259,16 @@ resources:
   - description: Templates - Participant Handout examples
     link: https://drive.google.com/drive/folders/1Z0-7-hHB_R3EFl6m3HHHxTAl1j-vxS1t?usp=sharing
     linkType: web
-  - description: Shopping - Lego Labs Amazon List
+  - description: Lego Labs Amazon Supply List
     linkType: purchase
-    link: https://www.amazon.com/hz/wishlist/dl/invite/9uLky61?ref_=wl_share
+    link: https://www.amazon.com/hz/wishlist/ls/10SYTHVRKTO55?ref_=wl_share
   - description: Music - Lego Labs Spotify playlist
     link: https://open.spotify.com/playlist/6FxlgF1Sw4OPkFam7UZbys?si=xxlMIvbwTUOK47jCvaoMHg
     linkType: web
   - description: Mars Map - Image for printing on card stock
     linkType: web
     link: https://pixabay.com/photos/map-mars-planet-red-desert-world-4818850/
+time: 90-120 min
+difficulty: moderate
 participants: []
 ---
