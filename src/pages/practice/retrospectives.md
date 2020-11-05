@@ -149,6 +149,9 @@ resources:
   - link: https://app.mural.co/template/d246d203-18d4-46c5-ab80-0a92f528c1b0/1c7943fa-954c-46b1-a8c2-dc92983dfb76
     linkType: web
     description: Mural Journey Retro Template
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
 jumbotron: /images/heroes-journey-retro.png
 area: delivery-measure-and-learn
 perspectives:
