@@ -82,6 +82,9 @@ resources:
   - link: https://www.zingtrain.com/content/why-and-how-visioning-works
     linkType: web
     description: Why and How Visioning Works
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
 area: discovery-loop-why
 whyDo: >-
   * Most planning activities revolve around juggling a "shopping list of
