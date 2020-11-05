@@ -1,26 +1,14 @@
 ---
+templateKey: practice-page
 title: How Might We _____ ?
 subtitle: Turning insights into questions that spur creative solutioning
 date: 2018-11-08T15:26:31.527Z
 authors:
   - valyonchev
-area: discovery-loop-outcomes
 tags:
   - ideate
-perspectives:
-  - product-ownership
-  - facilitation-tips-for-remote-sessions
+mobiusTag: discovery
 icon: /images/hmw.jpg
-jumbotron: /images/hmw.jpg
-people: 2+
-time: 30-60 min
-difficulty: moderate
-participants:
-  - Product Owner/Manager
-  - UXD
-  - team members
-  - stakeholders and even real customers
-templateKey: practice-page
 whatIs: >-
   HMW, short for “How Might We …?”, is an analytical technique relying on
   actionable questions asked from a particular point of view on a specific
@@ -32,25 +20,19 @@ whatIs: >-
 
   ### Origin
 
-  Made popular by Procter & Gamble in the 1970s, but origin may be tracked as
-  far back as Greek philosophers 
+  Made popular by Procter & Gamble in the 1970s, but origin may be tracked as far back as Greek philosophers 
 whyDo: >-
   You need a challenge, a Point of View and a set of relevant questions starting
   with “How Might We …?”
 
 
-  \- The challenge/problem statement is critical for good results and may take
-  time to formulate. It should not imply a solution or be too broad (boiling the
-  ocean)
+  \- The challenge/problem statement is critical for good results and may take time to formulate. It should not imply a solution or be too broad (boiling the ocean)
 
 
   \- The point of view allow for use of empathy for the key actors.
 
 
-  \- Multiple HMW questions could be asked in order to dive deeper in the
-  challenge and unveil different perspectives. The following are different
-  perspectives, which can be used to look at the challenge through HMW
-  questions:
+  \- Multiple HMW questions could be asked in order to dive deeper in the challenge and unveil different perspectives. The following are different perspectives, which can be used to look at the challenge through HMW questions:
 
   * Amplify the good
 
@@ -83,61 +65,65 @@ howTo: >-
   It helps in breaking frames and molds and lead to innovative solutions. 
 
 
-  It can easily “plug” and enhance many other practices, especially when you
-  seek innovation.
+  It can easily “plug” and enhance many other practices, especially when you seek innovation.
 
   ## Why & How to combine it with other practices?
 
-  * HMW can be combined with [Impact
-  Mapping](https://openpracticelibrary.com/practice/impact-mapping/) as a way to
-  search for deliverables that can influence a particular behaviour change of
-  actor/s
+  * HMW can be combined with [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/) as a way to search for deliverables that can influence a particular behaviour change of actor/s
 
-  * During [Event
-  Storming](https://openpracticelibrary.com/practice/event-storming/) the team
-  can often spot improvements or ideas for introducing a new way of handling the
-  process, experiments to be carried out. A post-it with a draft HMW question
-  can provide a nice bridge into a HMW and [Design of
-  Experiments](https://openpracticelibrary.com/practice/design-of-experiments/)
-  exercise.
+  * During [Event Storming](https://openpracticelibrary.com/practice/event-storming/) the team can often spot improvements or ideas for introducing a new way of handling the process, experiments to be carried out. A post-it with a draft HMW question can provide a nice bridge into a HMW and [Design of Experiments](https://openpracticelibrary.com/practice/design-of-experiments/) exercise.
 
-  * A list of key questions are formed during facilitation of [Start at the
-  End](https://openpracticelibrary.com/practice/start-at-the-end/).  HMW is a
-  great approach to building key questions from assumptions that could lead to
-  failure.
+  * A list of key questions are formed during facilitation of [Start at the End](https://openpracticelibrary.com/practice/start-at-the-end/).  HMW is a great approach to building key questions from assumptions that could lead to failure.
 mediaGallery:
-  - link: 'https://youtu.be/N8fxzeZh4Kc'
-  - link: 'https://openpracticelibrary.github.io/opl-media/images/hmw.jpg'
+  - link: https://youtu.be/N8fxzeZh4Kc
+  - link: https://openpracticelibrary.github.io/opl-media/images/hmw.jpg
 resources:
-  - link: 'https://hbr.org/2012/09/the-secret-phrase-top-innovato'
+  - link: https://hbr.org/2012/09/the-secret-phrase-top-innovato
     linkType: web
-    description: 'The Secret  Phrase Top Innovators Use '
-  - link: 'https://dschool.stanford.edu/resources/how-might-we-questions'
+    description: "The Secret  Phrase Top Innovators Use "
+  - link: https://dschool.stanford.edu/resources/how-might-we-questions
     linkType: web
-    description: 'Stanford D School: HMW Intro and Guidance For Use'
-  - link: >-
-      https://designsprintkit.withgoogle.com/methodology/phase1-understand/how-might-we
+    description: "Stanford D School: HMW Intro and Guidance For Use"
+  - link: https://designsprintkit.withgoogle.com/methodology/phase1-understand/how-might-we
     linkType: web
     description: Google Design Sprint Kit
-  - link: 'https://toolkit.mozilla.org/method/how-might-we/'
+  - link: https://toolkit.mozilla.org/method/how-might-we/
     linkType: web
     description: HMW Toolkit from Mozilla
-  - link: 'http://www.designkit.org/methods/3'
+  - link: http://www.designkit.org/methods/3
     linkType: web
     description: IDEO HMW Design Kit
-  - link: 'https://openpracticelibrary.com/practice/impact-mapping/'
+  - link: https://openpracticelibrary.com/practice/impact-mapping/
     linkType: web
     description: Impact Mapping
-  - link: 'https://openpracticelibrary.com/practice/event-storming/'
+  - link: https://openpracticelibrary.com/practice/event-storming/
     linkType: web
     description: Event Storming
-  - link: 'https://openpracticelibrary.com/practice/design-of-experiments/'
+  - link: https://openpracticelibrary.com/practice/design-of-experiments/
     linkType: web
     description: Design Of Experiments
-  - link: 'https://openpracticelibrary.com/practice/start-at-the-end/'
+  - link: https://openpracticelibrary.com/practice/start-at-the-end/
     linkType: web
     description: Start At The End
-mobiusTag: discovery
+  - link: https://openpracticelibrary.com/practice/opportunity-solution-tree/
+    linkType: web
+    description: Opportunity Solution Tree
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
+participants:
+  - Product Owner/Manager
+  - UXD
+  - team members
+  - stakeholders and even real customers
+jumbotron: /images/hmw.jpg
+area: discovery-loop-outcomes
+people: 2+
+time: 30-60 min
+perspectives:
+  - product-ownership
+  - facilitation-tips-for-remote-sessions
+difficulty: moderate
 ---
 ## What is it?
 
