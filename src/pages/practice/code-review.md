@@ -1,5 +1,5 @@
 ---
-templateKey: "practice-page"
+templateKey: practice-page
 title: Code Review
 subtitle: Also a review on the developer's ego
 date: 2020-08-12T20:44:12.964Z
@@ -7,7 +7,7 @@ authors:
   - mabulgu
 tags:
   - culture
-mobiusTag: foundation
+mobiusTag: delivery
 icon: /images/code-review.png
 whatIs: >-
   Code Review is a software quality assurance activity that someone other than
