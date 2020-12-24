@@ -80,9 +80,7 @@ howTo: >-
   Make a note also of statements with a high variance. This indicates that there is disagreement in the team about that aspect of psychological safety. 
 
 
-  ## \
-
-  Context and Rationale for the Statements
+  ## Context and Rationale for the Statements
 
 
   **1 - On this team, I understand what is expected of me.**
