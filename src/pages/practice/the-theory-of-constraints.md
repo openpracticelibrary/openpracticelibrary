@@ -23,7 +23,7 @@ whyDo: >-
   system by adding pressure to the bottleneck, if the bottleneck is downstream. 
 
 
-  In some systems, the bottleneck is clear to see, such as a narrow junction on a busy street, or a bend in a garden hose.
+  In some systems, the bottleneck is clear to see, such as a narrow junction on a busy street, or a bend in a garden hose. In some systems, especially those that don't have material, or "inventory" flowing through them, thew constraint can be more difficult to see.
 howTo: TBC
 participants: []
 ---
