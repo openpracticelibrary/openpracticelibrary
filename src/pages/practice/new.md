@@ -25,9 +25,7 @@ whyDo: Before embarking on a journey to build a high performing team through
   psychological safety in different ways.
 howTo: >-
   Create a survey, using Google Forms, Microsoft Forms, Typeform, Survey Monkey,
-  or whichever tool suits you best, containing the following statements. Note
-  that there is further detail at the end of this document about the context and
-  rationale for each of these statements.
+  or whichever tool suits best, containing the following statements. 
 
 
   1. **On this team, I understand what is expected of me.**
@@ -54,7 +52,7 @@ howTo: >-
   Ask your team to score agreement with each statement on a 5 point Likert scale similar to the below:
 
 
-  1: Strongly disagree
+  **1: Strongly disagree
 
   2: Disagree
 
@@ -62,7 +60,7 @@ howTo: >-
 
   4: Agree
 
-  5: Strongly agree
+  5: Strongly agree**
 
 
   Be conscious of the native language of team members. It may be beneficial to translate these statements into native languages in order to obtain the truest responses.
@@ -80,7 +78,7 @@ howTo: >-
   Make a note also of statements with a *high variance*. This indicates that there is disagreement in the team about that aspect of psychological safety. 
 
 
-  Use the context below to steer behaviours and actions to increase psychological safety on the team, before repeating the survey.
+  Use the context below to steer behaviours and actions to increase psychological safety on the team via open leadership and modern practices, before repeating the survey.
 
 
   ## Context and Rationale for the Statements
