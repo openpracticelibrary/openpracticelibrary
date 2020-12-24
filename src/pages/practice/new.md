@@ -17,7 +17,7 @@ whatIs: >-
   This practice will help you measure the degree of psychological safety in a team, and which aspects of psychological safety are strongest and weakest in the team, which provides you with the ability to identify opportunities for improvement. 
 
 
-  Regularly measuring psychological safety will provide a barometer for the health of the team, and in itself raise psychological safety by facilitating discussions about the topic.
+  Regularly measuring psychological safety will provide a barometer for the psychological health of the team, and in itself raise psychological safety by facilitating explicit discussion about safety and culture.
 whyDo: Before embarking on a journey to build a high performing team through
   psychological safety, it’s important to understand where the team are now. By
   measuring the degree of psychological safety felt by team members, we can more
@@ -51,7 +51,7 @@ howTo: >-
   10. **My unique skills and talents are valued and utilised in my work as part of this team.**
 
 
-  Ask your team to score agreement with each statement on a 5 point likert scale similar to the below:
+  Ask your team to score agreement with each statement on a 5 point Likert scale similar to the below:
 
 
   1: Strongly disagree
@@ -68,7 +68,7 @@ howTo: >-
   Be conscious of the native language of team members. It may be beneficial to translate these statements into native languages in order to obtain the truest responses.
 
 
-  Ensure that responses can be anonymous (though they do not need to be). This will help team members feel confident being honest.
+  Ensure that responses *can* be anonymous (though they do not *need* to be). This will help team members feel confident being honest.
 
 
   At the end of the survey, add a question which invites some qualitative feedback, such as “Please add any comments you would like to share to elaborate on or explain your responses. This will help identify ways to improve as a team.”
@@ -77,7 +77,10 @@ howTo: >-
   **From the results of the survey, identify the statements with the lowest average scores.**
 
 
-  Make a note also of statements with a high variance. This indicates that there is disagreement in the team about that aspect of psychological safety. 
+  Make a note also of statements with a *high variance*. This indicates that there is disagreement in the team about that aspect of psychological safety. 
+
+
+  Use the context below to steer behaviours and actions to increase psychological safety on the team, before repeating the survey.
 
 
   ## Context and Rationale for the Statements
@@ -104,7 +107,7 @@ howTo: >-
   **4 - When something goes wrong, we work as a team to find the systemic cause.**
 
 
-  This one is related to the previous point but important enough to warrant its own question. If retrospectives or similar processes are used to find the root causes of mistakes and failures, not only do team members feel safer, but every single “failure” offers an opportunity for shared learning and improvement. Mistakes become a gift, not a threat.
+  This one is related to the previous point but important enough to warrant its own question. If **blameless** retrospectives or Root Cause Analyses are used effectively to find the root causes of mistakes and failures, not only do team members feel safer, but every single “failure” offers an opportunity for shared learning and improvement. Incidents become a gift, not a threat.
 
 
   **5 - All members of this team feel able to bring up problems and tough issues.**
@@ -128,13 +131,13 @@ howTo: >-
   **8 - It is easy for me to ask other members of this team for help.**
 
 
-  In psychologically unsafe teams, team members try to hide their perceived weaknesses or vulnerabilities, which prevents them from asking for help. If they can’t access the help they need, the performance of both that individual and therefore the whole team will be reduced. This is a key factor in why safe teams achieve more goals than unsafe teams.
+  In psychologically unsafe teams, team members try to hide their perceived weaknesses or vulnerabilities, which prevents them from asking for help. If they can’t access the help they need, the performance of both that individual and therefore the whole team will be impacted. This is a key factor in why safe teams achieve better results than unsafe teams.
 
 
   **9 - Nobody on this team would deliberately act in a way that undermines my efforts.**
 
 
-  In an unsafe team, members compete with each other to achieve their individual goals, and may even undermine other team members if they believe that may elevate their “rank” within the team or organisation. In a psychologically safe team, that counter-productive competition doesn’t exist, and the success of the team is more important than looking good in the eyes of others.
+  In an unsafe team, members compete with each other to achieve their individual goals, and may even undermine other team members if they believe that may boost their own results or elevate their “rank” within the team or organisation. In a psychologically safe team, that counter-productive competition doesn’t exist, and the success of the team is more important than looking good in the eyes of others.
 
 
   **10 - My unique skills and talents are valued and utilised in my work as part of this team.**
