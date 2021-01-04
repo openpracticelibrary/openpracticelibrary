@@ -52,15 +52,23 @@ howTo: >-
   Ask your team to score agreement with each statement on a 5 point Likert scale similar to the below:
 
 
-  **1: Strongly disagree
+  **1: Strongly disagree**
 
-  2: Disagree
 
-  3: Neither agree nor disagree
 
-  4: Agree
+  **2: Disagree**
 
-  5: Strongly agree**
+
+
+  **3: Neither agree nor disagree**
+
+
+
+  **4: Agree**
+
+
+
+  **5: Strongly agree**
 
 
   Be conscious of the native language of team members. It may be beneficial to translate these statements into native languages in order to obtain the truest responses.
