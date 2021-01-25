@@ -6,7 +6,7 @@ date: 2020-08-12T20:44:12.964Z
 authors:
   - mabulgu
 tags:
-  - culture
+  - learn
 mobiusTag: delivery
 icon: /images/code-review.png
 whatIs: >-
