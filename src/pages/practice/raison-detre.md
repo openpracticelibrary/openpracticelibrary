@@ -16,7 +16,7 @@ whatIs: As teams form or embark upon new directions it is important that they
   moving forward as well as being a guide-post reminder as to that purpose
   during times of pressure or as that clarity becomes muffled.
 whyDo: We perform this practice to ensure that all members of the team are clear
-  on their purpose and that they are rowing in rhythm in the same direction.
+  on their purpose and that they are rowing in rhythm and in the same direction.
 howTo: Blah
 people: 5+
 time: 20 Minutes
