@@ -52,6 +52,12 @@ howTo: >-
 
 
   7. Transfer the finalized 'manifesto' to a larger format - a poster or large piece of paper which can be hung in a central location in the team's work area as a regular reminder.
+resources:
+  - link: https://www.phaidon.com/store/design/bruce-mau-mc24-9781838660505/
+    linkType: web
+    description: This practice was inspired by an essay in Bruce Mau's book, MC24,
+      which was called The Manifesto Offers Leaders a Powerful Technique for
+      Creating Inspiration.
 people: 5+
 time: 20 Minutes
 difficulty: easy
