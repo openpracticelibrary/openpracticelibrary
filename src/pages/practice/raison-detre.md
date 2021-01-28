@@ -34,6 +34,8 @@ howTo: >-
 
   1. Ask the team "What is the purpose of this team? Why were we brought together? What is our reason for being?"
 
+
+
   2. Give them 3 minutes to write a paragraph answering this. (Don't do this on post-its or post in common area - we want each person to answer independently without seeing others' responses).
 
   3. Have each member of the team read their answer aloud, to the team. No debate or discussion at this point.
@@ -43,7 +45,11 @@ howTo: >-
 
   5. Provide 3 more minutes and have the team to turn their sheet over and again write their paragraph.
 
+
+
   6. Take the one extra sheet of notebook paper and have the team then come together around a table and craft a single unified statement for their reason for being.
+
+
 
   7. Transfer the finalized 'manifesto' to a larger format - a poster or large piece of paper which can be hung in a central location in the team's work area as a regular reminder.
 people: 5+
