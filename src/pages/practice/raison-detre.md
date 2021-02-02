@@ -9,7 +9,7 @@ tags:
   - culture
 mobiusTag: foundation
 icon: /images/steps.jpg
-whatIs: This forming and norming practice is run as teams form or embark upon
+whatIs: This norming and forming practice is run as teams form or embark upon
   new directions because it is important that they understand their reason for
   coming together, their team's reason for being.  This exercise helps to define
   a manifesto for the team so that everyone on the team agrees upon and has
