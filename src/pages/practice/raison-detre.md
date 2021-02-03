@@ -5,6 +5,7 @@ subtitle: Defining the teams reason for being
 date: 2021-01-27T19:24:30.965Z
 authors:
   - philipdouble
+  - haithamshahin333
 tags:
   - culture
 mobiusTag: foundation
@@ -18,11 +19,14 @@ whatIs: This norming and forming practice is run as teams form or embark upon
   becomes muffled.
 whyDo: We perform this practice to ensure that all members of the team have
   crystal clarity on the purpose of the team and that they are rowing in rhythm
-  and in the same direction. This aids in breaking down silos by making people
-  think of their role from the point of view of the functionality that they are
-  creating instead of the discipline or skill-set which they represent on the
-  team. This allows the team to self-organize and come to conclusions
-  organically instead of from a top down approach.
+  and in the same direction. This is how we begin to form that cross-functional,
+  product-focused team instead of individuals seeing themselves as just
+  representing their portion of software delivery (i.e. backend, frontend, qa,
+  etc.).  This breaks down silos and makes people think of their role from the
+  point of view of the functionality that they are creating instead of the
+  discipline or skill-set which they represent on the team. This is also an
+  example of allowing teams to self-organize and come to conclusions organically
+  instead of from a top down approach.
 howTo: >-
   We bring the entire cross-functional team together to run this practice. It
   requires the team, a pen and each person to have a sheet of notebook paper
