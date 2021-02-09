@@ -41,24 +41,24 @@ whyDo: >-
 
   * Avoid expensive, intense, conventional research time
 howTo: >-
-  * Outcome: Align goal with the PO on the purpose and intent of the interview
-  understand the Big WHY
+  * **Outcome:** Align goal with the PO on the purpose and intent of the
+  interview understand the Big WHY
 
-  * Stakeholders Map: Finding the relevant stakeholders is key. Go through stakeholders mapping workshops to understand their role and how they impact certain projects.
+  * **Stakeholders Map:** Finding the relevant stakeholders is key. Go through stakeholders mapping workshops to understand their role and how they impact certain projects.
 
-  * Prep questions: work collaboratively, categorise with the areas that need further investigation. Helpful practice: Affinity map
+  * **Prep questions:** work collaboratively, categorise with the areas that need further investigation. Helpful practice: Affinity map
 
-  * Logistics: Discuss date, time and environment you will conduct interviews for e.g: face to face, virtual meeting, technologies suitable for both parties and many more.
+  * **Logistics:** Discuss date, time and environment you will conduct interviews for e.g: face to face, virtual meeting, technologies suitable for both parties and many more.
 
     **Some Helpful Tips:**
 
-    * Establish psychological safety: It is essential for the participants to create a secure and comfortable atmosphere. And they feel relaxed and safe. For example, clarify the intention of the interview, when, how and to whom the information will be shared, promote active listening, encourage them to reflect and answer.
-    * Pair up with the other team members: This will validate a lot of technical, business, marketing buzzwords
-    * Silence is good: let them think and reflect back and answer, it’s not awkward.
-    * Time of the interview: No longer than 45mins to 1 hours
-    * Methodologies/ Practices that are helpful to visualise the data collected: empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
-    * Questions: Don’t lead the interviewee with direct questions. Ask open ended questions
-    * What if:
+    * **Establish psychological safety:** It is essential for the participants to create a secure and comfortable atmosphere. And they feel relaxed and safe. For example, clarify the intention of the interview, when, how and to whom the information will be shared, promote active listening, encourage them to reflect and answer.
+    * **Pair up with the other team members:** This will validate a lot of technical, business, marketing buzzwords
+    * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
+    * **Time of the interview:** No longer than 45mins to 1 hours
+    * **Methodologies/ Practices that are helpful to visualise the data collected:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
+    * **Questions:** Don’t lead the interviewee with direct questions. Ask open ended questions
+    * **What if:**
       There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.\
       \
       \
