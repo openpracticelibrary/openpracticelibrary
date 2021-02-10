@@ -123,7 +123,6 @@ mediaGallery:
   - link: https://youtu.be/N8fxzeZh4Kc
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Impact%20Mapping.jpeg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/impact-mapping-questions.jpg?raw=true
-  - link: https://youtu.be/OqmdLcyES_Q
 resources:
   - link: https://www.impactmapping.org/book.html
     linkType: web
@@ -134,7 +133,7 @@ resources:
   - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
     linkType: web
     description: Double Diamond design model
-  - link: https://www.youtube.com/watch?v=y4Rj05YVg_E
+  - link: https://youtu.be/pmSS69Dh71Q
     linkType: video
     description: Short Video Introduction to Impact Mapping
   - link: https://www.impactmapping.org/
@@ -146,9 +145,6 @@ resources:
   - link: https://opensource.com/open-organization/17/6/experiment-impact-mapping
     linkType: web
     description: Using Impact Mapping to foster innovation
-  - link: https://www.youtube.com/watch?v=OqmdLcyES_Q
-    linkType: video
-    description: Management by Intent, by David Marquet
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
