@@ -45,6 +45,7 @@ whyDo: |-
 howTo: >-
   ## Materials Needed
 
+
   * Wall space which will hold sticky notes.
 
   * Whiteboard markers
@@ -62,9 +63,7 @@ howTo: >-
 
   * Define the kind of culture we want our team to have
 
-
   * Set some general guidelines
-
 
   * Hold one another accountable to these guidelines
 
@@ -83,58 +82,45 @@ howTo: >-
 
   Try to guide the team to a contract that encourages positivity, autonomy, and respect.
 
-  * What sort of team culture do you want to build?
 
+  * What sort of team culture do you want to build?
 
   * Open, positive, blame-free, constructive
 
-
   * Fun!
-
 
   * No magic, no wizardry, no ninjas - build shared understanding
 
-
   * Celebrate success
-
 
   * What core hours do you want to work? 10am - 3pm?
 
-
   * The idea is *not* to encourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensuring that the team can still meet together.
-
 
   * What are your thoughts on pair programming? Mob programming? Mob to learn; pair to build? Focus, then share what you learned?
 
-
   * Respect individual working styles
-
 
   * How should we handle devices in meetings? Laptops closed and phones down? Step out if you need to work on something else?
 
-
   * How do you want to track tasks? Jira? Paper stickies? This helps us avoid missing important stuff or duplicating work.
-
 
   * Embrace creative chaos
 
 
   ## Don't do this
 
+
   Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
 
 
   * Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
 
-
   * Be more productive by juggling several projects at once.
-
 
   * Ensure accountability by finding someone to blame when things break.
 
-
   * Deploying to production is scary because it's an opportunity to get blamed for something (see above). Code should be deployed as infrequently as possible.
-
 
   * When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.
 
@@ -144,15 +130,11 @@ howTo: >-
 
   1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts.
 
-
   2. Everyone signs with a Sticky-note with his/her name.
-
 
   3. Add remote working elements to the social contract (mute on entry, video on etc).
 
-
   4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc.
-
 
   5. Use examples:
 
@@ -172,9 +154,6 @@ howTo: >-
   > * A contract can be updated based on needs...
 
   > * Agree on the above adding a sticky w/name & location
-
-
-  **Want to run this practice remotely? See the mural template below to jumpstart your session! 💻🙏**
 mediaGallery:
   - link: https://www.youtube.com/o1le81ZgVLk
   - link: https://openpracticelibrary.github.io/opl-media/images/social-contract.jpg
