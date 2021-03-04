@@ -45,7 +45,7 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/target%20outcomes%202.JPG?raw=true
 resources:
-  - link: http://www.gabriellebenefield.com/mobius/how-to-measure-value/
+  - link: https://www.infoq.com/news/2014/11/outcomes-mobius-framework/
     linkType: web
     description: How to Create Measurable Outcomes
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/

@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Continuous Integration
-subtitle: Automated code merge and build upon a team member's contribution.
+subtitle: Submit small, frequent changes instead of large, infrequent changes
 date: 2018-08-10T12:22:43.000Z
 authors:
   - tdbeattie

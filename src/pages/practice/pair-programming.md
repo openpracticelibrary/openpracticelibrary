@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Pair programming
+title: Pair Programming
 subtitle: Increasing the knowledge sharing and communication between team members
 date: 2019-05-09T21:15:43.697Z
 authors:
