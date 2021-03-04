@@ -5,12 +5,14 @@ subtitle: Help identify concrete objectives, targets and main priority areas
 date: 2021-02-09T09:45:51.714Z
 authors:
   - dsunwar
+  - angelsdimitri
+  - JordiOlive
 tags: []
 mobiusTag: discovery
 icon: /images/screenshot-2021-02-05-at-16.11.47.png
 whatIs: >-
-  * One on one conversation to help better understand what stakeholders want and
-  need from the product.
+  * One-on-one conversations to better understand the wants and needs of
+  stakeholders 
 
   * An opportunity to gather useful information from three main areas, and more for e.g: User needs, Business goals and Technical limitations to gather valuable insights.
 
@@ -46,7 +48,7 @@ howTo: >-
 
     ## **Some Helpful Tips:**
 
-    * **Establish psychological safety:** Create a secure, comfortable and relaxed environment for the participants.  Also, make it clear what the interview's goal is, as well as where, how, and with whom the details will be exchanged.
+    * **Establish psychological safety:** Create a secure, relaxing, and enjoyable atmosphere for the participants. Make it clear what the aim of the interview is, as well as when, how, and with whom the information will be exchanged.
      * ** Encourage active listening** and encourage them to think before responding.
     * **Pair up with the other team members:** Have someone as observer and note taker
     * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
