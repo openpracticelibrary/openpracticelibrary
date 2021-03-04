@@ -60,7 +60,7 @@ howTo: >-
 
   * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
 
-  * **Time of the interview:** No longer than 45mins to 1 hours
+  * **Time of the interview:** No longer than 45 mins to 60 mins
 
   * **Practices that can be used:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
 
