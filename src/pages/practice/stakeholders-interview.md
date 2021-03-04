@@ -74,12 +74,9 @@ howTo: >-
 
   * Preparatory research: <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
 
-
   * Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 
-
   * Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
-
 
   * How to prepare interview: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 people: 2+
