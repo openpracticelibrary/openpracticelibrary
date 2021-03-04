@@ -18,7 +18,9 @@ whatIs: >-
 
   * Analyze various viewpoints of perceptions and aspirations of each stakeholder who have a product success interest
 
-    ## **Who: are stakeholders?**
+
+  ## **Who: are stakeholders?**
+
   * Anyone who can offer useful product advice and ultimately help simplify the design process.
 
   * Anyone from the organisation, depending on the projects high level employees, lower-level employees or even influential users. The job title varies across various organisations. For e.g: Product Owner, Head of IT, Head of Data, IT Manager, Marketing Manager etc.
@@ -46,29 +48,40 @@ howTo: >-
 
   * **Logistics:** Discuss date, time and environment you will conduct interviews for e.g: face to face, virtual meeting, technologies suitable for both parties and many more.
 
-    ## **Some Helpful Tips:**
 
-    * **Establish psychological safety:** Create a secure, relaxing, and enjoyable atmosphere for the participants. Make it clear what the aim of the interview is, as well as when, how, and with whom the information will be exchanged.
-     * ** Encourage active listening** and encourage them to think before responding.
-    * **Pair up with the other team members:** Have someone as observer and note taker
-    * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
-    * **Time of the interview:** No longer than 45mins to 1 hours
-    * **Practices that can be used:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
-    * **Don’t lead the participant**: Always ask open-ended questions
-    * **What if:**
-      There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.
+  ## **Some Helpful Tips:**
 
-      **Helpful links:**
 
-      Preparatory research: 
-      <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
+  * **Establish psychological safety:** Create a secure, relaxing, and enjoyable atmosphere for the participants. Make it clear what the aim of the interview is, as well as when, how, and with whom the information will be exchanged.
 
-      Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
+  * **Encourage active listening** and encourage them to think before responding.
 
-      Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
+  * **Pair up with the other team members:** Have someone as observer and note taker
 
-      How to prepare interview: 
-      <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
+  * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
+
+  * **Time of the interview:** No longer than 45mins to 1 hours
+
+  * **Practices that can be used:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
+
+  * **Don’t lead the participant**: Always ask open-ended questions
+
+  * **What if:**
+    There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.
+
+  ## **Helpful links:**
+
+
+  * Preparatory research: <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
+
+
+  * Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
+
+
+  * Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
+
+
+  * How to prepare interview: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 people: 2+
 time: 45 min - 60 min
 difficulty: moderate
