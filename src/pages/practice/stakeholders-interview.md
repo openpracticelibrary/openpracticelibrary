@@ -46,25 +46,26 @@ howTo: >-
 
     ## **Some Helpful Tips:**
 
-    * **Establish psychological safety:** It is essential for the participants to create a secure and comfortable atmosphere. And they feel relaxed and safe. For example, clarify the intention of the interview, when, how and to whom the information will be shared, promote active listening, encourage them to reflect and answer.
+    * **Establish psychological safety:** Create a secure, comfortable and relaxed environment for the participants.  Also, make it clear what the interview's goal is, as well as where, how, and with whom the details will be exchanged.
+     * ** Encourage active listening** and encourage them to think before responding.
     * **Pair up with the other team members:** Have someone as observer and note taker
     * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
     * **Time of the interview:** No longer than 45mins to 1 hours
     * **Practices that can be used:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
-    * **Don’t lead the interviewee**: Always ask open-ended questions
+    * **Don’t lead the participant**: Always ask open-ended questions
     * **What if:**
       There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.
 
       **Helpful links:**
 
-      Preparatory research: \
+      Preparatory research: 
       <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
 
       Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 
       Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
 
-      How to prepare interview: \
+      How to prepare interview: 
       <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 people: 2+
 time: 45 min - 60 min
