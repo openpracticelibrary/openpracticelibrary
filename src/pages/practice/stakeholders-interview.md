@@ -5,8 +5,6 @@ subtitle: Help identify concrete objectives, targets and main priority areas
 date: 2021-02-09T09:45:51.714Z
 authors:
   - dsunwar
-  - Angels Dimitri Gutierrez
-  - Jordi Olive Calderon
 tags:
   - insight
   - learn
