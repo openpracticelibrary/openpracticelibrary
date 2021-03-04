@@ -52,7 +52,7 @@ howTo: >-
   ## **Some Helpful Tips:**
 
 
-  * **Establish psychological safety:** Create a secure, relaxing, and enjoyable atmosphere for the participants. Make it clear what the aim of the interview is, as well as when, how, and with whom the information will be exchanged.
+  * **Establish psychological safety:** Create a secure, relaxing, and enjoyable atmosphere for the participants. Make it clear the aim of the interview, as well as when, how, and with whom the information will be exchanged.
 
   * **Encourage active listening** and encourage them to think before responding.
 
