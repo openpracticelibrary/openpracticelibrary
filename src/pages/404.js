@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Button, Typography } from "@material-ui/core";
+import { Box, Button, Grid, Typography } from "@material-ui/core";
 import { navigate } from "gatsby";
 import { random } from "lodash";
 import HeroColor from "../components/shared/HeroColor";
@@ -30,15 +30,36 @@ const NotFound = () => (
 
       <Typography variant="h4" color="inherit" gutterBottom>
         404: Page Not Found
-      </Typography>
-      <Button
-        onClick={() => navigate(-1)}
-        variant="contained"
-        color="default"
-        size="lg"
+        </Typography>
+      <Grid
+        container
+        direction="row"
+        justify="center"
+        spacing={2}
       >
-        Head on Back
-      </Button>
+        <Grid item>
+          <Button
+            onClick={() => navigate(-1)}
+            variant="contained"
+            color="default"
+            size="lg"
+            mx={2}
+          >
+            Head on Back
+          </Button>
+        </Grid>
+        <Grid item>
+          <Button
+            onClick={() => navigate('/', { replace: true })}
+            variant="contained"
+            color="default"
+            size="lg"
+            mx={2}
+          >
+            Go Home
+          </Button>
+        </Grid>
+      </Grid>
     </Box>
   </HeroColor>
 );
