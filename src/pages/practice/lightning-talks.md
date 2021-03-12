@@ -8,13 +8,12 @@ authors:
 mobiusTag: delivery
 icon: /images/caspian-hoehne-5vhqu7qkmem-unsplash_edit.jpg
 whatIs: >-
-  Lightning talks are short presentations. They are highly focused on just a
-  couple of key points. When they are done well, they are a great way to get
-  your point across in a limited period of time. The time restriction forces
-  speakers to edit the message, and only the critically important elements
-  remain. They have been used a lot by scientists and tech groups to switch the
-  focus from “look at everything I know” to “what is the most important thing
-  for you to know right now?”
+  Lightning talks are short, highly focused and effective presentations.  When
+  they are done well, they are a great way to get your point across in a limited
+  period of time. The time restriction forces speakers to edit the message, and
+  only the critically important elements remain. They have been used a lot by
+  scientists and tech groups to switch the focus from “look at everything I
+  know” to “what is the most important thing for you to know right now?”
 
 
   Lightning talks have a specific format and recommended structure, that make them stand out from other short talks.
@@ -117,10 +116,13 @@ resources:
     description: Ted Talks - 5 minute talks
   - link: https://www.pechakucha.com/categories/videos
     linkType: web
-    description: examples of PechaKucha videos
+    description: PechaKucha videos
   - link: http://www.ignitetalks.io/
     linkType: web
-    description: examples of Ignite videos
+    description: Ignite videos
+  - link: unsplash.com
+    linkType: web
+    description: Photo resource for free + original content
 people: 2+
 time: minimum 5 mins, can be up to 90 minutes for a Lightning talk event
 difficulty: easy
