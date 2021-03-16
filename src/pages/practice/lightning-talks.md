@@ -6,7 +6,6 @@ date: 2021-03-12T16:53:09.861Z
 authors:
   - karenbatt
 mobiusTag: delivery
-icon: /images/caspian-hoehne-5vhqu7qkmem-unsplash_edit.jpg
 whatIs: >-
   Lightning talks are short, highly focused and effective presentations.  When
   they are done well, they are a great way to get your point across in a limited
@@ -96,8 +95,6 @@ howTo: >-
   If you are going to use slides...
 
 
-  * Find your pictures next ([unsplash.com](https://unsplash.com/) is a fantastic resource for this)
-
   * Then choose the words for your slides (only use them when absolutely necessary, and use as few as possible!)
 
 
@@ -119,10 +116,6 @@ resources:
     description: PechaKucha videos
   - link: http://www.ignitetalks.io/
     linkType: web
-    description: Ignite videos
-  - link: unsplash.com
-    linkType: web
-    description: Photo resource for free + original content
 people: 2+
 time: minimum 5 mins, can be up to 90 minutes for a Lightning talk event
 difficulty: easy
