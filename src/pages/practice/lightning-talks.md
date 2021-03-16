@@ -4,7 +4,7 @@ title: Lightning Talks
 subtitle: How to give great lightning talks in a flash!
 date: 2021-03-12T16:53:09.861Z
 authors:
-  - Karen Batt
+  - karenbatt
 mobiusTag: delivery
 icon: /images/caspian-hoehne-5vhqu7qkmem-unsplash_edit.jpg
 whatIs: >-
