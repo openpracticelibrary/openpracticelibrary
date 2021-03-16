@@ -114,8 +114,6 @@ resources:
   - link: https://www.pechakucha.com/categories/videos
     linkType: web
     description: PechaKucha videos
-  - link: http://www.ignitetalks.io/
-    linkType: web
 people: 2+
 time: minimum 5 mins, can be up to 90 minutes for a Lightning talk event
 difficulty: easy
