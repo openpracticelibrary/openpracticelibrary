@@ -19,6 +19,9 @@ resources:
     linkType: web
     description: "Dual Track Agile: the secret sauce to outcome-based development by
       David Denham"
+  - link: https://www.jpattonassociates.com/dual-track-development/
+    linkType: web
+    description: Jeff Patton - Dual Track Development
 difficulty: hard
 participants: []
 ---
