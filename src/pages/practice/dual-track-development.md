@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Dual Track Agile
-subtitle: A collaborative practice for Developers and Designers to build shared
+title: Dual Track Delivery
+subtitle: A collaborative practice for developers and designers to build shared
   understanding in service of outcomes based delivery.
 date: 2021-03-19T07:35:09.113Z
 authors:
@@ -11,9 +11,26 @@ tags:
   - methods
 mobiusTag: delivery
 icon: /images/img_1863.jpg
-whatIs: TBD
-whyDo: TBD
-howTo: TBD
+whatIs: Dual Track Agile is a way to weave together the critical work of
+  Discovery and Delivery needed for strong product development. Lynn Miller
+  wrote about the approach in a 2006 paper titled "[Case Study of Customer Input
+  For a Successful
+  Product](https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf)". It was
+  later popularised by Jeff Patton, and Marty Cagan.
+whyDo: >-
+  Dual Track Agile helps address some of the challenges teams experience with
+  handing over work during the product development life cycle. Working with dual
+  tracks can help:
+
+
+  * Surface and align unavoidable dependencies
+
+  * Build shared understanding through cross collaboration
+
+  * Minimise rework and facilitate prioritisation
+
+  * Validate learning before development begins
+howTo: Put discovery tasks into the backlog
 mediaGallery: []
 resources:
   - link: https://medium.com/@daviddenham07/dual-track-agile-the-secret-sauce-to-outcome-based-development-601f6003ea73
