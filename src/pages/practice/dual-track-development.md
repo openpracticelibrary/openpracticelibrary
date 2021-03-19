@@ -30,7 +30,12 @@ whyDo: >-
   * Minimise rework and facilitate prioritisation
 
   * Validate learning before development begins
-howTo: Put discovery tasks into the backlog
+howTo: |-
+  Combine design/discovery and development teams into one team.
+
+  Merge discovery tasks into the same product backlog as delivery tasks.
+
+  One product backlog, one cross-functional team.
 mediaGallery: []
 resources:
   - link: https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf
