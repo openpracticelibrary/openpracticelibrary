@@ -46,6 +46,15 @@ resources:
   - link: https://www.youtube.com/watch?v=JP7Wf87roMM
     linkType: video
     description: Design best practices in Dual-track Scrum
+  - link: https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf
+    linkType: web
+    description: "Lynn Miller - Case Study of Customer Input For a Successful Product "
+people: ""
 difficulty: hard
-participants: []
+participants:
+  - The Team
+  - Designers
+  - UX Research
+  - Product Owner
+  - BAs
 ---
