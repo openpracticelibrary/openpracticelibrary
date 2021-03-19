@@ -18,8 +18,8 @@ mediaGallery: []
 resources:
   - link: https://medium.com/@daviddenham07/dual-track-agile-the-secret-sauce-to-outcome-based-development-601f6003ea73
     linkType: web
-    description: "Dual Track Agile: the secret sauce to outcome-based development by
-      David Denham"
+    description: "David Denham - Dual Track Agile: the secret sauce to outcome-based
+      development"
   - link: https://www.jpattonassociates.com/dual-track-development
     linkType: web
     description: Jeff Patton - Dual Track Development
