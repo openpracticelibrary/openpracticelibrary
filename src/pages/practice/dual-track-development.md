@@ -26,6 +26,9 @@ resources:
   - link: https://www.youtube.com/watch?v=gtCNERX5GAE
     linkType: video
     description: Marty Cagan explains Dual Track Scrum
+  - link: https://www.youtube.com/watch?v=JP7Wf87roMM
+    linkType: video
+    description: Design best practices in Dual-track Scrum
 difficulty: hard
 participants: []
 ---
