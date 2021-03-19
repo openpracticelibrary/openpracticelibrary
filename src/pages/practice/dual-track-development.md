@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Dual Track Development
+title: Dual Track Agile
 subtitle: A collaborative practice for Developers and Designers to build shared
   understanding in service of outcomes based delivery.
 date: 2021-03-19T07:35:09.113Z
