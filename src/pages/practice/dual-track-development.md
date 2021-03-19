@@ -23,6 +23,9 @@ resources:
   - link: https://www.jpattonassociates.com/dual-track-development
     linkType: web
     description: Jeff Patton - Dual Track Development
+  - link: https://www.youtube.com/watch?v=gtCNERX5GAE
+    linkType: video
+    description: Marty Cagan explains Dual Track Scrum
 difficulty: hard
 participants: []
 ---
