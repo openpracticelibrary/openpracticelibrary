@@ -43,16 +43,16 @@ resources:
     linkType: web
     description: "David Denham - Dual Track Agile: the secret sauce to outcome-based
       development"
+  - link: https://www.youtube.com/watch?v=hnUkccjFo9Q
+    linkType: video
+    description: "Thinking more product: Moving from Scrum to dual-track Agile -
+      Suzanna Haworth"
   - link: https://www.youtube.com/watch?v=gtCNERX5GAE
     linkType: video
     description: Marty Cagan explains Dual Track Scrum
   - link: https://www.youtube.com/watch?v=JP7Wf87roMM
     linkType: video
     description: Design best practices in Dual-track Scrum
-  - link: https://www.youtube.com/watch?v=hnUkccjFo9Q
-    linkType: video
-    description: "Thinking more product: Moving from Scrum to dual-track Agile -
-      Suzanna Haworth"
 people: ""
 difficulty: hard
 participants:
