@@ -33,22 +33,26 @@ whyDo: >-
 howTo: Put discovery tasks into the backlog
 mediaGallery: []
 resources:
+  - link: https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf
+    linkType: web
+    description: "Lynn Miller - Case Study of Customer Input For a Successful Product "
+  - link: https://www.jpattonassociates.com/dual-track-development
+    linkType: web
+    description: Jeff Patton - Dual Track Development
   - link: https://medium.com/@daviddenham07/dual-track-agile-the-secret-sauce-to-outcome-based-development-601f6003ea73
     linkType: web
     description: "David Denham - Dual Track Agile: the secret sauce to outcome-based
       development"
-  - link: https://www.jpattonassociates.com/dual-track-development
-    linkType: web
-    description: Jeff Patton - Dual Track Development
   - link: https://www.youtube.com/watch?v=gtCNERX5GAE
     linkType: video
     description: Marty Cagan explains Dual Track Scrum
   - link: https://www.youtube.com/watch?v=JP7Wf87roMM
     linkType: video
     description: Design best practices in Dual-track Scrum
-  - link: https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf
-    linkType: web
-    description: "Lynn Miller - Case Study of Customer Input For a Successful Product "
+  - link: https://www.youtube.com/watch?v=hnUkccjFo9Q
+    linkType: video
+    description: "Thinking more product: Moving from Scrum to dual-track Agile -
+      Suzanna Haworth"
 people: ""
 difficulty: hard
 participants:
