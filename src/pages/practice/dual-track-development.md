@@ -19,5 +19,6 @@ resources:
     linkType: web
     description: "Dual Track Agile: the secret sauce to outcome-based development by
       David Denham"
+difficulty: hard
 participants: []
 ---
