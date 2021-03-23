@@ -10,9 +10,8 @@ tags:
 mobiusTag: delivery
 icon: /images/screenshot-2021-03-23-at-15.56.00.png
 whatIs: >-
-  
-
-  > #### *“Have trouble getting actual customers for usability testing because of the company's legacy systems, or vice versa ?”*
+  > #### *“Have trouble getting actual customers for usability testing because
+  of the company's legacy systems, or vice versa ?”*
 
   >
 
