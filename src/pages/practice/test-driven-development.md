@@ -36,7 +36,6 @@ howTo: >-
 
   * [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934) by Kent Beck.
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
   - link: https://live.staticflickr.com/65535/51041898047_fb088b41a9_4k.jpg
 resources:
   - link: https://en.wikipedia.org/wiki/Test-driven_development
