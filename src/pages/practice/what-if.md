@@ -49,5 +49,19 @@ howTo: >-
   12. Take the top-voted idea and list out action items/next steps to create an run an experiment with this solution. Assign ownership of the idea to someone (ideally the person whose idea it was)
 
   13. Have the team run with the next steps and follow up at a later date (1-2 weeks) to check in on progress
-participants: []
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=1EL1bove_bs
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/What%20if%20template.png?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/What%20if%20example.png?raw=true
+resources:
+  - link: https://duncanwardle.com/breaking-the-rules-how-you-can-be-more-innovative/
+    linkType: web
+    description: 'Breaking the Rules, an Innovation Tool, by creator of the "What
+      If" practice Duncan Wardle '
+people: 1-20
+time: 15-60 min
+difficulty: easy
+participants:
+  - Product Team
+  - '"Naive Expert" (someone not familiar with the space)'
 ---
