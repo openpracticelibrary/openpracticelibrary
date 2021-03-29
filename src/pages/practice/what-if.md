@@ -38,6 +38,16 @@ howTo: >-
 
   7. Ask the team to think to themselves "What if this rule didn't apply?" On a separate stickie, reword the rule to create a provocative statement that answers that question
 
-  8. Set a timer for 10 minutes and have everyone write down ideas for what a
+  8. Set a timer for 10 minutes and have everyone write down ideas for what a future solution might look like if the selected rule didn't apply. Place ideas in the "Imagine If.." column
+
+  9. (Optional Step) If you have a large group or LOTS of ideas created and are running short on time, set a 3 minute timer and have participants select their top 2-3 ideas that they feel are the most ambitious
+
+  10. Have participants present their ideas to the group
+
+  11. Conduct another round of dot-voting (again with 3 dots for each participant) to have the team vote on what idea(s) they want to experiment with
+
+  12. Take the top-voted idea and list out action items/next steps to create an run an experiment with this solution. Assign ownership of the idea to someone (ideally the person whose idea it was)
+
+  13. Have the team run with the next steps and follow up at a later date (1-2 weeks) to check in on progress
 participants: []
 ---
