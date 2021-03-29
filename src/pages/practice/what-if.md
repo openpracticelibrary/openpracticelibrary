@@ -69,6 +69,7 @@ mediaGallery:
   - link: https://www.youtube.com/watch?v=1EL1bove_bs
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/What%20if%20template.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/What%20if%20example.png?raw=true
+  - link: https://youtu.be/_8MwiGYzlyg
 resources:
   - link: https://duncanwardle.com/breaking-the-rules-how-you-can-be-more-innovative/
     linkType: web
