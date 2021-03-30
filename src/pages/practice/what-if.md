@@ -50,7 +50,7 @@ howTo: >-
 
   * Set a timer for 10 minutes and have everyone write down ideas for what a future solution might look like if the selected rule didn't apply. Place ideas in the "Imagine If.." column
 
-  * (Optional Step) If you have a large group or LOTS of ideas created and are running short on time, set a 3 minute timer and have participants select their top 2-3 ideas that they feel are the most ambitious
+  * (Optional Step) If you have a large group or LOTS of ideas created and are running short on time, set a 3 minute timer and have participants select the top 2-3 ideas they generated that they feel are the most ambitious
 
   * Have participants present their ideas to the group
 
