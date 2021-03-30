@@ -16,7 +16,7 @@ whatIs: The "What If..." practice is a team activity that seeks to identify the
   Duncan Wardle.
 whyDo: This practice is a proven activity for lightly challenging peoples'
   mental barriers surrounding a particular business challenge. These mental
-  barriers, or "river of thinking," forms over time as we work in a particular
+  barriers, or "river of thinking," form over time as we work in a particular
   industry. Through our experiences, we subconciously begin to form patterns in
   what we think something should look like, and these patterns begin to form
   boundaries for creativity. The "What If..." practice seeks to identify those
