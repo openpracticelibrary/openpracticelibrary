@@ -32,7 +32,7 @@ howTo: >-
 
   * Give everyone on the team a pad of stickies and a sharpie (if running this in person)
 
-  * Set a timer for 5 minutes and have participants list out all the rules, norms, and barriers related to that particular challenge (1 idea per stickie)
+  * Set a timer for 5 minutes and have participants list out all the rules, norms, and barriers related to that particular challenge (1 idea per stickie). Place ideas in the "Rules" column
 
   * After the timer goes off, read through all the ideas, then give everyone 3 dots for voting
 
@@ -55,8 +55,6 @@ howTo: >-
   * Have participants present their ideas to the group
 
   * Conduct another round of dot-voting (again with 3 dots for each participant) to have the team vote on what idea(s) they want to experiment with
-
-
 
 
   **Step 4: Create Next-steps**
