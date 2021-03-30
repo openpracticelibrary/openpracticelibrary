@@ -9,7 +9,7 @@ tags:
   - ideate
 mobiusTag: options
 icon: /images/what-if-template.png
-whatIs: The "What If..." practice is a team activity seeks to identify the
+whatIs: The "What If..." practice is a team activity that seeks to identify the
   current "rules" or "norms" surrounding a particular challenge, then eliminate
   one of those rules or norms to broaden the spectrum of innovative ideas. This
   practice was created by former Head of Innovation and Creativity at Disney,
