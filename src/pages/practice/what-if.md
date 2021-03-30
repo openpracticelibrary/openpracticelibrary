@@ -60,7 +60,7 @@ howTo: >-
   **Step 4: Create Next-steps**
 
 
-  * Take the top-voted idea and list out action items/next steps to create and run an experiment with this solution. Assign ownership of the idea to someone (ideally the person whose idea it was)
+  * Take the top-voted idea and list out action items/next steps to create and run an experiment with this idea. Assign ownership to someone (ideally the person whose idea it was)
 
   * Have the team run with the next steps and follow up at a later date (1-2 weeks) to check in on progress
 mediaGallery:
