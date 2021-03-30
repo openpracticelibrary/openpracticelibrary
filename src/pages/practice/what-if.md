@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: What If...
-subtitle: Challenge rules and norms with a light touch to spur innovation
+subtitle: Lightly challenge rules and norms to spur innovation
 date: 2021-03-29T13:58:19.547Z
 authors:
   - heyjerrybecker
