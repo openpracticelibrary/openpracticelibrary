@@ -42,7 +42,7 @@ howTo: >-
 
   * Set timer for 2 minutes and have everyone vote on the rule(s) they think that, if eliminated, would most broaden the spectrum of ideation. Take the top-voted stickie and move it to the "What If..." column
 
-  * Ask the team to think to themselves "What if this rule didn't apply?" On a separate stickie, reword the rule to create a provocative statement that answers that question
+  * Ask the team to think to themselves "What if this rule didn't apply?" On a separate stickie, reword the rule to create a provocative "What if" statement
 
 
   **Step 3: Imagine If...**
