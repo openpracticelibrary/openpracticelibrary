@@ -83,7 +83,7 @@ howTo: Have a look at some of the available templates and start reading about
 resources:
   - link: https://adr.github.io/madr/
     linkType: web
-    description: The Markdown Architectural Decision Records
+    description: Markdown Architectural Decision Records
   - link: https://www.infoq.com/articles/sustainable-architectural-design-decisions
     linkType: web
     description: Sustainable Architectural Decisions
