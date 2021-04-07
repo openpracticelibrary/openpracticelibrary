@@ -1,11 +1,17 @@
 ---
 templateKey: practice-page
 title: Lightning Talks
-subtitle: How to give great lightning talks in a flash!
+subtitle: Short, highly focused presentations
 date: 2021-03-12T16:53:09.861Z
 authors:
   - karenbatt
+  - heyjerrybecker
+tags:
+  - value
+  - learn
+  - insight
 mobiusTag: delivery
+icon: /images/lightning-talks.png
 whatIs: >-
   Lightning talks are short, highly focused and effective presentations.  When
   they are done well, they are a great way to get your point across in a limited
@@ -107,6 +113,10 @@ howTo: >-
 
 
   This way, on the day of your presentation, even if you have a last minute logistical nightmare (which can happen despite your best planning and preparation), you can provide value to your audience/team/customer, by communicating the most important thing for them to know now.
+mediaGallery:
+  - link: https://www.thebostoncalendar.com/system/events/photos/000/235/956/original/SF_LightningTalks_edited.png?1548953347
+  - link: https://www.youtube.com/watch?v=aCHyrkPCol8
+  - link: https://www.youtube.com/watch?v=OALMiiNu2qM
 resources:
   - link: https://www.youtube.com/results?search_query=ted+5+minute+talks
     linkType: web
