@@ -30,15 +30,17 @@ howTo: >-
 
   a. **Rose** = something that is working well or something positive\
 
-  b. **Bud** = an area of opportunity or idea yet to be explored\
+  b. **Thorn** = something that isn’t working or something negative\
 
-  c. **Thorn** = something that isn’t working or something negative
+  c. **Bud** = an area of opportunity or idea yet to be explored
 
+
+  \
 
   Now that that's defined, let's talk about how to facilitate it!
 
 
-  Steps:
+  **Steps:**
 
 
   1. On a whiteboard or digital whiteboarding tool, create 3 columns and label them "Rose," "Thorn," and "Bud."
