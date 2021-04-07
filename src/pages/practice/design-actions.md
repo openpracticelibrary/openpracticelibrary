@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: "Design Retro : Active"
-subtitle: Making good things better.
+subtitle: Improve the quality and usability of your product design
 date: 2021-02-03T19:01:43.149Z
 authors:
   - philipdouble
