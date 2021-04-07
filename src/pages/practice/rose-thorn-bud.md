@@ -37,7 +37,7 @@ howTo: >-
 
   \
 
-  Now that that's defined, let's talk about how to facilitate it!
+  Now that we're on the same page with our terms, let's talk about how to facilitate this!
 
 
   **Steps:**
