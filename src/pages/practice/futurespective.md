@@ -4,7 +4,7 @@ title: Futurespective
 subtitle: Looking to the future
 date: 2021-04-09T09:16:07.537Z
 authors:
-  - A.Grossi
+  - agrossi-21
 tags:
   - methods
 mobiusTag: discovery
