@@ -5,7 +5,7 @@ subtitle: How to go from incremental innovation to disruptive innovation.
 date: 2021-04-12T14:05:35.644Z
 authors:
   - heyjerrybecker
-jumbotron: /images/needs-an-image.png
+jumbotron: /images/disruptive-innovation.jpeg
 ---
 Incremental Innovation improves today.\
 Disruptive Innovation creates tomorrow.
