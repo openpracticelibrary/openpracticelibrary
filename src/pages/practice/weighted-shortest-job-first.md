@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Weighted Shortest Job First
-subtitle: Activity for quantitatively assessing and agreeing backlog prioritisation
+subtitle: Practice for quantitatively assessing and agreeing backlog prioritisation
 date: 2021-04-13T08:58:44.242Z
 authors:
   - nick-woods
