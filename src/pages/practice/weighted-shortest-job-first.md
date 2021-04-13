@@ -5,7 +5,6 @@ subtitle: Practice for quantitatively assessing and agreeing backlog prioritisat
 date: 2021-04-13T08:58:44.242Z
 authors:
   - nick-woods
-  - ""
 tags:
   - insight
 mobiusTag: options
