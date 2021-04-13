@@ -9,14 +9,14 @@ authors:
   - rmarting
   - itblaked
 howTo: The tests and build steps are typically run in an automation server such
-  as [Jenkins](https://jenkins.io/) or [Travis](https://travis-ci.org/).
+  as  [Jenkins](https://jenkins.io/) or [Travis](https://travis-ci.org/). There
+  are also cloud native/kubernetes flavoured solutions such as
+  [Tekton](https://tekton.dev/) and
+  [ArgoCD](https://argoproj.github.io/argo-cd/)
 resources:
   - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
     linkType: podcast
     description: CI/CD Open Practice Podcast Episode
-  - link: https://www.openshift.com/learn/topics/pipelines
-    linkType: web
-    description: OpenShift Pipelines
   - link: https://jenkins.io/
     linkType: web
     description: Jenkins
@@ -26,6 +26,12 @@ resources:
   - link: https://docs.gitlab.com/ee/ci/
     linkType: web
     description: GitLab CI/CD Documentation
+  - link: https://tekton.dev/
+    linkType: web
+    description: Tekton
+  - link: https://argoproj.github.io/argo-cd/
+    linkType: web
+    description: ArgoCD
 participants:
   - Team Members
 area: foundation-technical
