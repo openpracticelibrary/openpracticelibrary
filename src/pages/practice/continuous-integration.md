@@ -10,9 +10,8 @@ authors:
   - itblaked
 howTo: The tests and build steps are typically run in an automation server such
   as  [Jenkins](https://jenkins.io/) or [Travis](https://travis-ci.org/). There
-  are also cloud native/kubernetes flavoured solutions such as
-  [Tekton](https://tekton.dev/) and
-  [ArgoCD](https://argoproj.github.io/argo-cd/)
+  are also cloud native/kubernetes solutions such as
+  [Tekton](https://tekton.dev/).
 resources:
   - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
     linkType: podcast
@@ -23,15 +22,12 @@ resources:
   - link: https://travis-ci.org/
     linkType: web
     description: Travis CI
-  - link: https://docs.gitlab.com/ee/ci/
-    linkType: web
-    description: GitLab CI/CD Documentation
   - link: https://tekton.dev/
     linkType: web
     description: Tekton
-  - link: https://argoproj.github.io/argo-cd/
+  - link: https://docs.gitlab.com/ee/ci/
     linkType: web
-    description: ArgoCD
+    description: GitLab CI/CD Documentation
 participants:
   - Team Members
 area: foundation-technical
