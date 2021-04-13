@@ -6,15 +6,14 @@ authors:
   - itblaked
 howTo: >-
   These tests are typically executed by a Continuous Integration (CI) tool, for
-  example [OpenShift Pipelines
-  ](https://www.openshift.com/learn/topics/pipelines) and [ Jenkins
-  ](https://jenkins.io/). 
+  example [ Jenkins ](https://jenkins.io/) or
+  [TravisCI](https://travis-ci.org/). 
 
 
   Easy and quick tests can be executed right after building (compiling) an application or when code is pushed or merged in source control.
 
 
-  Many of these tests can be run in parallel, decreasing the overall time taken to run the tests.
+  Many of these tests can be run in parallel, decreasing the overall time taken to run a collection of tests.
 resources:
   - link: https://jenkins.io/
     linkType: web
@@ -46,10 +45,9 @@ whatIs: >-
 
   * Security tests
 whyDo: |-
-  * It increases the code quality.
-  * It shortens feedback loops.
-  * It standardises testing.
-  * It tells if your change broke some previously working code.
+  * Increase code quality
+  * Faster feedback
+  * Standardise approach to testing
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/test%20automation.jpg?raw=true
 people: 1+
