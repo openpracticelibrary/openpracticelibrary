@@ -4,15 +4,17 @@ title: Futurespective
 subtitle: Looking to the future
 date: 2021-04-09T09:16:07.537Z
 authors:
-  - A.Grossi
+  - agrossi-21
 tags:
   - methods
 mobiusTag: discovery
 icon: /images/silhouette-looking-to-the-future.jpg
 whatIs: >-
-  
-
-  Futurespective is the exercise to place ourselves in the future by imagining that our goals have been reached. They start such a retrospectives by discussing the team goals to ensure that team members build a common understanding. The goals are formulated and written down so that they are visible for everybody.
+  Futurespective is the exercise to place ourselves in the future by imagining
+  that our goals have been reached. They start such a retrospectives by
+  discussing the team goals to ensure that team members build a common
+  understanding. The goals are formulated and written down so that they are
+  visible for everybody. 
 
 
   Optionally teams can write down which benefits they got from reaching their goals. If team like to party they can even do a small celebration for having reached the goals, which can help to make teams aware of the importance of reaching it.
