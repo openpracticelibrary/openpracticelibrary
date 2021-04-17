@@ -7,7 +7,7 @@ authors:
 howTo: >-
   These tests are typically executed by a Continuous Integration (CI) tool, for
   example [ Jenkins ](https://jenkins.io/) or
-  [TravisCI](https://travis-ci.org/). 
+  [TravisCI](https://www.travis-ci.com/). 
 
 
   Easy and quick tests can be executed right after building (compiling) an application or when code is pushed or merged in source control.
@@ -21,6 +21,9 @@ resources:
   - link: https://en.wikipedia.org/wiki/Test_automation
     linkType: web
     description: Wikipedia Article - Test automation
+  - link: https://www.travis-ci.com/
+    linkType: web
+    description: TravisCI
 participants:
   - Team members
 area: foundation-technical
