@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/screenshot-2021-04-21-at-01.01.49.png
 whatIs: >-
   GitOps is a pattern to manage the flow of work from development to production
   through Git operations. The concept behind GitOps is quite straightforward:
@@ -70,5 +70,18 @@ howTo: >-
 
 
   The Open Practice Library is a collection of microservices and a front-end application, spread across multiple [Git repositories](https://github.com/openpracticelibrary/opl-cd). These microservices are defined as manifests and manifest changes are automatically triggered to release versions of the Open Practice Library via GitHub Actions in the various code repos. It is watched by ArgoCD, automatically updating apps running in Red Hat OpenShift Container Platform with any manifest changes.
+resources:
+  - link: https://github.com/rht-labs/ubiquitous-journey
+    linkType: web
+    description: Ubiquitous Journey - an implementation of GitOps
+  - link: "https://www.openshift.com/blog/announcing-openshift-gitops "
+    linkType: web
+    description: Red Hat OpenShift GitOps
+  - link: "https://argoproj.github.io/argo-cd/ "
+    linkType: web
+    description: Argo CD - a popular GitOps tool
+  - link: "https://www.weave.works/technologies/gitops/ "
+    linkType: web
+    description: What is GitOps?
 participants: []
 ---
