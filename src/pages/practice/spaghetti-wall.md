@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Spaghetti Wall
-subtitle: An always-open space for capturing and collaborating on new ideas
+subtitle: An always-open space for collaborating on new problems and ideas
 date: 2021-04-22T11:59:18.427Z
 authors:
   - heyjerrybecker
