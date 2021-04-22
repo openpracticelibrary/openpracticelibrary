@@ -73,6 +73,11 @@ howTo: >-
 
 
   **Tip:** Have someone or a small group of people who are willing to help manage the Spaghetti Wall itself. This includes taking leadership challenges and adding them to that area of the board, as well as reaching out to collaborators to take mature ideas off the board (as they progress to development) and remove stale ideas that haven't been progressed in a wile (don't worry - if the idea becomes valid again, someone will add it back 🙂 )
+
+
+
+
+  And that's it! Now you have a common place for collaborating to solve problems and generate new ideas for your organization! Allow the Spaghetti Wall to organically evolve as your organization continues to learn form the work you do. And don't forget to share out updates and success stories from the wall to encourage more collaboration!
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Spaghetti%20Wall%202.jpeg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Wall-of-Ideas-1--1024x571.jpeg
