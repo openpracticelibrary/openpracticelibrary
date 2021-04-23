@@ -5,13 +5,15 @@ subtitle: Help identify concrete objectives, targets and main priority areas
 date: 2021-02-09T09:45:51.714Z
 authors:
   - dsunwar
+  - angelsdimitri
+  - JordiOlive
 tags: []
 mobiusTag: discovery
 icon: /images/screenshot-2021-02-05-at-16.11.47.png
 whatIs: >-
   * One on one conversation to help better understand what stakeholders want and
-  need from the product.
-  * An opportunity to gather useful information from three main areas, and more for e.g:\
+  need from the product. * An opportunity to gather useful information from
+  three main areas, and more for e.g:\
     User needs, Business goals and Technical limitations to gather valuable insights.
   * Analyze various viewpoints of perceptions and aspirations of each stakeholder who have a product success interest
 
@@ -67,5 +69,4 @@ howTo: >-
 
       How to prepare interview: \
       <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
-      
 ---
