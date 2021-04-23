@@ -23,7 +23,7 @@ whyDo: >-
   to mature through collaboration. 
 
 
-  Colleagues can visit the Spaghetti Wall at any time and quickly align on current problems and ideas the rest of the organization is capturing and working on. This not only promotes transparency, but colleagues can also  naturally gravitate toward the problems they are drawn to and help mature the idea by adding clarifying questions and ideas to the wall. This gives your problem-solvers and dreamers an outlet to utilize their skillset to help drive organizational impact as well as strengthen your culture of innovation and collaboration. Collaboration for the win!!
+  Colleagues can visit the Spaghetti Wall at any time and quickly align on current problems and ideas the rest of the organization is capturing and working on. This not only promotes transparency, but colleagues can also  naturally gravitate toward the problems they are drawn to and help mature the idea by adding clarifying questions and ideas to the wall. This gives your problem-solvers and dreamers an outlet to use their skills to help drive organizational impact as well as strengthen your culture of innovation and collaboration. Collaboration for the win!!
 howTo: >-
   1. On a large, physical wall space or rolling whiteboard, label the Spaghetti
   Wall. If performing this with a remote team, create a board in your favorite
