@@ -10,92 +10,16 @@ tags:
 mobiusTag: delivery
 icon: /images/glenn-carstens-peters-rlw-uc03gwc-unsplash.jpg
 whatIs: >-
-  ### Code Review Security Checklist
+  This Security Checklist  from [SafeStack.io](https://safestack.io) was created
+  to improve security culture in dev teams and help them consistently
+
+  check their code for common security risks. 
 
 
-  #### Before pushing code to the team repository
+  The earlier that vulnerabilities are discovered, the cheaper and easier they are to fix. The tool is intended for use as part of a software team’s code review process, to improve security posture, and the quality of the code they release.
 
 
-  * Have all secrets been removed from the committed code?
-
-
-  #### Before completing the code review
-
-
-  * Have unresolved risks been raised and documented?
-
-
-  #### During a review of the code (with author, reviewers, tester)
-
-
-  * Have the right people been engaged to review the code?
-
-
-  * Is the purpose of the change stated and understood by the reviewers?
-
-
-  * Is there debug functionality in the code?
-
-  ** No
-
-  ** Yes, and it can only run in test environments.
-
-
-  * Is user-supplied data:
-
-  ** Validated before it is used or stored?
-
-  ** Escaped when it is passed to an interpreter?
-
-
-  * Do log entries:
-
-  ** Cover all key events and states?
-
-  ** Include enough information to uniquely identify the event?
-
-  ** Exclude secrets and customers’ PII?
-
-
-  * For frameworks, libraries,tools and other dependencies:
-
-  ** Are they being used effectively?
-
-  ** Have new dependencies been vetted?
-
-  ** Are they up-to-date?
-
-
-  * Do response messages:
-
-  ** Make use of appropriate status codes?
-
-  ** Exclude information that should remain internal to the
-
-  system?
-
-  ** Limit information to the correct level of authorization?
-
-
-  * To testers:
-
-  ** Is the test coverage sufficient?
-
-  ** Are misuse cases represented?
-
-
-  See the [Code Review Security Checklist Implementation Manual](https://academy.safestack.io/wp-content/uploads/2021/01/code_review_security_checklist_implementation_manual_2020-02-20.pdf).
-whyDo: >-
-  Improve code review culture by consistently applying secure coding practices. 
-
-
-  This Security Checklist from [SafeStack.io](https://safestack.io) is not comprehensive. It is not intended as a standalone teaching tool, an accountability mechanism, or as a complete guide to secure development.  
-
-
-  It is a good starting point for building better security practices in to the software development process. Additions and modifications to fit local practice are encouraged.
-
-
-  ### Introducing the checklist 
+  ### Introducing the Security Checklist
 
 
   * Identify a core group of people who are enthusiastic about improving their code review culture. 
@@ -105,7 +29,8 @@ whyDo: >-
   * Identify key quality metrics and measure them. 
 
   * Integrate the checklist directly into your build-test-release workflow.
-howTo: >-
+
+
   The security checklist has three phases 
 
 
@@ -113,10 +38,78 @@ howTo: >-
 
   * During the code review 
 
-  * Before the code review is marked complete 
+  * Before the code review is marked complete
 
 
-  The security checklist itself can be included as a template in a code review request and the review tools configured to require its completion. It may still be helpful to have physical copies visible around teams’ workstations. 
+  ### Code Review Security Checklist
+
+
+  #### Before pushing code to the team repository
+
+
+  * Have all secrets been removed from the committed code?
+
+    * Yes/No
+
+  #### Before completing the code review
+
+
+  * Have unresolved risks been raised and documented?
+
+    * Yes/No
+
+  #### During a review of the code (with author, reviewers, tester)
+
+
+  * Have the right people been engaged to review the code?
+
+    * Yes/No
+  * Is the purpose of the change stated and understood by the reviewers?
+
+    * Yes/No
+  * Is there debug functionality in the code?
+
+    * No
+    * Yes, and it can only run in test environments.
+  * Is user-supplied data:
+
+    * Validated before it is used or stored? 
+    * Escaped when it is passed to an interpreter?
+  * Do log entries:
+
+    * Cover all key events and states?
+    * Include enough information to uniquely identify the event?
+  * Exclude secrets and customers’ PII?
+
+  * For frameworks, libraries, tools and other dependencies:
+     **\-** Are they being used effectively?
+
+    * Have new dependencies been vetted?
+    * Are they up-to-date?
+  * Do response messages:
+
+    * Make use of appropriate status codes? 
+    * Exclude information that should remain internal to the
+      system?
+    * Limit information to the correct level of authorization?
+  * To testers:
+
+    * Is the test coverage sufficient?
+    * Are misuse cases represented?
+
+  See the [Code Review Security Checklist Implementation Manual](https://academy.safestack.io/wp-content/uploads/2021/01/code_review_security_checklist_implementation_manual_2020-02-20.pdf) for details.
+whyDo: >
+  Improve code review culture by consistently applying secure coding practices. 
+
+
+  It is a good starting point for building better security practices in to the software development process. Additions and modifications to fit local practice are encouraged.
+
+
+  It is not comprehensive. It is not intended as a standalone teaching tool, an accountability mechanism, or as a complete guide to secure development.  
+howTo: >-
+  The security checklist itself can be included as a template in a code review
+  request and the review tools configured to require its completion. It may
+  still be helpful to have physical copies visible around teams’ workstations. 
 
 
   The first phase takes place before the original author shares their code with the team and consists of the author verifying they haven’t included any real passwords, keys, tokens, or other secrets in their code. 
