@@ -79,11 +79,10 @@ whatIs: >-
 
     * Cover all key events and states?
     * Include enough information to uniquely identify the event?
-  * Exclude secrets and customers’ PII?
-
+    * Exclude secrets and customers’ PII?
   * For frameworks, libraries, tools and other dependencies:
-     **\-** Are they being used effectively?
 
+    * Are they being used effectively?
     * Have new dependencies been vetted?
     * Are they up-to-date?
   * Do response messages:
