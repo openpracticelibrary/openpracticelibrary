@@ -16,7 +16,7 @@ whatIs: >-
   check their code for common security risks. 
 
 
-  The earlier that vulnerabilities are discovered, the cheaper and easier they are to fix. The tool is intended for use as part of a software team’s code review process, to improve security posture, and the quality of the code they release.
+  The earlier that vulnerabilities are discovered, the cheaper and easier they are to fix. The tool is intended for use as part of a software team’s code review process to improve security posture, and the quality of the code they release.
 
 
   ### Introducing the Security Checklist
