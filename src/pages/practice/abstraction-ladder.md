@@ -24,19 +24,6 @@ whyDo: Taking time to explore a given problem statement can help you reframe the
   solutions, allowing for more ideas and increasing the creative potential of
   your solution.
 howTo: >-
-  Before starting the practice, make sure the team knows there are a few ground
-  rules to abide by...
-
-
-  * Defer judgement
-
-  * Strive for quantity
-
-  * Seek wild ideas or options
-
-  * Combine and build on ideas or options
-
-
   **Steps to facilitate this practice:**
 
 
@@ -49,35 +36,35 @@ howTo: >-
 
   3. Write your initial problem statement in the middle rung
 
-  4. Ask the group to write down 3 reasons as to WHY we want to solve this problem, with each reason on its own stickie
+  4. Ask the group to write down 3 reasons as to WHY this is a problem, with each reason on its own stickie
 
-  5. Cluster stickies that are similar together on the board and present them to the group. Reword clusters with a new stickie to capture "How Might We" statements at a level that captures the essence of all stickies in that cluster
+  5. Cluster stickies that are similar together on the board and present them to the group. Reword clusters with a new stickie to captures the problem statements at a level that captures the essence of all stickies in that cluster
 
-  6. Give the group 3 dots and have them vote on which "HMW" statements they like the most
+  6. Give the group 3 dots and have them vote on which problem statements they like the most
 
-  7. Reword the top-voted stickies to turn them into "HMW" statements and place them on the next highest rung of the ladder
+  7. Place the top 3 stickies on the next rung of the ladder
 
-  8. Repeat steps 4 through 7 for the new problem statements 3-4 times
-
-
-  **"Blockers" framing**
+  8. Repeat steps 4 through 7 for the new problem statements 2 more times
 
 
-  1. Going back to the original problem statement, ask the group to write down 3 reasons as to what's stopping the group from having this problem solved already
+  **"Causality" framing**
 
-  2. Cluster stickies that are similar together on the board and present them to the group. Reword clusters with a new stickie to capture "How Might We" statements at a level that captures the essence of all stickies in that cluster
 
-  3. Give the group 3 dots and have them vote on which "HMW" statements they like the most
+  1. Going back to the original problem statement, ask the group to write down 3 things that answers the question "what problems does this cause?"
 
-  4. Reword the top-voted stickies to turn them into "HMW" statements and place them on the next lowest rung of the ladder
+  2. Cluster stickies that are similar together on the board and present them to the group. Reword clusters with a new stickie to captures the problem statements at a level that captures the essence of all stickies in that cluster
 
-  5. Repeat steps 1 through 4 for the new problem statements 3-4 times
+  3. Give the group 3 dots and have them vote on which problem statements they like the most
+
+  4. Place the top 3 stickies on the next rung of the ladder
+
+  5. Repeat steps 1 through 4 for the new problem statements 2 more times
 
 
   **Problem Statement Selection**
 
 
-  1. By now, you have a myriad of HMW statements that range from the more abstract (at the top of the ladder) to more concrete (at the bottom of the ladder). In a final vote, have each team member select which problem statement they think is most worth solving in order to generate the biggest impact. 
+  1. By now, you have a myriad of related problem statements that range from the more abstract (at the top of the ladder) to more concrete (at the bottom of the ladder). In a final vote, have each team member select which problem statement they think is most worth solving in order to generate the biggest impact. 
 
   2. Take the top-voted statement and now you're ready to ideate solutions!
 mediaGallery:
