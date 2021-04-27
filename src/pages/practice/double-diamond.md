@@ -5,7 +5,7 @@ subtitle: A structured approach to tackle challenges in four phases, from
   exploring to taking focused actions.
 date: 2021-04-27T08:17:59.530Z
 authors:
-  - ilaria66
+  - Ilaria66
 tags:
   - methods
 mobiusTag: foundation
@@ -97,10 +97,10 @@ howTo: >-
 resources:
   - link: https://www.dannessler.com/ux-design
     linkType: web
-    description: double diamond creator website
+    description: Double diamond creator website
   - link: https://www.youtube.com/watch?v=_kR7Gw0vVLE
     linkType: video
-    description: Book presentation "visual thinking" by Williemien Brand with Double
-      diamond adaptation for visual thinking
+    description: '"Visual Doing" Book presentation by Willemien Brand, with Double
+      diamond adaptation for visual thinking'
 participants: []
 ---
