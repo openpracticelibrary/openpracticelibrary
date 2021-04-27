@@ -90,7 +90,7 @@ mediaGallery:
   - link: https://drive.google.com/file/d/1rocp-pBrq3nWhaaKg3LSIlW3a5bi8vwS/view?usp=sharing
   - link: https://drive.google.com/file/d/1Wg6RCHx8mFJ12UHAAM3X_TF5feZy6KmM/view?usp=sharing
 people: 5+
-time: 1 hour
+time: 1+
 difficulty: moderate
 participants:
   - Tech Team
