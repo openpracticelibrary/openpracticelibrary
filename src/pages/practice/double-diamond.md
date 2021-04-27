@@ -47,9 +47,9 @@ whatIs: >-
 whyDo: It's useful to break down problems in any complex system, be it business,
   government, or social organizations to find creatively possible solutions.
 howTo: >-
-  Typically multiple competences are involved in a workshop to combine
-  creativity and rationality and it’s very important to put the voice of the
-  customer at the center of the Idea and Design.
+  
+
+  Typically multiple competences are involved in a workshop to combine creativity and rationality and it’s very important to put the voice of the customer at the center of the Idea and Design.
 
 
   The process of designing has iterative steps of diverging and converging:
@@ -62,8 +62,6 @@ howTo: >-
   3. Develop / ideation: Diverge by generating potential solutions for .eg: prototype
 
   4. Deliver / Implementation: Converge by Iterating with the solution that works through validation.
-
-
 
 
   The approach used for Visual thinking was the following:
@@ -82,22 +80,20 @@ howTo: >-
      3. A second on a long brown paper (with sticky notes and pencil), deciding the size & type of the support
      4. The last on thick paper on the final board (120 cm x 240cm)
 
-  **SELECTING ICONS**
 
 
-  ![](https://lh6.googleusercontent.com/49yp1G15dmiQsjxoeeG_lIEJbuyZn7-gm__rRIIyY7xRdhjFTg81qH8HLYggv7xIczpU6P2H_66so7KoZBmCYc7ICDZaee2iGZKitREHlClSJIWoiNBvpXKKPEZSx-2YuvckX4SF)
+  ![Selecting icons and metaphors](https://lh6.googleusercontent.com/49yp1G15dmiQsjxoeeG_lIEJbuyZn7-gm__rRIIyY7xRdhjFTg81qH8HLYggv7xIczpU6P2H_66so7KoZBmCYc7ICDZaee2iGZKitREHlClSJIWoiNBvpXKKPEZSx-2YuvckX4SF "**SELECTING ICONS**")
 
 
-  **SKETCHING tHE FLOW**![](https://lh6.googleusercontent.com/kWeAkd6vbcsLfCF_-DVmJ-clWLbQpLLlgP6Ryb-GQmi1JS3uEJ35E7DSvtY9GzvbJ1z1XEAbchxP_uKL2PlppIYUa89y6J-q9Jl_spFFrohFvlKjNwXo0_QzOvpmOIl4Q5aew6Be)
+  ![**SKETCHING tHE FLOW**](/images/the-flow.png "**SKETCHING tHE FLOW**")
 
 
-  **TESTING THE SPACE for the FLOW**
+  ![**TESTING THE SPACE for the FLOW**](https://lh3.googleusercontent.com/9G4TO72XTglFiojUL-UW6qgvIjLFJUKw_r13KDXk8KuSQHIfIQhQ5tXPfuSBBygvecoyhM6j90wVoEHeB49pgHWgVdM314eUaECDxXTrbIjeQSnI7nhTnsE0rhRM2EtUvp5vcGNR "**TESTING THE SPACE for the FLOW**")
 
 
-  ![](https://lh3.googleusercontent.com/9G4TO72XTglFiojUL-UW6qgvIjLFJUKw_r13KDXk8KuSQHIfIQhQ5tXPfuSBBygvecoyhM6j90wVoEHeB49pgHWgVdM314eUaECDxXTrbIjeQSnI7nhTnsE0rhRM2EtUvp5vcGNR)
 
 
-  **BUILDING the LAYOUT WITH CONSISTENCY**
+  ![**BUILDING the LAYOUT WITH CONSISTENCY**](/images/screenshot-2021-04-27-at-11.09.20.png "**BUILDING the LAYOUT WITH CONSISTENCY**")
 resources:
   - link: https://www.dannessler.com/ux-design
     linkType: web
