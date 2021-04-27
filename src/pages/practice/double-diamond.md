@@ -9,7 +9,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/untitled_artwork-35.jpg
+icon: /images/pasted-image-0.png
 whatIs: >-
   This is a practice used in the design process or design workshop and it should
   have four phases:
