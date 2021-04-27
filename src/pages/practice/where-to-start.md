@@ -12,7 +12,7 @@ tags:
   - value
   - culture
 mobiusTag: discovery
-icon: /images/where-to-start.png
+icon: /images/where-to-start.jpeg
 whatIs: It is a practice that focuses on the teams and people of the
   organization in order to collect information about which are the main and most
   complex systems in the organization that need transformational work to
@@ -82,7 +82,13 @@ howTo: >-
 
 
   The proprietary system may be the case, or it may be some of the systems that we manage to prioritize, the great value gained here is that we have worked for a great transformational journey and we can help the organization over time to achieve its goals.
-mediaGallery: []
+mediaGallery:
+  - link: https://drive.google.com/file/d/1VqowutBzYPEV4H4gUIoj3XTwxMI2LXPN/view?usp=sharing
+  - link: https://drive.google.com/file/d/1LPopmNFSep9HZuiWiU1jgPFrbJ1jFOnb/view?usp=sharing
+  - link: https://drive.google.com/file/d/1F9zKgFC00NWiXCsDaZiTfXcDEBHE9AbI/view?usp=sharing
+  - link: https://drive.google.com/file/d/1r7xF_IAYKlAvBURxF6yw0NCa2sPRUqQ8/view?usp=sharing
+  - link: https://drive.google.com/file/d/1rocp-pBrq3nWhaaKg3LSIlW3a5bi8vwS/view?usp=sharing
+  - link: https://drive.google.com/file/d/1Wg6RCHx8mFJ12UHAAM3X_TF5feZy6KmM/view?usp=sharing
 people: 5+
 time: 1 hour
 difficulty: moderate
