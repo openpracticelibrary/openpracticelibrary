@@ -10,10 +10,9 @@ tags:
 mobiusTag: delivery
 icon: /images/glenn-carstens-peters-rlw-uc03gwc-unsplash.jpg
 whatIs: >-
-  This Security Checklist  from [SafeStack.io](https://safestack.io) was created
-  to improve security culture in dev teams and help them consistently
-
-  check their code for common security risks. 
+  This Security Checklist from the team at [SafeStack.io](https://safestack.io)
+  was created to improve security culture in dev teams and help them
+  consistently check their code for common security risks. 
 
 
   The earlier that vulnerabilities are discovered, the cheaper and easier they are to fix. The tool is intended for use as part of a software team’s code review process to improve security posture, and the quality of the code they release.
