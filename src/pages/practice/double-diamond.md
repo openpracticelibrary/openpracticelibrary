@@ -5,7 +5,7 @@ subtitle: A structured approach to tackle challenges in four phases, from
   exploring to taking focused actions.
 date: 2021-04-27T08:17:59.530Z
 authors:
-  - Ilaria66
+  - ilaria66
 tags:
   - methods
 mobiusTag: foundation
