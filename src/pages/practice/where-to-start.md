@@ -13,24 +13,17 @@ tags:
   - culture
 mobiusTag: discovery
 icon: /images/where-to-start.jpeg
-whatIs: It is a practice that focuses on the teams and people of the
-  organization in order to collect information about which are the main and most
-  complex systems in the organization that need transformational work to
-  strengthen the structures of the company and spread the knowledge among the
-  teams on topics such as Culture, Technology, DevOps and Design Thinking. An
-  activity that acts in the breaking of silos and acts directly in the
-  strengthening of the people who work within the organization, involving them
-  in a sense of belonging and providing a deepening of the team for immersion in
-  a transformational and continuous journey.
-whyDo: >-
-  Many organizations find it very difficult to list within their structure a
-  system for the digital transformation journey, and this is due to numerous
-  factors and one of these factors is that we do not really know what the
-  problems are with each system around us and its real importance to the
-  organization.
+whatIs: >-
+  It is practice has the focus on the teams in an organization to help them
+  extract pieces of information about the most complex systems or processes that
+  need to pass urgently for transformational work to strengthen the organization
+  and diffusion the knowledge of Design Thinking, Agile and DevOps Culture.
 
 
-  This practice has as the main focus to unite the different teams within an organization in order to ask four questions of extreme importance for all members to look inside the organization and bring the most relevant systems (important for the organization, which has a great pain) for a team approach and clarification providing everyone with a mutual and common understanding about them, this facilitates the team prioritization process of what is really most important and in generating a priority pipeline for the organization that can work to solve them in a great journey of digital transformation.
+  The Where to Start additionally helps to broken the silos and acts directly to empower the teams to talk about the pain points and solutions, together with a unique sight to settle the troubles and starts an immersion in a transformational and continuous journey.
+
+
+  The questions below are the success key, and the customer teams need to think about it to create a perfect link between the actual moment and the intended future.
 
 
   **Questions:**
@@ -38,11 +31,23 @@ whyDo: >-
 
   * *How is your operation?*
 
+  * *What is the value of a system or process?*
+
   * *What is your pain?*
 
   * *What is your strategy?*
+whyDo: >-
+  Many organizations have extraordinary difficulty discovering where to start a
+  transformational and continuous journey to the new digital world era, and this
+  is a dilemma for these organizations. How much more time the company takes
+  time to look ahead, the footpath can stay farther away from the
+  transformation.
 
-  * *What is the value of a system or process?*
+
+  In a digital transformation, the people are the most crucial thing, and empower her is the success key. Together these people know everything about the business and the better footpath.
+
+
+  The Where To Start is a magical, amazingly, and disruptive practice with a total focus on people enabling her to express their feelings about the processes, systems encouraging the participants to work together to choose the new footpath.
 howTo: >-
   The practice should start with an introduction to what it is and how it is
   covered during its application:
