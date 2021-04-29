@@ -88,12 +88,12 @@ howTo: >-
 
   The proprietary system may be the case, or it may be some of the systems that we manage to prioritize, the great value gained here is that we have worked for a great transformational journey and we can help the organization over time to achieve its goals.
 mediaGallery:
-  - link: https://drive.google.com/file/d/1VqowutBzYPEV4H4gUIoj3XTwxMI2LXPN/view
-  - link: https://drive.google.com/file/d/1LPopmNFSep9HZuiWiU1jgPFrbJ1jFOnb/view
-  - link: https://drive.google.com/file/d/1F9zKgFC00NWiXCsDaZiTfXcDEBHE9AbI/view
-  - link: https://drive.google.com/file/d/1r7xF_IAYKlAvBURxF6yw0NCa2sPRUqQ8/view
-  - link: https://drive.google.com/file/d/1rocp-pBrq3nWhaaKg3LSIlW3a5bi8vwS/view
-  - link: https://drive.google.com/file/d/1Wg6RCHx8mFJ12UHAAM3X_TF5feZy6KmM/view
+  - link: https://ik.imagekit.io/lhsribas/Where_to_Start_ghRqvjX1A.jpeg
+  - link: https://ik.imagekit.io/lhsribas/all_Axx0FRUr2.png
+  - link: https://ik.imagekit.io/lhsribas/how_is_your_operation_9Aa6Ye3TO.png
+  - link: https://ik.imagekit.io/lhsribas/pain_points_and_desires_rNws_mvQs.png
+  - link: https://ik.imagekit.io/lhsribas/strategy_d7AKkm2f0.png
+  - link: https://ik.imagekit.io/lhsribas/priorization_7jU585MJc.png
 people: 5+
 time: 1+
 difficulty: moderate
