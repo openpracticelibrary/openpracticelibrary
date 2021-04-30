@@ -4,7 +4,7 @@ title: '"Hello, World!" networking event'
 subtitle: Say "Hello" to the World and the World will say "Hello" to you!
 date: 2021-04-26T12:00:12.713Z
 authors:
-  - Marcin Sanecki
+  - msanecki
 tags:
   - culture
 mobiusTag: foundation
@@ -34,6 +34,7 @@ howTo: >-
   Every time you feel or see this spark you repeat the process....Do not create a To-Meet-List just send the invitation and let the network grow.
 
   The key is to do it again and again, contacting new people again and again, never stopping extending your network including new people continuously.
+mediaGallery: []
 people: minimum 2 peers
 time: 20-30 min
 difficulty: easy
