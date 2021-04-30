@@ -54,19 +54,13 @@ howTo: >-
   What is your strategy?***
 
 
-  1 - We start the practice with relative priorities and concentrating the team's focus on defining which system should be approached first in a transformational journey;
+  1.  We start the practice with relative priorities and concentrating the team's focus on defining which system should be approached first in a transformational journey;
 
+  2. Everyone should think together by putting post-its to draw how the operation performed by users is with the systems, user areas, and the process involved;
 
+  3. Classify the value obtained, the main pains they have, and their desire to improve each system or process raised in the design of the process;
 
-  2 - Everyone should think together by putting post-its to draw how the operation performed by users is with the systems, user areas, and the process involved;
-
-
-
-  3 - Classify the value obtained, the main pains they have, and their desire to improve each system or process raised in the design of the process;
-
-
-
-  4 - After that, the participants should think about how they would like to distribute these improvements in an estimated timeline, prioritizing the most important ones and what they would like to do first.
+  4. After that, the participants should think about how they would like to distribute these improvements in an estimated timeline, prioritizing the most important ones and what they would like to do first.
 
 
   **Optional:**
