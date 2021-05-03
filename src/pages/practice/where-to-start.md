@@ -28,15 +28,15 @@ whatIs: >-
 
   * A practice that breaks the integration silos between the teams, bringing the sense of belonging of a journey of digital transformation to the organization;
 whyDo: >-
-  Many organizations have extraordinary difficulty discovering where to start a
-  transformational and continuous journey to the new digital world era, and this
-  is a dilemma for these organizations. 
+  * Many organizations have extraordinary difficulty discovering where to start
+  a transformational and continuous journey to the new digital world era, and
+  this is a dilemma for these organizations. 
 
 
   ***The longer the company takes time to look ahead, can the path be further from the transformation?*** 
 
 
-  In a digital transformation, the people are the most crucial thing, and empower her is the key to success. Together these people know everything about the business and the better path for  the organization.
+  In a digital transformation, the people are the most crucial thing, and empower her is the key to success. Together these people know everything about the business and the better path for the organization.
 
 
   The **Where To Start** is a disruptive practice with a total focus on people enabling them to express their feelings about the processes, systems encouraging the participants to work together to choose the new path.
@@ -45,16 +45,16 @@ howTo: >-
   address the points of cultural and digital transformation:
 
 
-  ***How is your operation?
+  * ***How is your operation?***
 
-  What is the value of this system or process?
+  * ***What is the value of this system or process?***
 
-  What is your pain?
+  * ***What is your pain?***
 
-  What is your strategy?***
+  * ***What is your strategy?***
 
 
-  1.  We start the practice with relative priorities and concentrating the team's focus on defining which system should be approached first in a transformational journey;
+  1. We start the practice with relative priorities and concentrating the team's focus on defining which system should be approached first in a transformational journey;
 
   2. Everyone should think together by putting post-its to draw how the operation performed by users is with the systems, user areas, and the process involved;
 
