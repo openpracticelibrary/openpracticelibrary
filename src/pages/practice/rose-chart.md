@@ -5,6 +5,7 @@ subtitle: Identify knowledge gaps and create learning focus areas for team membe
 date: 2021-05-06T13:13:59.750Z
 authors:
   - heyjerrybecker
+  - darcief
 tags:
   - culture
 mobiusTag: foundation
