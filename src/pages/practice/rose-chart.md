@@ -24,15 +24,15 @@ howTo: >-
   Steps:
 
 
-  * Identify key competency areas you wish to have team members self-evaluate on. Label these areas in the "Category" section of circular spider chart in the [Rose Chart template](https://www.slideshare.net/JerryBecker/rose-chart-template). Leave the 2 additional categories off to the right-hand side of the chart blank. These will be filled in by team members (more on that in a minute)
+  * Identify key competency areas you wish to have team members self-evaluate on. Label these areas in the "Category" section of circular spider chart in the [Rose Chart template](https://www.slideshare.net/JerryBecker/rose-chart-template). Leave the 2 additional categories off to the right-hand side of the chart blank. These will be filled in by team members (more on that in a minute).
 
   * Once your categories are selected, either digitally send or print out physical copies of a Rose Chart template for each team member.
 
-  * Have team members use the Rose Chart to self-assess their competency within each given category (see key at top-right of template for how to rate each category competency)
+  * Have team members use the Rose Chart to self-assess their competency within each given category (see key at top-right of template for how to rate each category competency).
 
   * Next, turn everyone's attention to the 2 blank category sections on the far-right of the template. Have team members create their own categories for these 2 areas, different than the ones on the left-hand spider chart. These are categories in which they personally wish to up-skill.
 
-  * You can either have team members present their charts to everyone to drive conversation and potential pairing for mentoring, or have them hand over their charts directly to the team leader for review and subsequent planning
+  * You can either have team members present their charts to everyone to drive conversation and potential pairing for mentoring, or have them hand over their charts directly to the team leader for review and subsequent planning.
 
   * After a set amount of time (either at the end of an engagement or weekly, monthly, quarterly, etc) have team members update their rose charts in order to show growth in key areas. Review and do additional planning for knowledge-sharing based on these updates.
 mediaGallery:
