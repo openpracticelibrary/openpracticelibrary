@@ -24,7 +24,7 @@ howTo: >-
   Steps:
 
 
-  * Identify key competency areas you wish to have team members self-evaluate on. Label these areas in the "Category" section of circular spider chart in the [Rose Chart template](https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Rose%20Chart%20Blank.png). Leave the 2 additional categories off to the right-hand side of the chart blank. These will be filled in by team members (more on that in a minute)
+  * Identify key competency areas you wish to have team members self-evaluate on. Label these areas in the "Category" section of circular spider chart in the [Rose Chart template](https://www.slideshare.net/JerryBecker/rose-chart-template). Leave the 2 additional categories off to the right-hand side of the chart blank. These will be filled in by team members (more on that in a minute)
 
   * Once your categories are selected, either digitally send or print out physical copies of a Rose Chart template for each team member.
 
@@ -39,9 +39,12 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Rose%20Chart%20Example.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Rose%20Chart%20Blank.png?raw=true
 resources:
+  - link: https://www.slideshare.net/JerryBecker/rose-chart-template
+    linkType: web
+    description: Slideshare Rose Chart Template Deck
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Rose%20Chart%20Blank.png
     linkType: web
-    description: Rose Chart Template Deck
+    description: Rose Chart Template PNG
   - link: https://vizzlo.com/create/nightingales-rose-chart
     linkType: web
     description: Vizzlo's Online Rose Chart application
