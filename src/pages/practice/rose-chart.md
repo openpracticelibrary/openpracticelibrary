@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Rose Chart
-subtitle: Identify knowledge gaps and create learning focus areas for all team members
+subtitle: Identify knowledge gaps and create learning focus areas for team members
 date: 2021-05-06T13:13:59.750Z
 authors:
   - heyjerrybecker
