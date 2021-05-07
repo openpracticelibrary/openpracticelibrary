@@ -84,7 +84,7 @@ mediaGallery:
 people: 2+
 time: 4+ hours
 perspectives: []
-title: Metrics-Based Process Mapping
+title: Metrics Based Process Mapping
 subtitle: Map your process in detail with this practice and collect some key metrics
 tags:
   - value
