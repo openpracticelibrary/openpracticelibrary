@@ -99,7 +99,7 @@ howTo: >-
 
   * An Engineering team may consider components built by other teams within their company as “external systems” that need to be protected against, meaning that natural inter-team communication difficulties are also well examined by the threat models.
 mediaGallery:
-  - link: https://photos.google.com/share/AF1QipMVS4pBIsmwmVfwxeGzZ_eck1sLx26DhT3rtk5nZwA_Ztqu2Jvhc5g5JiYPTw3AbA/photo/AF1QipMrx-lJ54mt7e_IYXw1IYjGPySfEomyFEU3pC3b?key=S2V4NXlfOXdQTDNwMEpLdTY2LUFtX1N0TjRPUVRR
+  - link: https://i.ibb.co/nBWZVmX/Data-Flow-Diagram-Elements.png
 resources:
   - link: http://securitycards.cs.washington.edu/
     description: The Security Cards, A Security Threat Brainstorming Toolkit
