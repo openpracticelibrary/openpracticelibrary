@@ -50,7 +50,10 @@ howTo: >-
   4. Take Actions: Update the design journey with updated or new practices to continuously radiate and improve our design toolkit
 mediaGallery:
   - link: https://videos.learning.redhat.com/media/Riley%20Ghiles%2C%20%C3%98ystein%20Bedin%20and%20Philip%20Double%20-%20Design%20Retro%20%3A%20Active%3A%20Making%20good%20things%20better/1_3lr97ldn
+resources:
   - link: https://miro.com/app/board/o9J_lUuXEVI=/
+    linkType: web
+    description: "Design Retro : Active Example Miro Board"
 people: 5+
 time: 1 hour
 difficulty: hard
