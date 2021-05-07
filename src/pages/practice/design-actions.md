@@ -9,7 +9,7 @@ authors:
 tags:
   - learn
 mobiusTag: delivery
-icon: /images/unnamed-1.png
+icon: /images/design-retro-active.jpeg
 whatIs: This post-delivery practice is an opportunity to review the design
   journey of an engagement.  It is an open forum critique involving the
   designer, a product owner (or engagement lead) and an audience of designers (a
