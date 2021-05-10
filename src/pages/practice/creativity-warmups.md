@@ -20,7 +20,7 @@ whyDo: >-
 
   \
 
-  Creativity Warmups are based on the Torrance Test of Creative Thinking (TTCT). **The TTCT (Torrance Tests of Creative Thinking)** assess how creatively a child’s mind works and are often given to children to determine advanced placement or as part of an entrance examination. They are very different from intelligence and reasoning tests your child may have already taken. Instead of traditionally taught subjects such as reading or math, these tests assess creativity. Children are scored on a number of aspects. This includes:
+  Creativity Warmups are based on the [Torrance Test of Creative Thinking](https://www.testingmom.com/tests/torrance-test/#:~:text=What%20is%20the%20Torrance%20Test,child%20may%20have%20already%20taken.) (TTCT). **The TTCT** assess how creatively a person's mind works and are often given to children to determine advanced placement or as part of an entrance examination. They are very different from intelligence and reasoning tests your child may have already taken. Instead of traditionally taught subjects such as reading or math, these tests assess creativity. Testers are scored on a number of aspects. This includes:
 
 
   * Creative titles for pictures
