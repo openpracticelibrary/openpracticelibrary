@@ -47,17 +47,17 @@ howTo: >-
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Creativity%20Warmups.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Creativity%20Warmups%202.jpeg?raw=true
-  - link: http://provensal.com/lbb/wp-content/uploads/2013/05/ttct_2.png
+  - link: https://i0.wp.com/i.pinimg.com/originals/07/f0/c3/07f0c30bcf688b0582fcbe72956283fd.png?w=800&ssl=1
 resources:
+  - link: http://home.iitk.ac.in/~sahus/se367/project/TTCT.pdf
+    linkType: web
+    description: Torrance Test of Creative Thinking Example Questions
   - link: https://www.testingmom.com/tests/torrance-test/#:~:text=What%20is%20the%20Torrance%20Test,child%20may%20have%20already%20taken.
     linkType: web
     description: What is the Torrance Test of Creative Thinking? (TTCT)
   - link: http://provensal.com/lbb/tag/torrance-tests-of-creative-thinking/
     linkType: web
     description: "Blog: LightBulbBites - Making the non-creatives more creative"
-  - link: http://home.iitk.ac.in/~sahus/se367/project/TTCT.pdf
-    linkType: web
-    description: Torrance Test of Creative Thinking Example Questions
 people: 1-100+
 time: 10-30 min
 difficulty: easy
