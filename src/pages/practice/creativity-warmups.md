@@ -30,7 +30,20 @@ whyDo: >-
   * Imagery
 
   * and Humor
-howTo: tbd
+howTo: >-
+  1. Pick one or a few exercises to run with your team and hand out the
+  [templates](http://home.iitk.ac.in/~sahus/se367/project/TTCT.pdf) for each
+  exercise to all participating members. 
+
+     If running remotely, have templates prepared on your favorite digital whiteboarding tool (Miro, Mural, Jamboard, etc).
+  2. Explain the exercise to the group. Be sure to mention that this is to stretch creative thinking, so big, wild, and unique ideas are most valuable. For each exercise, the point is for team members to come up with ideas they think no one else will come up with - this helps participants push past obvious answers and explore more creative ideas (see where this is going? 😉 )
+
+  3. For each exercise, put 5 minutes on the clock and have participants silently work on their ideas. If they run out of room, have extra templates printed out to hand to them so they can keep ideating. Don't worry about allocating points to each idea...this is just for warming up our brains!
+
+  4. After time is up, you can either close out the exercises and move right into an ideation session OR you can have team members share their ideas with the group. If you want you can even open a dot-voting round to have people vote on their favorite ideas and award the winner of the most votes some kind of creative trophy 🏆💡
+
+
+  Now that you have your team creatively warmed up, try rolling right into an ideation session for your product and see the creative ideas that emerge!
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Creativity%20Warmups.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Creativity%20Warmups%202.jpeg?raw=true
