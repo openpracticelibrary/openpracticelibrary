@@ -28,20 +28,20 @@ whatIs: >-
 
   * A practice that breaks the integration silos between the teams, bringing the sense of belonging of a journey of digital transformation to the organization;
 whyDo: >-
-  * Many organizations have extraordinary difficulty discovering where to start
-  a transformational and continuous journey to the new digital world era, and
-  this is a dilemma for these organizations. 
+  Many organizations have extraordinary difficulty discovering where to start a
+  digital transformational journey, the complexity of such initiative creates a
+  huge dilemma for these organizations. 
 
 
-  ***The longer the company takes time to look ahead, can the path be further from the transformation?*** 
+  ***The longer the company takes time to look ahead, will further the path be from its transformation?*** 
 
 
-  In a digital transformation, the people are the most crucial thing, and empower her is the key to success. Together these people know everything about the business and the better path for the organization.
+  In a digital transformation, people are the most crucial element, and empower them is key to success. They know everything about their business and the better path for the organization.
 
 
-  The **Where To Start** is a disruptive practice with a total focus on people enabling them to express their feelings about the processes, systems encouraging the participants to work together to choose the new path.
+  The **Where To Start** is a practice with focus on people and their ability to express their feelings about the processes, with a disruptive approach to encourage participants to work together towards a new path of success.
 howTo: >-
-  Participants should focus on answering questions that will help to better
+  Participants should focus on answering key questions that will help better
   address the points of cultural and digital transformation:
 
 
@@ -56,11 +56,11 @@ howTo: >-
 
   1. We start the practice with relative priorities and concentrating the team's focus on defining which system should be approached first in a transformational journey;
 
-  2. Everyone should think together by putting post-its to draw how the operation performed by users is with the systems, user areas, and the process involved;
+  2. Using sticky notes, everyone should work together to visualize how the operation is performed amongst users, systems, and the process involved;
 
   3. Classify the value obtained, the main pains they have, and their desire to improve each system or process raised in the design of the process;
 
-  4. After that, the participants should think about how they would like to distribute these improvements in an estimated timeline, prioritizing the most important ones and what they would like to do first.
+  4. Finally, participants should distribute these improvements in an estimated timeline and prioritize the most important ones.
 
 
   **Optional:**
