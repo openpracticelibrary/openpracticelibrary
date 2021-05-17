@@ -13,12 +13,17 @@ tags:
   - methods
 mobiusTag: foundation
 icon: /images/mbpm.jpg
-whatIs: Value Stream Mapping (VSM) is a third generation lean process
-  improvement techniques, optimized for an extended organizational
-  transformation effort. It is designed to view the big, macro picture and make
-  strategic decisions with executives. The first generation of this technique
-  comes from Toyota's "information and material flow" (as documented in Lean
-  Thinking and the second generation from Learning to See).
+whatIs: >-
+  Value Stream Mapping (VSM) is a third generation lean process improvement
+  technique.  The Value Stream itself is the series of individual processes that
+  connect together to create the valuable goods or service that an organization
+  produces for its customer.  The process of mapping the Value Stream is
+  designed to view the big, macro picture in order for executives to make
+  strategic decisions as part of an extended organizational transformation
+  effort.
+
+
+  The first generation of this technique comes from Toyota's "information and material flow", as documented in Lean Thinking and the second generation from "Learning to See".
 whyDo: >-
   In the context of software delivery, VSM is an excellent tools to holistically
   analyze and optimize "brownfield" delivery processes, including everything
@@ -96,15 +101,15 @@ resources:
   - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
     linkType: web
     description: Double Diamond design model
+people: <10
+difficulty: hard
 participants:
   - BAs
   - Directors
   - Architects and the Team
 jumbotron: /images/mbpm2.jpg
 area: discovery-loop-why
-people: <10
 time: 2 - 3 Days
-difficulty: hard
 jumbotronAlt: Example MBPM
 ---
 ## What is it?
