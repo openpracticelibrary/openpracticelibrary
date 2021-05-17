@@ -14,19 +14,21 @@ tags:
 mobiusTag: discovery
 icon: /images/where-to-start.jpeg
 whatIs: >-
-  This practice has the focus on the teams in an organization to help them
-  extract pieces of information about the most complex systems or processes that
-  need to pass urgently for transformational work to strengthen the organization
-  and diffuse the knowledge of Design Thinking, Agile, and DevOps Culture.
+  This practice focus on helping people to unveil the most complex systems and
+  processes that are urging to be affected by transformational work in an
+  organization, with the purpose of strengthen and diffuse accross the
+  organization the knowledge of Design Thinking, Agile and DevOps culture. 
 
 
-  * It is a tool that facilitates conversations about relative priorities and focuses the team on defining which system should be approached first in a transformational journey;
+  * It is a tool that facilitates conversations about relative priorities;
 
-  * Clarifies the importance of the systems chosen among all the teams involved for team cohesion;
+  * Focuses the team on defining which system should be approached first in a transformational journey;
+
+  * Clarifies the importance of the systems chosen across all the teams involved;
 
   * An exercise that increases team autonomy;
 
-  * A practice that breaks the integration silos between the teams, bringing the sense of belonging of a journey of digital transformation to the organization;
+  * A practice that breaks the integration silos between the teams, bringing the sense of belonging to a digital transformation journey in the organization;
 whyDo: >-
   Many organizations have extraordinary difficulty discovering where to start a
   digital transformational journey, the complexity of such initiative creates a
@@ -58,7 +60,7 @@ howTo: >-
 
   2. Using sticky notes, everyone should work together to visualize how the operation is performed amongst users, systems, and the process involved;
 
-  3. Classify the value obtained, the main pains they have, and their desire to improve each system or process raised in the design of the process;
+  3. For each system, list the value obtained, the pain points, and the desires in improving each system or process - raised in the design of the process;
 
   4. Finally, participants should distribute these improvements in an estimated timeline and prioritize the most important ones.
 
