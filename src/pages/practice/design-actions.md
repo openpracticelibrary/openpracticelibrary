@@ -9,14 +9,11 @@ authors:
 tags:
   - learn
 mobiusTag: delivery
-icon: /images/unnamed-1.png
-whatIs: >-
-  This post-delivery practice is an opportunity to review the design journey of
-  an engagement.  It is an open forum critique involving the designer, a product
-  owner (or engagement lead) and an audience of designers (a designer guild).
-
-
-  Add more here
+icon: /images/design-retro-active.jpeg
+whatIs: This post-delivery practice is an opportunity to review the design
+  journey of an engagement.  It is an open forum critique involving the
+  designer, a product owner (or engagement lead) and an audience of designers (a
+  designer guild).
 whyDo: >-
   The goal of this practice is to map and analyze the process and practices
   utilized on an engagement in an attempt to collect honest feedback from owners
@@ -52,8 +49,12 @@ howTo: >-
 
   4. Take Actions: Update the design journey with updated or new practices to continuously radiate and improve our design toolkit
 mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/Design%20Retro%20Active%20Example.png?raw=true
   - link: https://videos.learning.redhat.com/media/Riley%20Ghiles%2C%20%C3%98ystein%20Bedin%20and%20Philip%20Double%20-%20Design%20Retro%20%3A%20Active%3A%20Making%20good%20things%20better/1_3lr97ldn
+resources:
   - link: https://miro.com/app/board/o9J_lUuXEVI=/
+    linkType: web
+    description: "Design Retro : Active Example Miro Board"
 people: 5+
 time: 1 hour
 difficulty: hard
