@@ -5,7 +5,6 @@ subtitle: Identify insights, patterns and trends in research and ideas
 date: 2019-10-24T18:10:09.959Z
 authors:
   - ilaria66
-  - heyjerrybecker
 tags:
   - methods
 mobiusTag: foundation
