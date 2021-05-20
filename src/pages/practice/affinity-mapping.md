@@ -1,8 +1,37 @@
 ---
 templateKey: practice-page
+title: Affinity Mapping
+subtitle: Identify insights, patterns and trends in research and ideas
+date: 2019-10-24T18:10:09.959Z
 authors:
-  - heyjerrybecker
   - ilaria66
+  - heyjerrybecker
+tags:
+  - methods
+mobiusTag: foundation
+icon: /images/am4.jpg
+whatIs: >-
+  Affinity Mapping is a practice used to organize ideas or insights. It allows
+  large numbers of ideas  stemming from brainstorming to be sorted into groups,
+  based on their natural relationships, for review and analysis. It is also
+  frequently used in contextual inquiry as a way to organize notes and insights
+  from field interviews for synthesis and analysis. Additionally, it can be used
+  for organizing freeform comments, such as open-ended survey responses, support
+  call logs, or other qualitative data.
+
+
+  Check out the media gallery for a quick intro video.
+whyDo: >-
+  Most of us are familiar with brainstorming—a method by which a group generates
+  as many ideas around a topic as possible in a limited amount of time.
+  Brainstorming works to get a high quantity of information on the table. But it
+  begs the follow-up question of how to gather meaning from all the data.
+
+
+  Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused.
+
+
+  Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within a group.
 howTo: >-
   1. If you are brainstorming ideas, clearly state the objective of the
   brainstorm (a [How Might We
@@ -29,6 +58,9 @@ howTo: >-
   ### Tips for remote sessions
 
   - It works quite well online, it is one of the practices used in combination with others, to group ideas. - Get used to it as is is very useful in any kind of remote work. - Show an example, and allow different people to playback the results at the end to get more engagement.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=iFXBI5NguYk
+  - link: https://youtu.be/UynxDyr0lAo
 resources:
   - link: https://www.interaction-design.org/literature/article/affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts
     linkType: web
@@ -46,42 +78,10 @@ participants:
   - Product Team Members
 jumbotron: /images/am4.jpg
 area: discovery-loop-outcomes
-date: 2019-10-24T18:10:09.959Z
-mobiusTag: foundation
-whatIs: >-
-  Affinity Mapping is a practice used to organize ideas or insights. It allows
-  large numbers of ideas  stemming from brainstorming to be sorted into groups,
-  based on their natural relationships, for review and analysis. It is also
-  frequently used in contextual inquiry as a way to organize notes and insights
-  from field interviews for synthesis and analysis. Additionally, it can be used
-  for organizing freeform comments, such as open-ended survey responses, support
-  call logs, or other qualitative data.
-
-
-  Check out the media gallery for a quick intro video.
-whyDo: >-
-  Most of us are familiar with brainstorming—a method by which a group generates
-  as many ideas around a topic as possible in a limited amount of time.
-  Brainstorming works to get a high quantity of information on the table. But it
-  begs the follow-up question of how to gather meaning from all the data.
-
-
-  Using a simple Affinity Diagram technique can help us discover embedded patterns (and sometimes break old patterns) of thinking by sorting and clustering language-based information into relationships. It can also give us a sense of where most people’s thinking is focused.
-
-
-  Use an affinity diagram when you want to find categories and meta-categories within a cluster of ideas and when you want to see which ideas are most common within a group.
-mediaGallery:
-  - link: https://www.youtube.com/watch?v=iFXBI5NguYk
-  - link: https://youtu.be/UynxDyr0lAo
 people: 3+
 time: 5-90 min
 perspectives:
   - facilitation-tips-for-remote-sessions
-title: Affinity Mapping
-subtitle: Identify insights, patterns and trends in research and ideas
-tags:
-  - methods
-icon: /images/am4.jpg
 difficulty: moderate
 ---
 ## What is it?
