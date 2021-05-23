@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Metrics Based Process Mapping
 subtitle: Map your process in detail and collect key baseline metrics
 date: 2020-08-03T18:28:36.558Z

@@ -1,4 +1,5 @@
 ---
+templateKey: practice-page
 title: Measuring Psychological Safety
 subtitle: How to measure the Psychological Safety in teams and organisations
 date: 2020-12-24T11:18:35.290Z
