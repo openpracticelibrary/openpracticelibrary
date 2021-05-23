@@ -9,11 +9,10 @@ authors:
   - mtakane
   - tdbeattie
   - springdo
-  - eranderson921
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/vsm.jpg
+icon: /images/mbpm.jpg
 whatIs: >-
   Value Stream Mapping (VSM) is a third generation lean process improvement
   technique.  The Value Stream itself is the series of individual processes that
@@ -64,8 +63,7 @@ howTo: >-
 
 
   VSM pairs particularly well with the [Metrics-Based Process Mapping](https://openpracticelibrary.com/practice/metrics-based-process-mapping/) (MBPM) practice.  Used together, VSM represents the flow of value through a system at a macro level in order to make strategic improvements whereas MBPM represents the micro lower-level flow in order to make tactical improvements.
-mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/vsm.jpg
+mediaGallery: []
 resources:
   - link: https://vimeo.com/149407030
     linkType: video

@@ -17,16 +17,9 @@ whatIs: >-
 
   * Metrics-Based Process Mapping (MBPM) is a third generation lean process improvement techniques, optimizable for an extended organizational transformation effort.
 whyDo: >-
-  * MBPM can be used to view the detailed, micro picture and make tactical
-  improvements with frontline workers
+  
 
-  * Looking at the process from specific metric perspective allows you to measure important aspect of it
-
-  * The process mapping itself can help to see how many handovers are needed and give you idea which steps can be optimized from hand over point of view
-
-  * Having the old measurement and the new one you can easily compare them and draw conclusions
-
-  * Those all metrics with numbers can help you in discussions when you need numbers to argue
+  * MBPM can be used to view the detailed, micro picture and make tactical improvements with frontline workers
 howTo: >-
   **Facilitation Materials Needed**
 
@@ -87,6 +80,7 @@ resources:
   - link: https://openpracticelibrary.com/practice/vsm-and-mbpm/
     linkType: web
     description: Value Stream Mapping Practice
+time: 4+ hours
 participants:
   - Facilitator
   - "Domain experts: BA"
@@ -95,7 +89,6 @@ participants:
 jumbotron: /images/mbpm-delta-air4-cluster-vm-provisioning.png
 area: discovery-loop-why
 people: 2+
-time: 4+ hours
 perspectives: []
 difficulty: hard
 jumbotronAlt: Example photo of a facilitated MBPM run
