@@ -6,7 +6,7 @@ subtitle: Experiment with processes for rapidly developing digital products. Go
   on Mars (with legos)!
 date: 2020-09-29T18:11:00.000Z
 authors:
-  - DarcieF
+  - darcief
 tags:
   - methods
   - culture
