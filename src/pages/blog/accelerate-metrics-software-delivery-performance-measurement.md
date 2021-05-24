@@ -19,16 +19,12 @@ The four metrics reflect core capability categories that they identified as esse
 * Lean Management and Monitoring
 * Cultural
 
-
-
 **The four Accelerate metrics are:**
 
 * **Lead time to change**
 * **Deployment frequency**
 * **Mean time to restore (MTTR)**
 * **Change failure rate**
-
-
 
 The first two lean towards the typically Development-oriented goal of making changes, whilst the second two lean towards the typically Operations-oriented goal of stability.
 
@@ -75,8 +71,6 @@ This metric also encourages the adoption of an experimental mindset, using multi
 
 This is one of the easiest metrics to measure, because deployments are usually well recorded, wherever methods or systems you use. Be careful to define a deployment appropriately though: in your context, does a single line of code change count as a deployment? Does a multi-line of code change count if it’s to a system that receives very low traffic?
 
-
-
 **Metric: Mean Time To Restore (MTTR)**
 
 Answers: “How long does it take us to restore from a failure in production?”
@@ -86,8 +80,6 @@ Failures are inevitable. From the unforeseen consequences of changes, which can 
 The faster that changes can be rolled back, or systems can be manually or automatically adapted to restore services, the higher the performance of the team and the better the customer experience and value delivered. Improving the mean time to restore requires lower batch size of changes, building and utilising more resilient and distributed systems, allowing graceful component failures through appropriate decoupling and queuing, alongside effective monitoring and alerting.
 
 In terms of measurement, you need to know when the incident occured (not just when it was first observed or recorded), and when it was resolved. Ensure you define what “resolved” means: can “resolved” mean the system running in a degraded state but available, or is there an optimum “desired” state of the system? If the latter, you’re likely to require some degree of Service Level Indicators (SLI’s) to ensure that everyone agrees on the desired state.
-
-
 
 **Metric: Change Failure Rate (CFR)**
 
@@ -101,8 +93,60 @@ To measure this, we must know the volume of deployments and the volume of incide
 
 Note: it might not be desirable to aim to reduce CFR to zero. Since all deployments carry a non-zero degree of risk, a CFR of zero over a long period of time may indicate that the team could improve other metrics by increasing the risk tolerance of deployments. Of course, this will depend on the risk appetite of the business, and whether the business is highly focussed on reliability and security, or speed-to-market.
 
-
-
 **Use all four metrics together**
 
 In aggregate, these measures reflect a team’s DevOps capability over time. It’s important to remember that metrics can go the other way to which you intend, but by utilising effective feedback loops, good leadership and management practices, a team can be empowered to improve these four metrics and achieve high performance.
+
+
+
+**Additional information and links**
+
+
+
+Accelerate, by Nicole Forsgren, Jez Humble and Gene Kim
+
+<https://itrevolution.com/book/accelerate/>
+
+Measure Software Delivery Performance With Four Key Metrics
+
+<https://itrevolution.com/measure-software-delivery-performance-four-key-metrics/>
+
+The State of DevOps report 2019
+
+<https://services.google.com/fh/files/misc/state-of-devops-2019.pdf>
+
+Summary of The State of DevOps 2020:
+
+<https://tomgeraghty.co.uk/index.php/the-state-of-devops-report-2020/>
+
+Holistics.io:
+
+<https://www.holistics.io/blog/accelerate-measure-software-development/>
+
+Goodhart’s Law
+
+<https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c>
+
+Game Theory:
+
+<https://plato.stanford.edu/entries/game-theory/>
+
+Pelorus
+
+<https://github.com/konveyor/pelorus>
+
+Canary releases
+
+<https://martinfowler.com/bliki/CanaryRelease.html>
+
+Feature Flags
+
+<https://launchdarkly.com/blog/what-are-feature-flags/>
+
+Working in small batches
+
+<https://cloud.google.com/architecture/devops/devops-process-working-in-small-batches>
+
+CI/CD
+
+<https://www.redhat.com/en/topics/devops/what-cicd-pipeline>
