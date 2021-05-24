@@ -99,9 +99,9 @@ In aggregate, these measures reflect a teamâ€™s DevOps capability over time. Itâ
 
 
 
+
+
 **Additional information and links**
-
-
 
 Accelerate, by Nicole Forsgren, Jez Humble and Gene Kim
 
