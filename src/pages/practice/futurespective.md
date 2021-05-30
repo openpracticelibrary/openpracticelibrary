@@ -30,19 +30,22 @@ howTo: >-
   project see below some advice:
 
 
-  1 sprint
+  \- 1 sprint
 
 
-  1 project
+  \- 1 project
 
 
-  1 milestone
+  \- 1 milestone
+
+
+  \- a pain
 
 
   Close your eyes and imagine you are there.
 
 
-  Steps for a successful retrospective:
+  Steps for a successful futurespective:
 
 
   1. Setup your board.
