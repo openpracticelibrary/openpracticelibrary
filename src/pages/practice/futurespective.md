@@ -57,7 +57,7 @@ howTo: >-
 
   6. Look back at the past and find your improvements.
 
-  7. Vote
+  7. Vote.
 mediaGallery: []
 resources:
   - link: https://www.funretrospectives.com/category/futurespective/
