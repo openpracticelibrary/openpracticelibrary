@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Futurespective
-subtitle: Looking to the future
+subtitle: Looking to the future (A.Grossi)
 date: 2021-04-09T09:16:07.537Z
 authors:
   - agrossi-21
