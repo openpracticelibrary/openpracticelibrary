@@ -5,7 +5,6 @@ subtitle: Short, highly focused presentations
 date: 2021-03-12T16:53:09.861Z
 authors:
   - karenbatt
-  - heyjerrybecker
 tags:
   - value
   - learn

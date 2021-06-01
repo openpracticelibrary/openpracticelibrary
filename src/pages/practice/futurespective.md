@@ -4,15 +4,17 @@ title: Futurespective
 subtitle: Looking to the future
 date: 2021-04-09T09:16:07.537Z
 authors:
-  - A.Grossi
+  - agrossi-21
 tags:
   - methods
 mobiusTag: discovery
 icon: /images/silhouette-looking-to-the-future.jpg
 whatIs: >-
-  
-
-  Futurespective is the exercise to place ourselves in the future by imagining that our goals have been reached. They start such a retrospectives by discussing the team goals to ensure that team members build a common understanding. The goals are formulated and written down so that they are visible for everybody.
+  Futurespective is the exercise to place ourselves in the future by imagining
+  that our goals have been reached. They start such a retrospectives by
+  discussing the team goals to ensure that team members build a common
+  understanding. The goals are formulated and written down so that they are
+  visible for everybody. 
 
 
   Optionally teams can write down which benefits they got from reaching their goals. If team like to party they can even do a small celebration for having reached the goals, which can help to make teams aware of the importance of reaching it.
@@ -28,34 +30,37 @@ howTo: >-
   project see below some advice:
 
 
-  1 sprint
+  \- 1 sprint
 
 
-  1 project
+  \- 1 project
 
 
-  1 milestone
+  \- 1 milestone
+
+
+  \- a pain
 
 
   Close your eyes and imagine you are there.
 
 
-  Steps for a successful retrospective:
+  Steps for a successful futurespective:
 
 
-  1. Set the scene and create a timeline.
+  1. Setup your board.
 
-  2. Step forward into the future.
+  2. Step forward.
 
-  3. Look back at the past negatively
+  3. Look back at the past.
 
-  4. State interrupt – break the mood!
+  4. Analyze the gap.
 
   5. Step forward into the future again.
 
-  6. Look back at the past positively.
+  6. Look back at the past and find your improvements.
 
-  7. Vote
+  7. Vote.
 mediaGallery: []
 resources:
   - link: https://www.funretrospectives.com/category/futurespective/

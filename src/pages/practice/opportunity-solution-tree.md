@@ -12,9 +12,11 @@ icon: /images/opp-solution-tree.jpg
 whatIs: >-
   An Opportunity Solution Tree is a visual aid that can help you find the best
   place to focus your team’s energies, whilst ensuring you consider enough
-  opportunities. Opportunity solution trees bring transparency to the process
-  and get the whole team to buy into the decisions being made and the solutions
-  being tested. Here's an example:
+  opportunities. Created by [Teresa
+  Torres](https://www.producttalk.org/opportunity-solution-tree/), Opportunity
+  Solution Trees bring transparency to the process and get the whole team to buy
+  into the decisions being made and the solutions being tested. Here's an
+  example:
 
 
   ![](https://openpracticelibrary.github.io/opl-media/images/opp-solution-tree.jpg)
