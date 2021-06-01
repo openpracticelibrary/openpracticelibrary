@@ -30,34 +30,37 @@ howTo: >-
   project see below some advice:
 
 
-  1 sprint
+  \- 1 sprint
 
 
-  1 project
+  \- 1 project
 
 
-  1 milestone
+  \- 1 milestone
+
+
+  \- a pain
 
 
   Close your eyes and imagine you are there.
 
 
-  Steps for a successful retrospective:
+  Steps for a successful futurespective:
 
 
-  1. Set the scene and create a timeline.
+  1. Setup your board.
 
-  2. Step forward into the future.
+  2. Step forward.
 
-  3. Look back at the past negatively
+  3. Look back at the past.
 
-  4. State interrupt – break the mood!
+  4. Analyze the gap.
 
   5. Step forward into the future again.
 
-  6. Look back at the past positively.
+  6. Look back at the past and find your improvements.
 
-  7. Vote
+  7. Vote.
 mediaGallery: []
 resources:
   - link: https://www.funretrospectives.com/category/futurespective/
