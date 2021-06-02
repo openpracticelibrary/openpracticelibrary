@@ -5,6 +5,7 @@ subtitle: Find and share inspiration for solutions, features, and/or design elem
 date: 2021-06-02T17:48:15.611Z
 authors:
   - heyjerrybecker
+  - darcief
 tags:
   - ideate
 mobiusTag: options
