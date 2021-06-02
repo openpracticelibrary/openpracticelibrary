@@ -30,6 +30,9 @@ howTo: >-
   * Create a board/space in your favorite online collaboration tool for members to put screenshots of their ideas. You can use Miro or Mural for this, or you can use moodboard-specific tools like [Milanote](https://milanote.com/product/moodboarding) or [InVision](https://www.invisionapp.com/inside-design/boards-share-design-inspiration-assets/)
 
 
+  **Steps:**
+
+
   1. After aligning on a problem to solve or what your solution concept might be, have your product team members individually take 25-30 min to research ideas/products/services for inspiration on the internet.
 
   2. Copy/paste findings to the board (images, notes...)
