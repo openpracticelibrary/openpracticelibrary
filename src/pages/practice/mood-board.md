@@ -37,6 +37,8 @@ howTo: >-
   3. Keep an eye on what's being added, this could spark more great ideas!
 
   4. Play back and capture any big ideas that resonate with the group
+
+  5. If you want to narrow down ideas, implement a round of [dot-voting ](https://gamestorming.com/dot-voting/)to have people select their favorite ideas/elements
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Mood%20Board.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Mood%20Board%203.png?raw=true
