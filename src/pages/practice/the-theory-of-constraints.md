@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/three-contract-management-bottlenecks-eliminated-by-automation.png
 whatIs: >-
   Eliyahu Goldratt first described the Theory Of Constraints (ToC) in his 1984
   book, "The Goal", which focused on manufacturing and was a key catalyst for
