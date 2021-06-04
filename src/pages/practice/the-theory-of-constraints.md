@@ -70,5 +70,7 @@ resources:
   - link: https://www.tocinstitute.org/theory-of-constraints.html
     description: Theory of Constraints (TOC) of Dr. Eliyahu Goldratt
     linkType: web
+people: 1+
+difficulty: moderate
 participants: []
 ---
