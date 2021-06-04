@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/person-pencil.jpeg
 whatIs: >-
   Inspired by the Scrum standup questions, 15/5 reports are a great way to keep
   a regular pulse across teams and organisations. They should take no more than
