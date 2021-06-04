@@ -32,13 +32,13 @@ howTo: >-
   also evolve your questions as you and your teams evolve too.
 
 
-  Use the below as a starting point though, and see how you get on. There should be around three "mandatory" questions (though people are free to state "I have nothing to report on", or similar; and you can include a few optional questions that add extra context and ideas.
+  Use the below as a starting point though, and see how you get on. There should be around three "mandatory" questions (though people are free to state "I have nothing to report on", or similar) and you can include a few optional questions that add extra context and ideas.
 
 
-  It can be useful to ask people to have 15/5 reports to you for the end of the week, a Friday morning, for example. This means you have time to digest them before the weekend. Choose the timing and cadence that works best for your team.
+  It can be useful to ask people to have 15/5 reports to you for the end of the week, a Friday morning, for example. This means you have time to digest them before the weekend. Choose the timing and cadence that works best for your team. Suggest to your team that they don't wait until the day to write them - instead, make notes through the week, and then writing it should be really easy - because you already know what to write.
 
 
-  Even if you have up to ten people reporting to you, this is a very effective method of ensuring you can support your team in the best way possible, and can keep yourself and the rest of the organisation informed about progress, challenges, and opportunities.
+  Even if you have around ten or more people sending reports to you, this is a very effective method of ensuring you can support your team in the best way possible, and can keep yourself and the rest of the organisation informed about progress, challenges, and opportunities.
 
 
   Be sure to respond to every report - even if it's a quick acknowledgement and thanks - because it can be very demotivating for people to write these without receiving a response.
