@@ -67,5 +67,8 @@ resources:
   - link: https://www.toc-goldratt.com/en/product/The-Goal-A-Process-of-Ongoing-Improvement
     description: "THE GOAL: A PROCESS OF ONGOING IMPROVEMENT Dr. Eliyahu M. Goldratt"
     linkType: web
+  - link: https://www.tocinstitute.org/theory-of-constraints.html
+    description: Theory of Constraints (TOC) of Dr. Eliyahu Goldratt
+    linkType: web
 participants: []
 ---
