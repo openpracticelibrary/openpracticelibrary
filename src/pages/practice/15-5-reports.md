@@ -25,87 +25,45 @@ howTo: >-
   Use the below as a starting point though, and see how you get on. There should be around three "mandatory" questions (though people are free to state "I have nothing to report on", or similar; and you can include a few optional questions that add extra context and ideas.
 
 
-  Example questions:\
+  Example questions:
 
-  \
 
   **What are your main achievements this week? What are you most proud of or satisfied with?**
 
 
-  \
-
   This question means the report starts with highlighting success. And people should be encouraged to add non-work achievements too.
-
-
-
-
-  **How are you feeling about the teams you're in and the wider organisation?**
-
-
-
-
-  This question may take weeks or months before people begin to answer honestly and safely, but it's really important. This is one of the key ways you can keep a pulse on the team culture.
-
-
 
 
   **Is there anything worrying or concerning you in or outside of work?**
 
 
-
-
-  Same old stuff, nothing serious
-
-
+  This is a really important question. You can address these concerns in your 1-1s, and if multiple people raise the same concern, you can get in front of it before it becomes too big.
 
 
   **How are you feeling, and what is the morale of your team around you?**
 
 
-
-
-  Going ok, happy to have good team mates that are always there to cheer me up , specially Neil
-
-
+  This question may take weeks or months before people begin to answer honestly and safely, but it's really important. This is one of the key ways you can keep a pulse on the team culture and morale.
 
 
   **Is there anything I could be doing better, differently or more of that would help you?**
 
 
-
-
-  As always doing a great job to keep us motivated and in a great environment
-
-
-
-
+  As a leader, it's important that you constantly and consistently ask for feedback. Whilst you might not get any significant feedback every week, asking regularly helps to provide the space to do so. Ensure that you react positively to any feedback you get, and act on it.
 
 
   **Optional questions:**
 
 
-
-
   **Where are you facing any challenges or blockages?**
 
 
-
-
-  Google documentation is not that straightforward, but I managed to do what I needed to do ![😀](https://mail.google.com/mail/e/1f600)
-
-
-
-
-  What have you learned this week?
-
-
-
-
-  Google api and their confusing documentation
-
-
+  This is your opportunity to improve productivity and process. As a leader, a huge part of your role means ensuring that your team can work without anything getting in their way.
 
 
   **What would you change about the work environment, the team, or the organisation?**
+
+
+  Some great ideas come out of this question, especially if you ask it often. Be sure to try to act on any suggestions you receive.
 participants: []
 ---
