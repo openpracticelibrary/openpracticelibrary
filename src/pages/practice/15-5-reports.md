@@ -10,19 +10,40 @@ tags:
 mobiusTag: foundation
 icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
 whatIs: >-
-  
+  Inspired by the Scrum standup questions, 15/5 reports are a great way to keep
+  a regular pulse across teams and organisations. They should take no more than
+  15 minutes to write, and no more than 5 minutes to read.
 
-  15/5 reports are a great way to keep a pulse across teams and organisations. They should take no more than 15 minutes to write, and no more than 5 minutes to read.
-whyDo: Ensuring that everyone knows what's going on in an organisation can be
-  hard. None of us want to spend lots of time writing or reading reports, but
-  only communicating verbally can take a lot of time and risk losing granularity
-  or accuracy of information.
+
+  When you create a weekly cadence of 15/5 reports, you can use them to inform 1-1 meetings you have, and it helps you report up and across to other team leaders or managers.
+whyDo: >-
+  Ensuring that everyone knows what's going on in an organisation can be hard.
+  None of us want to spend lots of time writing or reading reports, but only
+  communicating verbally can take a lot of time and risk losing granularity or
+  accuracy of information.
+
+
+  Many people find it easier to communicate in written form, because it gives them more time to think about what they're saying and how to say it. 
+
+
+  By using weekly 15/5 reports, people know there's always a space to report anything good, bad, or interesting.
 howTo: >-
   You will probably want to use different questions to the below, and you should
   also evolve your questions as you and your teams evolve too.
 
 
   Use the below as a starting point though, and see how you get on. There should be around three "mandatory" questions (though people are free to state "I have nothing to report on", or similar; and you can include a few optional questions that add extra context and ideas.
+
+
+  It can be useful to ask people to have 15/5 reports to you for the end of the week, a Friday morning, for example. This means you have time to digest them before the weekend. Choose the timing and cadence that works best for your team.
+
+
+  Even if you have up to ten people reporting to you, this is a very effective method of ensuring you can support your team in the best way possible, and can keep yourself and the rest of the organisation informed about progress, challenges, and opportunities.
+
+
+  Be sure to respond to every report - even if it's a quick acknowledgement and thanks - because it can be very demotivating for people to write these without receiving a response.
+
+
 
 
   Example questions:
