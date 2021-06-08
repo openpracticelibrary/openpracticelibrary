@@ -4,7 +4,7 @@ title: 15/5 Reports
 subtitle: Reporting for people who don't have time for reports
 date: 2021-06-04T11:06:35.789Z
 authors:
-  - tom_geraghty
+  - tom-geraghty
 tags:
   - methods
 mobiusTag: foundation
