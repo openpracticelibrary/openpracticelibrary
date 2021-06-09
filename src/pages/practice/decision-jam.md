@@ -1,29 +1,36 @@
 ---
-title: Decision Jam
-subtitle: 'A workshop to solve any problem, with any amount of people'
+templateKey: practice-page
+title: Lightning Decision Jam
+subtitle: A workshop to solve any problem, with any amount of people
 date: 2020-01-23T14:01:25.612Z
 authors:
   - heyjerrybecker
-area: discovery-loop-why
 tags:
   - ideate
-perspectives: []
+mobiusTag: discovery
 icon: /images/decision-jam-small.png
-jumbotron: /images/LDJ 2.jpeg
-people: 4-100+
-time: 60 - 90 min
-difficulty: moderate
-participants:
-  - Anyone!
-templateKey: practice-page
-whatIs: >-
-  This is a workshop exercise that you can use for **almost anything**. It
-  involves getting a few people in a room to define and solve challenges. It is
-  a handful of practices you run with a group to identify pain points or
-  problems to solve, to prioritize those problems, to ideate solutions to the
-  most important problems, and to prioritize those solutions. Finally, you
-  assign next steps for the team to take in order to run a solution experiment.
-whyDo: "The Decision Jam is an insanely flexible combination of exercises, taking the best of the world’s problem-solving processes ([Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/) to name a few) and crushing them down to their absolute essence. It is great to use if you feel like your team either is not currently focused on constant improvement OR you find the meetings you have about improving or problem solving never have any follow-through. Oh, or you are in a group where a small group of people tend to dominate the conversation! This helps to ensure **everyone**'s ideas are considered \U0001F44F\U0001F44F\U0001F44F\n\nThe Decision Jam is awesome for helping the team find areas of improvement. It helps drive the conversation toward a clear experiment to discover a solution within a very short period of time. So if you want to have fast follow-through for your team, this is a great workshop to try out!"
+whatIs: This is a workshop exercise that you can use for **almost anything**.
+  Created by the amazing team at [AJ&Smart](https://ajsmart.com/), the Lightning
+  Decision Jam involves getting a few people in a room to define and solve
+  challenges. It is a handful of practices you run with a group to identify pain
+  points or problems to solve, to prioritize those problems, to ideate solutions
+  to the most important problems, and to prioritize those solutions. Finally,
+  you assign next steps for the team to take in order to run a solution
+  experiment.
+whyDo: >-
+  The Lightning Decision Jam (LDJ) is an insanely flexible combination of
+  exercises, taking the best of the world’s problem-solving processes ([Design
+  Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)/[Gamestorming](https://gamestorming.com/)/[Design
+  Sprints](https://openpracticelibrary.com/practice/design-sprint/)/[Agile](http://www.agilenutshell.com/)
+  to name a few) and crushing them down to their absolute essence. It is great
+  to use if you feel like your team either is not currently focused on constant
+  improvement OR you find the meetings you have about improving or problem
+  solving never have any follow-through. Oh, or you are in a group where a small
+  group of people tend to dominate the conversation! This helps to ensure
+  **everyone**'s ideas are considered 👏👏👏
+
+
+  The LDJ is awesome for helping the team find areas of improvement. It helps drive the conversation toward a clear experiment to discover a solution within a very short period of time. So if you want to have fast follow-through for your team, this is a great workshop to try out!
 howTo: >-
   ### Overview of Steps
 
@@ -51,30 +58,36 @@ howTo: >-
   **8.** Make solutions actionable (S.M.A.R.T)
 
 
-  Check out the step-by-step video from the creator of the Lightning Decision
-  Jam (AJ&Smart) in the gallery below on how to facilitate this jazz.
+  Check out the step-by-step video from the creator of the Lightning Decision Jam (AJ&Smart) in the gallery below on how to facilitate this jazz.
 mediaGallery:
-  - link: 'https://youtu.be/33hBnZzoFAg'
-  - link: 'https://www.youtube.com/watch?v=w9MvYDaA1Bk'
-  - link: 'https://openpracticelibrary.github.io/opl-media/images/LDJ 2.jpeg'
+  - link: https://youtu.be/33hBnZzoFAg
+  - link: https://www.youtube.com/watch?v=w9MvYDaA1Bk
+  - link: https://openpracticelibrary.github.io/opl-media/images/LDJ 2.jpeg
 resources:
-  - link: >-
-      https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc
+  - link: https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc
     linkType: web
-    description: >-
-      Step-by-step blog post from the Creator of the Lightning Decision Jam
-      (AJ&Smart)
-  - link: 'https://youtu.be/33hBnZzoFAg'
+    description: Step-by-step blog post from the Creator of the Lightning Decision
+      Jam (AJ&Smart)
+  - link: https://youtu.be/33hBnZzoFAg
     linkType: web
     description: Step-by-step video walkthrough
-  - link: >-
-      https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular
+  - link: https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular
     linkType: web
     description: Design Thinking
-  - link: 'https://openpracticelibrary.com/practice/design-sprint/'
+  - link: https://podcasts.apple.com/us/podcast/lightning-decision-jam-w-jonathan-courtney/id1501715186?i=1000476221425
+    linkType: podcast
+    description: LDJ Open Practice Podcast Episode
+  - link: https://openpracticelibrary.com/practice/design-sprint/
     linkType: web
     description: Design Sprint
-mobiusTag: discovery
+participants:
+  - Anyone!
+jumbotron: /images/LDJ 2.jpeg
+area: discovery-loop-why
+people: 4-100+
+time: 60 - 90 min
+perspectives: []
+difficulty: moderate
 ---
 ## What is it?
 

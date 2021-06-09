@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Social Contract
-subtitle: 'Build a constructive, fun team culture'
+subtitle: Build a constructive, fun team culture
 date: 2017-11-21T05:00:00.000Z
 authors:
   - mtakane
@@ -10,20 +10,10 @@ authors:
   - springdo
   - infosec812
   - ilaria66
-area: foundation-culture-and-collaboration
-perspectives:
-  - facilitation-tips-for-remote-sessions
-icon: /images/social-contract.jpg
-jumbotron: /images/social-contract.jpg
-people: 3+
-time: 10 minutes
-difficulty: moderate
-participants:
-  - Facilitator
-  - Team Members
-  - Stakeholders
 tags:
   - culture
+mobiusTag: foundation
+icon: /images/social-contract.jpg
 whatIs: >-
   The Social Contract is a simple, yet highly effective manner to enable team
   autonomy and self accountability for engagements. The Social Contract is
@@ -32,8 +22,7 @@ whatIs: >-
   and share its desired behaviours with management and other stakeholders.
 
 
-  To effectively use this practice you should look to create the following
-  outcomes:
+  To effectively use this practice you should look to create the following outcomes:
 
   * Public display of the social contract
 
@@ -41,9 +30,7 @@ whatIs: >-
   * Nobody is above the contract
 
 
-  * The team agreed holds each other accountable to the contract. Having every
-  team member physically sign the contract can provide a good starting point for
-  this.
+  * The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
 
 
   * Revisit the social contract often and update it as necessary
@@ -55,39 +42,160 @@ whyDo: |-
   * The contract keeps the team consciously aware of how they work together
 
   * Establish empathy and context for future conversations between team members
-howTo: "## Materials Needed\n* Wall space which will hold sticky notes.\n* Whiteboard markers\n* Stickies (preferably a wide variety)\n* Large poster paper\n\nStick the large poster paper on the wall and label it \"Social Contract.\"\n\nExplain to the team that we're going to:\n\n* Define the kind of culture we want our team to have\n\n* Set some general guidelines\n\n* Hold one another accountable to these guidelines\n\nAsk open-ended questions about the team's desired way of working. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sticky note away or put it in the parking lot for later discussion.\n\nAt the end, ask the team to sign the contract, and keep it in a visible place. Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.\n\nAs the team moves forward, encourage them to refer back to the contract when there are disagreements.\n\n## Example Questions\n\nTry to guide the team to a contract that encourages positivity, autonomy, and respect.\n* What sort of team culture do you want to build?\n\n* Open, positive, blame-free, constructive\n\n* Fun!\n\n* No magic, no wizardry, no ninjas - build shared understanding\n\n* Celebrate success\n\n* What core hours do you want to work? 10am - 3pm?\n\n* The idea is *not* to encourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensuring that the team can still meet together.\n\n* What are your thoughts on pair programming? Mob programming? Mob to learn; pair to build? Focus, then share what you learned?\n\n* Respect individual working styles\n\n* How should we handle devices in meetings? Laptops closed and phones down? Step out if you need to work on something else?\n\n* How do you want to track tasks? Jira? Paper stickies? This helps us avoid missing important stuff or duplicating work.\n\n* Embrace creative chaos\n\n## Don't do this\nAvoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:\n\n* Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.\n\n* Be more productive by juggling several projects at once.\n\n* Ensure accountability by finding someone to blame when things break.\n\n* Deploying to production is scary because it's an opportunity to get blamed for something (see above). Code should be deployed as infrequently as possible.\n\n* When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.\n\n## Tips for remote sessions\n\n1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts.\n\n2. Everyone signs with a Sticky-note with his/her name.\n\n3. Add remote working elements to the social contract (mute on entry, video on etc).\n\n4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc.\n\n5. Use examples:\n\n> * One conversation at a time\n> * Assume positive intent\n> * Do not delete or move others contribution\n> * Stay focused on our goal working iteratively\n> * Respect breaks\n> * Avoid other distractions like mail, and chat\n> * A contract can be updated based on needs...\n> * Agree on the above adding a sticky w/name & location\n\n**Want to run this practice remotely? See the mural template below to jumpstart your session! \U0001F4BB\U0001F64F**"
+howTo: >-
+  ## Materials Needed
+
+
+  * Wall space which will hold sticky notes.
+
+  * Whiteboard markers
+
+  * Stickies (preferably a wide variety)
+
+  * Large poster paper
+
+
+  Stick the large poster paper on the wall and label it "Social Contract."
+
+
+  Explain to the team that we're going to:
+
+
+  * Define the kind of culture we want our team to have
+
+  * Set some general guidelines
+
+  * Hold one another accountable to these guidelines
+
+
+  Ask open-ended questions about the team's desired way of working. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sticky note away or put it in the parking lot for later discussion.
+
+
+  At the end, ask the team to sign the contract, and keep it in a visible place. Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
+
+
+  As the team moves forward, encourage them to refer back to the contract when there are disagreements.
+
+
+  ## Example Questions
+
+
+  Try to guide the team to a contract that encourages positivity, autonomy, and respect.
+
+
+  * What sort of team culture do you want to build?
+
+  * Open, positive, blame-free, constructive
+
+  * Fun!
+
+  * No magic, no wizardry, no ninjas - build shared understanding
+
+  * Celebrate success
+
+  * What core hours do you want to work? 10am - 3pm?
+
+  * The idea is *not* to encourage a clock-in/clock-out mindset. It's about giving people the freedom to work the hours that make sense for them while ensuring that the team can still meet together.
+
+  * What are your thoughts on pair programming? Mob programming? Mob to learn; pair to build? Focus, then share what you learned?
+
+  * Respect individual working styles
+
+  * How should we handle devices in meetings? Laptops closed and phones down? Step out if you need to work on something else?
+
+  * How do you want to track tasks? Jira? Paper stickies? This helps us avoid missing important stuff or duplicating work.
+
+  * Embrace creative chaos
+
+
+  ## Don't do this
+
+
+  Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
+
+
+  * Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
+
+  * Be more productive by juggling several projects at once.
+
+  * Ensure accountability by finding someone to blame when things break.
+
+  * Deploying to production is scary because it's an opportunity to get blamed for something (see above). Code should be deployed as infrequently as possible.
+
+  * When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.
+
+
+  ## Tips for remote sessions
+
+
+  1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts.
+
+  2. Everyone signs with a Sticky-note with his/her name.
+
+  3. Add remote working elements to the social contract (mute on entry, video on etc).
+
+  4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc.
+
+  5. Use examples:
+
+
+  > * One conversation at a time
+
+  > * Assume positive intent
+
+  > * Do not delete or move others contribution
+
+  > * Stay focused on our goal working iteratively
+
+  > * Respect breaks
+
+  > * Avoid other distractions like mail, and chat
+
+  > * A contract can be updated based on needs...
+
+  > * Agree on the above adding a sticky w/name & location
 mediaGallery:
-  - link: 'https://www.youtube.com/o1le81ZgVLk'
-  - link: 'https://openpracticelibrary.github.io/opl-media/images/social-contract.jpg'
+  - link: https://www.youtube.com/o1le81ZgVLk
+  - link: https://openpracticelibrary.github.io/opl-media/images/social-contract.jpg
 resources:
-  - link: >-
-      https://anchor.fm/openpracticelibrary/embed/episodes/Social-Contracts-w-Omar-McNeil-ecf9e1
+  - link: https://anchor.fm/openpracticelibrary/embed/episodes/Social-Contracts-w-Omar-McNeil-ecf9e1
     linkType: podcast
     description: Learn more by listening to the Open Practice Podcast episode!
-  - link: 'https://openpracticelibrary.com/practice/retrospectives/'
+  - link: https://openpracticelibrary.com/practice/retrospectives/
     linkType: web
     description: Retrospectives
-  - link: 'http://www.funretrospectives.com/collaborative-face-drawing/'
+  - link: http://www.funretrospectives.com/collaborative-face-drawing/
     linkType: web
     description: Collaborative Face Drawing
-  - link: >-
-      https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team
+  - link: https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team
     linkType: web
     description: Working Agreements for a Scrum Team
-  - link: 'https://theagileexecutive.com/tag/social-contract/'
+  - link: https://theagileexecutive.com/tag/social-contract/
     linkType: web
     description: Social Contract
-  - link: 'https://leanpub.com/dynamicreteaming'
+  - link: https://leanpub.com/dynamicreteaming
     linkType: web
     description: Dynamic Reteaming
-  - link: 'https://medium.com/@springdo/social-contracts-6c62c4588b6e'
+  - link: https://medium.com/@springdo/social-contracts-6c62c4588b6e
     linkType: web
     description: Social Contracts - The best thing your teams aren't doing
-  - link: >-
-      https://app.mural.co/template/ad9c8315-03b7-4f21-98b0-a8dac0d56601/f5a36cb3-25d3-4014-bf46-34417b460d29
+  - link: https://app.mural.co/template/ad9c8315-03b7-4f21-98b0-a8dac0d56601/f5a36cb3-25d3-4014-bf46-34417b460d29
     linkType: web
     description: Social Contract MURAL Template
-mobiusTag: foundation
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
+participants:
+  - Facilitator
+  - Team Members
+  - Stakeholders
+jumbotron: /images/social-contract.jpg
+area: foundation-culture-and-collaboration
+people: 3+
+time: 10 minutes
+perspectives:
+  - facilitation-tips-for-remote-sessions
+difficulty: moderate
 ---
 ## What is it?
 

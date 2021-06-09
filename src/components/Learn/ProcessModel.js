@@ -25,7 +25,7 @@ const ProcessModel = () => {
           continuous flow of innovation from discovery, to design, to delivery.
         </Typography>
         <Typography gutterBottom>
-          Practices can be mapped to one of three parts of the loop:
+          Practices can be mapped to one of four parts of the loop:
         </Typography>
         <Box my={4}>
           <MobiusLoopHero showContent={false} />

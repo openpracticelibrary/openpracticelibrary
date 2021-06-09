@@ -1,37 +1,8 @@
 import React from "react";
-import { navigate } from "gatsby";
+import { Link } from "gatsby";
 import Img from "gatsby-image/withIEPolyfill";
-import {
-  Box,
-  Chip,
-  Card,
-  CardActions,
-  CardContent,
-  Grid,
-  Typography,
-} from "@material-ui/core";
-
-//TODO: When Mobius is refactored, extract this into it's own hook/function
-const coloration = (mobiusSection) => {
-  let coloration;
-  switch (mobiusSection) {
-    case "foundation":
-      coloration = "primary.dark";
-      break;
-    case "discovery":
-      coloration = "secondary.main";
-      break;
-    case "options":
-      coloration = "error.main";
-      break;
-    case "delivery":
-      coloration = "warning.main";
-      break;
-    default:
-      coloration = "grey.400";
-  }
-  return coloration;
-};
+import { Box, Card, CardContent, Grid, Typography } from "@material-ui/core";
+import mobiusContent from "../../../utilities/mobuisContent";
 
 const PracticeCard = ({
   coverImage,
@@ -43,13 +14,10 @@ const PracticeCard = ({
   tags,
 }) => {
   const [hovered, setHovered] = React.useState(false);
+  const tag = mobiusTag.toLowerCase();
   return (
-    <Grid item data-testid={practiceId} xs={12} sm={6} md={4}>
+    <Grid item component={Link} to={slug} style={{ textDecoration: "none" }} data-testid={practiceId} xs={12} sm={6} md={4}>
       <Card
-        role="button"
-        onClick={() => {
-          navigate(slug);
-        }}
         data-testid="practicecard"
         raised={hovered}
         onMouseOut={() => setHovered(false)}
@@ -57,7 +25,12 @@ const PracticeCard = ({
         placeholder
         style={{ cursor: "pointer", height: "100%", width: "100%" }}
       >
-        <Box borderBottom={6} color={coloration(mobiusTag)} bgcolor="grey.300">
+        <Box
+          borderBottom={4}
+          color={mobiusContent[tag].color}
+          bgcolor="grey.300"
+          position="relative"
+        >
           <Img
             alt={practiceTitle}
             imgStyle={{ objectFit: "cover", width: "100%", height: "100%" }}
@@ -65,6 +38,21 @@ const PracticeCard = ({
             style={{ width: "100%", height: "12rem" }}
             title={practiceTitle}
           />
+          <Box
+            bgcolor={mobiusContent[tag].color}
+            position="absolute"
+            height="2rem"
+            width="2rem"
+            bottom={0}
+            right={0}
+            color="white"
+            display="flex"
+            alignItems="center"
+            justifyContent="center"
+            style={{ borderTopLeftRadius: ".25rem" }}
+          >
+            {mobiusContent[tag].icon}
+          </Box>
         </Box>
         <CardContent>
           <Typography
@@ -78,13 +66,6 @@ const PracticeCard = ({
           <Typography component="p" gutterBottom variant="subtitle">
             {subtitle}
           </Typography>
-          <CardActions>
-            {tags.length !== 0
-              ? tags.map((t, i) => (
-                  <Chip label={`#${t}`} variant="outlined" size="small" />
-                ))
-              : null}
-          </CardActions>
         </CardContent>
       </Card>
     </Grid>

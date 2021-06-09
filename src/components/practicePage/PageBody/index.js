@@ -25,7 +25,7 @@ const PageBody = ({
         {whatIs && (
           <>
             <Typography gutterBottom variant="h4" ref={whatIsRef}>
-              WhatIs {title}?
+              What Is {title}?
             </Typography>
             <FullText source={whatIs} />
           </>
@@ -74,7 +74,7 @@ const PageBody = ({
           </>
         )}
         <Typography ref={discussRef} variant="h4">
-          Ask Us Anything
+          Discuss with the Community
         </Typography>
         <HyvorTalk.Embed websiteId={1961} />
       </Box>

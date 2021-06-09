@@ -4,7 +4,7 @@
 
 ## About
 
-The [Open Practice Library](https://openpracticelibrary.com) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. To learn more about the philosophy behind the library, see [about.md](content/page/about.md).
+The [Open Practice Library](https://openpracticelibrary.com) provides information about practices and ideas that empower teams to collaborate and deliver iteratively. Learn more about the philosophy behind the library [here](https://openpracticelibrary.com/about).
 
 ## Publishing workflow
 
@@ -23,6 +23,6 @@ The [Open Practice Library](https://openpracticelibrary.com) provides informatio
 
 ## Contributing
 
-To get started contributing content, see the [Contributing guide](https://openpracticelibrary.com/contribution-guide/). To start contributing code, see the [Developing guide](DEVELOPING.md).
+To get started contributing content, see the [Contributing guide](https://openpracticelibrary.com/page/contribution-guide). To start contributing code, see the [Developing guide](DEVELOPING.md).
 
 See also: [Code of Conduct](CODE_OF_CONDUCT.md).

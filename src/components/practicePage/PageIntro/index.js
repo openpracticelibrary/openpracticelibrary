@@ -1,8 +1,7 @@
 import React from "react";
-import TitleAndSubtitle from "./TitleAndSubtitle";
 import ContributedBy from "./ContributedBy";
 import Collection from "../../shared/Collection";
-import { Container, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@material-ui/core";
 
 const PageIntro = ({
   title,
@@ -19,7 +18,14 @@ const PageIntro = ({
   preview,
 }) => (
   <Container maxWidth="md">
-    <TitleAndSubtitle title={title} tags={allTags} subtitle={subtitle} />
+    <Box display="flex" flexDirection="column" marginTop={3}>
+      <Typography variant="h2" data-testid="title">
+        {title}
+      </Typography>
+      <Typography variant="h5" data-testid={"subtitle"}>
+        {subtitle}
+      </Typography>
+    </Box>
     <ContributedBy
       authors={authors}
       createdAt={date}

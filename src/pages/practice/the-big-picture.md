@@ -17,20 +17,18 @@ whatIs: An Open Tech practice that costs little to produce but is great in
   the importance and sometimes the complexity of continuous delivery. A Big
   Picture can easily be created with just some Stickies and a clear board or
   space. Of course - if you’re feeling more artistic it can also be doodled!
-whyDo: You’re probably reading this and thinking ‘Sounds fluffy to me - why
-  should I bother to make one?’ Shared understanding - ahhh the golden dream of
-  Shared Understanding! When the whole team collaborates around making the Big
-  Picture they get a shared sense of how their pipelines connect code to end
-  users. Prototype quickly - It’s cheaper to write and draw before implementing
-  a single line of code! Rapidly prototype with some sharpies and postits,
-  moving stages of your pen and paper pipeline Complexity Simplified - Big
-  Picture helps bring the non techies into the mix by showing them the
-  components required to manage the softwares lifecycle. Build it up one step at
-  a time to demonstrate the complexity in a simple visual flow. Information
-  Radiator - Like all these practices, the Big Picture is an evolving artifact.
-  As the complexity of a software delivery pipeline grows, the Big Picture
-  should be updated to reflect this. It is a graphic which can be displayed to
-  all and should not be hidden.
+whyDo: >-
+  You’re probably reading this and thinking ‘Sounds fluffy to me - why should I
+  bother to make one?’ 
+
+
+  * Shared Understanding - ahhh the golden dream of Shared Understanding! When the whole team collaborates around making the Big Picture they get a shared sense of how their pipelines connect code to end users. 
+
+  * Prototype Quickly - It’s cheaper to write and draw before implementing a single line of code! Rapidly prototype with some sharpies and postits, moving stages of your pen and paper pipeline without opening your laptop. 
+
+  * Complexity Simplified - Big Picture helps bring the non techies into the mix by showing them the components required to manage the softwares lifecycle. Build it up one step at a time to demonstrate the complexity in a simple visual flow. 
+
+  * Information Radiator - Like all these practices, the Big Picture is an evolving artifact. As the complexity of a software delivery pipeline grows, the Big Picture should be updated to reflect this. It is a graphic which can be displayed to all and should not be hidden.
 howTo: >-
   Get some Stickies and painters tape and a lot of space! Draw up your servers
   or playforms in tape to frame the big picture. For example, a big red box
@@ -50,13 +48,17 @@ howTo: >-
 mediaGallery:
   - link: https://www.youtube.com/watch?v=qXb1naW0zdY
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/big-pic.png?raw=true
-time: 60mins
+resources:
+  - link: https://podcasts.apple.com/us/podcast/the-big-picture-w-haitham-shahin/id1501715186?i=1000488772813
+    linkType: podcast
+    description: Big Picture Open Practice Podcast Episode
 participants:
   - The Dev Team
   - The PO & Designers
 jumbotron: /images/big-pic.png
 area: foundation-technical
 people: 3+
+time: 60mins
 perspectives: []
 difficulty: easy
 jumbotronAlt: example-big-picture

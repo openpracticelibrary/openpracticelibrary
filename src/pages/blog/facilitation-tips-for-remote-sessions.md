@@ -1,12 +1,13 @@
 ---
-templateKey: "blog-page"
+templateKey: blog-page
 title: Facilitation Tips for Remote Sessions
 subtitle: Practical tips on how to make your workshop successful with distributed people
-date: "2020-04-07T14:22:47.193Z"
+date: 2020-04-07T14:22:47.193Z
 authors:
   - ilaria66
   - mvmaestri
   - jonathanjohnston
+jumbotron: /images/1280px-home_sweet_studio.jpg
 ---
 # What is it?
 
@@ -16,7 +17,7 @@ This is a list of facilitation tips that can be applied to the majority of on li
 
 # Why use it?
 
-It is a set of practical suggestions to make your workshop successful.
+It is a set of practical suggestions to make your remote workshop successful.
 
 ## Prior preparation
 
@@ -80,6 +81,19 @@ It is a set of practical suggestions to make your workshop successful.
 ## Consent
 
 * Before recording sessions, making videos or sharing documents please ensure to get participants' consent to do this.
+
+## Distributed Team Forming
+
+* Don't execute without taking the time to learn and share from others
+* Avoid being overly critical of those having a hard time with remote work
+* Don't let perfect become the enemy of the good
+* Avoid distractions in background
+* Avoid being overly rigid with schedules
+* Encourage the team to share ideas
+* Allow yourself and others to take some space when needed (respect different working styles)
+* Be active in communication channels
+* Plan a remote social event in week 1 to facilitate teaming forming and to help team members to bond
+* Create Social(ish) Playlist
 
 ## Further Information
 

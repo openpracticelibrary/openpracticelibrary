@@ -1,6 +1,6 @@
 name: E2E Tests
 
-on: pull_request
+on: [pull_request,workflow_dispatch]
 
 jobs:
   test:
@@ -11,10 +11,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Wait for Netlify
-        uses: probablyup/wait-for-netlify-action@3.2.0
+        uses: openpracticelibrary/wait-for-netlify-action@feature-max-build-timeout
         id: waitForDeployment
         with:
           site_id: ${{ secrets.NETLIFY_SITE_ID }}
+          max_build_timeout: 480
         env:
           NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
 

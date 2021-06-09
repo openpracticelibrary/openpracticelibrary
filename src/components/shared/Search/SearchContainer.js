@@ -6,11 +6,11 @@ import { Box } from "@material-ui/core";
 import TextField from "@material-ui/core/TextField";
 
 export default function SearchContainer(props) {
-  const books = props.practices;
+  const practiceData = props.practices;
 
   const [state, setState] = React.useState({
     search: [],
-    searchResults: books,
+    searchResults: practiceData,
     isLoading: true,
     isError: false,
     searchQuery: "",
@@ -23,7 +23,7 @@ export default function SearchContainer(props) {
       ? setState({
           ...state,
           searchQuery: e.target.value,
-          searchResults: books,
+          searchResults: practiceData,
         })
       : setState({
           ...state,
@@ -39,7 +39,7 @@ export default function SearchContainer(props) {
   React.useEffect(() => {
     const dataToSearch = new JsSearch.Search(["node", "id"]);
     dataToSearch.addIndex(["node", "frontmatter", "title"]); // sets the index attribute for the data
-    dataToSearch.addDocuments(books); // adds the data to be searched
+    dataToSearch.addDocuments(practiceData); // adds the data to be searched
     setState({
       ...state,
       search: dataToSearch,
@@ -49,7 +49,7 @@ export default function SearchContainer(props) {
 
   return (
     <>
-      <Box mx="auto" width={{ xs: 1, sm: "50%" }}>
+      <Box mx="auto" width={{ xs: 1, sm: "60%" }}>
         <form onSubmit={handleSubmit}>
           <TextField
             id="Search"
@@ -58,7 +58,9 @@ export default function SearchContainer(props) {
             onChange={searchData}
             data-testid="searchTextField"
             placeholder="Know the name of the practice?"
+            disabled={state.isLoading}
             fullWidth
+            size="small"
           />
         </form>
       </Box>

@@ -471,7 +471,7 @@ It should be possible for the team to move around boards - in and out of their c
 
 ## Breakout Areas
 
-Breakout areas are multi-purpose spaces. They can be used for informal ad-hoc meetings, eating, or general relaxation. The are ideal for brainstorming and breakout sessions. They provide a more creative setting than traditional meeting rooms and ideally should have internet connectivity and power outlets.
+Breakout areas are multi-purpose spaces. They can be used for informal ad-hoc meetings, eating, or general relaxation. They are ideal for brainstorming and breakout sessions. They provide a more creative setting than traditional meeting rooms and ideally should have internet connectivity and power outlets.
 
 * Advantages - Provides instant-access meeting facilities for teams, ideally should be located within or adjacent to the open workspace area. 
 * Disadvantages - Can be noisy and not ideal for certain types of meetings e.g. client facing, sensitive, etc.

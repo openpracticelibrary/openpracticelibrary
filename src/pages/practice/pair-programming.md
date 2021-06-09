@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Pair programming
+title: Pair Programming
 subtitle: Increasing the knowledge sharing and communication between team members
 date: 2019-05-09T21:15:43.697Z
 authors:
@@ -81,6 +81,9 @@ resources:
   - link: https://speakerdeck.com/lemiorhan/unwritten-manual-for-pair-programming
     linkType: web
     description: The Unwritten Manual for Pair Programming
+  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    linkType: web
+    description: Remote Facilitation Tips
 people: "2"
 participants:
   - The Team
