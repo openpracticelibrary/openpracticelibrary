@@ -5,7 +5,7 @@ subtitle: A collaborative practice for developers and designers to build shared
   understanding in service of outcomes based delivery.
 date: 2021-03-19T07:35:09.113Z
 authors:
-  - kattekrab
+  - chloecelani
 tags:
   - culture
   - methods
