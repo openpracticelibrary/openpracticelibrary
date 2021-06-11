@@ -55,19 +55,15 @@ whatIs: >-
 
   Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
 whyDo: >-
-  Westrum's Typologies subsequently appeared in Nicole Forsgren's book
-  "Accelerate", where she was able to show that generative cultures were
-  associated with improved software delivery performance (the four [Accelerate
-  Metrics](https://openpracticelibrary.com/blog/accelerate-metrics-software-delivery-performance-measurement/))
-  and other organisational capabilities for learning.
+  
 
-
-  In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean Enterprise: How High Performance Organizations Innovate at Scale", which again highlighted how critical culture is to performance, and highlighted Westrum's Typology model.
-
-
+  In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean Enterprise: How High Performance Organizations Innovate at Scale", which highlighted how critical culture is to performance, and highlighted Westrum's Typology model. “Instead of creating controls to compensate for pathological cultures, the solution is to create a culture in which people take responsibility for the consequences of their actions”
 
 
   The [2016 state of DevOps Report ](https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf)also showed that Generative, performance-oriented cultures improve software delivery performance, alongside market share, productivity and profitability.
+
+
+  Westrum's Typologies subsequently appeared in Nicole Forsgren's book "Accelerate", where she was able to show that generative cultures were associated with improved software delivery performance (the four [Accelerate Metrics](https://openpracticelibrary.com/blog/accelerate-metrics-software-delivery-performance-measurement/)) and other organisational capabilities for learning.
 howTo: >-
   Measuring organisational culture through Westrum's Organisational Typologies
   is conducted via surveys utilising the below questions and scoring agreement
@@ -112,6 +108,10 @@ resources:
     description: "Jez Humble, Joanne Molesky, and Barry O'Reilly. 2015. Lean
       Enterprise: How High Performance Organizations Innovate at Scale (1st.
       ed.). O'Reilly Media, Inc."
+    linkType: web
+  - link: https://itrevolution.com/book/accelerate/
+    description: "ACCELERATE The Science of Lean Software and DevOps: Building and
+      Scaling High Performing Technology Organizations"
     linkType: web
 participants: []
 ---
