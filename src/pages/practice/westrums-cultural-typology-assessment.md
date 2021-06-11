@@ -62,6 +62,11 @@ whyDo: >-
   and other organisational capabilities for learning.
 
 
+  In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean Enterprise: How High Performance Organizations Innovate at Scale", which again highlighted how critical culture is to performance, and highlighted Westrum's Typology model.
+
+
+
+
   The [2016 state of DevOps Report ](https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf)also showed that Generative, performance-oriented cultures improve software delivery performance, alongside market share, productivity and profitability.
 howTo: >-
   Measuring organisational culture through Westrum's Organisational Typologies
@@ -100,5 +105,13 @@ resources:
   - link: https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf
     linkType: web
     description: 2016 State of DevOps Report
+  - link: https://tomgeraghty.co.uk/index.php/psychological-safety-and-organisational-culture/
+    linkType: web
+    description: Psychological Safety and Westrum’s Organisational Typologies
+  - link: https://www.oreilly.com/library/view/lean-enterprise/9781491946527/
+    description: "Jez Humble, Joanne Molesky, and Barry O'Reilly. 2015. Lean
+      Enterprise: How High Performance Organizations Innovate at Scale (1st.
+      ed.). O'Reilly Media, Inc."
+    linkType: web
 participants: []
 ---
