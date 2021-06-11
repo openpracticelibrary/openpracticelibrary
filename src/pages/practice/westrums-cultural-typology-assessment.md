@@ -55,15 +55,18 @@ whatIs: >-
 
   Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
 whyDo: >-
-  
-
-  In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean Enterprise: How High Performance Organizations Innovate at Scale", which highlighted how critical culture is to performance, and highlighted Westrum's Typology model. “Instead of creating controls to compensate for pathological cultures, the solution is to create a culture in which people take responsibility for the consequences of their actions”
+  In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean
+  Enterprise: How High Performance Organizations Innovate at Scale", which
+  highlighted how critical culture is to performance, and highlighted Westrum's
+  Typology model. “Instead of creating controls to compensate for pathological
+  cultures, the solution is to create a culture in which people take
+  responsibility for the consequences of their actions”
 
 
   The [2016 state of DevOps Report ](https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf)also showed that Generative, performance-oriented cultures improve software delivery performance, alongside market share, productivity and profitability.
 
 
-  Westrum's Typologies subsequently appeared in Nicole Forsgren's book "Accelerate", where she was able to show that generative cultures were associated with improved software delivery performance (the four [Accelerate Metrics](https://openpracticelibrary.com/blog/accelerate-metrics-software-delivery-performance-measurement/)) and other organisational capabilities for learning.
+  Westrum's Typologies subsequently appeared in Nicole Forsgren's book "Accelerate" in 2018, where she was able to show that generative cultures were associated with improved software delivery performance (the four [Accelerate Metrics](https://openpracticelibrary.com/blog/accelerate-metrics-software-delivery-performance-measurement/)) and other organisational capabilities for learning.
 howTo: >-
   Measuring organisational culture through Westrum's Organisational Typologies
   is conducted via surveys utilising the below questions and scoring agreement
@@ -89,7 +92,39 @@ howTo: >-
 
   \
 
-  Using 7 points would provide greater granularity, but impacts usability and accessibility.
+  Using 7 points would provide greater granularity, but impacts usability and accessibility. 
+
+
+  Average these scores for your summative Westrum's Typology score. Close to zero suggests your culture is towards "Pathological", 2-3 suggests Bureaucratic, and 4-5 suggests a Generative culture:
+
+
+  | **Pathological** | **Bureaucratic** | **Generative** |
+
+  | ---------------- | ---------------- | -------------- |
+
+  | *0-1*            | *2-3*            | *4-5*          |
+
+
+
+
+  The individual line scores suggest areas for improvement. For example, if your score for statement 4 is particularly low, investigate and employ practices to improve collaboration between different functional teams, ask teams what challenges they face in communication and collaboration, and facilitate informal gatherings or events where people in different teams can get to know each other.
+
+
+
+
+  **Points of note:**
+
+
+  Try to keep this survey anonymous. Honest answers are of utmost importance.
+
+
+  Resist the temptation to measure too frequently. Once per quarter or every six months is appropriate.
+
+
+  Avoid setting score improvement as a goal - be conscious that [GoodHart's Law](https://towardsdatascience.com/unintended-consequences-and-goodharts-law-68d60a94705c) means that when a measure becomes a target, it ceases to become a good measure.
+
+
+  If you have a large enough organisation, or enough data over time, you could try applying data science practices to identify outliers in the data that can indicate particular areas of concern, for particular teams, or disruptive events that correlate with a dip in scores.
 resources:
   - link: http://dx.doi.org/10.1136/qhc.13.suppl_2.ii22
     linkType: web
