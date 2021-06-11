@@ -32,6 +32,8 @@ whatIs: >-
   You can see a break down of the characteristics of the each culture in this table:
 
 
+
+
   | **Pathological**              | **Bureaucratic**          | **Generative**             |
 
   | ----------------------------- | ------------------------- | -------------------------- |
@@ -49,11 +51,28 @@ whatIs: >-
   | Failure leads to scapegoating | Failure leads to justice  | Failure leads to inquiry   |
 
   | Novelty crushed               | Novelty leads to problems | Novelty implemented        |
+
+
+
+
+  Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2009, described "Learning Organisations" in her paper "\*\**" 
+
+
+  In this sense
+
+
+
+
+  foo
 whyDo: foo
 howTo: bar
 resources:
   - link: http://dx.doi.org/10.1136/qhc.13.suppl_2.ii22
     linkType: web
     description: Westrum, R. 2004. A typology of organisational cultures
+  - link: https://www.alnap.org/system/files/content/resource/files/main/r0803h-pdf-eng.pdf
+    linkType: web
+    description: Garvin, D.A., Edmondson, A.C. and Gino, F., 2008. Is yours a
+      learning organization?. Harvard business review, 86(3), p.109.
 participants: []
 ---
