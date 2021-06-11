@@ -19,13 +19,22 @@ whatIs: >-
   "typologies" that the majority of organisations could be aligned to:
 
 
+
+
   **Pathological** (power-oriented): These organisations are characterised by low cooperation across groups and a culture of blame. Information is often withheld for personal gain. 
+
+
 
 
   **Bureaucratic** (rule-oriented): Bureaucratic cultures are preoccupied with rules and positions, and responsibilities are compartmentalised by the department, with little concern for the overall mission of the organisation.
 
 
-  **Generative** (performance-oriented): The hallmarks of a generative organisation are good information flow, high cooperation and trust, collaboration ("bridging") between teams, and conscious inquiry.\
+
+
+  **Generative** (performance-oriented): The hallmarks of a generative organisation are good information flow, high cooperation and trust, collaboration ("bridging") between teams, and conscious inquiry.
+
+
+  \
 
   \
 
@@ -49,6 +58,8 @@ whatIs: >-
   | Failure leads to scapegoating | Failure leads to justice  | Failure leads to inquiry   |
 
   | Novelty crushed               | Novelty leads to problems | Novelty implemented        |
+
+
 
 
 
