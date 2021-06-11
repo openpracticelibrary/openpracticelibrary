@@ -34,9 +34,7 @@ whatIs: >-
   **Generative** (performance-oriented): The hallmarks of a generative organisation are good information flow, high cooperation and trust, collaboration ("bridging") between teams, and conscious inquiry.
 
 
-  \
 
-  \
 
   You can see a break down of the characteristics of the each culture in this table:
 
@@ -109,18 +107,14 @@ howTo: >-
   Average these scores for your summative Westrum's Typology score. Close to zero suggests your culture is towards "Pathological", 2-3 suggests Bureaucratic, and 4-5 suggests a Generative culture:
 
 
-  | **Pathological** | **Bureaucratic** | **Generative** |
+  | **Pathological -** | **Bureaucratic -** | **Generative** |
 
-  | ---------------- | ---------------- | -------------- |
+  | ------------------ | ------------------ | -------------- |
 
-  | *0-1*            | *2-3*            | *4-5*          |
-
-
+  | *0-1*              | *2-3*              | *4-5*          |
 
 
   The individual line scores suggest areas for improvement. For example, if your score for statement 4 is particularly low, investigate and employ practices to improve collaboration between different functional teams, ask teams what challenges they face in communication and collaboration, and facilitate informal gatherings or events where people in different teams can get to know each other.
-
-
 
 
   **Points of note:**
