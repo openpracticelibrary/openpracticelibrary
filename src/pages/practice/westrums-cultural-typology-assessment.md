@@ -32,8 +32,6 @@ whatIs: >-
   You can see a break down of the characteristics of the each culture in this table:
 
 
-
-
   | **Pathological**              | **Bureaucratic**          | **Generative**             |
 
   | ----------------------------- | ------------------------- | -------------------------- |
@@ -55,17 +53,19 @@ whatIs: >-
 
 
 
-  Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2009, described "Learning Organisations" in her paper "\*\**" 
+  Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
+whyDo: >-
+  Westrum's Typologies subsequently appeared in Nicole Forsgren's book
+  "Accelerate", where she was able to show that generative cultures were
+  associated with improved software delivery performance (the four [Accelerate
+  Metrics](https://openpracticelibrary.com/blog/accelerate-metrics-software-delivery-performance-measurement/))
+  and other organisational capabilities for learning.
 
 
-  In this sense
-
-
-
-
-  foo
-whyDo: foo
-howTo: bar
+  The [2016 state of DevOps Report ](https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf)also showed that Generative, performance-oriented cultures improve software delivery performance, alongside market share, productivity and profitability.
+howTo: Measuring organisational culture through Westrum's Organisational
+  Typologies is conducted via surveys utilising the below questions and scoring
+  agreement via a "Likert" scale, as shown.
 resources:
   - link: http://dx.doi.org/10.1136/qhc.13.suppl_2.ii22
     linkType: web
@@ -74,5 +74,8 @@ resources:
     linkType: web
     description: Garvin, D.A., Edmondson, A.C. and Gino, F., 2008. Is yours a
       learning organization?. Harvard business review, 86(3), p.109.
+  - link: https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf
+    linkType: web
+    description: 2016 State of DevOps Report
 participants: []
 ---
