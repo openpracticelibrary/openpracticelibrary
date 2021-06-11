@@ -63,9 +63,32 @@ whyDo: >-
 
 
   The [2016 state of DevOps Report ](https://static1.squarespace.com/static/571faf00c2ea510eafddb70b/t/576dc18115d5dbd84d95d208/1466810758096/2016+State+of+DevOps+Report.pdf)also showed that Generative, performance-oriented cultures improve software delivery performance, alongside market share, productivity and profitability.
-howTo: Measuring organisational culture through Westrum's Organisational
-  Typologies is conducted via surveys utilising the below questions and scoring
-  agreement via a "Likert" scale, as shown.
+howTo: >-
+  Measuring organisational culture through Westrum's Organisational Typologies
+  is conducted via surveys utilising the below questions and scoring agreement
+  via a ["Likert"
+  scale](https://link-springer-com.manchester.idm.oclc.org/referenceworkentry/10.1007%2F978-0-387-78665-0_6363),
+  as shown.
+
+
+  1. On my team, information is actively sought.
+
+  2. On my team, failures are learning opportunities, and messengers of them are not punished.
+
+  3. On my team, responsibilities are shared.
+
+  4. On my team, cross-functional collaboration is encouraged and rewarded.
+
+  5. On my team, failure causes enquiry.
+
+  6. On my team, new ideas are welcomed.
+
+
+  You can choose to use either a 7- or 5- point Likert scale to measure agreement with these statements. A 5-point scale would be thus: (1) Strongly disagree; (2) Disagree; (3) Neither agree nor disagree; (4) Agree; (5) Strongly agree.\
+
+  \
+
+  Using 7 points would provide greater granularity, but impacts usability and accessibility.
 resources:
   - link: http://dx.doi.org/10.1136/qhc.13.suppl_2.ii22
     linkType: web
