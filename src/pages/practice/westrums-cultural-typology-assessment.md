@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Westrum's Cultural Typology Assessment
+title: Westrums Cultural Typology Assessment
 subtitle: Organisational culture bears a predictive relationship with safety and
   performance
 date: 2021-06-11T09:50:37.924Z
