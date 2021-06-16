@@ -9,7 +9,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: 
 whatIs: >-
   We talk a lot about organisational culture, team cultures, and "good" or "bad"
   cultures. And we also talk a lot about "culture change". But changing
