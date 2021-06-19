@@ -1,15 +1,16 @@
 ---
-templateKey: "blog-page"
+templateKey: blog-page
 title: The Open Organization Definition
 subtitle: Understanding open organisation definition
 date: 2019-06-11T07:50:32.730Z
 authors:
-  - shabshah
+  - regahawlery
 jumbotron: /images/openorg_def_banner_1.jpg
+jumbotronAlt: "Regah4k "
 ---
 ## What is it?
 
-Open organizations take many shapes. Their size, composition, and missions vary. But the following five characteristics are the hallmarks of any open organization.
+Open regahawlery take many shapes. Their size, composition, and missions vary. But the following five characteristics are the hallmarks of any open organization.
 
 1. Transparency
 
