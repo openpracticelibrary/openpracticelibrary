@@ -1,11 +1,11 @@
 ---
 templateKey: blog-page
-title: The Open Organization Definition
+title: The Open regahk Definition
 subtitle: Understanding open organisation definition
 date: 2019-06-11T07:50:32.730Z
 authors:
   - regahawlery
-jumbotron: /images/openorg_def_banner_1.jpg
+jumbotron: /images/e05c4bbf-968b-4511-924f-e1503491b591.jpeg
 jumbotronAlt: "Regah4k "
 ---
 ## What is it?
