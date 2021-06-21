@@ -25,21 +25,24 @@ whyDo: >-
   There is a common misconception that collaboration eventually requires consensus; it does not. In fact consensus can come at a very high cost to the team dynamic. If there is disagreement within the team, consensus is generally achieved through coercion; team members try to be compelling rather than curious, they ask leading and self-affirming questions, suppress dissent and push for consensus. The issue with this is that it results in compliance rather than commitment. 
 
 
-  Commitment is an intrinsic motivator. People who are committed accelerate the outcome as they are passionate about it; they are engaged and have purpose. This is the behaviour we observe in high performing teams.
+  Commitment is an intrinsic motivator. People who are committed accelerate the outcome as they are passionate about it; they are engaged and have purpose. This is the behaviour we observe in high performing teams. Compliance on the other hand, generally results in the bare minimum and a lack of engagement.
 howTo: >-
-  Firstly, everybody in the team needs a choice; a decision they can make. This
-  is where Open organisation characteristics come into play such as
+  Firstly, **everybody in the team needs a choice**; a decision they can make.
+  This is where Open organisation characteristics come into play such as
   'Collaboration' and 'Inclusivity'. Secondly, for each hypothesis created
-  during the Options period of the Mobius loop, there needs to be an agreed
+  during the Options period of the Mobius loop, **there needs to be an agreed
   review point and the tests that will be run/ evidence the team is looking for
   in order to make their decision as to how to continue when they reach the
-  review point. 
+  review point.** 
 
 
-  One of the drivers of 'analysis paralysis' is a fear that one agreement is made to execute, there will be no adjustment until it has been completed; even if we know the current course of action will not yield the outcome we want. This fear is a reality for those using waterfall methods and are output focused. The shift to a culture of experimentation and the adoption of product development methods like the Mobius Loop allow teams to break the cycle, commit to action and focus on the outcome. 
+  One of the drivers of 'analysis paralysis' is a fear that once an agreement is made to execute, there will be no adjustment until it has been completed; even if we know the current course of action will not yield the outcome we want. This fear is reality for those using waterfall methods and are output focused. The shift to a culture of experimentation and the adoption of product development methods like the Mobius Loop allow teams to break the cycle, commit to action, and focus on the outcome. 
 
 
-  Another tip is to ensure that the periods of delivery are not too long. Naturally this will depend upon the outcome you are looking to drive, but it is worth spending the effort to break down big problems into a series of smaller ones. This not only helps the team to see the pathway, but it also allows for more regular course correction and for any disagreement to be short lived. Those disagreeing with the selected hypothesis are able to still commit to execution because they know it won't be long before there will be a chance to inspect, evaluate and adapt the approach; course correcting based upon evidence rather than supposition. 
+  Another tip is to **ensure that the periods of delivery are not too long**. Naturally this will depend upon the outcome you are looking to drive, but it is worth spending the effort to **break down big problems into a series of smaller ones**. This not only helps the team to see the pathway, but it also allows for more regular course correction and for any disagreement to be short lived. 
+
+
+  Those disagreeing with the selected hypothesis are able to still commit to execution because they know it won't be long before there will be a chance to inspect, evaluate and adapt the approach; course correcting based upon evidence rather than supposition. 
 
 
   Build these key characteristics into your approach and you'll no longer be afraid to 'disagree and commit' as you'll be confident it will continue to drive purpose, passion and commitment within the team.
