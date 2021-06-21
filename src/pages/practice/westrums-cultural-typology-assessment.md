@@ -6,9 +6,9 @@ subtitle: Organisational culture bears a predictive relationship with safety and
 date: 2021-06-11T09:50:37.924Z
 authors:
   - tom-geraghty
-tags:
-  - culture
+tags: null
 mobiusTag: foundation
+icon: /images/needs-an-image.png
 whatIs: >-
   We talk a lot about organisational culture, team cultures, and "good" or "bad"
   cultures. And we also talk a lot about "culture change". But changing
