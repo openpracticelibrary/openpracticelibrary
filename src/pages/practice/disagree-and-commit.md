@@ -12,7 +12,7 @@ tags:
 mobiusTag: options
 icon: /images/img_5175.jpg
 whatIs: An approach to enable teams to transition from thinking to doing, whilst
-  ensuring the team are committed to execute and are committed to doing so.
+  ensuring the team are committed to the execution.
 whyDo: >-
   A common problem teams and organisations face is known as 'analysis
   paralysis'. It refers to an inability to move from thinking about a problem,
