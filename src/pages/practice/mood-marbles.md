@@ -40,10 +40,29 @@ whyDo: Providing an anonymous means for team members to communicate how they're
 howTo: >-
   
 
-  Steps:
+  **Steps:**
 
 
-  1. Find some dedicated wall space to hang a large post-it paper with an outline of a jar drawn largely on it. If implementing this remotely, create a space on your digital whiteboard tool of choice (Miro, Mural, Jamboard, etc) with a jar outline. It shoud look something like this...
+  1. Find some dedicated wall space to hang a large post-it paper with an outline of a jar drawn largely on it. If implementing this remotely, create a space on your digital whiteboard tool of choice (Miro, Mural, Jamboard, etc) with a jar outline. It should look something like this...
+
+     ![](/images/screen-shot-2021-06-22-at-3.21.26-pm.png)
+  2. Give everyone on the team 3 different colored stickies:\
+     Green = I'm feeling good! Let's keep goin!\
+     Yellow = I'm a little nervous or uncertain, but ok to continue\
+     Red = I don't feel comfortable or safe right now
+  3. Tell the team that, any any point in time, they're welcome to put the color stickie that reflects their current emotional and psychological state in the jar
+
+  4. As a facilitator, keep checking the state of the jar to see if any colors are changing as you go. If you start to see some yellows, that's ok! Progress, but keep an eye on the chart. If you start to see a LOT of yellows, or ANY reds, find a way to address the issue...
+
+
+  **Tips for addressing yellow and red "marbles"**
+
+
+  * You can ask if the room is comfortable sharing who put yellow or stickies in the jar, and why, just have a conversation there on the spot!
+
+  * If you get the sense the room isn't comfortable speaking about it, you might try a [blind confidence vote](https://openpracticelibrary.com/practice/confidence-voting/) to find out who you need to talk to privately. Run the Confidence Vote as written in the link, but have everyone put their heads down and close their eyes before voting - that way it stays anonymous. Once you know who may be feeling uncomfortable by how everyone votes, you can set up private conversations with team members to learn more about what's contributing to the issue.
+
+  * Run a quick [Team Retro](https://openpracticelibrary.com/practice/retrospectives/) to tease out possible issues that may have contributed to yellow and red marbles
 mediaGallery:
   - link: https://www.youtube.com/watch?v=dtcKaVoKj2A
   - link: https://github.com/openpracticelibrary/opl-media-service/blob/master/Mood%20Marbles.jpeg?raw=true
