@@ -72,6 +72,9 @@ resources:
     linkType: web
     description: How to get value out of your team happiness measurement...and why
       it matters
+  - link: https://www.teammood.com/en/
+    linkType: web
+    description: Team Mood - Online Mood Marbles Tool
 people: 2-100+
 time: Ongoing
 difficulty: easy
