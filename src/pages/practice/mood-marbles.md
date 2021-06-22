@@ -16,5 +16,13 @@ howTo: amazing
 mediaGallery:
   - link: https://www.youtube.com/watch?v=dtcKaVoKj2A
   - link: https://github.com/openpracticelibrary/opl-media-service/blob/master/Mood%20Marbles.jpeg?raw=true
-participants: []
+resources:
+  - link: https://leanicontechnology.com/salient-agile-practices-for-accelerated-business-outcomes-part-2/
+    linkType: web
+    description: What is Mood Marbles? Blog post
+people: 2-100+
+time: Ongoing
+difficulty: easy
+participants:
+  - All team members
 ---
