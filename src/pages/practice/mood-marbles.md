@@ -68,6 +68,10 @@ resources:
   - link: https://leanicontechnology.com/salient-agile-practices-for-accelerated-business-outcomes-part-2/
     linkType: web
     description: What is Mood Marbles? Blog post
+  - link: https://www.linkedin.com/pulse/how-get-value-out-your-team-happiness-measurement-why-krivosudska/
+    linkType: web
+    description: How to get value out of your team happiness measurement...and why
+      it matters
 people: 2-100+
 time: Ongoing
 difficulty: easy
