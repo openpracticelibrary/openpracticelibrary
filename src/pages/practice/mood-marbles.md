@@ -13,5 +13,8 @@ icon: /images/mood-marbles.jpeg
 whatIs: mood marbles is the best
 whyDo: totes
 howTo: amazing
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=dtcKaVoKj2A
+  - link: https://github.com/openpracticelibrary/opl-media-service/blob/master/Mood%20Marbles.jpeg?raw=true
 participants: []
 ---
