@@ -31,7 +31,7 @@ const CallToAction = (frontmatter) => {
         endIcon={<ArrowForward />}
         onClick={() => (window.location.href = `${window.location.origin}/admin/`)}
       >
-      Call to Action
+      Start Now
       </Button>
     );
   } else {
@@ -60,8 +60,8 @@ const AdditionalPage = (props) => {
         </HeroColor>
         <Box alignSelf="center" my={4}>
           <Container maxWidth="md">
-            <CallToAction {...props.data.markdownRemark.frontmatter} />
             <PageBodyData {...props} />
+            <CallToAction {...props.data.markdownRemark.frontmatter} />
           </Container>
         </Box>
       </Box>
