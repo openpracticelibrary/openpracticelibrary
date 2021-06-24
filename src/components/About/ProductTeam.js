@@ -21,7 +21,7 @@ const ProductTeam = () => (
       for informing design and product decision making.
     </Typography>
     <Typography gutterBottom>
-      The development approach included pulling from [open source technology,
+      The development approach included pulling from open source technology,
       middleware, test-driven, Agile, devops.
     </Typography>
   </Box>
