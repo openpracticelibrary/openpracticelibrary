@@ -4,7 +4,7 @@ title: 15/5 Reports
 subtitle: Reporting for people who don't have time for reports
 date: 2021-06-04T11:06:35.789Z
 authors:
-  - tom_geraghty
+  - tom-geraghty
 tags:
   - methods
 mobiusTag: foundation
@@ -86,5 +86,12 @@ howTo: >-
 
 
   Some great ideas come out of this question, especially if you ask it often. Be sure to try to act on any suggestions you receive.
+resources:
+  - link: https://www.inc.com/leigh-buchanan/patagonia-founder-yvon-chouinard-15five.html
+    description: 15/5 Reports - How Patagonia's Roving CEO Stays in the Loop
+    linkType: web
+  - link: https://brandvines.com/wp-content/uploads/2013/06/5-15-for-Sample-Report.pdf
+    description: 15/5 Template from Brandvines
+    linkType: web
 participants: []
 ---
