@@ -98,7 +98,10 @@ resources:
     linkType: web
     description: Fundamental facilitation practice to get diversity of ideas and see
       the problem for many angles.
-participants: []
+time: Quick pass = 30 minutes, fully completed and validated = several hours
+difficulty: moderate
+participants:
+  - Leads/ owners from each stakeholder grouping as a minimum.
 perspectives: []
 ---
 ## What is it? 
