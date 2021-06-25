@@ -4,10 +4,15 @@ subtitle: Building empathy and collaboration between silos to solve complex prob
 date: 2020-08-05T09:29:46.723Z
 authors:
   - only_chrisbh
-tags: null
+tags:
+  - validate
+  - value
+  - insight
 mobiusTag: discovery
 icon: /images/screenshot-2021-04-13-at-12.33.22.png
-whatIs: TBC
+whatIs: It is a canvas that facilitates deeper understanding of the complexity
+  of an issue. Where the pains are, where they come from, who owns the problem
+  and ultimately derive use cases to design experiments for.
 whyDo: >-
   Frequently, teams within organisations find themselves attempting to solve
   complex problems from their siloed perspective. 
