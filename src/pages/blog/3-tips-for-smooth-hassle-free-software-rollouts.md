@@ -7,7 +7,7 @@ authors:
   - heyjerrybecker
 jumbotron: /images/blog1.jpeg
 ---
-Image via [Pexels](https://www.pexels.com/photo/woman-wearing-red-and-black-checkered-blouse-using-macbook-1181472/)
+*Image via [Pexels](https://www.pexels.com/photo/woman-wearing-red-and-black-checkered-blouse-using-macbook-1181472/)*
 
 Workers of all ages and experience levels struggle with software rollouts, which makes implementing new technologies a challenge for many business owners. Some employees approach [new software systems](https://www.ezcomputersolutions.com/the-pros-and-cons-of-upgrading-your-business-software/) with open arms, while others would prefer to use familiar programs for as long as they can.
 
@@ -15,13 +15,13 @@ Fortunately, there are some steps you can take to ensure your next software roll
 
 
 
-**Highlight the Benefits**
+# **Highlight the Benefits**
 
 [Change](https://www.situationmanagementsystems.com/blog/index.php/influence-skills-2/why-change-is-good-for-the-workplace/) in the workplace is something that many of us struggle with, but it’s often easier if we’re familiar with the ways in which we can benefit from the changes taking place. As such, it’s important to share these benefits with our employees — and let them know how a new software program could make their jobs better (and easier). Avoid focusing on how the change could improve the company as a whole, and instead highlight the benefits employees can expect to see by learning and implementing the new software system.
 
 
 
-**Adopt an ERP System**
+# **Adopt an ERP System**
 
 When upgrading your software programs, an ERP system is just one type of tool you’ll want to think about adopting. Also known as [Enterprise Resource Planning](https://www.121ecommerce.com/resources/blog/top-signs-that-your-business-needs-an-erp-system/) (ERP) tools, these software systems can help you to stay organized and make smarter financial decisions — especially as your company grows and you update your business technologies. Expanding companies need software systems to manage their accounting, planning, and other business processes, and this is where an ERP tool comes into play.
 
@@ -29,7 +29,7 @@ As you shop around for the right business software for [enterprise resource plan
 
 
 
-**Train Employees**
+# **Train Employees**
 
 In addition to adopting an ERP system and talking to your employees about the benefits of implementing a new software program, you’ll need to start thinking about how you’ll train your workers when the software goes live. The team at [Training Folks](https://www.trainingfolks.com/blog/5-tips-for-new-software-implementation-training-success) offers the following tips:
 
