@@ -4,7 +4,7 @@ name: tweet-new-practice
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - "src/pages/practice/*.md"
 
