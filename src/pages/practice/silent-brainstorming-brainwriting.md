@@ -58,27 +58,22 @@ resources:
   - link: https://openpracticelibrary.com/practice/affinity-mapping/
     linkType: web
     description: "The next step following a silent brainstorming/ brainwriting exercise "
+  - link: https://www.chicagotribune.com/business/blue-sky/ct-creative-class-leigh-thompson-bsi-20170511-story.html
+    linkType: web
+    description: Interview with Leigh Thompson who popularised the approach.
   - link: https://openpracticelibrary.com/practice/hmw/
     linkType: web
-    description: Excellent for phrasing the question/ challenge you wish to generate
-      ideas for.
+    description: Frame the challenge you wish to generate ideas for.
+  - link: https://openpracticelibrary.com/practice/new/
+    linkType: web
+    description: Psychological safety - the key to great collaboration and high
+      performing teams.
   - link: https://openpracticelibrary.com/practice/10-for-10/
     linkType: web
     description: Classic brainwriting exercise
-  - link: https://openpracticelibrary.com/practice/decision-jam/
-    linkType: web
-    description: Another practice that uses Silent Brainstorming
   - link: https://openpracticelibrary.com/practice/retrospectives/
     linkType: web
-    description: Further example where Silent Brainstorming makes a huge difference.
-  - link: https://www.chicagotribune.com/business/blue-sky/ct-creative-class-leigh-thompson-bsi-20170511-story.html
-    linkType: web
-    description: Great interview with Leigh Thompson who has researched and
-      popularised the approach.
-  - link: https://openpracticelibrary.com/practice/new/
-    linkType: web
-    description: A primer for psychological safety - the key to great collaboration
-      and high performing teams.
+    description: Use with this practice
 people: 2+
 difficulty: easy
 participants: []
