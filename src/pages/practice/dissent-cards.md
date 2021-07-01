@@ -89,8 +89,7 @@ resources:
     description: The Six Thinking Hats by Edward de Bono
   - link: https://openpracticelibrary.com/practice/disagree-and-commit/
     linkType: web
-    description: Disagree and Commit with this practice to ensure that the team can
-      move to action with purpose and passion
+    description: Move to action with purpose and passion
 people: 3+
 difficulty: moderate
 participants: []
