@@ -1,7 +1,8 @@
 ---
 templateKey: practice-page
 title: Backlog Refinement
-subtitle: Determine addition information and prioritization for existing backlog items
+subtitle: Understand, prioritise, and clarify items in the backlog to ensure
+  they're ready to work on.
 date: 2018-08-10T11:50:22.000Z
 authors:
   - theisey
