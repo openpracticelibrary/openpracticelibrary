@@ -97,12 +97,10 @@ resources:
       essential to this practice. "
   - link: https://openpracticelibrary.com/practice/empathy-mapping/
     linkType: web
-    description: Experience of empathy mapping can help with the initial collection
-      of pain points
+    description: Empathy mapping can help with the initial collection of pain points
   - link: https://openpracticelibrary.com/practice/silent-brainstorming-brainwriting
     linkType: web
-    description: Fundamental facilitation practice to get diversity of ideas and see
-      the problem for many angles.
+    description: Get better input to your session
 time: Quick pass = 30 minutes, fully completed and validated = several hours
 difficulty: moderate
 participants:
