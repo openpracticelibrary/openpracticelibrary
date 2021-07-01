@@ -24,7 +24,7 @@ export default function ResourcesWeLove(props) {
   const resourceLinkList = () => {
     if (Object.keys(props.links[0]).length !== 0) {
       const resourceList = props.links.filter(
-        (resource) => resource.link.length > 0
+        (resource) => (resource.link != null) ? (resource.link.length > 0) : false
       );
       const listLength = resourceList.length;
       let initialLinkList = [];
