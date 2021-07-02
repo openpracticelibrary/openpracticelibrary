@@ -5,7 +5,7 @@ subtitle: "The key to collaboration: enabling everybody to commit to action,
   without needing consensus."
 date: 2021-06-21T09:24:18.020Z
 authors:
-  - only-chrisbh
+  - only_chrisbh
 tags:
   - ideate
   - insight
