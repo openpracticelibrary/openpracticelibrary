@@ -1,6 +1,13 @@
 name: E2E Tests
 
 on: [pull_request,workflow_dispatch]
+  pull_request:
+    paths-ignore:
+      - ".github/**"
+  workflow_dispatch:
+    paths-ignore:
+      - ".github/**"
+
 
 jobs:
   test:
