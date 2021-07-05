@@ -80,7 +80,7 @@ howTo: >-
   Following these seven steps will develop a strong understanding of the problem, the causality of the pain, empathy for each of the stakeholder groups and a canvas around which a conversation can be facilitated.
 
 
-  This exercise is best done directly with the different stakeholder groups, but this isn't always possible. Running the exercise first and then using the canvas to validate your understanding with the different stakeholders is a great alternative. You'll be validating this with the customer so it's ok not to be 100% correct! The stakeholders feel you have done your homework and validating/ pointing to what is missing is much more likely to achieve participation; in this sense you've earned the right to have the conversation.
+  This exercise is best done directly with the different stakeholder groups, but this isn't always possible. Running the exercise first and then using the canvas to validate your understanding with the different stakeholders is a great alternative. You'll be validating this with your stakeholders so it's ok not to be 100% correct! The stakeholders feel you have done your homework and validating/ pointing to what is missing is much more likely to achieve participation; in this sense you've earned the right to have the conversation.
 
 
   The canvas helps each group understand and empathise with the other groups, plus clarify that they will not solve the complex problem on their own. This can either broaden your stakeholder group by team introducing you to key members of another team, and/ or help facilitate that conversation between the different teams.
