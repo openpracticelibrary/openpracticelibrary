@@ -52,31 +52,29 @@ howTo: >-
   The first iteration of the canvas may be done with or without the stakeholders. 
 
 
+  ![The 5 elements canvas. The elements are: development, operations, leadership, product and architecture](/images/screenshot-2021-04-13-at-12.33.22.png "The 5 elements canvas")
+
+
   **Steps:**
 
 
-  1) Ensure the group has a shared understanding of the challenge. Using other practices such as 'target outcomes' may help. 
+  1. Ensure the group has a shared understanding of the challenge. Using other practices such as 'target outcomes' may help. 
 
-
-  2) Set a timer for 5 minutes and focus on your stakeholder group; e.g., Operations. 
+  2. Set a timer for 5 minutes and focus on your stakeholder group; e.g., Operations. 
 
 
   Place stickies (See silent brainstorming/ brainwriting in the links below) with pain points observed/ deduced/ assumed for that stakeholder group with respect to the challenge. 
 
 
-  3) Extend time as required, use affinity mapping to consolidate responses.
+  3. Extend time as required, use affinity mapping to consolidate responses.
 
+  4. Draw lines to show the causality/ source of the pain; e.g., Too much technical debt would have a line of causality from Product as it's the product owner's responsibility to prioritise the work that will enter a sprint.
 
-  4) Draw lines to show the causality/ source of the pain; e.g., Too much technical debt would have a line of causality from Product as it's the product owner's responsibility to prioritise the work that will enter a sprint.
+  5. Set the timer again and move to the next stakeholder group, ideally follow the source of the arrows. Identify their pains and see the problem from their perspective. 
 
+  6. Repeat until all stakeholder groups are covered.
 
-  5) Set the timer again and move to the next stakeholder group, ideally follow the source of the arrows. Identify their pains and see the problem from their perspective. 
-
-
-  6) Repeat until all stakeholder groups are covered.
-
-
-  7) Identify who cares the most about the issue; e.g., using the technical debt issue mentioned above, whilst the engineers will certainly feel the pain, ultimately it's the product that will suffer as feature velocity will grind to a halt and costs will go up. Whilst everybody has their part to play in resolving the issue, if any group needs to own the issue, make a business case, etc. then it would be the product team.
+  7. Identify who cares the most about the issue; e.g., using the technical debt issue mentioned above, whilst the engineers will certainly feel the pain, ultimately it's the product that will suffer as feature velocity will grind to a halt and costs will go up. Whilst everybody has their part to play in resolving the issue, if any group needs to own the issue, make a business case, etc. then it would be the product team.
 
 
   Following these seven steps will develop a strong understanding of the problem, the causality of the pain, empathy for each of the stakeholder groups and a canvas around which a conversation can be facilitated.
