@@ -87,6 +87,12 @@ howTo: >-
 
 
   Once validated, it is relatively straight forward to use the canvas as a springboard to identify use cases or experiments which can catalyse collaboration between the siloed capabilities.
+
+
+  **Example:**
+
+
+  ![Example of a completed canvas](/images/5-elements-example.png "Example of a completed canvas")
 mediaGallery: []
 resources:
   - link: https://openpracticelibrary.com/practice/target-outcomes/
