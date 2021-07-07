@@ -4,8 +4,10 @@ title: 3 Tips for Smooth, Hassle-free Software Rollouts
 subtitle: Ensure your next rollout is a success
 date: 2021-06-25T13:02:56.177Z
 authors:
-  - heyjerrybecker
+  - cherylCwellness
 jumbotron: /images/blog1.jpeg
+jumbotronAlt: Two people are sitting together in front of a laptop and a large
+  screen, doing pair programming.
 ---
 *Image via [Pexels](https://www.pexels.com/photo/woman-wearing-red-and-black-checkered-blouse-using-macbook-1181472/)*
 
