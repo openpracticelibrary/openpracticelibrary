@@ -27,43 +27,77 @@ whatIs: >-
   The typical service blueprint for a technical project will identify:
 
 
-  **1: Physical Evidence:** Tangible items associated with each step of the process
+  * **Phases:** SBP is read from left to right, unfolding over time. Define the phases of how a user interacts with a service
+
+  * **Physical Evidence:** Tangible items associated with each step of the process
+
+  * **People Actions:** User steps that people take as part of the process 
+
+  * **Line of Interaction:** Separates people actions from technical actions
+
+  * **Front-stage Actions:** The technical interface or tools people interact with in each step
+
+  * **Line of Visibility:** Separates front-stage and back-stage actions
+
+  * **Back-stage Actions:** Non-visible technical requirements needed for each step
+
+  * **Line of Internal Interaction:** Separates technical actions from external support efforts
+
+  * **Support Channels:** Activities or tools required for the process to be delivered
+
+  * **Flow Lines:** Arrows are a key element of service blueprinting. They Indicate relationships and dependencies. An arrow could represent one-way exchange " --> "or a need for agreement and codependency " <--> " between the deferent parts of the blueprint. Missing elements and information as gaps are revealed in this process.
 
 
-  **2: People Actions:** User steps that people take as part of the process 
+  You can add secondary elements as needed to the SBP. Here you can find some of them:
 
 
-  *Line of Interaction: Separates people actions from technical actions*
+  * **Policy/Rules:** Any policies, regulations and laws that affect on how a process is completed. This information helps to understand what can and cannot be changed as you optimize.
 
+  * **Emotional Journey:** The emotional status of the user during the different stages of the experience.
 
-  **3: Front-stage Actions:** The technical interface or tools people interact with in each step
+  * **Time:** The estimated duration for each phase of the journey .Also, you can represent the time duration for each of the actors.
 
+  * **Capture Insights:**
 
-  *Line of Visibility: Separates front-stage and back-stage actions*
+    * Pain Points
+    * Follow-up Questions
+    * Critical Moments
+    * Opportunities
 
-
-  **4: Back-stage Actions:** Non-visible technical requirements needed for each step
-
-
-  *Line of Internal Interaction: Separates technical actions from external support efforts*
-
-
-  **5: Support Channels:** Activities or tools required for the process to be delivered
-
-
-  The example below is a simple overview for the end result of a Service Blueprint. The chart typically begins as a whiteboard sketch and will iterate toward a more refined design. If it suites the project team a digital template could also be completed for this activity.
-
+    The example below is a simple overview for the end result of a Service Blueprint. The chart typically begins as a whiteboard sketch and will iterate toward a more refined design. If it suites the project team a digital template could also be completed for this activity.
 
   ![service blueprint template](https://openpracticelibrary.github.io/opl-media/images/service_design_blueprint.png)
 
 
   NOTE: Multiple users are usually added to the People actions because more than one user is often needed to complete a process step. A couple users make for a simple blueprint in a quick amount of activity time, while an increased number of users make for a more complex blueprint which will take longer to create.
 whyDo: >-
-  This versatile activity can help identify process problem areas and growth
-  opportunities for business operational workflows, a new or existing product
-  offering, as well as the business structure of a startup or established
-  company. The chart is meant to be flexible with the type of process reviewed
-  and project needs.
+  The SBP can be used to map the actual experience of a service (As is), the
+  quick wins & evolution to be implemented short/middle term (To be) and the
+  long term strategy of evolution of the service (Ideal).
+
+
+  It can help you to:
+
+
+  * Identify process problem areas and growth opportunities
+
+  * Find a new or existing product offering
+
+  * Recognise the business structure of a startup or established company
+
+  * Align end to end perspectives on a service experience
+
+  * Understand all the moving parts of a service
+
+  * Align the team around a common understanding
+
+  * Visually share knowledge with others
+
+  * Ensure that the pieces of an experience will fit together
+
+  * Envision customer flow and architecture of the service experience
+
+  * Visualise an abstract concepts and make them tangible
 
 
   The blueprint will quickly point out assumptions and unknowns about a process across all business units, plus discover any confusion or misinterpretations within the process steps. This information can drive exploratory and validation research with users along with necessary technical and business research, to later define opportunities, strategy and solutions.
@@ -92,15 +126,11 @@ howTo: >-
 
   * Often new users or front/back-stage requirements come up further along in the process chart so leave room for adding new rows.
 
-
   * For Physical Evidence consider hardware and devices, or anything tangible and draw a small picture of these items in the row.
-
 
   * For People make sure to first focus upon primary users of the action, then add each user in a new row, to complete the step. The action steps can be drawn like a user flow diagram.
 
-
   * With Back-stage consider what makes the Front-stage feasible. Consider which databases or servers are required, etc. These sections are usually drawn like an information architecture diagram.
-
 
   * With Support Channels think of help systems, chat, or third-parties that help deliver that step.
 
@@ -149,14 +179,42 @@ howTo: >-
 
   * Enterprise B2B Application: Employee Workflow Process
 
-
   * Software as a Service: User Journey Process
-
 
   * Service Organization: Customer Experience Process
 
-
   * Startup Company: Entire Business Process
+
+
+  ## Previous Steps
+
+
+  It is recommended to check some steps before start mapping to ensure we have the necessary information, user research and appropriate decisions taken:
+
+
+  * Create your goal statement (Return to that statement as you build your map)
+
+  * Define your target audience and needs
+
+  * Choose the experience to map first
+
+  * Select channels to map (in store, print, web, mobile)
+
+  * Identify Stakeholders
+
+  * Create the user story
+
+
+  These are some examples of highly recommended practices that will help you to get ready to build a SBP:
+
+
+  * Journey Map
+
+  * [Empathy Map](https://openpracticelibrary.com/practice/empathy-mapping/)
+
+  * [Proto-Persona](https://openpracticelibrary.com/practice/proto-persona/)
+
+  * [Impact Map](https://openpracticelibrary.com/practice/impact-mapping/)
 
 
   ## Facilitation Notes
@@ -176,12 +234,9 @@ howTo: >-
 
   * Painters Tape (1” for Action rows, ¼” for Lines rows)
 
-
   * Dry Erase pens (multiple colors)
 
-
   * Camera(s) for documenting
-
 
   * Sticky notes & Sharpies for good measure
 
@@ -191,17 +246,15 @@ howTo: >-
 
   * Butcher Paper (white is best - might need two rows of paper)
 
-
   * Markers (multiple colors)
 
-
   * or Sticky notes (multiple colors) & Sharpies
-
 
   * Camera(s) for documenting
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/blueprint_concept_sketch.jpg
   - link: https://openpracticelibrary.github.io/opl-media/images/service_design_blueprint.png
+  - link: https://drive.google.com/file/d/1ImwJY-ljcRSVMOzwdtLAkTGzyGb9sofD/view?usp=sharing
 resources:
   - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
     linkType: web
