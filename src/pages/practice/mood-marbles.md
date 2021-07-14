@@ -15,19 +15,18 @@ whatIs: >-
   to communicate how they are feeling at any point in time by using various
   colored stickies on a chart. The chart (physical or digital) is accessible to
   all team members and is populated with 1 of 3 colored stickies by every team
-  member.\
+  member.
 
-  \
 
-  These stickies correspond to psychological and emotional states:\
+  These stickies correspond to psychological and emotional states:
 
-  Green = I'm feeling good! Let's keep goin!\
 
-  Yellow = I'm a little nervous or uncertain, but ok to continue\
+  * Green = I'm feeling good! Let's keep goin!
 
-  Red = I don't feel comfortable or safe right now\
+  * Yellow = I'm a little nervous or uncertain, but ok to continue
 
-  \
+  * Red = I don't feel comfortable or safe right now
+
 
   Stickies are anonymous and represent the current state of the team at any given time.
 whyDo: Providing an anonymous means for team members to communicate how they're
