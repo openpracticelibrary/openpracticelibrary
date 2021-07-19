@@ -254,7 +254,7 @@ howTo: >-
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/blueprint_concept_sketch.jpg
   - link: https://openpracticelibrary.github.io/opl-media/images/service_design_blueprint.png
-  - link: https://live.staticflickr.com/65535/51321977279_5643082e3f_n.jpg
+  - link: https://live.staticflickr.com/65535/51321977279_2681bec389_h.jpg
 resources:
   - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
     linkType: web
