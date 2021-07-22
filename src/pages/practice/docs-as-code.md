@@ -15,13 +15,15 @@ whatIs: >-
   delivering documentation for software projects.
 
 
-  There are two common themes that you can expect to see.
+  There are three common themes that you can expect to see.
 
 
   1. Adopt an “[agile](https://en.wikipedia.org/wiki/Agile_software_development)” approach to content creation, namely
 
-     1. The whole team is responsible for content
-     2. Be adaptive and improve both your content, and your process, over time
+  2. The whole team is responsible for content
+
+  3. Be adaptive and improve both your content, and your process, over time
+
 
   Benefits Can Include
 
