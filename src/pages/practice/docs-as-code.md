@@ -9,7 +9,7 @@ authors:
 tags:
   - methods
 mobiusTag: delivery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/treat-docs-like-code.png
 whatIs: >-
   Docs As Code (also known as “Docs Like Code”) is a popular approach to
   delivering documentation for software projects.
