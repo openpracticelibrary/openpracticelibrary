@@ -58,6 +58,13 @@ howTo: >
   4. Automated testing and verification
 
   5. Rapid online publication using web pages (using static site generators) or wikis. For example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/).
+resources:
+  - link: https://www.docslikecode.com/
+    linkType: web
+    description: Website related to the book Docs Like Code
+  - link: https://www.writethedocs.org/guide/docs-as-code/
+    linkType: web
+    description: Docs as Code section on Write the Docs
 difficulty: easy
 participants: []
 ---
