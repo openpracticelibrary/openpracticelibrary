@@ -25,16 +25,6 @@ whatIs: >-
   3. Be adaptive and improve both your content, and your process, over time
 
 
-  Benefits Can Include
-
-
-  * Faster Publication Cycles
-
-  * Reduced load on the technical writing team to create content
-
-  * Reduced costs for monolithic authoring and publication tools
-
-
   Tools and processes will need to be adapted for your project (and then adapted again for the project after that).
 
 
@@ -46,6 +36,8 @@ whyDo: >
   2. Stop documentation being a bottleneck in the release cycle
 
   3. Release technical writers to deliver higher value content (information architecture, customer experience, ....)
+
+  4. Remove need for proprietary technical writing tools
 howTo: >
   Use developer tools, and process, to create and deliver content. Specifically:
 
@@ -61,6 +53,7 @@ howTo: >
   4. Automated testing and verification
 
   5. Rapid online publication using web pages (using static site generators) or wikis. For example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/).
+mediaGallery: []
 resources:
   - link: https://www.docslikecode.com/
     linkType: web
