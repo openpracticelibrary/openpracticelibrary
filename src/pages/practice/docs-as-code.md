@@ -36,6 +36,9 @@ whatIs: >-
 
 
   Tools and processes will need to be adapted for your project (and then adapted again for the project after that).
+
+
+  Docs As Code image copyright Anne Gentle. Released under and MIT license.
 whyDo: >
   1. Deliver valuable documentation faster with higher quality (multiple voices,
   collaboration)
