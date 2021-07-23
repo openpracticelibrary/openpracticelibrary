@@ -204,7 +204,7 @@ howTo: >-
   * Create the user story
 
 
-  These are some examples of highly recommended practices that will help you to get ready to build a SBP:
+  These are some examples of highly recommended practices that will help you to get ready to build a Service Blueprint:
 
 
   * Journey Map
@@ -233,7 +233,7 @@ howTo: >-
 
   * Painters Tape (1” for Action rows, ¼” for Lines rows)
 
-  * Dry Erase pens (multiple colors)
+  * Dry Erase pens (multiple colours)
 
   * Camera(s) for documenting
 
@@ -245,9 +245,9 @@ howTo: >-
 
   * Butcher Paper (white is best - might need two rows of paper)
 
-  * Markers (multiple colors)
+  * Markers (multiple colours)
 
-  * or Sticky notes (multiple colors) & Sharpies
+  * or Sticky notes (multiple colours) & Sharpies
 
   * Camera(s) for documenting
 mediaGallery:
