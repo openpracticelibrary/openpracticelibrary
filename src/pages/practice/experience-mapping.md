@@ -5,7 +5,7 @@ subtitle: Understand expereince of process steps, to identify priorities from a
   new prespective
 date: 2021-07-23T11:06:26.808Z
 authors:
-  - Karen Batt
+  - karenbatt
 tags:
   - validate
 mobiusTag: discovery
