@@ -90,5 +90,6 @@ howTo: >-
 time: ""
 difficulty: moderate
 participants:
-  - ""
+  - team members or customers that use the process you want to understand in
+    terms of their experience step by step
 ---
