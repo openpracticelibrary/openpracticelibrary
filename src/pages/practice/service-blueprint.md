@@ -10,12 +10,11 @@ tags:
 mobiusTag: discovery
 icon: /images/service_design_blueprint.png
 whatIs: >-
-  Before jumping into activity details please consider a brief overview about
-  the origins of [Service
-  Design](https://www.interaction-design.org/literature/article/service-design-design-is-not-just-for-products/?target=_blank).
-
-
-  > “In 1982, the term “service design” was coined by Lynn Shostack. It was proposed that a business should develop a “service blueprint” which details the processes within a company and how each process interacts with other processes.”
+  > “In 1982, the term “[Service
+  Design](https://www.interaction-design.org/literature/article/service-design-design-is-not-just-for-products/?target=_blank)”
+  was coined by Lynn Shostack. She proposed that a business should develop a
+  “service blueprint” which details the processes within a company and how each
+  process interacts with other processes.”
 
 
   Lynn Shostack later wrote an article for the [Harvard Business Review](https://hbr.org/1984/01/designing-services-that-deliver/?target=_blank) which evangelized service design methodology and the service blueprint.
@@ -27,7 +26,7 @@ whatIs: >-
   The typical service blueprint for a technical project will identify:
 
 
-  * **Phases:** SBP is read from left to right, unfolding over time. Define the phases of how a user interacts with a service
+  * **Phases:** A Service Blueprint is read from left to right, unfolding over time. Define the phases of how a user interacts with a service
 
   * **Physical Evidence:** Tangible items associated with each step of the process
 
@@ -48,7 +47,7 @@ whatIs: >-
   * **Flow Lines:** Arrows are a key element of service blueprinting. They Indicate relationships and dependencies. An arrow could represent one-way exchange " --> "or a need for agreement and codependency " <--> " between the deferent parts of the blueprint. Missing elements and information as gaps are revealed in this process.
 
 
-  You can add secondary elements as needed to the SBP. Here you can find some of them:
+  Secondary elements such as these can be added as needed:
 
 
   * **Policy/Rules:** Any policies, regulations and laws that affect on how a process is completed. This information helps to understand what can and cannot be changed as you optimize.
@@ -71,9 +70,9 @@ whatIs: >-
 
   NOTE: Multiple users are usually added to the People actions because more than one user is often needed to complete a process step. A couple users make for a simple blueprint in a quick amount of activity time, while an increased number of users make for a more complex blueprint which will take longer to create.
 whyDo: >-
-  The SBP can be used to map the actual experience of a service (As is), the
-  quick wins & evolution to be implemented short/middle term (To be) and the
-  long term strategy of evolution of the service (Ideal).
+  The Service Blueprint can be used to map the actual experience of a service
+  (As is), the quick wins & evolution to be implemented short/middle term (To
+  be) and the long term strategy of evolution of the service (Ideal).
 
 
   It can help you to:
