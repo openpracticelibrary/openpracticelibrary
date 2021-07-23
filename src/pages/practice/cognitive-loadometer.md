@@ -36,7 +36,7 @@ whyDo: >-
   motivation and even mitigate burnout risks.
 
 
-  [Team Topologies](https://teamtopologies.com/) theory, by Matthew Skelton and Manuel Pais, mentions Team Cognitive Load as an important element of a team. According to Skelton and Pais "when we talk about cognitive load, it’s easy to understand that any one person has a limit on how much information they can hold in their brains at any given moment. The same happens for any one team by simply adding up all the team members’ cognitive capacities." They also mention that "when assigning responsibilities to a given team, we hardly ever discuss cognitive load. Perhaps because it’s hard to quantify both the available capacity and what the cognitive load will be". Inspired on other subjective scales, like [Pain Scale](https://en.wikipedia.org/wiki/Pain_scale), [Fabio Pereira](http://fabiopereira.me/) and Jorge Galdino created the Subjective Cognitive Load Scale used on this tool.
+  [Team Topologies](https://teamtopologies.com/) theory, by Matthew Skelton and Manuel Pais, mentions Team Cognitive Load as an important element of a team. According to Skelton and Pais "when we talk about cognitive load, it’s easy to understand that any one person has a limit on how much information they can hold in their brains at any given moment. The same happens for any one team by simply adding up all the team members’ cognitive capacities." They also mention that "when assigning responsibilities to a given team, we hardly ever discuss cognitive load. Perhaps because it’s hard to quantify both the available capacity and what the cognitive load will be". Inspired on other subjective scales, like [Pain Scale](https://en.wikipedia.org/wiki/Pain_scale), [Fabio Pereira](http://fabiopereira.me/) and [Jorge Galdino](https://www.linkedin.com/in/jorgegaldino/) created the Subjective Cognitive Load Scale used on this tool.
 
 
   As a team's cognitive capacity exceeds, it leads to delays, quality issues, and often, a decrease in team members’ motivation. [Research shows](https://www.ama-assn.org/practice-management/physician-health/4-approaches-cut-physicians-mental-workload-and-burnout) that people with higher levels of cognitive workload have increased rates of burnout.
@@ -71,5 +71,6 @@ resources:
   - description: Research showing connection with burnout
     link: https://www.ama-assn.org/practice-management/physician-health/4-approaches-cut-physicians-mental-workload-and-burnout
     linkType: web
+difficulty: easy
 participants: []
 ---
