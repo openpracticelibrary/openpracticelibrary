@@ -15,24 +15,24 @@ whatIs: Experience Mapping or Journey Mapping is used to create a graphical
   focusing on the emotional responses (their thoughts or feelings) through each
   phase of the process, and at specific key steps, from the perspective of an
   individual or a team. This practice is used heavily in UX design, in
-  hypothetical scenarios to evualuate potential customer expereince, and has a
+  hypothetical scenarios to evaluate potential customer experience, and has a
   lot of value for Agile project work too, when involving the actual people and
   teams that use existing processes.
 whyDo: Mapping the emotional experiences of people and teams through a process,
   from start to end, is a way to identify risk areas and pain points to be
   addressed, and may provide helpful information or uncover incorrect
-  assumptions that can be used when evaluating priorities.  it also helps to
-  identifiy opportunities.  The visual map that this practice creates enables
-  the agile team and stakeholders to see at a glance what specific things may
-  need to be addressed to improve the quality of the process experience, and
-  improves cross-functional alignment and focus.  It provides important input
-  information to prioritisation and decisionmaking practices.
+  assumptions that can be used when evaluating priorities.  It also helps to
+  identify opportunities.  The visual map that this practice creates enables the
+  agile team and stakeholders to see at a glance what specific things may need
+  to be addressed to improve the quality of the process experience, and improves
+  cross-functional alignment and focus.  It provides important input information
+  to prioritisation and decision-making practices.
 howTo: >-
   Just like in Value Slicing, start by describing each key step of the process
   taken, from start to finish, from left to right.
 
 
-  If the process is long and complex, it can be helpful to aggregate or group steps in the process that naturally form phase of the process, for example “creating a new user”, as is done in Value Slicing and Event Storming Practices. Creating phase groupings makes reading the map clearer for people who have not directly participated in the activity, for example, during a Walk the Walls, or a Sprint Review later. It also allows the feedback part of this practice to be more easily split into different sessions across a day, if required.
+  If the process is long and complex, it can be helpful to aggregate or group steps in the process that naturally form a phase of the process, for example “creating a new user”, as is done in Value Slicing and Event Storming Practices. Creating phase groupings makes reading the map clearer for people who have not directly participated in the activity, for example, during a Walk the Walls, or a Sprint Review later. It also allows the feedback part of this practice to be more easily split into different sessions across a day, if required.
 
 
   Once you have mapped the steps, and grouped them together in phases as required, go back, and for each individual step, list the Experience (emotional responses ie thoughts and feelings) each person has had. Giving feedback on individual Experience can be done in a number of ways, depending on the process, how many people are involved, the culture and context this practice is being done in, and how problematic the process is for individuals/team members:
@@ -84,7 +84,7 @@ howTo: >-
   A NOTE ON Journey Mapping
 
 
-  Journey Mapping often includes more information about how someone interacts at each step with the process, for example, stating if the process is undertaken via email, via pull request etc. These are known as Toutchpoints.  Journey Mapping may also record quotes from customers under the graph to help give more detail to a specific feedback point.  
+  Journey Mapping often includes more information about how someone interacts at each step with the process, for example, stating if the process is undertaken via email, via pull request etc. These are known as Touchpoints.  Journey Mapping may also record quotes from customers under the graph to help give more detail to a specific feedback point.  
 
 
   As with most things in Agile, focusing on what information is most important is key to being effective.
