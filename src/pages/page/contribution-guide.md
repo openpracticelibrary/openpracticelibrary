@@ -14,7 +14,7 @@ Welcome! Thank you for taking the time to contribute. This project relies on an 
 
 ## Code of Conduct
 
-This project is governed by our [Code of Conduct](https://github.com/openpracticelibrary/openpracticelibrary/blob/staging/CODE_OF_CONDUCT.md). All participants are expected to uphold this code. Violations of the code can be reported by contacting the project team at
+This project is governed by our [Code of Conduct](https://github.com/openpracticelibrary/openpracticelibrary/blob/master/CODE_OF_CONDUCT.md). All participants are expected to uphold this code. Violations of the code can be reported by contacting the project team at
 [info@openpracticelibrary.com](mailto:info@openpracticelibrary.com).
 
 ## Getting Started
