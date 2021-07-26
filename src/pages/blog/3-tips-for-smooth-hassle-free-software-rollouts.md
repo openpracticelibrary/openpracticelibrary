@@ -4,8 +4,10 @@ title: 3 Tips for Smooth, Hassle-free Software Rollouts
 subtitle: Ensure your next rollout is a success
 date: 2021-06-25T13:02:56.177Z
 authors:
-  - heyjerrybecker
+  - cherylCwellness
 jumbotron: /images/blog1.jpeg
+jumbotronAlt: Two people are sitting together in front of a laptop and a large
+  screen, doing pair programming.
 ---
 *Image via [Pexels](https://www.pexels.com/photo/woman-wearing-red-and-black-checkered-blouse-using-macbook-1181472/)*
 
@@ -25,7 +27,7 @@ Fortunately, there are some steps you can take to ensure your next software roll
 
 When upgrading your software programs, an ERP system is just one type of tool you’ll want to think about adopting. Also known as [Enterprise Resource Planning](https://www.121ecommerce.com/resources/blog/top-signs-that-your-business-needs-an-erp-system/) (ERP) tools, these software systems can help you to stay organized and make smarter financial decisions — especially as your company grows and you update your business technologies. Expanding companies need software systems to manage their accounting, planning, and other business processes, and this is where an ERP tool comes into play.
 
-As you shop around for the right business software for [enterprise resource planning](https://quickbooks.intuit.com/desktop/enterprise/erp/%23overview), QuickBooks Enterprise is one option you’ll want to consider. While the program is quite robust, it’s much simpler to use than many larger ERPs. Plus, it can be used for everything from managing and running payroll to tracking inventory and running reports.
+As you shop around for the right business software for [enterprise resource planning](http://quickbooks.intuit.com/desktop/enterprise/erp/#overview), QuickBooks Enterprise is one option you’ll want to consider. While the program is quite robust, it’s much simpler to use than many larger ERPs. Plus, it can be used for everything from managing and running payroll to tracking inventory and running reports.
 
 
 
