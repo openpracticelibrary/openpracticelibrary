@@ -21,8 +21,6 @@ whatIs: >-
   More generally, open decisions facilitate well-functioning meritocracies. Open source communities are meritocratic to the extent that they pragmatically value concrete contributions over formal titles and encourage ideas from all corners of an organization.
 
 
-  \
-
   The Open Decision Framework illustrates how to take five open source principles--open exchange, participation, meritocracy, community, and “release early, release often”--and put them into practice throughout the process of making a decision or leading a project. The framework is flexible and offers practical steps designed to help teams collaborate with each other, identify and engage stakeholders, manage competing needs and priorities, communicate tradeoffs and business requirements, and improve decision-making.
 
 
