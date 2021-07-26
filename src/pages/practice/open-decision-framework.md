@@ -100,6 +100,9 @@ resources:
   - link: https://github.com/red-hat-people-team/open-decision-framework
     linkType: web
     description: Open Decision Framework on GitHub
+  - link: https://github.com/red-hat-people-team/open-decision-framework/blob/master/maturity-model/Maturity-model-ODF.pdf
+    linkType: web
+    description: Open Decision Framework Maturity Model
   - link: https://creativecommons.org/licenses/by-sa/4.0/
     linkType: web
     description: Creative Commons License Agreement
