@@ -4,6 +4,7 @@ title: Open Decision Framework
 subtitle: How to make open and inclusive decisions
 date: 2021-07-26T19:21:35.625Z
 authors:
+  - ruhbehka
   - heyjerrybecker
 tags:
   - culture
@@ -89,5 +90,23 @@ howTo: >-
 
 
   Communities form around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
+mediaGallery:
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a03.png
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a04.png
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a05.png
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a07.png
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a08.png
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a09.png
+  - link: http://i.gzn.jp/img/2016/06/13/red-hat-open-decision-framework/a10.png
+resources:
+  - link: https://github.com/red-hat-people-team/open-decision-framework
+    linkType: web
+    description: Open Decision Framework on GitHub
+  - link: https://creativecommons.org/licenses/by-sa/4.0/
+    linkType: web
+    description: Creative Commons License Agreement
+  - link: https://opensource.com/open-source-way
+    linkType: web
+    description: Open Source Principles
 participants: []
 ---
