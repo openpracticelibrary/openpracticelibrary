@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Open Decision Framework
-subtitle: How to make open and inclusive decisions
+subtitle: How to make transparent, inclusive, and customer-centric decisions
 date: 2021-07-26T19:21:35.625Z
 authors:
   - ruhbehka
