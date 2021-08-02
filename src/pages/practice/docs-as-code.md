@@ -22,7 +22,7 @@ whatIs: >-
 
   2. The whole team is responsible for content
 
-  3. Be adaptive and improve both your content, and your process, over time
+  3. Be adaptive and improve both your content, and your process, over time.
 
 
   Tools and processes will need to be adapted for your project (and then adapted again for the project after that).
