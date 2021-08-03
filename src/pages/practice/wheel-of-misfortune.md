@@ -32,8 +32,12 @@ whatIs: >-
   * [dastergon](https://github.com/dastergon) for creating&publishing tooling for the game
 
   * [jfilipcz](https://github.com/jfilipcz) & [dastergon](https://github.com/dastergon) for discussion about the idea and how to extend it for other purposes
-whyDo: It is a great way to train new hires, interns, and seasoned engineers to
+whyDo: >-
+  It is a great way to train new hires, interns, and seasoned engineers to
   become well-rounded on-call engineers.
+
+
+  Going beyond the initial idea you can use it to check how good your team or organization is prepared for unexpected events whatever it could be.
 howTo: >-
   #### Terminology
 
