@@ -10,7 +10,7 @@ tags:
   - culture
   - methods
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/fposter-small-wall_texture-product-750x1000.u5.jpg
 whatIs: >-
   Wheel of Misfortune is a game that aims to build confidence to on-call
   engineers via simulated outage scenarios. 
