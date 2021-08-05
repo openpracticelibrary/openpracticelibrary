@@ -46,9 +46,15 @@ howTo: >-
 
   Encouraging one or two people in your team(s) to spend 5 minutes putting something together and sharing can help to create a more open, healthier, and happier team :)
 mediaGallery:
-  - link: https://lh5.googleusercontent.com/IELRNTGggqF3t-cpFcGnONsz_-WjqFxnPxjMwKAYLcdsFh7Ay1NQx2VIBJ4tw9bix5n2WjChwK0U022SL2wWEhHCRa905KVvSIWp-y_pEWBBFnVyi0JUQWGClF9OeZrhAS7dMxb2prw
   - link: https://d33wubrfki0l68.cloudfront.net/49886fc957581bf182c648ed103d13da172badc1/872f6/images/personalusermanual1.png
+  - link: https://lh5.googleusercontent.com/IELRNTGggqF3t-cpFcGnONsz_-WjqFxnPxjMwKAYLcdsFh7Ay1NQx2VIBJ4tw9bix5n2WjChwK0U022SL2wWEhHCRa905KVvSIWp-y_pEWBBFnVyi0JUQWGClF9OeZrhAS7dMxb2prw
 resources:
+  - link: https://open.spotify.com/episode/0f9Ae3BKdKajJqqe6FdYXX?si=a71beb8017dd47d1
+    linkType: podcast
+    description: Brainstorm Squared Podcast - Personal User Manuals
+  - link: https://docs.google.com/presentation/d/1RRctI9_DOcTVHkY2zOnlu44KZTy3sJNNae5bZJydUk0/edit?usp=sharing
+    linkType: web
+    description: Aidan's Personal User Manual
   - link: https://theunconventionalroute.com/personal-user-manual/
     linkType: web
     description: The unconventional route's article on User Manuals, the inspiration
@@ -65,12 +71,6 @@ resources:
   - link: https://about.gitlab.com/handbook/ceo/%3E
     linkType: web
     description: Gitlab CEO's Handbook
-  - link: https://docs.google.com/presentation/d/1RRctI9_DOcTVHkY2zOnlu44KZTy3sJNNae5bZJydUk0/edit?usp=sharing
-    linkType: web
-    description: Aidan's Personal User Manual
-  - link: https://open.spotify.com/episode/0f9Ae3BKdKajJqqe6FdYXX?si=a71beb8017dd47d1
-    linkType: podcast
-    description: Brainstorm Squared Podcast - Personal User Manuals
 people: "1"
 difficulty: easy
 participants: []
