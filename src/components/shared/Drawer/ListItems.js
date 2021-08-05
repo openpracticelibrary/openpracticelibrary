@@ -38,7 +38,7 @@ const ListItems = ({ toggle }) => {
         data-testid="SeeEverything"
       />
       <ListItemLink
-        to={`${window.location.origin}/admin/#/collections/practice/entries/new`}
+        to={`${window.location.origin}/admin/#/collections/practice/new`}
         primary="Add a Practice"
         toggle={toggle}
       />
