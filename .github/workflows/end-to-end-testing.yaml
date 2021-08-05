@@ -1,4 +1,4 @@
-name: E2E Tests
+name: E2E Tests 
 
 on: 
   pull_request:
@@ -10,6 +10,7 @@ on:
 
 
 jobs:
+ # The job name is test
   test:
     runs-on: ubuntu-20.04 
 
