@@ -117,6 +117,8 @@ howTo: >-
 
 
   Finally, thank the participants for their time and, if necessary, provide incentives.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=0YL0xoSmyZI
 resources:
   - link: https://www.userzoom.com/ux-library/what-is-guerrilla-testing-and-how-do-you-use-it/
     linkType: web
