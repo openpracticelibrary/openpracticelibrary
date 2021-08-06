@@ -10,11 +10,11 @@ We're using the "optimistic merging" strategy to make contributing simple and en
    - If the feedback is mostly positive, move forward.
    - If you don't get any feedback after a day or two, move forward.
 3. Create a pull request to make the change described in the issue.
-4. The maintainers review the PR to determine whether it is a "correct patch". That means the PR:
-  - Solves one "identified and agreed problem"
-  - Clearly explains the problem and the proposed solution
-  - Builds without errors, warnings, or test failures
-  - Does not break our Code of Conduct  
+4. The maintainer review the PR to determine whether it is a "correct patch". That means the PR:
+   - Solves one "identified and agreed problem"
+   - Clearly explains the problem and the proposed solution
+   - Builds without errors, warnings, or test failures
+   - Does not break our Code of Conduct  
 5. If the PR is a "correct patch", the maintainer merges the PR. If not, the maintainer provides feedback.
 
 If the person reviewing the PR has feedback on a change that is a "correct patch", he or she will merge the PR and include that feedback in a new issue.
