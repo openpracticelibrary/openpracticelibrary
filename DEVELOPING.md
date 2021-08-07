@@ -6,11 +6,11 @@ We're using the "optimistic merging" strategy to make contributing simple and en
 
 1. To propose a change, log an issue.
 2. Seek consensus on the value of that change.
-  - Give the community a day or two to provide feedback on your issue.
-  - If the feedback is mostly positive, move forward.
-  - If you don't get any feedback after a day or two, move forward.
+   - Give the community a day or two to provide feedback on your issue.
+   - If the feedback is mostly positive, move forward.
+   - If you don't get any feedback after a day or two, move forward.
 3. Create a pull request to make the change described in the issue.
-4. The maintainer review the PR to determine whether it is a "correct patch". That means the PR:
+4. The maintainers review the PR to determine whether it is a "correct patch". That means the PR:
   - Solves one "identified and agreed problem"
   - Clearly explains the problem and the proposed solution
   - Builds without errors, warnings, or test failures
