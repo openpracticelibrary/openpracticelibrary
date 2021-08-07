@@ -113,11 +113,22 @@ howTo: >-
   ![Guerrilla Testing, Usability Testing](/images/screenshot-2021-03-23-at-15.44.58.png "Empathy map and task insight")
 
 
+  **9. Thank and incentivize participants:**
 
 
-  1. **Thank and incentivize participants:**
-
-     Finally, thank the participants for their time and, if necessary, provide incentives.
+  Finally, thank the participants for their time and, if necessary, provide incentives.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=0YL0xoSmyZI
+resources:
+  - link: https://www.userzoom.com/ux-library/what-is-guerrilla-testing-and-how-do-you-use-it/
+    linkType: web
+    description: What is guerrilla testing and how do you use it?
+  - link: https://usabilitygeek.com/guerrilla-usability-testing-how-to/
+    linkType: web
+    description: "Guerrilla Usability Testing: How To Introduce It In Your Next UX Project"
+  - link: https://www.youtube.com/watch?v=0YL0xoSmyZI
+    linkType: video
+    description: Guerilla Testing with Usability Cafe
 people: 3+
 time: 10- 20 minutes
 difficulty: easy

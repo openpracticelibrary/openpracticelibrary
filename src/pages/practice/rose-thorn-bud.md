@@ -70,6 +70,9 @@ resources:
     linkType: web
     description: "Rose, Thorn, Bud (RTB): A 5-minute Game to Kickstart Your
       Mindfulness Habit"
+  - link: https://www.mindfulschools.org/inspiration/mindful-reflection/
+    linkType: web
+    description: "A Mindful Way to Reflect: Rose, Thorn, and Bud"
 people: 2-20
 time: 30-60 min
 difficulty: easy
