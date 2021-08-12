@@ -47,6 +47,9 @@ howTo: >-
   * Aside from our own motivation map, creation motivation maps for other organizations that are our customers or other individual customers. 
     * Define Personas for individual customers as that will help us define the motivation map. 
     * Ensure that the Target Outcomes are linked to our own Target Outcomes. This helps us understand what products or services should be provided for our customers so that our own outcomes can be met. 
+mediaGallery:
+  - link: https://lh3.googleusercontent.com/pw/AM-JKLXK1J1FSYY-ERZA3cbuLx1jdLHF3qcGqvbkZ7D_MkNVoVN-t4EkrUYBMui-havcq-wFxuoM4u-kDDdnf49PHq587YwnWa1eZvnC4pBo6gILdI-F0u1WrBMqkRnZJlwqiyuzMViOEZmqmkjFaJ9HgBom=w1555-h876-no
+  - link: https://lh3.googleusercontent.com/pw/AM-JKLXX6Avym4qrpeYwg57go24I_KyV8wlE6Y4kjTORX26p5LXVfnDZftbZO6eDy2OsYe-pkXM75mhUBGIX30FVncavaLPn7xgh7jQK8UrVsMmyVbtItrDgS3ElM4EwBYTJekm8DeITgJfpcskgspvcO9qA=w1103-h624-no
 resources:
   - link: https://mobiusloop.com/kit/
     linkType: web
