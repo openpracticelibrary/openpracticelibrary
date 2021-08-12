@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: T2R2 - Talk, type, read, review!
-subtitle: An online meeting method
+subtitle: Help everyone be heard, understood, and move to act.
 date: 2020-03-23T05:46:59.224Z
 authors:
   - kattekrab
