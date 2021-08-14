@@ -16,9 +16,8 @@ whatIs: >-
   [OpenAPI](https://swagger.io/docs/specification/about/) (for synchronous
   interactions) or [AsyncAPI](https://www.asyncapi.com/) (for asynchronous
   interactions), we can define our programming API clearly at the outset. We
-  also update the "contract" before we implement changes to the code.
-
-  Further benefits include:
+  also update the "contract" before we implement changes to the code. Further
+  benefits include:
 
 
   * Code generation for both clients and servers
@@ -56,6 +55,7 @@ howTo: >-
   * [AsyncAPI Documentation](https://www.asyncapi.com/docs/specifications/v2.1.0)
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/contract-first-api-development.png
+  - link: https://openpracticelibrary.github.io/opl-media/images/async-api-spec.png
   - link: https://youtu.be/zQncznMLrt4
 resources:
   - link: https://swagger.io/docs/specification/about/
