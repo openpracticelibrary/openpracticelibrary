@@ -16,6 +16,9 @@ whatIs: >-
 
 
   When you create a weekly cadence of 15/5 reports, you can use them to inform 1-1 meetings you have, and it helps you report up and across to other team leaders or managers.
+
+
+  CHANGE LIVE ON AIR!!!
 whyDo: >-
   Ensuring that everyone knows what's going on in an organisation can be hard.
   None of us want to spend lots of time writing or reading reports, but only
