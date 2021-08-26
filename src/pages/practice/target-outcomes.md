@@ -39,7 +39,7 @@ howTo: >-
 
   * Start with the Start at the end and apply the Affinity Map practice to group topics
 
-  * At the end you can review the Target outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the [Opportunity Solution Tree](https://openpracticelibrary.com/practice/opportunity-solution-tree/).
+  * At the end you can review the Target outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the Open Decision Tree
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes%203.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true

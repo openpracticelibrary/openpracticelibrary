@@ -11,9 +11,14 @@ export default function MediaGallery({
   mediaRef,
 }) {
   const images = mediaGallery.map((media) => {
-    const url = media.link
-      ? new URL(media.link)
-      : new URL("https://via.placeholder.com/300");
+
+    var url;
+    try {
+        url = media.link ? new URL(media.link) : new URL("https://via.placeholder.com/300");
+    } catch (TypeError) {
+        url = new URL("https://via.placeholder.com/300");
+    }
+
     if (url.hostname.includes("youtube") && url.pathname.includes("watch")) {
       const youtubeId = url.searchParams.get("v");
       const link = `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`;
