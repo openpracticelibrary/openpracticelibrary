@@ -5,10 +5,9 @@ subtitle: Connecting with colleagues in a deep and meaningful way
 date: 2021-08-05T13:05:58.124Z
 authors:
   - acammies
-tags:
-  - culture
+tags: null
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/manual-3684460_1280.jpg
 whatIs: >-
   A personal user manual (PUM) is a document that allows you to explicitly
   communicate how you best work, who you are as a human being and provide others
