@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: "Silent Brainstorming/ Brainwriting "
+title: "Silent Brainstorming / Brainwriting "
 subtitle: Generate greater diversity of ideas and foster inclusivity
 date: 2021-06-25T11:56:46.379Z
 authors:
