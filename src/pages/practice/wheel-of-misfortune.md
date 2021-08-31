@@ -47,8 +47,8 @@ whyDo: >-
   Going beyond the initial idea you can use it to check how good your team or organization is prepared for unexpected events whatever it could be.
 
 
-  Depending on the way you lead the exercise, it can also be an opportunity to verify your monitoring/alerting works the way you think it does
-howTo: >
+  Depending on the way you lead the exercise, it can also be an opportunity to verify your monitoring/alerting works the way you think it does.
+howTo: >-
   #### Terminology
 
 
@@ -89,9 +89,6 @@ howTo: >
 
 
   Most importantly, **have fun**!
-
-
-  You can read a comprehensive example on how to conduct the exercise [here](https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg).
 
 
   You can read a comprehensive example on how to conduct the exercise [here](https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg).
