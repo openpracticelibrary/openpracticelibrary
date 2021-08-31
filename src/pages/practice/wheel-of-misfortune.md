@@ -12,8 +12,8 @@ tags:
 mobiusTag: foundation
 icon: /images/fposter-small-wall_texture-product-750x1000.u5.jpg
 whatIs: >-
-  Wheel of Misfortune is a game that aims to build confidence to on-call
-  engineers via simulated outage scenarios. 
+  You can see the Wheel of Misfortune as an informal exercise or a game that
+  aims to build confidence to on-call engineers via simulated outage scenarios. 
 
 
   With the game:
@@ -21,9 +21,16 @@ whatIs: >-
 
   * you practice problem debugging and solving under stress
 
-  * the understanding of the incident management protocol
+  * you ensure the understanding of the incident response protocol
 
-  * effective communication with other engineers of your team and organization
+  * you promote effective communication with other engineers of your team and organization
+
+  * you emphasize and promote blameless culture
+
+  * you share the experience of past incidents
+
+
+
 
 
   Many thanks to:
@@ -38,7 +45,10 @@ whyDo: >-
 
 
   Going beyond the initial idea you can use it to check how good your team or organization is prepared for unexpected events whatever it could be.
-howTo: >-
+
+
+  Depending on the way you lead the exercise, it can also be an opportunity to verify your monitoring/alerting works the way you think it does
+howTo: >
   #### Terminology
 
 
@@ -54,7 +64,7 @@ howTo: >-
 
   2. Find a balance between volunteer's experience and incident's difficulty.
 
-  3. Assist volunteer by answering questions that may arise in each theoretical action or dashboard observation. Engage with the rest of the team and ask for different ways to debug the problem following the volunteer's explanation.Team members may be made available over time for assistance in various topics.
+  3. Assist volunteers by answering questions that may arise in each theoretical action or dashboard observation. Engage with the rest of the team and ask for different ways to debug the problem following the volunteer's explanation.Team members may be made available over time for assistance in various topics.
 
   4. At the end, have a debrief on the learnings of the session.
 
@@ -63,7 +73,7 @@ howTo: >-
 
   6. Explain to the Game Master and the rest of the group what actions you would take (lookup queries, checks in dashboards, etc.) to find the root causes, and eventually solve the incident.
 
-  7. Always keep an eye on the time, since it is simulated incident response scenario and not a routine troubleshooting process. During a real incident you might have an SLA or SLO breach and therefore you should take timing into account.
+  7. Always keep an eye on the time, since it is a simulated incident response scenario and not a routine troubleshooting process. During a real incident you might have an SLA or SLO breach and therefore you should take timing into account.
 
   8. Engage with the rest of the group. Keep them in the loop. Ask questions to different members depending on their expertise.
 
@@ -78,9 +88,10 @@ howTo: >-
   ![Game](/images/screenshot-from-2021-08-03-12-53-35.png)
 
 
-
-
   Most importantly, **have fun**!
+
+
+  You can read a comprehensive example on how to conduct the exercise [here](https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg).
 
 
   You can read a comprehensive example on how to conduct the exercise [here](https://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html#xref_training_disaster-rpg).
