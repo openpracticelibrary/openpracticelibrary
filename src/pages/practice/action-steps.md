@@ -46,6 +46,10 @@ howTo: >-
 
 
   Review: Use Affinity Mapping to cluster and summarise action steps, or use dot voting to prioritise what the group thinks is most important.
+resources:
+  - link: https://www.debono.com/Books/Six-Action-Shoes
+    linkType: web
+    description: Six Action Shoes - Dr. Edward de Bono
 people: 3 or more
 time: 10 - 40 mins
 difficulty: easy
