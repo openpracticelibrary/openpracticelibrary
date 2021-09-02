@@ -30,21 +30,25 @@ howTo: >-
   continue that work beyond the meeting.
 
 
-  Type: Get everyone to type (or write) 
+  Type: Get everyone to type down (or write) 
 
 
-  * their name
+  * Who - Name
 
-  * the action they plan to take
+  * What - Action to take
 
-  * the date they commit to doing it by
+  * When - Time and Date it will be done.
 
-  * who they will ask to help them do it, review it, or hold them accountable.
+  * With -  Help from someone to get it done, review it, or celebrate it!
 
 
   Read: Get each person to read their card out loud, and request help from someone in the room
 
 
-  Review: Use Affinity Mapping to cluster and summarise the action steps
-participants: []
+  Review: Use Affinity Mapping to cluster and summarise action steps, or use dot voting to prioritise what the group thinks is most important.
+people: 3 or more
+time: 10 - 40 mins
+difficulty: easy
+participants:
+  - The Team
 ---
