@@ -13,7 +13,7 @@ whatIs: >-
   Commitment to action
 
 
-  This is a collaborative practice building on the T2R2 meeting method.  Action steps asks everyone to commit to taking a first step towards action.  
+  This is a collaborative practice building on the [T2R2](https://openpracticelibrary.com/practice/t2r2-talk-type-read-review/) meeting method.  Action steps asks everyone to commit to taking a first step towards action.  
 
 
   Inspired by the idea that 1000 mile journey begins with one step, action steps gets people to think about the first step they will take to continue the work begun together today. Informed by De Bono's Action shoes.
@@ -45,7 +45,7 @@ howTo: >-
   Read: Get each person to read their card out loud, and request help from someone in the room
 
 
-  Review: Use Affinity Mapping to cluster and summarise action steps, or use dot voting to prioritise what the group thinks is most important.
+  Review: Use [Affinity Mapping](https://openpracticelibrary.com/practice/affinity-mapping/) to cluster and summarise action steps, or if there's a lot of actions to take, perhaps vote to prioritise what the group sees as most important to start with.
 resources:
   - link: https://www.debono.com/Books/Six-Action-Shoes
     linkType: web
