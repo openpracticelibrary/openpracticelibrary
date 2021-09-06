@@ -18,7 +18,7 @@ whatIs: >-
   and execution. 
 
 
-  Strategies should cover what we do and don't do and how we compete.\
+  Strategies should cover what we do and don't do and how we compete. And be clearly linked to the goals that the strategy supports.\
 
   Culture should look at people, skills, communication, principals, and team structures/topologies.\
 
