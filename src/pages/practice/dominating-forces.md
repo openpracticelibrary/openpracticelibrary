@@ -14,26 +14,39 @@ icon: /images/dominatingforces.png
 whatIs: >-
   This is a facilitated workshop that communicates or validates existing or
   helps establish new strategies to reach the specified goal(s) while also
-  taking into consideration detractors / challenges with reagard to culture and
-  execution. 
+  taking into consideration detractors and challenges with reagard to culture
+  and execution. 
+
+
+  Strategies should cover what we do and don't do and how we compete.\
+
+  Culture should look at people, skills, communication, principals, and team structures/topologies.\
+
+  Execution should take into consideration processes, capabilities, tools, and metrics.
 
 
   If goals need to be established first then you can start off with 
 
 
   * [Start at the end](https://openpracticelibrary.com/practice/start-at-the-end/)
+
+
+  If strategies are missing then start off with 
+
+
+  * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
 whyDo: >-
   This is where the rubber hits the road, marrying lofty goals and strategies
   with the reality of culture, people, communication, team structure, metrics,
-  and more.
+  processes, and more.
 
 
-  When goals and associated strategies are formulated this exercise allows for immediate 'reality checks' and surfaces potential challenges and roadblocks that must be paid attention to. This allows to plan for risk mitigation strategies right from the start.
+  When goals and associated strategies are formulated this exercise allows for immediate 'reality checks' and surfaces potential challenges and roadblocks that must be paid attention to. This allows to plan for risk mitigation strategies right from the start or even before an engagement, project or program of works kicks off.
 howTo: >-
   Once the goal(s) are agreed upon I'd suggest to run a 10-for-10 exercise to
-  bring out new strategies. \
-
-  If the strategies are already existing then the SME's need to present the existing strategies and the related goals those strategies are in support of.
+  bring out new strategies. If the strategies are already existing then the
+  SME's need to present the existing strategies and the related goals those
+  strategies are in support of.
 
 
   After the goals and strategies have been agreed upon the facilitator can allow between 3 - 7  minutes to flush out the challenges (and bright spots if necessary) in the execution and culture area.
