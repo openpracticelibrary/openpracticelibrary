@@ -12,9 +12,9 @@ icon: /images/dominatingforces.png
 whatIs: >-
   This is a facilitated workshop that communicates or validates existing or
   helps establish new strategies to reach the specified goal(s) while also
-  taking into consideration detractors and challenges with reagard to culture
-  and execution. This surfaces risks and poential issues for any subsequent
-  project, program or product to be developed, impacts innovation and metrics.
+  taking into consideration detractors and challenges with regard to culture and
+  execution. This surfaces risks and poential issues for any subsequent project,
+  program or product to be developed, impacts innovation and metrics.
 
 
   Strategies should cover what we do and don't do and how we compete. And be clearly linked to the goals that the strategy supports.\
