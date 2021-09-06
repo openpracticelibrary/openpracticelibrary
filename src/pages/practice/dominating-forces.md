@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Dominating Forces
-subtitle: "To ensure strategy, culture and execution challenges (and bright
-  spots) are clearly called out and discussed. "
+subtitle: Surface risks and issues, identify metrics, and define the impact of
+  strategy execution before it starts.
 date: 2021-09-03T23:47:16.126Z
 authors:
   - aspanner
@@ -35,9 +35,11 @@ whatIs: >-
 
   * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
 whyDo: >-
-  This is where the rubber hits the road, marrying lofty goals and strategies
-  with the reality of culture, people, communication, team structure, metrics,
-  processes, and more.
+  The Why is to ensure strategy, culture and execution challenges (and bright
+  spots) are clearly identified.
+
+
+  This is where the rubber hits the road, marrying lofty goals and strategies with the reality of culture, people, communication, team structure, metrics, processes, and more.
 
 
   When goals and associated strategies are formulated this exercise allows for immediate 'reality checks' and surfaces potential challenges and roadblocks that must be paid attention to. This allows to plan for risk mitigation strategies right from the start or even before an engagement, project or program of works kicks off.
