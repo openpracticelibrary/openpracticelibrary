@@ -13,14 +13,23 @@ mobiusTag: discovery
 icon: /images/dominatingforces.png
 whatIs: >-
   This is a facilitated strategy workshop that communicates or validates
-  existing or helps establish new strategies to reach the specified goal(s). 
+  existing or helps establish new strategies to reach the specified goal(s)
+  while also taking into consideration detractors / challenges with reagard to
+  culture and execution. 
 
 
   If goals need to be established first then other practices are recommended such as 
 
 
   * [Start at the end](https://openpracticelibrary.com/practice/start-at-the-end/)
-whyDo: tbd
-howTo: tbd
+whyDo: This is very the rubber hits the road, marrying lofty goals and
+  strategies with the reality of culture, people, communication, team structure,
+  metrics and more.
+howTo: >-
+  Once the goal(s) are agreed upon I'd suggest to run a 10-for-10 exercise to
+  bring out new or existing strategies. 
+
+
+  After the goals and strategies have been agreed upon the faciliator can allow between 3 to 5 minutes to flush out the challenges (and bright spots if necessary) in the execution and culture area.
 participants: []
 ---
