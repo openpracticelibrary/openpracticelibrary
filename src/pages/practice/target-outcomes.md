@@ -6,7 +6,8 @@ date: 2018-09-09T11:20:06.538Z
 authors:
   - tdbeattie
   - jonathanjohnston
-tags: []
+tags:
+  - value
 mobiusTag: discovery
 icon: /images/final_target-outcomes.png
 whatIs: >-
