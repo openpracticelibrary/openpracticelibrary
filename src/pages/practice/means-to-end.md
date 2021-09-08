@@ -9,9 +9,10 @@ authors:
 mobiusTag: foundation
 icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
 whatIs: The Means to End practice helps define, differentiate, and communicate
-  an organisational, team, or program Vision, Strategy, and Tactics.
-  Participants define and explore the relationship and dependencies between the
-  Visionary, Strategic and Tactical layers.
+  an organisational Vision, Strategy, and the associated tactical
+  implementations through projects and initiatives (Tactics). Participants
+  define and explore the relationship and dependencies between the Visionary,
+  Strategic and Tactical layers.
 whyDo: Taking time to explore the meaning and correlation between Mission,
   Vision, Strategies and Objectives helps organisations to empower their teams
   and people, which in turn creates a culture in support of a high performing
