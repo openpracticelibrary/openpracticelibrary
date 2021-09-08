@@ -44,7 +44,10 @@ howTo: >-
   Once you are done, pat yourself on the back. The hardest part is complete.
 
 
-  The Tactical Layer is concerned with how to implement the strategy and what short term objectives or OKRs to hit in support of the long term goals.
+  The Tactical Layer is concerned with how to implement the strategy and what short-term objectives or OKRs to hit in support of the long-term goals.
+
+
+  Existing projects can now be mapped to the tactics section to validate your strategy and ensure whether existing initiatives are still in alignment with the strategy. If you need new ideas you can run a [How Might We](https://openpracticelibrary.com/practice/hmw/) ideation session. This will allow you to get a fresh view and to establish new tactical approaches to achieve the short team objectives or key results. Important again is that the mapping with the strategic layer (strategy & goals) is completed to stay aligned.
 difficulty: hard
 participants: []
 ---
