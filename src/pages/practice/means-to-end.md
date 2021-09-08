@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: Means to End
-subtitle: Define and communicate the dependencies and differences between Vision
-  and Mission, Strategy and Goals as well as Tactics & Objectives
+subtitle: Define and communicate Vision, Mission, Strategy, Goals, Tactics & Objectives
 date: 2021-09-08T02:31:59.708Z
 authors:
   - aspanner
