@@ -54,6 +54,9 @@ resources:
   - link: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
     description: "Outcome metrics: Measure what matters"
     linkType: web
+  - link: https://www.senseandrespondpress.com/managing-outcomes
+    linkType: purchase
+    description: Outcomes Over Output - Joshua Seiden
 participants:
   - Product Owner
   - Team Members
