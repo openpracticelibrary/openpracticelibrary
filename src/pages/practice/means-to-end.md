@@ -32,7 +32,7 @@ howTo: >-
 
   * Vision: What will our organisation / team look like in 2 to 5 years from now? How does it serve our purpose?
 
-  * Mission: What are we doing on a daily basis to achieve our Vision? And life our purpose?
+  * Mission: What are we doing on a daily basis to achieve our Vision and live our purpose?
 
 
   Ensure that each Mission directly and clearly links to the Vision statement. If it doesn't it might be in the wrong layer, unrelated or the Vision might be incomplete or out of date.
