@@ -28,18 +28,20 @@ whyDo: >-
 
   * Provides a visual reminder to all on the current outcomes of focus and can be used to help with prioritisation / filtering of upcoming work items.
 howTo: >-
-  ### Tips for Remote Working
-
-
-  * Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
-
-  * Prepare in advance a template on a whiteboard tool with title and steps and be crystal clear about what you expect providing examples
+  * Prepare in advance a template on a whiteboard tool with title and steps and
+  be crystal clear about what you expect providing examples
 
   * Use the timer visible to all attendees
 
   * Start with the Start at the end and apply the Affinity Map practice to group topics
 
   * At the end you can review the Target outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the Open Decision Tree
+
+
+  ### Tips for Remote Working
+
+
+  * Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes%203.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true
