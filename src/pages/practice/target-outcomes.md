@@ -51,6 +51,9 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
+  - link: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
+    description: "Outcome metrics: Measure what matters"
+    linkType: web
 participants:
   - Product Owner
   - Team Members
