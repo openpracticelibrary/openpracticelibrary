@@ -42,5 +42,6 @@ howTo: >-
 
 
   Once you are done, pat yourself on the back. The hardest part is complete.
+difficulty: hard
 participants: []
 ---
