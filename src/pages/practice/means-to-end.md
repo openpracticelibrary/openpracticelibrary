@@ -30,7 +30,7 @@ howTo: >-
   Ask the group:
 
 
-  * Vision: What will our organisation / team look like in 2 to 5 years from now? Does that serve our purpose?
+  * Vision: What will our organisation / team look like in 2 to 5 years from now? How does it serve our purpose?
 
   * Mission: What are we doing on a daily basis to achieve our Vision? And life our purpose?
 
