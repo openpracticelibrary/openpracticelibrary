@@ -14,9 +14,9 @@ whatIs: The Means to End practice helps define, differentiate, and communicate
   define and explore the relationship and dependencies between the Visionary,
   Strategic and Tactical layers.
 whyDo: Taking time to explore the meaning and correlation between Mission,
-  Vision, Strategies and Objectives helps organisations to empower their teams
-  and people, which in turn creates a culture in support of a high performing
-  organisation ([Ron
+  Vision, Strategies, Goals and tactical Objectives helps organisations to
+  create clarity and empower their teams and people, which in turn creates a
+  culture in support of establishing a high performing organisation ([Ron
   Westrum](https://qualitysafety.bmj.com/content/13/suppl_2/ii22?ref=hvper.com&utm_source=hvper.com&utm_medium=website)).
 howTo: >-
   Firstly, clearly state the differences between Objective (Tactical layer) and
