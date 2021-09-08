@@ -51,12 +51,12 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
-  - link: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
-    description: "Outcome metrics: Measure what matters"
-    linkType: web
   - link: https://www.senseandrespondpress.com/managing-outcomes
     linkType: purchase
     description: Outcomes Over Output - Joshua Seiden
+  - link: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
+    linkType: web
+    description: Outcome metrics - Gabrielle Benefield
 participants:
   - Product Owner
   - Team Members
