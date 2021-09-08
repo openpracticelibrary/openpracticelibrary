@@ -7,7 +7,7 @@ date: 2021-09-08T02:31:59.708Z
 authors:
   - aspanner
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/means2end.png
 whatIs: The Means to End practice helps define, differentiate, and communicate
   an organisational Vision, Strategy, and the associated tactical
   implementations through projects and initiatives (Tactics). Participants
