@@ -19,15 +19,15 @@ whatIs: >-
 
   * Un entendimiento compartido del proceso de negocio que se va a tratar durante el proyecto. Eso incluye:
 
-  * * Los pasos que se deben considerar dentro o fuera de ámbito
+    * Los pasos que se deben considerar dentro o fuera de ámbito
     * Los usuarios involucrados en el proceso
     * Un inventario inicial de las pantallas de la interfaz de usuario
     * Un inventario inicial de agregados
   * Un diagrama físico con la información anotada arriba que se puede transferir a un formato digital
 whyDo: >-
-  
-
-  * Es más rápido, y bastante más divertido, que las maneras tradicionales de hacer modelos de procesos. Te vas a sorprender con lo mucho que puedes lograr en tan corto tiempo.
+  * Es más rápido, y bastante más divertido, que las maneras tradicionales de
+  hacer modelos de procesos. Te vas a sorprender con lo mucho que puedes lograr
+  en tan corto tiempo.
 
   * Se establece un lenguaje común y compartido entre el negocio y la ingeniería
 
@@ -35,7 +35,7 @@ whyDo: >-
 
   * El método es iterativo, lo cual permite a los facilitadores:
 
-  * * agregar más detalles en cada sesión para evitar que se agoten los participantes
+    * agregar más detalles en cada sesión para evitar que se agoten los participantes
     * escoger participantes según la sesión
     * proveer descansos cognitivos
   * Lleva a la superficie preguntas importantes sobre la experiencia del usuario al inicio del proceso de ideación
@@ -70,20 +70,30 @@ howTo: >-
   * Marcadores para pizarrón o lápices de carbón
 
 
+  ### Sugerencias para las sesiones remotas
 
-    ### Sugerencias para las sesiones remotas
 
-    * Deben asistir participantes que representan todas las distintas áreas de experiencia. Sin embargo, considera limitar el número total de participantes, ya que si demasiada gente asiste a una sesión remota, se puede impedir la comunicación eficaz.
-    * Crear un Event Storm puede tomar mucho tiempo (dependiendo de la complejidad del caso). Se deben planear varias sesiones remotas con descansos durante cada sesión. Se debe comunicar a los participantes que se van a tomar varios descansos.
-    * Si el Event Storming es algo nuevo para los participantes, se les debe proveer recursos de referencias (tal como esta página) y ejemplos de Event Storms completados. Se puede llevar a cabo una sesión para presentar el proceso del Event Storm.
-    * Se debe preparar un pizarrón virtual con un lugar reservado para llevar a cabo el Event Storm. Se puede fijar al pizarrón virtual un ejemplo de un Event Storm completado para que los participantes puedan visualizar el objetivo de su trabajo.
-    * Si lo suficiente se conoce del caso antes de la sesión, se puede preparar un bosquejo de antemano para ahorrar tiempo y proveer un esqueleto como punto de comienzo. Eso también puede ayudar a los participantes que no tengan experiencia con el Event Storm a ubicarse. Se puede explicar que el bosquejo es sólo un comienzo, y cualquier cosa se puede cambiar durante la sesión.
-    * Se les debe invitar a los participantes a que usen sus cámaras cuando sea posible. El uso de cámaras por parte de los participantes hace que la comunicación entre todos sea más fácil y más natural. Se requiere participación activa de todos para sacar el mayor beneficio del Event Storm.
-    * Los facilitadores deben hacer preguntas abiertas y permitir el silencio para alentar a todos a participar.
-    * Los facilitadores deberían esforzarse para que todos participen. Es fácil para los participantes de una sesión remota de Event Storming perder el enfoque. Es probable que el facilitador tenga que fomentar el diálogo.
-    * Idealmente, todos los que participan en el Event Storm deben poder interactuar con el pizarrón virtual. Sin embargo, si el Event Storm es nuevo para los participantes, los facilitadores pueden demostrar a los participantes la interacción entre sí.
-    * Asegúrate de repasar el Event Storm regularmente, tal vez más de lo normal, para que todos puedan comprender y tener la oportunidad de contribuir.
-    * Para Event Storms grandes, se puede considerar dividir a los participantes en grupos distintos en los cuales se puede trabajar en distintas partes del Event Storm. Hay que reunirse como un grupo entero de forma regular para ponerse al tanto del progreso de cada grupo. Además, los grupos deben tomar turnos y considerar áreas diferentes del Event Storm.
+  * Deben asistir participantes que representan todas las distintas áreas de experiencia. Sin embargo, considera limitar el número total de participantes, ya que si demasiada gente asiste a una sesión remota, se puede impedir la comunicación eficaz.
+
+  * Crear un Event Storm puede tomar mucho tiempo (dependiendo de la complejidad del caso). Se deben planear varias sesiones remotas con descansos durante cada sesión. Se debe comunicar a los participantes que se van a tomar varios descansos.
+
+  * Si el Event Storming es algo nuevo para los participantes, se les debe proveer recursos de referencias (tal como esta página) y ejemplos de Event Storms completados. Se puede llevar a cabo una sesión para presentar el proceso del Event Storm.
+
+  * Se debe preparar un pizarrón virtual con un lugar reservado para llevar a cabo el Event Storm. Se puede fijar al pizarrón virtual un ejemplo de un Event Storm completado para que los participantes puedan visualizar el objetivo de su trabajo.
+
+  * Si lo suficiente se conoce del caso antes de la sesión, se puede preparar un bosquejo de antemano para ahorrar tiempo y proveer un esqueleto como punto de comienzo. Eso también puede ayudar a los participantes que no tengan experiencia con el Event Storm a ubicarse. Se puede explicar que el bosquejo es sólo un comienzo, y cualquier cosa se puede cambiar durante la sesión.
+
+  * Se les debe invitar a los participantes a que usen sus cámaras cuando sea posible. El uso de cámaras por parte de los participantes hace que la comunicación entre todos sea más fácil y más natural. Se requiere participación activa de todos para sacar el mayor beneficio del Event Storm.
+
+  * Los facilitadores deben hacer preguntas abiertas y permitir el silencio para alentar a todos a participar.
+
+  * Los facilitadores deberían esforzarse para que todos participen. Es fácil para los participantes de una sesión remota de Event Storming perder el enfoque. Es probable que el facilitador tenga que fomentar el diálogo.
+
+  * Idealmente, todos los que participan en el Event Storm deben poder interactuar con el pizarrón virtual. Sin embargo, si el Event Storm es nuevo para los participantes, los facilitadores pueden demostrar a los participantes la interacción entre sí.
+
+  * Asegúrate de repasar el Event Storm regularmente, tal vez más de lo normal, para que todos puedan comprender y tener la oportunidad de contribuir.
+
+  * Para Event Storms grandes, se puede considerar dividir a los participantes en grupos distintos en los cuales se puede trabajar en distintas partes del Event Storm. Hay que reunirse como un grupo entero de forma regular para ponerse al tanto del progreso de cada grupo. Además, los grupos deben tomar turnos y considerar áreas diferentes del Event Storm.
 difficulty: hard
 participants: []
 ---
