@@ -5,6 +5,9 @@ subtitle: Un método rápido e interactivo de descubrir los procesos de negocio.
 date: 2021-09-15T15:44:53.892Z
 authors:
   - sdstolworthy
+  - springdo
+  - tbeattie
+  - ""
 tags: null
 mobiusTag: discovery
 icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
@@ -81,5 +84,6 @@ howTo: >-
     * Idealmente, todos los que participan en el Event Storm deben poder interactuar con el pizarrón virtual. Sin embargo, si el Event Storm es nuevo para los participantes, los facilitadores pueden demostrar a los participantes la interacción entre sí.
     * Asegúrate de repasar el Event Storm regularmente, tal vez más de lo normal, para que todos puedan comprender y tener la oportunidad de contribuir.
     * Para Event Storms grandes, se puede considerar dividir a los participantes en grupos distintos en los cuales se puede trabajar en distintas partes del Event Storm. Hay que reunirse como un grupo entero de forma regular para ponerse al tanto del progreso de cada grupo. Además, los grupos deben tomar turnos y considerar áreas diferentes del Event Storm.
+difficulty: hard
 participants: []
 ---
