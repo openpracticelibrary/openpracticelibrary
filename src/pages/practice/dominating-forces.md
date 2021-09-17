@@ -10,16 +10,16 @@ tags: null
 mobiusTag: discovery
 icon: /images/dominatingforces.png
 whatIs: >-
-  This is a facilitated workshop that communicates or validates existing or
+  This is a facilitated practice that communicates or validates existing or
   helps establish new strategies to reach the specified goal(s) while also
   taking into consideration detractors and challenges with regard to culture and
-  execution. This surfaces risks and potential issues for any subsequent
-  project, program or product to be developed, impacts innovation and metrics.
+  execution. This practice surfaces risks and potential issues for any
+  subsequent project, program, or product to be developed.
 
 
   Strategies should cover what we do and don't do and how we compete. And be clearly linked to the goals that the strategy supports.\
 
-  Culture should look at people, skills, communication, principals, and team structures/topologies.\
+  Culture should look at people, skills, communication, principles, and team structures/topologies.\
 
   Execution should take into consideration processes, capabilities, tools, and metrics.
 
@@ -34,6 +34,9 @@ whatIs: >-
 
 
   * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
+
+
+  If there no context of Mission, Vision, Goals and strategies then better start off with the practices around establishing a cohesive [Means to End](https://openpracticelibrary.com/practice/means-to-end/) framework.
 whyDo: >-
   The Why is to ensure strategy, culture and execution challenges (and bright
   spots) are clearly identified.
