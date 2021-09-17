@@ -63,6 +63,9 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
+  - link: https://www.youtube.com/watch?v=TOIccUxlqF0
+    linkType: video
+    description: Scrum With Kanban | Walk The Board On Daily Scrum from Agile State of Mind
 difficulty: moderate
 participants:
   - Product Owner
