@@ -10,7 +10,7 @@ authors:
   - ""
 tags: null
 mobiusTag: discovery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/final_event-storming.png
 whatIs: >-
   El Event Storming es una manera rápida e interactiva de descubrir procesos de
   negocios y crear diseños que rinde modelos de alta calidad. Fue presentado en
