@@ -52,7 +52,9 @@ howTo: >-
 
 
   Action Steps can be a useful practice to include at the end of a Retrospective, or following any activity that's generated a lot of ideas, and people want a clear idea of where to start, or what to do next.
-mediaGallery: []
+mediaGallery:
+  - link: /images/ActionSteps.png
+  - link: /images/SATE-actionsteps.JPG
 resources:
   - link: https://www.debono.com/Books/Six-Action-Shoes
     linkType: web
