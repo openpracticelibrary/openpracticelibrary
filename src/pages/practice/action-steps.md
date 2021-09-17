@@ -49,6 +49,9 @@ howTo: >-
 
 
   Review: Use [Affinity Mapping](https://openpracticelibrary.com/practice/affinity-mapping/) to cluster and summarise action steps, or if there's a lot of actions to take, perhaps vote to prioritise what the group sees as most important to start with.
+
+
+  Action Steps can be a useful practice to include at the end of a Retrospective, or following any activity that's generated a lot of ideas, and people want a clear idea of where to start, or what to do next.
 mediaGallery: []
 resources:
   - link: https://www.debono.com/Books/Six-Action-Shoes
