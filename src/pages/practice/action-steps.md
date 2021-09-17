@@ -10,10 +10,6 @@ tags:
 mobiusTag: options
 icon: /images/screen-shot-2021-09-02-at-12.15.08-pm.png
 whatIs: >-
-  ![Actions steps: Hand drawn feet on a whiteboard covered in sticky notes](
-  "Example: Action steps written on sticky notes")
-
-
   Commitment to action
 
 
