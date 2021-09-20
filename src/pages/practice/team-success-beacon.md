@@ -11,28 +11,28 @@ tags:
 mobiusTag: foundation
 icon: /images/screen-shot-2021-09-20-at-2.46.35-pm.png
 whatIs: This is a simple practice that can be used as an alternative to the
-  daily standup or sync meeting. We dig into deeper process items, gather team
-  sentiment and incite discussions for continuous improvement using prompts to
-  guide team discovery.
+  daily standup or sync meeting where we dig into deeper process items, gather
+  team sentiment and incite discussions for continuous improvement using prompts
+  to guide team discovery.
 whyDo: >-
   There’s many use cases for this practice. The world if you oyster!
 
 
-  * Drive conversations especially for teams in forming/storming phase or new to agile
+  * Drive conversations especially for teams in forming/storming phase or new to agile.
 
-  * Drive continuous improvement discussions outside of the retrospective cadence
+  * Drive participation as the practice visually calls out gaps or non-participation.
 
-  * Ideate about overall process and potential experiments
+  * Drive continuous improvement discussions outside of the retrospective cadence.
 
-  * Drive participation as the practice visually calls out gaps or non-participation
+  * Ideate about overall process and potential experiments.
 
-  * Guided questions contribute to team learning and curiosity
+  * Guided questions contribute to team learning and curiosity.
 
-  * Gain insights into team skill-sets, sentiment and potential knowledge gaps
+  * Gain insights into team skill-sets, sentiment and potential knowledge gaps.
 
-  * Gather and share observations on metrics
+  * Gather and share observations on metrics.
 
-  * Drive adoption of a new tool (ie Mural or other virtual whiteboard tool)
+  * Drive adoption of a new tool (ie Mural or other virtual whiteboard tool).
 howTo: >-
   * Set up a canvas (virtual tool or wall/whiteboard).
 
@@ -42,7 +42,7 @@ howTo: >-
     * Guided open-ended questions that spark conversation or a parking lot for open topics.
     * Guided questions via sticker survey to gather information on a likert scale.
     * Provide metrics or other information radiators to gather team observations.
-  * Prepare all questions and metrics ahead of time. Think about areas of continuous improvement opportunities and use prompts to guide team discovery.
+  * As a facilitator prepare all questions and metrics ahead of time. Think about areas of continuous improvement opportunities and use prompts to guide team discovery.
 
   * Set a timer for ~10 minutes to allow teammates to silently collaborate.
 
@@ -56,6 +56,8 @@ howTo: >-
 
   **Tips**
 
+
+  * Prepare all questions and metrics for the canvas ahead of time.
 
   * Keep the practice short and simple while letting the conversations flow organically.
 
