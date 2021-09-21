@@ -59,6 +59,10 @@ howTo: >-
 
   * Prepare all questions and metrics for the canvas ahead of time.
 
+  * Works well when ran by a Team Lead (i.e. Scrum Master) and team member (i.e. Architect or Developer) together.
+
+  * If virtual, encourage the team to use their camera for this activity.
+
   * Keep the practice short and simple while letting the conversations flow organically.
 
   * Change up the questions each time to keep it interesting and relevant to improvement and uncovering new things.
@@ -66,6 +70,9 @@ howTo: >-
   * Prompt those not participating to share.
 
   * Keep artifacts to track trends over time (ie sentiment, participation, metrics).
+
+
+  ![Team Success Beacon](/images/screen-shot-2021-09-20-at-2.46.35-pm.png "Team Success Beacon")
 time: 30 mins
 difficulty: easy
 participants:
