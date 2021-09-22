@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Contract-First Development
-subtitle: Make it clear for everyone
+subtitle: Get agreement upfront when creating reusable services
 date: 2019-06-20T12:49:38.825Z
 authors:
   - infosec812
