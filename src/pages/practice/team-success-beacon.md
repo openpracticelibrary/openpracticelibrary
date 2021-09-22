@@ -15,7 +15,7 @@ whatIs: This is a simple practice that can be used as an alternative to the
   team sentiment and incite discussions for continuous improvement using prompts
   to guide team discovery.
 whyDo: >-
-  There’s many use cases for this practice. The world if you oyster!
+  There’s many use cases for this practice. The world is your oyster!
 
 
   * Drive conversations especially for teams in forming/storming phase or new to agile.
