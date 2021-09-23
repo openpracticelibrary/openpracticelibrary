@@ -10,16 +10,16 @@ tags: null
 mobiusTag: discovery
 icon: /images/dominatingforces.png
 whatIs: >-
-  This is a facilitated workshop that communicates or validates existing or
+  This is a facilitated practice that communicates or validates existing or
   helps establish new strategies to reach the specified goal(s) while also
   taking into consideration detractors and challenges with regard to culture and
-  execution. This surfaces risks and potential issues for any subsequent
-  project, program or product to be developed, impacts innovation and metrics.
+  execution. This practice surfaces risks and potential issues for any
+  subsequent project, program, or product to be developed.
 
 
   Strategies should cover what we do and don't do and how we compete. And be clearly linked to the goals that the strategy supports.\
 
-  Culture should look at people, skills, communication, principals, and team structures/topologies.\
+  Culture should look at people, skills, communication, principles, and team structures/topologies.\
 
   Execution should take into consideration processes, capabilities, tools, and metrics.
 
@@ -34,6 +34,9 @@ whatIs: >-
 
 
   * [Impact Mapping](https://openpracticelibrary.com/practice/impact-mapping/)
+
+
+  If there is no context of Mission, Vision, Goals, and strategies then it is recommended to start off with the practices around establishing a cohesive [Means to End](https://openpracticelibrary.com/practice/means-to-end/) framework.
 whyDo: >-
   The Why is to ensure strategy, culture and execution challenges (and bright
   spots) are clearly identified.
@@ -44,10 +47,10 @@ whyDo: >-
 
   When goals and associated strategies are formulated this exercise allows for immediate 'reality checks' and surfaces potential challenges and roadblocks that must be paid attention to. This allows to plan for risk mitigation strategies right from the start or even before an engagement, project or program of works kicks off.
 howTo: >-
-  Once the goal(s) are agreed upon I'd suggest to run a 10-for-10 exercise to
-  bring out new strategies. If the strategies are already existing then the
-  SME's need to present the existing strategies and the related goals those
-  strategies are in support of.
+  Once the goal(s) are agreed upon you can run a 10-for-10 exercise to bring out
+  new strategies. If the strategies are already existing then the SME's need to
+  present the existing strategies and the related goals those strategies are in
+  support of.
 
 
   After the goals and strategies have been agreed upon the facilitator can allow between 3 - 7  minutes to flush out the challenges (and bright spots if necessary) in the execution and culture area.
