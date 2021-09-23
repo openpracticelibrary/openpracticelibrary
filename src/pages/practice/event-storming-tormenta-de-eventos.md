@@ -6,8 +6,6 @@ date: 2021-09-15T15:44:53.892Z
 authors:
   - MaggiePerera
   - sdstolworthy
-  - springdo
-  - tbeattie
 tags: null
 mobiusTag: discovery
 icon: /images/final_event-storming.png
