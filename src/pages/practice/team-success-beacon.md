@@ -71,7 +71,6 @@ howTo: >-
 
   * Keep artifacts to track trends over time (i.e. sentiment, participation, metrics).
 
-
   ![Team Success Beacon](/images/screen-shot-2021-09-20-at-2.46.35-pm.png "Team Success Beacon")
 time: 30 mins
 difficulty: easy
