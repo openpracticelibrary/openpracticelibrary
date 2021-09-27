@@ -10,12 +10,12 @@ tags:
 mobiusTag: foundation
 icon: /images/am4.jpg
 whatIs: >-
-  Affinity Mapping is a practice used to organize ideas or insights. It allows
+  Affinity Mapping is a practice used to organise ideas or insights. It allows
   large numbers of ideas  stemming from brainstorming to be sorted into groups,
   based on their natural relationships, for review and analysis. It is also
-  frequently used in contextual inquiry as a way to organize notes and insights
+  frequently used in contextual inquiry as a way to organise notes and insights
   from field interviews for synthesis and analysis. Additionally, it can be used
-  for organizing freeform comments, such as open-ended survey responses, support
+  for organising freeform comments, such as open-ended survey responses, support
   call logs, or other qualitative data.
 
 
