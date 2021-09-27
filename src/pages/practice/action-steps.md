@@ -10,7 +10,7 @@ tags:
 mobiusTag: options
 icon: /images/screen-shot-2021-09-02-at-12.15.08-pm.png
 whatIs: >-
-  Commitment to action
+  Commitment to action.
 
 
   This is a collaborative practice that invites everyone to commit to taking a first step towards action.  
