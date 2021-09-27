@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Event Storming (Tormenta de eventos)
+title: Tormenta de eventos
 subtitle: Un método rápido e interactivo de descubrir los procesos de negocio.
 date: 2021-09-15T15:44:53.892Z
 authors:
