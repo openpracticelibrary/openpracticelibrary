@@ -1,5 +1,8 @@
 ---
 templateKey: practice-page
+title: Retrospectives
+subtitle: Reflect, inspect and adapt ways of working to drive continuous team improvement
+date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
   - mtakane
@@ -8,6 +11,25 @@ authors:
   - noelo
   - ilaria66
   - mvmaestri
+tags: []
+mobiusTag: delivery
+icon: /images/heroes-journey-retro.png
+whatIs: >-
+  Retrospectives provide opportunities for groups to reflect, inspect and adapt
+  their ways of working. They often take place at the end of sprints but can be
+  scheduled at any time. There are a myriad of types of retrospectives you can
+  run with your team, and it's good to mix things up to keep things from getting
+  stale which leads to decline in involvement. You might run something like in
+  the header image (The Heroes Journey), then maybe try this sailboat retro the
+  next time:
+
+  ![](https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png)
+whyDo: Retrospectives facilitate continuous improvement. Rather than wait until
+  the end of a project to run a full "lessons learned" exercise for the entire
+  delivery, we encourage taking short time boxes during delivery for the team to
+  course correct and find ways to improve their way of working. This should come
+  in the form of  actions agreed by the team with owners and estimated time due
+  dates, allowing for tracking and helping to ensure their completion.
 howTo: >-
   ## Who do you need?
 
@@ -102,6 +124,8 @@ howTo: >-
 
 
   **Want to run this practice remotely? See the Mural Template below! 💻🙏**
+mediaGallery:
+  - link: https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png
 resources:
   - link: https://podcasts.apple.com/us/podcast/retrospectives-w-mary-provinciatto/id1501715186?i=1000486726700
     linkType: podcast
@@ -130,32 +154,8 @@ resources:
     description: Remote Facilitation Tips
 jumbotron: /images/heroes-journey-retro.png
 area: delivery-measure-and-learn
-date: 2017-11-21T05:00:00.000Z
-mobiusTag: foundation
-whatIs: >-
-  Retrospectives provide opportunities for groups to reflect, inspect and adapt
-  their ways of working. They often take place at the end of sprints but can be
-  scheduled at any time. There are a myriad of types of retrospectives you can
-  run with your team, and it's good to mix things up to keep things from getting
-  stale which leads to decline in involvement. You might run something like in
-  the header image (The Heroes Journey), then maybe try this sailboat retro the
-  next time:
-
-  ![](https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png)
-whyDo: Retrospectives facilitate continuous improvement. Rather than wait until
-  the end of a project to run a full "lessons learned" exercise for the entire
-  delivery, we encourage taking short time boxes during delivery for the team to
-  course correct and find ways to improve their way of working. This should come
-  in the form of  actions agreed by the team with owners and estimated time due
-  dates, allowing for tracking and helping to ensure their completion.
-mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png
 perspectives:
   - facilitation-tips-for-remote-sessions
-title: Retrospectives
-subtitle: Reflect, inspect and adapt ways of working to drive continuous team improvement
-tags: []
-icon: /images/heroes-journey-retro.png
 ---
 ## What are they?
 
