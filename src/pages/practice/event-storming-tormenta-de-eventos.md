@@ -91,7 +91,7 @@ howTo: >-
 
   * Asegúrate de repasar el Event Storm regularmente, tal vez más de lo normal, para que todos puedan comprender y tener la oportunidad de contribuir.
 
-  * Para Event Storms grandes, se puede considerar dividir a los participantes en grupos distintos en los cuales se puede trabajar en distintas partes del Event Storm. Hay que reunirse como un grupo entero de forma regular para ponerse al tanto del progreso de cada grupo. Además, los grupos deben tomar turnos y considerar áreas diferentes del Event Storm.
+  * Para Event Storms grandes, se puede considerar dividir a los participantes en grupos distintos en los cuales se puede trabajar en distintas partes del Event Storm. Hay que reunirse como un grupo entero de forma regular para ponerse al tanto del progreso de cada grupo. Además, los grupos deben tomar turnos y considerar áreas diferentes del Event Storm. 
 time: 4+ hours
 difficulty: hard
 participants: []
