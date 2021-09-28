@@ -7,7 +7,7 @@ authors:
   - acammies
 tags: null
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/needs-an-image.png
 whatIs: Checkins are
 whyDo: Why is this important? It gives everyone a chance to speak and share. It
   tests out microphones etc and sets the expectation that everyone can talk.
