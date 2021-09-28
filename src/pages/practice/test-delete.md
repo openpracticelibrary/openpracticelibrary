@@ -7,8 +7,8 @@ authors:
   - kattekrab
 tags:
   - value
-mobiusTag: discovery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+mobiusTag: delivery
+icon: /images/final_test-automation.png
 whatIs: test test
 whyDo: test
 howTo: test
