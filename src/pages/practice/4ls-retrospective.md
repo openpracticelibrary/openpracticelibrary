@@ -1,29 +1,28 @@
 ---
 templateKey: practice-page
 title: 4Ls Retrospective
-subtitle: The 4 Ls retrospective is a team activity performed upon completion of
-  a sprint or project designed to understand what worked, what didn’t, and what
-  can be improved. The 4Ls stand for liked, learned, lacked, and longed for.
+subtitle: A team activity to understand what was liked, learned, lacked, and
+  longed for at the completion of a sprint or project.
 date: 2021-10-08T18:50:13.721Z
 authors:
   - Sherri Scheurich
 tags:
   - measure
 mobiusTag: delivery
-icon: /images/14c4797c-8b0a-4621-b680-cea35ebe3ad3.jpeg
+icon: /images/dd8b1513-5617-49c4-b80f-f26b00691124.jpeg
 whatIs: >-
   What is the 4Ls Retrospective?
 
 
-  The 4 Ls retrospective is a team activity performed upon completing a sprint or project designed to understand what worked, what didn’t, and what can be improved. The 4Ls stand for liked, learned, lacked, and longed for.
+  The 4 Ls retrospective is a team activity upon completion of a sprint or project designed to understand what worked, what didn’t, and what can be improved. The 4Ls stand for liked, learned, lacked, and longed for.
 whyDo: After a sprint/project, it can be helpful for the team to pause and take
   stock of what happened. The 4Ls retrospective is a useful tool that empowers
   the team to highlight the positive elements of a sprint/project and understand
   the negative, allowing them to think from a factual rather than emotional
   perspective.
 howTo: >-
-  At the end of a sprint/project, the team will provide input on what they
-  liked, learned, lacked, and longed for across key workstreams.
+  At the end of each sprint/project, the team will provide input on what they
+  liked, learned, lacked and longed for across key workstreams.
 
 
   The targeted outcome will be a prioritized list of actionable improvements with assigned owners on focus areas designed to build trust, improve efficiency, and increase engagement as we plan for the next sprint.
@@ -67,25 +66,16 @@ howTo: >-
   * Next Steps - 10 minutes
 
 
-  Please use a video camera, chat and feel free to use the hand raise feature.
+  Please use camera, chat and feel free to use the hand raise feature.
 
 
   Miro Board:
 
 
-  Participants access Lessons Learned Miro board located [](https://miro.com/app/board/o9J_luOzaBA=/)[here](https://miro.com/app/board/o9J_lrlbrhU=/).
+  Participants access Lessons Learned Miro board located [](https://miro.com/app/board/o9J_luOzaBA=/)[](https://miro.com/app/board/o9J_lrlbrhU=/)[here](https://miro.com/app/board/o9J_lrO1f6E=/).
 
 
-  Board has been divided into four quadrants to represent Liked, Learned, Lacked and Longed For across a sample of four workstreams.  NOTE: The quantity of workstream quandrants may be adjusted as needed by editing the Miro board. :
-
-
-  1. Workstream A 
-
-  2. Workstream B
-
-  3. Workstream C
-
-  4. Workstream D
+  Board has been divided into four quadrants to represent Liked, Learned, Lacked and Longed For. The quantity of quandrants may be adjusted to reflect workstreams as needed by editing the Miro board.
 
 
   Participants use “sticky notes” to post what was Liked, Learned, Lacked and Longed For during the collection segment.
@@ -161,7 +151,7 @@ howTo: >-
 
   Before ending the retrospective, ask for volunteers to own next steps. For any followup that doesn’t have a volunteer, assign it to the person most responsible for uncovering the insight during the retrospective. Close the session out by confirming everyone understand what is expected of them moving forward, and thank them for their time.
 resources:
-  - link: https://miro.com/app/board/o9J_lrlbrhU=/
+  - link: https://miro.com/app/board/o9J_lrO1f6E=/
     description: Miro Board
     linkType: web
   - link: https://docs.google.com/presentation/d/1xDlohtlM3rmbJ7S7eiVtQq58NX1cm3R-GB879Pjmhsw/edit#slide=id.geebec74d89_0_370
