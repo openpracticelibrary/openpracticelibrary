@@ -36,7 +36,7 @@ howTo: >-
     * Kickoff 4Ls definition, workshop logistics, target outcomes
   * Collection
 
-    * Time boxed activity for participants to document in Miro what was liked, learned, lacked and longed for in the last sprint/project phase
+    * Time boxed activity for participants to document in a digital collaboration tool (i.e. Miro) what was liked, learned, lacked and longed for in the last sprint/project phase
   * Categorization
 
     * Summarize & group lessons into themes
@@ -72,10 +72,10 @@ howTo: >-
   Miro Board:
 
 
-  Participants access Lessons Learned Miro board located [](https://miro.com/app/board/o9J_luOzaBA=/)[](https://miro.com/app/board/o9J_lrlbrhU=/)[here](https://miro.com/app/board/o9J_lrO1f6E=/).
+  Participants access a digital collaboration tool, such as a Miro board.
 
 
-  Board has been divided into four quadrants to represent Liked, Learned, Lacked and Longed For. The quantity of quandrants may be adjusted to reflect workstreams as needed by editing the Miro board.
+  The board is divided into four quadrants to represent Liked, Learned, Lacked and Longed For. The quantity of quandrants may be adjusted to reflect workstreams as needed by editing the collaboration board (i.e. Miro).
 
 
   Participants use “sticky notes” to post what was Liked, Learned, Lacked and Longed For during the collection segment.
@@ -151,15 +151,12 @@ howTo: >-
 
   Before ending the retrospective, ask for volunteers to own next steps. For any followup that doesn’t have a volunteer, assign it to the person most responsible for uncovering the insight during the retrospective. Close the session out by confirming everyone understand what is expected of them moving forward, and thank them for their time.
 resources:
-  - link: https://miro.com/app/board/o9J_lrO1f6E=/
+  - link: https://miro.com/templates/4-ls-retrospective/
     description: Miro Board
     linkType: web
-  - link: https://docs.google.com/presentation/d/1xDlohtlM3rmbJ7S7eiVtQq58NX1cm3R-GB879Pjmhsw/edit#slide=id.geebec74d89_0_370
-    description: Supporting Slides
+  - link: https://www.atlassian.com/team-playbook/plays/4-ls-retrospective-technique
     linkType: web
-  - link: https://app.smartsheet.com/b/form/549c5ac0e98b4a289edda80d4dec50d8
-    description: Smartsheet Survey
-    linkType: web
+    description: Technique
 time: 30-60 minutes
 difficulty: easy
 participants:
