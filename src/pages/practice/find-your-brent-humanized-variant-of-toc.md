@@ -35,7 +35,7 @@ whyDo: >
   If you take lengthy operations for him, reduce them to highly automated processes, then Brent is able to take more requests and the actual work performed is easier for Brent to teach others.
 
 
-  It is not about how long it can take to realise that Brent is a constraint. It is about how long this fact is ignored and what happens when Brent is in sick leave for long time....
+  It is not about how long it can take to realise that Brent is a constraint. It is about how long this fact is ignored and what happens when Brent for example is in sick leave for long time....
 howTo: >
   Assumption: people involved in finding Brent read the book Phoenix Project or
   at least understand the story of Brent.
