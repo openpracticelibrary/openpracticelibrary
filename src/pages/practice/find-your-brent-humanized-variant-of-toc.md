@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Find your Brent - Humanized variant of ToC
+title: '"Find your Brent" - Humanized variant of ToC'
 subtitle: "DRAFT:  "
 date: 2021-10-12T19:39:04.098Z
 authors:
