@@ -226,6 +226,9 @@ howTo: >-
   >
 
   > "direction and decision-making procedures and metrics for validating impacts to the project."
+
+
+  Credit to [David Worthington](https://www.linkedin.com/in/david-worthington-2b65b84/) and [Arash Dadras](https://www.linkedin.com/in/arash-dadras/) for introducing this practice.
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/6dimensions.png?raw=true
 participants:
