@@ -5,7 +5,7 @@ subtitle: A team activity to understand what was liked, learned, lacked, and
   longed for at the completion of a sprint or project.
 date: 2021-10-08T18:50:13.721Z
 authors:
-  - Sherri Scheurich
+  - scheurich
 tags:
   - measure
 mobiusTag: delivery
