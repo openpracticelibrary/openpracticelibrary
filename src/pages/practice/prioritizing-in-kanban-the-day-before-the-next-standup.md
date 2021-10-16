@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Prioritizing in Kanban the day before the next standup
+title: Daily prioritizing tasks in the Backlog for the next daily standup to facilitate the team focus
 subtitle: "Agility "
 date: 2021-10-07T10:03:22.854Z
 authors:
