@@ -24,7 +24,7 @@ howTo: >-
 
   2. At the top section of your space, fill in sticky notes for topics you wish to share, can teach or recently learned about, worth sharing.
 
-  3. At the bottom section of your space, fill in topics you are interested learning more about
+  3. At the bottom section of your space, fill in topics you are interested in learning more about
 
 
   ***During a team gathering***
@@ -34,7 +34,12 @@ howTo: >-
 
   2. Review the requested knowledge gaps topics, group together similar topics/stickers
 
-  3. We will use voting to decide what will be the next topic. Each participant gets four dots to vote on a possible next topic to be shared/learnt. The highest topic will be at the top of the agenda.
+  3. We will use voting to decide what will be the next topic. Each participant gets four dots to vote on a possible next topic to be shared/learned. The highest topic will be at the top of the agenda.
+
+
+
+
+  ![](/images/screenshot-2021-10-19-at-2.50.13-pm.png "knowledge sharing on miro board ")
 mediaGallery: []
 people: This practice is effective to team sizes of 4 or more
 time: 5 minutes
