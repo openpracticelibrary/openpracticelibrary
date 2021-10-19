@@ -34,7 +34,7 @@ howTo: >-
 
   2. Review the requested knowledge gaps topics, group together similar topics/stickers
 
-  3. We will use voting to decide what will be the next topic. Each participant gets 4 dots to vote on possible next topic to be shared/learnt. The highest topic will be the top on the agenda.
+  3. We will use voting to decide what will be the next topic. Each participant gets 4 dots to vote on a possible next topic to be shared/learnt. The highest topic will be at the top of the agenda.
 mediaGallery: []
 people: This practice is effective to team sizes of 4 or more
 time: 5 minutes
