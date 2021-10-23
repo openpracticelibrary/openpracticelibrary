@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: Virtual Office
-subtitle: Identify team dynamics when kicking-off a new project with different
-  stakeholders
+subtitle: Identify pre-existing dynamics and build team spirit when forming a new team
 date: 2021-10-23T10:35:39.833Z
 authors:
   - j-sutter
@@ -11,16 +10,16 @@ tags:
 mobiusTag: foundation
 icon: /images/virtual-office_cover.jpg
 whatIs: >-
-  Building a Virtual Office when working remotely is a team
-  identification/spirit builder while providing valuable insights into existing
-  dynamics, individual sentiments and functional expertise.  
+  Building a Virtual Office when working remotely is a blend of introduction
+  round, ice breaker and team builder while providing valuable insights into
+  pre-existing dynamics, individual sentiments   and functional expertise.  
 
 
-  It acts as a strong navigator for future collaboration between groups of people and individuals in your newly formed team.
+  The Virtual Office acts as a strong navigator for future collaboration between groups of people and individuals in your newly formed team.
 whyDo: >-
-  The Virtual Office fosters building team spirit while at the same time allows
-  gathering of both functional and emotional circumstances of the people you're
-  going to work with. 
+  The Virtual Office fosters the building of team spirit while at the same time
+  allows gathering of both functional and emotional circumstances of the people
+  you're going to work with. 
 
 
   As such, it is especially valuable when you come together with your future team for the first time. 
@@ -29,16 +28,16 @@ whyDo: >-
   * It serves as an introduction round
 
 
-  * It breaks the ice by acting as a fun game
+  * It breaks the ice by being a fun game
 
 
   * It builds team spirit by providing a connecting story 
 
 
-  * It makes people think of the value they will provide to the team rather than focusing on their functional expertise
+  * By abstracting the office areas, it makes people think of the value they will provide to the team rather than focusing on their functional expertise
 
 
-  * It provides valuable insights into existing dynamics and sentiments:
+  * It provides valuable insights into existing dynamics, sentiments, moods, motivation:
      * Where do people see themselves? Controlling, enabling, active, passive, ...?
      * Do people place themselves where their direct peer already is or do they break out? Eg. all storage people group in the same area?
      * Are there people who grumpily deny doing this exercise?
@@ -80,6 +79,11 @@ howTo: >
      * when you want to check whether everyone still see's him/herself in the same area or if dynamics have changed.
 mediaGallery:
   - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_1.jpg
+  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual_Office_2.jpg
+  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_3.jpg
+  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_4.jpg
+  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_5.jpg
+  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_6.jpg
 difficulty: easy
 participants: []
 ---
