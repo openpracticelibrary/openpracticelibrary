@@ -78,5 +78,8 @@ howTo: >
      * to ring in a specific collaboration time later in the project and highlight the virtual gathering,
      * when you feel like your Virtual Office needs redecoration,
      * when you want to check whether everyone still see's him/herself in the same area or if dynamics have changed.
+mediaGallery:
+  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_1.jpg
+difficulty: easy
 participants: []
 ---
