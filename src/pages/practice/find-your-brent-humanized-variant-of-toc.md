@@ -5,10 +5,9 @@ subtitle: "DRAFT:  "
 date: 2021-10-12T19:39:04.098Z
 authors:
   - msanecki
-tags:
-  - culture
+tags: null
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/needs-an-image.png
 whatIs: >+
   There is a ToC Practice:
   https://openpracticelibrary.com/practice/the-theory-of-constraints/ 
