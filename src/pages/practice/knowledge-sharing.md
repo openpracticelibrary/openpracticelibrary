@@ -37,9 +37,7 @@ howTo: >-
   3. We will use voting to decide what will be the next topic. Each participant gets four dots to vote on a possible next topic to be shared/learned. The highest topic will be at the top of the agenda.
 
 
-
-
-  ![](/images/screenshot-2021-10-19-at-2.50.13-pm.png "knowledge sharing on miro board ")
+  ![A coloured table, with animal avatars that shows topics people can share, or want to learn.](/images/screenshot-2021-10-19-at-2.50.13-pm.png "Knowledge sharing with a Miro board")
 mediaGallery: []
 people: This practice is effective to team sizes of 4 or more
 time: 5 minutes
