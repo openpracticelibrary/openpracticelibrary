@@ -8,7 +8,7 @@ authors:
 tags:
   - insight
 mobiusTag: options
-icon: /images/screen-shot-2021-09-02-at-12.15.08-pm.png
+icon: /images/actionsteps-miro-template.png
 whatIs: >-
   Commitment to action
 
