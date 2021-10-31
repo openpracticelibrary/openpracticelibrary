@@ -82,7 +82,8 @@ const BodyFooter = () => {
                   <Instagram />
                 </Link>
               </Grid>
-              <Grid item>
+/*  Youtube channel is empty - let's comment this out until we have a playlist there.             
+                <Grid item>
                 <Link
                   href="https://www.youtube.com/channel/UCBGbB7xVsmf-yQ8NXn7TOVg?view_as=subscriber"
                   rel="noreferrer"
@@ -91,6 +92,7 @@ const BodyFooter = () => {
                   <YouTube />
                 </Link>
               </Grid>
+ */             
             </Grid>
           </Box>
         </Box>
