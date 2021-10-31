@@ -9,33 +9,41 @@ authors:
   - mtakane
   - tdbeattie
   - springdo
+  - eranderson921
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/mbpm.jpg
-whatIs: Value Stream Mapping (VSM) is a third generation lean process
-  improvement techniques, optimized for an extended organizational
-  transformation effort. It is designed to view the big, macro picture and make
-  strategic decisions with executives. The first generation of this technique
-  comes from Toyota's "information and material flow" (as documented in Lean
-  Thinking and the second generation from Learning to See).
+icon: /images/vsm.jpg
+whatIs: >-
+  Value Stream Mapping (VSM) is a third generation lean process improvement
+  technique.  The Value Stream itself is the series of individual processes that
+  connect together to create the valuable goods or service that an organization
+  produces for its customer.  The process of mapping the Value Stream is
+  designed to view the big, macro picture in order for executives to make
+  strategic decisions as part of an extended organizational transformation
+  effort.
+
+
+  The first generation of this technique comes from Toyota's "information and material flow", as documented in Lean Thinking and the second generation from "Learning to See".
 whyDo: >-
-  In the context of software delivery, VSM is an excellent tools to holistically
-  analyze and optimize "brownfield" delivery processes, including everything
-  from requirements definition, infrastructure provisioning and application
-  development.
+  In the context of software delivery, VSM is an excellent tool to holistically
+  analyze and optimize existing "brownfield" delivery processes, including
+  everything from requirements definition, infrastructure provisioning and
+  application development.
 
 
   Being derived from Lean Manufacturing, VSM visually represents the way value flows through an organization from the time a customer requests a good/service, until the time a customer receives the good/service. This practice can be particularly effective at:
 
 
-  * Building shared understanding throughout the various levels of an organization on how value is actually provided 
+  * Building shared understanding throughout the organization on how value is actually provided 
 
-  * Creating the urgency for improvement
+  * Providing clarity for building concensus and creating the urgency for improvement
+
+  * Revealing disconnect, redundancies and unnecessary complications
 
   * Formulating specific, data driven improvement plans
 
-  * Preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process.
+  * Applying Systems Thinking by preventing "improvement" work in a particular area that leads to sub-optimization for the entire value stream / process.
 howTo: >-
   ## Facilitation Materials Needed
 
@@ -51,14 +59,13 @@ howTo: >-
 
   * Charcoal pencil and eraser to draw lines between PostIts
 
-  * For MBPM; chalk line can be useful, but not required
-
 
   ## How does it fit?
 
 
-  VSM pairs particularly well with Metrics-Based Process Mapping (MBPM) practice. Used together, VSM represents flow of value through a system at a macro level and MBPM represents lower-level implementation steps and processes.
-mediaGallery: []
+  VSM pairs particularly well with the [Metrics-Based Process Mapping](https://openpracticelibrary.com/practice/metrics-based-process-mapping/) (MBPM) practice.  Used together, VSM represents the flow of value through a system at a macro level in order to make strategic improvements whereas MBPM represents the micro lower-level flow in order to make tactical improvements.
+mediaGallery:
+  - link: https://openpracticelibrary.github.io/opl-media/images/vsm.jpg
 resources:
   - link: https://vimeo.com/149407030
     linkType: video
@@ -75,9 +82,6 @@ resources:
   - link: https://lizkeogh.com/value-streams-are-made-of-people/
     linkType: web
     description: Value Streams are Made of People by Liz Keogh
-  - link: https://vimeo.com/54601924
-    linkType: video
-    description: Webinar - Karen Martin's Metrics-Based Process Mapping
   - link: https://www.lean.org/BookStore/ProductDetails.cfm?SelectedProductID=88
     linkType: book
     description: Lean Thinking
@@ -96,15 +100,15 @@ resources:
   - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
     linkType: web
     description: Double Diamond design model
+people: <10
+difficulty: hard
 participants:
   - BAs
   - Directors
   - Architects and the Team
 jumbotron: /images/mbpm2.jpg
 area: discovery-loop-why
-people: <10
 time: 2 - 3 Days
-difficulty: hard
 jumbotronAlt: Example MBPM
 ---
 ## What is it?

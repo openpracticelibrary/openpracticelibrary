@@ -9,12 +9,14 @@ tags:
   - ideate
 mobiusTag: discovery
 icon: /images/decision-jam-small.png
-whatIs: This is a workshop exercise that you can use for **almost anything**. It
-  involves getting a few people in a room to define and solve challenges. It is
-  a handful of practices you run with a group to identify pain points or
-  problems to solve, to prioritize those problems, to ideate solutions to the
-  most important problems, and to prioritize those solutions. Finally, you
-  assign next steps for the team to take in order to run a solution experiment.
+whatIs: This is a workshop exercise that you can use for **almost anything**.
+  Created by the amazing team at [AJ&Smart](https://ajsmart.com/), the Lightning
+  Decision Jam involves getting a few people in a room to define and solve
+  challenges. It is a handful of practices you run with a group to identify pain
+  points or problems to solve, to prioritize those problems, to ideate solutions
+  to the most important problems, and to prioritize those solutions. Finally,
+  you assign next steps for the team to take in order to run a solution
+  experiment.
 whyDo: >-
   The Lightning Decision Jam (LDJ) is an insanely flexible combination of
   exercises, taking the best of the world’s problem-solving processes ([Design

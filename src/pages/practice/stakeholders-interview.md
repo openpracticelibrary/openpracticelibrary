@@ -11,19 +11,17 @@ tags: []
 mobiusTag: discovery
 icon: /images/screenshot-2021-02-05-at-16.11.47.png
 whatIs: >-
-  * One-on-one conversations to better understand the wants and needs of
-  stakeholders 
-
-  * An opportunity to gather useful information from three main areas, and more for e.g: User needs, Business goals and Technical limitations to gather valuable insights.
-
+  * One on one conversation to help better understand what stakeholders want and
+  need from the product. * An opportunity to gather useful information from
+  three main areas, and more for e.g:\
+    User needs, Business goals and Technical limitations to gather valuable insights.
   * Analyze various viewpoints of perceptions and aspirations of each stakeholder who have a product success interest
 
 
-  ## **Who: are stakeholders?**
+  ** Who: are stakeholders? **
 
-  * Anyone who can offer useful product advice and ultimately help simplify the design process.
-
-  * Anyone from the organisation, depending on the projects high level employees, lower-level employees or even influential users. The job title varies across various organisations. For e.g: Product Owner, Head of IT, Head of Data, IT Manager, Marketing Manager etc.
+    * Within the organisation, stakeholders are anyone who can offer useful product advice and ultimately help simplify the design process.
+    * Stakeholders can be anyone from the organisation, depending on the projects high level employees, lower-level employees or even influential users. The job title varies across various organisations. For e.g: Product Owner, Head of IT, Head of Data, IT Manager, Marketing Manager etc.
 whyDo: >-
   
 
@@ -48,40 +46,27 @@ howTo: >-
 
   * **Logistics:** Discuss date, time and environment you will conduct interviews for e.g: face to face, virtual meeting, technologies suitable for both parties and many more.
 
+    **Some Helpful Tips:**
 
-  ## **Some Helpful Tips:**
+    * **Establish psychological safety:** It is essential for the participants to create a secure and comfortable atmosphere. And they feel relaxed and safe. For example, clarify the intention of the interview, when, how and to whom the information will be shared, promote active listening, encourage them to reflect and answer.
+    * **Pair up with the other team members:** This will validate a lot of technical, business, marketing buzzwords
+    * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
+    * **Time of the interview:** No longer than 45mins to 1 hours
+    * **Methodologies/ Practices that are helpful to visualise the data collected:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
+    * **Questions:** Don’t lead the interviewee with direct questions. Ask open ended questions
+    * **What if:**
+      There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.\
+      \
+      \
+      **Helpful links:**
 
+      Preparatory research: \
+      <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
 
-  * **Establish psychological safety:** Create a secure, relaxing, and enjoyable atmosphere for the participants. Make it clear the aim of the interview, as well as when, how, and with whom the information will be exchanged.
+      Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 
-  * **Encourage active listening** and encourage them to think before responding.
+      Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
 
-  * **Pair up with the other team members:** Have someone as observer and note taker
-
-  * **Silence is good:** let them think and reflect back and answer, it’s not awkward.
-
-  * **Time of the interview:** No longer than 45 mins to 60 mins
-
-  * **Practices that can be used:** empathy mapping, Affinity mapping, User Journey Mapping, Proto-personas
-
-  * **Don’t lead the participant**: Always ask open-ended questions
-
-  * **What if:**
-    There is a project manager and who you have agreed on the project plan should you skip the stakeholders interview? Absolutely not.
-
-  ## **Helpful links:**
-
-
-  * Preparatory research: <https://www.thisisservicedesigndoing.com/methods/preparatory-research>
-
-  * Tips for writing a discussion guide: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
-
-  * Empathy mapping: <https://openpracticelibrary.com/practice/empathy-mapping/>
-
-  * How to prepare interview: <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
-people: 2+
-time: 45 min - 60 min
-difficulty: moderate
-participants:
-  - The Team
+      How to prepare interview: \
+      <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
 ---

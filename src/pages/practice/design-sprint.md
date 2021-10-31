@@ -80,6 +80,9 @@ resources:
   - link: https://www.invisionapp.com/inside-design/design-sprint-2/
     linkType: web
     description: The Design Sprint 2.0
+  - link: https://www.tcgen.com/design-thinking
+    linkType: web
+    description: What is Design Thinking? by TCGen
   - link: https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
     linkType: web
     description: The GV Research Sprint

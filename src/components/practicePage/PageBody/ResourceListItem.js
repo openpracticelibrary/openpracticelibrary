@@ -4,13 +4,19 @@ import { Link } from "gatsby";
 import { Typography, Box } from "@material-ui/core";
 
 const ResourceListItem = ({ children, description, listItemKey, url }) => {
-  const linkValue = new URL(url);
+  var linkValue;
+  var validUrl = true;
+  try {
+    linkValue = new URL(url);
+  } catch (TypeError) {
+    validUrl = false;
+  }
   return (
     <>
       <Box display="flex">
         <Box>{children}</Box>
         <Box>
-          {linkValue.hostname === "openpracticelibrary.com" ? (
+          {validUrl && linkValue.hostname === "openpracticelibrary.com" ? (
             <Link to={linkValue.pathname}>
               <Typography variant="body1" key={listItemKey}>
                 {description}
