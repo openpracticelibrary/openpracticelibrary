@@ -46,7 +46,7 @@ whyDo: Quickly build shared understanding of the context of a given initiative,
   outcomes](https://openpracticelibrary.com/practice/target-outcomes/).
 howTo: >-
   Ask the group to **think** about the current bright spots and challenges they
-  experience, and then get them to **categorise** these across 6 these
+  experience, and then get them to **categorize** these across 6 these
   dimensions.
 
 
