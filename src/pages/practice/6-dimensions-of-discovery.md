@@ -40,7 +40,7 @@ whatIs: >-
 
   This practice originally focussed on challenges, but has been adapted to also explore Bright spots.  Bright spots are described in the book "[Switch: How to change, when change is hard](https://heathbrothers.com/books/switch/)" and has similarities with [Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry).
 whyDo: Quickly build shared understanding of the context of a given initiative,
-  uncover pain points (challenges) across the organisation, team or project, and
+  uncover pain points (challenges) across the organization, team or project, and
   reveal skills and strengths (bright spots) that should be harnessed to
   accelerate momentum towards the [target
   outcomes](https://openpracticelibrary.com/practice/target-outcomes/).
