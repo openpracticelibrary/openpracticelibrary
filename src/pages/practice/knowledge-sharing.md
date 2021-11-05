@@ -6,8 +6,7 @@ subtitle: The knowledge sharing board is to share among us what we know and what
 date: 2021-10-19T06:22:01.720Z
 authors:
   - shaypeleg
-tags:
-  - culture
+tags: null
 mobiusTag: foundation
 icon: /images/photo-1614899099690-3bd319d25f99.avif
 whatIs: "This is a tool for a team to collect topics: What we know, what we want
