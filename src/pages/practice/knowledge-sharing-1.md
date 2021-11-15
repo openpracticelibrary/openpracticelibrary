@@ -9,8 +9,8 @@ tags:
   - culture
 mobiusTag: foundation
 icon: /images/knowledge-sharing-openpracticelibrary.png
-whatIs: "This is a tool for a team to collect topics: What we know, what we
-  want  to learn, and then prioritise among possible knowledge sharing topics."
+whatIs: "This is a tool for a team to collect topics: What we know, what we want
+  to learn, and then prioritise among possible knowledge sharing topics."
 whyDo: This is a practical way to quickly gather knowledge among the team and
   gauge what the team knows and where are the knowledge gaps other team members
   can fill. Done regularly, this will help the team to gain knowledge and create
