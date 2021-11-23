@@ -18,23 +18,28 @@ whyDo: This is a practical way to quickly gather knowledge among the team and
 howTo: >-2
     ***Individually/asynchronous*** 
 
+  1. Select a column, fill in your name on top
 
-    1. Select a column, fill in your name on top
+  2. At the top section of your space, fill in sticky notes for topics you wish to share, can teach or recently learned about, worth sharing.
 
-    2. At the top section of your space, fill in sticky notes for topics you wish to share, can teach or recently learned about, worth sharing.
+  3. At the bottom section of your space, fill in topics you are interested in learning more about
 
-    3. At the bottom section of your space, fill in topics you are interested in learning more about
+     ***During a team gathering***
+  4. Notice the small emoji next to your name. After each participant has added their wish list of topics they want to learn, review each topic. If you can share on the subject, please put your name+emoji on the sticker.
+
+  5. Review the requested knowledge gaps topics, group together similar topics/stickers
+
+  6. We will use voting to decide what will be the next topic. Each participant gets four dots to vote on a possible next topic to be shared/learned. The highest topic will be at the top of the agenda.
+
+  7. Pull the topic to be discussed into the "next area" at the bottom of the chart. Items covered in previous sessions can be moved to the "done area".
 
 
-    ***During a team gathering***
+  Repeat the process. Any items that are covered or are no longer of interest can be pulled into the "discard area".
 
 
-    1. Notice the small emoji next to your name. After each participant has added their wish list of topics they want to learn, review each topic. If you can share on the subject, please put your name+emoji on the sticker
-
-    2. Review the requested knowledge gaps topics, group together similar topics/stickers
-
-    3. We will use voting to decide what will be the next topic. Each participant gets four dots to vote on a possible next topic to be shared/learned. The highest topic will be at the top of the agenda.
+  ![Knowledge Sharing board](/images/ks.png "Knowledge Sharing board")
+mediaGallery: []
 people: This practice is effective to team sizes of 4 or more
-time: 5 minutes
+time: 15 minutes
 participants: []
 ---
