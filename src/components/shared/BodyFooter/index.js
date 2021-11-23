@@ -81,16 +81,7 @@ const BodyFooter = () => {
                 >
                   <Instagram />
                 </Link>
-              </Grid>
-              <Grid item>
-                <Link
-                  href="https://www.youtube.com/channel/UCBGbB7xVsmf-yQ8NXn7TOVg?view_as=subscriber"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <YouTube />
-                </Link>
-              </Grid>
+              </Grid>           
             </Grid>
           </Box>
         </Box>
