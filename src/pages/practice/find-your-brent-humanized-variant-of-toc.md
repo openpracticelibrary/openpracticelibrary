@@ -35,7 +35,7 @@ whyDo: >
 
 
   It is not about how long it can take to realise that Brent is a constraint. It is about how long this fact is ignored and what happens when Brent for example is in sick leave for long time....
-howTo: >
+howTo: >-
   Assumption: people involved in finding Brent read the book Phoenix Project or
   at least understand the story of Brent.
 
@@ -43,15 +43,15 @@ howTo: >
   Do a pool in your team and ask this questions:
 
 
-  0. Who is a bottleneck in our team? Bang you have it!
+  1. Who is a bottleneck in our team? Bang you have it!
 
-  1. Who in our team is very smart and is right most of the time?
+  2. Who in our team is very smart and is right most of the time?
 
-  2. Who is our team involved in almost every decision (i.e. technical)?
+  3. Who in our team is involved in almost every decision (i.e. technical)?
 
-  3. Who in our team is intimidating because of how much he knows?
+  4. Who in our team is intimidating because of how much he knows?
 
-  4. Who in your team knows how to do everything?
+  5. Who in our team knows how to do everything?
 difficulty: easy
 participants:
   - team
