@@ -78,15 +78,26 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM3.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM5.png?raw=true
 resources:
+  - link: https://vimeo.com/18725538
+    linkType: video
+    description: Webinar - Metrics Based Process Mapping by Karen Martin (60 minutes)
   - link: https://www.slideshare.net/KarenMartinGroup/metrics-based-process-mapping
     linkType: web
-    description: MBPM Slide Deck
-  - link: https://tkmg.com/books/metrics-based-process-mapping/
+    description: Slides - Metrics Based Process Mapping by Karen Martin
+  - link: https://vimeo.com/149407030
+    linkType: video
+    description: Webinar - Value Stream & Process Mapping - When You Opt For Each by
+      Karen Martin (80 minutes)
+  - link: https://www.slideshare.net/KarenMartinGroup/vsmmbpmwhenyouoptforeach
     linkType: web
-    description: MBPM Book
+    description: Slides - Value Stream Mapping & Process Mapping - When You Opt For
+      Each by Karen Martin
+  - link: https://tkmg.com/books/metrics-based-process-mapping/
+    linkType: purchase
+    description: Metrics-Based Process Mapping by Karen Martin & Mike Osterling
   - link: https://openpracticelibrary.com/practice/vsm-and-mbpm/
     linkType: web
-    description: Value Stream Mapping Practice
+    description: Value Stream Mapping - Open Practice Library
 participants:
   - Facilitator
   - "Domain experts: BA"
