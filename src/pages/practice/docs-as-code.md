@@ -28,7 +28,7 @@ whatIs: >-
   Tools and processes will need to be adapted for your project (and then adapted again for the project after that).
 
 
-  Docs As Code image copyright Anne Gentle. Released under and MIT license.
+  Docs As Code image copyright Anne Gentle. Released under an MIT license.
 whyDo: >
   1. Deliver valuable documentation faster with higher quality (multiple voices,
   collaboration)
@@ -53,7 +53,8 @@ howTo: >
   4. Automated testing and verification
 
   5. Rapid online publication using web pages (using static site generators) or wikis. For example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/).
-mediaGallery: []
+mediaGallery:
+  - link: https://openpracticelibrary.com/static/8dd15b5897ff4f0f5954afce32831396/ee604/treat-docs-like-code.png
 resources:
   - link: https://www.docslikecode.com/
     linkType: web
