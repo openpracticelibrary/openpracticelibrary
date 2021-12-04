@@ -149,7 +149,7 @@ mobiusTag: delivery
 * **Lack of deep dive** - In addition, during an IPM, the in-depth story deep-dive may not have happened (this depends on the team and the project) due to a number of reasons like time pressure, pending decisions etc. 
 * **Change in context** - Even if a deep-dive has happened and technical tasks have been detailed out, the context may have changed between the IPM and the time the story was actually picked up. 
 
-_A story kick-off gives the opportunity to both refresh the need as well as perform a more in-depth analysis/validation of the story._
+_A story kick-off gives the opportunity to both refresh the need as well as perform a more in-depth analysis/validation of the story._
 
 ## How to do it?
 
