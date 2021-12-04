@@ -78,12 +78,13 @@ howTo: >
      * when you feel like your Virtual Office needs redecoration,
      * when you want to check whether everyone still see's him/herself in the same area or if dynamics have changed.
 mediaGallery:
-  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_1.jpg
-  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual_Office_2.jpg
-  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_3.jpg
-  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_4.jpg
-  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_5.jpg
-  - link: https://github.com/j-sutter/opl-media/blob/master/Virtual-Office_6.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Virtual-Office_1.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Virtual-Office_3.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Virtual-Office_4.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Virtual-Office_5.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Virtual-Office_6.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/8fe53c7584866b4f668427b35c004bc17dfb1b1b/Virtual_Office_2.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/8fe53c7584866b4f668427b35c004bc17dfb1b1b/Virtual-Office_7.jpg
 difficulty: easy
 participants: []
 ---
