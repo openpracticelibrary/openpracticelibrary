@@ -9,7 +9,7 @@ tags:
   - validate
   - value
 mobiusTag: discovery
-icon: /images/post-it-notes-1284667_1920.jpg
+icon: /images/silentbrainwriting-openpracticelibrary.jpg
 whatIs: It is a quick way to generate a lot of diverse ideas whilst minimising
   bias introduced by others verbalising their suggestions before everybody has a
   chance to get their ideas down.
@@ -54,6 +54,7 @@ howTo: >-
 
 
   This practice is a foundation practice to others such as 10-for-10, lightning decision jam and retrospectives. Used appropriately it can really help accelerate the development of psychological safety within the group.
+mediaGallery: []
 resources:
   - link: https://openpracticelibrary.com/practice/affinity-mapping/
     linkType: web
