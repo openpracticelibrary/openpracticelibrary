@@ -4,7 +4,7 @@ title: The Theory of Constraints
 subtitle: "“Any improvements made anywhere besides the bottleneck are an illusion.” "
 date: 2021-06-04T10:17:34.156Z
 authors:
-  - tom_geraghty
+  - tom-geraghty
 tags:
   - methods
 mobiusTag: foundation
