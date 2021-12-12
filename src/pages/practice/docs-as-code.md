@@ -2,7 +2,7 @@
 templateKey: practice-page
 title: Docs As Code
 subtitle: Have the whole team deliver current, useful, documentation using the
-  minimum of effort
+  minimum of effort.
 date: 2021-07-22T02:07:51.398Z
 authors:
   - alecthegeek
@@ -62,6 +62,7 @@ resources:
   - link: https://www.writethedocs.org/guide/docs-as-code/
     linkType: web
     description: Docs as Code section on Write the Docs
+people: 1+
 difficulty: easy
 participants: []
 ---
