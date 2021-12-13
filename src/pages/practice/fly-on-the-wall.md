@@ -25,21 +25,16 @@ whyDo: >-
 
   This particular practice is suited to teams that are working primarily as individuals or pairs rather than those practiced in a 'mob to learn, pair to build' approach. It's a great way to demonstrate the power of group think and inclusive problem solving.
 howTo: >-
-  This is a time boxed exercise. Suggested times are 3-5 minutes to outline the
-  problem and take a couple of questions from the group to ensure the problem is
-  understood by the group, followed by 10-20 minutes of group chat. 
+  This is a time boxed exercise. 
 
 
-  1) The 'Fly' outlines the problem, ideally without solutions/ efforts to date. These can be discussed later where applicable. 
+  1. The 'Fly' outlines the problem, ideally without solutions/ efforts to date. These can be discussed later where applicable. **\[3-5 minutes]**
 
+  2. The team ask any questions about the problem to clarify they understand the problem space.
 
-  2) The team ask any questions about the problem to clarify they understand the problem space.
+  3. The team discuss the problem in more depth and start to come up with possible solutions. This practice can be paired with practices such as [10 for 10](https://openpracticelibrary.com/practice/10-for-10/) and [Silent Brainstorming](https://openpracticelibrary.com/practice/silent-brainstorming-brainwriting/) during the group thinking exercise. The 'Fly' listens curiously and makes notes. **\[10-20 minutes]**
 
-
-  3) The team discuss the problem in more depth and start to come up with possible solutions. This practice can be paired with practices such as [10 for 10](https://openpracticelibrary.com/practice/10-for-10/) and [Silent Brainstorming](https://openpracticelibrary.com/practice/silent-brainstorming-brainwriting/) during the group thinking exercise. The 'Fly' listens curiously and makes notes.
-
-
-  4) The 'Fly' thanks the group and responds to what they have heard. At this point the fly might have some next steps and is ready to move on, they may request to dive into the details from what they have heard, or they may provide further information; e.g., if they have already tried a solution as it was stated and have details/ evidence to bring to the table, this may then lead to a repeat of step 3.
+  4. The 'Fly' thanks the group and responds to what they have heard. At this point the fly might have some next steps and is ready to move on, they may request to dive into the details from what they have heard, or they may provide further information; e.g., if they have already tried a solution as it was stated and have details/ evidence to bring to the table, this may then lead to a repeat of step 3.
 resources:
   - link: https://www.mbs.works/best-books-training-for-coaches-leaders-and-mentors/the-advice-trap/
     linkType: web
