@@ -8,7 +8,7 @@ authors:
 tags: null
 mobiusTag: foundation
 icon: /images/needs-an-image.png
-whatIs: >+
+whatIs: >-
   There is a ToC Practice:
   https://openpracticelibrary.com/practice/the-theory-of-constraints/ 
 
@@ -18,6 +18,10 @@ whatIs: >+
 
   There is an idea to try to find constraint in the human network in your organisation - your Brent.
 
+
+
+
+  \[note- I think we need to introduce who "Brent" is in the Phoenix project and what the characteristics of Brent are.]
 whyDo: >
   To make the life of the human bottleneck easier.
 
@@ -52,6 +56,11 @@ howTo: >-
   4. Who in our team is intimidating because of how much he knows?
 
   5. Who in our team knows how to do everything?
+
+
+
+
+  \[note: what do we do after this point? This feels a bit like we've just pointed the finger at someone, and we need to make sure that they're ok and feeling safe, and we have some steps to take to begin to resolve it.]
 difficulty: easy
 participants:
   - team
