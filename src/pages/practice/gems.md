@@ -51,7 +51,9 @@ howTo: >-
   1. Set a goal - this must be relevant and achievable for both individuals and
   teams to influence. 
 
-     The goal should be something that it is understood why you are looking to achieve it. Dream big, envisage the future state, what do you want to see, hear, feel, do? NOTE: These do not need measures at this stage.
+     The goal should be something that it is understood; why you are looking to achieve it. Dream big, envisage the future state, what do you want to see, hear, feel, do? 
+
+     NOTE: These do not need measures at this stage.
 
      Examples: 
 
