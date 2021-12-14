@@ -69,7 +69,7 @@ howTo: >-
      * **Possible experiments:** Set up a referral scheme, run an advertising campaign, cut down the effort for registration, provide points for usage or cash back incentives, run user research to understand barriers to usage
   3. Sort your ideas based upon impact and effort [this practice can help](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/). How confident are you that you will be able to deliver the experiment? If you are setting these objectives as a team, discuss this and maybe use a confidence voting like [Fist to five](https://openpracticelibrary.com/practice/confidence-voting/) or even [dissent cards](https://openpracticelibrary.com/practice/dissent-cards/) to determine the best options. There is no right or wrong to this, it's really about prioritising the experiments you are going to run to move closer to the goal.
 
-  4. Finally, ask the question, How are we going to measure this? How will we know our actions have been successful? Like any good experiment you need to understand what you're looking for as well as how and when you'll gather the data to make your assessment(s)
+  4. Ask the question, How are we going to measure this? How will we know our actions have been successful? Like any good experiment you need to understand what you're looking for as well as how and when you'll gather the data to make your assessment(s)
 
      Example: 
 
