@@ -75,7 +75,7 @@ howTo: >-
 
      * **Goal:** Increase the number of active users per month.
      * **Experiments:** Set up a referral scheme, run an advertising campaign, cut down the effort for registration, provide points for usage or cash back incentives, run user research to understand barriers to usage
-     * **Measures:** An average of two new referred users per quarter; Reduction in average sign up time nby 30%, increased usage by average 3 transactions per user per month following the introduction of reward points; 5 point improvement in NPS for existing (registered pre Aug 2021) customers within 3 weeks of introducing changes recommended by user research.
+     * **Measures:** An average of two new referred users per quarter; Reduction in average sign up time by 30%; Increased usage by average 3 transactions per user per month following the introduction of reward points; 5 point improvement in NPS for existing (registered pre Aug 2021) customers within 3 weeks of introducing changes recommended by user research.
   5. Keep score. Update the score card weekly or at the end of each sprint/ logical (but short) time period. The link to Kathy Keating's original blog post on GEMs provides a suggested template for tracking.
 resources:
   - link: https://kathkeating.com/get-your-okrs-out-of-my-gems/
