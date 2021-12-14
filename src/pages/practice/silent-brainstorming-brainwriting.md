@@ -9,7 +9,7 @@ tags:
   - validate
   - value
 mobiusTag: discovery
-icon: /images/post-it-notes-1284667_1920.jpg
+icon: /images/silentbrainwriting-openpracticelibrary.jpg
 whatIs: It is a quick way to generate a lot of diverse ideas whilst minimising
   bias introduced by others verbalising their suggestions before everybody has a
   chance to get their ideas down.
@@ -54,6 +54,10 @@ howTo: >-
 
 
   This practice is a foundation practice to others such as 10-for-10, lightning decision jam and retrospectives. Used appropriately it can really help accelerate the development of psychological safety within the group.
+mediaGallery:
+  - link: https://online.visual-paradigm.com/servlet/editor-content/knowledge/brainstorming/why-brainwriting/sites/7/2020/03/brain-writing.png
+  - link: https://www.designthinking-methods.com/assets/img/6-3-5_EN.d817cf58.png
+  - link: https://eduarea.files.wordpress.com/2012/10/brainwriting1.jpg
 resources:
   - link: https://openpracticelibrary.com/practice/affinity-mapping/
     linkType: web
