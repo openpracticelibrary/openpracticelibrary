@@ -28,9 +28,8 @@ whyDo: >-
 
   Alternative Worlds gives participants the freedom to develop new ideas.
 howTo: >-
-  
-
-  While there are many variations for this activity, my approach described below has worked the best for me.
+  While there are many variations for this activity, my approach described below
+  has worked the best for me.
 
 
   ***Before you begin…***
@@ -50,21 +49,21 @@ howTo: >-
 
   * Separate participants into groups of 4-5 people.
 
-  * Step 1: Each group brainstorms entities (companies; brands; people) that represent innovative problem solvers.
+  * **Step 1:** Each group brainstorms entities (companies; brands; people) that represent innovative problem solvers.
 
   * * Use sticky notes, one for each entity
 
-  * Step 2: Each group discusses the list they generated and identifies the entities known to everyone in the group.
+  * **Step 2:** Each group discusses the list they generated and identifies the entities known to everyone in the group.
 
-  * Step 3: Each group selects one innovative problem solver from their list.
+  * **Step 3:** Each group selects one innovative problem solver from their list.
 
   * * Variation: You may include a step to review/share everyone’s inspirations to ensure no two groups use the same inspiration.
 
-  * Step 4: Have each group brainstorm answers to the following question: How would \_\_\_\_\_\_\_\_ solve our problem statement?
+  * **Step 4:** Have each group brainstorm answers to the following question: How would \_\_\_\_\_\_\_\_ solve our problem statement?
 
   * * Use sticky notes, one for each idea
 
-  * Step 6: Analyze your ideas using another visually-based facilitated group process
+  * **Step 5:** Analyze your ideas using another visually-based facilitated group process (like [affinity mapping](https://openpracticelibrary.com/practice/affinity-mapping/) or [impact/effort prioritization](https://openpracticelibrary.com/practice/impact-effort-prioritization-matrix/))
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Alternative%20Worlds.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Alternative%20Worlds%202.png?raw=true
