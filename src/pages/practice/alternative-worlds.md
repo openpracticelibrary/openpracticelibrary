@@ -4,7 +4,7 @@ title: Alternative Worlds
 subtitle: Use different perspectives to generate fresh ideas
 date: 2022-01-04T14:01:20.470Z
 authors:
-  - GraphicFacilitator
+  - graphicfacilitator
   - heyjerrybecker
 tags:
   - value
