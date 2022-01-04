@@ -10,10 +10,14 @@ tags:
   - value
 mobiusTag: discovery
 icon: /images/alternative-worlds.png
-whatIs: The LUMA Institute best summarizes the ‘what’ of this valuable
-  brainstorming activity – ‘Alternative Worlds’ is a way of using perspectives
-  to help generate fresh ideas. Creative thinkers don’t conjure great ideas from
+whatIs: >-
+  The LUMA Institute best summarizes the ‘what’ of this valuable brainstorming
+  activity – ‘Alternative Worlds’ is a way of using perspectives to help
+  generate fresh ideas. Creative thinkers don’t conjure great ideas from
   nowhere; instead, they look at common things in an uncommon way.
+
+
+  Alternative worlds is an exercise where you have your team intentionally solve a problem from a different point of view (a famous person, another individual, a creative organization, etc). It helps teams break down mental barriers to solving a problem within their personal context and opens up new possibilities for great ideas.
 whyDo: >-
   As facilitators, we are frequently called upon to support teams and leaders in
   their search for new and different ideas for vexing issues. It can be
