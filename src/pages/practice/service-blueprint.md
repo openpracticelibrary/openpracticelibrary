@@ -255,13 +255,13 @@ mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/service_design_blueprint.png
   - link: https://live.staticflickr.com/65535/51321977279_2681bec389_h.jpg
 resources:
+  - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
+    linkType: web
+    description: "Service Blueprints: Laying the Foundation"
   - link: https://wiprodigital.com/2018/08/30/rethinking-service-blueprints-for-agile-delivery/
     linkType: web
     description: Rethinking Service Blueprints for Agile Delivery - Paul Harrison,
       UX Architect
-  - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
-    linkType: web
-    description: "Service Blueprints: Laying the Foundation"
   - link: https://miro.com/miroverse/service-blueprint-essense/
     linkType: web
     description: Miro Template - Service Blueprint by Essense
