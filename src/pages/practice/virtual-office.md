@@ -12,7 +12,7 @@ icon: /images/virtual-office_cover.jpg
 whatIs: >-
   Building a Virtual Office when working remotely is a blend of introduction
   round, ice breaker and team builder while providing valuable insights into
-  pre-existing dynamics, individual sentiments   and functional expertise.  
+  pre-existing dynamics, individual sentiments and functional expertise.  
 
 
   The Virtual Office acts as a strong navigator for future collaboration between groups of people and individuals in your newly formed team.
@@ -27,20 +27,19 @@ whyDo: >-
 
   * It serves as an introduction round
 
+  * It breaks the ice by being a fun game (in a meaningful way), hence you kick-off ideally with an emotionally positive experience
 
-  * It breaks the ice by being a fun game
-
+  * It makes everyone actively interact in a safe way (there's no wrong) from the very beginning, hence decreases the hurdles to also interact at a later stage
 
   * It builds team spirit by providing a connecting story 
 
-
   * By abstracting the office areas, it makes people think of the value they will provide to the team rather than focusing on their functional expertise
 
-
   * It provides valuable insights into existing dynamics, sentiments, moods, motivation:
-     * Where do people see themselves? Controlling, enabling, active, passive, ...?
-     * Do people place themselves where their direct peer already is or do they break out? Eg. all storage people group in the same area?
-     * Are there people who grumpily deny doing this exercise?
+
+    * Where do people see themselves? Controlling, enabling, active, passive, ...?
+    * Do people place themselves where their direct peer already is or do they break out? Eg. all storage people group in the same area?
+    * Are there people who grumpily deny doing this exercise?
 howTo: >
   ### Prepare the Virtual Office
 
