@@ -255,21 +255,28 @@ mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/service_design_blueprint.png
   - link: https://live.staticflickr.com/65535/51321977279_2681bec389_h.jpg
 resources:
+  - link: https://wiprodigital.com/2018/08/30/rethinking-service-blueprints-for-agile-delivery/
+    linkType: web
+    description: Rethinking Service Blueprints for Agile Delivery - Paul Harrison,
+      UX Architect
   - link: https://www.cooper.com/journal/2014/08/service-blueprints-laying-the-foundation
     linkType: web
     description: "Service Blueprints: Laying the Foundation"
-  - link: https://en.wikipedia.org/wiki/Service_blueprint
-    linkType: web
-    description: Service Blueprint Wiki
   - link: https://mural.co/templates/service-blueprint
     linkType: web
     description: Mural.co Blueprint Free Template
-  - link: https://en.wikipedia.org/wiki/Service_design
-    linkType: web
-    description: Service Design Wiki
   - link: http://www.practicalservicedesign.com/resources
     linkType: web
     description: Practical Service Design Free Resources
+  - link: https://en.wikipedia.org/wiki/Service_design
+    linkType: web
+    description: Service Design Wiki
+  - link: https://en.wikipedia.org/wiki/Service_blueprint
+    linkType: web
+    description: Service Blueprint Wiki
+  - link: https://miro.com/miroverse/service-blueprint-essense/
+    linkType: web
+    description: Miro Template - Service Blueprint by Essense
 participants:
   - Facilitator(s)
   - Product Team
