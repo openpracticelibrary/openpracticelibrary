@@ -33,7 +33,7 @@ howTo: >-
   engagement.
 
 
-  **As Interviews**
+  **Interviews**
 
 
   From an interview process perspective, the interviewer identifies components of the change agenda (i.e. change dimensions, current states, and future states) during the conversation. Since an interview is very fluid, these three components could come in any order during the conversation.
@@ -59,7 +59,7 @@ howTo: >-
   * A template with three columns is helpful when conducting to assist you in make sure you capture all components
 
 
-  **As a Practice / Workshop**
+  **Practice / Workshop**
 
 
   Running a change agenda as a practice or part of a workshop, the facilitator starts with a vision statement, engagement goal, or strategic destination and has the participants generate change dimensions.
