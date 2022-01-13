@@ -1,9 +1,8 @@
 ---
 templateKey: practice-page
-title: Plan Your Trip (Plan Risk Management) - 4Cs (Costs, Consequences,
-  Context, and Choices)  (Risk Management Planning)
-subtitle: "Manage risk by considering the 4Cs: Costs, Consequences, Context, and
-  Choices."
+title: Plan Your Trip
+subtitle: "Manage risks by considering the 4Cs: Costs, Consequences, Context,
+  and Choices."
 date: 2021-12-15T17:38:05.761Z
 authors:
   - daveesra
