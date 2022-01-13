@@ -26,11 +26,11 @@ whyDo: The Change Agenda is a powerful communication tool, providing rich
   structural, and operating changes necessary to transition from the past to the
   future.
 howTo: >-
-  
-
-  The Change Agenda can be created from a client meeting, series of interviews, standalone facilitated practice or as part of a workshop. The goal of this process is to identify and define the strategic shifts that illustrate the change gap the organization needs to address for their strategy and/or engagement.
-
-
+  The Change Agenda can be created from a client meeting, series of interviews,
+  standalone facilitated practice or as part of a workshop. The goal of this
+  process is to identify and define the strategic shifts that illustrate the
+  change gap the organization needs to address for their strategy and/or
+  engagement.
 
 
   **As Interviews**
@@ -59,7 +59,7 @@ howTo: >-
   * A template with three columns is helpful when conducting to assist you in make sure you capture all components
 
 
-  **Practice / Workshop**
+  **As a Practice / Workshop**
 
 
   Running a change agenda as a practice or part of a workshop, the facilitator starts with a vision statement, engagement goal, or strategic destination and has the participants generate change dimensions.
