@@ -85,6 +85,9 @@ howTo: >-
   * A walking cafe approach can also be employed to get input from all participants on each change agenda entry before final readout.
 
   * The change dimensions can be classified into perspectives that can be used in a strategy map practice.
+
+
+  ![Below is an example of a completed change agenda for a retailer that was migrating an Order History application from OnPrem facility to Cloud provider.](/images/change-agenda-example.png)
 mediaGallery: []
 people: 1 or more
 time: 2-4 hours, if the overarching strategic vision, corporate goal, or
