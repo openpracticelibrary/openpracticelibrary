@@ -3,7 +3,7 @@ templateKey: practice-page
 title: Kanban priorities
 subtitle: Prioritise tasks on the board before daily standup to facilitate
   better communication and team work
-date: 2022-01-14T10:17:30.178Z
+date: 2021-10-07T10:17:30.178Z
 authors:
   - skriesch
 tags:
