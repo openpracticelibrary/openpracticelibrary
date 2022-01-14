@@ -4,7 +4,7 @@ title: Post your Ad - Qualitative Risk Analysis
 subtitle: Qualitative Risk Analysis
 date: 2022-01-14T20:59:56.746Z
 authors:
-  - daveesra
+  - desra
 mobiusTag: discovery
 icon: /images/post-you-ad.jpeg
 whatIs: The practice is a way to conduct initial analysis of risks and rank or
