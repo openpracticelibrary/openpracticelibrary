@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Kanban grooming
+title: Kanban refinement
 subtitle: Prioritise tasks on the board before daily standup to facilitate
   better communication and team work
 date: 2021-10-07T10:03:22.854Z
