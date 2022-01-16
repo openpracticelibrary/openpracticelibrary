@@ -39,17 +39,20 @@ howTo: >-
   Use developer tools, and process, to create and deliver content. Specifically:
 
 
-  1. Text based file content with embedded, lightweight, markup tags. Examples include Markdown, restructured text, asciiDOC
+  1. Text based file content with embedded, lightweight, markup tags. Examples include [Markdown](https://en.wikipedia.org/wiki/Markdown), [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText), [AsciiDoc](https://en.wikipedia.org/wiki/AsciiDoc)
+
 
   2. Developer based workflows. For example:
 
-     1. Version Control using tools, such as Git
+     1. Version Control using tools, such as [Git](https://en.wikipedia.org/wiki/Git)
      2. Change control driven though bugs and feature requests tickets
      3. Content reviews and merges
 
   3. Machine generated content
 
+
   4. Automated testing and verification
+
 
   5. [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery), using static site generators (for example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/)). Note: This process is optional
 mediaGallery:
