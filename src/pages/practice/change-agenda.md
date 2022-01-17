@@ -87,8 +87,15 @@ howTo: >-
   * The change dimensions can be classified into perspectives that can be used in a strategy map practice.
 
 
-  ![This an example of a completed change agenda for a retailer that was migrating an Order History application from OnPrem facility to Cloud provider.](/images/change-agenda-example.png)
+  ![](/images/change-agenda-example.png)
+
+
+  This an example of a completed change agenda for a retailer that was migrating an Order History application from on-premise facility to Cloud provider.
 mediaGallery: []
+resources:
+  - link: https://miro.com/app/board/o9J_lzVKIeE=/?invite_link_id=114529675167
+    linkType: web
+    description: Change Agenda Miro board template
 people: 1 or more
 time: 2-4 hours, if the overarching strategic vision, corporate goal, or
   engagement destination is defined
