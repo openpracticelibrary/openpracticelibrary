@@ -65,7 +65,7 @@ howTo: >-
 
   VSM pairs particularly well with the [Metrics-Based Process Mapping](https://openpracticelibrary.com/practice/metrics-based-process-mapping/) (MBPM) practice.  Used together, VSM represents the flow of value through a system at a macro level in order to make strategic improvements whereas MBPM represents the micro lower-level flow in order to make tactical improvements.
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/vsm.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/master/static/images/vsm.jpg
 resources:
   - link: https://vimeo.com/149407030
     linkType: video
@@ -100,15 +100,15 @@ resources:
   - link: https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812
     linkType: web
     description: Double Diamond design model
-people: <10
-difficulty: hard
 participants:
   - BAs
   - Directors
   - Architects and the Team
 jumbotron: /images/mbpm2.jpg
 area: discovery-loop-why
+people: <10
 time: 2 - 3 Days
+difficulty: hard
 jumbotronAlt: Example MBPM
 ---
 ## What is it?
