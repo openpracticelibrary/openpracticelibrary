@@ -5,6 +5,7 @@ subtitle: A business process diagram analyzed from the people perspective.
 date: 2018-11-14T18:39:21.278Z
 authors:
   - darcief
+  - JordiOlive
 tags:
   - ideate
 mobiusTag: discovery
