@@ -49,7 +49,7 @@ mediaGallery:
   - link: https://www.youtube.com/watch?v=qXb1naW0zdY
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/big-pic.png?raw=true
 resources:
-  - link: https://podcasts.apple.com/us/podcast/the-big-picture-w-haitham-shahin/id1501715186?i=1000488772813
+  - link: https://anchor.fm/openpracticelibrary/episodes/The-Big-Picture-w-Haitham-Shahin-ehg7d6
     linkType: podcast
     description: Big Picture Open Practice Podcast Episode
 participants:

@@ -133,7 +133,7 @@ resources:
   - link: http://emilywebber.co.uk/the-realtime-retrospective/
     linkType: web
     description: Realtime Retrospectives
-  - link: https://podcasts.apple.com/us/podcast/retrospectives-w-mary-provinciatto/id1501715186?i=1000486726700
+  - link: https://anchor.fm/openpracticelibrary/episodes/Retrospectives-w-Mary-Provinciatto-eh6acr
     linkType: podcast
     description: Retrospectives Open Practice Podcast Episode
   - link: https://www.amazon.com/Post-Sticky-Janeiro-Collection-6845-SSP/dp/B000CD0MHQ/

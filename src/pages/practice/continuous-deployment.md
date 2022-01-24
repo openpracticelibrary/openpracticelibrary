@@ -42,7 +42,7 @@ howTo: >-
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous%20deployment.png?raw=true
 resources:
-  - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
+  - link: https://anchor.fm/openpracticelibrary/episodes/CICD-w-Tyler-Auerbeck-ejr13l
     linkType: podcast
     description: CI/CD Open Practice Podcast Episode
   - link: https://openpracticelibrary.com/practice/continuous-integration/
