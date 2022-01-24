@@ -31,7 +31,7 @@ howTo: This practice typically requires automation that is run on a server such
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous%20delivery.png?raw=true
 resources:
-  - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
+  - link: https://anchor.fm/openpracticelibrary/episodes/CICD-w-Tyler-Auerbeck-ejr13l
     linkType: podcast
     description: CI/CD Open Practice Podcast Episode
   - link: https://jenkins.io/
