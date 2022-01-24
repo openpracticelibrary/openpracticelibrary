@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: '"Find your Brent" - Humanized variant of ToC'
-subtitle: "DRAFT:  "
+title: Finding Brent
+subtitle: Humanise the "Theory of Constraints" with Brent from the story of The Phoenix Project.
 date: 2021-10-12T19:39:04.098Z
 authors:
   - msanecki
