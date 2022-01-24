@@ -13,7 +13,7 @@ howTo: The tests and build steps are typically run in an automation server such
   are also cloud native/kubernetes solutions such as
   [Tekton](https://tekton.dev/).
 resources:
-  - link: https://podcasts.apple.com/us/podcast/ci-cd-w-tyler-auerbeck/id1501715186?i=1000491737000
+  - link: https://anchor.fm/openpracticelibrary/episodes/CICD-w-Tyler-Auerbeck-ejr13l
     linkType: podcast
     description: CI/CD Open Practice Podcast Episode
   - link: https://jenkins.io/

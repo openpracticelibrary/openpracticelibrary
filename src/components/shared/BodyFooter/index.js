@@ -48,7 +48,7 @@ const BodyFooter = () => {
             <Grid container spacing={2}>
               <Grid item>
                 <Link
-                  href="https://podcasts.apple.com/us/podcast/open-practice-podcast/id1501715186"
+                  href="https://anchor.fm/openpracticelibrary"
                   rel="noreferrer"
                   target="_blank"
                 >
