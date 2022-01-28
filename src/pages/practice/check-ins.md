@@ -52,7 +52,8 @@ howTo: >-
   * What’s something that you’re grateful for in the team?
 
   * What’s one thing you’d like help/advice with?
-mediaGallery: []
+mediaGallery:
+  - link: https://openpracticelibrary.com/static/8396d5b0bd1187134a09430e2fa969da/0a098/checkinclock-openpracticelibrary-kattekrab.png
 resources:
   - link: https://mccarthyshow.com/the-core-html-version/
     linkType: web
