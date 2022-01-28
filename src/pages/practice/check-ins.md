@@ -62,7 +62,7 @@ resources:
     description: Check-in, Check out - Hyper Island Toolbox
   - link: https://kasperowski.com/checking-in-and-out/
     linkType: web
-    description: "Checking In and Out: What’s That All About?"
+    description: "Checking In and Out: What’s That All About? - Richard Kasperowski"
 people: 2+
 time: 5-10 minutes
 difficulty: easy
