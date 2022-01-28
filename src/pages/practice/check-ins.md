@@ -5,14 +5,13 @@ subtitle: Foster deeper connections and belonging with simple questions
 date: 2021-09-13T12:54:10.519Z
 authors:
   - acammies
-  - kattekrab
   - jemjem
 tags:
   - culture
 mobiusTag: foundation
 icon: /images/checkinclock-openpracticelibrary-kattekrab.png
 whatIs: >-
-  Start each session/gathering by inviting everyone to speak in turn,
+  Start each session or gathering by inviting everyone to speak in turn,
   uninterrupted, for an agreed amount of time.
 
 
@@ -61,6 +60,9 @@ resources:
   - link: https://toolbox.hyperisland.com/check-in-check-out
     linkType: web
     description: Check-in, Check out - Hyper Island Toolbox
+  - link: https://kasperowski.com/checking-in-and-out/
+    linkType: web
+    description: "Checking In and Out: What’s That All About?"
 people: 2+
 time: 5-10 minutes
 difficulty: easy
