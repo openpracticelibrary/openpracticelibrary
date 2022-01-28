@@ -48,7 +48,7 @@ const BodyFooter = () => {
             <Grid container spacing={2}>
               <Grid item>
                 <Link
-                  href="https://podcasts.apple.com/us/podcast/open-practice-podcast/id1501715186"
+                  href="https://anchor.fm/openpracticelibrary"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -81,16 +81,7 @@ const BodyFooter = () => {
                 >
                   <Instagram />
                 </Link>
-              </Grid>
-              <Grid item>
-                <Link
-                  href="https://www.youtube.com/channel/UCBGbB7xVsmf-yQ8NXn7TOVg?view_as=subscriber"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <YouTube />
-                </Link>
-              </Grid>
+              </Grid>           
             </Grid>
           </Box>
         </Box>

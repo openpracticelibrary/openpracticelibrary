@@ -8,7 +8,7 @@ authors:
 tags:
   - insight
 mobiusTag: options
-icon: /images/screen-shot-2021-09-02-at-12.15.08-pm.png
+icon: /images/actionsteps-miro-template.png
 whatIs: >-
   Commitment to action
 
@@ -27,7 +27,7 @@ whyDo: >-
   It's also a great way to finish a workshop.
 
 
-  ![Whiteboard covered with sticky notes, and hand drawn feet with "Action Steps" written at the top](/images/actionsteps.png "Example of Action Steps in Action using sticky notes.")
+  ![Whiteboard covered with sticky notes, and hand drawn feet with "Action Steps" written at the top](/images/ActionSteps.jpg "Example of Action Steps in Action using sticky notes.")
 howTo: >-
   Talk: Ask everyone to reflect on the work that's been done, and how they might
   continue that work beyond the meeting.
@@ -53,8 +53,8 @@ howTo: >-
 
   Action Steps can be a useful practice to include at the end of a Retrospective, or following any activity that's generated a lot of ideas, and people want a clear idea of where to start, or what to do next.
 mediaGallery:
-  - link: /images/ActionSteps.png
-  - link: /images/SATE-actionsteps.JPG
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/master/static/images/ActionSteps.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/master/static/images/sate-actionsteps.jpg
 resources:
   - link: https://www.debono.com/Books/Six-Action-Shoes
     linkType: web

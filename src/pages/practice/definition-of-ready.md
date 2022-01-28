@@ -22,52 +22,55 @@ whyDo: |-
 howTo: >-
   ### Tips for Remote Working
 
-  * It is reasonable easy to find an agreement on both definition of ready and done remotely
 
-  * One person can be a facilitator writing it based on everyone input or everyone can co-edit
+  * It is reasonably easy to find an agreement on both definition of ready and done remotely
 
-  * Use virtual white boarding  tool and use techniques such as “roman voting’ or adding a sticky w/name to gain consensus.
+  * One person can be a facilitator writing it based on everyone's input or everyone can co-edit
+
+  * Use virtual white boarding tool and use techniques such as “roman voting’ or adding a sticky w/name to gain consensus.
+
 
   ### An Example
+
 
   Whilst Definitions of Ready should be specific to the teams using them, it helps to have an idea of what others teams are using. Included below is just one example current in use in AXA PPP Healthcare:
 
 
   > **DEFINITION OF READY** 
 
-  > 
-
-  >  
-
-  > 
+  >
 
   > User Stories meet *INVEST* criteria 
 
-  > 
+  >
 
-  >     Independent (of all others) 
+  > ```
 
-  > 
+  > Independent (of all others) 
 
-  >     Negotiable (not a specific contract for features) 
+  >
 
-  > 
+  > Negotiable (not a specific contract for features) 
 
-  >     Valuable 
+  >
 
-  > 
+  > Valuable 
 
-  >     Estimable (to a good approximation) 
+  >
 
-  > 
+  > Estimable (to a good approximation) 
 
-  >     Small (so as to fit within an iteration) 
+  >
 
-  > 
+  > Small (so as to fit within an iteration) 
 
-  >     Testable (in principle, even if there isn’t a test for it yet) 
+  >
 
-  > 
+  > Testable (in principle, even if there isn’t a test for it yet) 
+
+  > ```
+
+  >
 
   > *Must have Acceptance Criteria*
 mediaGallery:

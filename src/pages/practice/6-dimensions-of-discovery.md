@@ -40,13 +40,13 @@ whatIs: >-
 
   This practice originally focussed on challenges, but has been adapted to also explore Bright spots.  Bright spots are described in the book "[Switch: How to change, when change is hard](https://heathbrothers.com/books/switch/)" and has similarities with [Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry).
 whyDo: Quickly build shared understanding of the context of a given initiative,
-  uncover pain points (challenges) across the organisation, team or project, and
+  uncover pain points (challenges) across the organization, team or project, and
   reveal skills and strengths (bright spots) that should be harnessed to
   accelerate momentum towards the [target
   outcomes](https://openpracticelibrary.com/practice/target-outcomes/).
 howTo: >-
   Ask the group to **think** about the current bright spots and challenges they
-  experience, and then get them to **categorise** these across 6 these
+  experience, and then get them to **categorize** these across 6 these
   dimensions.
 
 
@@ -226,6 +226,9 @@ howTo: >-
   >
 
   > "direction and decision-making procedures and metrics for validating impacts to the project."
+
+
+  Credit to [David Worthington](https://www.linkedin.com/in/david-worthington-2b65b84/) and [Arash Dadras](https://www.linkedin.com/in/arash-dadras/) for introducing this practice.
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/6dimensions.png?raw=true
 participants:

@@ -4,7 +4,7 @@ title: Dissent Cards
 subtitle: Create an environment in which people can disagree in a productive way.
 date: 2021-06-25T15:22:49.248Z
 authors:
-  - only_chrisbh
+  - only-chrisbh
 tags:
   - ideate
   - insight

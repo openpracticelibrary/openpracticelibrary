@@ -58,7 +58,7 @@ howTo: >-
 
   * If you get the sense the room isn't comfortable speaking about it, you might try a [blind confidence vote](https://openpracticelibrary.com/practice/confidence-voting/) to find out who you need to talk to privately. Run the Confidence Vote as written in the link, but have everyone put their heads down and close their eyes before voting - that way it stays anonymous. Once you know who may be feeling uncomfortable by how everyone votes, you can set up private conversations with team members to learn more about what's contributing to the issue.
 
-  * Run a quick [Team Retro](https://openpracticelibrary.com/practice/retrospectives/) to tease out possible issues that may have contributed to yellow and red marbles
+  * Run a quick [Team Retro](https://openpracticelibrary.com/practice/retrospectives/) to tease out possible issues that may have contributed to yellow and red marbles.
 mediaGallery:
   - link: https://www.youtube.com/watch?v=dtcKaVoKj2A
   - link: https://github.com/openpracticelibrary/opl-media-service/blob/master/Mood%20Marbles%20Template.png?raw=true

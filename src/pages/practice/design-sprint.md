@@ -67,6 +67,7 @@ mediaGallery:
   - link: https://youtu.be/K2vSQPh6MCE
   - link: https://openpracticelibrary.github.io/opl-media/images/img_20181219_140828.jpg
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Design%20Sprint.jpeg?raw=true
+  - link: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Virtual_design_sprint_at_Wikimedia_Foundation_illustration.png/800px-Virtual_design_sprint_at_Wikimedia_Foundation_illustration.png
 resources:
   - link: http://www.gv.com/sprint/
     linkType: web
