@@ -64,9 +64,12 @@ resources:
   - link: https://kasperowski.com/checking-in-and-out/
     linkType: web
     description: "Checking In and Out: What’s That All About? - Richard Kasperowski"
+  - link: https://miro.com/app/board/uXjVORkuZf8=/?invite_link_id=676025339656
+    linkType: web
+    description: Miro Template
 people: 2+
 time: 5-10 minutes
 difficulty: easy
 participants:
-  - The Team /Workshop /Call Attendees
+  - The Team or Workshop Attendees
 ---
