@@ -39,7 +39,7 @@ howTo: >-
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/t2r2.jpg
 resources:
-  - link: https://podcasts.apple.com/us/podcast/t2r2-w-donna-benjamin/id1501715186?i=1000482347700
+  - link: https://anchor.fm/openpracticelibrary/episodes/T2R2-w-Donna-Benjamin-eg6ah7
     linkType: podcast
     description: Listen to the Open Practice Podcast episode about T2R2!
   - link: https://en.wikipedia.org/wiki/Zing_Technologies
