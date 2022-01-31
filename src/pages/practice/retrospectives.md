@@ -127,7 +127,7 @@ howTo: >-
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png
 resources:
-  - link: https://podcasts.apple.com/us/podcast/retrospectives-w-mary-provinciatto/id1501715186?i=1000486726700
+  - link: https://anchor.fm/openpracticelibrary/episodes/Retrospectives-w-Mary-Provinciatto-eh6acr
     linkType: podcast
     description: Retrospectives Open Practice Podcast Episode
   - link: http://amzn.eu/is9H7Az

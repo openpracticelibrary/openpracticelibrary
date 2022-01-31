@@ -62,7 +62,7 @@ resources:
     linkType: web
     description: Lean Coffee Facilitator's Guide
   - linkType: podcast
-    link: https://podcasts.apple.com/us/podcast/lean-coffee-w-prakriti-koller/id1501715186?i=1000533128785
+    link: https://anchor.fm/openpracticelibrary/episodes/Lean-Coffee-w-Prakriti-Koller-e166qv9
     description: Lean Coffee episode on Open Practice Podcast
 difficulty: easy
 participants:
