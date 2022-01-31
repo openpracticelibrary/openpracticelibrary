@@ -34,7 +34,8 @@ These steps should work on any platform.
 3. Check out this repo.
 4. Navigate to the directory where you checked out this repo.
 5. Run `npm install` to install dependencies.
-6. Run `gatsby develop` to serve the site.
+6. Run `npx netlify-cms-proxy-server` to start a local cms proxy server.
+7. Run `gatsby develop` in a new terminal to serve the site.
 
 ## Deploying
 
