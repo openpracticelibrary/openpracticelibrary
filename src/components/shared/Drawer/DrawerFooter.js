@@ -14,7 +14,7 @@ const DrawerFooter = () => (
       <ListItem
         button
         component="a"
-        href="https://podcasts.apple.com/us/podcast/open-practice-podcast/id1501715186"
+        href="https://anchor.fm/openpracticelibrary"
         target="_blank"
         rel="noreferrer"
       >
@@ -26,7 +26,7 @@ const DrawerFooter = () => (
       <ListItem
         button
         component="a"
-        href="https://forms.gle/tg5STmZmb2m6HwA87"
+        href="https://forms.gle/tyKLtvFf39MoWqsv7"
         target="_blank"
         rel="noreferrer"
       >
