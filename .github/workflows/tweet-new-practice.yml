@@ -1,16 +1,16 @@
-# This workflows sends a new tweet everytime a new practice is merged into master.
+# This workflows sends a new tweet everytime a new practice is merged into main.
 
 name: tweet-new-practice
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - "src/pages/practice/*.md"
 
 jobs:
   tweet:
-    runs-on: ubuntu-20.04 
+    runs-on: ubuntu-20.04
     steps:
       - name: checkout
         uses: actions/checkout@v2
