@@ -22,7 +22,7 @@ const Icon = {
 export default function ResourcesWeLove(props) {
   const [expanded, setExpanded] = React.useState(false);
   const resourceLinkList = () => {
-    if (Object.keys(props.links[0]).length !== 0) {
+    if (props.links.length !== 0 && Object.keys(props.links[0]).length !== 0) {
       const resourceList = props.links.filter(
         (resource) => (resource.link != null) ? (resource.link.length > 0) : false
       );
