@@ -33,7 +33,7 @@ howTo: >-
 
   3. Set the timer for eight minutes (1 min per section to sketch an idea)
 
-  4. Each team member sketches 8 variations of the same idea or 8 different ideas
+  4. Each team member sketches 8 variations of the same idea, or 8 different ideas into each section of the sheet of paper.
 
   5. When the timer goes off, put your pens down
 
