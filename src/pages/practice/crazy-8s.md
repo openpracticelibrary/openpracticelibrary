@@ -27,7 +27,7 @@ howTo: >-
   ### Steps
 
 
-  1. Give each participant a single sheet of printer paper and a sharpie
+  1. Give each participant a single sheet of printer paper and a sharpie.
 
   2. Have participants fold their sheet of paper in half 3 times, to make eight sections. Look at the image to get an idea of how that works. 
 
@@ -37,7 +37,7 @@ howTo: >-
 
   5. When the timer goes off, put your pens down.
 
-  6. Have team members spend 2 min presenting their 8 ideas to everyone
+  6. Have team members spend 2 min presenting their 8 ideas to everyone.
 
 
   ### Follow-on Activities
