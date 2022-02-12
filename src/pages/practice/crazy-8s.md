@@ -29,11 +29,11 @@ howTo: >-
 
   1. Give each participant a single sheet of printer paper and a sharpie
 
-  2. Have participants fold in half 3 times their paper to get eight sections (it should look like the paper in the header image for this post)
+  2. Have participants fold their sheet of paper in half 3 times, to make eight sections. Look at the image to get an idea of how that works. 
 
   3. Set the timer for eight minutes (1 min per section to sketch an idea)
 
-  4. Each team member sketches 8 variations of the same ide or 8 different ideas
+  4. Each team member sketches 8 variations of the same idea or 8 different ideas
 
   5. When the timer goes off, put your pens down
 
