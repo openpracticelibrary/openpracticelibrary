@@ -8,7 +8,7 @@ authors:
   - tom-geraghty
 tags: null
 mobiusTag: foundation
-icon: /images/needs-an-image.png
+icon: /images/meghan-lamle-rupbbdebcfs-unsplash.jpg
 whatIs: >-
   We talk a lot about organisational culture, team cultures, and "good" or "bad"
   cultures. And we also talk a lot about "culture change". But changing
@@ -18,21 +18,13 @@ whatIs: >-
   "typologies" that the majority of organisations could be aligned to:
 
 
-
-
   **Pathological** (power-oriented): These organisations are characterised by low cooperation across groups and a culture of blame. Information is often withheld for personal gain. 
-
-
 
 
   **Bureaucratic** (rule-oriented): Bureaucratic cultures are preoccupied with rules and positions, and responsibilities are compartmentalised by the department, with little concern for the overall mission of the organisation.
 
 
-
-
   **Generative** (performance-oriented): The hallmarks of a generative organisation are good information flow, high cooperation and trust, collaboration ("bridging") between teams, and conscious inquiry.
-
-
 
 
   You can see a break down of the characteristics of the each culture in this table:
@@ -57,12 +49,13 @@ whatIs: >-
   | Novelty crushed               | Novelty leads to problems | Novelty implemented        |
 
 
-
-
   Whilst this is certainly an over-simplification of an ambiguous and constantly changing concept of "culture", it's a really useful model to help understand current state, direction of travel, and identify areas of improvement.
 
 
   Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
+
+
+  Photo by [Meghan Lamle](https://unsplash.com/@mlamle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shouting-boss?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 whyDo: >-
   In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean
   Enterprise: How High Performance Organizations Innovate at Scale", which
