@@ -55,7 +55,7 @@ whatIs: >-
   Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
 
 
-  Photo by [Meghan Lamle](https://unsplash.com/@mlamle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/shouting-boss?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  Photo by [Meghan Lamle](https://unsplash.com/@mlamle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/rUpbBdEBCFs)
 whyDo: >-
   In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean
   Enterprise: How High Performance Organizations Innovate at Scale", which
