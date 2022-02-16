@@ -8,7 +8,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/needs-an-image.png
+icon: /images/20220216_180527.jpg
 whatIs: >-
   A method helping to make sustainable decisions in groups of any size without
   conflict. Consensing aims at the consideration of all voices of a group,
@@ -118,12 +118,13 @@ howTo: >-
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Systemic%20Consensus%202.jpg?raw=true
 resources:
+  - link: https://www.systemisches-konsensieren-trier.info/uploads/1/0/4/2/104259489/erich_und_volker_visotschnig_-_einf%C3%BChrung_in_systemisches_konsensieren.pdf
+    linkType: web
+    description: Free PDF by the inventors of this method (German language)
   - link: http://www.amazon.de/SK-Prinzip-Konflikte-ohne-Machtk%C3%A4mpfe-l%C3%B6st/dp/3800070960/ref=sr_1_1?s=books&ie=UTF8&qid=1291638226&sr=1-1
-    linkType: web
-    description: '"Das SK Prinzip - Wie man Konflikte ohne Machtkämpfe löst"'
-  - link: http://www.sk-prinzip.eu/wp-content/uploads/2017/05/Einführung-in-systemisches-Konsensieren.pdf
-    linkType: web
-    description: '"Einführung in systemisches Konsensieren"'
+    linkType: purchase
+    description: Amazon possibility to buy the book of the inventors of this method
+      (German language)
 participants:
   - The team
 area: foundation-culture-and-collaboration
