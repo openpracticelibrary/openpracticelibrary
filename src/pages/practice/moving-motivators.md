@@ -35,7 +35,7 @@ howTo: >-
   **Want to run this practice remotely? Here's some help to jump start your session 💻🙏** 
 
 
-  * [Moving Motivators Template on Miro](https://miro.com/app/board/o9J_kliJQ9o=/)
+  * [Moving Motivators Template on Miro](https://miro.com/miroverse/moving-motivators/)
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/moving%20motivators.png?raw=true
   - link: https://openpracticelibrary.github.io/opl-media/images/2018-09-28-08.04.09.jpg
