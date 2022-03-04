@@ -8,7 +8,7 @@ authors:
   - jonathanjohnston
 tags: []
 mobiusTag: discovery
-icon: /images/needs-an-image.png
+icon: /images/stakeholder-map-1.jpg
 whatIs: It is a practice that helps you to understand more about your customer,
   mapping stakeholders and agreeing ways of communicating with different
   teams/people. The target outcome is to have a stakeholder map and a
