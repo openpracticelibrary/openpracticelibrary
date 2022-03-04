@@ -17,10 +17,10 @@ mobiusTag: foundation
 icon: /images/social-contract.jpg
 whatIs: >-
   The Social Contract is a simple and effective way to enable team autonomy and
-  self accountability for engagements. The Social Contract is created by and for
-  the team.  It looks to codify the behaviors and expectations of the team. It
-  also provides a mechanism for the team to radiate and share its desired
-  behaviours with management and other stakeholders.
+  self accountability for engagements. The Social Contract or Agreement is
+  created by and for the team.  It looks to codify the behaviors and
+  expectations of the team. It also provides a mechanism for the team to radiate
+  and share its desired behaviours with management and other stakeholders.
 
 
   To effectively use this practice you should look to create the following outcomes:
