@@ -10,16 +10,17 @@ authors:
   - springdo
   - infosec812
   - ilaria66
+  - kattekrab
 tags:
   - culture
 mobiusTag: foundation
 icon: /images/social-contract.jpg
 whatIs: >-
-  The Social Contract is a simple, yet highly effective manner to enable team
-  autonomy and self accountability for engagements. The Social Contract is
-  created by and for the team.  It looks to codify the behaviors and
-  expectations of the team. It also provides a mechanism for the team to radiate
-  and share its desired behaviours with management and other stakeholders.
+  The Social Contract is a simple and effective way to enable team autonomy and
+  self accountability for engagements. The Social Contract is created by and for
+  the team.  It looks to codify the behaviors and expectations of the team. It
+  also provides a mechanism for the team to radiate and share its desired
+  behaviours with management and other stakeholders.
 
 
   To effectively use this practice you should look to create the following outcomes:
@@ -161,30 +162,18 @@ resources:
   - link: https://anchor.fm/openpracticelibrary/embed/episodes/Social-Contracts-w-Omar-McNeil-ecf9e1
     linkType: podcast
     description: Learn more by listening to the Open Practice Podcast episode!
-  - link: https://openpracticelibrary.com/practice/retrospectives/
-    linkType: web
-    description: Retrospectives
-  - link: http://www.funretrospectives.com/collaborative-face-drawing/
-    linkType: web
-    description: Collaborative Face Drawing
-  - link: https://www.scrumalliance.org/community/articles/2014/january/work-agreements-for-a-scrum-team
-    linkType: web
-    description: Working Agreements for a Scrum Team
-  - link: https://theagileexecutive.com/tag/social-contract/
-    linkType: web
-    description: Social Contract
-  - link: https://leanpub.com/dynamicreteaming
-    linkType: web
-    description: Dynamic Reteaming
   - link: https://medium.com/@springdo/social-contracts-6c62c4588b6e
     linkType: web
     description: Social Contracts - The best thing your teams aren't doing
-  - link: https://app.mural.co/template/ad9c8315-03b7-4f21-98b0-a8dac0d56601/f5a36cb3-25d3-4014-bf46-34417b460d29
+  - link: https://theagileexecutive.com/tag/social-contract/
     linkType: web
-    description: Social Contract MURAL Template
-  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+    description: Social Contract - The Agile Executive
+  - link: https://resources.scrumalliance.org/Article/facilitate-powerful-working-agreements
     linkType: web
-    description: Remote Facilitation Tips
+    description: Facilitate powerful working agreements - Scrum Alliance
+  - link: https://www.oreilly.com/library/view/dynamic-reteaming-2nd/9781492061281/
+    linkType: purchase
+    description: Dynamic Reteaming - Book - Heidi Helfand
 participants:
   - Facilitator
   - Team Members
