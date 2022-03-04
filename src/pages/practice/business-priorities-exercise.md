@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Business Priorities Exercise
-subtitle: Business Priorities
+subtitle: Get alignment on what will drive value and realise goals.
 date: 2020-05-27T10:03:44.374Z
 authors:
   - kelaird
