@@ -39,4 +39,4 @@ These steps should work on any platform.
 
 ## Deploying
 
-When changes are merged to master, the `npm run build` script will run, and the site will be deployed to https://openpracticelibrary.com. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master) shows the status of each build.
+When changes are merged to main, the `npm run build` script will run, and the site will be deployed to https://openpracticelibrary.com. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=main) shows the status of each build.

@@ -57,7 +57,7 @@ howTo: >-
   - Trunk Based Development and [Continuous
   Deployment](/practice/continuous-deployment/). Developers use feature flags to
   avoid long lived branches. Using a feature flag for functionality in
-  development allows a developer to merge their code daily into the master
+  development allows a developer to merge their code daily into the main
   branch.
 
 
@@ -215,7 +215,7 @@ There are many ways feature flags are used:
 - [Multivari Testing](/practice/split-testing-multivari-testing/)
 - Turning things off with a kill switch.
 - Migrations or upgrades to a service.
-- Trunk Based Development and [Continuous Deployment](/practice/continuous-deployment/). Developers use feature flags to avoid long lived branches. Using a feature flag for functionality in development allows a developer to merge their code daily into the master branch.
+- Trunk Based Development and [Continuous Deployment](/practice/continuous-deployment/). Developers use feature flags to avoid long lived branches. Using a feature flag for functionality in development allows a developer to merge their code daily into the main branch.
 
 ## Why & How to combine it with other practices?
 

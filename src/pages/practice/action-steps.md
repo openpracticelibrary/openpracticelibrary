@@ -53,8 +53,8 @@ howTo: >-
 
   Action Steps can be a useful practice to include at the end of a Retrospective, or following any activity that's generated a lot of ideas, and people want a clear idea of where to start, or what to do next.
 mediaGallery:
-  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/master/static/images/ActionSteps.jpg
-  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/master/static/images/sate-actionsteps.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/ActionSteps.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/sate-actionsteps.jpg
 resources:
   - link: https://www.debono.com/Books/Six-Action-Shoes
     linkType: web
