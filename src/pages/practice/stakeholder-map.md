@@ -8,7 +8,7 @@ authors:
   - jonathanjohnston
 tags: []
 mobiusTag: discovery
-icon: /images/needs-an-image.png
+icon: /images/stakeholder-map-1.jpg
 whatIs: It is a practice that helps you to understand more about your customer,
   mapping stakeholders and agreeing ways of communicating with different
   teams/people. The target outcome is to have a stakeholder map and a
@@ -26,7 +26,7 @@ whyDo: >-
 
 
   If there is not a Product Owner, look for a Project Manager or more generically the customer in charge of the initiative you are engaged with.
-howTo: >-
+howTo: >
   ## Facilitation Materials Needed
 
   * Whiteboard, sticky notes, pens or
@@ -141,6 +141,15 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
+  - link: https://tools4dev.org/resources/stakeholder-analysis-matrix-template/
+    linkType: web
+    description: Stakeholder Analysis Matrix Template - Tools4Dev
+  - link: https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/
+    linkType: web
+    description: Stakeholder engagement analysis - Roman Pichler
+  - link: https://skat.ihmc.us/rid=1JGD4CJZ4-F9CF0Y-1KM6/SEMINAL%20stakeholder%20mapping%20in%203d.pdf
+    linkType: web
+    description: Making Sense of Stakeholder Mapping - Ruth Murray-Webster & Peter Simon
 participants:
   - Facilitator
   - Key Actors
