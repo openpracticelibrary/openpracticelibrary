@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Risk Radar - Monitoring and Controlling Risks
-subtitle: process to make sure our risk strategies are effective
+title: Risk Radar
+subtitle: "Keep risks in view for effective monitoring and control "
 date: 2022-01-14T21:16:23.177Z
 authors:
   - desra
