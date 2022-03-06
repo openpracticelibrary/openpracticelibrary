@@ -22,17 +22,17 @@ whatIs: >-
 
   Everything as Code includes system design, also stored as code. In old world IT, infrastructure required specialised skills and physical hardware and cables to be installed. Systems were precious or were not touched / updated often as the people who created them no longer work for the company. The dawn of cloud computing and cloud native applications has meant it is cheap and easy to spin up virtual infrastructure. By storing the configuration of virtual environments as code, they can be life-cycled and recreated whenever needed.
 whyDo: >-
-  1. Traceability - storing your config in `git` implies controls are in place
-  to track who / why a config has changed. Changes can be applied and reverted
-  and are tracked to a single user who made the change.
+  1. **Traceability** - storing your config in `git` implies controls are in
+  place to track who / why a config has changed. Changes can be applied and
+  reverted and are tracked to a single user who made the change.
 
-  2. Repeatable - moving from one cloud provider to another should be simple in modern application development. Picking a deployment target should be like shopping around for the best price that week. By storing all things as code, systems can be re-created in moments in various providers.
+  2. **Repeatable** - moving from one cloud provider to another should be simple in modern application development. Picking a deployment target should be like shopping around for the best price that week. By storing all things as code, systems can be re-created in moments in various providers.
 
-  3. Tested - Infra and code can be rolled out, validated and promoted into production environments with confidence and assurance it will behave as expected.
+  3. **Tested** - Infra and code can be rolled out, validated and promoted into production environments with confidence and assurance it will behave as expected.
 
-  4. Phoenix server - No more fear of a servers' configuration drifting. If a server needs to be patched or randomly dies, it's OK. Just create it again from the stored configuration.
+  4. **Phoenix server** - No more fear of a servers' configuration drifting. If a server needs to be patched or randomly dies, it's OK. Just create it again from the stored configuration.
 
-  5. Shared understanding - When a cross-functional team is using 'Everything as Code' to describe all the parts of the Product they are developing together, they contribute to increase the shared understanding between Developers and Operations, they speak same language to describe the state of this Product and they use the same frameworks to accomplish their goals.
+  5. **Shared understanding** - When a cross-functional team is using 'Everything as Code' to describe all the parts of the Product they are developing together, they contribute to increase the shared understanding between Developers and Operations, they speak same language to describe the state of this Product and they use the same frameworks to accomplish their goals.
 howTo: >-
   * [Martin Fowler](https://martinfowler.com/bliki/InfrastructureAsCode.html) on
   Infra as Code.
