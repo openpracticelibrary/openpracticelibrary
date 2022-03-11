@@ -9,7 +9,7 @@ mobiusTag: delivery
 icon: /images/istockphoto-1330287885-612x612.jpg
 whatIs: This practice ensures the team continues to update their risk log,
   analysis, and strategies as the project progresses and the environment
-  changes.
+  changes. test
 whyDo: Complacency is a top killer for projects. If a team becomes complacent
   and fails to monitor risks (or identify new ones), a project can suffer.
 howTo: >-
