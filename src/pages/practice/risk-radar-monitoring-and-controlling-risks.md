@@ -7,7 +7,7 @@ authors:
   - desra
 mobiusTag: delivery
 icon: /images/istockphoto-1330287885-612x612.jpg
-whatIs: The practice ensures the team continues to update their risk log,
+whatIs: This practice ensures the team continues to update their risk log,
   analysis, and strategies as the project progresses and the environment
   changes.
 whyDo: Complacency is a top killer for projects. If a team becomes complacent
