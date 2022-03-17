@@ -5,6 +5,7 @@ subtitle: A simple workshop for getting shared understanding in a complex space
 date: 2020-08-02T12:04:58.410Z
 authors:
   - springdo
+  - joishika
 mobiusTag: discovery
 icon: /images/big-pic.png
 whatIs: An Open Tech practice that costs little to produce but is great in
