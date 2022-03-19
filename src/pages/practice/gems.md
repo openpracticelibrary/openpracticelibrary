@@ -5,7 +5,7 @@ subtitle: An alternative to OKRs (Objective Key Results) for those that think in
   experiments
 date: 2021-12-14T09:36:59.966Z
 authors:
-  - only_chrisbh
+  - only-chrisbh
 tags:
   - methods
 mobiusTag: foundation
