@@ -32,11 +32,13 @@ A practice is an activity that helps teams achieve specific goals. It's not just
 - **Replicable** - It can be repeated across a variety of situations.
 - **Learned** - It is not innate knowledge  but rather habituated — and thus teachable!
 
+<!--
 ## What is a perspective?
 
 A perspective is an idea that underpins a group of practices. It's a way of framing a problem. It's not something that you do; it's something that you have in mind as you do the practices.
 
 For example, [Domain Driven Design](/blog/domain-driven-design/) is the perspective behind [Impact Mapping](/practice/impact-mapping/), [Event Storming](/practice/event-storming/), and [Start at the End](/practice/start-at-the-end/).
+-->
 
 ## Gathering Feedback
 
