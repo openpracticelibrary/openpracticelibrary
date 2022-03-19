@@ -4,7 +4,7 @@ title: Fly on the Wall
 subtitle: "A Crowdsourced Approach to Problem Solving "
 date: 2021-12-13T16:29:53.148Z
 authors:
-  - only_chrisbh
+  - only-chrisbh
 tags:
   - validate
 mobiusTag: discovery
