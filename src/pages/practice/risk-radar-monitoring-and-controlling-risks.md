@@ -1,13 +1,13 @@
 ---
 templateKey: practice-page
-title: Risk Radar - Monitoring and Controlling Risks
-subtitle: process to make sure our risk strategies are effective
+title: Risk Radar
+subtitle: "Keep risks in view for effective monitoring and control "
 date: 2022-01-14T21:16:23.177Z
 authors:
-  - desra
+  - daveesra
 mobiusTag: delivery
 icon: /images/istockphoto-1330287885-612x612.jpg
-whatIs: The practice ensures the team continues to update their risk log,
+whatIs: This practice ensures the team continues to update their risk log,
   analysis, and strategies as the project progresses and the environment
   changes.
 whyDo: Complacency is a top killer for projects. If a team becomes complacent
