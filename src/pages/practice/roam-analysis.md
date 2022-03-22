@@ -30,6 +30,14 @@ howTo: >-
   * Sprint and/or Program Planning
 
 
+  **Materials Needed**
+
+
+  * In person: whiteboard, post-its, markers
+
+  * Virtual: a virtual whiteboard tool like miro or Mural would be idea to allow for full group brainwriting
+
+
   **How to Start**
 
 
@@ -46,14 +54,6 @@ howTo: >-
   4. Before concluding, review the list of "owned" risks to ensure an owner has been identified to follow up on how to address these risks.
 
 
-  **Materials Needed**
-
-
-  * In person: whiteboard, post-its, markers
-
-  * Virtual: a virtual whiteboard tool like miro or Mural would be idea to allow for full group brainwriting
-
-
   **OPTIONAL: Start with Risk Mapping**
 
 
@@ -66,6 +66,7 @@ resources:
   - link: https://openpracticelibrary.com/practice/risk-issue-management/
     linkType: web
     description: Risk Management (OPL)
+time: 30 - 60 minutes
 difficulty: easy
 participants: []
 ---
