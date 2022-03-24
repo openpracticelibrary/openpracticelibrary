@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Blameless Postmortem
-subtitle: Turn incident into an investment to future reliability
+subtitle: Turn incident into an investment in future reliability
 date: 2022-03-22T11:10:08.413Z
 authors:
   - jfilipcz
