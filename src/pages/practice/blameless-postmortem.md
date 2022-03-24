@@ -8,7 +8,7 @@ authors:
 tags:
   - learn
 mobiusTag: delivery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/markus-winkler-afw1hht0nss-unsplash.jpg
 whatIs: >-
   Blameless Postmortem is a post-incident practice assessing an incident or
   other types of outages, its timeline, environment conditions, and all possible
