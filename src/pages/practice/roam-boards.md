@@ -10,7 +10,7 @@ tags:
   - methods
 mobiusTag: foundation
 icon: /images/arboretum.jpg
-whatIs: >
+whatIs: >-
   ROAM Boards are a simple visualization for categorizing project or program
   risks into four categories:
 
@@ -33,7 +33,7 @@ whatIs: >
   **Mitigated** risks are those that we can lessen the effect of by taking some action.  Note that categorization of risks as mitigated means that we have already taken that action.
 
 
-  Finally, **Owned** risks require someone to own them.  More on that in *How Do I Execute ROAM Boards*.
+  Finally, **Owned** risks require someone to own them.  More on that in *How to do ROAM Boards*.
 whyDo: >-
   Often when we start projects we are well aware that not everything will go
   according to plan and we may even have a methodology or process for risk
@@ -43,6 +43,9 @@ whyDo: >-
 
 
   The impact of ROAM boards is defined through a collaborative effort throughout the lifetime of the program.  This encourages those involved to think creatively about how not only to solve or mitigate those problems, but also creates a sense of shared responsibility needed to uncover the hard problems that may end up being roadblocks to program success.
+
+
+  ROAM boards are scalable and can be used for individual teams as well as large programs of work.
 howTo: >-
   This activity should be done at the project kickoff as one of the final
   activities.  It should come after planning as a way to assess the overall plan
@@ -91,7 +94,10 @@ howTo: >-
   Lastly, the team should now have a way to keep up with the risks on a weekly or bi-weekly cadence.  This could be done during sprint planning or backlog refinement or even during scrum of scrums if the team is large enough.
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/ROAM_Analysis.png?raw=true
-resources: []
+resources:
+  - link: https://miro.com/templates/safe-roam-board/
+    linkType: web
+    description: Miro Template
 time: 30-60 minutes
 difficulty: moderate
 participants:
