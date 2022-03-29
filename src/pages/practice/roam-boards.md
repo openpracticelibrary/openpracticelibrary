@@ -88,6 +88,9 @@ howTo: >-
 
 
   Lastly, the team should now have a way to keep up with the risks on a weekly or bi-weekly cadence.  This could be done during sprint planning or backlog refinement or even during scrum of scrums if the team is large enough.
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/ROAM_Analysis.png?raw=true
+resources: []
 time: 30-60 minutes
 difficulty: moderate
 participants:
