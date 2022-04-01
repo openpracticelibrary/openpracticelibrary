@@ -90,6 +90,9 @@ resources:
     linkType: web
     description: Wikipedia entry for Volatility, Uncertainty, Complexity and
       Ambiguity (VUAT)
+  - link: https://www.slideshare.net/OllieStevensonGoldsm/strategy-in-a-lean-enterprise
+    linkType: web
+    description: "ThoughtWorks: Strategy in a Lean Enterprise Slide Deck"
 participants:
   - Product Owners
   - The Team
