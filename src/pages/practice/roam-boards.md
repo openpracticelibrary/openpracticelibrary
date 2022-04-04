@@ -5,7 +5,7 @@ subtitle: A Foundational Practice for Risk Management
 date: 2021-03-24T17:42:58.673Z
 authors:
   - willowmck
-  - manapio
+  - mattnapro
 tags:
   - methods
 mobiusTag: foundation
