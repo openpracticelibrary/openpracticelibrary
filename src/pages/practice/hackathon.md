@@ -43,16 +43,17 @@ howTo: >-
   practices that can be found in the Open Practice Library. 
 
 
-  In addition, below you can find a suggested agenda for a one day hackathon:
+  ## Suggested Agenda
 
+   Below you can find a suggested agenda for a one day hackathon.
 
-  Previous Day:  
+  **Previous Day:**  
 
 
   1. Team Building Social - quiz or similar activity
 
 
-  Hack Day:
+  **Hack Day:**
 
 
   1. Energiser 
@@ -76,7 +77,10 @@ howTo: >-
   10. What's Next
 
 
-  The suggested practices and tools to take advantage of during a Hackathon includes:
+  ## Suggested Practices
+
+
+  Below you can find the suggested practices and tools to take advantage of during a Hackathon.
 
 
   * [Agile Agenda ](https://openpracticelibrary.com/practice/agile-agenda/)
@@ -94,6 +98,26 @@ howTo: >-
   * [Check-ins](https://openpracticelibrary.com/practice/check-ins/) 
 
   * [Lean Coffee ](https://openpracticelibrary.com/practice/lean-coffee/)
+
+
+  ## What do I need? 
+
+
+  * A Facilitator
+
+  * Participants 
+
+  * Miro (or similar) for virtual environments 
+
+  * In person environment:
+
+    * Writing utensils for all participants (markers are easier to read from a distance)
+    * Sticky notes (any medium size)
+    * Time keeping device
+    * Wall surface or table
+
+  ## How to use it?
+resources: []
 people: 8+ ?
 time: At least one day
 difficulty: easy
