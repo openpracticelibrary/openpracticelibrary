@@ -98,7 +98,7 @@ whyDo: >-
   * MBPM can be used to view the detailed, micro picture and make tactical
   improvements with frontline workers
 
-  * It is an ideal practice for process improvement related activities. For example, it's ideal for use when adopting technology automation solutions to automate a business process. 
+  * It is an ideal practice for process/workflow improvement related activities. For example, it's ideal for use when adopting technology automation solutions to automate a business process. 
 
   * Use the practice to determine a performance baseline, such as the quantity of resources and time involved before automation or process improvement is performed and again after to measure the value gained from automation or process improvement.
 
