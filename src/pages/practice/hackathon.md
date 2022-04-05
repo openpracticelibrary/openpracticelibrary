@@ -43,7 +43,7 @@ howTo: >-
   practices that can be found in the Open Practice Library. 
 
 
-  In addition, below you can find a suggested agenda for a one day Hackathon:
+  In addition, below you can find a suggested agenda for a one day hackathon:
 
 
   Previous Day:  
@@ -74,6 +74,26 @@ howTo: >-
   9. Presentations
 
   10. What's Next
+
+
+  The suggested practices and tools to take advantage of during a Hackathon includes:
+
+
+  * [Agile Agenda ](https://openpracticelibrary.com/practice/agile-agenda/)
+
+  * [Car Park](https://openpracticelibrary.com/practice/parking-lot-car-park/)
+
+  * [Mood Marbles ](https://openpracticelibrary.com/practice/mood-marbles/)
+
+  * [Real Time Retrospective ](https://openpracticelibrary.com/practice/realtime-retrospective/)
+
+  * Back / On Break
+
+  * Energisers
+
+  * [Check-ins](https://openpracticelibrary.com/practice/check-ins/) 
+
+  * [Lean Coffee ](https://openpracticelibrary.com/practice/lean-coffee/)
 people: 8+ ?
 time: At least one day
 difficulty: easy
