@@ -119,7 +119,10 @@ howTo: >-
   ## How to use it?
 
 
-  One of the key parts to a Hackathon is the Lean Coffee. This practice enables participants create, plan, discuss, and prepare the topics in an open environment. Additionally, ways of working will also be included within the Lean Coffee, where participants group together in pairs or mobs to work towards a shared common goal.
+  One of the key suggested elements to a Hackathon is the Lean Coffee. This practice enables participants create, plan, and prepare the topics in an open environment. Additionally, within the Lean Coffee, ways of working is discussed, resulting in a participants grouped together in pairs or mobs to work towards a shared common goal.
+
+
+  Other practices that have been included in the suggested agenda provide the
 resources: []
 people: 8+ ?
 time: At least one day
