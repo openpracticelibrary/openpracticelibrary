@@ -23,11 +23,11 @@ whatIs: >-
 whyDo: >-
   * Harnesses creative problem solving 
 
-  * Unmatched knowledge gain over such a short period of time
+  * Unmatched knowledge gain over a short period of time
 
   * Gives the foundations to creating an open working environment 
 
-  * Provide a space for participants to explore interests 
+  * Provides a space for participants to explore interests 
 
   * Creates an environment for exploration and discovery
 
