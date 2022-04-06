@@ -123,7 +123,7 @@ howTo: >-
 
   The other practices that have been included in the suggested agenda work as great complimentary pieces to the overall search for team discovery. The Miro template demonstrates how each practice works together to build an engaging team event.
 resources: []
-people: 8+ ?
+people: "8+ "
 time: At least one day
 difficulty: easy
 participants: []
