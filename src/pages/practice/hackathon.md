@@ -5,6 +5,7 @@ subtitle: A collaborative event which encourages teams to come together and
   build solutions
 date: 2022-04-05T12:20:35.361Z
 authors:
+  - nick-woods
   - marthachittendenmilton
 tags: null
 mobiusTag: discovery
@@ -99,7 +100,7 @@ howTo: >-
   * [Lean Coffee ](https://openpracticelibrary.com/practice/lean-coffee/)
 
 
-  ## What do I need? 
+  ## What do I need?
 
 
   * A Facilitator
@@ -116,6 +117,9 @@ howTo: >-
     * Wall surface or table
 
   ## How to use it?
+
+
+  One of the key parts to a Hackathon is the Lean Coffee. This practice enables participants create, plan, discuss, and prepare the topics in an open environment. Additionally, ways of working will also be included within the Lean Coffee, where participants group together in pairs or mobs to work towards a shared common goal.
 resources: []
 people: 8+ ?
 time: At least one day
