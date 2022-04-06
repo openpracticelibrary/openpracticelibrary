@@ -5,7 +5,6 @@ subtitle: A collaborative event which encourages teams to come together and
   build solutions
 date: 2022-04-05T12:20:35.361Z
 authors:
-  - nick-woods
   - marthachittendenmilton
 tags: null
 mobiusTag: discovery
