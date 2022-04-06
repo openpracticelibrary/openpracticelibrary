@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: Hackathon
-subtitle: A collaborative event which encourages teams to come together and
-  build solutions
+subtitle: A collaborative event; encouraging teams to come together and build solutions
 date: 2022-04-05T12:20:35.361Z
 authors:
   - nick-woods
