@@ -122,7 +122,7 @@ howTo: >-
   One of the key suggested elements to a Hackathon is the Lean Coffee. This practice enables participants create, plan, and prepare the topics in an open environment. Additionally, within the Lean Coffee, ways of working is discussed, resulting in a participants grouped together in pairs or mobs to work towards a shared common goal.
 
 
-  Other practices that have been included in the suggested agenda provide the
+  The other practices that have been included in the suggested agenda work as great complimentary pieces to the overall search for team discovery. The Miro template demonstrates how each practice works together to build an engaging team event.
 resources: []
 people: 8+ ?
 time: At least one day
