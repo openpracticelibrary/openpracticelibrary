@@ -38,6 +38,7 @@ howTo: >-
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Rose%20Chart%20Example.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Rose%20Chart%20Blank.png?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/Rose%20Chart%20Example.png?raw=true
 resources:
   - link: https://www.slideshare.net/JerryBecker/rose-chart-template
     linkType: web
