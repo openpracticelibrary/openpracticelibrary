@@ -7,8 +7,8 @@ date: 2021-10-07T10:17:30.178Z
 authors:
   - skriesch
 tags:
-  - methods
-mobiusTag: foundation
+  - insight
+mobiusTag: options
 icon: /images/kanban-board.png
 whatIs: >
   The team can be really diverse and you can have also introverted people.

@@ -47,6 +47,7 @@ whyDo: >-
 howTo: >-
   ### Who do you need?
 
+
   * Facilitator
 
   * Product Owner
@@ -55,9 +56,12 @@ howTo: >-
 
   * Architects
 
+
   ### Suggested Time
 
+
   For the shortened variation:
+
 
   * 2-4 hours of prep to establish a goal or problem statement *before* the session. This is important, or your session will go sideways!
 
@@ -72,20 +76,26 @@ howTo: >-
 
   *For the executive level session format, see the Impact Mapping book in the links section below.*
 
+
   ### Difficulty
+
 
   * Facilitator: Moderate
 
   * Participants: Easy
 
+
   ### Facilitation Materials Needed
+
 
   Digital Variation:
 
-  * a mind mapping tool. we recommend coggle (check the links section below)
+
+  * a tool capability of building mind map like visualisations, for example Miro, Mural or Coggle (check the links section below).
 
 
   Physical Variation:
+
 
   * a large whiteboard
 
@@ -95,11 +105,15 @@ howTo: >-
 
   * markers for stickies
 
+
   ### How does it fit?
+
 
   * Typically done in the Why area of the Discovery of the Open Practice Library
 
+
   ### Tips for remote sessions
+
 
   Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft GOAL done by your Product Owner.
 
@@ -115,7 +129,9 @@ howTo: >-
 
   Be sure everyone is aware of commands to move multiple sticky-notes in a large map.
 
+
   ### Related Practices
+
 
   * [Start At The End](/practice/start-at-the-end/) is another practice which leads to the same outputs. Compared to Start At The End, Impact Mapping produces a higher fidelity understanding of the domain, but at the cost of increased complexity for facilitation. Generally speaking, Impact Mapping is the better fit when building products or services, and Start At The End is a better fit when discussing organizational change or other generally nebulous efforts.
 mediaGallery:
@@ -148,6 +164,12 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
+  - link: https://www.miro.com
+    linkType: web
+    description: Miro - Virtual Collaboration Tool
+  - description: Mural - Virtual Collaboration Tool
+    link: https://www.mural.co
+    linkType: web
 participants:
   - Facilitator
   - Product Owner

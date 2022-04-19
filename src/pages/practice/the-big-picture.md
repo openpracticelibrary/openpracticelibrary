@@ -5,6 +5,7 @@ subtitle: A simple workshop for getting shared understanding in a complex space
 date: 2020-08-02T12:04:58.410Z
 authors:
   - springdo
+  - joishika
 mobiusTag: discovery
 icon: /images/big-pic.png
 whatIs: An Open Tech practice that costs little to produce but is great in
@@ -48,6 +49,7 @@ howTo: >-
 mediaGallery:
   - link: https://www.youtube.com/watch?v=qXb1naW0zdY
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/big-pic.png?raw=true
+  - link: https://youtu.be/8fDkmnshIJg
 resources:
   - link: https://anchor.fm/openpracticelibrary/episodes/The-Big-Picture-w-Haitham-Shahin-ehg7d6
     linkType: podcast
