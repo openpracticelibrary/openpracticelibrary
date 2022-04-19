@@ -17,7 +17,7 @@ We're using the "optimistic merging" strategy to make contributing simple and en
   - Does not break our Code of Conduct  
 5. If the PR is a "correct patch", the maintainer merges the PR. If not, the maintainer provides feedback.
 
-If the person reviewing the PR has feedback on a change that is a "correct patch", he or she will merge the PR and include that feedback in a new issue.
+If the person reviewing the PR has feedback on a change that is a "correct patch", they will merge the PR and include that feedback in a new issue.
 
 To learn more, see [Why Optimistic Merging Works Better](http://hintjens.com/blog:106) and [Collective Code Construction Contract (C4)](https://rfc.zeromq.org/spec:42/C4/) from Pieter Hintjens, who coined the term "optimistic merging". The Open Practice Library community has discussed this way of working in #208.
 
@@ -39,4 +39,4 @@ These steps should work on any platform.
 
 ## Deploying
 
-When changes are merged to master, the `npm run build` script will run, and the site will be deployed to https://openpracticelibrary.com. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=master) shows the status of each build.
+When changes are merged to main, the `npm run build` script will run, and the site will be deployed to https://openpracticelibrary.com. The [build log](https://app.netlify.com/sites/openpracticelibrary/deploys?filter=main) shows the status of each build.

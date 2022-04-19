@@ -65,7 +65,7 @@ howTo: >-
 
   VSM pairs particularly well with the [Metrics-Based Process Mapping](https://openpracticelibrary.com/practice/metrics-based-process-mapping/) (MBPM) practice.  Used together, VSM represents the flow of value through a system at a macro level in order to make strategic improvements whereas MBPM represents the micro lower-level flow in order to make tactical improvements.
 mediaGallery:
-  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/master/static/images/vsm.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/vsm.jpg
 resources:
   - link: https://vimeo.com/149407030
     linkType: video

@@ -19,7 +19,7 @@ The [Open Practice Library](https://openpracticelibrary.com) provides informatio
 ### Content Moderators
 
 1. Once a PR is raised, the option will be to review for changes or to merge to `staging`. This will deploy the app to [https://staging.openpracticelibrary.com](https://staging.openpracticelibrary.com). 
-2. If the changes look good and are to be promoted to the main domain, raise a PR from `staging` to `master` and merge it. The automation will kick in and deploy the site to the main domain [https://openpracticelibrary.com](https://openpracticelibrary.com).
+2. If the changes look good and are to be promoted to the main domain, raise a PR from `staging` to `main` and merge it. The automation will kick in and deploy the site to the main domain [https://openpracticelibrary.com](https://openpracticelibrary.com).
 
 ## Contributing
 

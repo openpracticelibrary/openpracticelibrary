@@ -8,7 +8,7 @@ authors:
   - kartiknarayanan
 tags: []
 mobiusTag: delivery
-icon: /images/needs-an-image.png
+icon: /images/story-kickoff.jpeg
 whatIs: >-
   * A joint walkthrough/explanation of the story by the product owner with the
   pair of developers who will be working on it; right before development starts
