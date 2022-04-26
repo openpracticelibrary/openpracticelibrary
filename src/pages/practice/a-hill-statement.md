@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Hill Statements
+title: Hills
 subtitle: Hills communicate our intent for a project with clarity and
   flexibility. They frame problems as intended user outcomes, not predetermined
   implementations, empowering teams to discover breakthrough solutions. They
@@ -8,7 +8,7 @@ subtitle: Hills communicate our intent for a project with clarity and
   stand in our way.
 date: 2022-04-26T15:25:06.728Z
 authors:
-  - IBM
+  - nicholasmakesthings
 tags:
   - value
 mobiusTag: discovery
