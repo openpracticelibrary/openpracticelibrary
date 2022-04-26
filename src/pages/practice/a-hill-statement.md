@@ -45,10 +45,13 @@ whatIs: >-
 
   Sometimes a Hill is necessarily complex and might benefit from another level of decomposition to further divide the work. If you choose to write Sub-Hills, make sure each one is still a proper Hill that, if independently released, still delivers meaningful value to users.
 whyDo: >-
-  "**I can't wait to log in" - No One Ever**
+  "**I can't wait to log in and create an account!" - No one, ever**
 
 
-  Use Hills when you notice the team is misaligned on what 'value' actually is.  Take an example like 'logging in' - often called 'foundational functionality' but to whom does it deliver value? To the end user? To the product team? To the business? To the customer? Value is incredibly subjective, and unless we're able to articulate end user value, we're delivering technology that aspires to deliver value, but the target is still fuzzy.
+  Use Hills when you notice the team is misaligned on what 'value' and end-user value actually is.  
+
+
+  Take an example like 'logging in' - often called 'foundational functionality' but to whom does it deliver value? To the end user? To the product team? To the business? To the customer? Value is incredibly subjective, and unless we're able to articulate end user value, we're delivering technology that aspires to deliver value, but the target is still fuzzy.
 
 
   Hills articulate a user centered definition of done that allows the team to clearly understand if what they are delivering aligns with users expectations, not project timelines, delivery calendars, or Red Hat business goals. You either delivered value to the end user or you did not.  Without a clearly defined Hill, a team may never know if they achieved the goal. 
