@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: A Hill Statement
+title: Hill Statements
 subtitle: Hills communicate our intent for a project with clarity and
   flexibility. They frame problems as intended user outcomes, not predetermined
   implementations, empowering teams to discover breakthrough solutions. They
@@ -45,11 +45,13 @@ whatIs: >-
 
   Sometimes a Hill is necessarily complex and might benefit from another level of decomposition to further divide the work. If you choose to write Sub-Hills, make sure each one is still a proper Hill that, if independently released, still delivers meaningful value to users.
 whyDo: >-
-  Hills articulate a user centered definition of done that allows the team to
-  clearly understand if what they are delivering aligns with users expectations,
-  not project timelines, delivery calendars, or Red Hat business goals. You
-  either delivered value to the end user or you did not.  Without a clearly
-  defined Hill, a team may never know if they achieved the goal. 
+  "**I can't wait to log in" - No One Ever**
+
+
+  Use Hills when you notice the team is misaligned on what 'value' actually is.  Take an example like 'logging in' - often called 'foundational functionality' but to whom does it deliver value? To the end user? To the product team? To the business? To the customer? Value is incredibly subjective, and unless we're able to articulate end user value, we're delivering technology that aspires to deliver value, but the target is still fuzzy.
+
+
+  Hills articulate a user centered definition of done that allows the team to clearly understand if what they are delivering aligns with users expectations, not project timelines, delivery calendars, or Red Hat business goals. You either delivered value to the end user or you did not.  Without a clearly defined Hill, a team may never know if they achieved the goal. 
 
 
   When a team is focused on delivering technology, not customer or user outcomes, Hills help align not only the technical stakeholders, but the business around a shared statement of intent. 
