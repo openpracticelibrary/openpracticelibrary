@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Hills
+title: a Hill statement
 subtitle: Hills communicate our intent for a project with clarity and
   flexibility. They frame problems as intended user outcomes, not predetermined
   implementations, empowering teams to discover breakthrough solutions. They
@@ -16,51 +16,45 @@ icon: /images/screen-shot-2022-04-26-at-10.50.29-am.png
 whatIs: >-
   Hills are statements of intent written as meaningful user outcomes. They tell
   you where to go, not how to get there, empowering teams to explore
-  breakthrough ideas without losing sight of the goal.
+  breakthrough ideas without losing sight of the goal. 
 
 
-  ##### Three Hills, one Foundation
+  The strength of a Hill statement is that it is a single statement with precise focus.  The difficulty of writing a Hill statement is that it is a single statement with precise focus.  
 
 
-  You can do anything, but you can’t do everything. Hills should reflect an investment in the most valuable outcomes for your users, and the most important differentiators for your organization. That’s why we strongly recommend that a project takes on no more than three Hills at any time. This helps you maintain a focus on a manageable set of goals.
-
-
-  In addition to the three Hills, invest a portion of your resources to the Foundation to either fix issues from past releases or put a down payment on groundwork for your project’s future.
-
-
-  ##### Commit resources
-
-
-  Allocate resources to your Hills and Foundation based on their relative value to your users and your organization. Form [Diverse Empowered Teams](https://www.ibm.com/design/thinking/page/framework/principles/diverse-empowered-teams) around each Hill and equip each one with the expertise and authority needed to deliver their outcome independently. Strive to recruit at least one [Sponsor User](https://www.ibm.com/design/thinking/page/framework/keys/sponsor-users) per Hill.
-
-
-  Once resources have allocated to a Hill, treat them as thread-safe investments. Hills provide the language to have outcome-driven conversations around your resources. If a Hill needs additional resources, base your decision to reallocate on the value of each investment.
-
-
-  For example: let’s say you’ve allocated 25% of your resources to each of the three Hills, and the remaining 25% to the Foundation. If something in the Foundation goes wrong, ask yourself: is it worth the risk of diverting resources from a Hill to fix it?
-
-
-  ##### Break them down
-
-
-  Sometimes a Hill is necessarily complex and might benefit from another level of decomposition to further divide the work. If you choose to write Sub-Hills, make sure each one is still a proper Hill that, if independently released, still delivers meaningful value to users.
+  A great Hill statement encourages a team to step back from technical details, put themselves in the end users' shoes and think about what value looks like in terms that an end user wouldn't just benefit from, but would advocate for, recommend, and continuously seek out.
 whyDo: >-
+  Hills articulate a user centered definition of done that allows multiple teams
+  working across time zones and geographies to clearly understand if what they
+  are delivering aligns with users expectations, not project timelines, delivery
+  calendars, or business goals. You either delivered value to the end user
+  expects or you did not.  Without a clearly defined understanding of end user
+  value, a team may never know if they are working toward the right goals. A
+  Hill statement codifies end user value as a target that can be hit.  
+
+
+  Great Hills are measurable, achievable, address an end user's pain point and articulate differentiated value in terms that resonate with the target end user.
+
+
+  **Using Hills proactively**
+
+
+  Using Hills at during the Discovery phase gets all teams working together headed in the same direction with a clear target. Hills benefit from being written in the language of the team.  Hills can be written during a project kickoff to capture the team's assumptions, can be validated with a primary end user to ensure the team is headed in the right direction, and can be iterated upon as the team learns more about the project space.
+
+
+  **Using Hills reactively**
+
+
+  Use Hills when you notice the team is misaligned on what to make, why to make it and who to make it for. You might need to articulate Hills when the team(s) are running in different directions, working against one another, spending more time in meetings focused on **How** and not **Who and Why.**
+
+
   "**I can't wait to log in and create an account!" - No one, ever**
 
 
-  Use Hills when you notice the team is misaligned on what 'value' and end-user value actually is.  
+  Take an example like 'logging in' or 'creating an account' - often considered foundational functionality. But when we think about these key features, Hills prompt us to ask - to whom does this functionality deliver value? To the end user? To the product team? To the business? To the customer? 
 
 
-  Take an example like 'logging in' - often called 'foundational functionality' but to whom does it deliver value? To the end user? To the product team? To the business? To the customer? Value is incredibly subjective, and unless we're able to articulate end user value, we're delivering technology that aspires to deliver value, but the target is still fuzzy.
-
-
-  Hills articulate a user centered definition of done that allows the team to clearly understand if what they are delivering aligns with users expectations, not project timelines, delivery calendars, or Red Hat business goals. You either delivered value to the end user or you did not.  Without a clearly defined Hill, a team may never know if they achieved the goal. 
-
-
-  When a team is focused on delivering technology, not customer or user outcomes, Hills help align not only the technical stakeholders, but the business around a shared statement of intent. 
-
-
-  You might need to articulate Hills when the team(s) are running in different directions, working against one another, spending more time in meetings focused on **How** and not **Who and Why.**
+  Value is subjective, and unless we're able to articulate end user value, we're delivering technology that aspires to deliver value, but lacks clear definition in what end users expect. When a team is focused on delivering technology, Hills help align not only the technical stakeholders, but the business around user outcomes.
 howTo: >-
   To write a Hill, start with the user you want to serve. Next, specify the
   outcome you want to enable them to achieve, and the differentiator that will
@@ -117,6 +111,33 @@ howTo: >-
 
 
   Don’t worry about writing perfect Hills on Day One. Hills should evolve based on your understanding of the problem. As you iterate, hold Hills Playbacks early and often. Your Hills can change right up to Playback Zero—that’s when you need to really commit.
+
+
+  ##### Three Hills, one Foundation
+
+
+  You can do anything, but you can’t do everything. Hills should reflect an investment in the most valuable outcomes for your users, and the most important differentiators for your organization. That’s why we strongly recommend that a project takes on no more than three Hills at any time. This helps you maintain a focus on a manageable set of goals.
+
+
+  In addition to the three Hills, invest a portion of your resources to the Foundation to either fix issues from past releases or put a down payment on groundwork for your project’s future.
+
+
+  ##### Commit resources
+
+
+  Allocate resources to your Hills and Foundation based on their relative value to your users and your organization. Form [Diverse Empowered Teams](https://www.ibm.com/design/thinking/page/framework/principles/diverse-empowered-teams) around each Hill and equip each one with the expertise and authority needed to deliver their outcome independently. Strive to recruit at least one [Sponsor User](https://www.ibm.com/design/thinking/page/framework/keys/sponsor-users) per Hill.
+
+
+  Once resources have allocated to a Hill, treat them as thread-safe investments. Hills provide the language to have outcome-driven conversations around your resources. If a Hill needs additional resources, base your decision to reallocate on the value of each investment.
+
+
+  For example: let’s say you’ve allocated 25% of your resources to each of the three Hills, and the remaining 25% to the Foundation. If something in the Foundation goes wrong, ask yourself: is it worth the risk of diverting resources from a Hill to fix it?
+
+
+  ##### Break them down
+
+
+  Sometimes a Hill is necessarily complex and might benefit from another level of decomposition to further divide the work. If you choose to write Sub-Hills, make sure each one is still a proper Hill that, if independently released, still delivers meaningful value to users.
 mediaGallery: []
 resources:
   - link: https://www.ibm.com/design/thinking/page/framework/keys/hills
@@ -124,7 +145,7 @@ resources:
     description: "Enterprise Design Thinking: Hills"
 people: 3 - 20
 time: 1 - 1.5 hrs.
-difficulty: moderate
+difficulty: hard
 participants:
   - A diverse empowered team from the Business Unit
   - Engineering
