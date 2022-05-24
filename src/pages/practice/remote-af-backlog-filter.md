@@ -35,17 +35,24 @@ howTo: >-
   **Preparation:**
 
 
-  1. Download a copy of the remote:af backlog filter using the link provided
+  * Download a copy of the remote:af backlog filter using the link provided
 
-  2. Upload the template to your preferred virtual whiteboard tool or print it out for in person workshops 
-
-
+  * Upload the template to your preferred virtual whiteboard tool or print it out for in person workshops 
 
 
   **Filter the backlog:**
 
 
-  1. Map the work items in the team backlog to the matrix
+  * Map the work items in the team backlog to the matrix using
+
+
+  **Actions:**
+
+
+  * Action the work based on how each item maps to the matrix
+
+  * Focus first on the 'probe' items and if time allows move to the 'plan' items
+mediaGallery: []
 resources:
   - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
     linkType: web
