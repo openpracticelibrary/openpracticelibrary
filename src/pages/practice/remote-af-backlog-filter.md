@@ -17,6 +17,9 @@ whatIs: >-
 
 
   In most cases, this will lead to identifying and prioritizing the most unknown work higher in the backlog. Doing this will de-risk the backlog and improve predictability for the team. As with all remote:af patterns, the backlog filter is designed to be effective regardless of context and can be used across many types of teams.
+
+
+  The remote:af backlog filter has been made available to the public
 whyDo: >-
   Common signals for using the remote:af backlog filter are;
 
@@ -28,11 +31,11 @@ whyDo: >-
   * the work's sponsor (e.g. Product Owner) needs to understand the risk profile of the work
 
   * the team has struggled with forecasting work effectively
-howTo: >-
-  Step 1: filter work
+howTo: |-
+  **Preparation:**
 
-
-  Map the backlog of work on to the matrix based on the criteria around the edges.
+  1. Download a copy of the remote:af backlog filter using the link provided
+  2. Upload the template to your preffered
 resources:
   - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
     linkType: web
