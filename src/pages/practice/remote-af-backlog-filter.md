@@ -19,7 +19,7 @@ whatIs: >-
   In most cases, this will lead to identifying and prioritizing the most unknown work higher in the backlog. Doing this will de-risk the backlog and improve predictability for the team. As with all remote:af patterns, the backlog filter is designed to be effective regardless of context and can be used across many types of teams.
 
 
-  The remote:af backlog filter has been made available to the public
+  The remote:af backlog filter has been made available to the public for use. All copyright in the canvas is owned by Remote Agility Framework Pty Ltd and used under license.
 whyDo: >-
   Common signals for using the remote:af backlog filter are;
 
@@ -31,11 +31,21 @@ whyDo: >-
   * the work's sponsor (e.g. Product Owner) needs to understand the risk profile of the work
 
   * the team has struggled with forecasting work effectively
-howTo: |-
+howTo: >-
   **Preparation:**
 
+
   1. Download a copy of the remote:af backlog filter using the link provided
-  2. Upload the template to your preffered
+
+  2. Upload the template to your preferred virtual whiteboard tool or print it out for in person workshops 
+
+
+
+
+  **Filter the backlog:**
+
+
+  1. Map the work items in the team backlog to the matrix
 resources:
   - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
     linkType: web
