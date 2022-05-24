@@ -4,8 +4,11 @@ title: remote:af backlog filter
 subtitle: Identify and action high complexity backlog items in any context.
 date: 2022-05-24T05:12:19.659Z
 authors: []
-mobiusTag: options
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+tags:
+  - validate
+  - value
+mobiusTag: discovery
+icon: /images/remoteaf-backlog-filter.png
 whatIs: >-
   The priority validation canvas is a tool used to surface high risk work items.
   This canvas looks at work through the lens of complexity by focusing on the
