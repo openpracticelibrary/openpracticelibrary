@@ -32,7 +32,11 @@ howTo: >-
   Step 1: filter work
 
 
-  Map the backlog of work on to the matrix based on the criteria around the edges
+  Map the backlog of work on to the matrix based on the criteria around the edges.
+resources:
+  - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
+    linkType: web
+    description: click here to download your copy of the backlog filter
 difficulty: easy
 participants: []
 ---
