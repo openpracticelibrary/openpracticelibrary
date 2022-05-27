@@ -101,6 +101,7 @@ howTo: >-
   Often you may have a set of experiments go through a sequence of Rapid Prototyping / Prototyping with User Research and then a subset of “successful” experiments would be carried forward to production to pass through Split Testing.
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/design-of-eperiments.jpg
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/Experiment%20Canvas.png?raw=true
 resources:
   - link: https://miro.com/miroverse/the-experiment-canvas/?social=copy-link
     linkType: web
