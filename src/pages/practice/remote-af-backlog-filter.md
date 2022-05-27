@@ -4,7 +4,7 @@ title: remote:af backlog filter
 subtitle: Identify and action high complexity backlog items in any context.
 date: 2022-05-24T05:12:19.659Z
 authors:
-  - john_remoteaf
+  - john-remoteaf
 tags:
   - validate
   - value
