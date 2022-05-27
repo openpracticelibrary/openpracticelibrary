@@ -21,6 +21,9 @@ whatIs: >-
 
 
   The remote:af backlog filter has been made available to the public for use. All copyright in the canvas is owned by Remote Agility Framework Pty Ltd and used under license.
+
+
+  Based on the work of Kim Ballestrin and Dr Saeed Shalbafan
 whyDo: >-
   Common signals for using the remote:af backlog filter are;
 
@@ -58,6 +61,9 @@ resources:
   - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
     linkType: web
     description: click here to download your copy of the backlog filter
+  - link: https://www.researchgate.net/publication/335491299_A_framework_to_manage_uncertainty_in_early_planning_of_projects_an_ICT_project
+    linkType: web
+    description: Original paper by Kim Ballestrin and Dr. Saeed Shalbafan
 difficulty: easy
 participants: []
 ---
