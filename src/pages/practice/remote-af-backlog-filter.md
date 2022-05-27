@@ -11,10 +11,10 @@ tags:
 mobiusTag: discovery
 icon: /images/remoteaf-backlog-filter.png
 whatIs: >-
-  The priority validation canvas is a tool used to surface high risk work items.
-  This canvas looks at work through the lens of complexity by focusing on the
-  teams' knowledge. Understanding which work items need attention allows
-  managers to intervene.
+  The backlog filter is a tool used to surface high risk work items. This canvas
+  looks at work through the lens of complexity by focusing on the teams'
+  knowledge. Understanding which work items need attention allows managers to
+  intervene.
 
 
   In most cases, this will lead to identifying and prioritizing the most unknown work higher in the backlog. Doing this will de-risk the backlog and improve predictability for the team. As with all remote:af patterns, the backlog filter is designed to be effective regardless of context and can be used across many types of teams.
