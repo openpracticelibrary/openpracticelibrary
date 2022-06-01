@@ -95,7 +95,7 @@ whatIs: >-
     * Is the test coverage sufficient?
     * Are misuse cases represented?
 
-  See the [Code Review Security Checklist Implementation Manual](https://academy.safestack.io/wp-content/uploads/2021/01/code_review_security_checklist_implementation_manual_2020-02-20.pdf) for details.
+  See the [Code Review Security Checklist Implementation Manual](https://academy.safestack.io/wp-content/uploads/2022/03/secure_code_checklist_and_implementation_guide.pdf) for details.
 whyDo: >
   Improve code review culture by consistently applying secure coding practices. 
 
