@@ -28,26 +28,32 @@ whyDo: >-
   Common signals for using the remote:af backlog filter are;
 
 
-  * the team has recently received a new backlog of work
+  * the team is exploring new work that has arrived in its backlog
 
   * the team needs to deliver work outside their regular expertise
 
-  * the work's sponsor (e.g. Product Owner) needs to understand the risk profile of the work
-
   * the team has struggled with forecasting work effectively
+
+  * the team needs to communicate when things are likely to be delivered and/or the risk to delivery forecasts
 howTo: >-
   **Preparation:**
 
 
   * Download a copy of the remote:af backlog filter using the link provided
 
-  * Upload the template to your preferred virtual whiteboard tool or print it out for in person workshops 
+  * Upload the template to your preferred virtual whiteboard tool or print it out for in person workshops
 
 
   **Filter the backlog:**
 
 
-  * Map the work items in the team backlog to the matrix using
+  1. Explore the work backlog with the team
+
+  2. Individually and silently map work items in the team backlog to the matrix according to:
+
+     * the involvement required from outside the team
+     * how well the team understands how to do the work
+  3. Explore any disagreements, if consensus can’t be reached err on the side of caution
 
 
   **Actions:**
@@ -55,8 +61,11 @@ howTo: >-
 
   * Action the work based on how each item maps to the matrix
 
-  * Focus first on the 'probe' items and if time allows move to the 'plan' items
-mediaGallery: []
+  * * Proceed
+    * Plan
+    * Probe
+mediaGallery:
+  - link: https://drive.google.com/file/d/1_m0HwCX-96785PyBuWGWcLKYImB09BUi/view?usp=sharing
 resources:
   - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
     linkType: web
