@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Social Contract
+title: Social Agreement
 subtitle: Build a constructive, fun team culture
 date: 2017-11-21T05:00:00.000Z
 authors:
@@ -16,32 +16,27 @@ tags:
 mobiusTag: foundation
 icon: /images/social-contract.jpg
 whatIs: >-
-  The Social Contract is a simple and effective way to enable team autonomy and
-  self accountability for engagements. The Social Contract or Agreement is
-  created by and for the team.  It looks to codify the behaviors and
-  expectations of the team. It also provides a mechanism for the team to radiate
-  and share its desired behaviours with management and other stakeholders.
+  The Social Agreement is a simple and effective way to enable team autonomy and
+  self accountability for engagements. The Social Agreement is created by and
+  for the team.  It looks to codify the behaviors and expectations of the team.
+  It also provides a mechanism for the team to radiate and share its desired
+  behaviours with management and other stakeholders.
 
 
   To effectively use this practice you should look to create the following outcomes:
 
-  * Public display of the social contract
 
+  * Public display of the social agreement
 
-  * Nobody is above the contract
+  * Nobody is above the agreement
 
+  * The team agreed holds each other accountable to the agreement. Having every team member physically sign the agreement can provide a good starting point for this.
 
-  * The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
-
-
-  * Revisit the social contract often and update it as necessary
+  * Revisit the social agreement often and update it as necessary
 whyDo: |-
   * Quick means to clearly determine team dynamics and expectations
-
   * Promote autonomy and self governing of team behavior
-
-  * The contract keeps the team consciously aware of how they work together
-
+  * The agreement keeps the team consciously aware of how they work together
   * Establish empathy and context for future conversations between team members
 howTo: >-
   ## Materials Needed
@@ -56,7 +51,7 @@ howTo: >-
   * Large poster paper
 
 
-  Stick the large poster paper on the wall and label it "Social Contract."
+  Stick the large poster paper on the wall and label it "Social Agreement."
 
 
   Explain to the team that we're going to:
@@ -72,16 +67,16 @@ howTo: >-
   Ask open-ended questions about the team's desired way of working. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sticky note away or put it in the parking lot for later discussion.
 
 
-  At the end, ask the team to sign the contract, and keep it in a visible place. Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
+  At the end, ask the team to sign the agreement, and keep it in a visible place. Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
 
 
-  As the team moves forward, encourage them to refer back to the contract when there are disagreements.
+  As the team moves forward, encourage them to refer back to the agreement when there are disagreements.
 
 
   ## Example Questions
 
 
-  Try to guide the team to a contract that encourages positivity, autonomy, and respect.
+  Try to guide the team to an agreement that encourages positivity, autonomy, and respect.
 
 
   * What sort of team culture do you want to build?
@@ -112,7 +107,7 @@ howTo: >-
   ## Don't do this
 
 
-  Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
+  Avoid building a social agreement that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social agreement:
 
 
   * Core hours are 9am-7pm. The more time you spend at a desk, the more you'll accomplish.
@@ -129,11 +124,11 @@ howTo: >-
   ## Tips for remote sessions
 
 
-  1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts.
+  1. Consider to have a “pre-canned” social agreement that is good for remote meetings, then allow people to add/change based on their thoughts.
 
   2. Everyone signs with a Sticky-note with his/her name.
 
-  3. Add remote working elements to the social contract (mute on entry, video on etc).
+  3. Add remote working elements to the social agreement (mute on entry, video on etc).
 
   4. Establish global communication norms and individual teams exceptions: response time, writing style, and tone, etc.
 
@@ -152,7 +147,7 @@ howTo: >-
 
   > * Avoid other distractions like mail, and chat
 
-  > * A contract can be updated based on needs...
+  > * A agreement can be updated based on needs...
 
   > * Agree on the above adding a sticky w/name & location
 mediaGallery:
