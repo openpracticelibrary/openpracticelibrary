@@ -56,8 +56,8 @@ howTo: >-
 
   **4. Analyse** - Now you can analyse your team responses [on a sheet](https://support.google.com/docs/answer/2917686?hl=en)
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/cogload2.png
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/cogload1.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/cogload2.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/cogload1.png
 resources:
   - link: https://en.wikipedia.org/wiki/Cognitive_load
     linkType: web
