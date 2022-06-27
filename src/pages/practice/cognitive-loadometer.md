@@ -56,8 +56,8 @@ howTo: >-
 
   **4. Analyse** - Now you can analyse your team responses [on a sheet](https://support.google.com/docs/answer/2917686?hl=en)
 mediaGallery:
-  - link: https://media-exp3.licdn.com/dms/image/C4D12AQHdxWbXjxyLtg/article-inline_image-shrink_1500_2232/0/1626910927641?e=1632355200&v=beta&t=uRbPjhu8dUb5BxW-kssPaQDulooNnnZ6eci9xCaVjMk
-  - link: https://media-exp3.licdn.com/dms/image/C4D12AQFAx4ocnMpPlQ/article-inline_image-shrink_1500_2232/0/1626911001352?e=1632355200&v=beta&t=eFGajyp3-Xc2Tsm0tElXjBpRkF40AeFpczxsmNrpvEE
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/cogload2.png
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/cogload1.png
 resources:
   - link: https://en.wikipedia.org/wiki/Cognitive_load
     linkType: web
