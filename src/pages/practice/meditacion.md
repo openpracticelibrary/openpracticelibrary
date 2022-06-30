@@ -187,7 +187,8 @@ howTo: >-
 
   Funciona bastante bien de forma remota, todos los micrófonos deberán estar silenciados y se sugiere que los participantes estén en una habitación tranquila con la puerta cerrada.
 mediaGallery:
-  - link: https://drive.google.com/drive/folders/1gkbLmu7A970LY-IQISOJffJPqHNMFrwt?usp=sharing
+  - link: https://openpracticelibrary.com/images/meditation.jpg
+  - link: https://openpracticelibrary.com/images/virtual-meditation.png
 resources:
   - link: https://thebuddhistcentre.com/text/loving-kindness-meditation
     linkType: web
