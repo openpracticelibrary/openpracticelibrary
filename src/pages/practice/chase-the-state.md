@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Chase the State
-subtitle: Assess the progress and the current state of any type of software
-  delivery work in a holistic way
+subtitle: Assess progress and the current state of any type of software delivery
+  work in a holistic way
 date: 2022-06-06T13:26:28.337Z
 authors:
   - keithdm
@@ -26,9 +26,13 @@ whyDo: >-
   This assessment uses an international OMG standard which provides the states and the checklists. You can therefore be confident that the information on the cards is thoughtful, useful and applicable to all types of software development methodologies (e.g. scrum, kanban, waterfall project, etc).
 howTo: >-
   Use the link below to download and print (or screenshot) the Essence cards
-  required to play this game. You will see these cards are organised in 7 groups
-  (also known as "Alphas"), where each group has one overview card and a number
-  of state cards which each contain a checklist for that state.
+  required to play this game.  **Please note:**  these cards are covered by a
+  Copyright notice and not by a Creative Commons agreement: you are welcome to
+  print and use the cards but please retain and respect the copyright
+  limitations.    
+
+
+  You will see these cards are organised in 7 groups (also known as "Alphas"), where each group has one overview card and a number of state cards which each contain a checklist for that state.
 
 
   Lay out the cards for each Alpha in a row on the table with the first state on the left and the final state on the right. 
