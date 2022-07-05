@@ -21,9 +21,13 @@ whyDo: >-
   Use this game to determine the state of your software development efforts and
   help the team uncover risks, issues or actions that will help them progress
   the work successfully and ensure they deliver value to their stakeholders.
+  Have you rushed ahead too fast without sufficient agreement about the
+  requirements? Is the team still working well together? This game prompts all
+  of these questions and many more, and helps pinpoint any risks or actions you
+  may need to take with some useful checklists.
 
 
-  This assessment uses an international OMG standard which provides the states and the checklists. You can therefore be confident that the information on the cards is thoughtful, useful and applicable to all types of software development methodologies (e.g. scrum, kanban, waterfall project, etc).
+  This assessment uses an international OMG standard to provide the work states and the checklists. You can therefore be confident that the information on the cards is thoughtful, useful and applicable to all types of software development methodologies (e.g. scrum, kanban, waterfall project, etc).
 howTo: >-
   Use the link below to download and print (or screenshot) the Essence cards
   required to play this game.  **Please note:**  these cards are covered by a
