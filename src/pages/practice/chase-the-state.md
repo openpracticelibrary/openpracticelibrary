@@ -64,7 +64,7 @@ howTo: >-
 
   2. Second pass – working backwards check off the individual items on the check lists.
 resources:
-  - link: https://www.ivarjacobson.com/files/field_iji_file/article/essence_kernel_-_detail_cards_checklist.pdf
+  - link: https://www.ivarjacobson.com/publications/cards/alpha-state-cards-pdf-version
     linkType: web
     description: Download the Essence cards used in this game for free from this
       website (cards are Copyright © 2022 Ivar Jacobson International)
