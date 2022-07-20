@@ -10,7 +10,7 @@ tags:
   - insight
   - learn
 mobiusTag: discovery
-icon: https://github.com/andrewharmellaw/wardley-maps-book/blob/master/images/cover.png?raw=true
+icon: /images/wardleymap.jpg
 whatIs: >-
   Wardley Mapping is a framework of practices built around Wardley Maps. It was
   invented by [Simon Wardley](https://uk.linkedin.com/in/simonwardley) in 2005. 
