@@ -12,16 +12,16 @@ tags:
 mobiusTag: discovery
 icon: /images/wardleymap.jpg
 whatIs: >-
-  Wardley Mapping is a framework of practices built around Wardley Maps. It was
-  invented by [Simon Wardley](https://uk.linkedin.com/in/simonwardley) in 2005. 
+  Wardley Mapping is a framework of practices, invented by [Simon
+  Wardley](https://uk.linkedin.com/in/simonwardley) in 2005. 
 
 
   Inspired by Sun Tzu's *[Art of War](https://en.wikipedia.org/wiki/The_Art_of_War)* and the historical use of geographical maps in battle situations, Wardley used geographic maps as a paradigm for strategic orientation in business to gain "topographical intelligence".
 
 
-  \
 
-  Without knowing the geography of the battlefield as well as the own forces' and the enemy's location, it makes absolutely no sense to start a battle. Or, translated, to start or run a business.
+
+  Without knowing the geography of the battlefield, the location of one's own forces, or the enemy's whereabouts, it makes absolutely no sense to start a battle. Or, translated, to start or run a business.
 whyDo: >-
   Transferred to business outcomes, Wardley Mapping helps identifying the
   strategic landscape (i.e., creating the Wardley Map) and derive knowledge- and
@@ -38,9 +38,6 @@ whyDo: >-
 
   They can be used as an ad-hoc tool by the facilitator to quickly gain insights in value chain discussions and add a strategic dimension to it.
 howTo: >-
-  T
-
-
   1. Identify the **users** being served by the business.
 
   2. Identify the user's **needs** to be satisfied (think of these as top-level product offerings (== *capabilities*)).
