@@ -6,7 +6,7 @@ subtitle: Chaos engineering is a practice of testing distributed software that
   in the face of random disruptions.
 date: 2022-07-22T09:16:22.656Z
 authors:
-  - "@sebw"
+  - sebw
 mobiusTag: delivery
 icon: https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2022/05/chaos-engineering.png
 whatIs: >-
