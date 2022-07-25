@@ -25,7 +25,7 @@ whyDo: >-
 
   * learn about error propagation and state infection in the program
 howTo: |-
-  Python:
+  Python
 
   * [Mutatest](https://mutatest.readthedocs.io/en/latest/) 
   * [Mutpy](https://github.com/mutpy/mutpy)
