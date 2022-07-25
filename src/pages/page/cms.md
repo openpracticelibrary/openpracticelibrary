@@ -70,7 +70,7 @@ As a moderator, you will receive and email to say that new content has been adde
 
 ### Steps to fix
 
-* Go to the [Pull Request Page](https://github.com/openpracticelibrary/practice-library/pulls) and click on the relevant pull request or follow the link in the email.  
+* Go to the [Pull Request Page](https://github.com/openpracticelibrary/openpracticelibrary/pulls) and click on the relevant pull request or follow the link in the email.  
 * To see what has been added / changed, go to the "Files changed" tab.
 * If you require more information or would like changed to be made, write the comment in the "Leave a Comment" box.  
 
