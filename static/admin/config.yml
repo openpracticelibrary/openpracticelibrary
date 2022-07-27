@@ -37,7 +37,7 @@ collections:
         name: "date"
         widget: "datetime"
       - label: "Authors"
-        hint: "Comma-separated list of LOWER CASE github usernames eg., springdo, rdebeasi, tdbeattie"
+        hint: "Comma-separated list of case-sensitive github usernames eg., Springdo, rdebeasi, TdBeattie"
         name: "authors"
         widget: "list"
         default: []

@@ -4,7 +4,7 @@ title: Minimum Viable Product (MVP)
 subtitle: MVP/ETP - Develop, Get feedback, Repeat
 date: 2019-09-04T10:22:28.956Z
 authors:
-  - Dappleyard93
+  - DAppleyard93
 tags: []
 mobiusTag: options
 icon: /images/mvp.jpg
