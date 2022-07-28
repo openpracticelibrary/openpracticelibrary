@@ -7,7 +7,7 @@ date: 2022-07-25T12:46:12.353Z
 authors:
   - sebw
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/mutation-testing.png
 whatIs: >-
   Mutation testing involves modifying a program in small ways.
 
@@ -42,5 +42,8 @@ resources:
   - link: https://en.wikipedia.org/wiki/Mutation_testing
     linkType: web
     description: Mutation testing definition by Wikipedia
+  - link: https://opensource.com/article/19/9/mutation-testing-example-execute-test
+    linkType: web
+    description: "Mutation testing by example: Execute the test - by Alex Bunardzic "
 participants: []
 ---
