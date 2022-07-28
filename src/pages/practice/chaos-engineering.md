@@ -8,7 +8,7 @@ date: 2022-07-22T09:16:22.656Z
 authors:
   - sebw
 mobiusTag: delivery
-icon: https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2022/05/chaos-engineering.png
+icon: /images/chaos-engineering.png
 whatIs: >-
   Chaos Engineering is a practice where an organization tries to predict the
   unpredictable. It can be used to achieve resilience against infrastructure
