@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: 🧠 Cognitive Loadometer 🌡
+title: Cognitive Loadometer
 subtitle: A simple tool to measure cognitive load and improve focus
 date: 2021-07-21T23:07:25.555Z
 authors:
