@@ -86,6 +86,8 @@ howTo: >-
 
 
   Some great ideas come out of this question, especially if you ask it often. Be sure to try to act on any suggestions you receive.
+mediaGallery:
+  - link: blob:https://openpracticelibrary.com/6f94d2e8-d1c3-4594-802a-55b1e84ac30f
 resources:
   - link: https://www.inc.com/leigh-buchanan/patagonia-founder-yvon-chouinard-15five.html
     description: 15/5 Reports - How Patagonia's Roving CEO Stays in the Loop
