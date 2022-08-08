@@ -9,9 +9,13 @@ tags:
   - value
 mobiusTag: discovery
 icon: https://live.staticflickr.com/8115/8676632854_e841ae26a8_n.jpg
-whatIs: PESTEL analysis is a framework for scanning the environment for factors
-  that could impact an organization's market, business position, and/or
-  operational strategies.
+whatIs: >-
+  PESTEL analysis is a framework for scanning the environment for factors that
+  could impact an organization's market, business position, and/or operational
+  strategies.
+
+
+  Context helps to identify and frame *why* an organization should pursue a particular strategy.
 whyDo: >-
   PESTEL analysis is particularly useful before embarking on any new strategy
   (ex. new line of business, new geographic market, business transformation,
@@ -26,15 +30,15 @@ whyDo: >-
 
   Reviewing context from multiple lenses in a single analysis builds a shared understanding that individuals may not understand otherwise.  (Ex. business staff understand technology trends, technical staff understand economic factors, etc.)
 howTo: >-
-  1. Identify scope for analysis (business unit, whole company, etc.) with
+  1. Identify scope for analysis (business unit, whole company, etc.) with a
   sponsor and/or key stakeholders
 
-  2. Pull together a diverse group of experts to obtain a broad set (ideally with internal and external participants)
+  2. Pull together a diverse group of experts to obtain broad set of viewpoints (ex. mix of business, marketing, product, operations, and technical staff)
 
-  3. Brainstorm environmental factors, trends, and/or changes from the following six lenses:
+  3. Participants brainstorm environmental factors, trends, and/or changes from the following six lenses:
 
      * **P**olitical and governmental factors (ex. tariffs, political stability, etc.)
-     * **E**conomic and monetary factors (ex. economic growth/contraction, inflation, etc.)
+     * **E**conomic and monetary factors (ex. economic growth/contraction, inflation, price sensitivity, etc.)
      * **S**ocioCultural factors (ex. demographic shifts, , ESG Active investors, etc.)
      * **T**echnological factors (ex. rise of public cloud, IoT, global connectivity, new security threats, etc.)
      * **E**nvironmental or ecological factors (ex. COVID-19, drought/flooding, etc.)
@@ -45,6 +49,7 @@ howTo: >-
 
 
   Image designed by Greg Emmerich
+mediaGallery: []
 resources:
   - link: https://en.wikipedia.org/wiki/PEST_analysis
     linkType: web
@@ -52,6 +57,9 @@ resources:
   - linkType: video
     link: https://youtu.be/bYn4CyL3r5w
     description: PESTEL Analysis [Youtube]
+  - link: https://www.mbaskool.com/pestle-analysis/companies/18258-netflix.html
+    linkType: web
+    description: Netflix PESTEL Analysis Example [MBA Skool]
 difficulty: moderate
 participants:
   - Stakeholders; Architecture; Product Roles; The Team
