@@ -58,10 +58,6 @@ resources:
     linkType: web
     description: Interesting take on tagging items as a followup discussion and to
       account for that time 'outside' the existing meeting
-  - link: http://www.agile-ux.com/2010/12/16/parking-lot-a-good-facilitation-tool/
-    linkType: web
-    description: Addresses some of how to account for time to discuss the items in
-      the Parking Lot
 participants:
   - everybody
 area: foundation-culture-and-collaboration
