@@ -55,8 +55,8 @@ howTo: >-
 
   - [Objectified: Smart Design OXO Good Grips Story](https://vimeo.com/106963722)
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/user-testing-val.png
   - link: https://www.youtube.com/watch?v=MPKLHDKzHQM
+  - link: https://openpracticelibrary.github.io/opl-media/images/user-testing-val.png
 resources:
   - link: https://www.nngroup.com/videos/user-testing-jakob-nielsen/
     linkType: web
