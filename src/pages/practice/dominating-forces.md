@@ -55,7 +55,7 @@ howTo: >-
 
   After the goals and strategies have been agreed upon the facilitator can allow between 3 - 7  minutes to flush out the challenges (and bright spots if necessary) in the execution and culture area.
 mediaGallery:
-  - link: blob:https://openpracticelibrary.com/029267d3-021b-4c1a-b4d7-d2d9c44043dc
+  - link: https://www.agilealliance.org/wp-content/uploads/2019/05/Figure-2.-Relating-Strategic-Themes-Legacy-Mindsets-and-Agile-Goals.jpg
 people: 3+
 time: 2 hrs
 difficulty: hard
