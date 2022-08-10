@@ -50,6 +50,9 @@ howTo: >-
   * Do not designate a single person to capture all the Parking Lot items.
 
   * During the meeting have your eye on the Parking Lot items to see if any are resolved naturally through the remainder of the timebox and call it out when it happens.
+mediaGallery:
+  - link: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F31a11c9c-35e4-11e5-bdbb-35e55cbae175?fit=scale-down&source=next&width=700
+  - link: https://thinklouder.com/quicktip-open-meeting-parking-lot/
 resources:
   - link: https://thinklouder.com/quicktip-open-meeting-parking-lot/
     linkType: web
