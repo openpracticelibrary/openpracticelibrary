@@ -99,7 +99,7 @@ howTo: >-
 
   * Take regular breaks.
 mediaGallery:
-  - link: https://www.youtube.com/watch?v=QV8L1IwM1zk
+  - link: https://www.youtube.com/watch?v=6fnuuGQItCU
   - link: https://www.ntaskmanager.com/wp-content/uploads/2020/01/Sprint-Backlog-01.png
 resources:
   - link: https://www.scrumguides.org/scrum-guide.html#events-planning
