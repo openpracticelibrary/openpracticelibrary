@@ -33,5 +33,7 @@ howTo: >-
   * Team members know about hot topics of the day and latest updates.
 
   * Tasks are chosen in the correct order with highest priorities.
+mediaGallery:
+  - link: https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/kanban%20color%20code.png
 participants: []
 ---
