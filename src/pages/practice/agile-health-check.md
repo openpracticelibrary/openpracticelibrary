@@ -25,6 +25,9 @@ howTo: >-
 
 
   Place this on a 1 to 10 scale and get individuals in the team to dot vote on where they see the team operating currently. The score is the median of the dots on each item, but don’t ignore outliers, they should be discussed.
+mediaGallery:
+  - link: https://miro.medium.com/max/1838/1*3P4Nod5YtA9zLz-8f-UFnw.png
+  - link: https://www.youtube.com/watch?v=X1vCSdqKA_k
 resources:
   - link: https://labs.spotify.com/2014/09/16/squad-health-check-model/
     linkType: web
