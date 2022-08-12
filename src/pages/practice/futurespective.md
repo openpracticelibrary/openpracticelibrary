@@ -61,7 +61,8 @@ howTo: >-
   6. Look back at the past and find your improvements.
 
   7. Vote.
-mediaGallery: []
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=KawR6XUYZt8
 resources:
   - link: https://www.funretrospectives.com/category/futurespective/
     description: Futurespective

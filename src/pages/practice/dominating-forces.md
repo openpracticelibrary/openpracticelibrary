@@ -17,9 +17,9 @@ whatIs: >-
   subsequent project, program, or product to be developed.
 
 
-  Strategies should cover what we do and don't do and how we compete. And be clearly linked to the goals that the strategy supports.\
+  Strategies should cover what we do and don't do and how we compete. And be clearly linked to the goals that the strategy supports.
 
-  Culture should look at people, skills, communication, principles, and team structures/topologies.\
+  Culture should look at people, skills, communication, principles, and team structures/topologies.
 
   Execution should take into consideration processes, capabilities, tools, and metrics.
 
@@ -54,6 +54,8 @@ howTo: >-
 
 
   After the goals and strategies have been agreed upon the facilitator can allow between 3 - 7  minutes to flush out the challenges (and bright spots if necessary) in the execution and culture area.
+mediaGallery:
+  - link: https://www.agilealliance.org/wp-content/uploads/2019/05/Figure-2.-Relating-Strategic-Themes-Legacy-Mindsets-and-Agile-Goals.jpg
 people: 3+
 time: 2 hrs
 difficulty: hard
