@@ -51,6 +51,8 @@ howTo: >
   * insider threats (not just assuming that the only threats to your application will come from attackers outside of your organisation)
 
   * "assume breach" (assuming you have already been breached, and thinking about what internal controls are in place)
+mediaGallery:
+  - link: https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/3415/2015/11/ProactiveProtection_CircleChart.jpg
 resources:
   - link: https://www.youtube.com/watch?v=1vcCisj6XXw
     linkType: video
