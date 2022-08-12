@@ -8,7 +8,7 @@ authors:
 tags:
   - value
 mobiusTag: discovery
-icon: https://live.staticflickr.com/8115/8676632854_e841ae26a8_n.jpg
+icon: /images/pestel.jpg
 whatIs: >-
   PESTEL analysis is a framework for scanning the environment for factors that
   could impact an organization's market, business position, and/or operational
