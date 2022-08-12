@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Candy or Swag?
+title: Candy or Swag
 subtitle: Demonstrate the value of open organization principles like
   collaboration and transparency
 date: 2020-01-03T21:46:17.737Z
