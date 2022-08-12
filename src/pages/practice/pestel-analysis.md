@@ -49,14 +49,12 @@ howTo: >-
 
 
   Image designed by Greg Emmerich
-mediaGallery: []
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=bYn4CyL3r5w
 resources:
   - link: https://en.wikipedia.org/wiki/PEST_analysis
     linkType: web
     description: PEST(LE) Analysis [Wikipedia]
-  - linkType: video
-    link: https://youtu.be/bYn4CyL3r5w
-    description: PESTEL Analysis [Youtube]
   - link: https://www.mbaskool.com/pestle-analysis/companies/18258-netflix.html
     linkType: web
     description: Netflix PESTEL Analysis Example [MBA Skool]
