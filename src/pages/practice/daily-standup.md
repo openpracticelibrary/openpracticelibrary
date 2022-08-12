@@ -52,7 +52,7 @@ howTo: >-
   [IBM Daily Stand up](https://www.youtube.com/watch?v=GzQjGhD5tSU)
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/dsu.jpg?raw=true
-  - link: https://www.youtube.com/watch?v=GzQjGhD5tSU
+  - link: https://www.youtube.com/watch?v=JSFfyse_EXM
 resources:
   - link: https://www.youtube.com/playlist?list=PLnqlDDtSH2A7jzZiYPMHy2HjjjdV3rhNM&jct=ykj79fMNekbkUwePDbdsjY2QXKaeag
     linkType: web
