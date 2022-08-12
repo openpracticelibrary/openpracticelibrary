@@ -150,6 +150,9 @@ howTo: >-
 
 
   Before ending the retrospective, ask for volunteers to own next steps. For any followup that doesn’t have a volunteer, assign it to the person most responsible for uncovering the insight during the retrospective. Close the session out by confirming everyone understand what is expected of them moving forward, and thank them for their time.
+mediaGallery:
+  - link: https://wac-cdn.atlassian.com/dam/jcr:07a5486d-04ac-4d8f-a810-cf9a701cb761/Modal-Article3.jpg?cdnVersion=467
+  - link: https://www.youtube.com/watch?v=HuR0ISFhz4g
 resources:
   - link: https://miro.com/templates/4-ls-retrospective/
     description: Miro Board

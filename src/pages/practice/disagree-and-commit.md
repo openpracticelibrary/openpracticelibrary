@@ -46,6 +46,9 @@ howTo: >-
 
 
   Build these key characteristics into your approach and you'll no longer be afraid to 'disagree and commit' as you'll be confident it will continue to drive purpose, passion and commitment within the team.
+mediaGallery:
+  - link: https://www.techtello.com/wp-content/uploads/2020/08/disagree-and-commit.png
+  - link: https://www.youtube.com/watch?v=RYGuUHYGdUU
 resources:
   - link: https://openpracticelibrary.com/practice/double-diamond/
     linkType: web

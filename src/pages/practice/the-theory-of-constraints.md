@@ -63,7 +63,8 @@ howTo: >-
 
 
   Stage 5: **Repeat** the process. You've just moved the bottleneck somewhere else. Find out where that is, and start again. This is a continuous process and there will always be a bottleneck somewhere!
-mediaGallery: []
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=7ft3G-ZSHgo
 resources:
   - link: https://www.toc-goldratt.com/en/product/The-Goal-A-Process-of-Ongoing-Improvement
     description: "THE GOAL: A PROCESS OF ONGOING IMPROVEMENT Dr. Eliyahu M. Goldratt"

@@ -40,6 +40,9 @@ howTo: Auto scaling is an implementation of the dynamic scaling feature of cloud
   computing, which can be applied manually or automatically. Increasingly, cloud
   service providers are offering this feature due to the unpredictable demand
   for cloud capabilities.
+mediaGallery:
+  - link: https://docs.aws.amazon.com/autoscaling/ec2/userguide/images/as-basic-diagram.png
+  - link: https://www.youtube.com/watch?v=L03EHIH-T2E
 resources:
   - link: https://en.wikipedia.org/wiki/Autoscaling
     linkType: web

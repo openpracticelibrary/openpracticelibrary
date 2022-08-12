@@ -65,6 +65,9 @@ howTo: >-
 
 
   **Want to get better with Backlog Refinement remotely? [Here's a game to help you and your team practice it](https://www.tastycupcakes.org/2015/05/weekend-escape/) 💻 🙏**
+mediaGallery:
+  - link: https://www.visual-paradigm.com/servlet/editor-content/scrum/how-to-define-product-backlog/sites/7/2018/12/product-backlog-refinement.png
+  - link: https://www.youtube.com/watch?v=WuTF6Rng8Vk&t=60s
 resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web

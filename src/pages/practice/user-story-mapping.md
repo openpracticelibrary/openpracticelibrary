@@ -108,8 +108,7 @@ whyDo: >-
 
   * User Story Mapping presents backlog items in the context of the overall business process so you don't lose sight of "the big picture", a common pitfall in Scrum projects
 mediaGallery:
-  - link: https://youtu.be/N8fxzeZh4Kc
-  - link: https://youtu.be/VaN9rCQrdko
+  - link: https://www.youtube.com/watch?v=So_nQ7zdyQs
 perspectives:
   - facilitation-tips-for-remote-sessions
 ---

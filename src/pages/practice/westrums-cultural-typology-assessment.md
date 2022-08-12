@@ -123,6 +123,8 @@ howTo: >-
 
 
   If you have a large enough organisation, or enough data over time, you could try applying data science practices to identify outliers in the data that can indicate particular areas of concern, for particular teams, or disruptive events that correlate with a dip in scores.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=MyaCp_oI4K4
 resources:
   - link: http://dx.doi.org/10.1136/qhc.13.suppl_2.ii22
     linkType: web
