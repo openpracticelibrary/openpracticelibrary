@@ -77,7 +77,7 @@ howTo: >-
 
   > Sometimes, there might be questions which require more analysis or conversations with other stakeholders. In these cases, the team can take a call on whether to proceed with the story while excluding scope related to the question or parking the story itself until the questions are answered.
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/kickoff.jpg
+  - link: https://www.getxray.app/hubfs/Blog/New%20blog%20images/Images%202021/User%20Story%20Kick-off%20-%20Quality%20as%20a%20Team/User-Story-Kick-off-Improve-Quality.png
 resources: null
 participants:
   - "Mandatory: Product Owner/BAs"

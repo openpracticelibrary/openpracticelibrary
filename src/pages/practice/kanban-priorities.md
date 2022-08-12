@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Kanban priorities
+title: Kanban Priorities
 subtitle: Prioritise tasks on the board before daily standup to facilitate
   better communication and team work
 date: 2021-10-07T10:17:30.178Z
@@ -33,5 +33,7 @@ howTo: >-
   * Team members know about hot topics of the day and latest updates.
 
   * Tasks are chosen in the correct order with highest priorities.
+mediaGallery:
+  - link: https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/kanban%20color%20code.png
 participants: []
 ---

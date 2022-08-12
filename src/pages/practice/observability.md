@@ -61,6 +61,8 @@ howTo: >-
 
 
   It doesn’t mean that these are going to be the only sources of information, but they are usually the main source of information. The important thing is to decide what is valuable and what does qualify for your systems. The next step is to correlate these different sources to be able to use them to quickly answer our questions. For example, using a unique request ID can get all the context from a user’s request at a specific point in time…like the time when the user complained but your monitors said things were all good.
+mediaGallery:
+  - link: https://linkedin.github.io/school-of-sre/level101/metrics_and_monitoring/images/image7.png
 resources:
   - link: https://newrelic.com/resources/ebooks/what-is-observability
     linkType: web
