@@ -35,6 +35,8 @@ howTo: >-
   3. The team discuss the problem in more depth and start to come up with possible solutions. This practice can be paired with practices such as [10 for 10](https://openpracticelibrary.com/practice/10-for-10/) and [Silent Brainstorming](https://openpracticelibrary.com/practice/silent-brainstorming-brainwriting/) during the group thinking exercise. The 'Fly' listens curiously and makes notes. **\[10-20 minutes]**
 
   4. The 'Fly' thanks the group and responds to what they have heard. At this point the fly might have some next steps and is ready to move on, they may request to dive into the details from what they have heard, or they may provide further information; e.g., if they have already tried a solution as it was stated and have details/ evidence to bring to the table, this may then lead to a repeat of step 3.
+mediaGallery:
+  - link: https://miro.com/blog/wp-content/uploads/2020/10/Agile-Games.svg
 resources:
   - link: https://www.mbs.works/best-books-training-for-coaches-leaders-and-mentors/the-advice-trap/
     linkType: web
