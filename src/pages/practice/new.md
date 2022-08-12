@@ -151,6 +151,10 @@ howTo: >-
 
 
   We all bring our unique experiences, skills and knowledge to the teams that we’re in, but may not always feel safe to share these. Psychologically safe teams ensure that members are valued for being their true selves, and therefore provide space for each individual to maximise their potential from and share their unique skills and talents. If we do not utilise all the talents of the individuals on our teams, we are missing out on valuable opportunities for delivery and innovation.
+mediaGallery:
+  - link: https://www.great-teams-academy.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-30-at-14.44.58.png
+  - link: https://www.business2community.com/wp-content/uploads/2016/12/psychological-safety-question.jpg.jpg
+  - link: https://www.youtube.com/watch?v=U_35pAviSnI
 resources:
   - link: https://rework.withgoogle.com/print/guides/5721312655835136/
     linkType: web
