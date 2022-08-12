@@ -16,6 +16,9 @@ whatIs: >-
 
 
   Regularly measuring psychological safety will provide a barometer for the psychological health of the team, and in itself raise psychological safety by facilitating explicit discussion about safety and culture. In the early stages of a team (for instance, in the "Forming" or "Storming" Tuckman stages), it may be useful to carry this exercise out as regularly as once every 1-2 weeks. In more mature team stages, once every 2-3 months may be more appropriate.
+
+
+  Note: Be very, very careful and intentional when carrying out this practice. If this is done poorly, not followed up, timed badly, or used as a tool to incentivise, compare, or punish team members or managers, it will be destructive rather than constructive.
 whyDo: Before embarking on a journey to build a high performing team through
   psychological safety, it’s important to understand where the team are now. By
   measuring the degree of psychological safety felt by team members, we can more
