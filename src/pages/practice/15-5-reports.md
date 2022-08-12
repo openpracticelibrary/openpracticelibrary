@@ -86,6 +86,9 @@ howTo: >-
 
 
   Some great ideas come out of this question, especially if you ask it often. Be sure to try to act on any suggestions you receive.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=sGQu-Sc6b9I&feature=emb_title
+  - link: https://cdn.britannica.com/09/157609-050-54CC600B/person-pencil.jpg?w=400&h=300&c=crop
 resources:
   - link: https://www.inc.com/leigh-buchanan/patagonia-founder-yvon-chouinard-15five.html
     description: 15/5 Reports - How Patagonia's Roving CEO Stays in the Loop

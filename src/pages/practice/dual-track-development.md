@@ -57,7 +57,8 @@ howTo: >-
   * Delivery team members dedicate 10% of their time per sprint to collaborating with the design team on the stories in the design kanban.
 
   * Or - just pick one of the above and get started!
-mediaGallery: []
+mediaGallery:
+  - link: https://miro.medium.com/max/1838/1*RZwZuZwI4Sq4n54j0cuYwA.png
 resources:
   - link: https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf
     linkType: web
