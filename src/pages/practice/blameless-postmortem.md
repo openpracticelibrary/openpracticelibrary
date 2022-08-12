@@ -68,6 +68,9 @@ howTo: >-
 
 
   The meeting should be closed when all participants consider the incident to be explained and well understood, and the Postmortem summary prepared and accepted by all parties present. A postmortem summary that can be shared with stakeholders and other interested parties should be brief and precise, focusing on facts and leaving all personal factors aside. A summary should be prepared with aim of helping others not to make the same mistakes. Last but not least, be sure Action Points are looked up and dealt with. There’s no better booster for the next Postmortem, than participants' knowledge that the previous one wasn’t a waste of time and really improved the way organization works. Don’t forget about another useful practice, called Wheel-of-Misfortune for which Postmortem is a great provider of scripts and content.
+mediaGallery:
+  - link: https://www.smartsheet.com/sites/default/files/2020-09/IC-Blameless-Post-Mortems-Five-Whys.png
+  - link: https://www.smartsheet.com/sites/default/files/2020-09/IC-Blameless-Post-Mortems-Best-Practices-Infographic.png
 resources:
   - link: https://openpracticelibrary.com/practice/new/
     linkType: web
