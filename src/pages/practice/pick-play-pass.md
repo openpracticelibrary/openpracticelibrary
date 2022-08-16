@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/PickPlayPassIcon.png?raw=true
+icon: /images/pickplaypassicon.png
 whatIs: >-
   Pick-play-pass is a game used to cohesively organize divergent perspectives.
 
