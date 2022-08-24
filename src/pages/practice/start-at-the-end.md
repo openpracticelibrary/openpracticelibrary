@@ -100,7 +100,8 @@ whyDo: >-
 
 
   * This activity helps you and your team envision what the future will look like when you will reach success.
-mediaGallery: null
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/Impact%20Mapping.jpeg?raw=true
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
