@@ -65,7 +65,7 @@ howTo: >-
     * Plan
     * Probe
 mediaGallery:
-  - link: https://drive.google.com/file/d/1_m0HwCX-96785PyBuWGWcLKYImB09BUi/view?usp=sharing
+  - link: https://d33wubrfki0l68.cloudfront.net/c4462488f8d5d91a69f6b0b90dc5f0c03139deb0/5724c/static/8ea46e003f93c4ac5392f32fdf32d0dc/27a09/remoteaf-backlog-filter.png
 resources:
   - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
     linkType: web
