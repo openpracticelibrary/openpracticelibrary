@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: remote:af backlog filter
+title: backlog filter
 subtitle: Identify and action high complexity backlog items in any context.
 date: 2022-05-24T05:12:19.659Z
 authors:
@@ -67,7 +67,7 @@ howTo: >-
 mediaGallery:
   - link: https://d33wubrfki0l68.cloudfront.net/c4462488f8d5d91a69f6b0b90dc5f0c03139deb0/5724c/static/8ea46e003f93c4ac5392f32fdf32d0dc/27a09/remoteaf-backlog-filter.png
 resources:
-  - link: https://drive.google.com/file/d/1mwVym7SJ_uVggTrZubrniPAmkPLWVokq/view?usp=sharing
+  - link: https://drive.google.com/file/d/1A22kWVWZJLJPSiYHkChny3anHJb7oeI-/view?usp=sharing
     linkType: web
     description: click here to download your copy of the backlog filter
   - link: https://www.researchgate.net/publication/335491299_A_framework_to_manage_uncertainty_in_early_planning_of_projects_an_ICT_project
