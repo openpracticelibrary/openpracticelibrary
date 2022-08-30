@@ -5,7 +5,7 @@ subtitle: This practice sharpens the ability of a team to listen and progress
   collectively.
 date: 2022-08-22T11:43:55.381Z
 authors:
-  - skraft
+  - skraft-redhat
 tags:
   - culture
 mobiusTag: foundation
@@ -40,10 +40,9 @@ howTo: >-
   * As a moderator, you can further challenge the group by throwing in totally absurd words
 
   * For very advanced setups you could further limit the choices by prohibiting words with a letter.
-resources:
+mediaGallery:
   - link: https://www.youtube.com/watch?v=5qZKnPmqD84
-    linkType: web
-    description: Short video showcasing the practice.
+resources:
   - link: https://www.thegamegal.com/2010/08/18/tell-a-story/
     linkType: web
     description: Description of the practice on thegamegal.com
