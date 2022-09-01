@@ -123,5 +123,8 @@ resources:
   - link: https://newrelic.com/blog/best-practices/best-practices-for-setting-slos-and-slis-for-modern-complex-systems
     linkType: web
     description: Best Practices for Modern Complex Systems as example
+  - link: https://github.com/operate-first/sre/blob/main/picking_good_slis.md
+    linkType: web
+    description: Operate First - Picking Good SLIs
 participants: []
 ---
