@@ -129,7 +129,8 @@ howTo: >-
 
 
   Cover photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/checklist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-mediaGallery: []
+mediaGallery:
+  - link: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80
 resources:
   - link: https://www.amazon.com.au/Agile-Application-Security-Rich-Smith/dp/1491938846
     linkType: purchase
