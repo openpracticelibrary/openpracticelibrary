@@ -101,7 +101,7 @@ whyDo: >-
 
   * This activity helps you and your team envision what the future will look like when you will reach success.
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/Impact%20Mapping.jpeg?raw=true
+  - link: https://www.researchgate.net/profile/Marini-Othman-2/publication/220670300/figure/tbl4/AS:393929070530568@1470931417636/Success-and-failure-factors-for-Agile-Projects-from-the-Process-Dimension.png
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
