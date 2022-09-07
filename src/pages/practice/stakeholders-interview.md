@@ -69,4 +69,7 @@ howTo: >-
 
       How to prepare interview: \
       <https://medium.com/design-research-methods/tips-for-writing-a-discussion-guide-c08459131a54>
+mediaGallery:
+  - link: https://www.datocms-assets.com/16499/1571500958-stakeholderinterviewguide1.jpg?auto=format
+  - link: https://www.youtube.com/watch?v=MOlDhx_Wn50
 ---
