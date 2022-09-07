@@ -88,6 +88,9 @@ howTo: >-
 
 
   As with most things in Agile, focusing on what information is most important is key to being effective.
+mediaGallery:
+  - link: https://heartofthecustomer.com/wp-content/uploads/2019/04/Customer_experience_journey_map_graphic.png
+  - link: https://miro.medium.com/max/1838/1*ZsUu8nEGbxRCMaHE6fDanQ.png
 time: ""
 difficulty: moderate
 participants:

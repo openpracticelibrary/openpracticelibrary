@@ -77,6 +77,9 @@ howTo: >-
 
 
   Remember, just because there is dissent, doesn't mean there is a problem or that certain people must have their way. Use the 'Disagree and Commit' practice to arrive at the best decision for the group, and allow the them to move forward as one to deliver with purpose and passion.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=UrUZb_lGqPM
+  - link: https://intentbasedleadership.com/wp-content/uploads/2021/06/Dissent-Cards.jpg
 resources:
   - link: https://davidmarquet-com.3dcartstores.com/Dissent-Cards--It-is-important-to-create-environments-where-people-feel-it-is-safe-to-share-what-they-see_p_14.html
     linkType: purchase

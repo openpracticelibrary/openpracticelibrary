@@ -47,6 +47,9 @@ howTo: >-
   * Asking effective questions
 
   * Suspending judgement
+mediaGallery:
+  - link: https://coachfoundation.com/blog/wp-content/uploads/2021/10/Graphics-02-1-scaled.jpg
+  - link: https://www.youtube.com/watch?v=_TMM0lhukBg
 resources:
   - link: https://www.performanceconsultants.com/grow-model
     linkType: web
