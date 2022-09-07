@@ -101,7 +101,7 @@ whyDo: >-
 
   * This activity helps you and your team envision what the future will look like when you will reach success.
 mediaGallery:
-  - link: https://www.researchgate.net/profile/Marini-Othman-2/publication/220670300/figure/tbl4/AS:393929070530568@1470931417636/Success-and-failure-factors-for-Agile-Projects-from-the-Process-Dimension.png
+  - link: https://www.researchgate.net/profile/Marini-Othman-2/publication/220670300/figure/tbl3/AS:393929070530567@1470931417560/Success-and-failure-factors-for-Agile-Projects-from-the-People-Dimension.png
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
