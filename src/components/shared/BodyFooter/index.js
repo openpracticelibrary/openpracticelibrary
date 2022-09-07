@@ -13,6 +13,8 @@ import {
   GitHub,
   YouTube,
   Instagram,
+  Twitter,
+  LinkedIn,
 } from "@material-ui/icons";
 import { CCHeart } from "../../../assets/icons/index";
 import Logo from "../../../components/shared/Logo";
@@ -81,7 +83,25 @@ const BodyFooter = () => {
                 >
                   <Instagram />
                 </Link>
-              </Grid>           
+              </Grid>
+              <Grid item>
+                <Link
+                  href="https://www.twitter.com/practicelibrary/?hl=en"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <Twitter />
+                </Link>
+              </Grid> 
+              <Grid item>
+                <Link
+                  href="https://www.linkedin.com/company/openpracticelibrary/"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <LinkedIn />
+                </Link>
+              </Grid> 
             </Grid>
           </Box>
         </Box>

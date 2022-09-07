@@ -58,7 +58,8 @@ howTo: >-
 
 
   *TIP: You'll notice as you go that job size plays a big role in the eventual prioritisation of work items. It may be useful to review your backlog when you have your scoring and see if the majority of the value from a work item is garnered from a smaller slice of the original backlog item.*
-mediaGallery: []
+mediaGallery:
+  - link: https://lh3.googleusercontent.com/SCSDiukNBtHKP4URJ3WXGR_nQTjK54O3Wqjj0dLmS4hdBikb6PwCZss41nVBzNHGw_NsOv8iHGLN-zKeH6txw2YfOQGY-EdqMhArK0g_FQTxqG4l1ztFCJ28BLKuniEZkIIxLITi
 difficulty: moderate
 participants: []
 ---

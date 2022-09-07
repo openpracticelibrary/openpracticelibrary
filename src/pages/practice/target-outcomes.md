@@ -34,19 +34,15 @@ howTo: >-
 
   * Use the timer visible to all attendees
 
-  * Start with the Start at the end and apply the Affinity Map practice to group topics
+  * Start with the [Start At The End](https://openpracticelibrary.com/practice/start-at-the-end/) practice and apply the [Affinity Mapping](https://openpracticelibrary.com/practice/affinity-mapping/) practice to group topics
 
-  * At the end you can review the Target outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the Open Decision Tree
+  * At the end you can review the Target Outcomes of your initiative and write a SMART GOAL that can become the starting point of Impact Map or the Open Decision Tree
 
 
   ### Tips for Remote Working
 
 
   * Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes%203.jpg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/target%20outcomes%202.JPG?raw=true
 resources:
   - link: https://www.infoq.com/news/2014/11/outcomes-mobius-framework/
     linkType: web
@@ -60,16 +56,20 @@ resources:
   - link: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
     linkType: web
     description: Outcome metrics - Gabrielle Benefield
+people: 2+
+difficulty: moderate
 participants:
   - Product Owner
   - Team Members
   - Key Stakeholders
 area: discovery-loop-outcomes
-people: 2+
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes%203.jpg?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/target%20outcomes%202.JPG?raw=true
 time: 30 minutes
 perspectives:
   - facilitation-tips-for-remote-sessions
-difficulty: moderate
 ---
 ## What is it?
 

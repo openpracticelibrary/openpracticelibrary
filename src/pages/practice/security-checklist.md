@@ -95,7 +95,7 @@ whatIs: >-
     * Is the test coverage sufficient?
     * Are misuse cases represented?
 
-  See the [Code Review Security Checklist Implementation Manual](https://academy.safestack.io/wp-content/uploads/2021/01/code_review_security_checklist_implementation_manual_2020-02-20.pdf) for details.
+  See the [Code Review Security Checklist Implementation Manual](https://academy.safestack.io/wp-content/uploads/2022/03/secure_code_checklist_and_implementation_guide.pdf) for details.
 whyDo: >
   Improve code review culture by consistently applying secure coding practices. 
 
@@ -129,17 +129,15 @@ howTo: >-
 
 
   Cover photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/checklist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-mediaGallery: []
+mediaGallery:
+  - link: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80
 resources:
-  - link: https://academy.safestack.io/wp-content/uploads/2021/01/code_review_security_checklist_2020-02-20.pdf
-    linkType: web
-    description: Download Security Checklist as a PDF from SafeStack.io
-  - link: https://academy.safestack.io/wp-content/uploads/2021/01/code_review_security_checklist_implementation_manual_2020-02-20.pdf
-    linkType: web
-    description: PDF - Download the Implementation Manual
   - link: https://www.amazon.com.au/Agile-Application-Security-Rich-Smith/dp/1491938846
     linkType: purchase
     description: "Book: Agile Application Security: Enabling Security in a
       Continuous Delivery Pipeline"
+  - link: https://academy.safestack.io/wp-content/uploads/2022/03/secure_code_checklist_and_implementation_guide.pdf
+    linkType: web
+    description: PDF - Secure code checklist & implementation guide
 participants: []
 ---
