@@ -125,7 +125,8 @@ howTo: >-
 
   **Want to run this practice remotely? See the Mural Template below! 💻🙏**
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png
+  - link: https://www.teamretro.com/wp-content/uploads/2019/09/Agile.jpg
+  - link: https://www.youtube.com/watch?v=DOByIy9I8rc
 resources:
   - link: https://anchor.fm/openpracticelibrary/episodes/Retrospectives-w-Mary-Provinciatto-eh6acr
     linkType: podcast
