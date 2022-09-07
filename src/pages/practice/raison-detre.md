@@ -56,6 +56,8 @@ howTo: >-
 
 
   7. Transfer the finalized 'manifesto' to a larger format - a poster or large piece of paper which can be hung in a central location in the team's work area as a regular reminder.
+mediaGallery:
+  - link: https://www.phaidon.com/images/9781838660505/main-desktop-x1-webp/9781838660505-Bruce-Mau-MC24-pp12-13-spread-1to1.webp
 resources:
   - link: https://www.phaidon.com/store/design/bruce-mau-mc24-9781838660505/
     linkType: web
