@@ -54,5 +54,7 @@ howTo: >-
 
 
   Finally, reviewing is not enough — we need to update our risk management artifacts, update our risk lists and EMV scores, and groom the backlog with new features and new risk responses; and always rebalancing the priorities. Update the risk information radiator graphs (like our risk burn-down graphs), and make sure people are not only looking at the impacts of new work in terms of estimates, but potential risks, too.
+mediaGallery:
+  - link: https://4.bp.blogspot.com/-ZWgssial6Uk/W9GANoS_XiI/AAAAAAAACbk/ezB1zj234Sw4CPBqygTkmvLlPrKJzliBQCLcBGAs/s1600/untitled.png
 participants: []
 ---
