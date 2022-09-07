@@ -59,7 +59,8 @@ howTo: >-
 
 
   These exercises and discussions aim to get the team thinking about the appropriate level of risk management for the project and gain consensus and support for the strategy that is agreed upon. Without this shared understanding of “why?” we will not get people invested in the process.
-mediaGallery: []
+mediaGallery:
+  - link: https://www.oregonlive.com/resizer/LPl99aYPGQsUDyl-EwHc-doWbw0=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5JRLM5D7BZGW5G6X2ZK7LLUQBA.jpg
 time: 10 minutes
 difficulty: easy
 participants:
