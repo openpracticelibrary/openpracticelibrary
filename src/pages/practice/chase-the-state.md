@@ -10,7 +10,7 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/chase-the-state.jpg
-whatIs: Often when developing software teams lose sight of the big picture, and
+whatIs: Often when developing software, teams lose sight of the big picture, and
   don’t truly understand where they are. This fast, structured  assessment
   enables a team to quickly understand where they are with regards to their
   software development. This game does it in a holistic fashion that will
