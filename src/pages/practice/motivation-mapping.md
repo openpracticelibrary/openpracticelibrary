@@ -19,17 +19,13 @@ whyDo: >-
 
   1. Context - What is the environment surrounding us or our customer? What platform are we operating on? What are the factors impacting our environment?
 
-
-  2. Goals - What goes do we or our customers have? What do we want to achieve?
-
+  2. Goals - What goals do we or our customers have? What do we want to achieve?
 
   3. Reasons for the Goals - Identify why we set this goal or objective. 
 
-
   4. Obstacles - What is preventing us from making progress on our objective? What are the impediments?
 
-
-  5. Target Outcome - What state do we need to be in to be able to say that our goal was achieved? 
+  5. Target Outcome - What state do we need to be in to be able to say that our goal was achieved?
 howTo: >-
   * Divide a canvas into 6 sections. One box on top, two boxes in the middle,
   and three boxes at the bottom. The top box is Who we are understanding the
