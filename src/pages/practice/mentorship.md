@@ -228,5 +228,6 @@ resources:
   - link: https://www.youtube.com/watch?v=2OPpJcbUAmw&t
     linkType: video
     description: The Community Event where this approach to Mentorship was first incepted
+people: 2+
 participants: []
 ---
