@@ -9,7 +9,7 @@ tags:
   - methods
   - culture
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/mentorship-kick-off-open-pattern-mentorship-agreement.jpg
 whatIs: >-
   Mentorship as a general practice is one of the oldest forms of spreading
   knowledge between people. In this version of the practice we leverage the use
@@ -221,6 +221,7 @@ howTo: >-
 
 
   Capture the mentor’s and mentee’s intentions for what they will do next as a consequence of the mentorship.
+mediaGallery: []
 resources:
   - linkType: web
     link: https://miro.com/miroverse/connection-in-remote-working/
