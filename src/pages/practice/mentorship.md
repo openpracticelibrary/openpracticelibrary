@@ -3,7 +3,8 @@ templateKey: practice-page
 title: Mentorship
 subtitle: Resource mentors and mentees with structured mentoring.
 date: 2022-09-20T01:17:03.717Z
-authors: []
+authors:
+  - john-remoteaf
 tags:
   - methods
   - culture
