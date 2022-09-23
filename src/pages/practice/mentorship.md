@@ -21,8 +21,7 @@ whatIs: >-
   from lightweight structure.
 
 
-
-  This framing of Mentorship has been developed based of research and co-designed by the remote:af community.
+  This framing of Mentorship has been developed based of research and co-designed by the remote:af community. A video of the event has been provided below.
 whyDo: Mentorship can provide organisations with reinforced channels of
   information outside of hierarchy and providing ongoing learning and
   development between people. As a learning and development practice,
