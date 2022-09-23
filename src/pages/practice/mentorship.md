@@ -22,6 +22,9 @@ whatIs: >-
 
 
   This framing of Mentorship has been developed based of research and co-designed by the remote:af community. A video of the event has been provided below.
+
+
+  E﻿xample images of the Mentorship pattern in use have been provided in the share link with the templates.
 whyDo: Mentorship can provide organisations with reinforced channels of
   information outside of hierarchy and providing ongoing learning and
   development between people. As a learning and development practice,
@@ -226,9 +229,10 @@ resources:
   - linkType: web
     link: https://miro.com/miroverse/connection-in-remote-working/
     description: Story.Me Cards
-  - link: https://www.youtube.com/watch?v=2OPpJcbUAmw&t
+  - link: https://drive.google.com/drive/folders/1MGXwkyElS23u0DHqKiSGHNmPuyynlg34?usp=sharing
     linkType: web
-    description: Mentorship Template
+    description: Mentorship Templates
 people: 2+
+difficulty: easy
 participants: []
 ---
