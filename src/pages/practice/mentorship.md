@@ -221,14 +221,15 @@ howTo: >-
 
 
   Capture the mentor’s and mentee’s intentions for what they will do next as a consequence of the mentorship.
-mediaGallery: []
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=2OPpJcbUAmw&t
 resources:
   - linkType: web
     link: https://miro.com/miroverse/connection-in-remote-working/
     description: Story.Me Cards
   - link: https://www.youtube.com/watch?v=2OPpJcbUAmw&t
-    linkType: video
-    description: The Community Event where this approach to Mentorship was first incepted
+    linkType: web
+    description: Mentorship Template
 people: 2+
 participants: []
 ---
