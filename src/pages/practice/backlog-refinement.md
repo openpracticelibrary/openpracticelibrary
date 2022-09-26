@@ -33,9 +33,9 @@ howTo: >-
   ### How often should it occur and for how long?
 
 
-  * The simple answer is as often as is necessary
+  * The simple answer is as often as is necessary.
 
-  * Typically its advised that 1 hour of refinement should suffice for each week of the sprint
+  * Typically it's advised that 1 hour of refinement a week is enough.
 
 
   ### Tips for Remote Working
@@ -59,14 +59,13 @@ howTo: >-
   ### Advice
 
 
-  * Although typically occurring as a team meeting, backlog refinement can occur throughout the sprint with the required parties. However information gained in this meeting must be adequately radiated to those who need it.
+  * Although typically occurring as a team meeting, backlog refinement can occur throughout the week with the required parties. However information gained in this meeting must be adequately radiated to those who need it.lk
 
   * Product owners are also not necessarily required for a backlog refinement. The key is to have those who have sufficient knowledge to talk through a backlog item and answer questions. This may come in the form of a Product owner, Stakeholder, Developer etc
 
 
   **Want to get better with Backlog Refinement remotely? [Here's a game to help you and your team practice it](https://www.tastycupcakes.org/2015/05/weekend-escape/) 💻 🙏**
 mediaGallery:
-  - link: https://www.visual-paradigm.com/servlet/editor-content/scrum/how-to-define-product-backlog/sites/7/2018/12/product-backlog-refinement.png
   - link: https://www.youtube.com/watch?v=WuTF6Rng8Vk&t=60s
 resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
