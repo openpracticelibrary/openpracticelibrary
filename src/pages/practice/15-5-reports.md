@@ -10,9 +10,10 @@ tags:
 mobiusTag: foundation
 icon: /images/person-pencil.jpeg
 whatIs: >-
-  Inspired by the Scrum standup questions, 15/5 reports are a great way to keep
-  a regular pulse across teams and organisations. They should take no more than
-  15 minutes to write, and no more than 5 minutes to read.
+  Originally created by Yvon Chouinard, founder of the clothing brand Patagonia,
+  and inspired by the Scrum standup questions, 15/5 reports are a great way to
+  keep a regular pulse across teams and organisations. They should take no more
+  than 15 minutes to write, and no more than 5 minutes to read.
 
 
   When you create a weekly cadence of 15/5 reports, you can use them to inform 1-1 meetings you have, and it helps you report up and across to other team leaders or managers.
