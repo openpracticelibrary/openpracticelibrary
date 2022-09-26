@@ -54,6 +54,9 @@ resources:
   - link: https://anchor.fm/openpracticelibrary/episodes/The-Big-Picture-w-Haitham-Shahin-ehg7d6
     linkType: podcast
     description: Big Picture Open Practice Podcast Episode
+  - link: " https://landscape.cncf.io/"
+    description: CNCF Cloud Native Interactive Landscape
+    linkType: web
 participants:
   - The Dev Team
   - The PO & Designers
