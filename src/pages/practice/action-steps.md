@@ -16,7 +16,9 @@ whatIs: >-
   This is a collaborative practice that invites everyone to commit to taking a first step towards action.  
 
 
-  Inspired by the idea that 1000 mile journey begins with one step, action steps gets people to think about the first step they will take to continue the work begun together today. Informed by De Bono's Action shoes.
+  * Inspired by the idea that 1000 mile journey begins with one step, action steps asks people to think about the first step they will take to continue the work begun together, and commit to action.
+
+  * Informed by De Bono's Action shoes.
 whyDo: >-
   Meetings can sometimes feel like they're all talk, and no action.  
 
@@ -55,6 +57,7 @@ howTo: >-
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/ActionSteps.jpg
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/sate-actionsteps.jpg
+  - link: https://www.eliteplusmagazine.com/ckfinder/userfiles/images/Untitled(2).jpg
 resources:
   - link: https://www.debono.com/Books/Six-Action-Shoes
     linkType: web
