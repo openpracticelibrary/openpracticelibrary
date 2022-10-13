@@ -3,11 +3,9 @@ import FullText from "./FullText";
 import MediaGallery from "./MediaGallery";
 import Resources from "./Resources";
 import { Box, Typography } from "@material-ui/core";
-import HyvorTalk from "hyvor-talk-react";
 
 const PageBody = ({
   body: { whatIs, whyDo, howTo },
-  discussRef,
   fullText,
   howToRef,
   mediaGallery,
@@ -73,10 +71,6 @@ const PageBody = ({
             />
           </>
         )}
-        <Typography ref={discussRef} variant="h4">
-          Discuss with the Community
-        </Typography>
-        <HyvorTalk.Embed websiteId={1961} />
       </Box>
     );
   } else {
