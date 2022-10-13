@@ -44,11 +44,9 @@ const PracticePage = ({ data, preview }) => {
   const whyDoRef = useRef(null);
   const howToRef = useRef(null);
   const resourceRef = useRef(null);
-  const discussRef = useRef(null);
 
   // Child props
   const pageRefs = {
-    discussRef,
     whatIsRef,
     mediaRef,
     whyDoRef,
