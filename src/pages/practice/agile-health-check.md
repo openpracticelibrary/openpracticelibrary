@@ -32,6 +32,9 @@ resources:
   - link: https://labs.spotify.com/2014/09/16/squad-health-check-model/
     linkType: web
     description: Spotify Health Check
+  - link: https://blog.crisp.se/2019/03/11/jimmyjanlen/health-checks-for-teams-and-leadership
+    linkType: web
+    description: Health checks for Teams and Leadership
 participants:
   - The Team
 jumbotron: /images/health-check-sliders.jpg
