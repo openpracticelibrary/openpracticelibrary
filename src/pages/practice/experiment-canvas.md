@@ -12,8 +12,23 @@ tags:
   - learn
 mobiusTag: options
 icon: /images/experiment-canvas.jpeg
-whatIs: t﻿bd
-whyDo: t﻿bd
+whatIs: >-
+  T﻿he Experiment Canvas, created by Chris Stone, is a practice and artifact
+  that helps teams design focused experiments with clear guardrails around
+  scope, involvement, timeframe, and success criteria. It's a great tool to use
+  when a team has:
+
+
+  a﻿) a problem they want to solve
+
+
+  b﻿) an idea they want to implement
+whyDo: When a team fills out an experiment canvas together, it forces
+  conversations that require the team to make decisions about specific areas
+  that make up a well-designed experiment. By the end, all teams members have a
+  clear sense of what's being done, thereby improving alignment, clarity, and
+  speed while instilling a culture of ideation, collaboration, and
+  experimentation as the vehicle to continuous improvement 💡 👩‍🔬 📈 🥳
 howTo: t﻿bd
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Experiment%20Canvas.jpeg?raw=true
