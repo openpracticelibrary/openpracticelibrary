@@ -190,9 +190,9 @@ howTo: >-
 
   * R﻿eview all information and make a team determination to...
 
-    1. Success =  You can either move onto another experiment, or scale the solution to other teams, if applicable.
+    1. Success = the experiment achieved the target outcomes. You can either move onto another experiment, or scale the solution to other teams, if applicable.
     2. P﻿artial success = the experiment didn't quite achieve the results the team wanted, but we all feel it's on the right track. In this case, ask how the experiment might be improved in order to achieve the results, update the canvas with these changes, and determine a new timeframe in "The Trials" to run a second iteration of the experiment.
-    3. F﻿ailure =
+    3. Failure = the experiment was way off on achieving the target outcomes, and the team feels it's best to try a different solution instead. In this case, start a new canvas with the new solution and run another experiment.
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Experiment%20Canvas.jpeg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Experiment%20Canvas.png?raw=true
