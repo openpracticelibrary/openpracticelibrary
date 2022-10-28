@@ -190,7 +190,7 @@ howTo: >-
 
   * R﻿eview all information and make a team determination to...
 
-    1. Su You can either move onto another experiment, or scale the solution to other teams, if applicable.
+    1. Success =  You can either move onto another experiment, or scale the solution to other teams, if applicable.
     2. P﻿artial success = the experiment didn't quite achieve the results the team wanted, but we all feel it's on the right track. In this case, ask how the experiment might be improved in order to achieve the results, update the canvas with these changes, and determine a new timeframe in "The Trials" to run a second iteration of the experiment.
     3. F﻿ailure =
 mediaGallery:
