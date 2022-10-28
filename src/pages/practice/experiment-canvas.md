@@ -26,12 +26,13 @@ whatIs: >-
 
 
   I﻿f you get the sense the team doesn't have quite enough of a firm grasp of the problem, you might try running something like an [Abstraction Ladder](https://openpracticelibrary.com/practice/abstraction-ladder/) practice to help the team explore and map out the problem space.
-whyDo: When a team fills out an experiment canvas together, it forces
-  conversations that require the team to make decisions about specific areas
-  that make up a well-designed experiment. By the end, all teams members have a
-  clear sense of what's being done, thereby improving alignment, clarity, and
-  speed while instilling a culture of ideation, collaboration, and
-  experimentation as the vehicle to continuous improvement 💡 👩‍🔬 📈 🥳
+whyDo: >-
+  When a team fills out an experiment canvas together, it forces conversations
+  that require the team to make decisions about specific areas that make up a
+  well-designed experiment. 
+
+
+  By the end, all teams members have a clear sense of what's being done, thereby improving alignment, clarity, and speed while instilling a culture of ideation, collaboration, and experimentation as the vehicle to continuous improvement 💡 👩‍🔬 📈 🥳
 howTo: >-
   1. P﻿repare a blank Experiment Canvas on a wall or in your digital
   whiteboarding tool of choice
