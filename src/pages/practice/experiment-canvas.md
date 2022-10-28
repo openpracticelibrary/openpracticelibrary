@@ -5,7 +5,7 @@ subtitle: Be specific with your idea experiments to improve scope,
   collaboration, and alignment
 date: 2022-10-26T13:59:15.691Z
 authors:
-  - jerryjokesalot
+  - heyjerrybecker
 tags:
   - validate
   - measure
