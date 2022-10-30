@@ -32,7 +32,7 @@ whyDo: >-
   well-designed experiment. 
 
 
-  By the end, all teams members have a clear sense of what's being done, thereby improving alignment, clarity, and speed while instilling a culture of ideation, collaboration, and experimentation as the vehicle to continuous improvement 💡 👩‍🔬 📈 🥳
+  By the end, all teams members have a clear sense of what's being done, thereby improving alignment, clarity, and speed while instilling a culture of ideation, collaboration, and experimentation as the vehicle to continuous improvement 💡 👩‍🔬 📈
 howTo: >-
   P﻿repare a blank Experiment Canvas on a wall or in your digital whiteboarding
   tool of choice
