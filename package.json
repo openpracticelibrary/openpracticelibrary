@@ -21,7 +21,7 @@
     "gatsby-plugin-google-analytics": "^2.3.14",
     "gatsby-plugin-netlify": "^2.3.15",
     "gatsby-plugin-netlify-cms": "^4.3.14",
-    "gatsby-plugin-purgecss": "^5.0.0",
+    "gatsby-plugin-purgecss": "^6.1.2",
     "gatsby-plugin-react-helmet": "^3.3.11",
     "gatsby-plugin-sass": "^2.3.13",
     "gatsby-plugin-sharp": "^4.24.0",
