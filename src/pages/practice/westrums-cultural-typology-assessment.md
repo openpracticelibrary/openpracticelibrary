@@ -49,18 +49,16 @@ whatIs: >-
   | Novelty crushed               | Novelty leads to problems | Novelty implemented        |
 
 
-
-
   Whilst this is certainly an over-simplification of an ambiguous and constantly changing concept of "culture", it's a really useful model to help understand current state, direction of travel, and identify areas of improvement.
 
 
   Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
 
 
-  Photo by [Meghan Lamle](https://unsplash.com/@mlamle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/rUpbBdEBCFs)
-
-
   Y﻿ou can see in the table above how "generative" cultures are closely aligned to what we would describe as psychologically safe cultures, where mistakes are shared, ideas discussed and concerns raised without fear. This article describes in more depth the relationship between [Westrum's Typologies and psychological safety](https://psychsafety.co.uk/psychological-safety-81-westrums-cultural-typologies/).
+
+
+  Photo by [Meghan Lamle](https://unsplash.com/@mlamle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/rUpbBdEBCFs)
 whyDo: >-
   In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean
   Enterprise: How High Performance Organizations Innovate at Scale", which
