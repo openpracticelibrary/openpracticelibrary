@@ -34,7 +34,6 @@
     "gatsby-transformer-remark": "^2.8.35",
     "gatsby-transformer-sharp": "^2.5.15",
     "gatsby-transformer-toml": "^2.4.14",
-    "hyvor-talk-react": "^1.0.3",
     "immer": "^9.0.12",
     "js-search": "^2.0.0",
     "lodash": "^4.17.21",
