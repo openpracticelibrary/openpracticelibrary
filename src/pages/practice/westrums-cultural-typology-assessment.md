@@ -55,6 +55,9 @@ whatIs: >-
   Ron Westrum describes a culture of "safety" in Generative organisations, and it's easy to see how psychological safety is both increased in, and fundamental to, Generative cultures. Amy Edmondson, in 2008, described "Learning Organisations" in her paper "Is yours a learning organization?" and similarly suggested an assessment framework to measure how well an company learns and how adeptly it refines its strategies and processes.
 
 
+  Y﻿ou can see in the table above how "generative" cultures are closely aligned to what we would describe as psychologically safe cultures, where mistakes are shared, ideas discussed and concerns raised without fear. This article describes in more depth the relationship between [Westrum's Typologies and psychological safety](https://psychsafety.co.uk/psychological-safety-81-westrums-cultural-typologies/).
+
+
   Photo by [Meghan Lamle](https://unsplash.com/@mlamle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/rUpbBdEBCFs)
 whyDo: >-
   In 2015, Jez Humble, Joanne Molesky, and Barry O'Reilly wrote the book "Lean
@@ -90,14 +93,14 @@ howTo: >-
   6. On my team, new ideas are welcomed.
 
 
-  You can choose to use either a 7- or 5- point Likert scale to measure agreement with these statements. A 5-point scale would be thus: (1) Strongly disagree; (2) Disagree; (3) Neither agree nor disagree; (4) Agree; (5) Strongly agree.\
+  You can use 5- point Likert scale to measure agreement with these statements. A 5-point scale would be thus: (1) Strongly disagree; (2) Disagree; (3) Neither agree nor disagree; (4) Agree; (5) Strongly agree.\
 
   \
 
   Using 7 points would provide greater granularity, but impacts usability and accessibility. 
 
 
-  Average these scores for your summative Westrum's Typology score. Close to zero suggests your culture is towards "Pathological", 2-3 suggests Bureaucratic, and 4-5 suggests a Generative culture:
+  Add up and average these scores for your summative Westrum's Typology score. Close to zero suggests your culture is towards "Pathological", 2-3 suggests Bureaucratic, and 4-5 suggests a Generative culture:
 
 
   | **Pathological -** | **Bureaucratic -** | **Generative** |
@@ -105,6 +108,8 @@ howTo: >-
   | ------------------ | ------------------ | -------------- |
 
   | *0-1*              | *2-3*              | *4-5*          |
+
+
 
 
   The individual line scores suggest areas for improvement. For example, if your score for statement 4 is particularly low, investigate and employ practices to improve collaboration between different functional teams, ask teams what challenges they face in communication and collaboration, and facilitate informal gatherings or events where people in different teams can get to know each other.
@@ -147,6 +152,9 @@ resources:
   - link: https://itrevolution.com/book/accelerate/
     description: "ACCELERATE The Science of Lean Software and DevOps: Building and
       Scaling High Performing Technology Organizations"
+    linkType: web
+  - link: https://psychsafety.co.uk/psychological-safety-81-westrums-cultural-typologies/
+    description: Psychological Safety and Westrum's Typologies
     linkType: web
 participants: []
 ---
