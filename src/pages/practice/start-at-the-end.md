@@ -87,8 +87,8 @@ howTo: >-
 
   * Typically done in the Why area of the Discovery of the Open Practice Library
 mediaGallery:
-  - link: https://www.researchgate.net/profile/Marini-Othman-2/publication/220670300/figure/tbl3/AS:393929070530567@1470931417560/Success-and-failure-factors-for-Agile-Projects-from-the-People-Dimension.png
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Discovery%20-%20Start%20At%20The%20End%20-%20Open%20Practice%20Library.png
+  - link: https://www.researchgate.net/profile/Marini-Othman-2/publication/220670300/figure/tbl3/AS:393929070530567@1470931417560/Success-and-failure-factors-for-Agile-Projects-from-the-People-Dimension.png
 resources:
   - link: https://www.thesprintbook.com
     linkType: web
