@@ -29,6 +29,20 @@ whatIs: >-
 
 
   * A prioritization of the key questions.
+whyDo: >-
+  * Most planning activities revolve around juggling a "shopping list of
+  features," as Gojko Adzic calls them in [Impact
+  Mapping](/practice/impact-mapping/). Even though the features are delivered,
+  often the business objective is not achieved. Start At The End gives us a
+  light weight approach to put the business value at the center of our work and
+  make sure that assumptions that could lead to failure are clearly identified
+  for examination.
+
+
+  * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
+
+
+  * This activity helps you and your team envision what the future will look like when you will reach success.
 howTo: >-
   ### Tips
 
@@ -72,6 +86,9 @@ howTo: >-
   ### How does it fit?
 
   * Typically done in the Why area of the Discovery of the Open Practice Library
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/Discovery%20-%20Start%20At%20The%20End%20-%20Open%20Practice%20Library.png
+  - link: https://www.researchgate.net/profile/Marini-Othman-2/publication/220670300/figure/tbl3/AS:393929070530567@1470931417560/Success-and-failure-factors-for-Agile-Projects-from-the-People-Dimension.png
 resources:
   - link: https://www.thesprintbook.com
     linkType: web
@@ -85,25 +102,16 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
+  - link: https://miro.com/app/board/uXjVPTLsYlE=/?share_link_id=158968117200
+    linkType: web
+    description: Miro template - Start at the end
 area: discovery-loop-why
-whyDo: >-
-  * Most planning activities revolve around juggling a "shopping list of
-  features," as Gojko Adzic calls them in [Impact
-  Mapping](/practice/impact-mapping/). Even though the features are delivered,
-  often the business objective is not achieved. Start At The End gives us a
-  light weight approach to put the business value at the center of our work and
-  make sure that assumptions that could lead to failure are clearly identified
-  for examination.
-
-
-  * Start At The End is really easy and quick to facilitate, but often yields great results. It's a great technique for those new to facilitating workshops or sessions that are short on time.
-
-
-  * This activity helps you and your team envision what the future will look like when you will reach success.
-mediaGallery: null
+people: 3+
+time: 30 - 60 mins
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
+difficulty: moderate
 aliases:
   - /practice/visioning/
 ---
