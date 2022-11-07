@@ -31,6 +31,14 @@ whatIs: >-
   * Having to juggle too many priorities
 
   * Having difficulty focusing on what really matters
+
+
+  ### Disclaimer
+
+
+  1. The Cognitive Loadometer is not officially a Red Hat tool and it is not intended to detect burnout, nor does Red Hat intend to use this tool to do so. Burnout is an occupational disease recognized by the  World Health Organization (WHO) and should be diagnosed by a properly credentialed and qualified professional physician. 
+
+  2. The tool was not created by Red Hat. It is not officially used by Red Hat. It was created by a team of Red Hat associates in the open source community.
 whyDo: >-
   Measuring Team Cognitive Load can improve team's productivity, focus,
   motivation and even mitigate burnout risks.
