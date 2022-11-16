@@ -49,12 +49,12 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Creativity%20Warmups%202.jpeg?raw=true
   - link: https://i0.wp.com/i.pinimg.com/originals/07/f0/c3/07f0c30bcf688b0582fcbe72956283fd.png?w=800&ssl=1
 resources:
-  - link: http://home.iitk.ac.in/~sahus/se367/project/TTCT.pdf
-    linkType: web
-    description: Torrance Test of Creative Thinking Example Questions
   - link: https://www.testingmom.com/tests/torrance-test/#:~:text=What%20is%20the%20Torrance%20Test,child%20may%20have%20already%20taken.
     linkType: web
     description: What is the Torrance Test of Creative Thinking? (TTCT)
+  - link: https://www.testingmom.com/tests/torrance-test/sample-torrance-practice-questions/
+    linkType: web
+    description: Torrance Test of Creative Thinking Example Questions
   - link: http://provensal.com/lbb/tag/torrance-tests-of-creative-thinking/
     linkType: web
     description: "Blog: LightBulbBites - Making the non-creatives more creative"
