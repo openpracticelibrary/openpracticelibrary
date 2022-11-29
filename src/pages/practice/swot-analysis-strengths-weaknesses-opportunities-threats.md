@@ -64,7 +64,7 @@ howTo: >-
 
    Once you have answered these questions and finalised your lists, you can now use the SWOT analysis to develop strategies for achieving your business goals.
 resources:
-  - link: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/440px-SWOT_en.svg.png
+  - link: https://en.wikipedia.org/wiki/SWOT_analysis
     linkType: web
     description: Wikipedia Article on SWOT analysis
 difficulty: moderate
