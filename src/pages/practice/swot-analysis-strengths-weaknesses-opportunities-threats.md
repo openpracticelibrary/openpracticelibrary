@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: SWOT Analysis
-subtitle: Review business' Strengths, Weaknesses, Opportunities, & Threats to
-  help achieve your goals.
+subtitle: Review business strengths, weaknesses, opportunities, and threats.
 date: 2022-11-09T12:59:07.159Z
 authors: []
 mobiusTag: options
