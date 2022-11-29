@@ -63,6 +63,8 @@ howTo: >-
    Review your 4 prioritized lists by asking:
 
    Once you have answered these questions and finalised your lists, you can now use the SWOT analysis to develop strategies for achieving your business goals.
+mediaGallery:
+  - link: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/220px-SWOT_en.svg.png
 resources:
   - link: https://en.wikipedia.org/wiki/SWOT_analysis
     linkType: web
