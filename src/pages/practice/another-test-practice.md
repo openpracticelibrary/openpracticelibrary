@@ -8,7 +8,10 @@ authors:
   - springdo
 mobiusTag: foundation
 icon: /images/LDJ 2.jpeg
-whatIs: f﻿dsfdsf
+whatIs: |-
+  f﻿dsfdsf
+
+  I﻿ AM MAKING CHANGES
 whyDo: s﻿fdsf
 howTo: d﻿fdfs
 participants: []
