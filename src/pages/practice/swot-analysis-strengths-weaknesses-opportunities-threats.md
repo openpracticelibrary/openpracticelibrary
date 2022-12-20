@@ -3,7 +3,8 @@ templateKey: practice-page
 title: SWOT Analysis
 subtitle: Review business strengths, weaknesses, opportunities, and threats.
 date: 2022-11-09T12:59:07.159Z
-authors: []
+authors:
+  - InfoSec812
 mobiusTag: options
 icon: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/440px-SWOT_en.svg.png
 whatIs: >-
