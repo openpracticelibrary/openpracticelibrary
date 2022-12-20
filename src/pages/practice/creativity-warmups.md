@@ -31,9 +31,10 @@ whyDo: >-
 
   * and Humor
 howTo: >-
-  1. Pick one or a few exercises to run with your team and hand out the
-  [templates](http://home.iitk.ac.in/~sahus/se367/project/TTCT.pdf) for each
-  exercise to all participating members. 
+  1. Pick one or a few exercises to run with your team and hand out [sample
+  questions](https://www.testingmom.com/tests/torrance-test/sample-torrance-practice-questions/)
+  [](http://home.iitk.ac.in/~sahus/se367/project/TTCT.pdf)for each exercise to
+  all participating members. 
 
      If running remotely, have templates prepared on your favorite digital whiteboarding tool (Miro, Mural, Jamboard, etc).
   2. Explain the exercise to the group. Be sure to mention that this is to stretch creative thinking, so big, wild, and unique ideas are most valuable. For each exercise, the point is for team members to come up with ideas they think no one else will come up with - this helps participants push past obvious answers and explore more creative ideas (see where this is going? 😉 )
