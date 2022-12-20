@@ -16,9 +16,8 @@ whyDo: >-
   Taking time to stretch the team's creative thinking is a fantastic way to get
   more creative ideas from an ideation session for your product, service, or
   project team. Completing any of these mini practices helps expand thinking and
-  can lead to even more creative and innovative ideas.\
+  can lead to even more creative and innovative ideas.
 
-  \
 
   Creativity Warmups are based on the [Torrance Test of Creative Thinking](https://www.testingmom.com/tests/torrance-test/#:~:text=What%20is%20the%20Torrance%20Test,child%20may%20have%20already%20taken.) (TTCT). **The TTCT** assess how creatively a person's mind works and are often given to children to determine advanced placement or as part of an entrance examination. They are very different from intelligence and reasoning tests your child may have already taken. Instead of traditionally taught subjects such as reading or math, these tests assess creativity. Testers are scored on a number of aspects. This includes:
 
