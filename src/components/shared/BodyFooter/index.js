@@ -122,7 +122,14 @@ const BodyFooter = () => {
               Creative Commons Attribution 4.0
             </Link>{" "}
             International license.<br />
-              <a href="https://www.netlify.com/open-source/">Hosted on Netlify</a>
+              Hosted on{" "}
+            <Link
+              href="https://www.netlify.com/open-source/" 
+              target="_blank"
+              rel="noopener"
+            >
+              Netlify
+              </Link>{" "}
           </Typography>
         </Box>
       </Container>
