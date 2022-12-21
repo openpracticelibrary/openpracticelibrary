@@ -16,6 +16,7 @@ collections:
   - name: "practice" # Used in routes, e.g., /admin/collections/blog
     label: "Practice" # Used in the UI
     publish: false
+    delete: false
     folder: "src/pages/practice" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -155,6 +156,7 @@ collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     publish: false
+    delete: false
     folder: "src/pages/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -197,6 +199,7 @@ collections:
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
     publish: false
+    delete: false
     folder: "src/pages/page" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -232,6 +235,7 @@ collections:
     label: "Author" # Used in the UI
     format: "json"
     publish: false
+    delete: false
     extension: "json"
     folder: "src/data/author" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
