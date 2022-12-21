@@ -6,7 +6,7 @@ date: 2022-11-09T12:59:07.159Z
 authors:
   - InfoSec812
 mobiusTag: options
-icon: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/440px-SWOT_en.svg.png
+icon: /images/swot_wikimedia.png
 whatIs: >-
   SWOT analysis (or SWOT matrix) is a strategic planning and strategic
   management technique used to help a person or organization identify Strengths,
