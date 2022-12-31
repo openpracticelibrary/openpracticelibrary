@@ -96,10 +96,10 @@ howTo: >-
   ### Suggested Time
 
 
-  As long as it takes, but time-boxed. 
+  As long as it takes, but time-boxed (60-120 minutes)
 
 
-  Break down the analysis over several workshops on different days. Consider the breakdown of topics above as potential topic for each workshop.
+  W﻿ith experienced teams and facilitators, it can be all done in 120 minutes. Others may need a few workshops to gain alignment on key topics before completing the framework
 
 
   ### Facilitation Materials Needed
@@ -132,6 +132,7 @@ howTo: >-
   ### Related Practices
 
 
+  T﻿he North Star framework integrates really well with many practices in the Discovery part of the loop:
 
 
   * Impact mapping
@@ -141,6 +142,18 @@ howTo: >-
   * Journey maps
 
   * O﻿KRs
+
+
+  A﻿s key way to evaluate decisions, the North Star can be a great tool for integrating with practices in the Options pivot:
+
+
+  * D﻿esign Sprint
+
+  * P﻿rioritization matrices 
+
+  * V﻿alue Slicing
+
+  * B﻿acklog Refinement
 resources:
   - link: https://amplitude.com/northstar
     linkType: web
