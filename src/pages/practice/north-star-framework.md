@@ -63,44 +63,84 @@ howTo: >-
   ![Canvas used to help find a north star metric](/images/north-star-canvas.png " North Star playbook from Amplitude")
 
 
+  * Understand strategy and key metrics of success
+
+  * U﻿nderstand the customer journey and key moments and events of value creation and value realization
+
+  * A﻿nalyze metrics, incl. metrics of conversation to identify the leading indicators for the key events and moments, i.e. identify your North Star metric
+
+  * B﻿uild the North Star Framework by evaluating and linking the metric to all initiatives, major product features in the backlog, OKRs, etc.
+
+
   ### Who do you need
 
 
+  T﻿here isn't a predefined list of people, yet do consider that this practice aligns the whole organization to the strategy. As such you need multiple different perspectives to be represented, which we attempt to achieve by the following minimum roles listed:
 
 
+  * C﻿hief/Head of product
 
+  * P﻿roduct manager/s
 
-  blah
+  * T﻿he product team/s
+
+  * H﻿ead of sales
+
+  * P﻿roduct marketing
+
+  * C﻿ustomer success
+
+  * S﻿upport
 
 
   ### Suggested Time
 
 
-  blah
+  As long as it takes, but time-boxed. 
+
+
+  Break down the analysis over several workshops on different days. Consider the breakdown of topics above as potential topic for each workshop.
 
 
   ### Facilitation Materials Needed
 
 
-  blah
+  A whiteboard and plenty of post-it notes.
+
+
+  D﻿ata, data, data - all of it in context of the user journey.
 
 
   ### How does it fit?
 
 
-  * blah
+  * Impact mapping
+
+  * Service blueprint
+
+  * Journey maps
+
+  *
 
 
   ### Tips for remote sessions
 
 
-  blah
+  U﻿se a virtual whiteboard. More sophisticated virtual whiteboards work better. We love Miro.com
 
 
   ### Related Practices
 
 
-  b﻿lah
+
+
+  * Impact mapping
+
+  * Service blueprint
+
+  * Journey maps
+
+  * O﻿KRs
 resources:
   - link: https://amplitude.com/northstar
     linkType: web
@@ -108,8 +148,7 @@ resources:
   - link: https://productfolio.com/northstar-framework/
     linkType: web
     description: ProductFolio.com articles
-time: "As long as it takes, but timeboxed. Break down the analysis over several
-  workshops on different days "
+time: ""
 difficulty: hard
 participants:
   - Chief of Product
