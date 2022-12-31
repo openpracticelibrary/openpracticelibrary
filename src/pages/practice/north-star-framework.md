@@ -55,10 +55,12 @@ howTo: >-
 
   A team using the North Star Framework identifies a single, meaningful metric and a handful of contributing inputs. Product teams work to influence those inputs, which, in turn, drive the metric. The North Star is a leading indicator of sustainable growth and acts as connective tissue between the product and the broader business.
 resources:
-  - link: https://amplitude.com/
+  - link: https://amplitude.com/northstar
     linkType: web
-    description: A digital analytics company that has freely released an excellent
-      playbook regarding the North Star Framework.
+    description: Amplitude playbook
+  - link: https://productfolio.com/northstar-framework/
+    linkType: web
+    description: ProductFolio.com articles
 difficulty: moderate
 participants: []
 ---
