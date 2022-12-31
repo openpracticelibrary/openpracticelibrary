@@ -63,6 +63,9 @@ howTo: >-
   ![Canvas used to help find a north star metric](/images/north-star-canvas.png " North Star playbook from Amplitude")
 
 
+  Y﻿ou may want to consider several different topics in teams/organizations not experienced with the North Star Framework as a journey to get to a working framework:
+
+
   * Understand strategy and key metrics of success
 
   * U﻿nderstand the customer journey and key moments and events of value creation and value realization
@@ -70,6 +73,9 @@ howTo: >-
   * A﻿nalyze metrics, incl. metrics of conversation to identify the leading indicators for the key events and moments, i.e. identify your North Star metric
 
   * B﻿uild the North Star Framework by evaluating and linking the metric to all initiatives, major product features in the backlog, OKRs, etc.
+
+
+  I﻿f the chose North Start metric doesn't check all of the boxes in the checklist mentioned earlier, you face a serious risk of wasting precious time, efforts and materials with limited impact on your business. A continuous evaluation of the whole sociotechnical system is essential for good results. 
 
 
   ### Who do you need
@@ -109,18 +115,6 @@ howTo: >-
 
 
   D﻿ata, data, data - all of it in context of the user journey.
-
-
-  ### How does it fit?
-
-
-  * Impact mapping
-
-  * Service blueprint
-
-  * Journey maps
-
-  *
 
 
   ### Tips for remote sessions
