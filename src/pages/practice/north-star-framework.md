@@ -9,7 +9,7 @@ authors:
 tags:
   - validate
 mobiusTag: discovery
-icon: https://raw.githubusercontent.com/PacktPublishing/DevOps-Culture-and-Practice-with-OpenShift/master/figures/chapter8/figure-8-2.png
+icon: /images/northstar-dcp8.2.png
 whatIs: >-
   Creating a shared purpose for a product can be achieved by setting a North
   Star. The North Star Framework is a model for managing products by identifying
