@@ -146,6 +146,10 @@ howTo: >-
   * V﻿alue Slicing
 
   * B﻿acklog Refinement
+mediaGallery:
+  - link: https://amplitudecom.wpenginepowered.com/wp-content/uploads/north_star_worksheet_-_spotify_-_shadow-1-1024x798.png
+  - link: https://amplitudecom.wpenginepowered.com/wp-content/uploads/north-star_worksheet-1-1024x797.jpg
+  - link: https://amplitudecom.wpenginepowered.com/wp-content/uploads/north-star-example-burger-king-amplitude-product-strategy.png
 resources:
   - link: https://amplitude.com/northstar
     linkType: web
