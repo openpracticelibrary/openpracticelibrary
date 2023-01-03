@@ -15,9 +15,7 @@ whatIs: >-
   Star. The North Star Framework is a model for managing products by identifying
   a single, crucial metric known as the North Star Metric. According to Sean
   Ellis, who coined this term, this is the single metric that best captures the
-  core value that your product delivers to \[its]\
-
-  customers. 
+  core value that your product delivers to customers. 
 
 
   The framework is equally useful for decisions related to the product as well as to operational aspects of the organization aligned to the product, e.g. Support, Customer Success, Product Marketing. The alternatives for a decision are evaluated against the potential impact on the metric.
@@ -75,7 +73,7 @@ howTo: >-
   * B﻿uild the North Star Framework by evaluating and linking the metric to all initiatives, major product features in the backlog, OKRs, etc.
 
 
-  I﻿f the chose North Start metric doesn't check all of the boxes in the checklist mentioned earlier, you face a serious risk of wasting precious time, efforts and materials with limited impact on your business. A continuous evaluation of the whole sociotechnical system is essential for good results. 
+  I﻿f the chosen North Star metric doesn't check all of the boxes in the list mentioned earlier, you face a serious risk of wasting precious time, efforts and materials with limited impact on your business. A continuous evaluation of the whole sociotechnical system is essential for good results. 
 
 
   ### Who do you need
