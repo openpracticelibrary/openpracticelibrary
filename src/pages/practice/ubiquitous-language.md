@@ -20,10 +20,34 @@ whatIs: >-
 
 
   I﻿t comes from the Domain Driven Design world. I﻿t was first introduced by Eric Evans in his own book ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) in 2003.
-whyDo: |
+whyDo: >-
+  W﻿hen the business domain is very complex, it is not rare to find situations
+  where
+
+  t﻿eam members or the users have different understanding of the same concepts.
+
+
+  The lack of a shared understanding has a deep impact in the velocity and quality of what the development team delivers and can also lead to frustation in the users because what they have in mind is not what is finally implemented.
+
+
+  S﻿ome examples of concepts within a complex business domains:
+
+
+  * ﻿ "*Time travelling"* in AI model development domain
+
+  * *"M﻿erge vs Join"* in the data engineering domain.
+
+  * "﻿Pause vs Suspend" in the financial
+
+
   I﻿t helps to understand better the business domain.
+
   It helps to remove ambiguity from the development process.
+
   I﻿t stablish a common language betweend developers and users.
+
+  I﻿t stablish a common language between everyone involved in the development process.
+
   I﻿t makes the development easier
 howTo: d﻿d
 mediaGallery:
