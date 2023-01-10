@@ -36,7 +36,7 @@ howTo: |-
 
   e﻿rt
 mediaGallery:
-  - link: https://www.freepik.com/free-photo/space-galaxy-background_4414004.htm#query=galaxy&position=1&from_view=keyword
+  - link: https://www.youtube.com/watch?v=pMuiVlnGqjk&t=2978s
 resources:
   - link: https://martinfowler.com/bliki/UbiquitousLanguage.html
     linkType: web
