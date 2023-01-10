@@ -25,16 +25,7 @@ whyDo: |
   It helps to remove ambiguity from the development process.
   I﻿t stablish a common language betweend developers and users.
   I﻿t makes the development easier
-howTo: |-
-  ertertert
-
-  e﻿
-
-  r﻿te
-
-  t﻿
-
-  e﻿rt
+howTo: d﻿d
 mediaGallery:
   - link: https://www.youtube.com/watch?v=pMuiVlnGqjk&t=2978s
 resources:
