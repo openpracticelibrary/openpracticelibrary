@@ -11,8 +11,10 @@ tags:
 mobiusTag: foundation
 icon: /images/pic-students-working-on-project.jpg
 whatIs: >-
-  Open leadership is a blend of mindsets, behaviors, and practices that enable
-  people to thrive and contribute in an open organization.
+  ![](/images/updated-open-leadership-mindset-4-.png)
+
+
+  Open leadership is a blend of mindsets, behaviors, and practices that enable people to thrive and contribute in an open organization.
 
 
   Leadership is not a position. The opportunity to lead is open to everyone. The role a person holds in the organization provides expression and amplification of their leadership behaviors, for good or for bad.
@@ -40,7 +42,7 @@ howTo: >-
   team:
 
 
-  **Default to open mindset** - We believe open is a better way to do things, and therefore, it’s our “default setting.” Information should be transparent and open to all, unless there’s a good reason to close others’ access to it. You believe that everything from source code to policies to ideas to knowledge should be open to others to see, improve, build upon, remix, and modify to make it useful in new ways.
+  **Default to open mindset** - We believe open is a better way to do things, and therefore, it’s our “default setting.” Information should be transparent and open to all, unless there’s a good reasohttps://openpracticelibrary.com/admin/#/collections/practicen to close others’ access to it. You believe that everything from source code to policies to ideas to knowledge should be open to others to see, improve, build upon, remix, and modify to make it useful in new ways.
 
 
   **Inclusive mindset** - Everyone has something to contribute, and therefore, it’s best to include them in your efforts,. You don’t believe that you always know best, or that only “subject matter experts” should be included, though, they play a special role. You’re open to collaboration and co-creation.
@@ -52,7 +54,7 @@ howTo: >-
   You believe that talent is not a fixed quality and that you're born with a certain amount.  While we all have different baseline levels of ability, anyone can improve at anything. Effort is far more important than talent, when it comes to achievement. This plays well with the inclusive mindset, because it opens you to the possibility that anyone can make a difference.
 
 
-  **Opt-in mindset -**  while not everyone is a people manager, in an open organisation everyone can be a leader. You believe that everyone is capable of leading, and indeed, has a responsibility to do so. You believe it’s best to use your personal power (your influence), rather than your positional power, when interacting with others. And there are times when, even though you have the positional power, you expect your team members to lead the way and you will follow.
+  **Opt-in  mindset / Appreciative**  while not everyone is a people manager, in an open organisation everyone can be a leader. You believe that everyone is capable of leading, and indeed, has a responsibility to do so. You believe it’s best to use your personal power (your influence), rather than your positional power, when interacting with others. And there are times when, even though you have the positional power, you expect your team members to lead the way and you will follow.
 
 
   **Enterprise mindset** - Putting the organization or company’s interests ahead of your own team’s interests or your self interest. It’s the belief that everyone benefits (at least on the whole), when we set aside our individual fiefdoms and interests, and work together toward common goals and with a shared purpose. It’s as relevant in open source communities as it is in companies.
