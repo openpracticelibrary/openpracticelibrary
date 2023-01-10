@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Ubiquitous Language
-subtitle: The main objetive of this practie is to define the term and concepts
-  of a business domain in an complete unambiguous way.
+subtitle: Define the term and concepts of a business domain in an complete
+  unambiguous way.
 date: 2023-01-10T09:22:39.364Z
 authors:
   - JorgeTudela
@@ -20,7 +20,7 @@ whatIs: >-
 
 
   I﻿t comes from the Domain Driven Design world. I﻿t was first introduced by Eric Evans in his own book ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) in 2003.
-whyDo: >+
+whyDo: >-
   W﻿hen the business domain is very complex, it is not rare to find situations
   where
 
@@ -32,12 +32,14 @@ whyDo: >+
 
   S﻿ome examples of complex domain concepts:
 
-  * ﻿"Time travelling"* in AI model development domain
 
-  * "M﻿erge vs Join"* in the data engineering domain.
+  * ﻿*"Time travelling"* in AI model development domain
+
+  * *"M﻿erge vs Join"* in the data engineering domain.
 
 
   D﻿eveloping an Ubiquitous Language has many beneifts:
+
 
   * I﻿t helps to understand better the business domain.
 
@@ -46,7 +48,6 @@ whyDo: >+
   * It helps to remove ambiguity from the development process.
 
   * I﻿t stablish a common language between everyone involved in the development process. Specially between developers and users.
-
 howTo: >-
   The output of the Ubiquitous Language practice should be a glossary of terms &
   concepts and their definitions. Ideally this glossary should be available for
