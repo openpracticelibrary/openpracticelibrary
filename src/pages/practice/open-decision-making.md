@@ -15,6 +15,9 @@ whatIs: >-
   people to thrive and contribute in an open organization.
 
 
+  ![The Open Leadership Mindset: How open leaders think, on our best days; Inclusive, Opt-in, Growtg, Enterprise. Default to Open. Open is a better wat\y.](/images/updated-open-leadership-mindset-4-.png "The Open Leadership Mindset ")
+
+
   Leadership is not a position. The opportunity to lead is open to everyone. The role a person holds in the organization provides expression and amplification of their leadership behaviors, for good or for bad.
 
 
@@ -52,7 +55,7 @@ howTo: >-
   You believe that talent is not a fixed quality and that you're born with a certain amount.  While we all have different baseline levels of ability, anyone can improve at anything. Effort is far more important than talent, when it comes to achievement. This plays well with the inclusive mindset, because it opens you to the possibility that anyone can make a difference.
 
 
-  **Opt-in mindset -**  while not everyone is a people manager, in an open organisation everyone can be a leader. You believe that everyone is capable of leading, and indeed, has a responsibility to do so. You believe it’s best to use your personal power (your influence), rather than your positional power, when interacting with others. And there are times when, even though you have the positional power, you expect your team members to lead the way and you will follow.
+  **Opt-in  mindset / Appreciative**  while not everyone is a people manager, in an open organisation everyone can be a leader. You believe that everyone is capable of leading, and indeed, has a responsibility to do so. You believe it’s best to use your personal power (your influence), rather than your positional power, when interacting with others. And there are times when, even though you have the positional power, you expect your team members to lead the way and you will follow.
 
 
   **Enterprise mindset** - Putting the organization or company’s interests ahead of your own team’s interests or your self interest. It’s the belief that everyone benefits (at least on the whole), when we set aside our individual fiefdoms and interests, and work together toward common goals and with a shared purpose. It’s as relevant in open source communities as it is in companies.
@@ -61,7 +64,7 @@ howTo: >-
   You can use Open Decision Framework (ODF) to practise open decision making. Check out the links section for more.
 mediaGallery:
   - link: https://www.youtube.com/watch?v=H43MfMGeV2c
-  - link: https://opensource.com/sites/default/files/images/open-org/open_leadership_mindset.png
+  - link: https://deploy-preview-1973--openpracticelibrary.netlify.app/images/updated-open-leadership-mindset-4-.png
 resources:
   - link: https://github.com/red-hat-people-team/open-decision-framework
     linkType: web
