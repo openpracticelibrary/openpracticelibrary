@@ -11,10 +11,11 @@ tags:
 mobiusTag: foundation
 icon: /images/pic-students-working-on-project.jpg
 whatIs: >-
-  ![](/images/updated-open-leadership-mindset-4-.png)
+  Open leadership is a blend of mindsets, behaviors, and practices that enable
+  people to thrive and contribute in an open organization.
 
 
-  Open leadership is a blend of mindsets, behaviors, and practices that enable people to thrive and contribute in an open organization.
+  ![The Open Leadership Mindset: How open leaders think, on our best days; Inclusive, Opt-in, Growtg, Enterprise. Default to Open. Open is a better wat\y.](/images/updated-open-leadership-mindset-4-.png "The Open Leadership Mindset ")
 
 
   Leadership is not a position. The opportunity to lead is open to everyone. The role a person holds in the organization provides expression and amplification of their leadership behaviors, for good or for bad.
@@ -63,7 +64,7 @@ howTo: >-
   You can use Open Decision Framework (ODF) to practise open decision making. Check out the links section for more.
 mediaGallery:
   - link: https://www.youtube.com/watch?v=H43MfMGeV2c
-  - link: https://opensource.com/sites/default/files/images/open-org/open_leadership_mindset.png
+  - link: https://deploy-preview-1973--openpracticelibrary.netlify.app/images/updated-open-leadership-mindset-4-.png
 resources:
   - link: https://github.com/red-hat-people-team/open-decision-framework
     linkType: web
