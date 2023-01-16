@@ -20,33 +20,30 @@ whatIs: >-
 
   I﻿t comes from the Domain Driven Design world. I﻿t was first introduced by Eric Evans in his own book ["Domain-Driven Design: Tackling Complexity in the Heart of Software"](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20) in 2003.
 whyDo: >-
-  W﻿hen the business domain is very complex, it is not rare to find situations
-  where
-
-  t﻿eam members or the users have a different understanding of the same concept. 
-
-
-  The lack of a shared understanding has a deep impact in the velocity and quality of what the development team delivers and can also lead to frustation in the users because what they have in mind is not what is finally implemented.
+  W﻿hen the business domain is very complex, it is common to find situations
+  where t﻿eam members or users have a different understanding of the same
+  concept.
 
 
-  S﻿ome examples of complex domain concepts:
+  The lack of a shared understanding has a deep impact in the velocity and quality of what the development team delivers and can also lead to frustration in the users because what they have in mind is not what is finally implemented.
+
+
+  Some examples of complex domain concepts:
 
 
   * ﻿*"Time travelling"* in AI model development domain
 
-  * *"M﻿erge vs Join"* in the data engineering domain.
+  * *"Merge vs Join"* in the data engineering domain.
 
 
-  D﻿eveloping an Ubiquitous Language has many beneifts:
+  ﻿Developing Ubiquitous Language has many benefits. It helps to 
 
 
-  * I﻿t helps to understand better the business domain.
+  * better understand the business domain and the users.
 
-  * It helps to understand better the users.
+  * remove ambiguity from the development process.
 
-  * It helps to remove ambiguity from the development process.
-
-  * I﻿t stablish a common language between everyone involved in the development process. Specially between developers and users.
+  * establish a common language between everyone involved in the development process, especially between developers and users.
 howTo: >-
   The output of the Ubiquitous Language practice should be a glossary of terms &
   concepts and their definitions. Ideally this glossary should be available for
