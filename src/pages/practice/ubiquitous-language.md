@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: Ubiquitous Language
-subtitle: Define the term and concepts of a business domain in an complete
-  unambiguous way.
+subtitle: Unambigulously define the term and concepts of a business domain.
 date: 2023-01-10T09:22:39.364Z
 authors:
   - JorgeTudela
