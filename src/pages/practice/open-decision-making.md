@@ -42,7 +42,7 @@ howTo: >-
   team:
 
 
-  **Default to open mindset** - We believe open is a better way to do things, and therefore, it’s our “default setting.” Information should be transparent and open to all, unless there’s a good reasohttps://openpracticelibrary.com/admin/#/collections/practicen to close others’ access to it. You believe that everything from source code to policies to ideas to knowledge should be open to others to see, improve, build upon, remix, and modify to make it useful in new ways.
+  **Default to open mindset** - We believe open is a better way to do things, and therefore, it’s our “default setting.” Information should be transparent and open to all, unless there’s a good reason to close others’ access to it. You believe that everything from source code to policies to ideas to knowledge should be open to others to see, improve, build upon, remix, and modify to make it useful in new ways.
 
 
   **Inclusive mindset** - Everyone has something to contribute, and therefore, it’s best to include them in your efforts,. You don’t believe that you always know best, or that only “subject matter experts” should be included, though, they play a special role. You’re open to collaboration and co-creation.
