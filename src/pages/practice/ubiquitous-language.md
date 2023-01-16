@@ -4,7 +4,7 @@ title: Ubiquitous Language
 subtitle: Unambigulously define the term and concepts of a business domain.
 date: 2023-01-10T09:22:39.364Z
 authors:
-  - jtudelag
+  - JorgeTudela
 tags:
   - culture
   - learn
