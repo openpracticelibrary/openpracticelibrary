@@ -3,7 +3,8 @@ templateKey: practice-page
 title: Propose, Establish, Maintain
 subtitle: To understand and map out who is who and why it matters
 date: 2022-09-22T23:54:37.710Z
-authors: []
+authors:
+  - NWinning
 mobiusTag: discovery
 icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
 whatIs: I﻿t is a visual mapping tool that is centred around people.
