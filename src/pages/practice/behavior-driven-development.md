@@ -47,7 +47,9 @@ howTo: >-
   2. Document the different tests during the discovery workshops
 
   3. Implement the tests or include them as part of the acceptance criteria of the development life cycle
-mediaGallery: []
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/bdd.png
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/test%20automation.jpg?raw=true
 resources:
   - link: https://en.wikipedia.org/wiki/Behavior-driven_development
     linkType: web
