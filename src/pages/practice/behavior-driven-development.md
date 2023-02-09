@@ -48,8 +48,8 @@ howTo: >-
 
   3. Implement the tests or include them as part of the acceptance criteria of the development life cycle
 mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/bdd.png
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/test%20automation.jpg?raw=true
+  - link: https://openpracticelibrary.github.io/opl-media/images/bdd.png
+  - link: https://openpracticelibrary.github.io/opl-media/images/example-mapping.jpg
 resources:
   - link: https://en.wikipedia.org/wiki/Behavior-driven_development
     linkType: web
