@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Behavior Driven Development
+title: Behavior-Driven Development
 subtitle: Creating a shared understanding of requirements in product teams
 date: 2023-02-09T16:56:48.187Z
 authors:
@@ -10,9 +10,9 @@ tags:
 mobiusTag: foundation
 icon: /images/bdd.png
 whatIs: >-
-  Behavior Driven Development is a software development process focused on a
-  test-first, agile testing practice that provides built-in quality by defining
-  tests (and potentially automating them) specifying system behavior.
+  Behavior-Driven Development (BDD) is a software development process focused on
+  a test-first, agile testing practice that provides built-in quality by
+  defining tests (and potentially automating them) specifying system behavior.
 
 
   This practice is focused on the business value using patterns such as *Given/When/Then* to capture the behavior of the system from a conversation between business and technical people.
@@ -55,5 +55,9 @@ resources:
     linkType: web
     description: Behavior-Driven Development (Wikipedia)
 difficulty: moderate
-participants: []
+participants:
+  - Product_Owner
+  - Development_Team
+  - Test_Team
+  - Business_Owner
 ---
