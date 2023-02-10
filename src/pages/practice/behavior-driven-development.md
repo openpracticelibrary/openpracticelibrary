@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Behavior-Driven Development
-subtitle: Create a shared understanding of requirements in product teams
+subtitle: Creating a shared understanding of requirements in product teams
 date: 2023-02-09T16:56:48.187Z
 authors:
   - rmarting
