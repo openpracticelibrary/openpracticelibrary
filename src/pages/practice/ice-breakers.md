@@ -44,7 +44,10 @@ howTo: >-
 
 
   Most of these Ice Breakers can be delivered in on-site or remote workshops.
-mediaGallery: []
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/ice-breakers-agile-faces.png?raw=true
+  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/ice-breakers-animals.png?raw=true
+  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/ice-breaker-world-map.png?raw=true
 resources:
   - link: https://www.teampedia.net/wiki/Main_Page
     linkType: web
