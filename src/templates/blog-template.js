@@ -11,7 +11,10 @@ import ContributedBy from "../components/practicePage/PageIntro/ContributedBy";
 const Hero = ({ jumbotron, children }) => {
   if (jumbotron) {
     return (
-      <HeroImage imageUrl={jumbotron.childImageSharp.fluid} height="40vh">
+      <HeroImage
+        imageUrl={jumbotron.childImageSharp.gatsbyImageData}
+        height="40vh"
+      >
         <Box
           display="flex"
           alignItems="center"
@@ -88,9 +91,7 @@ export const blogQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         jumbotron {
           childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(width: 800, layout: CONSTRAINED)
           }
         }
         authors {

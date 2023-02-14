@@ -5,6 +5,7 @@ module.exports = {
       "Practices that empower teams to collaborate and deliver iteratively",
   },
   plugins: [
+    "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-plugin-react-helmet",

@@ -54,9 +54,7 @@ export const pageQuery = graphql`
             mobiusTag
             icon {
               childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(layout: FULL_WIDTH)
               }
             }
             mediaGallery {

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import Img from "gatsby-image/withIEPolyfill";
+import { GatsbyImage } from "gatsby-plugin-image";
 import { Box, Card, CardContent, Grid, Typography } from "@material-ui/core";
 import mobiusContent from "../../../utilities/mobuisContent";
 
@@ -16,7 +16,16 @@ const PracticeCard = ({
   const [hovered, setHovered] = React.useState(false);
   const tag = mobiusTag.toLowerCase();
   return (
-    <Grid item component={Link} to={slug} style={{ textDecoration: "none" }} data-testid={practiceId} xs={12} sm={6} md={4}>
+    <Grid
+      item
+      component={Link}
+      to={slug}
+      style={{ textDecoration: "none" }}
+      data-testid={practiceId}
+      xs={12}
+      sm={6}
+      md={4}
+    >
       <Card
         data-testid="practicecard"
         raised={hovered}
@@ -31,10 +40,10 @@ const PracticeCard = ({
           bgcolor="grey.300"
           position="relative"
         >
-          <Img
+          <GatsbyImage
             alt={practiceTitle}
             imgStyle={{ objectFit: "cover", width: "100%", height: "100%" }}
-            fluid={coverImage}
+            image={coverImage}
             style={{ width: "100%", height: "12rem" }}
             title={practiceTitle}
           />
