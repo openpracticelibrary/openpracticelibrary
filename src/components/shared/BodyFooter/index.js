@@ -11,7 +11,6 @@ import {
   Mic,
   MailOutline,
   GitHub,
-  YouTube,
   Instagram,
   Twitter,
   LinkedIn,
@@ -92,7 +91,7 @@ const BodyFooter = () => {
                 >
                   <Twitter />
                 </Link>
-              </Grid> 
+              </Grid>
               <Grid item>
                 <Link
                   href="https://www.linkedin.com/company/openpracticelibrary/"
@@ -101,7 +100,7 @@ const BodyFooter = () => {
                 >
                   <LinkedIn />
                 </Link>
-              </Grid> 
+              </Grid>
             </Grid>
           </Box>
         </Box>

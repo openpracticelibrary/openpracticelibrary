@@ -1,14 +1,16 @@
-export default {
+const MuiOverrides = {
   MuiCssBaseline: {
     "@global": {
       html: {
-        scrollPaddingTop: "90px"
-      }
-    }
+        scrollPaddingTop: "90px",
+      },
+    },
   },
   MuiButton: {
     root: {
-      borderRadius: "2rem"
-    }
-  }
+      borderRadius: "2rem",
+    },
+  },
 };
+
+export default MuiOverrides;

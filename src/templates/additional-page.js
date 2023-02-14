@@ -22,16 +22,18 @@ const Image = (props) => (
 );
 
 const CallToAction = (frontmatter) => {
-  if (frontmatter.title == "Contribution Guide") {
+  if (frontmatter.title === "Contribution Guide") {
     return (
       <Button
         size="large"
         variant="contained"
         color="secondary"
         endIcon={<ArrowForward />}
-        onClick={() => (window.location.href = `${window.location.origin}/admin/`)}
+        onClick={() =>
+          (window.location.href = `${window.location.origin}/admin/`)
+        }
       >
-      Start Now
+        Start Now
       </Button>
     );
   } else {
@@ -44,8 +46,7 @@ const AdditionalPage = (props) => {
     <Layout
       ogContent={{
         title: "Open Practice Library",
-        desc:
-          "Practices that empower teams to collaborate and deliver iteratively",
+        desc: "Practices that empower teams to collaborate and deliver iteratively",
         image:
           "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
       }}
