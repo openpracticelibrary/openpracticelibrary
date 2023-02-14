@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: '"Hello, World!" networking event'
+title: 'Hello, World! networking event'
 subtitle: Say "Hello" to the World and the World will say "Hello" to you!
 date: 2021-04-26T12:00:12.713Z
 authors:

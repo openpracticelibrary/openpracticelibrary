@@ -13,7 +13,7 @@ resources:
     linkType: web
     description: Other team building practices from FunRetrospectives.com
 templateKey: practice-page
-title: '"I Have a Dream"'
+title: 'I Have a Dream'
 date: 2019-02-03T20:18:29.686Z
 authors:
   - fabiopereira
