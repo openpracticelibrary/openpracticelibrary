@@ -44,6 +44,7 @@ howTo: >-
 
 
   Most of these Ice Breakers can be delivered in on-site or remote workshops.
+mediaGallery: []
 resources:
   - link: https://www.teampedia.net/wiki/Main_Page
     linkType: web
