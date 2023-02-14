@@ -44,6 +44,7 @@ export default function PageMenu(props) {
               <Hidden xsDown>
                 {sections.map((section, i) => (
                   <Button
+                    key={section.title}
                     color="default"
                     disableElevation
                     onClick={() => scrollTo(section.ref)}

@@ -9,7 +9,7 @@ const Image = (props) => (
 const FullText = ({ source }) => {
   return (
     <Typography>
-      <ReactMarkdown source={source} renderers={{ image: Image }} />
+      <ReactMarkdown components={{ img: Image }}>{source}</ReactMarkdown>
     </Typography>
   );
 };

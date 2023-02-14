@@ -14,7 +14,7 @@ const PartnerLink = ({ altText, caption, imageSrc, title, url }) => (
         {title}
       </Typography>
     </Link>
-    <Typography variant="subtitle">{caption}</Typography>
+    <Typography variant="subtitle1">{caption}</Typography>
   </Box>
 );
 export default PartnerLink;

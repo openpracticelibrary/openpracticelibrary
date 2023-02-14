@@ -72,7 +72,7 @@ const PracticeCard = ({
           >
             {practiceTitle}
           </Typography>
-          <Typography component="p" gutterBottom variant="subtitle">
+          <Typography component="p" gutterBottom variant="subtitle1">
             {subtitle}
           </Typography>
         </CardContent>

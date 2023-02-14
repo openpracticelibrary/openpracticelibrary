@@ -30,13 +30,8 @@ const NotFound = () => (
 
       <Typography variant="h4" color="inherit" gutterBottom>
         404: Page Not Found
-        </Typography>
-      <Grid
-        container
-        direction="row"
-        justify="center"
-        spacing={2}
-      >
+      </Typography>
+      <Grid container direction="row" justifyContent="center" spacing={2}>
         <Grid item>
           <Button
             onClick={() => navigate(-1)}
@@ -50,7 +45,7 @@ const NotFound = () => (
         </Grid>
         <Grid item>
           <Button
-            onClick={() => navigate('/', { replace: true })}
+            onClick={() => navigate("/", { replace: true })}
             variant="contained"
             color="default"
             size="lg"

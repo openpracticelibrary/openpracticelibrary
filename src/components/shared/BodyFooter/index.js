@@ -110,7 +110,7 @@ const BodyFooter = () => {
           flexDirection="column"
           marginBottom={2}
         >
-          <Typography align="center" gutterBottom variant="subtitle">
+          <Typography align="center" gutterBottom variant="subtitle1">
             Except where noted, content on this site is licensed under a{" "}
             <Link
               href="https://creativecommons.org/licenses/by-sa/4.0/"

@@ -33,7 +33,7 @@ const HistoryValues = () => (
       software.
     </Typography>
     <Box my={4}>
-      <Grid container justify="center" spacing={2}>
+      <Grid container justifyContent="center" spacing={2}>
         <Grid item>
           <ContentCircle size="18rem">
             <img src={FriendlyIcon} alt={"Friendly Icon"} />

@@ -78,10 +78,9 @@ const PageBodyData = (props) => {
       <Box className={classes.root}>
         <Box className={classes.space}>
           <Typography component={"span"}>
-            <ReactMarkdown
-              source={post.rawMarkdownBody}
-              renderers={{ image: Image }}
-            />
+            <ReactMarkdown components={{ img: Image }}>
+              {post.rawMarkdownBody}
+            </ReactMarkdown>
           </Typography>
         </Box>
       </Box>

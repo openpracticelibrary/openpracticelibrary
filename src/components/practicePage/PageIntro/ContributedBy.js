@@ -5,7 +5,7 @@ import EditorPhotos from "./EditorPhotos";
 import { Typography, Grid, Box } from "@material-ui/core";
 
 export default function ContributedBy(props) {
-  const authors = props.authors ? props.authors.filter(a => a) : [];
+  const authors = props.authors ? props.authors.filter((a) => a) : [];
   const formatDate = (date) => {
     return moment(date).format("MMMM D, YYYY");
   };
@@ -31,7 +31,7 @@ export default function ContributedBy(props) {
       <Grid
         container
         direction="row"
-        justify="flex-start"
+        justifyContent="flex-start"
         alignItems="flex-end"
       >
         <Box mr={2}>
@@ -59,7 +59,8 @@ export default function ContributedBy(props) {
         )}
         <Grid item>
           <Typography variant="overline" data-testid={"dates"}>
-            Published { props.preview ? formatDate(props.createdAt) : props.createdAt }
+            Published{" "}
+            {props.preview ? formatDate(props.createdAt) : props.createdAt}
           </Typography>
         </Grid>
       </Grid>

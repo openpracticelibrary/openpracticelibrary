@@ -7,7 +7,7 @@ import mobiusContent from "../../utilities/mobuisContent";
 const FilterBar = ({ selectedFilter }) => {
   const selected = selectedFilter.toLowerCase();
   return (
-    <Grid container spacing={1} justify="center">
+    <Grid container spacing={1} justifyContent="center">
       <Grid item xs={12} md={2}>
         <FilterButton
           a
