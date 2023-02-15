@@ -54,6 +54,9 @@ resources:
   - link: https://en.wikipedia.org/wiki/Behavior-driven_development
     linkType: web
     description: Behavior-Driven Development (Wikipedia)
+  - link: https://openpracticelibrary.com/practice/example-mapping/
+    linkType: web
+    description: Example Mapping - Open Practice Library
 difficulty: moderate
 participants:
   - Product_Owner
