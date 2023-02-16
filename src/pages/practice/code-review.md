@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Code Review
-subtitle: Also a review on the developer's ego
+subtitle: Improve quality and knowledge sharing through collaboration and peer review.
 date: 2020-08-12T20:44:12.964Z
 authors:
   - mabulgu
