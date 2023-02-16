@@ -44,7 +44,7 @@ export const tagPageQuery = graphql`
   query TagPageTemplate($tag: String) {
     allMarkdownRemark(
       filter: { frontmatter: { mobiusTag: { eq: $tag } } }
-      sort: { fields: fields___slug }
+      sort: { fields: { slug: ASC } }
     ) {
       edges {
         node {
