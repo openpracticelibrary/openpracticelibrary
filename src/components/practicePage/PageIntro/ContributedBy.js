@@ -52,7 +52,7 @@ export default function ContributedBy(props) {
         {editors && editors.length > 0 && (
           <Box mr={3}>
             <Typography variant="overline">Edited by</Typography>
-            <Grid item>
+            <Grid item display="flex">
               <EditorPhotos editors={editors} />
             </Grid>
           </Box>

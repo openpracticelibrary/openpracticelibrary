@@ -11,10 +11,7 @@ import ContributedBy from "../components/practicePage/PageIntro/ContributedBy";
 const Hero = ({ jumbotron, children }) => {
   if (jumbotron) {
     return (
-      <HeroImage
-        imageUrl={jumbotron.childImageSharp.gatsbyImageData}
-        height="40vh"
-      >
+      <HeroImage imageUrl={jumbotron} height="40vh">
         <Box
           display="flex"
           alignItems="center"
@@ -42,7 +39,15 @@ const BlogPostTemplate = (props) => {
       markdownRemark: {
         rawMarkdownBody,
         excerpt,
-        frontmatter: { title, subtitle, authors, date, jumbotron },
+        frontmatter: {
+          title,
+          subtitle,
+          authors,
+          date,
+          jumbotron: {
+            childImageSharp: { fluid },
+          },
+        },
       },
     },
   } = props;
@@ -52,13 +57,13 @@ const BlogPostTemplate = (props) => {
       ogContent={{
         title,
         desc: excerpt,
-        image: jumbotron
-          ? jumbotron
+        image: fluid
+          ? fluid.src
           : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
       }}
     >
       <Box display="flex" flexDirection="column">
-        <Hero jumbotron={jumbotron}>
+        <Hero jumbotron={fluid}>
           <Container maxWidth="md">
             <Box px={6}>
               <Typography variant="h2">{title}</Typography>
@@ -69,7 +74,7 @@ const BlogPostTemplate = (props) => {
         </Hero>
         <Box margin={6}>
           <Container maxWidth="md">
-            <ReactMarkdown source={rawMarkdownBody} />
+            <ReactMarkdown>{rawMarkdownBody}</ReactMarkdown>
           </Container>
         </Box>
       </Box>
@@ -91,7 +96,9 @@ export const blogQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         jumbotron {
           childImageSharp {
-            gatsbyImageData(width: 800, layout: CONSTRAINED)
+            fluid(maxWidth: 490, quality: 100) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
           }
         }
         authors {

@@ -70,7 +70,7 @@ const Learn = () => (
           </Box>
         </Box>
       </HeroImage>
-      <Container maxWidth="md" alignSelf="center" mx={6}>
+      <Container maxWidth="md" sx={{ alignSelf: "center", mx: 6 }}>
         <div ref={scrollTo} />
         <Box my={6}>
           <Typography variant="h5" gutterBottom>

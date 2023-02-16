@@ -11,7 +11,12 @@ const PhotoAndName = ({ authorName, avatar }) => (
     pr={3}
     minWidth="fit-content"
   >
-    <Avatar src={avatar} bgcolor="transparent">
+    <Avatar
+      src={avatar}
+      sx={{
+        backgroundColor: "transparent",
+      }}
+    >
       <Person />
     </Avatar>
     <Typography data-testid={"authorName"}>{authorName}</Typography>

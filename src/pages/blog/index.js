@@ -53,6 +53,7 @@ const BlogPage = (props) => {
           <Container maxWidth="md">
             {edges.map((post) => (
               <BlogRoll
+                key={post.node.fields.slug}
                 slug={post.node.fields.slug}
                 title={post.node.frontmatter.title}
                 date={post.node.frontmatter.date}

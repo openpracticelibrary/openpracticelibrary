@@ -1,6 +1,6 @@
 import React from "react";
 import { Avatar } from "@mui/material";
-import { AvatarGroup } from '@mui/material';
+import { AvatarGroup } from "@mui/material";
 import { Person } from "@mui/icons-material";
 
 const EditorPhotos = (props) => (
@@ -9,7 +9,9 @@ const EditorPhotos = (props) => (
       <Avatar
         key={i}
         src={`https://github.com/${editor.github}.png`}
-        bgcolor="transparent"
+        sx={{
+          backgroundColor: "transparent",
+        }}
       >
         <Person />
       </Avatar>
