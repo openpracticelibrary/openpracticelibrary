@@ -2,8 +2,8 @@
 import React from "react";
 import * as JsSearch from "js-search";
 import PracticeCardGrid from "../PracticeCards/PracticeCardGrid";
-import { Box } from "@material-ui/core";
-import TextField from "@material-ui/core/TextField";
+import { Box } from "@mui/material";
+import TextField from "@mui/material/TextField";
 
 export default function SearchContainer(props) {
   const practiceData = props.practices;

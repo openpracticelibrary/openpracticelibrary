@@ -1,4 +1,5 @@
-import { createTheme, responsiveFontSizes } from "@material-ui/core/styles";
+import { grey } from "@mui/material/colors";
+import { createTheme, responsiveFontSizes } from "@mui/material/styles";
 import MuiOverrides from "./MuiOverrides";
 // https://material-ui.com/customization/default-theme/
 // Don't override here unless you mean to do it site wide.
@@ -43,6 +44,8 @@ const theme = createTheme({
       main: "#76F598",
     },
     grey: {
+      main: grey[300],
+      dark: grey[400],
       50: "#fafafa",
       100: "#f5f5f5",
       200: "#eeeeee",
@@ -83,10 +86,6 @@ const theme = createTheme({
       activatedOpacity: 0.12,
     },
   },
-  overrides: {
-    ...MuiOverrides,
-  },
-  props: {},
   shadows: [
     "none",
     "0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12)",
@@ -143,85 +142,84 @@ const theme = createTheme({
   },
   typography: {
     htmlFontSize: 16,
-    fontFamily: ["Montserrat", "sans-serif"],
+    fontFamily: ["Montserrat", "sans-serif"].join(","),
     fontSize: 14,
     fontWeightLight: 300,
     fontWeightRegular: 400,
     fontWeightMedium: 500,
     fontWeightBold: 700,
-
     h1: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 700,
       fontSize: "6rem",
       lineHeight: 1.167,
       letterSpacing: "-0.01562em",
     },
     h2: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 500,
       fontSize: "3.75rem",
       lineHeight: 1.2,
       letterSpacing: "-0.00833em",
     },
     h3: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 700,
       fontSize: "3rem",
       lineHeight: 1.167,
       letterSpacing: "0em",
     },
     h4: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 500,
       fontSize: "2.125rem",
       lineHeight: 1.235,
       letterSpacing: "0.00735em",
     },
     h5: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 400,
       fontSize: "1.5rem",
       lineHeight: 1.334,
       letterSpacing: "0em",
     },
     h6: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 500,
       fontSize: "1rem",
       lineHeight: 1.5,
       letterSpacing: "0.0075em",
     },
     subtitle1: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 400,
       fontSize: "1rem",
       lineHeight: 1.75,
       letterSpacing: "0.00938em",
     },
     subtitle2: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 500,
       fontSize: "0.875rem",
       lineHeight: 1.57,
       letterSpacing: "0.00714em",
     },
     body1: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 400,
       fontSize: "1rem",
       lineHeight: 1.5,
       letterSpacing: "0.00938em",
     },
     body2: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 400,
       fontSize: "0.875rem",
       lineHeight: 1.43,
       letterSpacing: "0.01071em",
     },
     button: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 500,
       fontSize: "0.875rem",
       lineHeight: 1.75,
@@ -229,13 +227,13 @@ const theme = createTheme({
       textTransform: "uppercase",
     },
     caption: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontSize: "0.5rem",
       lineHeight: 1.66,
       letterSpacing: "0.03333em",
     },
     overline: {
-      fontFamily: ["Montserrat", "sans-serif"],
+      fontFamily: ["Montserrat", "sans-serif"].join(","),
       fontWeight: 400,
       fontSize: "0.75rem",
       lineHeight: 2.66,
@@ -254,4 +252,4 @@ const theme = createTheme({
   },
 });
 
-export default responsiveFontSizes(theme);
+export default responsiveFontSizes(MuiOverrides(theme));

@@ -1,7 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import ReactMarkdown from "react-markdown";
-import { Container, Box, Typography } from "@material-ui/core";
+import { Container, Box, Typography } from "@mui/material";
 
 import Layout from "../components/Layout";
 import HeroColor from "../components/shared/HeroColor";
@@ -19,7 +19,7 @@ const Hero = ({ jumbotron, children }) => {
           display="flex"
           alignItems="center"
           bgcolor="rgba(0,0,0,0.4)"
-          borderRadius={17}
+          borderRadius="17px"
           color="white"
           width="fit-content"
         >

@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
-import { Container, Box, Typography, Divider } from "@material-ui/core";
+import { Container, Box, Typography, Divider } from "@mui/material";
 import Layout from "../../components/Layout";
 import HeroColor from "../../components/shared/HeroColor";
 

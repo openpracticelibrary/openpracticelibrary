@@ -1,7 +1,6 @@
 import React from "react";
-import { Grid } from "@material-ui/core";
+import { Button, Grid } from "@mui/material";
 import { navigate } from "gatsby";
-import FilterButton from "./FilterButton";
 import mobiusContent from "../../utilities/mobuisContent";
 
 const FilterBar = ({ selectedFilter }) => {
@@ -9,9 +8,8 @@ const FilterBar = ({ selectedFilter }) => {
   return (
     <Grid container spacing={1} justifyContent="center">
       <Grid item xs={12} md={2}>
-        <FilterButton
-          a
-          color="default"
+        <Button
+          color="grey"
           disableElevation={selected === "all"}
           fullWidth
           onClick={() => navigate("/")}
@@ -20,12 +18,11 @@ const FilterBar = ({ selectedFilter }) => {
           variant="contained"
         >
           All
-        </FilterButton>
+        </Button>
       </Grid>
       <Grid item xs={6} md={2}>
-        <FilterButton
-          a
-          color={selected === "foundation" ? "primary" : "default"}
+        <Button
+          color={selected === "foundation" ? "primary" : "grey"}
           disableElevation={selected === "foundation"}
           fullWidth
           data-testid="foundation-button"
@@ -35,12 +32,11 @@ const FilterBar = ({ selectedFilter }) => {
           variant="contained"
         >
           Foundation
-        </FilterButton>
+        </Button>
       </Grid>
       <Grid item xs={6} md={2}>
-        <FilterButton
-          a
-          color={selected === "discovery" ? "secondary" : "default"}
+        <Button
+          color={selected === "discovery" ? "secondary" : "grey"}
           data-testid="discovery-button"
           disableElevation={selected === "discovery"}
           fullWidth
@@ -50,12 +46,11 @@ const FilterBar = ({ selectedFilter }) => {
           variant="contained"
         >
           Discovery
-        </FilterButton>
+        </Button>
       </Grid>
       <Grid item xs={6} md={2}>
-        <FilterButton
-          a
-          color={selected === "options" ? "options" : "default"}
+        <Button
+          color={selected === "options" ? "error" : "grey"}
           data-testid="options-button"
           disableElevation={selected === "options"}
           fullWidth
@@ -65,12 +60,11 @@ const FilterBar = ({ selectedFilter }) => {
           variant="contained"
         >
           Options
-        </FilterButton>
+        </Button>
       </Grid>
       <Grid item xs={6} md={2}>
-        <FilterButton
-          a
-          color={selected === "delivery" ? "delivery" : "default"}
+        <Button
+          color={selected === "delivery" ? "warning" : "grey"}
           data-testid="delivery-button"
           disableElevation={selected === "delivery"}
           fullWidth
@@ -80,9 +74,10 @@ const FilterBar = ({ selectedFilter }) => {
           variant="contained"
         >
           Delivery
-        </FilterButton>
+        </Button>
       </Grid>
     </Grid>
   );
 };
+
 export default FilterBar;

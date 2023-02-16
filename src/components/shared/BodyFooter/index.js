@@ -6,7 +6,7 @@ import {
   Grid,
   Typography,
   Link,
-} from "@material-ui/core";
+} from "@mui/material";
 import {
   Mic,
   MailOutline,
@@ -14,7 +14,7 @@ import {
   Instagram,
   Twitter,
   LinkedIn,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 import { CCHeart } from "../../../assets/icons/index";
 import Logo from "../../../components/shared/Logo";
 import logoLabs from "../../../assets/images/logo-red-hat-open-innovation-labs-a-standard-rgb.png";

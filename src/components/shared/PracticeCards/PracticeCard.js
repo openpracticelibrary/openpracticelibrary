@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
-import { Box, Card, CardContent, Grid, Typography } from "@material-ui/core";
+import { Box, Card, CardContent, Grid, Typography } from "@mui/material";
 import mobiusContent from "../../../utilities/mobuisContent";
 
 const PracticeCard = ({
@@ -31,7 +31,6 @@ const PracticeCard = ({
         raised={hovered}
         onMouseOut={() => setHovered(false)}
         onMouseOver={() => setHovered(true)}
-        placeholder
         style={{ cursor: "pointer", height: "100%", width: "100%" }}
       >
         <Box

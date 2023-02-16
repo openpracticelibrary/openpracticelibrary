@@ -1,6 +1,6 @@
 import React from "react";
 import DefaultImage from "./hero.jpg";
-import { Box } from "@material-ui/core";
+import { Box } from "@mui/material";
 import BackgroundImage from "gatsby-background-image";
 
 const HeroImage = ({

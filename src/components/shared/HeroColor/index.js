@@ -1,6 +1,6 @@
 import React from "react";
-import { Box } from "@material-ui/core";
-import { useTheme } from "@material-ui/styles";
+import { Box } from "@mui/material";
+import { useTheme } from "@mui/styles";
 
 // hooks into theme for linear gradient choices
 const HeroColor = ({

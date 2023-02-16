@@ -2,7 +2,7 @@ import React from "react";
 import moment from "moment";
 import PhotoAndName from "./PhotoAndName";
 import EditorPhotos from "./EditorPhotos";
-import { Typography, Grid, Box } from "@material-ui/core";
+import { Typography, Grid, Box } from "@mui/material";
 
 export default function ContributedBy(props) {
   const authors = props.authors ? props.authors.filter((a) => a) : [];

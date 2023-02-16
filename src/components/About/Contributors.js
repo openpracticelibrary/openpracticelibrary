@@ -1,6 +1,6 @@
 import React from "react";
 import ContentCircle from "./ContentCircle";
-import { Box, Grid, Typography } from "@material-ui/core";
+import { Box, Grid, Typography } from "@mui/material";
 
 const Contributors = () => (
   <Box data-testid="communityHeader" my={8}>

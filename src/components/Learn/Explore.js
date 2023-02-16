@@ -1,6 +1,6 @@
 import React from "react";
-import { Button, Box, Typography } from "@material-ui/core";
-import { ArrowForward } from "@material-ui/icons";
+import { Button, Box, Typography } from "@mui/material";
+import { ArrowForward } from "@mui/icons-material";
 import { navigate } from "gatsby";
 
 const Explore = props => {

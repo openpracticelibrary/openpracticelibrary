@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+import { styled } from "@mui/material/styles";
 import {
   EmailShareButton,
   TwitterShareButton,
@@ -16,27 +16,17 @@ import {
   LinkedIn,
   MailOutline,
   Twitter,
-} from "@material-ui/icons";
-import { Typography, Grid, IconButton, Popover } from "@material-ui/core";
+} from "@mui/icons-material";
+import { Typography, Grid, IconButton, Popover } from "@mui/material";
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: "flex",
-    flexDirection: "row",
-    justifyContent: "flex-end",
-    alignItems: "center",
-    textAlign: "center",
-    alignContent: "center",
-  },
-  drawerPaper: {
-    borderRadius: "10px",
-    borderWidth: "3px",
-    borderColor: theme.palette.primary.main,
-    borderStyle: "solid",
-    textAlign: "center",
-    padding: theme.spacing(2, 4),
-  },
-}));
+const Root = styled(Grid)({
+  display: "flex",
+  flexDirection: "row",
+  justifyContent: "flex-end",
+  alignItems: "center",
+  textAlign: "center",
+  alignContent: "center",
+});
 
 const StyledPopover = (props) => (
   <Popover
@@ -44,6 +34,16 @@ const StyledPopover = (props) => (
       vertical: "bottom",
       horizontal: "right",
     }}
+    sx={(theme) => ({
+      "& .MuiPopover-paper": {
+        borderRadius: "10px",
+        borderWidth: "3px",
+        borderColor: theme.palette.primary.main,
+        borderStyle: "solid",
+        textAlign: "center",
+        padding: theme.spacing(2, 4),
+      },
+    })}
     transformOrigin={{
       vertical: "top",
       horizontal: "right",
@@ -53,7 +53,6 @@ const StyledPopover = (props) => (
 );
 
 export default function SocialLinks(props) {
-  const classes = useStyles();
   const [loc, setLoc] = React.useState(null);
 
   useEffect(() => {
@@ -74,66 +73,54 @@ export default function SocialLinks(props) {
   const id = open ? "simple-popover" : undefined;
 
   return (
-    <>
-      <Grid container direction="row" className={classes.root} spacing={1}>
-        <Grid item>
-          <Typography className={classes.url} variant="overline">
-            Share{" "}
-          </Typography>
-        </Grid>
-        <Grid item>
-          <EmailShareButton url={loc}>
-            <MailOutline />
-          </EmailShareButton>
-        </Grid>
-        <Grid item>
-          <TwitterShareButton url={loc}>
-            <Twitter />
-          </TwitterShareButton>
-        </Grid>
-        <Grid item>
-          <LinkedinShareButton url={loc}>
-            <LinkedIn />
-          </LinkedinShareButton>
-        </Grid>
-        <Grid item>
-          <IconButton aria-describedby={id} onClick={handleClick}>
-            <MoreVert />
-          </IconButton>
-          <StyledPopover
-            id={id}
-            open={open}
-            anchorEl={anchorEl}
-            onClose={handleClose}
-            PaperProps={{
-              className: classes.drawerPaper,
-            }}
-          >
-            <Grid
-              container
-              direction="row"
-              className={classes.root}
-              spacing={2}
-            >
-              <Grid item>
-                <PinterestShareButton url={loc} media={props.coverImage}>
-                  <Pinterest />
-                </PinterestShareButton>
-              </Grid>
-              <Grid item>
-                <RedditShareButton url={loc}>
-                  <Reddit />
-                </RedditShareButton>
-              </Grid>
-              <Grid item>
-                <FacebookShareButton url={loc}>
-                  <Facebook />
-                </FacebookShareButton>
-              </Grid>
-            </Grid>
-          </StyledPopover>
-        </Grid>
+    <Root container direction="row" spacing={1}>
+      <Grid item>
+        <Typography variant="overline">Share </Typography>
       </Grid>
-    </>
+      <Grid item>
+        <EmailShareButton url={loc}>
+          <MailOutline />
+        </EmailShareButton>
+      </Grid>
+      <Grid item>
+        <TwitterShareButton url={loc}>
+          <Twitter />
+        </TwitterShareButton>
+      </Grid>
+      <Grid item>
+        <LinkedinShareButton url={loc}>
+          <LinkedIn />
+        </LinkedinShareButton>
+      </Grid>
+      <Grid item>
+        <IconButton aria-describedby={id} onClick={handleClick} size="large">
+          <MoreVert />
+        </IconButton>
+        <StyledPopover
+          id={id}
+          open={open}
+          anchorEl={anchorEl}
+          onClose={handleClose}
+        >
+          <Root container direction="row" spacing={2}>
+            <Grid item>
+              <PinterestShareButton url={loc} media={props.coverImage}>
+                <Pinterest />
+              </PinterestShareButton>
+            </Grid>
+            <Grid item>
+              <RedditShareButton url={loc}>
+                <Reddit />
+              </RedditShareButton>
+            </Grid>
+            <Grid item>
+              <FacebookShareButton url={loc}>
+                <Facebook />
+              </FacebookShareButton>
+            </Grid>
+          </Root>
+        </StyledPopover>
+      </Grid>
+    </Root>
   );
 }

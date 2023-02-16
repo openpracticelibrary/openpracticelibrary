@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Button, Grid, Typography } from "@material-ui/core";
+import { Box, Button, Grid, Typography } from "@mui/material";
 import { navigate } from "gatsby";
 import { random } from "lodash";
 import HeroColor from "../components/shared/HeroColor";
@@ -33,13 +33,7 @@ const NotFound = () => (
       </Typography>
       <Grid container direction="row" justifyContent="center" spacing={2}>
         <Grid item>
-          <Button
-            onClick={() => navigate(-1)}
-            variant="contained"
-            color="default"
-            size="lg"
-            mx={2}
-          >
+          <Button onClick={() => navigate(-1)} variant="contained" size="lg" mx={2}>
             Head on Back
           </Button>
         </Grid>
@@ -47,10 +41,8 @@ const NotFound = () => (
           <Button
             onClick={() => navigate("/", { replace: true })}
             variant="contained"
-            color="default"
             size="lg"
-            mx={2}
-          >
+            mx={2}>
             Go Home
           </Button>
         </Grid>

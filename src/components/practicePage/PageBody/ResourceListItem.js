@@ -1,7 +1,7 @@
 import React from "react";
-import { Link as ExternalLink } from "@material-ui/core";
+import { Link as ExternalLink } from "@mui/material";
 import { Link } from "gatsby";
-import { Typography, Box } from "@material-ui/core";
+import { Typography, Box } from "@mui/material";
 
 const ResourceListItem = ({ children, description, listItemKey, url }) => {
   var linkValue;

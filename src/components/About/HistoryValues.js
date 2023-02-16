@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import { Box, Grid, Typography } from "@material-ui/core";
+import { Box, Grid, Typography } from "@mui/material";
 import FriendlyIcon from "../../assets/images/astronaut-friends.svg";
 import InspiringIcon from "../../assets/images/astronaut-flag.svg";
 import TrustworthyIcon from "../../assets/images/astronaut-map.svg";

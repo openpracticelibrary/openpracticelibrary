@@ -2,17 +2,20 @@ import React from "react";
 import {
   Box,
   List,
-  ListItem,
+  ListItemButton,
   ListItemIcon,
   ListItemText,
-} from "@material-ui/core";
-import { Feedback, Mic } from "@material-ui/icons";
+} from "@mui/material";
+import { Feedback, Mic } from "@mui/icons-material";
 
 const DrawerFooter = () => (
-  <Box marginTop="auto" m={2}>
+  <Box
+    sx={(theme) => ({
+      margin: `auto ${theme.spacing(2)} ${theme.spacing(2)}`,
+    })}
+  >
     <List>
-      <ListItem
-        button
+      <ListItemButton
         component="a"
         href="https://anchor.fm/openpracticelibrary"
         target="_blank"
@@ -22,9 +25,8 @@ const DrawerFooter = () => (
           <Mic />
         </ListItemIcon>
         <ListItemText primary="Our Podcast" />
-      </ListItem>
-      <ListItem
-        button
+      </ListItemButton>
+      <ListItemButton
         component="a"
         href="https://forms.gle/tyKLtvFf39MoWqsv7"
         target="_blank"
@@ -34,8 +36,9 @@ const DrawerFooter = () => (
           <Feedback />
         </ListItemIcon>
         <ListItemText primary="Send Feedback" />
-      </ListItem>
+      </ListItemButton>
     </List>
   </Box>
 );
+
 export default DrawerFooter;

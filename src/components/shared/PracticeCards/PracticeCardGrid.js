@@ -1,6 +1,6 @@
 import React from "react";
 import PracticeCard from "./PracticeCard";
-import { Grid } from "@material-ui/core";
+import { Grid } from "@mui/material";
 
 const PracticeCardGrid = (props) => {
   return (

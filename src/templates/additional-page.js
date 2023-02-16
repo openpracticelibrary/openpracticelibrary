@@ -1,20 +1,19 @@
 import React from "react";
+import { styled } from "@mui/material/styles";
 import { graphql } from "gatsby";
-import { makeStyles } from "@material-ui/core/styles/index";
 import ReactMarkdown from "react-markdown";
-import { Box, Button, Container, Typography } from "@material-ui/core";
+import { Box, Button, Container, Typography } from "@mui/material";
 import HeroColor from "../components/shared/HeroColor";
 import Layout from "../components/Layout";
-import { ArrowForward } from "@material-ui/icons";
+import { ArrowForward } from "@mui/icons-material";
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: "flex",
-    flexDirection: "column",
-  },
-  space: {
-    padding: theme.spacing(1),
-  },
+const Root = styled(Box)(({ theme }) => ({
+  display: "flex",
+  flexDirection: "column",
+}));
+
+const Space = styled(Box)(({ theme }) => ({
+  padding: theme.spacing(1),
 }));
 
 const Image = (props) => (
@@ -71,20 +70,17 @@ const AdditionalPage = (props) => {
 };
 
 const PageBodyData = (props) => {
-  const classes = useStyles();
   const post = props.data.markdownRemark;
   return (
-    <>
-      <Box className={classes.root}>
-        <Box className={classes.space}>
-          <Typography component={"span"}>
-            <ReactMarkdown components={{ img: Image }}>
-              {post.rawMarkdownBody}
-            </ReactMarkdown>
-          </Typography>
-        </Box>
-      </Box>
-    </>
+    <Root>
+      <Space>
+        <Typography component={"span"}>
+          <ReactMarkdown components={{ img: Image }}>
+            {post.rawMarkdownBody}
+          </ReactMarkdown>
+        </Typography>
+      </Space>
+    </Root>
   );
 };
 

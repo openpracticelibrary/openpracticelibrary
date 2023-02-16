@@ -2,7 +2,7 @@ import React from "react";
 import FullText from "./FullText";
 import MediaGallery from "./MediaGallery";
 import Resources from "./Resources";
-import { Box, Typography } from "@material-ui/core";
+import { Box, Typography } from "@mui/material";
 
 const PageBody = ({
   body: { whatIs, whyDo, howTo },

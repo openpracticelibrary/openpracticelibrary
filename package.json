@@ -10,10 +10,12 @@
   },
   "repository": "github:openpracticelibrary/openpracticelibrary",
   "dependencies": {
-    "@material-ui/core": "^4.11.0",
-    "@material-ui/icons": "^4.9.1",
-    "@material-ui/lab": "^4.0.0-alpha.56",
-    "@material-ui/styles": "^4.10.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.9",
+    "@mui/styles": "^5.11.9",
+    "@mui/system": "^5.11.9",
     "bulma": "^0.9.0",
     "gatsby": "^4.25.4",
     "gatsby-background-image": "^1.6.0",
@@ -49,7 +51,6 @@
     "react-lazy-load-image-component": "^1.5.0",
     "react-markdown": "^7.1.2",
     "react-share": "^4.3.0",
-    "styled-components": "^5.2.0",
     "uuid": "^7.0.0",
     "xmlhttprequest-ssl": "^1.6.2"
   },
@@ -70,7 +71,7 @@
   },
   "devDependencies": {
     "babel-jest": "^26.3.0",
-    "babel-preset-gatsby": "^0.5.10",
+    "babel-preset-gatsby": "^2.25.0",
     "cypress": "^4.12.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.4.2",

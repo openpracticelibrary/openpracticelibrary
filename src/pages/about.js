@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Container, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@mui/material";
 import HeroColor from "../components/shared/HeroColor";
 import HistoryValues from "../components/About/HistoryValues";
 import ProductTeam from "../components/About/ProductTeam";
