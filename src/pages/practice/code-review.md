@@ -98,6 +98,7 @@ howTo: >-
 
   As it can be seen from the image, apart from doing a side-by-side programming in pairs, the highest efficient code review technique is opening "pull requests", which is a very efficient technique actively used by git providers like GitHub, GitLab, etc.
 mediaGallery:
+  - link: https://www.youtube.com/watch?v=1Ge__2Yx_XQ
   - link: https://openpracticelibrary.com/images/code-review.png
   - link: https://openpracticelibrary.com/images/code_review_efficency.png
 resources:
