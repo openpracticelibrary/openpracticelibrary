@@ -39,31 +39,25 @@ const BlogPostTemplate = (props) => {
       markdownRemark: {
         rawMarkdownBody,
         excerpt,
-        frontmatter: {
-          title,
-          subtitle,
-          authors,
-          date,
-          jumbotron: {
-            childImageSharp: { fluid },
-          },
-        },
+        frontmatter: { title, subtitle, authors, date, jumbotron },
       },
     },
   } = props;
+
+  const image = jumbotron?.childImageSharp.fluid;
 
   return (
     <Layout
       ogContent={{
         title,
         desc: excerpt,
-        image: fluid
-          ? fluid.src
+        image: image
+          ? image.src
           : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
       }}
     >
       <Box display="flex" flexDirection="column">
-        <Hero jumbotron={fluid}>
+        <Hero jumbotron={image}>
           <Container maxWidth="md">
             <Box px={6}>
               <Typography variant="h2">{title}</Typography>
