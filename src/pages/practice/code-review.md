@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Code Review
-subtitle: Also a review on the developer's ego
+subtitle: Improve quality and knowledge sharing through collaboration and peer review.
 date: 2020-08-12T20:44:12.964Z
 authors:
   - mabulgu
@@ -98,6 +98,7 @@ howTo: >-
 
   As it can be seen from the image, apart from doing a side-by-side programming in pairs, the highest efficient code review technique is opening "pull requests", which is a very efficient technique actively used by git providers like GitHub, GitLab, etc.
 mediaGallery:
+  - link: https://www.youtube.com/watch?v=1Ge__2Yx_XQ
   - link: https://openpracticelibrary.com/images/code-review.png
   - link: https://openpracticelibrary.com/images/code_review_efficency.png
 resources:
