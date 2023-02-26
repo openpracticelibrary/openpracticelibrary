@@ -11,6 +11,7 @@ authors:
   - infosec812
   - ilaria66
   - kattekrab
+  - rmarting
 tags:
   - culture
 mobiusTag: foundation
@@ -18,75 +19,67 @@ icon: /images/social-contract.jpg
 whatIs: >-
   The Social Contract is a simple and effective way to enable team autonomy and
   self accountability for engagements. The Social Contract or Agreement is
-  created by and for the team.  It looks to codify the behaviors and
-  expectations of the team. It also provides a mechanism for the team to radiate
-  and share its desired behaviours with management and other stakeholders.
+  created by and for the team. It looks to codify the behaviors and expectations
+  of the team. It also provides a mechanism for the team to radiate and share
+  its desired behaviours with management and other stakeholders.
 
 
   To effectively use this practice you should look to create the following outcomes:
 
-  * Public display of the social contract
 
+  * Public display of the social contract.
 
-  * Nobody is above the contract
-
+  * Nobody is above the contract.
 
   * The team agreed holds each other accountable to the contract. Having every team member physically sign the contract can provide a good starting point for this.
 
-
-  * Revisit the social contract often and update it as necessary
+  * Revisit the social contract often and update it as necessary.
 whyDo: |-
-  * Quick means to clearly determine team dynamics and expectations
-
-  * Promote autonomy and self governing of team behavior
-
-  * The contract keeps the team consciously aware of how they work together
-
-  * Establish empathy and context for future conversations between team members
+  * Provides a quick means to clearly determine team dynamics and expectations.
+  * Promote autonomy and self-governing of team behavior.
+  * Keeps the team consciously aware of how they work together.
+  * Establish empathy and context for future conversations between team members.
+  * E﻿nables psychological safety within the group.
 howTo: >-
-  ## Materials Needed
+  ### Workflow
+
+
+  1. I﻿ndividually, write down your expectation about working together.
+     * T﻿hink about behaviors exhibited by really great teams that you've worked with.
+     * C﻿onsider the behaviors of any terrible teams that you've worked with.
+  2. T﻿ogether, review, and group the behaviors.
+
+  3. A﻿fter reaching consensus, sign the contract.
+
+  4. D﻿isplay the contract in a visible place.
+
+  5. E﻿stablish your name team (naming things is hard).
+
+
+  Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
+
+
+  ### Materials Needed
 
 
   * Wall space which will hold sticky notes.
 
-  * Whiteboard markers
+  * Whiteboard markers.
 
-  * Stickies (preferably a wide variety)
+  * Stickies (preferably a wide variety).
 
-  * Large poster paper
-
-
-  Stick the large poster paper on the wall and label it "Social Contract."
+  * Large poster paper.
 
 
-  Explain to the team that we're going to:
+  ### Facilitation Tips and Example Questions
 
 
-  * Define the kind of culture we want our team to have
-
-  * Set some general guidelines
-
-  * Hold one another accountable to these guidelines
-
-
-  Ask open-ended questions about the team's desired way of working. If the team agrees to an answer, write the decision on a sticky note and put the note on the poster paper. If there's not consensus, throw the sticky note away or put it in the parking lot for later discussion.
-
-
-  At the end, ask the team to sign the contract, and keep it in a visible place. Note that this is a living document so the team can revisit it later, change it, and initial it to indicate that everyone has agreed to the change.
-
-
-  As the team moves forward, encourage them to refer back to the contract when there are disagreements.
-
-
-  ## Example Questions
-
-
-  Try to guide the team to a contract that encourages positivity, autonomy, and respect.
+  Try to guide the team to a contract that encourages positivity, autonomy, and respect. E﻿nsure that things in the Social Contract are actionable, for example "Be Open" has good intent, but lacks specificity. Ask questions to tease our greater meanings.
 
 
   * What sort of team culture do you want to build?
 
-  * Open, positive, blame-free, constructive
+  * Open, positive, blame-free, constructive, listen to others, give space to anyone
 
   * Fun!
 
@@ -109,7 +102,7 @@ howTo: >-
   * Embrace creative chaos
 
 
-  ## Don't do this
+  ### Don't do this
 
 
   Avoid building a social contract that encourages antagonistic, command-and-control behavior. Here's an example of a really bad social contract:
@@ -126,7 +119,7 @@ howTo: >-
   * When you learn something, be sure to keep it to yourself so that everyone can see what a ninja rockstar wizard unicorn you are.
 
 
-  ## Tips for remote sessions
+  ### Tips for remote sessions
 
 
   1. Consider to have a “pre-canned” social contract that is good for remote meetings, then allow people to add/change based on their thoughts.
