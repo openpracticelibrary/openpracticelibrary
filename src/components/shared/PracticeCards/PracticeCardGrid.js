@@ -1,6 +1,6 @@
 import React from "react";
 import PracticeCard from "./PracticeCard";
-import { Grid } from "@material-ui/core";
+import { Grid } from "@mui/material";
 
 const PracticeCardGrid = (props) => {
   return (
@@ -16,7 +16,9 @@ const PracticeCardGrid = (props) => {
         return (
           <PracticeCard
             key={practice.node.id}
-            coverImage={practice.node.frontmatter.icon.childImageSharp.fluid}
+            coverImage={
+              practice.node.frontmatter.icon.childImageSharp.gatsbyImageData
+            }
             practiceId={practice.node.id}
             practiceTitle={practice.node.frontmatter.title}
             slug={practice.node.fields.slug}

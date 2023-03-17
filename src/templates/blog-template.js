@@ -1,7 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
 import ReactMarkdown from "react-markdown";
-import { Container, Box, Typography } from "@material-ui/core";
+import { Container, Box, Typography } from "@mui/material";
 
 import Layout from "../components/Layout";
 import HeroColor from "../components/shared/HeroColor";
@@ -11,12 +11,12 @@ import ContributedBy from "../components/practicePage/PageIntro/ContributedBy";
 const Hero = ({ jumbotron, children }) => {
   if (jumbotron) {
     return (
-      <HeroImage imageUrl={jumbotron.childImageSharp.fluid} height="40vh">
+      <HeroImage imageUrl={jumbotron} height="40vh">
         <Box
           display="flex"
           alignItems="center"
           bgcolor="rgba(0,0,0,0.4)"
-          borderRadius={17}
+          borderRadius="17px"
           color="white"
           width="fit-content"
         >
@@ -44,18 +44,20 @@ const BlogPostTemplate = (props) => {
     },
   } = props;
 
+  const image = jumbotron?.childImageSharp.fluid;
+
   return (
     <Layout
       ogContent={{
         title,
         desc: excerpt,
-        image: jumbotron
-          ? jumbotron
+        image: image
+          ? image.src
           : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
       }}
     >
       <Box display="flex" flexDirection="column">
-        <Hero jumbotron={jumbotron}>
+        <Hero jumbotron={image}>
           <Container maxWidth="md">
             <Box px={6}>
               <Typography variant="h2">{title}</Typography>
@@ -66,7 +68,7 @@ const BlogPostTemplate = (props) => {
         </Hero>
         <Box margin={6}>
           <Container maxWidth="md">
-            <ReactMarkdown source={rawMarkdownBody} />
+            <ReactMarkdown>{rawMarkdownBody}</ReactMarkdown>
           </Container>
         </Box>
       </Box>
@@ -88,8 +90,8 @@ export const blogQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         jumbotron {
           childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
+            fluid(maxWidth: 490, quality: 100) {
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }

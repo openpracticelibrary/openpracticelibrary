@@ -1,67 +1,48 @@
-import React from 'react'
-import CssBaseline from '@material-ui/core/CssBaseline';
-import { ThemeProvider } from '@material-ui/styles';
-import { create } from "jss";
-import { jssPreset, StylesProvider } from "@material-ui/styles";
-import theme from '../../gatsby-theme-material-ui-top-layout/theme';
-import PracticePageTemplate from '../../components/practicePage'
+import React, { useMemo } from "react";
+import createCache from "@emotion/cache";
+import { CacheProvider } from "@emotion/react";
+import CssBaseline from "@mui/material/CssBaseline";
+import { ThemeProvider } from "@mui/styles";
+import theme from "../../gatsby-theme-material-ui-top-layout/theme";
+import PracticePageTemplate from "../../components/practicePage";
 
-class PracticePagePreview extends React.Component {
-  state = {
-    ready: false
+const PracticePagePreview = ({ document, entry }) => {
+  const frontmatter = entry.get("data").toJS();
+  const data = {
+    markdownRemark: {
+      id: 1,
+      fields: {
+        slug: "edit-practice-page",
+      },
+      rawMarkdownBody: frontmatter.body,
+      frontmatter,
+    },
   };
 
-  handleRef = ref => {
-    const ownerDocument = ref ? ref.ownerDocument : null;
-    this.setState({
-      ready: true,
-      jss: create({
-        ...jssPreset(),
-        insertionPoint: ownerDocument ? ownerDocument.querySelector("#demo-frame-jss") : null
+  const documentHead = document.querySelector("head");
+
+  const cache = useMemo(
+    () =>
+      createCache({
+        key: "preview",
+        container: documentHead,
       }),
-      sheetsManager: new Map()
-    });
-  };
+    [documentHead]
+  );
 
-  render() {
-    const { entry } = this.props;
-    const frontmatter = entry.get('data').toJS();
-    const data = {
-      markdownRemark: {
-        id: 1,
-        fields: {
-          slug: 'edit-practice-page'
-        },
-        rawMarkdownBody: frontmatter.body,
-        frontmatter,
-      }
-    }
-
-    if (data) {
-      return (
-        <React.Fragment>
-          <div id="demo-frame-jss" ref={this.handleRef} />
-          {this.state.ready ? (
-          <StylesProvider
-            jss={this.state.jss}
-            sheetsManager={this.state.sheetsManager}
-          >
-            <ThemeProvider theme={theme}>
-              {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
-              <CssBaseline />
-              <PracticePageTemplate
-                preview={true}
-                data={data}
-              />
-           </ThemeProvider>
-          </StylesProvider>
-        ) : null}
-        </React.Fragment>
-      )
-    } else {
-      return <div>Loading...</div>
-    }
+  if (data) {
+    return (
+      <CacheProvider value={cache}>
+        <ThemeProvider theme={theme}>
+          {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
+          <CssBaseline />
+          <PracticePageTemplate preview={true} data={data} />
+        </ThemeProvider>
+      </CacheProvider>
+    );
+  } else {
+    return <div>Loading...</div>;
   }
-}
+};
 
-export default PracticePagePreview
+export default PracticePagePreview;

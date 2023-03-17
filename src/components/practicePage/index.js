@@ -5,7 +5,7 @@ import PageMenu from "./PageMenu";
 import PageBody from "./PageBody";
 import gradientSelect from "../shared/utilities/gradientSelect";
 import HeroColor from "../../components/shared/HeroColor";
-import { Container } from "@material-ui/core";
+import { Container } from "@mui/material";
 
 const PracticePage = ({ data, preview }) => {
   const {
@@ -80,27 +80,25 @@ const PracticePage = ({ data, preview }) => {
     fullText: rawMarkdownBody,
   };
 
-  return (
-    <>
-      <HeroColor
-        type="gradient"
-        gradient={gradientSelect(allTags)}
-        height="30vh"
-      >
-        {!preview && (
-          <LoginButton
-            practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
-          />
-        )}
-        <PageIntro {...pageIntroData} />
-      </HeroColor>
+  return <>
+    <HeroColor
+      type="gradient"
+      gradient={gradientSelect(allTags)}
+      height="30vh"
+    >
+      {!preview && (
+        <LoginButton
+          practiceTitle={practiceSlug ? practiceSlug.replace(/\/$/, "") : ""}
+        />
+      )}
+      <PageIntro {...pageIntroData} />
+    </HeroColor>
 
-      {!preview && <PageMenu {...pageMenuData} {...pageRefs} />}
-      <Container maxWidth="md">
-        <PageBody {...pageBodyData} {...pageRefs} />
-      </Container>
-    </>
-  );
+    {!preview && <PageMenu {...pageMenuData} {...pageRefs} />}
+    <Container maxWidth="md">
+      <PageBody {...pageBodyData} {...pageRefs} />
+    </Container>
+  </>;
 };
 
 export default PracticePage;

@@ -5,7 +5,7 @@ import {
   Loop,
   Telegram,
   Explore,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 
 const useMobiusContent = {
   foundation: {

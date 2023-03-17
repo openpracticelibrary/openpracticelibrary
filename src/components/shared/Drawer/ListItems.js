@@ -6,7 +6,7 @@ import {
   ListSubheader,
   List,
   Typography,
-} from "@material-ui/core";
+} from "@mui/material";
 
 function ListItemLink({ primary, to, toggle }) {
   const renderLink = React.useMemo(

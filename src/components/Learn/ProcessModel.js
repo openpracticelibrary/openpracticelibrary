@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import { Box, Typography } from "@material-ui/core";
+import { Box, Typography } from "@mui/material";
 import MobiusLoopHero from "../shared/MobiusLoopHero";
 
 const ProcessModel = () => {

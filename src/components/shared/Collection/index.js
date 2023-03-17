@@ -1,6 +1,6 @@
 import React from "react";
-import { CameraAlt } from "@material-ui/icons";
-import { Box } from "@material-ui/core";
+import { CameraAlt } from "@mui/icons-material";
+import { Box } from "@mui/material";
 
 const Collection = (props) => (
   <Box display="flex" alignItems="center" py={props.alignment}>

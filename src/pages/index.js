@@ -21,8 +21,7 @@ const PracticesWithData = (props) => {
     <Layout
       ogContent={{
         title: "Open Practice Library",
-        desc:
-          "Practices that empower teams to collaborate and deliver iteratively",
+        desc: "Practices that empower teams to collaborate and deliver iteratively",
         image:
           "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
       }}
@@ -40,7 +39,7 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "practice-page" } } }
-      sort: { fields: fields___slug }
+      sort: { frontmatter: { title: ASC } }
     ) {
       edges {
         node {
@@ -55,9 +54,7 @@ export const pageQuery = graphql`
             mobiusTag
             icon {
               childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(layout: FULL_WIDTH)
               }
             }
             mediaGallery {

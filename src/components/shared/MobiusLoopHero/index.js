@@ -1,6 +1,6 @@
 import React from "react";
 import { navigate } from "gatsby";
-import { Box, Card, CardContent, Link, Typography } from "@material-ui/core";
+import { Box, Card, CardContent, Link, Typography } from "@mui/material";
 import MobiusDescription from "./MobiusDescription";
 import FoundationGraphic from "./FoundationGraphic";
 import FoundationDescription from "./FoundationDescription";
@@ -161,7 +161,7 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
           <Box display="flex" justifyContent="center" fontSize=".625rem">
             <Typography
               align="right"
-              color="default"
+              color="grey"
               gutterBottom
               variant="inherit"
             >

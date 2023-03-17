@@ -6,7 +6,7 @@ import {
   Toolbar,
   Button,
   Hidden,
-} from "@material-ui/core";
+} from "@mui/material";
 import SocialLinks from "./SocialLinks";
 
 const sections = [
@@ -41,15 +41,14 @@ export default function PageMenu(props) {
             justifyContent="space-between"
           >
             <Box>
-              <Hidden xsDown>
+              <Hidden smDown>
                 {sections.map((section, i) => (
                   <Button
-                    color="default"
+                    key={section.title}
                     disableElevation
                     onClick={() => scrollTo(section.ref)}
                     size="small"
-                    variant="text"
-                  >
+                    variant="text">
                     {section.title}
                   </Button>
                 ))}

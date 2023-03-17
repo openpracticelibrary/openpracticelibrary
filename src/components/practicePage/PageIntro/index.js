@@ -1,7 +1,7 @@
 import React from "react";
 import ContributedBy from "./ContributedBy";
 import Collection from "../../shared/Collection";
-import { Box, Container, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@mui/material";
 
 const PageIntro = ({
   title,

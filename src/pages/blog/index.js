@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
-import { Container, Box, Typography, Divider } from "@material-ui/core";
+import { Container, Box, Typography, Divider } from "@mui/material";
 import Layout from "../../components/Layout";
 import HeroColor from "../../components/shared/HeroColor";
 
@@ -10,19 +10,13 @@ const BlogRoll = ({ slug, title, date, excerpt }) => (
       <Link
         to={slug}
         style={{
-          textDecoration: "none"
+          textDecoration: "none",
         }}
       >
-        <Typography variant="h4">
-          {title}
-        </Typography>
+        <Typography variant="h4">{title}</Typography>
       </Link>
-      <Typography variant="overline">
-        Published {date}
-      </Typography>
-      <Typography variant="body1">
-        {excerpt}
-      </Typography>
+      <Typography variant="overline">Published {date}</Typography>
+      <Typography variant="body1">{excerpt}</Typography>
     </Box>
     <Divider />
   </>
@@ -36,18 +30,19 @@ const BlogPage = (props) => {
   } = props;
 
   return (
-    <Layout ogContent={{
-      title: "Open Practice Library - Blog",
-      desc: "Perspectives from the Open Practice Library",
-      image: "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
-    }}>
+    <Layout
+      ogContent={{
+        title: "Open Practice Library - Blog",
+        desc: "Perspectives from the Open Practice Library",
+        image:
+          "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+      }}
+    >
       <Box display="flex" flexDirection="column">
         <HeroColor type="gradient" gradient={1} height="30vh">
           <Container maxWidth="md">
             <Box px={6}>
-              <Typography variant="h2">
-                Blog
-              </Typography>
+              <Typography variant="h2">Blog</Typography>
               <Typography variant="h5">
                 Perspectives from the Open Practice Library
               </Typography>
@@ -56,8 +51,9 @@ const BlogPage = (props) => {
         </HeroColor>
         <Box margin={6}>
           <Container maxWidth="md">
-            { edges.map(post => (
+            {edges.map((post) => (
               <BlogRoll
+                key={post.node.fields.slug}
                 slug={post.node.fields.slug}
                 title={post.node.frontmatter.title}
                 date={post.node.frontmatter.date}
@@ -77,7 +73,7 @@ export const pageQuery = graphql`
   query BlogPageTemplate {
     allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "blog-page" } } }
-      sort: { order: DESC, fields: frontmatter___date }
+      sort: { frontmatter: { date: DESC } }
     ) {
       edges {
         node {

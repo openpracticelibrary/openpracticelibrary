@@ -1,20 +1,19 @@
 import React from "react";
+import { styled } from "@mui/material/styles";
 import { graphql } from "gatsby";
-import { makeStyles } from "@material-ui/core/styles/index";
 import ReactMarkdown from "react-markdown";
-import { Box, Button, Container, Typography } from "@material-ui/core";
+import { Box, Button, Container, Typography } from "@mui/material";
 import HeroColor from "../components/shared/HeroColor";
 import Layout from "../components/Layout";
-import { ArrowForward } from "@material-ui/icons";
+import { ArrowForward } from "@mui/icons-material";
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    display: "flex",
-    flexDirection: "column",
-  },
-  space: {
-    padding: theme.spacing(1),
-  },
+const Root = styled(Box)(({ theme }) => ({
+  display: "flex",
+  flexDirection: "column",
+}));
+
+const Space = styled(Box)(({ theme }) => ({
+  padding: theme.spacing(1),
 }));
 
 const Image = (props) => (
@@ -22,16 +21,18 @@ const Image = (props) => (
 );
 
 const CallToAction = (frontmatter) => {
-  if (frontmatter.title == "Contribution Guide") {
+  if (frontmatter.title === "Contribution Guide") {
     return (
       <Button
         size="large"
         variant="contained"
         color="secondary"
         endIcon={<ArrowForward />}
-        onClick={() => (window.location.href = `${window.location.origin}/admin/`)}
+        onClick={() =>
+          (window.location.href = `${window.location.origin}/admin/`)
+        }
       >
-      Start Now
+        Start Now
       </Button>
     );
   } else {
@@ -44,8 +45,7 @@ const AdditionalPage = (props) => {
     <Layout
       ogContent={{
         title: "Open Practice Library",
-        desc:
-          "Practices that empower teams to collaborate and deliver iteratively",
+        desc: "Practices that empower teams to collaborate and deliver iteratively",
         image:
           "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
       }}
@@ -70,21 +70,17 @@ const AdditionalPage = (props) => {
 };
 
 const PageBodyData = (props) => {
-  const classes = useStyles();
   const post = props.data.markdownRemark;
   return (
-    <>
-      <Box className={classes.root}>
-        <Box className={classes.space}>
-          <Typography component={"span"}>
-            <ReactMarkdown
-              source={post.rawMarkdownBody}
-              renderers={{ image: Image }}
-            />
-          </Typography>
-        </Box>
-      </Box>
-    </>
+    <Root>
+      <Space>
+        <Typography component={"span"}>
+          <ReactMarkdown components={{ img: Image }}>
+            {post.rawMarkdownBody}
+          </ReactMarkdown>
+        </Typography>
+      </Space>
+    </Root>
   );
 };
 

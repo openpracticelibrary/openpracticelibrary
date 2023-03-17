@@ -5,8 +5,8 @@ import HeroImage from "../components/shared/HeroImage";
 import ProcessModel from "../components/Learn/ProcessModel";
 import Explore from "../components/Learn/Explore";
 import Partnerships from "../components/Learn/Partnerships";
-import { ArrowDownward } from "@material-ui/icons";
-import { Box, Button, Container, Hidden, Typography } from "@material-ui/core";
+import { ArrowDownward } from "@mui/icons-material";
+import { Box, Button, Container, Hidden, Typography } from "@mui/material";
 import Logo from "../components/shared/Logo";
 
 const scrollTo = React.createRef();
@@ -35,7 +35,7 @@ const Learn = () => (
     </Helmet>
     <Box display="flex" flexDirection="column">
       <Box position="absolute" top="2rem" left="2rem" color="common.white">
-        <Hidden xsDown implementation="js">
+        <Hidden smDown implementation="js">
           <Logo color="common.white" />
         </Hidden>
         <Hidden smUp implementation="js">
@@ -70,7 +70,7 @@ const Learn = () => (
           </Box>
         </Box>
       </HeroImage>
-      <Container maxWidth="md" alignSelf="center" mx={6}>
+      <Container maxWidth="md" sx={{ alignSelf: "center", mx: 6 }}>
         <div ref={scrollTo} />
         <Box my={6}>
           <Typography variant="h5" gutterBottom>

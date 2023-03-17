@@ -1,5 +1,5 @@
 import React from "react";
-import { Typography } from "@material-ui/core";
+import { Typography } from "@mui/material";
 import ReactMarkdown from "react-markdown";
 
 const Image = (props) => (
@@ -8,8 +8,8 @@ const Image = (props) => (
 
 const FullText = ({ source }) => {
   return (
-    <Typography>
-      <ReactMarkdown source={source} renderers={{ image: Image }} />
+    <Typography component={"div"}>
+      <ReactMarkdown components={{ img: Image }}>{source}</ReactMarkdown>
     </Typography>
   );
 };

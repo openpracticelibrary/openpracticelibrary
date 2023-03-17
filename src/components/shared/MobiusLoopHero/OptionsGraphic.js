@@ -8,7 +8,7 @@ const OptionsGraphic = () => (
       <path
         d="M222.19,77.11 C222.19,77.11 223.78,100.86 246.29,123.37"
         stroke="currentColor"
-        stroke-width="15.72"
+        strokeWidth="15.72"
       ></path>
     </g>
   </svg>

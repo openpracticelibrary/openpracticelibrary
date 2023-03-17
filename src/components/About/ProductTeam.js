@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Typography } from "@material-ui/core";
+import { Box, Typography } from "@mui/material";
 
 const ProductTeam = () => (
   <Box data-testid="pageGrid" width="100%" my={8}>

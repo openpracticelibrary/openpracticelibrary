@@ -1,5 +1,5 @@
 import React from "react";
-import { Typography, Box, Button } from "@material-ui/core";
+import { Typography, Box, Button } from "@mui/material";
 import ResourceListItem from "./ResourceListItem";
 import {
   Link,
@@ -8,7 +8,7 @@ import {
   OndemandVideo,
   Store,
   MenuBook,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 
 const Icon = {
   web: <Link />,

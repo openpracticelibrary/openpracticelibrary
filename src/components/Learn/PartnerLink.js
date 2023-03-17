@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Typography, Link } from "@material-ui/core";
+import { Box, Typography, Link } from "@mui/material";
 const PartnerLink = ({ altText, caption, imageSrc, title, url }) => (
   <Box
     alignItems="center"
@@ -14,7 +14,7 @@ const PartnerLink = ({ altText, caption, imageSrc, title, url }) => (
         {title}
       </Typography>
     </Link>
-    <Typography variant="subtitle">{caption}</Typography>
+    <Typography variant="subtitle1">{caption}</Typography>
   </Box>
 );
 export default PartnerLink;

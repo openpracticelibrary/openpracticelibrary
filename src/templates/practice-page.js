@@ -5,18 +5,16 @@ import Layout from "../components/Layout";
 import PracticePage from "../components/practicePage";
 
 const PracticePageWithData = (props) => (
-  <Layout ogContent={{
-    title: props.data.markdownRemark.frontmatter.title,
-    desc: props.data.markdownRemark.excerpt,
-    image: props.data.markdownRemark.frontmatter.icon ?
-    `https://openpracticelibrary.com${props.data.markdownRemark.frontmatter.icon}`
-    :
-    "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png"
-  }}>
-    <PracticePage
-      data={props.data}
-      {...props}
-    />
+  <Layout
+    ogContent={{
+      title: props.data.markdownRemark.frontmatter.title,
+      desc: props.data.markdownRemark.excerpt,
+      image: props.data.markdownRemark.frontmatter.icon
+        ? `https://openpracticelibrary.com${props.data.markdownRemark.frontmatter.icon}`
+        : "https://openpracticelibrary.github.io/opl-media/images/opl-logo.png",
+    }}
+  >
+    <PracticePage data={props.data} {...props} />
   </Layout>
 );
 
@@ -35,9 +33,7 @@ export const pageQuery = graphql`
       frontmatter {
         icon {
           childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(width: 800, layout: CONSTRAINED)
           }
         }
         title
@@ -65,4 +61,3 @@ export const pageQuery = graphql`
     }
   }
 `;
-

@@ -6,16 +6,15 @@ import {
   Grid,
   Typography,
   Link,
-} from "@material-ui/core";
+} from "@mui/material";
 import {
   Mic,
   MailOutline,
   GitHub,
-  YouTube,
   Instagram,
   Twitter,
   LinkedIn,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 import { CCHeart } from "../../../assets/icons/index";
 import Logo from "../../../components/shared/Logo";
 import logoLabs from "../../../assets/images/logo-red-hat-open-innovation-labs-a-standard-rgb.png";
@@ -92,7 +91,7 @@ const BodyFooter = () => {
                 >
                   <Twitter />
                 </Link>
-              </Grid> 
+              </Grid>
               <Grid item>
                 <Link
                   href="https://www.linkedin.com/company/openpracticelibrary/"
@@ -101,7 +100,7 @@ const BodyFooter = () => {
                 >
                   <LinkedIn />
                 </Link>
-              </Grid> 
+              </Grid>
             </Grid>
           </Box>
         </Box>
@@ -111,7 +110,7 @@ const BodyFooter = () => {
           flexDirection="column"
           marginBottom={2}
         >
-          <Typography align="center" gutterBottom variant="subtitle">
+          <Typography align="center" gutterBottom variant="subtitle1">
             Except where noted, content on this site is licensed under a{" "}
             <Link
               href="https://creativecommons.org/licenses/by-sa/4.0/"

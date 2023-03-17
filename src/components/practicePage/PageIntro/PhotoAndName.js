@@ -1,6 +1,6 @@
 import React from "react";
-import { Person } from "@material-ui/icons";
-import { Box, Avatar, Typography } from "@material-ui/core";
+import { Person } from "@mui/icons-material";
+import { Box, Avatar, Typography } from "@mui/material";
 
 const PhotoAndName = ({ authorName, avatar }) => (
   <Box
@@ -11,7 +11,7 @@ const PhotoAndName = ({ authorName, avatar }) => (
     pr={3}
     minWidth="fit-content"
   >
-    <Avatar src={avatar} bgcolor="transparent">
+    <Avatar src={avatar}>
       <Person />
     </Avatar>
     <Typography data-testid={"authorName"}>{authorName}</Typography>
