@@ -63,6 +63,8 @@ howTo: >-
   1. First pass – just intuitively reflect on each card with the team. Don’t worry too much about the detail of the checklist items on the cards. 
 
   2. Second pass – working backwards check off the individual items on the check lists.
+mediaGallery:
+  - link: https://www.ivarjacobson.com/files/styles/webp_large/public/field_iji_image/article/six_cards_-_high_res.webp?orig=png
 resources:
   - link: https://www.ivarjacobson.com/publications/cards/alpha-state-cards-pdf-version
     linkType: web
