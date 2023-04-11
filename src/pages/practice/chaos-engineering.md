@@ -52,7 +52,7 @@ howTo: >-
 
   [Chaos Blade](https://chaosblade.io/) is a cloud-native chaos engineering platform that supports multiple environments, clusters, and languages.
 mediaGallery:
-  - link: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.verica.io%2Fblog%2Fthe-advanced-principles-of-chaos-engineering%2F&psig=AOvVaw02E65Cf98jXWoRPeI8mgiX&ust=1681273016226000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCQmZz8oP4CFQAAAAAdAAAAABAD
+  - link: https://www.verica.io/wp-content/uploads/PrinciplesOfCE2-1.png
 resources:
   - link: https://www.dynatrace.com/news/blog/what-is-chaos-engineering/#:~:text=Chaos%20engineering%20is%20a%20method,and%20can%20break%20under%20pressure.
     linkType: web
