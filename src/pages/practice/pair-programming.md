@@ -71,6 +71,8 @@ howTo: >-
   * Short rotation periods keep everyone concentrated and every opinion in the mix
 
   * It’s ok to have periods of silence where people are thinking and working. Someone doesn’t need to be talking throughout the session.
+mediaGallery:
+  - link: https://martinfowler.com/articles/on-pair-programming/driver_navigator.png
 resources:
   - link: https://en.wikipedia.org/wiki/Pair_programming
     linkType: web
