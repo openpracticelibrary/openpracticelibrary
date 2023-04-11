@@ -51,7 +51,7 @@ howTo: >-
 
   * During the meeting have your eye on the Parking Lot items to see if any are resolved naturally through the remainder of the timebox and call it out when it happens.
 mediaGallery:
-  - link: https://openpracticelibrary.com/static/2a5338e08a3aaebacf0dc3936165977f/ee604/parking-lot-example2.png
+  - link: https://media.nngroup.com/media/editor/2019/09/05/screen-shot-2019-09-05-at-45524-pm.png
   - link: https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F31a11c9c-35e4-11e5-bdbb-35e55cbae175?fit=scale-down&source=next&width=700
 resources:
   - link: https://thinklouder.com/quicktip-open-meeting-parking-lot/
