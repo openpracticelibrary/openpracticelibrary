@@ -48,7 +48,7 @@ howTo: >-
 
   * Suspending judgement
 mediaGallery:
-  - link: https://coachfoundation.com/blog/wp-content/uploads/2021/10/Graphics-02-1-scaled.jpg
+  - link: https://www.klozers.com/wp-content/uploads/2020/03/Grow-Sales-Coaching-Model.jpg
   - link: https://www.youtube.com/watch?v=_TMM0lhukBg
 resources:
   - link: https://www.performanceconsultants.com/grow-model
