@@ -56,7 +56,7 @@ howTo: >-
 
   5. [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery), using static site generators (for example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/)). Note: This process is optional
 mediaGallery:
-  - link: https://openpracticelibrary.com/static/8dd15b5897ff4f0f5954afce32831396/ee604/treat-docs-like-code.png
+  - link: https://www.doctave.com/assets/img/docs-as-code-flow.png
 resources:
   - link: https://www.docslikecode.com/
     linkType: web
