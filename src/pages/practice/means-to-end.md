@@ -48,6 +48,8 @@ howTo: >-
 
 
   Existing projects can now be mapped to the tactics section to validate your strategy and ensure whether existing initiatives are still in alignment with the strategy. If you need new ideas you can run a [How Might We](https://openpracticelibrary.com/practice/hmw/) ideation session. This will allow you to get a fresh view and to establish new tactical approaches to achieve the short team objectives or key results. Important again is that the mapping with the strategic layer (strategy & goals) is completed to stay aligned.
+mediaGallery:
+  - link: https://www.researchgate.net/publication/4363603/figure/fig2/AS:670046728777751@1536762997576/BMM-Means-and-End-2.png
 difficulty: hard
 participants: []
 ---
