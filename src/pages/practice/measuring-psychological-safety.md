@@ -158,6 +158,9 @@ resources:
   - link: https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
     linkType: web
     description: Tuckman's model of group development
+  - link: https://www.jstor.org/stable/2666999?seq=1
+    linkType: web
+    description: Edmonson's Original Research Paper
 people: 1+
 difficulty: moderate
 participants:
