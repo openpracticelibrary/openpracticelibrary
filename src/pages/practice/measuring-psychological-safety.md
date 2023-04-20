@@ -156,10 +156,6 @@ resources:
     linkType: web
     description: Google Project Aristotle found that psychological safety is the
       most important factor in high performing teams.
-  - link: https://www.jstor.org/stable/2666999?seq=1
-    linkType: web
-    description: Dr Amy Edmondson's original research into Psychological Safety and
-      Learning Behavior in Work Teams
   - link: https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
     linkType: web
     description: Tuckman's model of group development
