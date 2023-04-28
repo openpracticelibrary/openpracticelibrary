@@ -4,7 +4,7 @@ title: Architectural Decision Records (ADR)
 subtitle: Open & Transparent Decision History
 date: 2021-04-06T18:59:59.091Z
 authors:
-  - infosec812
+  - InfoSec812
 tags:
   - culture
 mobiusTag: foundation
