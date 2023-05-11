@@ -9,7 +9,7 @@ authors:
   - mtakane
 tags: []
 mobiusTag: discovery
-icon: /images/start-at-the-end-sutter-health.jpeg
+icon: /images/all-icons_-start-end.png
 whatIs: >-
   Start At The End is a simple exercise to identify a set of assumptions which
   must be tested in order achieve a long term goal. It's a rather simple
