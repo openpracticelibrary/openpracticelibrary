@@ -45,15 +45,18 @@ howTo: >-
 
   #### INPUTS:
 
+
   * Identified set of prioritised and defined User Stories from the Product Owner to the team
 
   * Capacity – Who is available, Are there any holiday, big meetings, etc during this period
 
-  * Velocity – How much has the team been able to produce recently
+  * Velocity – How much has the team been able to produce recently?
 
   * Feedback ,Retro Actions and training – What else could provide value?
 
+
   #### AGENDA:
+
 
   * Independently review the Prioritised User Stories
 
@@ -65,11 +68,15 @@ howTo: >-
 
   * The group should call out gaps/concerns
 
+
   #### OUTPUTS:
+
 
   * Closed out previous Sprint. Load what seems to be an appropriate and agreed upon amount of stories for the next Sprint.
 
+
   ### Tips for remote working
+
 
   * Works quite well remotely but preparation is key.
 
@@ -77,14 +84,10 @@ howTo: >-
 
   * Prepare virtual tool in advance. Have as much information and working spaces created and displayed as possible e.g.
 
-      * Sprint goal space
-
-      * Team calendar space
-
-      * Team velocity displayed
-
-      * Parking lot space etc.
-
+    * Sprint goal space
+    * Team calendar space
+    * Team velocity displayed
+    * Parking lot space etc.
   * Use a virtual timer to timebox discussions.
 
   * Utilize online tools for estimation and sizing.
