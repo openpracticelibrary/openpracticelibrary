@@ -48,7 +48,7 @@ howTo: >-
 
   * Identified set of prioritised and defined User Stories from the Product Owner to the team
 
-  * Capacity – Who is available, Are there any holiday, big meetings, etc during this period
+  * Capacity – Who is available, Are there any holiday, big meetings, etc during this period?
 
   * Velocity – How much has the team been able to produce recently?
 
