@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Definition of Done
-subtitle: Shared knowledge and understanding regarding what it means for a work
-  item to be done by a team
+subtitle: Shared knowledge and understanding of what it means for a work item to
+  be done by a team
 date: 2018-08-29T20:14:43.236Z
 authors:
   - tdbeattie
