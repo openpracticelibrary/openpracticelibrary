@@ -53,7 +53,7 @@ howTo: >-
   A﻿ mission practice or workshop follows a similar approach to the interviews.  All of the main concept questions are address as a group.  There are a couple of ways to approach this workshop.  
 
 
-  The first approach is good for small number of executives/leaders.  Using a white board, stickies or online collaboration tool, address each question by giving the participants 10 - 15 minutes of indiviual time for each question.  Once all of the questions have been answer, post all answers for each question in place where everyone cab view them.  Address each question and come to a consensus statement.  As a team, create a mission statement us
+  The first approach is good for small number of executives/leaders.  Using a white board, stickies or online collaboration tool, address each question by giving the participants 10 - 15 minutes of individual time for each question.  Once all of the questions have been answered, post all answers for each question in place where everyone cab view them.  Address each question and come to a consensus statement.  As a team, create a mission statement us
 mediaGallery: []
 resources:
   - link: https://www.youtube.com/watch?v=LJhG3HZ7b4o
