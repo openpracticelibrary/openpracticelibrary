@@ -39,5 +39,27 @@ howTo: >-
   2. W﻿ho does the organization/engagement serve?
 
   3. W﻿hy does the organization/engagement care?
-participants: []
+
+
+  F﻿rom each of the interviews, the information should be aggregated and synthesize into one or two sentences to be review with sponsors or executives.  Depending on the number of sponsors or executives, the review could be handled via email or a short meeting.  If there are several participants, the a workshop approach is most likely a better option.  Results from an interview process with multiple interviewees can be used as the initial draft(s) of the mission statement.
+
+
+  Practice/Workshop
+
+
+  A﻿ mission practice or workshop follows a similar approach to the interviews.  All of the main concept questions are address as a group.
+mediaGallery: []
+resources:
+  - link: https://www.youtube.com/watch?v=LJhG3HZ7b4o
+    linkType: video
+    description: Fast Company & Dan Heath's "How to Write a Mission Statement That
+      Doesn't Suck"
+people: "2+ "
+time: 2-4 hours
+difficulty: moderate
+participants:
+  - Executives
+  - Engagement Sponsors
+  - Department/Line of Business Leaders
+  - and LeadershipTeams
 ---
