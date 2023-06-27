@@ -8,18 +8,35 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
+
 slug:
   encoding: "ascii"
   clean_accents: true
   sanitize_replacements: "-"
+
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_folders
+
+  # Required - a list of locales to show in the editor UI
+  locales: [en, ja]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: en
+
 collections:
   - name: "practice" # Used in routes, e.g., /admin/collections/blog
     label: "Practice" # Used in the UI
+    folder: "src/pages/practice" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    i18n: true
+    create: true # Allow users to create new documents in this collection
     publish: false
     delete: false
-    folder: "src/pages/practice" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - label: "Template Key"
         name: "templateKey"
@@ -30,22 +47,27 @@ collections:
         hint: "The name of the practice"
         name: "title"
         widget: "string"
+        i18n: true
       - label: "Objective"
         hint: "One liner main objective for the practice"
         name: "subtitle"
         widget: "string"
+        i18n: true
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
+        i18n: 'duplicate'
       - label: "Authors"
-        hint: "Comma-separated list of case-sensitive github usernames eg., Springdo, rdebeasi, TdBeattie"
+        hint: "Comma-separated list of case-sensitive github usernames e.g., Springdo, rdebeasi, TdBeattie"
         name: "authors"
         widget: "list"
+        i18n: true
         default: []
       - label: "Tags"
         hint: "Where does this practice live on the Library Loop?"
         name: tags
         widget: "select"
+        i18n: 'duplicate'
         multiple: true
         required: false
         max: 3
@@ -70,6 +92,7 @@ collections:
         hint: "Where does this practice live on the Mobius Loop?"
         name: mobiusTag
         widget: "select"
+        i18n: 'duplicate'
         multiple: false
         required: true
         options:
@@ -85,20 +108,25 @@ collections:
         name: "icon"
         hint: "Image to be used on the home screen and cards for the practice"
         widget: "image"
+        i18n: 'duplicate'
         required: true
         default: "https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true"
       - label: 'What is this practice?'
         name: 'whatIs'
         widget: 'markdown'
+        i18n: true
       - label: 'Why do this practice?'
         name: 'whyDo'
         widget: 'markdown'
+        i18n: true
       - label: 'How do I execute this practice?'
         name: 'howTo'
         widget: 'markdown'
+        i18n: true
       - label: 'Media Gallery'
         name: 'mediaGallery'
         widget: "list"
+        i18n: true
         fields:
           - label: "Media Link"
             name: link
@@ -106,6 +134,7 @@ collections:
       - label: 'Links we love'
         name: 'resources'
         widget: "list"
+        i18n: true
         fields:
           - label: "Link"
             name: link
@@ -129,16 +158,19 @@ collections:
         hint: "How many people are needed for the practice eg 2+ or 10"
         name: "people"
         widget: "string"
+        i18n: true
         required: false
       - label: "Time length"
         hint: "How long is needed to facilitate this practice"
         name: "time"
         widget: "string"
+        i18n: true
         required: false
       - label: "Facilitation difficulty"
         hint: "How difficult is it to facilitate this practice"
         name: "difficulty"
         widget: "select"
+        i18n: 'duplicate'
         required: false
         options:
           - label: "Easy"
@@ -152,14 +184,16 @@ collections:
         name: "participants"
         required: false
         widget: "list"
+        i18n: true
         default: []
+
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
+    folder: "src/pages/blog" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    create: true # Allow users to create new documents in this collection
     publish: false
     delete: false
-    folder: "src/pages/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - label: "Template Key"
         name: "templateKey"
@@ -196,13 +230,14 @@ collections:
         name: "body"
         widget: "markdown"
         default: "## What is it? \n\n## Why use it? \n\n## Further Information\n\n"
+
   - name: "page" # Used in routes, e.g., /admin/collections/blog
     label: "Page" # Used in the UI
+    folder: "src/pages/page" # The path to the folder where the documents are stored
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    create: true # Allow users to create new documents in this collection
     publish: false
     delete: false
-    folder: "src/pages/page" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - label: "Title"
         name: "title"
@@ -231,15 +266,16 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+
   - name: "author" # Used in routes, e.g., /admin/collections/blog
     label: "Author" # Used in the UI
+    folder: "src/data/author" # The path to the folder where the documents are stored
+    slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: "json"
     format: "json"
+    create: true # Allow users to create new documents in this collection
     publish: false
     delete: false
-    extension: "json"
-    folder: "src/data/author" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{github}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - label: "Name"
         hint: "Your full name to be displayed on an article"
