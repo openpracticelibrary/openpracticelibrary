@@ -41,6 +41,9 @@ howTo: >-
   3. W﻿hy does the organization/engagement care?
 
 
+  *H﻿int: Use the questions above as a start to an interview guide for each executive.  Make sure the interviewer asks the same questions to get consistent results.  Varying the questions makes it difficult to find patterns in the results.*
+
+
   F﻿rom each of the interviews, the information should be aggregated and synthesize into one or two sentences to be review with sponsors or executives.  Depending on the number of sponsors or executives, the review could be handled via email or a short meeting.  If there are several participants, the a workshop approach is most likely a better option.  Results from an interview process with multiple interviewees can be used as the initial draft(s) of the mission statement.
 
 
