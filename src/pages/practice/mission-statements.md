@@ -1,9 +1,8 @@
 ---
 templateKey: practice-page
 title: Mission Statements
-subtitle: Capture and define an inspirational purpose organization, line of
-  business, services area or engagement as the starting point of a strategy
-  development process
+subtitle: Capture and define an inspirational purpose of an organization as the
+  starting point of a strategy development process
 date: 2023-06-27T16:21:36.150Z
 authors:
   - geoffprobst
