@@ -21,9 +21,15 @@ whyDo: A Mission statement defines the fundamental purpose of an organization,
   entity or engagement.  It should inform executives and employees about the
   overall goal they have come together to realize as a team.  It serves as the
   ultimate alignment tool what the organization is trying to accomplish.
-howTo: The Mission Statement can be created from a client meeting, series of
+howTo: >-
+  The Mission Statement can be created from a client meeting, series of
   interviews, standalone facilitated practice or as part of a workshop. The goal
   of this process is to identify the overarching reason why the organization,
-  entity or engagement was originally establish.
+  entity or engagement was originally established.
+
+
+
+
+  **I﻿nterviews**
 participants: []
 ---
