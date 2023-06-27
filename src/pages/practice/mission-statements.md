@@ -19,7 +19,8 @@ whatIs: T﻿he Mission statement is starting point of crafting a strategy for an
   destination.
 whyDo: A Mission statement defines the fundamental purpose of an organization,
   entity or engagement.  It should inform executives and employees about the
-  overall goal they have come together to realize as a team.  It creates an
+  overall goal they have come together to realize as a team.  It serves as the
+  ultimate alignment tool what the organization is trying to accomplish.
 howTo: A﻿ Mission statement can be created using a couple of different
   methodologies.  The executive leader or engagement sponsor can be interviewed
 participants: []
