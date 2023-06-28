@@ -1,17 +1,13 @@
 ---
 title: ファネル分析
 subtitle: 徹底的に......ファネルを通して
-date: 2018-12-18T18:44:11.338Z
 authors:
   - valyonchev
 area: delivery-measure-and-learn
-tags: []
 perspectives:
   - product-ownership
-icon: /images/funnel-analysis.jpg
 people: 2+
 time: 2-10 days
-difficulty: moderate
 participants:
   - Product Owner
   - Data Scientist/Analyst
@@ -80,7 +76,6 @@ resources:
   - link: 'https://openpracticelibrary-ja.netlify.app/practice/cohort-analysis/'
     linkType: web
     description: コホート分析
-mobiusTag: delivery
 ---
 ## What is it?
 

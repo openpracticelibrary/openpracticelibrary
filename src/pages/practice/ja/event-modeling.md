@@ -1,19 +1,14 @@
 ---
 title: イベントモデリング
 subtitle: イベント駆動ソフトウェアシステムをモデル化する
-date: 2019-09-30T16:02:56.547Z
 authors:
   - pcarney8
 area: discovery-loop-outcomes
-tags:
-  - value
 perspectives: []
-icon: /images/Event Modeling Tutorial - New frame.jpg
 jumbotron: /images/Event Modeling Tutorial - New frame.jpg
 jumbotronAlt: An example event model
 people: 1+
 time: 1 afternoon
-difficulty: easy
 participants:
   - Programmers
   - Product Owners
@@ -44,7 +39,6 @@ resources:
   - link: 'https://eventmodeling.org/posts/what-is-event-modeling/'
     linkType: web
     description: 'https://eventmodeling.org/posts/what-is-event-modeling/'
-mobiusTag: discovery
 ---
 This practice is related to: [Domain Driven Design](https://openpracticelibrary.com/perspective/domain-driven-design/).
 

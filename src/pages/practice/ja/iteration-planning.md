@@ -2,7 +2,6 @@
 templateKey: practice-page
 title: イテレーション (スプリント) プランニング
 subtitle: プロダクトオーナーとチームが共同で、イテレーション（スプリント）ゴールを達成するために必要な作業と労力を定義する会議です。
-date: 2018-08-29T19:32:32.594Z
 authors:
   - sandraarps
   - tdbeattie
@@ -10,9 +9,6 @@ authors:
   - ilaria66
   - noelo
   - mvmaestri
-tags: []
-mobiusTag: delivery
-icon: /images/final_sprint-planning.png
 whatIs: >-
   *  開発チームがプロダクトオーナーと協力し、次のイテレーションで注力するゴールと成果を一致させるためのイベント。
 
@@ -107,7 +103,6 @@ time: 1-2 hours
 perspectives:
   - product-ownership
   - facilitation-tips-for-remote-sessions
-difficulty: moderate
 ---
 ## What is it?
 

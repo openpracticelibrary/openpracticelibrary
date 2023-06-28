@@ -2,12 +2,8 @@
 templateKey: practice-page
 title: ウエストラムの組織文化類型化と測定
 subtitle: 組織文化は、安全性とパフォーマンスの間に予測可能な関係を持つ。
-date: 2021-06-11T09:50:37.924Z
 authors:
   - tom-geraghty
-tags: null
-mobiusTag: foundation
-icon: /images/meghan-lamle-rupbbdebcfs-unsplash.jpg
 whatIs: >-
   私たちは、組織文化、チーム文化、そして「良い」文化や「悪い」文化について、よく話をします。また、「文化の変革」についてもよく話題にします。しかし、何かを変えるということは、効果があるかどうかもわからず、変えようとしているものを説明できなければ、難しいことです。Ron Westrumは、論文「A typology of organisational cultures」（2004年）の中で、大多数の組織が該当しうる3つの基礎的な文化の「類型」を説明しています：
 

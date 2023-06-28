@@ -24,12 +24,8 @@ resources:
     description: カナリアリリース
 templateKey: practice-page
 title: カナリアリリース
-date: 2018-12-18T19:00:46.071Z
 authors:
   - valyonchev
-tags:
-  - learn
-icon: /images/julia-craice-974133-unsplash.jpg
 whatIs: >-
   ソフトウェア開発において、このカナリアリリースは、継続的デリバリーのプラクティスであり、製品の実ユーザーのごく一部だけに新しいバージョンを公開するものです。チームは、レグレッションやパフォーマンスの問題、その他の悪影響を監視し、問題が見つかった場合は、ユーザーを簡単に正常動作する旧バージョンへ戻すことができます。
 
@@ -71,9 +67,7 @@ mediaGallery:
 people: 2+
 perspectives:
   - product-ownership
-difficulty: moderate
 jumbotronAlt: Canary
-mobiusTag: delivery
 ---
 ## What is it?
 

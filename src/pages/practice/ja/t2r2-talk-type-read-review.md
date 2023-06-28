@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: T2R2 - 話す(Talk), 書く(type), 読む(read), レビューする(review)!
 subtitle: ミーティングの参加者が話を聞き、理解し、アクションすることを助ける
-date: 2020-03-23T05:46:59.224Z
 authors:
   - kattekrab
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/t2r2.jpg
 whatIs: T2R2はオンラインミーティングでメンバーの参加を促すためのプラクティスです。
 whyDo: T2R2によりミーティングの参加者に「聞く」ことと、聞いたことに「反応する」ことを促します。最終ステップの「Review」では、ミーティングの主旨を要約し、意志決定や次のアクションを決めることで、ミーティングの意義を確認するのに役立ちます。
 howTo: >-
@@ -46,7 +41,6 @@ area: foundation-culture-and-collaboration
 people: 3+
 perspectives:
   - ""
-difficulty: moderate
 jumbotronAlt: talk type read review
 ---
 ## What is it?

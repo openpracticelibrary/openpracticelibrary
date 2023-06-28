@@ -2,13 +2,9 @@
 templateKey: practice-page
 title: ステークホルダマップ
 subtitle: コミュニケーションプランを立てるためのステークホルダマップを作成する
-date: 2020-04-22T08:46:30.778Z
 authors:
   - ilaria66
   - jonathanjohnston
-tags: []
-mobiusTag: discovery
-icon: /images/needs-an-image.png
 whatIs: これは顧客や関係者について理解を深めるためのプラクティスです。ステークホルダ（スクラムチームメンバーに属さないプロダクト関係者や顧客）のマッピングを行い、色々なチームや人々とのコミュニケーション方法に合意を図ります。ステークホルダマップとコミュニケーションプランの整備がこのプラクティスの目標成果です。
 whyDo: >-
   ステークホルダマップは、新しい顧客との関係を構築し始める際や、プリセールスの段階、またはプロジェクトのデリバリを開始する際に役立ちます。
@@ -142,7 +138,6 @@ time: ~1h of preparation to identify the attendees and prepare the canvas before
   the session. ~1 Hours to facilitate the session
 perspectives:
   - facilitation-tips-for-remote-sessions
-difficulty: moderate
 ---
 ## What is it?
 

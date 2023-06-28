@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: 継続的デプロイメント
 subtitle: エンドユーザーからのフィードバックを迅速に得るために、変更を頻繁にデプロイする.
-date: 2018-09-10T08:38:12.013Z
 authors:
   - syvanen
   - Zenigata
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/continuous-deployment.png
 whatIs: 継続的デプロイメント(CD)により、開発チームは、いつでも本番環境に、特にオンデマンドで、リリースできるようにソフトウェアをメンテナンスすることができます。 このプラクティスは、[Continuous Integration](https://openpracticelibrary-ja.netlify.app/practice/continuous-integration/) と [Continuous Delivery](https://openpracticelibrary-ja.netlify.app/practice/continuous-delivery/)の上で構築されます。結果として、ソフトウェアの設定とデプロイのオーケストレーションは、開発チームの義務の一部となります。
 whyDo: >-
   * 開発チームは、新しい機能のためのデプロイ可能なコードと設定のメンテナンスに注力できます。
@@ -46,7 +41,6 @@ resources:
     linkType: web
     description: Dark Launches
 people: 1+
-difficulty: moderate
 participants:
   - Team members
 area: foundation-technical

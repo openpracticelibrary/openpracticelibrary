@@ -1,17 +1,12 @@
 ---
 title: バーンダウンチャート
 subtitle: 期間内に残っている作業を可視化する
-date: 2018-04-07T22:33:55.000Z
 authors:
   - tdbeattie
   - mtakane
 area: foundation-culture-and-collaboration
-tags:
-  - culture
-icon: /images/final_burndown.png
 people: 2+
 time: 5-10 minutes
-difficulty: moderate
 participants:
   - ファシリテーター (スクラムマスターなど)
   - >-
@@ -60,7 +55,6 @@ resources:
   - link: 'https://www.atlassian.com/agile/tutorials/burndown-charts'
     linkType: web
     description: JIRA Burndown Charts
-mobiusTag: foundation
 ---
 ## What is it?
 

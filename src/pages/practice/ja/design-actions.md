@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: "デザインレトロ：アクティブ"
 subtitle: 製品設計の品質とユーザビリティを向上させる
-date: 2021-02-03T19:01:43.149Z
 authors:
   - philipdouble
   - rileyi
-tags:
-  - learn
-mobiusTag: delivery
-icon: /images/design-retro-active.jpeg
 whatIs: このデリバリー後に実施するプラクティスは、エンゲージメントの設計に関する一連の取り組み（ジャーニー）をレビューする機会です。 デザイナー、プロダクトオーナー（またはエンゲージメントリード）、デザイナーの観客（デザイナーギルド）が参加するオープンフォーラム形式の批評会です。
 whyDo: >-
   このプラクティスの目的は、オーナーから率直なフィードバックを収集し、そのフィードバックを活用してプラクティスとデリバリーを継続的に改善し、投資収益率を評価し最大化するために、エンゲージメントで利用したプロセスとプラクティスをマッピングおよび分析することです。
@@ -51,7 +46,6 @@ resources:
     description: "Design Retro : Active Example Miro Board"
 people: 5+
 time: 1 hour
-difficulty: hard
 participants:
   - The Guild
   - Designer and The Product Owner or Engagement Lead

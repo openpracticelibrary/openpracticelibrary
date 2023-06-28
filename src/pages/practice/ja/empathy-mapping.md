@@ -2,20 +2,15 @@
 title: 共感マッピング
 subtitle: >-
   顧客、ユーザ、ステークホルダなどからインサイトを獲得するためのコラボレーションツール
-date: 2018-09-09T11:16:56.080Z
 authors:
   - tdbeattie
   - valyonchev
   - darcief
 area: discovery-loop-why
-tags:
-  - insights
-icon: /images/empathymap-brainstorm.jpg
 jumbotron: /images/empathymap-brainstorm.jpg
 jumbotronAlt: Empathy Map Brainstorm
 people: 2+
 time: 30 minutes
-difficulty: easy
 participants:
   - Facilitator
   - Development Team
@@ -121,7 +116,6 @@ resources:
       https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-813f3737067
     linkType: web
     description: How to Run an Empathy & User Journey Mapping Workshop
-mobiusTag: discovery
 ---
 ## What is it?
 

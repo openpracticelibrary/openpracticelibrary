@@ -2,23 +2,18 @@
 templateKey: practice-page
 title: スプリットテスト - 多変量テスト
 subtitle: 複数の要因が設計の成功にどのように影響するかを定量的に検証する
-date: 2018-12-17T21:55:06.953Z
 authors:
   - valyonchev
 area: delivery-measure-and-learn
 perspectives:
   - product-ownership
-icon: /images/steve-harvey-702421-unsplash.jpg
 jumbotron: /images/steve-harvey-702421-unsplash.jpg
 time: 2-12 weeks
-difficulty: hard
 participants:
   - Product Owner
   - Data Scientist
   - UX Designer
   - DevOps Team
-tags:
-  - validate
 whatIs: >-
   多変量解析、別名多変量テストは、製品のパフォーマンスに対する複数の異なる要因の影響を知るための製品テストアプローチです。
 whyDo: >-
@@ -79,7 +74,6 @@ resources:
   - link: 'https://openpracticelibrary-ja.netlify.app/practice/design-of-experiments/'
     linkType: web
     description: 実験計画法
-mobiusTag: delivery
 ---
 ## What is it?
 

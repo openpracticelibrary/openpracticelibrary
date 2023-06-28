@@ -21,10 +21,6 @@ participants:
 area: foundation-technical
 title: コンテナ
 subtitle: "アプリケーション本体と、アプリケーションの実行に必要なライブラリ・依存関係など、必要最小限の要素をひとつにパッケージする"
-date: 2018-09-04T06:19:38.381Z
-tags: []
-mobiusTag: delivery
-icon: /images/containers.jpg
 whatIs: >-
   Linuxコンテナは、技術的には、サンドボックス化されたプロセスもしくは[仮想マシン](https://en.wikipedia.org/wiki/Virtual_machine) や
   [ベアメタルサーバ](https://en.wikipedia.org/wiki/Bare-metal_server)から隔離されたプロセス群と説明することができます。
@@ -43,7 +39,6 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/containers.jpg?raw=true
 people: "1"
 time: Ongoing
-difficulty: moderate
 ---
 ## What is it?
 

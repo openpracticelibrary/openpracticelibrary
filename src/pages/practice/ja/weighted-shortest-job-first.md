@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: Weighted Shortest Job First (WSJF)
 subtitle: バックログの優先順位を定量的に評価し、合意するためのプラクティス
-date: 2021-04-13T08:58:44.242Z
 authors:
   - nick-woods
-tags:
-  - insight
-mobiusTag: options
-icon: /images/wsjf-template.jpg
 whatIs: >-
   Weighted Shortest Job First (WSJF) はバックログに蓄積されたワークアイテムから最初にデリバリすべきワークアイテムを見つけるために、コストメリットやジョブサイズを使って評価し優先順位を定義するための方法です。
 
@@ -55,6 +50,5 @@ howTo: >-
   
   **注意： ジョブサイズが結果として算出された優先順位に対して大きな影響を持つことに気がつくと思います。スコアリングの際にバックログを見直すことをお勧めします。あるアイテムを小さく分割した時に、分割結果の要素のうち特定の要素に分割前の価値のほとんどが集約されていることがあります。**
 mediaGallery: []
-difficulty: moderate
 participants: []
 ---

@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: Docs As Code
 subtitle: チーム全体が最小限の労力で、最新かつ有用なドキュメントを提供すること
-date: 2021-07-22T02:07:51.398Z
 authors:
   - alecthegeek
-tags:
-  - methods
-mobiusTag: delivery
-icon: /images/treat-docs-like-code.png
 whatIs: >-
   Docs As Code (“Docs Like Code”としても知られている)は、ソフトウェアプロジェクトにおけるドキュメントを提供するための一般的なアプローチです。
 
@@ -57,6 +52,5 @@ resources:
     linkType: web
     description: Docs as Code section on Write the Docs
 people: 1+
-difficulty: easy
 participants: []
 ---

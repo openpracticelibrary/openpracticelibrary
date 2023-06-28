@@ -2,16 +2,11 @@
 templateKey: practice-page
 title: 自信の投票（コンフィデンス-ボーティング）
 subtitle: 現在のアクティビティ、イベント、質問について、チームの同意または不同意をもとにコンセンサスを得る
-date: 2018-08-10T11:25:16.000Z
 authors:
   - tdbeattie
   - mtakane
   - theisey
   - shaypeleg
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/fist-of-five-voting-method.jpg
 whatIs: >-
   * 現在のアクティビティ、イベント、または質問について、チームの同意または不同意を中心に合意を得るためのプラクティスです。
 
@@ -115,7 +110,6 @@ resources:
   - link: https://agileforall.com/learning-with-fist-of-five-voting/
     linkType: web
     description: Fist of Five Voting
-difficulty: easy
 participants:
   - Anybody
 area: foundation-culture-and-collaboration

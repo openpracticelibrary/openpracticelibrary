@@ -1,18 +1,13 @@
 ---
 title: 1-2-1コーチングのためのGROWモデル
 subtitle: コーチングの目的は、人々の潜在能力を引き出し、パフォーマンスを最大化し、個人的および専門的な開発を促進することです。ここでは、コーチングのやり取りを構成するためのツールを紹介します。
-date: 2020-02-23T17:34:54.362Z
 authors:
   - shabshah
 area: foundation-culture-and-collaboration
-tags:
-  - culture
 perspectives:
   - the-open-organization-definition
-icon: /images/needs-an-image.png
 people: '2 '
 time: 30-45-60 mins
-difficulty: moderate
 participants:
   - Any individual who wants to change
   - 'or improve: personal and professional performance and effectiveness'
@@ -59,7 +54,6 @@ resources:
   - link: 'https://coachfederation.org/core-competencies'
     linkType: web
     description: Core Competencies from Coach Federation
-mobiusTag: foundation
 ---
 ## What is it?
 

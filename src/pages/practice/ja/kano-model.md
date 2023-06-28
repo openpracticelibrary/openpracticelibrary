@@ -21,12 +21,8 @@ resources:
     description: The Kano model on Wikipedia
 templateKey: practice-page
 title: 狩野モデル
-date: 2018-12-18T18:52:22.120Z
 authors:
   - valyonchev
-tags:
-  - validate
-icon: /images/kano.jpg
 whatIs: >-
   狩野モデルは、狩野紀昭教授による製品開発と顧客満足に関する研究から生まれました。
 howTo: >-
@@ -68,8 +64,6 @@ whyDo: >-
   * ピボットの方向性やアイデアを明確にするのに役立ちます。
 perspectives:
   - product-ownership
-difficulty: easy
-mobiusTag: discovery
 ---
 ## What is it?
 

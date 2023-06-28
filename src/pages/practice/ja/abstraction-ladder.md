@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: アブストラクション・ラダリング
 subtitle: 焦点を広げたり狭めて課題をリフレーミングする
-date: 2021-03-30T18:10:19.767Z
 authors:
   - heyjerrybecker
-tags:
-  - value
-mobiusTag: discovery
-icon: /images/abstraction-ladder-example.jpeg
 whatIs: アブストラクション・ラダリングは課題について焦点を広げたり狭めたりすることで、参加者が課題を再考する方法です。
   参加者は最初の課題をより説得力のある広がりのある性質のものにリフレーミングするために、ブレインストーミングを行い、その課題から生まれた「なぜ（Why）」と「どのように（How）」を探求します。
 whyDo: 所与の課題をじっくり検討する時間をとることで、イノベーティブな思考に適した課題にリフレーミングすることができます。
@@ -74,7 +69,6 @@ resources:
     description: Abstraction Laddering Mural Template
 people: 1-6
 time: 30-60 min
-difficulty: easy
 participants:
   - Product Team
 ---

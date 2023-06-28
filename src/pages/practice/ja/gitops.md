@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: GitOps
 subtitle: Gitにないものは、本物ではない。
-date: 2021-04-20T22:55:04.468Z
 authors:
   - ckavili
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/screenshot-2021-04-21-at-01.01.49.png
 whatIs: >-
   GitOpsは、開発から本番までの作業の流れをGitの運用で管理するパターンです。GitOpsのコンセプトは、以下のように非常にわかりやすいものです:
 

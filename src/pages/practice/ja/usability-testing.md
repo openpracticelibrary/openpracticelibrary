@@ -2,18 +2,13 @@
 templateKey: practice-page
 title: ユーザビリティテスト
 subtitle: 実際のユーザーを観察し、学ぶ
-date: 2018-10-30T13:13:26.262Z
 authors:
   - rdebeasi
 area: delivery-measure-and-learn
-icon: /images/user-testing-val-cropped.png
 jumbotron: /images/user-testing-val.png
 jumbotronAlt: 'Two people placing sticky notes under plus, minus, and question mark columns'
 people: 2+
 time: 30 minutes
-difficulty: moderate
-tags:
-  - validate
 participants:
   - The Team
 whatIs: >-
@@ -86,7 +81,6 @@ resources:
   - link: 'https://vimeo.com/106963722'
     linkType: web
     description: 'Objectified: Smart Design OXO Good Grips Story'
-mobiusTag: delivery
 ---
 ## What is it?
 

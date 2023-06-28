@@ -24,13 +24,10 @@ resources:
     description: イベント ストーミング
 templateKey: practice-page
 title: UI デザインワークショップ
-date: 2018-10-30T15:46:12.331Z
 authors:
   - rdebeasi
   - rileyi
   - pcarney8
-tags: []
-icon: /images/ui-donal.png
 whatIs: >-
   * UIワークショップとは、参加者がユーザーインターフェースのラフなアイデアを素早くスケッチするアクティビティです。
 
@@ -103,9 +100,7 @@ mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/ui-donal.png'
   - link: 'https://www.youtube.com/watch?v=54Ce8j-SXyg'
 people: 2+
-difficulty: moderate
 jumbotronAlt: Whiteboard with UI sketches
-mobiusTag: delivery
 ---
 ## What is it?
 

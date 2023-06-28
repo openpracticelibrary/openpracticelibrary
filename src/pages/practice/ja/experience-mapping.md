@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: アジャイルのためのエクスペリエンスマッピング
 subtitle: 個人の実体験をプロセスで理解し新たな視点で優先順位を特定する
-date: 2021-07-23T11:06:26.808Z
 authors:
   - karenbatt
-tags:
-  - validate
-mobiusTag: discovery
-icon: /images/customer_experience_journey_map_graphic.png
 whatIs: エクスペリエンスマッピング（もしくはジャーニーマッピング）は、個人やチームの視点から、プロセスの各段階や特定の重要なステップにおける感情的な反応（思考や感情）に焦点を当て、プロセスとその中で誰かが歩む旅をグラフィカルに表現するために使用します。この手法は、UXデザインにおいて、潜在的な顧客体験を評価するための仮想シナリオに多用されています。また、アジャイルプロジェクトにおいても、既存のプロセスを実際に使用する人々やチームを巻き込む際に、多くの価値を発揮します。
 whyDo: プロセスの開始から終了まで、個人やチームの感情的な経験をマッピングすることで、対処すべきリスク領域や痛みのポイントを特定できるようになります。優先順位を評価する際に役立つ情報を提供したり、誤った前提を明らかにすることも可能になります。また、機会を特定するのにも役立ちます。このプラクティスが作成するマップにより、アジャイルチームと利害関係者は、プロセス体験の質を向上させるために具体的にどのようなことに取り組む必要があるのかを一目で確認できるようになり、部門を超えた連携と集中が強化されます。また、優先順位付けと意思決定に重要な情報を提供します。
 howTo: >-
@@ -75,7 +70,6 @@ mediaGallery:
   - link: https://heartofthecustomer.com/wp-content/uploads/2019/04/Customer_experience_journey_map_graphic.png
   - link: https://miro.medium.com/max/1838/1*ZsUu8nEGbxRCMaHE6fDanQ.png
 time: ""
-difficulty: moderate
 participants:
   - あなたが理解しようとしているプロセスを使っているチームメンバーや顧客
 ---

@@ -2,14 +2,10 @@
 templateKey: practice-page
 title: コントラクトファースト開発
 subtitle: 再利用可能なサービスを作る時に先に合意を取り付けておく
-date: 2019-06-20T12:49:38.825Z
 authors:
   - infosec812
   - jameshbarton
   - rmarting
-tags: []
-mobiusTag: delivery
-icon: /images/contract-first-api-development.png
 whatIs: >-
   コントラクトファースト開発とは、チームメンバーや外部のチーム、サードパーティのシステムとの間に自身が開発するものの意図を明確にしておくことを指します。[OpenAPI](https://swagger.io/docs/specification/about/) (同期的インタラクション用) や [AsyncAPI](https://www.asyncapi.com/) (非同期的インタラクション用) を使うことで、自分達が開発するAPIを最初に定義しておくことができます。また変更の必要が発生した時も、実際にコードで実装する前に「契約 (コントラクト)」を事前にアップデートします。この進め方には以下のメリットがあります:
 
@@ -73,5 +69,4 @@ people: 2+
 time: 2+ hours
 perspectives:
   - product-ownership
-difficulty: moderate
 ---

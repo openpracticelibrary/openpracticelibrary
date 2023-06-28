@@ -2,7 +2,6 @@
 templateKey: practice-page
 title: バックログリファインメント
 subtitle: バックログアイテムを理解、優先順位付け、明確化することで作業に取りかかれる状態（ready）にする
-date: 2018-08-10T11:50:22.000Z
 authors:
   - theisey
   - mtakane
@@ -12,9 +11,6 @@ authors:
   - ilaria66
   - mvmaestri
   - cverna
-tags: []
-mobiusTag: options
-icon: /images/final_backlog-refinement.png
 whatIs: >-
   * バックログのアイテムについて、詳細化したりや十分な条件付けがなされているか明らかにする会話をおこなう
 
@@ -80,7 +76,6 @@ time: 30 minutes
 perspectives:
   - product-ownership
   - facilitation-tips-for-remote-sessions
-difficulty: moderate
 ---
 # What is It?
 

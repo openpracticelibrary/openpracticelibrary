@@ -2,15 +2,10 @@
 templateKey: practice-page
 title: 完成の定義
 subtitle: なにをもって作業アイテムが完成したについての共有理解
-date: 2018-08-29T20:14:43.236Z
 authors:
   - tdbeattie
   - mtakane
   - mvmaestri
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/dod.jpeg
 whatIs: >-
   * チーム内で合意され他の人と共有された、ある作業アイテムが完成したとみなされる基準
 
@@ -51,7 +46,6 @@ people: 2+
 time: 15 minutes
 perspectives:
   - facilitation-tips-for-remote-sessions
-difficulty: easy
 ---
 ## What is it?
 

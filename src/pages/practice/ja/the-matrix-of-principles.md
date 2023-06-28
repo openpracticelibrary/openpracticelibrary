@@ -3,20 +3,15 @@ templateKey: practice-page
 title: 原則マトリックス
 subtitle: >-
   ステークホルダがDemingの14のマネジメント原則をどのように理解しているかを測るためのふりかえるツール
-date: 2018-09-25T13:13:45.928Z
 authors:
   - alexismonville
 area: foundation-culture-and-collaboration
-icon: /images/2018-09-25-09.18.25.jpg
 jumbotron: /images/2018-09-25-09.18.25.jpg
 jumbotronAlt: 2x2 Matrix
 people: 1+
 time: 30 min
-difficulty: moderate
 participants:
   - The Team
-tags:
-  - culture
 whatIs:
   原則マトリックスは、チームメンバーがマネジメントの現状をどのように理解しているかを測るためのふりかえりのツールです。
   （訳注：Demingが作成した14項目のマネジメント原則(ページ下部をリンクを参照)がチームにどう思われているかを測るツールです）
@@ -58,7 +53,6 @@ resources:
       https://www.goodreads.com/book/show/40692351-changing-your-team-from-the-inside
     linkType: web
     description: Changing Your Team From The Inside
-mobiusTag: foundation
 ---
 ## What is it?
 

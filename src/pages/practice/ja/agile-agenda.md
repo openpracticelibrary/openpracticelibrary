@@ -1,21 +1,17 @@
 ---
 title: アジャイル アジェンダ
 subtitle: ワークショップのアジェンダを管理するための柔軟な方法
-date: 2017-05-15T05:00:00.000Z
 authors:
   - mtakane
   - tdbeattie
   - Zenigata
 area: foundation-culture-and-collaboration
-icon: /images/agile_agenda.png
 jumbotron: /images/agile_agenda.png
 people: 2+
 time: 10 minutes
-difficulty: easy
 participants:
   - Facilitator
   - Attendees
-tags: []
 templateKey: practice-page
 whatIs: >-
   アジャイルアジェンダは、付箋とホワイトボードを使ってワークショプのアジェンダを管理するシンプルで効果的な方法です。
@@ -72,7 +68,6 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/agenda_with_faces.png
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Agile%20Agenda.jpg?raw=true
-mobiusTag: options
 ---
 ## これは何か？
 

@@ -30,11 +30,6 @@ participants:
 area: foundation-technical
 title: 継続的インテグレーション
 subtitle: 大きな変更を低頻度に行うのではなく、小さな変更を頻繁に行う
-date: 2018-08-10T12:22:43.000Z
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/continuous-integration-1.png
 whatIs: 継続的インテグレーション（CI）では、開発者は大規模で低頻度な変更ではなく、小規模で頻繁な変更をサブミットします。他の開発者がその変更を受け入れると、自動テストとビルド手順が実行され、コードが期待通りに動作することを確認します。この作業は、1日に何度も頻繁に行われ、その都度自動化が実行されるため、コードベースが _継続的に結合_ できていることが保証されます。
 whyDo: >-
   * 自動化されたテストは、忙しい作業を軽減し、ソフトウェアの品質を向上させることができます。 
@@ -48,7 +43,6 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/continuous-integration-1.png?raw=true
 people: 1+
 time: Minutes
-difficulty: moderate
 jumbotronAlt: example pipeline
 ---
 # What is it?

@@ -29,14 +29,10 @@ resources:
     description: Open Practice Library's UX Strategy Template
 templateKey: practice-page
 title: リーンキャンバス
-date: 2019-02-26T02:17:52.155Z
 authors:
   - sandraarps
   - ariellemcmahon
   - aspanner
-tags:
-  - value
-icon: /images/lean-canvas.png
 whatIs: >-
   リーンキャンバスはこれから企画するプロダクトに関する主要な情報を一枚の紙にまとめたものです。起業家やリーンスタートアップの場面でよく使われます。
 whyDo: |-
@@ -143,8 +139,6 @@ mediaGallery:
 people: 1+
 perspectives:
   - product-ownership
-difficulty: moderate
-mobiusTag: discovery
 ---
 ## What is it?
 

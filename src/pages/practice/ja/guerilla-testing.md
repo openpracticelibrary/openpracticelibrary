@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: ゲリラテスト
 subtitle: ユーザーからのフィードバックを素早く取り込む、リーン、アジャイル、ローコストな手法
-date: 2021-03-23T16:27:41.082Z
 authors:
   - dsunwar
-tags:
-  - measure
-mobiusTag: delivery
-icon: /images/screenshot-2021-03-23-at-15.56.00.png
 whatIs: >-
   > #### *“レガシーシステムである、もしくはその逆であるが故に、ユーザビリティ・テストのための実際の顧客を集めるのが難しいですか？”*
 
@@ -130,7 +125,6 @@ resources:
     description: Guerilla Testing with Usability Cafe
 people: 3+
 time: 10- 20 minutes
-difficulty: easy
 participants:
   - The Team
   - The Product Owner

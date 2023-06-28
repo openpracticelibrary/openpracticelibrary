@@ -16,16 +16,11 @@ resources:
     description: How to Conduct a Heuristic Evaluation
 templateKey: practice-page
 title: ヒューリスティック評価
-date: 2018-10-30T16:18:22.725Z
 authors:
   - rdebeasi
 area: delivery-measure-and-learn
-tags:
-  - measure
-icon: /images/heuristic-evaluation.png
 people: '2'
 time: 30 minutes
-difficulty: moderate
 whatIs: >-
   ヒューリスティック評価とは、10の基本原則に基づいて設計をレビューする手法です。この用語は1995年に [coined by Jakob Neilsen](https://www.nngroup.com/articles/ten-usability-heuristics/)によって作られましたが、その原則は今日でも同じように役に立ちます。
 whyDo: >-
@@ -66,7 +61,6 @@ howTo: >-
 mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/heuristic%20evaluation.png?raw=true
-mobiusTag: delivery
 ---
 ## What is it?
 Heuristic evaluation is a method for reviewing designs based on ten basic principles. The term was [coined by Jakob Neilsen](https://www.nngroup.com/articles/ten-usability-heuristics/) back in 1995, but the principles are still just as relevant today.

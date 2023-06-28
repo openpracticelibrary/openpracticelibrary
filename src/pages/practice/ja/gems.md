@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: GEMs
 subtitle: OKR（Objective Key Results）の実験志向な代替案
-date: 2021-12-14T09:36:59.966Z
 authors:
   - only-chrisbh
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/gems.jpeg
 whatIs: >-
   GEMs（**G**oal **E**experiments **M**easures）は目標設定の手法です。OKR (**O**bjective **K**ey **R**results)およびSMART(**S**pecific **M**eaurable **A**chievable **R**elevant **T**ime bound)に代わるものとして、Kathy Keatingによって紹介されたものです。
 whyDo: >-
@@ -66,6 +61,5 @@ resources:
     linkType: web
     description: Extended blog post by the creator of GEMs
 people: 1+
-difficulty: moderate
 participants: []
 ---

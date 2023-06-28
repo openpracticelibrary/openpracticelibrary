@@ -2,14 +2,8 @@
 templateKey: practice-page
 title: ディセント カード
 subtitle: 生産的な方法で反対意見を述べることができる環境を作る
-date: 2021-06-25T15:22:49.248Z
 authors:
   - only-chrisbh
-tags:
-  - ideate
-  - insight
-mobiusTag: options
-icon: /images/potatoes-1585060_1920.jpg
 whatIs: アイデアの多様性を高め、グループ内で意見の相違が生産的に起こるために必要な心理的安全性を高めるための方法です。このプラクティスは、L. David Marquetの著書「Leadership is language」から引用しています。
 whyDo: >-
   オプションフェーズにおいて、仮説を立ててコミットメントに移る前に、生成されたオプションを批判的に評価することが目的です。これを客観的に行うことで、チームは定期的に「反対とコミット」を繰り返し、行動に移すことができます。
@@ -82,6 +76,5 @@ resources:
     linkType: web
     description: Move to action with purpose and passion
 people: 3+
-difficulty: moderate
 participants: []
 ---

@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: アーキテクチャディシジョンレコード (ADR)
 subtitle: 決定履歴の見える化
-date: 2021-04-06T18:59:59.091Z
 authors:
   - infosec812
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/decisions-1.jpg
 whatIs: >-
   ## 概要
 
@@ -90,7 +85,6 @@ resources:
     description: Other templates
     linkType: web
 people: 2+
-difficulty: easy
 participants:
   - The Team
   - Stakeholders

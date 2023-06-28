@@ -2,14 +2,10 @@
 templateKey: practice-page
 title: 同意せずともコミットする
 subtitle: コラボレーションの鍵：コンセンサスなしでも全員がコミットすることを可能にする
-date: 2021-06-21T09:24:18.020Z
 authors:
 - only_chrisbh
-tags:
 - ideate
 - insight
-mobiusTag: options
-icon: /images/img_5175.jpg
 whatIs: チームが「考える」から「行動する」へ移行するためのアプローチ。チームが実行にコミットすることを確実にする。
 whyDo: >-
   チームや組織は「分析麻痺」（analysis paralysis） に陥りがちです。

@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: ROAM ボード
 subtitle: リスク管理のための基本的なプラクティス
-date: 2021-03-24T17:42:58.673Z
 authors:
   - willowmck
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/arboretum.jpg
 whatIs: >
   ROAM ボードはシンプルな可視化のためのツールです。プロジェクトやプログラムのリスクを4つのカテゴリに分類します:
 
@@ -81,7 +76,6 @@ howTo: >-
 
   チームは週次あるいは2週に一度などの定期的なタイミングで進捗を管理したり見直したりする必要があります。例えばスプリントプランニングやバックログリファインメント、あるいはチームが大きい場合はScrum of Scrumなどで実施します。
 time: 30-60分
-difficulty: moderate
 participants:
   - プロジェクトやプログラムのステークホルダー
 ---

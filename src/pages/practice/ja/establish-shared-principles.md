@@ -2,12 +2,8 @@
 templateKey: practice-page
 title: 共有原則の確立
 subtitle: プラクティスよりも原則を
-date: 2019-05-22T16:05:41.031Z
 authors:
   - tenfourty
-tags: []
-mobiusTag: foundation
-icon: /images/establish-shared-principles.jpg
 whatIs: >-
   Open Practice Library の一部であるこの記事ので、「プラクティスよりも原則を」というのは奇妙なことかもしれませんが、それがこのプラクティスの本質です。
   自分自身または組織のために、目的と価値観から派生した共有の原則を確立し、それらを日常的におこなうプラクティスのガイドとして活用します。
@@ -88,7 +84,6 @@ people: 1+
 time: 1 hour+
 perspectives:
   - start-with-why
-difficulty: hard
 jumbotronAlt: Establish Shared Principles
 ---
 ## What is it?

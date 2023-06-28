@@ -24,11 +24,8 @@ resources:
     description: BlueGreen Deployments
 templateKey: practice-page
 title: Blue/Greenデプロイメント
-date: 2018-12-18T18:56:38.846Z
 authors:
   - valyonchev
-tags: []
-icon: /images/blue-green.jpg
 whatIs: >-
   Blue/Greenデプロイメントとは、ソフトウェア開発において、チームが2つの本番環境を利用できることに基づくテクニックです。そのうちの1つは”Green”と呼び、リバースプロキシ（ロードバランサ/ルータ）から負荷を受ける本番環境です。もう1つの環境は、"Blue"と呼び、新しいバージョンにアップグレードされたコピー環境です。
 
@@ -63,8 +60,6 @@ whyDo: >-
   このプラクティスは、複雑なリリースを実行するための安全性を提供します。時間的なプレッシャーがなくなり、ダウンタイムをほとんどゼロにすることができます。これは、技術チームにとっても、顧客にとっても有益です。顧客は、新バージョンが同等に機能していれば、サービスや製品の不具合や利用不能に気づくことはありません。万が一、悪影響が出た場合でも、即座にロールバックすることができ、顧客への影響を最小限に抑えることができます。
 perspectives:
   - product-ownership
-difficulty: moderate
-mobiusTag: delivery
 ---
 ## What is it?
 

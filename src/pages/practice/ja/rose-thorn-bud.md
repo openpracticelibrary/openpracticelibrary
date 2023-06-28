@@ -2,14 +2,8 @@
 templateKey: practice-page
 title: Rose, Thorn, Bud
 subtitle: 何がうまくいっていて、何がうまくいっていないのか、チャンスはどこにあるのかを理解する
-date: 2021-04-07T17:38:43.019Z
 authors:
   - heyjerrybecker
-tags:
-  - insight
-  - measure
-mobiusTag: delivery
-icon: /images/rose-thorn-bud.png
 whatIs: >-
   Rose, Thorn, Bud　(RTB) は、デザイン思考のコミュニティで生まれたチームプラクティスです。非常に汎用性が高く、チームの振り返りやカスタマージャーニー分析として、あるいはアイデア出しのセッションと組み合わせて、開発するアイデアの優先順位付けに活用することができます。
 
@@ -69,6 +63,5 @@ resources:
     description: "A Mindful Way to Reflect: Rose, Thorn, and Bud"
 people: 2-20
 time: 30-60 min
-difficulty: easy
 participants: []
 ---

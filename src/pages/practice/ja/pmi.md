@@ -2,12 +2,8 @@
 templateKey: practice-page
 title: プラス, マイナス, 興味深い (PMI +-?)
 subtitle: チームでの簡単な振り返り、またはアイデアの評価方法
-date: 2019-05-02T07:12:57.079Z
 authors:
   - kattekrab
-tags: []
-mobiusTag: delivery
-icon: /images/plus-minus-interesting.png
 whatIs: PMIは、レトロスペクティブで考えさせるための迅速で簡単な方法です。 また、一日の終わりに、速いペースの集中ワークセッションのチームチェックインとして使用したり、グループ全体のエンゲージメントを促進するために使用することもできます。
 whyDo: 「And」を考えることを促します。 良いこと、悪いことだけでなく、関心事も含めて、必ずしもその出来事が良いとか悪いとか判断せずに、起こったことを振り返るように誘導します。また、必要であれば、ガス抜きしたり、祝ったりすることもできます。
 
@@ -35,7 +31,6 @@ resources:
   - link: https://www.youtube.com/watch?v=D4YUk2io5-4
     description: Plus ..Minus ..Interesting - Dubai Water & Electricity Innovation Toolkit
     linkType: video
-difficulty: easy
 participants:
   - The Team
 area: delivery-measure-and-learn

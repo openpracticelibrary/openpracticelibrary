@@ -2,15 +2,10 @@
 templateKey: practice-page
 title: 継続的デリバリー
 subtitle: ソフトウェアのテストとリリースの自動化
-date: 2018-09-04T06:44:12.545Z
 authors:
   - syvanen
   - Zenigata
   - rmarting
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/continuous-delivery.png
 whatIs: 継続的デリバリー（CD）は、各変更を本番稼働可能な状態のリリースにするためのエンジニアリングプラクティスです。このプラクティスは、継続的インテグレーションを出発点として、最後にユーザーが使える状態まで成果物をリリースするステップを追加したものです。ここでの成果物は、ソフトウェアパッケージ、コンテナイメージ、仮想マシンイメージのいずれかになります。
 whyDo: >-
   * 自動化により、次のようなリリースに必要な手作業が軽減されます。デプロイのために成果物を必要な場所に公開すること、バージョンコントロールのコミットメッセージから、変更履歴をリリースすること。
@@ -46,7 +41,6 @@ people: 1+
 time: Minutes
 perspectives:
   - ""
-difficulty: moderate
 ---
 ## What is it?
 

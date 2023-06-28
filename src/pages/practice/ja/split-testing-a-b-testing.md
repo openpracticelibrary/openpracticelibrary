@@ -3,24 +3,19 @@ templateKey: practice-page
 title: スプリットテスト - A/B テスト
 subtitle: >-
   2つのデザインについて、どちらがより特定の目標につながるかを学ぶために、定量的にテストする
-date: 2018-12-17T22:03:07.370Z
 authors:
   - valyonchev
 area: delivery-measure-and-learn
 perspectives:
   - product-ownership
-icon: /images/ab-testing.jpg
 jumbotron: /images/ab-testing.jpg
 people: 2+
 time: Several days
-difficulty: moderate
 participants:
   - Product Owner
   - Data Scientist
   - UX Designer
   - DevOps Team
-tags:
-  - validate
 whatIs: >-
   これは、ある製品の異なる二つのバージョンを一組にして、その性能を比較・評価するためのランダムな実験です。どちらの製品バージョンも本番環境（ライブ）で利用可能で、異なるユーザーにランダムに提供されます。トラフィック、相互作用、滞在時間などの指標に関するデータが収集され、ユーザーの行動の変化に基づいて2つの異なるバージョンの有効性を判断します。このテストは、あなたがターゲットとしている成果に関して、どちらのバージョンがより良いパフォーマンスをしているかを判断します。
 whyDo: >-
@@ -62,7 +57,6 @@ resources:
   - link: 'http://theleanstartup.com/'
     linkType: web
     description: The Lean Startup by Eric Ries.
-mobiusTag: delivery
 ---
 ## What is it?
 

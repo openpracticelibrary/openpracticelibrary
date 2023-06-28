@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: 15/5 レポート
 subtitle: 時間のない人のためのレポーティング
-date: 2021-06-04T11:06:35.789Z
 authors:
   - tom-geraghty
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/person-pencil.jpeg
 whatIs: >-
   15/5 レポートはチームや組織で定期的に状況を共有共有するための素晴らしい方法で、スクラムのデイリースクラムでたずねる質問に触発されたものです。これは、書く時間が15分以内、読む時間が5分以内になるようになっています。
 

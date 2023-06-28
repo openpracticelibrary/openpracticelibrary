@@ -24,20 +24,14 @@ resources:
     description: Domain Storytelling on LeanPub
 templateKey: practice-page
 title: ドメイン ストーリーテリング
-date: 2018-11-07T20:41:32.665Z
 authors:
   - hofstef
   - sherl0cks
 area: discovery-loop-outcomes
-tags:
-  - validate
-  - ideate
 perspectives:
   - domain-driven-design
-icon: /images/domain-storytelling.png
 people: 2-20
 time: 10-30 min per Domain Story
-difficulty: moderate
 whatIs: >-
   ドメインストーリーテリングは、人とソフトウェアシステムがどのように連携しているかを理解するためのワークショップです。
   このプラクティスによって既存または将来の状態のビジネスプロセスを分析することができます。
@@ -75,7 +69,6 @@ mediaGallery:
   - link: 'https://youtu.be/63ck9AjH9O8'
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/domain%20storytelling.png?raw=true
-mobiusTag: discovery
 ---
 ## What is it?
 

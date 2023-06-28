@@ -11,18 +11,13 @@ resources:
     description: Design the Box
 templateKey: practice-page
 title: デザイン ザ ボックス (箱の設計)
-date: 2018-11-08T14:59:58.041Z
 authors:
   - valyonchev
 area: discovery-loop-outcomes
-tags:
-  - ideate
 perspectives:
   - product-ownership
-icon: /images/design-the-box.jpg
 people: 2+
 time: 30-60 min
-difficulty: easy
 whatIs: >-
   このデザイン思考のプラクティスは、まさにタイトル通り、チームメンバーが新商品の箱やパッケージを想像しなければなりません。そして、その商品・サービスの本質を表すスローガンを考え、その商品・サービスが目指している最も重要な価値を強調させる必要があります。
 
@@ -51,7 +46,6 @@ howTo: >-
 mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/design-the-box-300x195-1.jpg?raw=true
-mobiusTag: discovery
 ---
 ## What is it?
 

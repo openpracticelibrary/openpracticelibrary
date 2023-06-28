@@ -2,13 +2,9 @@
 templateKey: practice-page
 title: プロトペルソナ
 subtitle: プロダクトのターゲットユーザーを定義する
-date: 2019-09-30T14:03:05.075Z
 authors:
   - dsunwar
   - sdstolworthy
-tags: []
-mobiusTag: discovery
-icon: /images/persona1.png
 whatIs: >-
   プロトペルソナとは、（正しい手順でペルソナを作成する前に）ペルソナを仮置きで作成するプラクティスです。
   プロダクトを作る前にプロトタイプ（試作）を作るように、ペルソナを作る前にプロトペルソナを作ります。
@@ -94,7 +90,6 @@ area: discovery-loop-why
 people: 2+
 time: 30 min - 1 hour depends on the complexity
 perspectives: []
-difficulty: easy
 ---
 ## What is proto-persona?
 

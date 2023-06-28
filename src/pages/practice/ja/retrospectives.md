@@ -2,7 +2,6 @@
 templateKey: practice-page
 title: レトロスペクティブ
 subtitle: チームの継続的な改善を推進するために、仕事の進め方を振り返り、点検し、適応させる
-date: 2017-11-21T05:00:00.000Z
 authors:
   - tdbeattie
   - mtakane
@@ -11,9 +10,6 @@ authors:
   - noelo
   - ilaria66
   - mvmaestri
-tags: []
-mobiusTag: delivery
-icon: /images/heroes-journey-retro.png
 whatIs: >-
   レトロスペクティブは、グループが自分たちの仕事を振り返り、検査し、適応させるための機会を提供します。多くの場合、スプリントの終わりに行われますが、いつでも実施することができます。チーム内で実施できるレトロスペクティブの種類は無数にあり、陳腐化して参加意欲が低下するのを防ぐために、いろいろと混ぜて実施するとよいでしょう。ヘッダー画像（The Heroes Journey）のようなものを実施して、次回はこのヨットのレトロを試してみてはいかがでしょうか。
 

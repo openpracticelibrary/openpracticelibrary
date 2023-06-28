@@ -2,15 +2,9 @@
 templateKey: practice-page
 title: 🧠 認知負荷（Cognitive Load）メーター 🌡
 subtitle: 認知負荷を測定し、集中力を高めるシンプルなツール
-date: 2021-07-21T23:07:25.555Z
 authors:
   - fabiopereira
   - jorgeredhat
-tags:
-  - culture
-  - insight
-mobiusTag: options
-icon: /images/cognitive-loadometer-thumb-opl.png
 whatIs: >-
   認知負荷（Cognitive Load）メーターは、チームの認知負荷を測定するためのシンプルなツールです。認知心理学において、認知負荷とは、ジョン・スウェラーが「認知負荷理論（Cognitive Load Theory）」という本の中で言及しているように、作業記憶（working memory）の使用量、または作業記憶で使われている心的活動の総量のことを指します。
 
@@ -71,6 +65,5 @@ resources:
   - description: Research showing connection with burnout
     link: https://www.ama-assn.org/practice-management/physician-health/4-approaches-cut-physicians-mental-workload-and-burnout
     linkType: web
-difficulty: easy
 participants: []
 ---

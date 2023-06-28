@@ -1,16 +1,12 @@
 ---
 title: 実例マッピング
 subtitle: ステークホルダを巻き込み受入基準を決める
-date: 2019-09-23T00:25:52.711Z
 authors:
   - jacobsee
 area: options
-tags: []
 perspectives: []
-icon: /images/example-mapping-2-.png
 people: 2+
 time: up to 30 minutes per story
-difficulty: easy
 participants:
   - The Team
   - Product Owner
@@ -52,7 +48,6 @@ resources:
   - link: 'https://xebia.com/blog/example-mapping-steering-the-conversation/'
     linkType: web
     description: Steering the Conversation with Example Mapping
-mobiusTag: options
 ---
 ## What is it?
 

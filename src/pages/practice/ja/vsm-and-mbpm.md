@@ -2,17 +2,12 @@
 templateKey: practice-page
 title: バリュー ストリーム マッピング
 subtitle: 価値の流れを見える化し、改善の意思決定に必要な情報を特定する
-date: 2017-09-12T05:00:00.000Z
 authors:
   - sherl0cks
   - mtakane
   - tdbeattie
   - springdo
   - eranderson921
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/vsm.jpg
 whatIs: >-
   バリュー ストリーム マッピング（VSM）は、第三世代のリーンプロセス改善テクニックです。
   バリュー ストリームとは、組織が顧客のための製品やサービスを作るために作り上げた一連のプロセスのことをいいます。
@@ -89,7 +84,6 @@ howTo: >-
     linkType: web
     description: Double Diamond design model
 people: <10
-difficulty: hard
 participants:
   - BAs
   - Directors

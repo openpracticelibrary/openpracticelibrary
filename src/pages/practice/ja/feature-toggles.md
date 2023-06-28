@@ -1,20 +1,16 @@
 ---
 title: フィーチャートグル
 subtitle: 別名：機能フラッグ／機能ビット／機能フリップ／機能コントロール
-date: 2018-12-18T19:02:25.307Z
 authors:
   - valyonchev
   - tenfourty
 area: foundation-technical
-tags: []
 perspectives:
   - product-ownership
-icon: /images/karim-manjra-1136416-unsplash.jpg
 jumbotron: /images/karim-manjra-1136416-unsplash.jpg
 jumbotronAlt: Light switches on a wall
 people: 1+
 time: 1+ hours
-difficulty: moderate
 participants:
   - Product Owner
   - Product Team
@@ -122,7 +118,6 @@ resources:
   - link: 'https://openpracticelibrary-ja.netlify.app/practice/blue-green-deployments/'
     linkType: web
     description: Blue/Greenデプロイ
-mobiusTag: foundation
 ---
 ## What is it?
 

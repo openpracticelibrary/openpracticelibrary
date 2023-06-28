@@ -2,14 +2,8 @@
 templateKey: practice-page
 title: モチベーションマッピング
 subtitle: 自分達自身や顧客のモチベーションを整理して理解する
-date: 2021-08-11T06:54:19.420Z
 authors:
   - gotost-rh
-tags:
-  - validate
-  - value
-mobiusTag: discovery
-icon: /images/screen-shot-2021-08-11-at-3.57.03-pm.png
 whatIs:
   モチベーションマッピングは、自分達自身や顧客のモチベーション（行動原理、成し遂げたいこと、プロダクトにお金を払う理由など）を理解するためのプラクティスです。
   6つのセクションに分割されたキャンバスを使用し、チームやプロダクトのゴール、なぜそのゴールを達成すべきなのかの理由、背景、障害になりうるもの、目指すべき成果を定義します。

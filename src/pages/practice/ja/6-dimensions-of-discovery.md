@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: 発見の6次元
 subtitle: 課題と明るい点を6つの側面から収集、文書化、分類、優先順位付けする
-date: 2020-04-19T22:51:08.252Z
 authors:
   - kattekrab
-tags:
-  - ideate
-mobiusTag: discovery
-icon: /images/6dimensions.png
 whatIs: >-
   このプラクティスは、組織やチーム、プロジェクトの課題や明るい点を6つの関連する側面をまたいで探索、文書化、優先順位付けするために設計されたファシリテーション付きの情報収集活動です。
 
@@ -236,7 +231,6 @@ perspectives:
   - start-with-why
   - target-outcomes
   - impact-effort-prioritization-matrix
-difficulty: moderate
 ---
 ## What is it?
 

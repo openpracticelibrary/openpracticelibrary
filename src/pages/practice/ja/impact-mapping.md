@@ -2,16 +2,11 @@
 templateKey: practice-page
 title: インパクトマッピング
 subtitle: 魅力的でグラフィカルな戦略立案手法
-date: 2017-09-06T05:00:00.000Z
 authors:
   - sherl0cks
   - mtakane
   - rdebeasi
   - valyonchev
-tags:
-  - value
-mobiusTag: discovery
-icon: /images/impact-mapping.jpeg
 whatIs: >-
   インパクトマッピングは魅力的でグラフィカルな戦略的プランニングの手法です。
   Gojko Adzic 氏によって2012年に紹介されました。インパクトマッピングを実践することで
@@ -164,7 +159,6 @@ time: "2-4 hours of prep to establish a goal or problem statement before the
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
-difficulty: moderate
 ---
 ## What is it?
 

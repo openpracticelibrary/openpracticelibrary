@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: メトリクス ベース プロセス マッピング
 subtitle: プロセスの詳細なマッピングと基礎となるメトリクスの収集
-date: 2020-08-03T18:28:36.558Z
 authors:
   - prakritiverma
   - mtakane
-tags:
-  - value
-mobiusTag: discovery
-icon: /images/mbpm2.jpg
 whatIs: >-
   
 
@@ -107,7 +102,6 @@ area: discovery-loop-why
 people: 2+
 time: 4+ hours
 perspectives: []
-difficulty: hard
 jumbotronAlt: Example photo of a facilitated MBPM run
 ---
 ## What is it?

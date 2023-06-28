@@ -19,12 +19,8 @@ resources:
       Underrated) Report on Google Analytics
 templateKey: practice-page
 title: コホート分析
-date: 2018-12-18T18:46:49.760Z
 authors:
   - valyonchev
-tags:
-  - learn
-icon: /images/cohort-analysis.jpg
 whatIs: >-
   コホート分析とは、行動分析のサブセットで、異なるグループ（顧客／ユーザー）間の行動の違いを研究するもので、単に「コホート」とも呼ばれます。
 
@@ -61,8 +57,6 @@ whyDo: >-
   コホート分析では、比較可能なデータセット（新規登録ユーザーなど）間でパフォーマンスを比較することにより、製品/機能の変更の影響を理解することができます。具体的で測定可能な目標を達成し、その達成によってユーザーの行動を変化させるために、改善を促進することができます。
 perspectives:
   - product-ownership
-difficulty: moderate
-mobiusTag: delivery
 ---
 ## What is it?
 

@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: Readyの定義
 subtitle: 作業(スプリント)が着手可能かを判断する基準
-date: 2018-08-16T03:38:19.000Z
 authors:
   - mtakane
   - ilaria66
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/dor.jpg
 whatIs: >-
   * Readyの定義（Definition of Ready, DoR、準備完了の定義）は、プロダクトバックログアイテム(PBI)をスプリントバックログに移してスプリント（開発/コーディング）を開始するための準備が整っているかを判定する基準です。INVEST基準がよく使われます。
 
@@ -60,7 +55,6 @@ people: 2+
 time: 15 minutes
 perspectives:
   - facilitation-tips-for-remote-sessions
-difficulty: easy
 ---
 # What is it?
 

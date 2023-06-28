@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: テスト駆動開発
 subtitle: 短い開発サイクルでソフトウェアを改善する
-date: 2018-09-10T11:36:21.873Z
 authors:
   - syvanen
   - Zenigata
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/test_tube_truck.jpg
 whatIs: テスト駆動開発 (TDD) は非常に短い開発サイクルによってソフトウェアを開発するプロセスです。
   要求をテストケースに落とし込み、そのテストを通るように開発することが求められます。
   つまり、開発者の課題やバグに向き合わせ、開発者が効率的にリファクタできるようにする
@@ -42,7 +37,6 @@ resources:
     linkType: web
     description: Programmer Test Principles
 people: 1+
-difficulty: moderate
 participants:
   - Team members
 area: foundation-technical

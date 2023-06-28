@@ -2,12 +2,8 @@
 templateKey: practice-page
 title: ストーリーキックオフ
 subtitle: 開発者ペアがピックアップする直前に、ストーリーを説明するイベント
-date: 2019-02-12T03:58:39.284Z
 authors:
   - kartiknarayanan
-tags: []
-mobiusTag: delivery
-icon: /images/needs-an-image.png
 whatIs: >-
   * これは、開発開始前に、プロダクトオーナーとそのストーリーを担当する開発者のペアが共同でウォークスルーや説明を行うプラクティスです。
 
@@ -87,7 +83,6 @@ people: 3+
 time: 1-20 minutes
 perspectives:
   - product-ownership
-difficulty: moderate
 ---
 ## What is it?
 

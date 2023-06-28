@@ -2,14 +2,8 @@
 templateKey: practice-page
 title: アジャイル ヘルスチェック
 subtitle: アジャイルマニフェストの原則に基づく簡単なチームアセスメント
-date: 2019-12-04T15:50:30.989Z
 authors:
   - nick-woods
-tags:
-  - measure
-  - learn
-mobiusTag: delivery
-icon: /images/health-check-sliders.jpg
 whatIs:  アジャイルヘルスチェックは、アジャイルの原則に基づき、どうすれば良くなるかをチームで評価することです。
 whyDo: >-
   このヘルスチェックをチームで実施することで、チームが個人として、および全体として、どのように働きたいかの方向性を一致させることができます。
@@ -31,7 +25,6 @@ area: delivery-measure-and-learn
 people: 5-9
 time: 1 hour
 perspectives: []
-difficulty: easy
 ---
 ## What is it?
 

@@ -2,12 +2,8 @@
 templateKey: practice-page
 title: 支配的勢力（Dominating Forces）
 subtitle: リスクや問題を表面化し、指標を特定し、戦略実行の影響を事前に定義する。
-date: 2021-09-03T23:47:16.126Z
 authors:
   - aspanner
-tags: null
-mobiusTag: discovery
-icon: /images/dominatingforces.png
 whatIs: >-
   文化や実行に関する阻害要因や課題を考慮しながら、指定された目標に到達するための既存の戦略の伝達や検証、または新しい戦略の確立を支援する、ファシリテートされたプラクティスです。このプラクティスは、その後のプロジェクト、プログラム、製品開発におけるリスクや潜在的な問題を表面化させます。
 
@@ -47,7 +43,6 @@ mediaGallery:
   - link: https://www.agilealliance.org/wp-content/uploads/2019/05/Figure-2.-Relating-Strategic-Themes-Legacy-Mindsets-and-Agile-Goals.jpg
 people: 3+
 time: 2 hrs
-difficulty: hard
 participants:
   - People who create or are deeply familiar with the why
   - goals and associated strategies

@@ -2,15 +2,8 @@
 templateKey: practice-page
 title: C4 アーキテクチャ
 subtitle: アーキテクチャの様々なコンポーネントをシンプルなレイヤーに抽象化する
-date: 2021-08-23T16:11:41.686Z
 authors:
   - InfoSec812
-tags:
-  - insight
-  - culture
-  - learn
-mobiusTag: foundation
-icon: /images/c4-architecture-containers.png
 whatIs:
   C4モデルは、
   ソフトウェアシステム
@@ -39,7 +32,6 @@ resources:
     desciprion: ソフトウェアアーキテクチャのためのC4モデル
 people: 3+
 time: Initially, 2 hours
-difficulty: easy
 participants:
   - Product Owner
   - Architects

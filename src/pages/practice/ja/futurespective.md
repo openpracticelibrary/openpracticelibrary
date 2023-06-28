@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: フューチャースペクティブ
 subtitle: 未来への展望
-date: 2021-04-09T09:16:07.537Z
 authors:
   - agrossi-21
-tags:
-  - methods
-mobiusTag: discovery
-icon: /images/silhouette-looking-to-the-future.jpg
 whatIs: >-
   フューチャースペクティブとは、自分たちの目標が達成されたことを想像して、自分たちを未来に位置づける訓練です。このようなレトロスペクティブでは、まずチームの目標について話し合い、チームメンバーが共通認識を持つようにします。そして、その目標が誰にでもわかるように、文章化します。
 
@@ -64,7 +59,6 @@ resources:
     linkType: web
     description: Futurespective
 time: "4 min. "
-difficulty: easy
 participants:
   - The Team
 ---

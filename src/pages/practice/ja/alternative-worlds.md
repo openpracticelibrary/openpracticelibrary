@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: オルタネイト ワールド
 subtitle: 異なる視点でフレッシュなアイデアを出す
-date: 2022-01-04T14:01:20.470Z
 authors:
   - graphicfacilitator
   - heyjerrybecker
-tags:
-  - value
-mobiusTag: discovery
-icon: /images/alternative-worlds.png
 whatIs: >-
   オルタネイトワールド(Alternate Worlds)はさまざまな視点を用いて新鮮なアイデアを出すアクティビティです。
   創造的な思考をする人はどこからともなく素晴らしいアイデアを思いつくわけではありません。
@@ -68,7 +63,6 @@ resources:
     description: Luma Institute
 people: 1-10+
 time: 15-60 min
-difficulty: easy
 participants:
   - Product Team
 ---

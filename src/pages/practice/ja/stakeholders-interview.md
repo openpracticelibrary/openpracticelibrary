@@ -2,14 +2,10 @@
 templateKey: practice-page
 title: ステークホルダインタビュー
 subtitle: 具体的な目標や優先すべき領域を特定する
-date: 2021-02-09T09:45:51.714Z
 authors:
   - dsunwar
   - angelsdimitri
   - JordiOlive
-tags: []
-mobiusTag: discovery
-icon: /images/screenshot-2021-02-05-at-16.11.47.png
 whatIs: >-
   * ステークホルダインタビューは、ステークホルダが製品に何を求めているかをより深く理解するために行うステークホルダとの対話です。
   

@@ -1,21 +1,16 @@
 ---
 title: 失敗を祝う
 subtitle: 失敗の根本原因についてチーム全体の意識を向上させる
-date: 2018-08-17T15:16:58.611Z
 authors:
   - jackrwstevenson
   - springdo
 area: foundation-culture-and-collaboration
-tags:
-  - culture
-icon: /images/fail-wall.jpg
 jumbotron: /images/fail-wall.jpg
 jumbotronAlt: fail-wall
 people: 2+
 time: >-
   1 hour 30 mins (product inception), 5 mins per share throughout with
   continuous reflection
-difficulty: easy
 participants:
   - Product Owner
   - Team Members
@@ -45,7 +40,6 @@ howTo: >-
   もし、開発中に新しい失敗が見つかったらボードに追加します。それによってチームは失敗や原因について再び認識を高められます。これは、その場で実施することもあれば、レトロスペクティブで実施することもできます。
 mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/fail-wall.jpg'
-mobiusTag: foundation
 ---
 ## What is it?
 

@@ -2,17 +2,12 @@
 templateKey: practice-page
 title: ショーケース
 subtitle: 直近の期間におけるチームの仕事の成果や結果を示し、アピールするためのイベント
-date: 2018-08-27T18:27:14.023Z
 authors:
   - tdbeattie
   - jonathanjohnston
   - mvmaestri
   - noelo
   - ilaria66
-tags:
-  - methods
-mobiusTag: delivery
-icon: /images/final_showcase.png
 whatIs: >-
   * ステークホルダーや関係者が、あるチームが最近行った仕事のデモンストレーションを見られるイベントです。
 
@@ -83,7 +78,6 @@ resources:
   - link: https://openpracticelibrary-ja.netlify.app/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
-difficulty: easy
 participants:
   - Product Owner
   - Team Members

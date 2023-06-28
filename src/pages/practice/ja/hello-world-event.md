@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: '"ハロー、ワールド!" ネットワーキングイベント'
 subtitle: あなたが世界に向けて"ハロー"と言えば、世界はあなたに"ハロー"と返してくれる
-date: 2021-04-26T12:00:12.713Z
 authors:
   - msanecki
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/hello-world.png
 whatIs: >-
   "ハロー, ワールド!" または "ハロー、ワールドの時間" イベントは一般に組織内の他の人と出会うのに役立つピア・ツー・ピアのイベントです。
 
@@ -30,6 +25,5 @@ howTo: >-
 mediaGallery: []
 people: minimum 2 peers
 time: 20-30 min
-difficulty: easy
 participants: []
 ---

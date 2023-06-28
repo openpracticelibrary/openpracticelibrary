@@ -2,17 +2,12 @@
 templateKey: practice-page
 title: イベントストーミング
 subtitle: 品質の高いモデルを生み出すことを目的としたビジネスプロセスの発見と設計のための迅速かつインタラクティブなアプローチ
-date: 2017-04-20T05:00:00.000Z
 authors:
   - mtakane
   - tdbeattie
   - sudhakarau1
   - sandraarps
   - adamclark
-tags:
-  - value
-mobiusTag: discovery
-icon: /images/eventstormtile.jpeg
 whatIs: >-
   イベントストーミングは品質の高いモデルを生み出すことを目的としたビジネスプロセスの発見と設計のための迅速かつインタラクティブなアプローチです。Alberto Brandoliniさんのブログで2013年に紹介されました。イベントストーミングの結果として:
 
@@ -173,7 +168,6 @@ time: ~6 (休憩を含まない)
 perspectives:
   - domain-driven-design
   - facilitation-tips-for-remote-sessions
-difficulty: hard
 jumbotronAlt: An example event storm
 ---
 ## What is Event Storming?

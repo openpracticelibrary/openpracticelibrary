@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: (コードレビュープロセスにおける)セキュリティチェックリスト
 subtitle: "コードレビュー時にチェックリストを実行することで、セキュリティをシフトレフトする。 "
-date: 2021-04-24T00:19:05.345Z
 authors:
   - ladynerd
-tags:
-  - learn
-mobiusTag: delivery
-icon: /images/glenn-carstens-peters-rlw-uc03gwc-unsplash.jpg
 whatIs: >-
   [SafeStack.io](https://safestack.io)のチームによるこのセキュリティチェックリストは、開発チームのセキュリティ文化を向上させ、一般的なセキュリティリスクについてコードを一貫してチェックできるようにするために作成されました。
 

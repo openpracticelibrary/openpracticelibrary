@@ -2,11 +2,8 @@
 title: かんばん
 templateKey: practice-page
 subtitle: 効果を最大化し、よりアジャイルになるための可視化されたワークフロー管理手法
-date: 2020-09-15T12:02:15.251Z
 authors:
   - rmarting
-mobiusTag: delivery
-icon: /images/kanban-board.png
 whatIs: >-
   かんばんは、以下のプラクティスに基づき、アジャイルソフトウェア開発を実施するために使用されるフレームワークです:
 
@@ -98,7 +95,6 @@ resources:
     linkType: web
     description: Kanban Picture
 people: 4+
-difficulty: moderate
 participants:
   - Development Team
   - Product Owner

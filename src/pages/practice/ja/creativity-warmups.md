@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: クリエイティビティ・ウォームアップ
 subtitle: メンタルの壁をこえてクリエイティブな思考をストレッチする
-date: 2021-05-10T18:08:42.749Z
 authors:
   - heyjerrybecker
-tags:
-  - ideate
-mobiusTag: options
-icon: /images/creativity-warmups.png
 whatIs: クリエイティビティ・ウォームアップは、ワークショップやミーティングの開始前に実施する、短時間の活動です。参加者は、ブレインストーミングやアイデアの共有を始める前に、リラックスした雰囲気でコミュニケーションの壁を取り払い、クリエイティブな思考に切り替えることができます。
 whyDo: >-
   チームがクリエイティブな思考をストレッチするために時間をとることで、製品やサービスあるいはプロジェクトチームが行うアイデア創出セッションの際に、クリエイティブなアイデアを創出することができるようになります。
@@ -51,7 +46,6 @@ resources:
     description: "Blog: LightBulbBites - Making the non-creatives more creative"
 people: 1-100+
 time: 10-30 min
-difficulty: easy
 participants:
   - Any team member
 ---

@@ -1,7 +1,6 @@
 ---
 title: Expand / Contract パターン
 subtitle:  モダナイゼーションやマイグレーションプロジェクトに役立つパターン。
-date: 2020-07-23T05:12:29.611Z
 authors:
   - gsampaio-rh
 area: delivery-deliver
@@ -9,8 +8,6 @@ perspectives: []
 jumbotron: /images/expand-contract-pattern.jpg
 participants: []
 templateKey: practice-page
-mobiusTag: delivery
-icon: /images/expand-contract-pattern.jpg
 whatIs: >-
   マイグレーションプロジェクトやモダナイゼーションプロジェクトは、開発者が同じアプリケーションの異なるコンポーネントやバージョンに対処する必要がある2つの例に過ぎません。リファクタリングは頻繁に行われ、A/Bテスト、カナリアリリース、Blue/Greenデプロイメントなどのプラクティスを使用してこれらの異なるモデルをデプロイしますが、ほとんどの場合、アーキテクチャにはそれらと通信する他のコンポーネントがあり、後方互換性が必要となる場合があります。両方の構造が適切に動作するように維持するのは大変なことで、新しいデータを受け取りながら古いスキーマを新しい構成へ置き換え、すでにあるものを更新するのはさらに難しいことです。Expand/Contractパターンは、これらを行うための信頼性の高い３段階の移行パターンです。
 

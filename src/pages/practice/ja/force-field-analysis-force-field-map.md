@@ -1,19 +1,14 @@
 ---
 title: フォースフィールド分析 - フォースフィールドマップ
 subtitle: 変化とゴールを理解する
-date: 2018-11-08T15:20:11.306Z
 authors:
   - valyonchev
 area: foundation-culture-and-collaboration
-tags:
-  - culture
 perspectives:
   - product-ownership
-icon: /images/force-field.jpg
 jumbotronAlt: Force Field Maps
 people: 2+
 time: 30-60 min
-difficulty: easy
 participants:
   - As diverse as possible
 templateKey: practice-page
@@ -87,7 +82,6 @@ resources:
   - link: 'https://gamestorming.com/force-field-analysis/'
     linkType: web
     description: Force Field Analysis from Gamestorming.com
-mobiusTag: foundation
 ---
 ## What is it?
 

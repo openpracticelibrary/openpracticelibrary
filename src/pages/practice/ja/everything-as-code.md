@@ -10,13 +10,9 @@ resources:
     description: Ansible
 templateKey: practice-page
 subtitle: '全てをコードとして保存する - 設定、インフラストラクチャ、パイプライン'
-date: 2018-08-15T09:37:16.000Z
 authors:
   - springdo
   - makentenza
-tags:
-  - methods
-icon: /images/everything-as-code.jpeg
 whyDo: >-
   1. トレーサビリティ - 設定を `git` に保存することで、誰が、なぜ、設定を変更したかを追跡するためのコントロールが可能となります。変更は、適用したり戻したりすることができ、変更を行った一人のユーザーまで追跡することができます。
 
@@ -43,7 +39,6 @@ mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/everything%20as%20code.jpeg?raw=true
 people: ''
-mobiusTag: foundation
 ---
 ## What is it?
 

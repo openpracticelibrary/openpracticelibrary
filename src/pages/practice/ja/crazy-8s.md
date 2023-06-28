@@ -18,12 +18,8 @@ resources:
     description: Alternative overview of Crazy 8s Exercise
 templateKey: practice-page
 title: Crazy 8s
-date: 2019-10-23T15:46:01.503Z
 authors:
   - heyjerrybecker
-tags:
-  - ideate
-icon: /images/crazy-8s-1.jpg
 whatIs: >-
   クレイジーエイトは、デザインスプリントの中核となる手法で、
   参加者は8分間で8つの異なるアイデアを高速にスケッチしなければなりません。
@@ -67,8 +63,6 @@ mediaGallery:
   - link: 'https://youtu.be/yz4g87XapQ0'
 people: 3+
 perspectives: []
-difficulty: easy
-mobiusTag: discovery
 ---
 ## What is it?
 

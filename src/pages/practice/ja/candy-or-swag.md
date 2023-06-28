@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: Candy or Swag？
 subtitle: コラボレーションや透明性といったオープンな組織の原則の価値を示す
-date: 2020-01-03T21:46:17.737Z
 authors:
   - jameshbarton
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/candy-or-swag.png
 whatIs: ”Candy or Swag? （キャンディか？景品か？）”というプラクティスは、ゲームを通じて、コラボレーションや透明性といった重要な[オープンな組織の価値](https://opensource.com/open-organization/resources/open-org-definition)を強化するものです。 その目的は、最もシンプルなグループシナリオであっても、自己組織化チームのメンバーが協力し、結果に対して互いに責任を負うことで、すべての人にとって成果が向上することを実証することです。
 whyDo: >-
   新しいチームが結成されるとき、特にサイロ化した伝統を持つ伝統的な組織では、コラボレーションや透明性といったオープンな組織価値を確立する必要があります。 このプラクティスは、これらのメッセージを魅力的なゲーム環境で提供します。
@@ -114,7 +109,6 @@ area: foundation-culture-and-collaboration
 people: 8+
 time: 30min
 perspectives: []
-difficulty: easy
 ---
 ## What is it?
 

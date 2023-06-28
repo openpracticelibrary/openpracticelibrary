@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: ビジネス・プライオリティ・エクササイズ
 subtitle: ビジネスの優先順位
-date: 2020-05-27T10:03:44.374Z
 authors:
   - kelaird
   - j-sutter
-tags:
-  - validate
-mobiusTag: discovery
-icon: /images/img_0713-3.jpg
 whatIs: ビジネス・プライオリティ・エクササイズは、ステークホルダーが達成しようとするビジネス価値を高めるために、何が最優先事項であるか、1万フィート上で合意させるための協調的アプローチです。
 whyDo: >
   これは、実際のバリューストリームに結びつかないような機能に直接飛びつくのではなく、ビジネス価値を高めるために何を重視すべきかを、まずチームが1万フィート（約1,000メートル）の高さから確認するのに役立ちます。
@@ -53,7 +48,6 @@ jumbotron: /images/img_0713-3.jpg
 area: discovery-loop-why
 people: 1-2
 perspectives: []
-difficulty: moderate
 ---
 ## What is it?
 

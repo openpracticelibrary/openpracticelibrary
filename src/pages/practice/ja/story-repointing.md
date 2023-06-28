@@ -4,17 +4,13 @@ participants:
 templateKey: practice-page
 title: ストーリー リポインティング
 subtitle: ストーリーポインティングの継続的な改善
-date: 2019-03-27T01:35:22.644Z
 authors:
   - awlewis1253
 area: delivery-measure-and-learn
-tags: []
 perspectives: []
-icon: /images/sizing_cards.jpg
 jumbotronAlt: Image of a Story RePointing Grid
 people: 3+
 time: 1-3 min per Story
-difficulty: easy
 whatIs: >-
   ストーリーリポインティングは、スプリント終了後、チームが完成させたストーリーのサイズを調整するために使用します。チームは、ストーリーを完成させるために行った実際の作業に基づいて新しいストーリーポイントの見積もりを行い、それを元の見積もりと比較して、完成した各ストーリーのAccuracy Differential（誤差）を計算します。各チームは、ストーリーが当初の見積もりより大きい／小さいと思った理由を話すことができます。
 whyDo: >-
@@ -98,7 +94,6 @@ mediaGallery:
       https://openpracticelibrary.github.io/opl-media/images/story_repointing1.jpg
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/estmation-tracker.jpg
-mobiusTag: delivery
 ---
 ![Story RePointing Grid Image](/images/story_repointing1.jpg "RePointing Grid")
 

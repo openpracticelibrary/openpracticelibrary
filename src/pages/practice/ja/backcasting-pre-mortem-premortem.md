@@ -41,19 +41,14 @@ resources:
     description: Matt Botsford
 templateKey: practice-page
 title: バックキャスティング / プレモーテム
-date: 2018-12-17T21:45:45.032Z
 authors:
   - valyonchev
 area: discovery-loop-outcomes
-tags:
-  - ideate
 perspectives:
   - product-ownership
-icon: /images/pre-mortem.jpg
 jumbotron: /images/matt-botsford-680057-unsplash.jpg
 people: 3+
 time: 30-60 min
-difficulty: easy
 whatIs: >-
   プレモーテムはリスク管理や戦略、プロダクトの意思決定の評価に使われる分析/思考実験の手法です。
 
@@ -106,5 +101,4 @@ howTo: >-
 mediaGallery:
   - link: >-
       https://github.com/openpracticelibrary/opl-media/blob/master/images/Pre-Mortem.jpg?raw=true
-mobiusTag: discovery
 ---

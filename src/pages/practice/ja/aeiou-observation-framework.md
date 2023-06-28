@@ -19,20 +19,15 @@ resources:
     description: Free Empathy Map Worksheet
 templateKey: practice-page
 title: AEIOU 観察フレームワーク
-date: 2018-11-30T22:42:50.138Z
 authors:
   - darcief
 area: discovery-loop-why
-tags:
-  - validate
 perspectives:
   - product-ownership
-icon: /images/aeiou-empathy-map.png
 jumbotron: /images/aeiou_worksheet_crop.jpg
 jumbotronAlt: AEIOU Framework
 people: 2+
 time: 1+ Hours
-difficulty: easy
 whatIs: >-
   [TheDesignExchange.org](https://thedesignexchange.org) が作成した1分以下の短い動画があります。
   AEIOU観察フレームワークを簡潔に説明していますので、以下の画像をクリックして見てください：
@@ -154,7 +149,6 @@ mediaGallery:
   - link: 'https://openpracticelibrary.github.io/opl-media/images/aeiou_worksheet.jpg'
   - link: 'https://youtu.be/Uvvd6pcNX84'
   - link: 'https://i.ytimg.com/vi/Uvvd6pcNX84/maxresdefault.jpg'
-mobiusTag: discovery
 ---
 ## What is the AEIOU Observation Framework about?
 

@@ -1,19 +1,14 @@
 ---
 title: プライオリティスライダー
 subtitle: 活動のトピックの優先度を話し合うためのツール
-date: 2018-09-09T11:25:30.606Z
 authors:
   - tdbeattie
   - valyonchev
   - rdebeasi
 area: discovery-loop-outcomes
-tags:
-  - value
-icon: /images/priority-sliders-irl.jpg
 
 people: 2+
 time: 30 minutes
-difficulty: moderate
 participants:
   - Development Team
   - Product Owner
@@ -92,7 +87,6 @@ resources:
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Priority%20Sliders.jpg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/final_priority-sliders.png?raw=true
-mobiusTag: discovery
 ---
 ## What is it?
 

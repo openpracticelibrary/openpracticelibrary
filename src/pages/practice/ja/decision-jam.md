@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: ライトニング・ディシジョン・ジャム
 subtitle: さまざまな問題を解決するためのワークショップ
-date: 2020-01-23T14:01:25.612Z
 authors:
   - heyjerrybecker
-tags:
-  - ideate
-mobiusTag: discovery
-icon: /images/decision-jam-small.png
 whatIs: このプラクティスは、ほとんど何にでも使うことができるワークショップです。
   ライトニング・ディシジョン・ジャムは[AJ&Smart](https://ajsmart.com/) によって作られたもので、
   数人のチームで課題を定義したり解決するために行われます。
@@ -93,7 +88,6 @@ area: discovery-loop-why
 people: 4-100+
 time: 60 - 90 min
 perspectives: []
-difficulty: moderate
 ---
 ## What is it?
 

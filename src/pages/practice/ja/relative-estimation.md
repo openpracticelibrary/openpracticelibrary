@@ -2,7 +2,6 @@
 templateKey: practice-page
 title: 相対見積
 subtitle: 作業の複雑さや価値の大きさの見積について、共通認識を促進します。
-date: 2018-09-03T17:09:39.370Z
 authors:
   - tdbeattie
   - Dappleyard93
@@ -10,10 +9,6 @@ authors:
   - ilaria66
   - noelo
   - mvmaestri
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/final_relative-sizing.png
 whatIs: >-
   * 作業や価値の大きさを見積もるためのテクニックです。見積に相対値を用います。（1人日、10人月のような見積ではなく、タスクAとBの見積工数は1:3、のように相対値で見積を行います。）
 
@@ -84,7 +79,6 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
-difficulty: moderate
 participants:
   - Facilitators
   - Team Members

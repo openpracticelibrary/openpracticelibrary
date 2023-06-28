@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: アクションステップ
 subtitle: アクションまでの最初のステップにコミットする
-date: 2021-09-02T00:59:12.052Z
 authors:
   - kattekrab
-tags:
-  - insight
-mobiusTag: options
-icon: /images/actionsteps-miro-template.png
 whatIs: >-
   アクションに対するコミットメント
 
@@ -57,7 +52,6 @@ resources:
     description: Six Action Shoes - Dr. Edward de Bono
 people: 3 or more
 time: 10 - 40 mins
-difficulty: easy
 participants:
   - The Team
 ---

@@ -2,14 +2,8 @@
 templateKey: practice-page
 title: デュアル トラック デリバリー
 subtitle: 開発者とデザイナーが、アウトカムデリバリーに基づくサービスを提供するために、共通の理解を構築するためのコラボレーションプラクティスです。
-date: 2021-03-19T07:35:09.113Z
 authors:
   - chloecelani
-tags:
-  - culture
-  - methods
-mobiusTag: delivery
-icon: /images/img_1863.jpg
 whatIs: デュアルトラックデリバリー（デュアルトラックアジャイル、ディアルトラック開発）は、ユーザーエクスペリエンスのデザイナーをアジャイルデリバリーチームに組み込むことで、チーム間のコラボレーションをサポートし、デザインと開発のカンバンを共有して、両チームの効率を最適化する方法です。Lynn Miller氏は、2006年に「[Case Study of Customer Input For a Successful Product](https://research.cs.vt.edu/ns/cs5724papers/miller.agile.pdf)と題する論文で、このアプローチについて書いています。その後、Jeff PattonやMarty Caganによって一般化されました。
 
 whyDo: >-
@@ -76,7 +70,6 @@ resources:
     linkType: web
     description: What is Dual-Track Agile? From Product Board
 people: ""
-difficulty: hard
 participants:
   - The Team
   - Designers

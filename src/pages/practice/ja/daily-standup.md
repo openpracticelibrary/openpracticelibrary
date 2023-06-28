@@ -2,7 +2,6 @@
 templateKey: practice-page
 title: デイリー スタンドアップ
 subtitle: チームで決めた一定のケイデンスで短時間に同期するためのプラクティス
-date: 2018-08-10T12:21:10.000Z
 authors:
   - mtakane
   - tdbeattie
@@ -11,10 +10,6 @@ authors:
   - noelo
   - mvmaestri
   - ilaria66
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/dsu.jpg
 whatIs: >-
   * デイリー スタンドアップ（デイリースクラム）の主なもポイントはスプリントゴールに向かってチームが一丸となることです。
   * チームは透明性をもって現在進行中の仕事について情報共有をおこない、チームが直面している障害に光を当てます。
@@ -67,7 +62,6 @@ resources:
   - link: https://www.youtube.com/watch?v=TOIccUxlqF0
     linkType: video
     description: Scrum With Kanban | Walk The Board On Daily Scrum from Agile State of Mind
-difficulty: moderate
 participants:
   - Product Owner
   - Team Members

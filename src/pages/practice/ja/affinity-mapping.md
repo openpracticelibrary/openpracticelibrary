@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: アフィニティ・マッピング
 subtitle: リサーチやアイデアのインサイト、パターン、傾向を把握する
-date: 2019-10-24T18:10:09.959Z
 authors:
   - ilaria66
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/am4.jpg
 whatIs: >-
   アフィニティ・マッピングは、アイデアやインサイトを整理するために使用されるプラクティスです。ブレインストーミングから生じる多数のアイデアを、自然な関係に基づいてグループ分けし、レビューや分析することができます。
   また、文脈的質問法（contextual inquiery)によるインタビューからのノートやインサイトを合成分析するためにもよく使用されます。
@@ -68,7 +63,6 @@ people: 3+
 time: 5-90 min
 perspectives:
   - facilitation-tips-for-remote-sessions
-difficulty: moderate
 ---
 ## What is it?
 

@@ -2,14 +2,9 @@
 templateKey: practice-page
 title: ダブル ダイヤモンド
 subtitle: 探求からフォーカスするアクションを起こすまで、4つのフェーズで課題に取り組む構造的なアプローチ
-date: 2021-04-27T08:17:59.530Z
 authors:
   - ilaria66
   - dsunwar
-tags:
-  - methods
-mobiusTag: foundation
-icon: /images/pasted-image-0.png
 whatIs: >-
   これはデザインプロセスやデザインワークショップで使われるプラクティスで、4つのフェーズがあります:
 

@@ -2,15 +2,10 @@
 templateKey: practice-page
 title: デザインスプリント
 subtitle: 新しいアイデアを検証する5日間のプロセス
-date: 2018-12-19T21:42:38.398Z
 authors:
   - eformat
   - valyonchev
   - sandraarps
-tags:
-  - ideate
-mobiusTag: options
-icon: /images/screenshot-from-2018-12-20-08-55-34.png
 whatIs: >-
   これは、新製品開発や既存製品の改良のためのアイデア検証を5日間で実施するとした顧客中心プロセスです。
 
@@ -105,7 +100,6 @@ people: 4-7+
 time: 5 Days
 perspectives:
   - product-ownership
-difficulty: hard
 jumbotronAlt: Design Sprint
 ---
 ## これは何？

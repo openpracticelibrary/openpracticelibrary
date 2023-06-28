@@ -25,11 +25,8 @@ resources:
     description: 'How to Measure Anything: Finding the Value of "Intangibles" in Business'
 templateKey: practice-page
 title: 実験計画法
-date: 2018-11-08T15:37:34.730Z
 authors:
   - valyonchev
-tags: []
-icon: /images/doe-thumbnail.jpg
 whatIs: >-
   新製品、新サービス、新機能、より良くする（成長、収益、経験など）ための変更、、、これら全ての発端は、アイデア、仮説、仮定から始まります。従来のトラディショナルなアプローチでは、ROI分析や投資分析に基づいて判断を行い、そのプロセスの中でさらに仮定を作っていました。
 
@@ -118,9 +115,7 @@ mediaGallery:
 people: 2+
 perspectives:
   - product-ownership
-difficulty: hard
 jumbotronAlt: Design Of Experiments
-mobiusTag: options
 ---
 ## What is it?
 

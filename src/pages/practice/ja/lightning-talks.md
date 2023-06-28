@@ -2,15 +2,8 @@
 templateKey: practice-page
 title: ライトニングトーク
 subtitle: 短時間に集中して行うプレゼンテーション
-date: 2021-03-12T16:53:09.861Z
 authors:
   - karenbatt
-tags:
-  - value
-  - learn
-  - insight
-mobiusTag: delivery
-icon: /images/lightning-talks.png
 whatIs: >-
   ライトニングトークとは、短時間で集中して、効果的なプレゼンテーションを行うものです。限られた時間の中で、自分の言いたいことを伝えるには最適な方法です。時間的な制約があるため、スピーカーはメッセージを編集せざるを得ず、決定的に重要な要素だけが残ることになります。科学者や技術者グループが、「私の知っていることをすべて見てください」から「あなたが今知っておくべき最も重要なことは何ですか」に焦点を切り替えるためによく使われています。
 
@@ -117,6 +110,5 @@ resources:
     description: PechaKucha videos
 people: 2+
 time: minimum 5 mins, can be up to 90 minutes for a Lightning talk event
-difficulty: easy
 participants: []
 ---

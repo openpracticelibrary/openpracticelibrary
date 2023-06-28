@@ -4,10 +4,8 @@ templateKey: practice-page
 title: カンバンピクチャー
 subtitle: >-
   カンバン方式をこれから始める方々は、カンバンピクチャーを使ってダイナミクスを学ぶことができます。
-date: 2019-10-15T18:32:07.285Z
 authors:
   - andresuman
-tags: []
 whatIs: カンバン方式を始める方々への説明の仕方
 howTo: >-
   #### Functional Item (機能アイテム)
@@ -111,11 +109,9 @@ howTo: >-
 
 jumbotron: /images/kanban-picture-english.png
 area: delivery-deliver
-icon: /images/kanban-picture-english.png
 whyDo: It's simple and it's a funny explanation.
 mediaGallery:
   - link: >-
       https://openpracticelibrary.github.io/opl-media/images/kanban-picture-english.png
-mobiusTag: delivery
 ---
 

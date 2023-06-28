@@ -2,13 +2,8 @@
 templateKey: practice-page
 title: コードレビュー
 subtitle: 開発者のエゴでレビューも実施
-date: 2020-08-12T20:44:12.964Z
 authors:
   - mabulgu
-tags:
-  - learn
-mobiusTag: delivery
-icon: /images/code-review.png
 whatIs: >-
   コードレビューとは、作者以外の人が該当するコードをチェックし、以下のような質問を検討するソフトウェアの品質保証のためのアクティビティです:
 
@@ -118,7 +113,6 @@ resources:
     description: The Ten Commandments of Ego-less Programming
 people: 2+
 time: 10-60 mins
-difficulty: easy
 participants:
   - Developers
 ---
