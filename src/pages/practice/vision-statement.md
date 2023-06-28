@@ -9,9 +9,8 @@ tags:
   - validate
 mobiusTag: discovery
 icon: /images/graphic-for-opl-vision-statement.png
-whatIs: T﻿his practice assist executives, leadership teams, and engagement
-  sponsors develop an overall Vision statement for a strategy or engagement that
-  aligns with its corresponding Mission statement.
+whatIs: T﻿his practice paints a picture of what success looks like after the
+  successful execution of an entity's strategy or engagement.
 whyDo: T﻿he Vision statement is a statement of what success will look like after
   a strategy or engagement is executed.  The Vision assists associates in making
   decisions during a strategy or an engagement.  It creates alignment of of the
