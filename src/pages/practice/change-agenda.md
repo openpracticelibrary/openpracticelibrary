@@ -92,7 +92,10 @@ howTo: >-
 
   This an example of a completed change agenda for a retailer that was migrating an Order History application from on-premise facility to Cloud provider.
 mediaGallery: []
-resources: []
+resources:
+  - linkType: web
+    description: Link to Red Hat Miro board template
+    link: https://miro.com/app/board/o9J_lzVKIeE=/?share_link_id=4977643821
 people: 1 or more
 time: 2-4 hours, if the overarching strategic vision, corporate goal, or
   engagement destination is defined
