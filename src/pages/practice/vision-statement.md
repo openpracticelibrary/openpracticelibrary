@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Vision Statement
-subtitle: "To "
+subtitle: Develop an overarching outcome/goal for a strategy or engagement
 date: 2023-06-28T16:41:36.615Z
 authors:
   - geoffprobst
