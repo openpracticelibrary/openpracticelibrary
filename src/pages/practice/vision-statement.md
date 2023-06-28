@@ -16,15 +16,26 @@ whatIs: T﻿his practice paints a picture of what success looks like after
   and time horizon.  It determines where the organization or engagement will
   compete.  It defines the definition of success by using a stretch goal that is
   measurable.  And it has a strategic timeline for realization.
-whyDo: T﻿he Vision statement is a statement of what success will look like after
-  a strategy or engagement is executed.  The Vision assists associates in making
-  decisions during a strategy or an engagement.  It creates alignment of of the
-  strategic or engagement objectives.  Each objective should be contributing in
-  some manner to the overarching Vision.  The Vision statement needs to be
-  measurable in order to ascertain whether or not the Vision was realized.  Once
-  the the Vision statement is realized, then a new Vision statement will be
-  developed.  Each subsequent Vision statement should get the organization
-  closer to its Mission statement.
+whyDo: >-
+  T﻿he Vision statement is a statement of what success will look like after a
+  strategy or engagement is executed.  
+
+
+  R﻿easons for developing a Vision Statement:
+
+
+  * P﻿rovides leadership and staff a mental image of success and lets them know when they have realized it
+
+  * Creates alignment with all the strategic or engagement objectives.  
+
+  * Assists associates in making decisions during a strategy or an engagement.  
+
+  * Defines the gap between today's and tomorrow's execution for an organization or engagement
+
+  * Measures the performance of the strategy or engagement
+
+
+  Once the the Vision statement is realized, then a new Vision statement will be developed.  Each subsequent Vision statement should get the organization closer to its Mission statement.
 howTo: I﻿nstructions on executing the practice
 people: 2+
 time: 3 - 6 hours
