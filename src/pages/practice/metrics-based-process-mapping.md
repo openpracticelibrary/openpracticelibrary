@@ -1,9 +1,35 @@
 ---
 templateKey: practice-page
+title: Metrics Based Process Mapping
+subtitle: Map your process in detail and collect key baseline metrics
+date: 2020-08-03T18:28:36.558Z
 authors:
   - prakritiverma
   - mtakane
   - itblaked
+tags:
+  - value
+mobiusTag: discovery
+icon: /images/mbpm2.jpg
+whatIs: >-
+  
+
+  * A detailed process mapping practice that captures process steps, responsible actors, and key time and quality metrics
+
+  * Metrics-Based Process Mapping (MBPM) is a third generation lean process improvement techniques, optimizable for an extended organizational transformation effort.
+whyDo: >-
+  * MBPM can be used to view the detailed, micro picture and make tactical
+  improvements with frontline workers
+
+  * It is an ideal practice for process/workflow improvement related activities. For example, it's ideal for use when adopting technology automation solutions to automate a business process. 
+
+  * Use the practice to determine a performance baseline, such as the quantity of resources and time involved before automation or process improvement is performed and again after to measure the value gained from automation or process improvement.
+
+  * The practice highlights key performance points in processes which makes it easy to identify and prioritise areas for improvement in measurable, incremental steps.
+
+  * The visualisation of the process is an invaluable output.
+
+  * The clear metrics can help build a business case for changes to the process to be made.
 howTo: >-
   **Facilitation Materials Needed**
 
@@ -58,6 +84,12 @@ howTo: >-
 
 
   MBPM can be paired with [Value Stream Mapping](https://openpracticelibrary.com/practice/vsm-and-mbpm/). Used together, a MBPM visually details an implementation-level segment of the strategy-level value stream map. One or more Metrics-Based Process Maps may align to segments within the higher-level map.
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=g1XSbEwR3bU
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM2.jpg?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM.JPG?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM3.jpg?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM5.png?raw=true
 resources:
   - link: https://vimeo.com/18725538
     linkType: video
@@ -86,42 +118,9 @@ participants:
   - implementers
 jumbotron: /images/mbpm-delta-air4-cluster-vm-provisioning.png
 area: discovery-loop-why
-date: 2020-08-03T18:28:36.558Z
-mobiusTag: discovery
-whatIs: >-
-  
-
-  * A detailed process mapping practice that captures process steps, responsible actors, and key time and quality metrics
-
-  * Metrics-Based Process Mapping (MBPM) is a third generation lean process improvement techniques, optimizable for an extended organizational transformation effort.
-whyDo: >-
-  * MBPM can be used to view the detailed, micro picture and make tactical
-  improvements with frontline workers
-
-  * It is an ideal practice for process/workflow improvement related activities. For example, it's ideal for use when adopting technology automation solutions to automate a business process. 
-
-  * Use the practice to determine a performance baseline, such as the quantity of resources and time involved before automation or process improvement is performed and again after to measure the value gained from automation or process improvement.
-
-  * The practice highlights key performance points in processes which makes it easy to identify and prioritise areas for improvement in measurable, incremental steps.
-
-  * The visualisation of the process is an invaluable output.
-
-  * The clear metrics can help build a business case for changes to the process to be made.
-mediaGallery:
-  - link: https://www.youtube.com/watch?v=g1XSbEwR3bU
-  - link: https://www.youtube.com/watch?v=Bh1RwpLvGp8
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM2.jpg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM.JPG?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM3.jpg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/MBPM5.png?raw=true
 people: 2+
 time: 2+ hours
 perspectives: []
-title: Metrics Based Process Mapping
-subtitle: Map your process in detail and collect key baseline metrics
-tags:
-  - value
-icon: /images/mbpm2.jpg
 difficulty: easy
 jumbotronAlt: Example photo of a facilitated MBPM run
 ---
