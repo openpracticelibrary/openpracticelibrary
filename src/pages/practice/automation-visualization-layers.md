@@ -10,7 +10,7 @@ tags:
   - value
   - validate
 mobiusTag: discovery
-icon: /images/screenshot-2023-06-11-at-22.48.15.png
+icon: static/images/automation-visualization-layers.png
 whatIs: T﻿his practice is a simple methodology to highlight the current flow of
   tasks in a use case and map their automation value by layering them over
   maturity index.
@@ -33,7 +33,8 @@ howTo: >-
 
 
   3﻿. Printed posters
-mediaGallery: []
+mediaGallery:
+  - link: static/images/automation-visualization-layers.png
 people: 2+
 time: 1-2 hours depending on the number of use cases and complexity
 difficulty: moderate
