@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: ".env",
+});
+
 module.exports = {
   siteMetadata: {
     title: "Open Practice Library",
@@ -10,12 +14,17 @@ module.exports = {
     "gatsby-transformer-sharp",
     "gatsby-plugin-react-helmet",
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: "UA-111461618-1",
-        // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: false,
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          process.env.GA_ID || "G-ABCDEFGHIJ", // Google Analytics / GA
+        ],
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          // Defines where to place the tracking script - `true` in the head and `false` in the body
+          head: false,
+        },
       },
     },
     {
