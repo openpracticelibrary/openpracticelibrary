@@ -157,6 +157,9 @@ resources:
   - link: https://productfolio.com/northstar-framework/
     linkType: web
     description: ProductFolio.com articles
+  - link: " https://miro.com/app/board/uXjVPf0HwEA=/"
+    linkType: web
+    description: Amplitude North Star Template Library
 time: ""
 difficulty: hard
 participants:
