@@ -15,7 +15,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/social-contract.jpg
+icon: /images/social-contract.png
 whatIs: >-
   The Social Contract is a simple and effective way to enable team autonomy and
   self accountability for engagements. The Social Contract or Agreement is
