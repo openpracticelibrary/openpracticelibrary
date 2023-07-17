@@ -1,13 +1,13 @@
 ---
-title: Kanban
 templateKey: practice-page
+title: Kanban
 subtitle: Visualized workflow management method to maximize efficiency and
   become more agile.
 date: 2020-09-15T12:02:15.251Z
 authors:
   - rmarting
 mobiusTag: delivery
-icon: /images/kanban-board.png
+icon: /images/kanban.png
 whatIs: >-
   Kanban is a framework used to implement agile software development based in
   the following practices:
