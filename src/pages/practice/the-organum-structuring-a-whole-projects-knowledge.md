@@ -2,8 +2,8 @@
 templateKey: practice-page
 title: The Organum - Structuring a whole Project's Knowledge
 subtitle: A project's wiki can be a very helpful time-saving source of
-  information. Yet, consistantly organizing all the information about a project
-  in order to cut-down search delays is not obvious. Here is a template with key
+  information. Yet, coherently organizing all the information about a project in
+  order to cut-down search delays is not obvious. Here is a template with key
   guidelines.
 date: 2023-07-24T09:27:36.728Z
 authors:
