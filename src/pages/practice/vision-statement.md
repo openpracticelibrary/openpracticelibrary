@@ -14,5 +14,8 @@ whatIs: A﻿ Vision Statement creates a destination where an organization or
 whyDo: T﻿he Vision Statement creates alignment for the organization or
   cross-functional teams to execute to a common overall goal.
 howTo: The more visual the better!
+people: 2+
+time: 1 - 3 Hours
+difficulty: moderate
 participants: []
 ---
