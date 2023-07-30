@@ -67,6 +67,9 @@ resources:
     linkType: video
     description: Fast Company & Dan Heath's "How to Write a Mission Statement That
       Doesn't Suck"
+  - link: https://miro.com/app/board/uXjVObS5aDk=/
+    linkType: web
+    description: Red Hat Miro Board template
 people: "2+ "
 time: 2-4 hours
 difficulty: moderate
