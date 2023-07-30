@@ -61,15 +61,13 @@ howTo: >-
 
 
   *H﻿int: Review the video at the bottom of this practice for additional tips on mission statements.*
-mediaGallery: []
+mediaGallery:
+  - link: https://www.youtube.com/watch?app=desktop&v=zoFKzLf6qSU
 resources:
   - link: https://www.youtube.com/watch?v=LJhG3HZ7b4o
     linkType: video
     description: Fast Company & Dan Heath's "How to Write a Mission Statement That
       Doesn't Suck"
-  - link: https://miro.com/app/board/uXjVObS5aDk=/
-    linkType: web
-    description: Red Hat Miro Board template
 people: "2+ "
 time: 2-4 hours
 difficulty: moderate
