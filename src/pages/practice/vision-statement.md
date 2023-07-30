@@ -17,5 +17,9 @@ howTo: The more visual the better!
 people: 2+
 time: 1 - 3 Hours
 difficulty: moderate
-participants: []
+participants:
+  - Executives
+  - Engagement Sponsors
+  - Department/Line of Business Leaders
+  - and LeadershipTeams
 ---
