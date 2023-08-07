@@ -1,10 +1,7 @@
 ---
 templateKey: practice-page
-title: The Organum - Structuring a whole Project's Knowledge
-subtitle: A project's wiki can be a very helpful time-saving source of
-  information. Yet, coherently organizing all the information about a project in
-  order to cut-down search delays is not obvious. Here is a template with key
-  guidelines.
+title: Organum
+subtitle: Structuring project knowledge to save time and reduce cognitive overloads.
 date: 2023-07-24T09:27:36.728Z
 authors:
   - berhauz
@@ -18,10 +15,10 @@ whatIs: >-
   presentations are also much known. But there's much more, ranging from early
   sketches to specifications, deployment tips, knowledge route maps, training
   materials, test samples, operational procedures, project's organization,
-  meeting notes, formal models, techniques, and so forth. 
+  meeting notes, formal models, development techniques, and so forth.
 
 
-  How can you organize all that knowledge cleanly, and notably using a wiki... so that it would not just be useful to developers and frustrate managers hardly finding the information they seek, or vice-versa ? How so many people with so different information requirements can all be satisfied at the same time?
+  How can you organize all that knowledge cleanly, notably using a wiki... so that it would not just be useful to developers and frustrate managers hardly finding the information they seek, or vice-versa ? How so many people with so different information requirements can all be satisfied at the same time?
 
 
   W﻿iki's with rich **hyperlinked** pages definitely help providing multiple navigation paths into the same information. A good bunch of **tags and keywords** significantly accelerate searches. Yet a wiki is basically organized as a hierarchical set of pages whose structure is also often used to navigate.  
@@ -33,7 +30,7 @@ whyDo: >-
   project. 
 
 
-  Start with a structure that will be sustainable and can cleanly host un-anticipated information categories as the project progresses. Stop wondering where the hell this team (or a colleague) has stored the kind of information you look for with a clean - repeatable - project knowledge structure that can become a common template for all kinds of projects.
+  Start with a structure that will be sustainable and can cleanly host new information categories as the project progresses. Stop wondering where the hell this team (or a colleague) has stored the kind of information you look for. Provide a clean - repeatable - project knowledge structure that can become a common template for all kinds of projects. 
 
 
   Foster considerable time savings when you search info about a project, either when you join it, either when the project is rich and complex and drives ["cognitive overloads"](https://openpracticelibrary.com/practice/cognitive-loadometer/) forcing you to permanently refresh your knowledge to be productive.
@@ -45,9 +42,6 @@ howTo: >-
   information about a project from design to delivery. A simplified [Organum
   ](https://www.praxeme.org/thesaurus/organum/?lang=en)is proposed here that is
   sufficient for 90% of IT projects.  
-
-
-  ![The ORGANUM (PRAXEME)](/images/organum-v2.jpg "Simplified ORGANUM")
 
 
   D﻿O NOT FORGET:
