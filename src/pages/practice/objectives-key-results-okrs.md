@@ -11,7 +11,7 @@ tags:
   - measure
   - culture
 mobiusTag: discovery
-icon: https://t3.ftcdn.net/jpg/02/58/64/90/360_F_258649099_fBA4ybf1aIc1tKpCi4RBwkILjKomHEpn.jpg
+icon: /images/okr-triangle-1-.png
 whatIs: >-
   OKRs are a collaborative goal-setting framework for organisations, teams and
   individuals to set challenging, ambitious goals with measurable results. 
