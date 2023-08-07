@@ -7,7 +7,9 @@ date: 2023-08-07T14:08:25.440Z
 authors:
   - Bella Bardswell
 tags:
-  - methods
+  - value
+  - measure
+  - culture
 mobiusTag: discovery
 icon: https://t3.ftcdn.net/jpg/02/58/64/90/360_F_258649099_fBA4ybf1aIc1tKpCi4RBwkILjKomHEpn.jpg
 whatIs: >-
