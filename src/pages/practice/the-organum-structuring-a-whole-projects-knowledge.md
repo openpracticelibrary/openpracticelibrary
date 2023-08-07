@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Organum
+title: The Organum
 subtitle: Structuring project knowledge to save time and reduce cognitive overloads.
 date: 2023-07-24T09:27:36.728Z
 authors:
@@ -35,16 +35,52 @@ whyDo: >-
 
   Foster considerable time savings when you search info about a project, either when you join it, either when the project is rich and complex and drives ["cognitive overloads"](https://openpracticelibrary.com/practice/cognitive-loadometer/) forcing you to permanently refresh your knowledge to be productive.
 howTo: >-
-  F﻿ollow the "Organum" structure illustrated here as source of inspiration for
-  adding pages to your project's wiki. The structure is borrowed from the
-  methodology ["Praxeme"](https://en.wikipedia.org/wiki/Praxeme) whose
+  F﻿ollow the "Organum" structure illustrated further down as source of
+  inspiration for adding pages to your project's wiki. The structure is borrowed
+  from the methodology [Praxeme](https://en.wikipedia.org/wiki/Praxeme) whose
   *Enterprise System Topology* is supported by means to organize all the
-  information about a project from design to delivery. A simplified [Organum
-  ](https://www.praxeme.org/thesaurus/organum/?lang=en)is proposed here that is
-  sufficient for 90% of IT projects.  
+  information about a project from design to delivery. A simplified
+  [Organum](https://www.praxeme.org/thesaurus/organum/?lang=en) is proposed here
+  that is sufficient for 90% of IT projects.
 
 
-  D﻿O NOT FORGET:
+  ## G﻿et Started:
+
+
+  *(﻿follow the illustrated mind map)*
+
+
+  A﻿t the root, your project's home page would typically provide a short project summary, a who's who contact list, summarize milestones and progress, a picturesque sketch or architecture diagram, and provide quick links (recent activities, FAQ, route maps for different profiles, abbreviations, ...)
+
+
+  B﻿elow, we can organise knowledge in four categories:
+
+
+  1. a﻿ "Repository" of all external source materials: client specs / initial statement / contract, links to 3rd party products or libraries used in the project, docs, test data samples, standards, regulations, methods, tips, market data, technologies, patterns, etc.
+
+  2. a﻿ "Products" section hosting all project's productions from the vision/strategy to (links to) code, including, sketches, models, API design notes and links to API specs, coding practices, naming rules, available tools, etc.
+
+  3. a﻿n "Operations" section holding all the bits of knowledge necessary to configure, build, test, deploy, and operate the application(s). Here we document the staging environments and provide manuals / tutorials for administrators, developers, testers, operators, and end users. 
+
+  4. a﻿n "Organisation" describing who does what (project organisation and management), why (decisions, meeting notes, quality plan, risks and mitigation), when (updated plans, time line) and resources / budget. This section will also archive all the project's presentations to the team or stakeholders / clients. 
+
+
+  I﻿n other words:
+
+
+  1. a﻿ll the knowledge you shall bring along before starting, mostly as commented pointers, be it internal (e.g. the Enterprise Continuum of TOGAF) or external / generic;
+
+  2. t﻿he "what" (current): up-to-date descriptions, specifications, statements;
+
+  3. t﻿he "how" (current): up-to-date procedures and processes;
+
+  4. t﻿he "who" "why" and "when" (with history), with all collaboration (meeting notes) and communication activities (presentations).
+
+
+  C﻿learly, there will be many hyperlinks between contents in different sections and to external platforms / information sources.
+
+
+  ## Reminder:
 
 
   * T﻿he first purpose of a knowledge repository is to **save time**: finding the right information in minimum time.
@@ -58,6 +94,7 @@ howTo: >-
   * A﻿ **link** to the information is as useful as the information itself; henceforth avoid copying and duplicating but link it.
 
   * The Organum is not about a project wiki alone, but about everything that concerns a software project. Part of this global information is better hosted by specialized servers for source control and source code documentation (e.g. GitHub / GitLab), project management (e.g. JIRA), bug tracking, modelling (e.g. Modelio, Enterprise Architect, Mega), and of course API Management (e.g. Swagger, Postman, etc.). Do not duplicate this information but link it abundantly. The project's wiki will become the entry point to everything about a project.
-mediaGallery: []
+mediaGallery:
+  - link: static/images/organum_bh2.jpg
 participants: []
 ---
