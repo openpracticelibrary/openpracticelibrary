@@ -2,7 +2,7 @@
 templateKey: practice-page
 title: The Organum
 subtitle: Structuring project knowledge to save time and reduce cognitive overloads.
-date: 2023-07-24T09:27:36.728Z
+date: 2023-08-07T10:39:47.504Z
 authors:
   - berhauz
 tags:
