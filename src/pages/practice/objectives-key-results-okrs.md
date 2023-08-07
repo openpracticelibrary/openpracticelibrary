@@ -5,7 +5,7 @@ subtitle: Align people around a shared ambitious goal and then maintain focus
   through measuring progress regularly
 date: 2023-08-07T14:08:25.440Z
 authors:
-  - Bella Bardswell
+  - stellabella2022
 tags:
   - value
   - measure
