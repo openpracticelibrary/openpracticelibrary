@@ -95,6 +95,6 @@ howTo: >-
 
   * The Organum is not about a project wiki alone, but about everything that concerns a software project. Part of this global information is better hosted by specialized servers for source control and source code documentation (e.g. GitHub / GitLab), project management (e.g. JIRA), bug tracking, modelling (e.g. Modelio, Enterprise Architect, Mega), and of course API Management (e.g. Swagger, Postman, etc.). Do not duplicate this information but link it abundantly. The project's wiki will become the entry point to everything about a project.
 mediaGallery:
-  - link: static/images/organum_bh2.jpg
+  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/organum_bh2.jpg
 participants: []
 ---
