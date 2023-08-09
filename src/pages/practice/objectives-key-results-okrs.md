@@ -114,7 +114,7 @@ howTo: >-
 
   N﻿B - OKRs are simple but hard. Consider getting support from someone in your team with experince, or an external expert.
 mediaGallery:
-  - link: https://drive.google.com/file/d/1C0QGe6mnN9Ndj7McgmnXZU9XH7CzwVWZ/view?usp=sharing
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/Stellafai%20KR%20rules.png
 resources:
   - link: https://www.whatmatters.com/
     description: The website of the godfather of OKRs
