@@ -43,7 +43,7 @@ howTo: >-
   ## Step 1
 
 
-  G﻿et all people in the team together on a virtual call or in a room. S﻿tart by restating your mission and vision. (If you don't know this, you need to figure it out first, or get enough clarity that you're all pointing in roughly the same direction!)
+  G﻿et all people in the team together on a virtual call or in a room. S﻿tart by restating your mission and vision. (If you don't know this, you need to figure it out first, or get neough clarity that you're all pointing in roughly the same direction!)
 
 
   ## Step 2
@@ -52,7 +52,7 @@ howTo: >-
   Start by thinking about what you want to acheive as a team in the medium to long term. Each person writes it down on a post-it alone. Then shares back as they put post-it on a virtual or real wall. Then dot vote and iterate to your top 3-5.
 
 
-  (﻿See [1-2-4-All Practice](https://openpracticelibrary.com/practice/1-2-4-all/)
+  (﻿See [1-2-4-All Practice](https://openpracticelibrary.com/practice/1-2-4-all/) 
 
 
   ## Step 3
@@ -70,15 +70,15 @@ howTo: >-
 
   3. Ambitious but Achievable - Objectives should be ambitious and challenging but still achievable
 
-  4. Qualitative - Describe the goal or problem. Numbers come later with KRs.
+  4. Qualitative - Describe the goal or problem. Numbers come later with KRs 
 
-  5. Time Bound - Set a target date so things don’t drift and you know if you’re on track.
+  5. Time Bound - Set a target date so things don’t drift and you know if you’re on track
 
   6. Clear and Memorable - Remove the jargon. Expressed so all can understand
 
   7. Limit to 5 - To enable focus on the highest priorities and keep tracking effort sensible
 
-  8. Owned by Team - The team who are part of defining their Objectives will be motivated and take accountability
+  8. Owned by team - Team who are part of defining their Objectives will be motivated and take accountability
 
   9. Support your company mission - It should be clear and understood how Objectives support your organisation’s mission
 
@@ -94,13 +94,13 @@ howTo: >-
 
   1. Q﻿uantitative measurement of value - Measure desired outcomes and impact, i.e. results, not tasks completed.  Consider how your stakeholders/customers/users measure success. 
 
-  2. Necessary and Sufficient - Taken together, your KRs should be necessary and sufficient to achieve the related Objective. Mix leading and lagging indicators.
+  2. Necessary and Sufficient - Taken together, your KRs should be necessary and sufficient to achieve the related Objective. Mix leading and lagging indicators
 
-  3. Stretch (within reason) - Each KR should be a challenge but not so difficult that it becomes demotivating. The rule of thumb is that over time, you should average 50-70%.
+  3. Stretch (within reason) - Each KR should be a challenge but not so difficult that it becomes demotivating. Rule of thumb is that over time, you should average 50-70%.
 
   4. Specific & Measurable - There should be no room for debate on how to score a KR. This will help surface assumptions and misalignments.
 
-  5. Limit to 5 - To enable focus on the highest priorities and keep tracking efforts sensible.
+  5. Limit to 5 - To enable focus on the highest priorities and keep tracking efforts sensible
 
   6. Owned by team - Teams should define their own Key Results to create a culture and environment where people are empowered to do amazing innovative work.
 
@@ -110,7 +110,9 @@ howTo: >-
   P﻿S - You can also use AI tools to help you generate ideas for KRs, like [this one](https://www.stellafai.com/product-page/coaching-and-ai).
 
 
-  N﻿B - OKRs are simple but hard. Consider getting support from someone in your team with experince or an external expert.
+
+
+  N﻿B - OKRs are simple but hard. Consider getting support from someone in your team with experince, or an external expert.
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/Stellafai%20KR%20rules.png
 resources:
