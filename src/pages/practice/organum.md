@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
-title: Organum
-subtitle: Structuring project knowledge to save time and reduce cognitive overloads.
+title: The Organum
+subtitle: Structuring project knowledge to save time and reduce cognitive overload.
 date: 2023-08-10T06:21:03.759Z
 authors:
   - berhauz
@@ -89,13 +89,13 @@ howTo: >-
 
   * N﻿ever forget to **tag** wiki pages with keywords, and provide a cloud of tags elsewhere
 
-  * N﻿ever forget that you wiki bears a complete history of all pages & attachment updates, built-in! so do not lose time maintaining inventories of versions/changes but for true chronological stuff like meeting notes, major releases (past and ahead) or key decisions.
+  * N﻿ever forget that your wiki bears a complete history of all pages & attachment updates, built-in! so do not lose time maintaining inventories of versions/changes but for true chronological stuff like meeting notes, major releases (past and ahead) or key decisions.
 
-  * H﻿yperlink your content. The page hierarchy is only your storage structure. Navigation is most efficient via hyperlinks that help navigate in all directions, not only top-down.
+  * **H﻿yperlink** your content. The page hierarchy is only your storage structure. Navigation is most efficient via hyperlinks that help navigate in all directions, not only top-down.
 
   * A﻿ **link** to the information is as useful as the information itself; henceforth avoid copying and duplicating but link it.
 
-  * The Organum is not about a project wiki alone, but about everything that concerns a software project. Part of this global information is better hosted by specialized servers for source control and source code documentation (e.g. GitHub / GitLab), project management (e.g. JIRA), bug tracking, modelling (e.g. Modelio, Enterprise Architect, Mega), and of course API Management (e.g. Swagger, Postman, etc.). Do not duplicate this information but link it abundantly. The project's wiki will become the entry point to everything about a project.
+  * The Organum is not about a project wiki alone, but about everything that concerns a software project. Part of this global information is better hosted by specialized servers for source control and source code documentation (e.g. GitHub / GitLab), project management (e.g. JIRA), bug tracking, modelling (e.g. Modelio, Enterprise Architect, Mega), and of course API Management (e.g. Swagger, Postman, and many vendors). Do not duplicate this information but link it abundantly. The project's wiki will become the entry point to everything about a project.
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/main/static/images/organum_bh2.jpg
 participants: []
