@@ -1,11 +1,12 @@
 ---
 templateKey: practice-page
 title: Team Identity
-subtitle: Converting groups of individuals inot high performing teams
+subtitle: Converting groups of individuals into high performing teams
 date: 2023-02-20T16:55:36.396Z
 authors:
   - rmarting
   - jtudelag
+  - spier
 tags:
   - culture
 mobiusTag: foundation
