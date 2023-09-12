@@ -43,5 +43,12 @@ howTo: >-
   * O﻿nce you complete the Stakeholder Mapping, hang it in a place where the team, department, business unit, or organization can see it at all times. This is not a static document. It's a status board that shows the current state, and it needs to be updated regularly.
 
   * T﻿he next step is to create Motivation Maps for each of the stakeholders identified to be in the interactions that you want to explore.
+resources:
+  - link: https://mobiusloop.com/kit/
+    linkType: web
+    description: Mobius Outcome Delivery
+  - link: https://openpracticelibrary.com/practice/motivation-mapping/
+    linkType: web
+    description: User Story Mapping exercise on Open Practice Library
 participants: []
 ---
