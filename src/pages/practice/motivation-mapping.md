@@ -69,8 +69,8 @@ howTo: "* Divide a canvas into 5 sections. Two boxes on top, three boxes below.
   helps us understand what products or services should be provided for our
   customers so that our own outcomes can be met at the same time."
 mediaGallery:
-  - link: https://lh3.googleusercontent.com/pw/AM-JKLXK1J1FSYY-ERZA3cbuLx1jdLHF3qcGqvbkZ7D_MkNVoVN-t4EkrUYBMui-havcq-wFxuoM4u-kDDdnf49PHq587YwnWa1eZvnC4pBo6gILdI-F0u1WrBMqkRnZJlwqiyuzMViOEZmqmkjFaJ9HgBom=w1555-h876-no
-  - link: https://lh3.googleusercontent.com/pw/AM-JKLXX6Avym4qrpeYwg57go24I_KyV8wlE6Y4kjTORX26p5LXVfnDZftbZO6eDy2OsYe-pkXM75mhUBGIX30FVncavaLPn7xgh7jQK8UrVsMmyVbtItrDgS3ElM4EwBYTJekm8DeITgJfpcskgspvcO9qA=w1103-h624-no
+  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/dfe979c10d5f092d05ae84ee831c50134df6d666/static/images/motivationmapping.png?raw=true
+  - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/motivationmapexample.png?raw=true
 resources:
   - link: https://mobiusloop.com/kit/
     linkType: web
