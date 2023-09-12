@@ -65,8 +65,8 @@ howTo: "* Divide a canvas into 5 sections. Two boxes on top, three boxes below.
   * Start by creating a Motivation Map for our own organization, then work on
   a Motivation Map for the customer or other business clients. \r
 
-  * Ensure that the customer's Outcomes are linked to our own Target Outcomes.
-  This helps us understand what products or services should be provided for our
+  * Ensure that the customer's outcomes are linked to our own outcomes. This
+  helps us understand what products or services should be provided for our
   customers so that our own outcomes can be met at the same time."
 mediaGallery:
   - link: https://lh3.googleusercontent.com/pw/AM-JKLXK1J1FSYY-ERZA3cbuLx1jdLHF3qcGqvbkZ7D_MkNVoVN-t4EkrUYBMui-havcq-wFxuoM4u-kDDdnf49PHq587YwnWa1eZvnC4pBo6gILdI-F0u1WrBMqkRnZJlwqiyuzMViOEZmqmkjFaJ9HgBom=w1555-h876-no
