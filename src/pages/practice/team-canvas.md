@@ -42,11 +42,9 @@ whyDo: >-
 
   Using Team Canvas ultimately leads to improved collaboration, better decision-making, and successful project outcomes.
 howTo: >-
-  
-
   1. **Step 1: Access the Team Canvas Template**
 
-     1. Log in to your Team Canvas account.
+     1. Get a copy of the Team Canvas template, or create one yourself.
      2. Create a new canvas or select an existing template to work with.
 
      **Step 2: Familiarize Yourself with Sections**
@@ -115,10 +113,17 @@ howTo: >-
      By following these steps, you can effectively populate a complete Team Canvas template with your team, fostering collaboration, alignment, and successful project execution.
 mediaGallery:
   - link: https://www.theteamcanvas.com/assets/2-canvases.png
+  - link: https://www.theteamcanvas.com/assets/team-canvas.png
 resources:
   - link: https://www.theteamcanvas.com/
     linkType: web
     description: Team Canvas Official Site
+  - link: https://miro.com/miroverse/the-team-canvas/
+    linkType: web
+    description: Miro Template
+  - link: https://www.sessionlab.com/templates/team-canvas/
+    linkType: web
+    description: Session Lab
 time: 1.5 Hours
 difficulty: moderate
 participants:
