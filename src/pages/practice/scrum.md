@@ -57,7 +57,7 @@ howTo: >-
 
   * Sprint Planning: Commit to a set of defined work as a team for the upcoming sprint cycle. The end result is the Sprint Backlog.
 
-  * Daily Stand Up: Daily sync to share common understanding of the goals, coordinate the team effort, report on progress of work, and communicate problems and improvements.
+  * Daily Standup: Daily sync to share common understanding of the goals, coordinate the team effort, report on progress of work, and communicate problems and improvements.
 
   * Sprint Review: Review what was completed during the sprint with all relevant stakeholders to collect feedback.
 
