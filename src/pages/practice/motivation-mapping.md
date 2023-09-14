@@ -10,9 +10,14 @@ tags:
   - value
 mobiusTag: discovery
 icon: /images/motivationmapping.png
-whatIs: Motivation Mapping is an exercise to understand the motivation for
-  ourselves or the customer. We use a canvas divided in 5 sections and identify
-  the persona, context, outcomes, motivations, and obstacles.
+whatIs: >-
+  Motivation Mapping is an exercise to understand the motivation for ourselves
+  or the customer. We use a canvas divided in 5 sections and identify the
+  persona, context, outcomes, motivations, and obstacles.\
+
+  \
+
+  *A﻿ttribution: This practice comes from Gabrielle Benefield's Mobius Navigator Toolkit*
 whyDo: >-
   Motivation Mapping uses a simple canvas to organize the following
 
@@ -72,8 +77,8 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/dfe979c10d5f092d05ae84ee831c50134df6d666/static/images/motivationmapping.png?raw=true
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/motivationmapexample.png?raw=true
 resources:
-  - link: https://mobiusloop.com/kit/
+  - link: https://www.mobiusnavigator.com/toolkit
     linkType: web
-    description: Mobius Toolkit
+    description: Mobius Navigator Toolkit
 participants: []
 ---
