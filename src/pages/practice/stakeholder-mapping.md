@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Stakeholder Mapping
+title: Stakeholder Mapping (Mobius Outcome Delivery)
 subtitle: Who is impacted and has a stake in the game?
 date: 2023-09-12T04:57:25.849Z
 authors:
