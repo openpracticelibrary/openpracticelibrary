@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
 title: Storytelling Framework
-subtitle: Framework to morph your idea into an impactful, emotive story that
-  will resonate with your audience.
+subtitle: Morph ideas into impactful, emotive stories to resonate with your audience.
 date: 2023-08-23T10:51:52.626Z
 authors:
   - thyboz
