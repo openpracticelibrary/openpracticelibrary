@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Motivation Mapping
+title: Motivation Mapping (Mobius Outcome Delivery)
 subtitle: Understanding the motivation
 date: 2021-08-11T06:54:19.420Z
 authors:
