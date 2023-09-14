@@ -1,21 +1,24 @@
 ---
 templateKey: practice-page
 title: Team Canvas
-subtitle: "The objective of the Team Canvas is to provide a structured and
-  visual framework that enables teams to achieve better alignment,
-  collaboration, and productivity. "
+subtitle: Achieve better team alignment, collaboration, and productivity.
 date: 2023-08-17T15:09:14.659Z
 authors:
-  - mromero
+  - moimero
 tags:
   - culture
   - methods
 mobiusTag: foundation
 icon: /images/team-canvas.png
-whatIs: Team Canvas is a collaborative framework that visually outlines roles,
-  goals, rules, and communication strategies within a team. It improves
-  alignment, communication, and productivity by providing a structured format
-  for team members to work together effectively.
+whatIs: >-
+  Team Canvas is a collaborative framework that visually outlines roles, goals,
+  rules, and communication strategies within a team. It improves alignment,
+  communication, and productivity by providing a structured format for team
+  members to work together effectively.\
+
+  \
+
+  *Attribution: I﻿nspired by Alex Osterwalder's Business Model Canvas, the Team canvas was originally created by Alex Ivanov and Mitya Voloshchuk.*
 whyDo: >-
   Using Team Canvas offers several benefits for teams:
 
@@ -110,7 +113,8 @@ howTo: >-
      2. Update roles, goals, and other sections as needed.
 
      By following these steps, you can effectively populate a complete Team Canvas template with your team, fostering collaboration, alignment, and successful project execution.
-mediaGallery: []
+mediaGallery:
+  - link: https://www.theteamcanvas.com/assets/2-canvases.png
 resources:
   - link: https://www.theteamcanvas.com/
     linkType: web
