@@ -51,6 +51,8 @@ howTo: >-
   3. **Ask "Why?" the First Time:** Ask why the problem is happening, but use facts instead of guesses.
 
   4. **Ask "Why?" Four More Times:** For each answer, ask "why?" four more times, based on the last answer.
+mediaGallery:
+  - link: https://www.kattekrab.net/sites/default/files/styles/large/public/5whys.png
 resources:
   - link: https://en.wikipedia.org/wiki/Five_whys
     linkType: web
@@ -59,6 +61,9 @@ resources:
     description: '"5 Whys" Root Cause Analysis: Solving Causes, Not Symptoms (source
       of cover image)'
     linkType: web
+  - link: https://www.kattekrab.net/five-whys
+    linkType: web
+    description: Why go to a hardware store? The Five Whys by KatteKrab
 people: 1+
 difficulty: easy
 participants: []
