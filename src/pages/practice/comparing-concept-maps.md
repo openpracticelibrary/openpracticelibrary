@@ -32,6 +32,8 @@ howTo: >-
 
 
   This exercise is particularly useful for new team members at the end of their second or third week of onboarding, and again at the end of their first quarter.
+mediaGallery:
+  - link: https://openpracticelibrary.com/static/7f740c255055f57d9c2b652cc62bf9b5/2af79/screenshot-2023-09-05-at-6.33.08-am.webp
 people: 3 or more. The meeting moderator may be one of the participants (i.e.,
   may draw a concept map as well).
 time: 5 minutes to draw concept maps, 10-30 minutes to compare depending on team
