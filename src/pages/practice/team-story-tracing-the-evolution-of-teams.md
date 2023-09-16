@@ -1,14 +1,12 @@
 ---
 templateKey: practice-page
-title: Team Story - Tracing the Evolution of Teams
-subtitle: "Based on the Tuckman's Team formation concept, we designed this
-  practise for inclusion in the Open Leadership for Product Teams workshop. This
-  practise "
+title: "Team Story "
+subtitle: Tracing the evolution of your teams.
 date: 2023-07-25T10:52:29.516Z
 authors:
-  - ShabnoorShah
-  - MaryProvinciato
-  - JordiOliveCalderon
+  - shabnoorshah
+  - maryprovinciatto
+  - JordiOlive
 tags:
   - culture
 mobiusTag: foundation
@@ -139,10 +137,7 @@ mediaGallery: []
 resources:
   - link: https://psychsafety.co.uk/psychological-safety-88-tuckmans-model/
     linkType: web
-    description: Tuckman’s Model and Team Longevity in Tom Geraghty's Newletter
-      https://psychsafety.co.uk/ .This article discusses team longevity and
-      Tuckman’s Model. Plus another great piece from Amy Edmondson, research on
-      women in the workplace, and Herbie Hancock playing a wrong chord.
+    description: Tuckman’s Model and Team Longevity - Tom Geraghty
 people: 2+
 time: 30-90 mins (depends on the team size)
 difficulty: hard
