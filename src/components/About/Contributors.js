@@ -16,7 +16,7 @@ const Contributors = () => (
         <Grid item>
           <ContentCircle>
             <Typography variant="h1" component="h5" color="primary">
-              200
+              207
             </Typography>
             <Typography variant="h6" align="center">
               Product Lifecycle Practices
