@@ -28,7 +28,7 @@ howTo: >-
   organization or engagement must realize in a specific time horizon.aaaaa
 
 
-  Interviews:
+  **Interviews:**
 
 
   During interviews with sponsors for an engagement or executives of an entity, the interviewer should focus on main concepts in crafting a Vision statement. Those concepts are addressed via the questions listed below:
@@ -47,9 +47,7 @@ howTo: >-
   From each of the interviews, the information should be aggregated and synthesized into one sentence to be reviewed with sponsors or executives. The Vision statement should incorporate all three components mentioned above.  Depending on the number of sponsors or executives, the review could be handled via email or a short meeting. If there are several participants, a workshop approach is most likely a better option. Results from an interview process with multiple interviewees can be used as the initial draft(s) of the Vision statement.
 
 
-
-
-  Practice/Workshop:
+  **Practice/Workshop:**
 
 
   A﻿ vision practice or workshop follows a similar approach to the interviews. All of the main concept questions are addressed as a group. There are a couple of ways to approach this workshop.
@@ -77,9 +75,7 @@ howTo: >-
      * Does the final Vision statement invoke emotion?
      * Would you wear the Vision statement on a T-shirt?
 
-
-
-  Vision Statement Examples:
+  **Vision Statement Examples:**
 
 
   1. “To have one million customers online by the end of the decade” - Wells Fargo
