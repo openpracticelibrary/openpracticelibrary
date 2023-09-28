@@ -49,6 +49,36 @@ howTo: >-
 
 
 
+  Practice/Workshop:
+
+
+  A﻿ vision practice or workshop follows a similar approach to the interviews. All of the main concept questions are addressed as a group. There are a couple of ways to approach this workshop.
+
+
+  1. This approach is good for a small number of executives/leaders.
+
+  2. (40 min) Using silent collaboration, ask the attendees each of the key questions. Give individuals the allotted time to write down their answers and post all answers for each question in place where everyone can view them.
+
+     * Ask: “Where does the organization we want to compete?” & “What is our differentiator?” (15 min)
+     * Ask: “How do we know when the Vision is realized?” & “What is the overall measure of success for the Vision?” (15 min)
+     * Ask: “When do we need to realize the Vision?” (10 min)
+  3. (10 min) Give attendees some time to read each others’ answers silently.
+
+  4. (15 min) Have each individual craft their own personal Vision statement based on all the information shared by all team members.  Once again, remind everyone that the statement must have all three components and be concise (1 sentence).
+
+  5. (30 min) Go around the group and have every individual share their statement.  Note which phrases are inspirational or invoke emotion.
+
+  6. (20-40 min) Keep reviewing and iterating until the group reaches a consensus.
+
+  7. (10 min) Once the final vision statement is agreed to, try asking these questions as a litmus test:
+
+     * Does the Vision statement have a clear 'Finish Line'?
+     * Do associates of the organization see how they contribute to the realization of the vision?
+     * Does the final Vision statement invoke emotion?
+     * Would you wear the Vision statement on a T-shirt?
+
+
+
   Vision Statement Examples:
 
 
