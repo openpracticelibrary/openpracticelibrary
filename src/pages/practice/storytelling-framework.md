@@ -5,7 +5,7 @@ subtitle: Morph ideas into impactful, emotive stories to resonate with your audi
 date: 2023-08-23T10:51:52.626Z
 authors:
   - thyboz
-  - bridmackie
+  - bridmacks
 tags:
   - methods
 mobiusTag: foundation
