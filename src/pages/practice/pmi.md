@@ -26,10 +26,13 @@ howTo: >-
 
   The idea is to focus most on the interesting points, rather than dwell on the positives and negatives.  It's also an opportunity to compare perspectives.  One person may feel an event, or activity was interesting, whilst another found it positive etc.
 mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/PMI-peace-retro.png
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Plus%20Minus%20Interesting.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/PMI2.gif?raw=true
-  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/PMI-peace-retro.png
 resources:
+  - link: https://miro.com/miroverse/pmi-peace-retro/
+    linkType: web
+    description: Miro Template - PMI Peace Retro
   - link: https://www.virtuallibrary.info/pmi-plus-minus-interesting-strategy.html
     linkType: web
     description: Plus Minus Interesting Strategy
@@ -42,9 +45,6 @@ resources:
   - link: https://www.youtube.com/watch?v=D4YUk2io5-4
     description: Plus ..Minus ..Interesting - Dubai Water & Electricity Innovation Toolkit
     linkType: video
-  - link: https://miro.com/miroverse/pmi-peace-retro/
-    linkType: web
-    description: Miro Template - PMI Peace Retro
 difficulty: easy
 participants:
   - The Team
