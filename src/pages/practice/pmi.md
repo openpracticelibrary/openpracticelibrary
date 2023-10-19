@@ -28,6 +28,7 @@ howTo: >-
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Plus%20Minus%20Interesting.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/PMI2.gif?raw=true
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/PMI-peace-retro.png
 resources:
   - link: https://www.virtuallibrary.info/pmi-plus-minus-interesting-strategy.html
     linkType: web
@@ -41,6 +42,9 @@ resources:
   - link: https://www.youtube.com/watch?v=D4YUk2io5-4
     description: Plus ..Minus ..Interesting - Dubai Water & Electricity Innovation Toolkit
     linkType: video
+  - link: https://miro.com/miroverse/pmi-peace-retro/
+    linkType: web
+    description: Miro Template - PMI Peace Retro
 difficulty: easy
 participants:
   - The Team
