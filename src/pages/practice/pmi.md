@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Plus, Minus, Interesting (PMI +-?)
+title: Plus, Minus, Interesting (PMI +-?) Retro
 subtitle: A quick team retrospective, or way to evaluate ideas
 date: 2019-05-02T07:12:57.079Z
 authors:
