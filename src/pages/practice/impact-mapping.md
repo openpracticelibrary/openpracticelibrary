@@ -26,7 +26,7 @@ whatIs: >-
 
   * Some sort of prioritization of scope and/or impacts
 
-  * A physical or digital diagram with the above information
+  * A physical or digital diagram with the above information.
 whyDo: >-
   * Most planning activities revolve around juggling a "shopping list of
   features," as Gojko calls them. Even though the features are delivered, often
