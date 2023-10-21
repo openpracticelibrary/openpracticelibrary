@@ -71,13 +71,13 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Alternative%20Worlds.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Alternative%20Worlds%202.png?raw=true
 resources:
-  - link: www.luma-institute.com
-    linkType: web
-    description: Luma Institute
   - link: https://podcasters.spotify.com/pod/show/openpracticelibrary/episodes/Alternative-Worlds-w-Ben-Tinker---and-what-the-heck-is-a-Graphic-Facilitator-e17o2bf
     linkType: podcast
     description: Alternative Worlds interview with Ben Tinker. Hosted by Jerry
       Becker and Matt Takane.
+  - link: https://www.luma-institute.com/alternative-worlds/
+    linkType: web
+    description: Alternative Worlds - Luma Institute
 people: 1-10+
 time: 15-60 min
 difficulty: easy

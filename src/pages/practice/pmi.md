@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Plus, Minus, Interesting (PMI +-?)
+title: Plus, Minus, Interesting (PMI +-?) Retro
 subtitle: A quick team retrospective, or way to evaluate ideas
 date: 2019-05-02T07:12:57.079Z
 authors:
@@ -26,9 +26,13 @@ howTo: >-
 
   The idea is to focus most on the interesting points, rather than dwell on the positives and negatives.  It's also an opportunity to compare perspectives.  One person may feel an event, or activity was interesting, whilst another found it positive etc.
 mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/PMI-peace-retro.png
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Plus%20Minus%20Interesting.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/PMI2.gif?raw=true
 resources:
+  - link: https://miro.com/miroverse/pmi-peace-retro/
+    linkType: web
+    description: Miro Template - PMI Peace Retro
   - link: https://www.virtuallibrary.info/pmi-plus-minus-interesting-strategy.html
     linkType: web
     description: Plus Minus Interesting Strategy
