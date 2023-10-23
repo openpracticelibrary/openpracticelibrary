@@ -12,7 +12,7 @@ mobiusTag: discovery
 icon: /images/opl-tt-ish.png
 whatIs: >-
   Independent Service Heuristics (ISH) is a set of questions teams can use to
-  find where set team and software boundaries that will enable Fast Flow of
+  find where to set team and software boundaries that will enable Fast Flow of
   value. T﻿his technique was invented by the authors of *Team Topologies*,
   Matthew Skelton and Manuel Pais, and subsequently refined by other members of
   the wider Domain Driven Design community.
