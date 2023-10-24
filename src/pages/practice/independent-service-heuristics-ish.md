@@ -9,7 +9,7 @@ authors:
   - manupaisable
   - kattekrab
 mobiusTag: discovery
-icon: /images/opl-tt-ish.png
+icon: /images/opl-tt-ish2.png
 whatIs: >-
   Independent Service Heuristics (ISH) is a set of questions teams can use to
   find where to set team and software boundaries that will enable Fast Flow of
