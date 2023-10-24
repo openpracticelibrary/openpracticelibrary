@@ -26,11 +26,7 @@ whyDo: >-
   T﻿his practice helps teams to get started and avoid analysis paralysis by using a series of questions to help identify where to focus attention, or quickly decide an area of focus is not suitable for further discovery after all.
 
 
-  > "When designing organizations for fast flow of change, we need to find effective boundaries between different streams of change… A lightweight intermediate approach is to ask "could this thing be run as a cloud-hosted (SaaS) service or product?
-
-  >
-
-  > The ISH approach covers many typical situations in modern software but not all. It's designed to stimulate conversation and provide a frame for thinking, not as a perfect "catch-all" tool."
+  > "When designing organizations for fast flow of change, we need to find effective boundaries between different streams of change… The ISH approach covers many typical situations in modern software but not all. It's designed to stimulate conversation and provide a frame for thinking, not as a perfect "catch-all" tool."
 howTo: >-
   S﻿tart by asking “Could this thing be run as a cloud-hosted (SaaS) service or
   product?”
