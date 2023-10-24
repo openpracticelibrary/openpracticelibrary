@@ -27,6 +27,9 @@ whyDo: >-
 
 
   > "When designing organizations for fast flow of change, we need to find effective boundaries between different streams of change… The ISH approach covers many typical situations in modern software but not all. It's designed to stimulate conversation and provide a frame for thinking, not as a perfect "catch-all" tool."
+
+
+  I﻿SH is a good way to enable people with a range of skills and backgrounds to have meaningful conversations, and create alignment across organisational boundaries.
 howTo: >-
   S﻿tart by asking “Could this thing be run as a cloud-hosted (SaaS) service or
   product?”
@@ -95,6 +98,8 @@ howTo: >-
 
       * Does this thing provide discrete value in a well-defined sphere of execution?
       * Can the team define their own roadmap based on what they discover is best for the product and its users (so that the team is not driven by the requirements and priorities of other teams)?
+
+  Answer these questions for each of the candidate streams you have identified. The more 'yes' or 'maybe' answers a possible stream has, the greater the chance that you have found a good candidate for being a separate stream of change.
 mediaGallery:
   - link: https://www.youtube.com/watch?v=q8hwkDyL6Zs
 resources:
