@@ -8,7 +8,7 @@ authors:
 mobiusTag: delivery
 icon: /images/scrum.png
 whatIs: Scrum is a framework that embodies Agile and makes the principles a
-  reality through a group of practices. It is algo, by far, the most popular
+  reality through a group of practices. It is also, by far, the most popular
   Agile framework. It’s designed to help teams work tougher more effectively and
   efficiently, by providing a set of roles, events, and artifacts that
   facilitate collaboration and continuous improvement.
