@@ -25,15 +25,17 @@ whatIs: >-
 
   * End-to-end tests
 
-  * C﻿onfigurations and policy checks
+  * Configurations and policy checks
 
   * Security tests (dependencies, vulnerabilities, and pen tests)
 whyDo: >-
   * ﻿Improved quality: Applying patterns like Test-Driven Development or
-  Behavior-Driven Development drives up shared understanding﻿ Increase code
+  Behavior-Driven Development drives up shared understanding Increase code
   quality.
 
-  * Deliver reliably at speed: As features are produced, you can confidently release without a large manual regrestion each time.﻿ Fewer bottlenecks: Without automated tests, queues form in front of testers.
+  * Deliver reliably at speed: As features are produced, you can confidently release without a large manual registration each time.﻿ 
+
+  * Fewer bottlenecks: Without automated tests, queues form in front of testers.
 
   * Faster feedback: Identifying earlier any potential failure before promote changes into production environments.
 
