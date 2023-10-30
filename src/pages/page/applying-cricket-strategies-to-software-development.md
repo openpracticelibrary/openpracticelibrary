@@ -14,6 +14,8 @@ In this article, we'll explore how the practices of cricket teams can be harness
 
 So, as we follow our favorite cricket teams and players during this World Cup season, let's also set our sights on the lessons they can teach us about teamwork, communication, adaptability, and more. The skills and strategies employed by international cricket teams are more than just sporting tactics; they are a playbook for success that transcends boundaries and industries, including the dynamic world of software development. Join us as we explore this exciting cross-pollination of ideas and practices.
 
+![](/images/bat.png)
+
 1. ### **Clear Roles and Responsibilities**
 
 > In cricket, every player knows their role – be it a batsman, bowler, or fielder. They know their positions and responsibilities on the field. Team discussions and strategies are centered around individual roles and contributions. The coach and captain reinforce player roles and provide feedback to ensure everyone understands and accepts their responsibilities. Players engage in role-specific training, fitness, and skill development sessions.
@@ -112,7 +114,7 @@ Cricketers, like Steve Smith, work on refining their techniques even after achie
 >
 > Time management is equally crucial in software development. Software development teams should have effective time management strategies, including setting sprint goals and managing workloads. Effective project scheduling, time tracking, and meeting deadlines are critical aspects of successful project management.
 
-
+![](/images/bowl.png)
 
 In conclusion, the strategies and practices employed by cricket teams can serve as a valuable source of inspiration for software development teams. By adopting these principles, software development teams can enhance their performance, improve collaboration, and ultimately achieve greater success. So, let's borrow a page from the world of cricket and apply these winning strategies to code!
 
