@@ -50,13 +50,11 @@ So, as we follow our favorite cricket teams and players during this World Cup se
 
 5. **Continuous Improvement**
 
-Cricketers continuously improve their techniques even after achieving success. Post-match analysis helps identify areas for improvement. Regular team meetings and video analysis sessions are conducted. Coaches provide feedback and plan practice sessions. Players work on weaknesses, fitness, and skill enhancement during breaks between matches.
-
-Software developers, like their cricket counterparts, should continuously refine their coding skills and stay updated on best practices.
-
-Cricket teams constantly analyze their performance to identify areas for improvement. Software development teams should adopt a culture of continuous improvement by conducting regular retrospectives and post-project reviews.
-
-Cricketers, like Steve Smith, work on refining their techniques even after achieving success. Software developers can continuously improve by refining their coding skills and staying updated on best practices. A culture of continuous improvement is crucial. Regular retrospectives can help identify areas for improvement and implement changes in subsequent iterations.
+> Cricketers continuously improve their techniques even after achieving success. Post-match analysis helps identify areas for improvement. Regular team meetings and video analysis sessions are conducted. Coaches provide feedback and plan practice sessions. Players work on weaknesses, fitness, and skill enhancement during breaks between matches.
+>
+> Software developers, like their cricket counterparts, should continuously refine their coding skills and stay updated on best practices. Software development teams should adopt a culture of continuous improvement by conducting regular retrospectives and post-project reviews.
+>
+> Cricketers, like Steve Smith, work on refining their techniques even after achieving success. A culture of continuous improvement is crucial. Regular retrospectives can help identify areas for improvement and implement changes in subsequent iterations.
 
 6. ### Teamwork and Collaboration
 
