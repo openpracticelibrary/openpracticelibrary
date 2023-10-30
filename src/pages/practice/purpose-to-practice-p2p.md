@@ -175,6 +175,13 @@ resources:
   - link: https://vimeo.com/364868276
     linkType: video
     description: About liberating Structures
+  - link: https://www.liberatingstructures.com/ls/
+    description: "Liberating Structures Menu. Five conventional structures guide the
+      way we organize routine interactions and how groups work together:
+      presentations, managed discussions, open discussions, status reports and
+      brainstorm sessions. Liberating Structures add 33 more options to the big
+      five conventional approaches."
+    linkType: web
 people: 2+
 difficulty: moderate
 participants:
