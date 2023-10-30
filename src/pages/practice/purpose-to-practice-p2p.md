@@ -1,10 +1,9 @@
 ---
 templateKey: practice-page
 title: "Purpose-To-Practice (P2P) "
-subtitle: enables stakeholders to collaboratively shape the success of their
-  initiative. By co-creating a shared purpose, participants align individual and
-  community significance. Customized elements like principles, participants,
-  structure, and practices drive adaptive organization and scalability.
+subtitle: To enables stakeholders to collaboratively shape the success of their
+  initiative.  Customized elements like principles, participants, structure, and
+  practices drive adaptive organization and scalability.
 date: 2023-10-30T11:14:03.685Z
 authors:
   - Shabnoor Shah
