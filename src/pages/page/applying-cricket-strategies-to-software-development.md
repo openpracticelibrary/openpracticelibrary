@@ -6,6 +6,8 @@ date: 2023-10-30T16:11:39.911Z
 ---
 <!--StartFragment-->
 
+![](/images/stumps.png)
+
 While we are in the midst of the Cricket World Cup 2023, it's worth noting that there's more to learn from this sport than just the thrill of the game itself. The best practices and principles that international cricket teams employ can serve as a source of inspiration and guidance for endeavors far beyond the cricket pitch. Specifically, we're talking about the world of software development.
 
 In this article, we'll explore how the practices of cricket teams can be harnessed to elevate the performance of software development teams. Just as cricketers aim for boundaries and wickets, software developers aim for clean, efficient code and project success. By drawing parallels between these two seemingly different domains, we'll uncover valuable insights and strategies that can benefit software development teams in their quest for excellence.
