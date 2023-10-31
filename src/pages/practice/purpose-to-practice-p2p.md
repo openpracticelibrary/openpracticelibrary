@@ -165,13 +165,5 @@ resources:
     linkType: web
 people: 2+
 difficulty: moderate
-participants:
-  - Participants  Who must be included to achieve our purpose   Core group
-    members (those to take responsibility for organizing activities) A larger
-    community of LS users (local
-  - regional
-  - national
-  - international users that participate in activities) Novices and new users
-    (people invited to join activities by LS users) Influential experts and
-    celebrity leaders not actively using LS
+participants: []
 ---
