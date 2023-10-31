@@ -1,12 +1,11 @@
 ---
 templateKey: practice-page
-title: "Purpose-To-Practice (P2P) "
-subtitle: To enables stakeholders to collaboratively shape the success of their
-  initiative.  Customized elements like principles, participants, structure, and
-  practices drive adaptive organization and scalability.
+title: "Purpose to practice (P2P) "
+subtitle: "Enables stakeholders to collaboratively shape the success of their
+  initiative. "
 date: 2023-10-30T11:14:03.685Z
 authors:
-  - Shabnoor Shah
+  - shabnoorshah
 tags:
   - ideate
   - culture
@@ -25,12 +24,10 @@ whatIs: >-
   **Attribution**: Liberating Structure developed by Henri Lipmanowicz and Keith McCandless. Inspired by Dee Hock (see his book *Birth of the Chaordic Age*).
 
 
-  V﻿isit : https://www.liberatingstructures.com/33-purpose-to-practice-p2p/
+  V﻿isit : <https://www.liberatingstructures.com/33-purpose-to-practice-p2p/>
 whyDo: >-
-  WHY? Purposes
-
-
-  * Engage and focus everyone’s imagination in designing the collective future of participants
+  * Engage and focus everyone’s imagination in designing the collective future
+  of participants
 
   * Avoid “design” by a small group of people or experts-only behind closed doors
 
@@ -100,7 +97,7 @@ howTo: >-
   * After the initiative has been launched, invite the participants to revisit their P2P design periodically and adapt elements based on their experience.
 
 
-  Tips and Traps
+  **Tips and Traps**
 
 
   * Crafting a powerful, wildly attractive “purpose” is the most important step: you may want to use [Nine Whys](https://www.liberatingstructures.com/3-nine-whys/), [Appreciative Interviews](https://www.liberatingstructures.com/5-appreciative-interviews-ai/), or [TRIZ](https://www.liberatingstructures.com/6-making-space-with-triz/) to deepen the conversation
@@ -124,7 +121,7 @@ howTo: >-
   * Invite the participants to use their intuition as the process unfolds
 
 
-  Riffs and Variations
+  **Riffs and Variations**
 
 
   * Start with one 30-minute, very rapid cycle covering all five elements to illustrate the need for a strong and clear purpose: without one, it is easy to come up with a half-baked design
@@ -144,7 +141,7 @@ howTo: >-
   * Invite talented participants to take on roles (e.g., writing, drawing, synthesizing)
 
 
-  Examples
+  **Examples**
 
 
   * By the leaders of the Conversation Café dialogue movement
@@ -156,30 +153,16 @@ howTo: >-
   * To guide the launch of LS user groups
 
   * By the Latin American region of a corporation to launch a new customer-focused business strategy
-
-
-   
-
-
-  V﻿isit : https://www.liberatingstructures.com/33-purpose-to-practice-p2p/
 mediaGallery:
-  - link: https://www.liberatingstructures.com/km-gallery-aesthetics/
+  - link: https://static1.1.sqspcdn.com/static/f/1272828/23306872/1376411846083/User+Group+P2P.jpg
+  - link: https://static1.1.sqspcdn.com/static/f/1272828/24612647/1395633369757/Slide30.jpg
+  - link: https://vimeo.com/364868276
 resources:
   - link: https://www.liberatingstructures.com/33-purpose-to-practice-p2p/
     linkType: web
-    description: About the practice
-  - link: https://www.liberatingstructures.com/
-    linkType: web
-    description: About liberating Structures
-  - link: https://vimeo.com/364868276
-    linkType: video
-    description: About liberating Structures
+    description: Purpose to Practice (P2P) Liberating Structure
   - link: https://www.liberatingstructures.com/ls/
-    description: "Liberating Structures Menu. Five conventional structures guide the
-      way we organize routine interactions and how groups work together:
-      presentations, managed discussions, open discussions, status reports and
-      brainstorm sessions. Liberating Structures add 33 more options to the big
-      five conventional approaches."
+    description: Menu of other Liberating Structures
     linkType: web
 people: 2+
 difficulty: moderate
