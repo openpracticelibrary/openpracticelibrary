@@ -156,7 +156,6 @@ howTo: >-
 mediaGallery:
   - link: https://static1.1.sqspcdn.com/static/f/1272828/23306872/1376411846083/User+Group+P2P.jpg
   - link: https://static1.1.sqspcdn.com/static/f/1272828/24612647/1395633369757/Slide30.jpg
-  - link: https://vimeo.com/364868276
 resources:
   - link: https://www.liberatingstructures.com/33-purpose-to-practice-p2p/
     linkType: web
