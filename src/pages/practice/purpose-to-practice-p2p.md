@@ -27,17 +27,17 @@ whatIs: >-
   V﻿isit : <https://www.liberatingstructures.com/33-purpose-to-practice-p2p/>
 whyDo: >-
   * Engage and focus everyone’s imagination in designing the collective future
-  of participants
+  of participants.
 
-  * Avoid “design” by a small group of people or experts-only behind closed doors
+  * Avoid “design” by a small group of people or experts-only behind closed doors.
 
-  * Pull together all the elements needed to launch and sustain an effort, thereby avoiding a fragmented process
+  * Pull together all the elements needed to launch and sustain an effort, thereby avoiding a fragmented process.
 
-  * Develop innovative strategies that can be implemented and spread quickly because there is shared ownership
+  * Develop innovative strategies that can be implemented and spread quickly because there is shared ownership.
 
-  * Increase resilience and the ability to absorb disruptions by distributing power fairly
+  * Increase resilience and the ability to absorb disruptions by distributing power fairly.
 
-  * Build the capacity to rapidly adapt any of the elements to changing circumstances
+  * Build the capacity to rapidly adapt any of the elements to changing circumstances.
 howTo: >-
   1. Structuring Invitation
 
