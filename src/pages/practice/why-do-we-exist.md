@@ -87,7 +87,7 @@ howTo: >-
   This exercise not only sparks creativity but also fosters shared understanding within the organization. It's a fantastic way to explore different perspectives on the organization's present and future.
 mediaGallery:
   - link: https://live.staticflickr.com/65535/53304703118_e54ff4b2ca_b.jpg
-  - link: https://live.staticflickr.com/65535/53303600862_7315ba4635_b.jpg
+  - link: https://live.staticflickr.com/65535/53304463721_1bf0e4f365_b.jpg
 resources:
   - link: https://opensource.com/open-organization/18/6/explaining-your-why
     linkType: web
