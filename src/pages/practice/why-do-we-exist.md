@@ -1,8 +1,7 @@
 ---
 templateKey: practice-page
-title: Why do we exist?
-subtitle: For shared understanding of the organisational purpose during an Open
-  Leadership workshop
+title: Why do we exist
+subtitle: Achieve a shared understanding of the organizational purpose
 date: 2023-07-25T10:22:42.378Z
 authors:
   - ShabnoorShah
@@ -15,102 +14,80 @@ tags:
 mobiusTag: discovery
 icon: /images/screenshot-2023-07-25-at-12.27.46.png
 whatIs: >-
-  O﻿n a Flip chart or on a slide write the question for leader participants to
-  reflect upon.
+  Imagine you had to explain your organization to someone from another planet.
+  How would you do it? This exercise is designed to encourage participants to
+  think beyond the ordinary and inspire creativity within your team.
 
 
-  T﻿ask 1: (3 mins)
+  During this extraterrestrial communication challenge, participants will:
 
 
-  "How would you communicate with someone from another planet to tell what your organisation is?
+  * Reflect individually on the question: "How would you communicate with someone from another planet to tell them about your organization?"
+
+  * Engage in collaborative discussions to align their individual thoughts and create a unified story that effectively represents the organization.
 
 
-  A﻿s each individual to individually reflect for atleast 3 mins and capture each thought on a separate sticky-note.
+  The ultimate goal is to encourage reflection, inspire innovative thinking, and promote a deeper understanding of the organization's purpose, values, potential and challenges. This practice is the perfect catalyst for initiating productive discussions about your organization.
+whyDo: >-
+  This practice serves as a powerful tool for leaders, influencers, and
+  decision-makers within your organization. By encouraging participants to think
+  beyond traditional communication, we aim to promote a deeper understanding of
+  the following:
 
 
-  Task 2: (10-15 mins)
+  * The purpose of your organization
+
+  * Your organizational values
+
+  * Who your customers are
+
+  * The potential of your organization
+
+  * The challenges your organization faces
 
 
-  D﻿epending on the group size, sub-divide the group or pairs and instruct them to :
-
-
-  "Create a story or a message using virtual props like pictures, drawings, mime, sounds, emojis, icons, gifs and your imagination to answer the question
-
-
-  A﻿sk the participants to consider the following topics while performing task 2.
-
-
-  \-The purpose of your organisation 
-
-
-  \-﻿Your organisational Values
-
-
-  \-﻿Who are your customers
-
-
-  \-﻿ What is the potential of your organisation
-
-
-  \-﻿ What are the challenges your organisation faces
-
-
-
-
-  T﻿ask 3: (10-15 mins)
-
-
-  All sub-groups or pair to present the "creation" to the whole group
-whyDo: At the beginning of an Open Leadership workshop (e.g Open Leadership for
-  Product Teams), this exercise serves  to bring the stakeholder leader
-  participants to share and understand how they see the purpose of their
-  team/departments/organisations existence.
+  It's an ideal way to kickstart workshops, as it sets the stage for meaningful discussions about your organization's current state and future direction.
 howTo: >-
-  O﻿n a Flip chart or on a slide write the question for leader participants to
-  reflect upon.
+  For creating the story, participants can use various visual aids, such as
+  pictures, drawings, cards (we recommend Dixit cards for this practice), or any
+  tools that simplify the message and make it visually engaging.\
+
+  \
+
+  **Step 1: The Question**
 
 
-  "How would you communicate with someone from another planet to tell what your organisation is?
+  1. On a flip chart or slide, display the question: "How would you communicate with someone from another planet to tell them about your organization?"
 
 
-  **T﻿ask 1: (3 mins)**
+  **Step 2: Individual Reflection (3 mins)**
 
 
-  A﻿s each individual to individually reflect for atleast 3 mins and capture each thought on a separate sticky-note.
+  1. Ask each participant to take at least 3 minutes to individually reflect on the question and capture their thoughts on separate sticky notes.
 
 
-  **Task 2: (10-15 mins)**
+  **Step 3: Creative Teamwork (10-15 mins)**
 
 
-  D﻿epending on the group size, sub-divide the group or pairs and instruct them to :
+  1. Depending on the group size, divide participants into sub-groups or pairs.
+
+  2. Instruct them to create a story or message using virtual props like pictures, drawings, mime, sounds, emojis, icons, gifs, and their imagination to answer the question.
+
+  3. Encourage participants to use this time to discuss the individual thoughts they captured earlier. This discussion will help them align their ideas and collaboratively create a cohesive story that represents the organization.
+
+  4. During this task, ensure that participants consider the topics mentioned earlier, such as the purpose of the organization, values, customers, potential, and challenges.
 
 
-  "Create a story or a message using virtual props like pictures, drawings, mime, sounds, emojis, icons, gifs and your imagination to answer the question
+  **Step 4: Presentation (10-15 mins)**
 
 
-  A﻿sk the participants to consider the following topics while performing task 2.
+  1. All sub-groups or pairs present their creations to the whole group.
 
 
-  \-The purpose of your organization 
-
-
-  \-﻿Your organizational Values
-
-
-  \-﻿Who are your customers
-
-
-  \-﻿ What is the potential of your organization
-
-
-  \-﻿ What are the challenges your organization faces
-
-
-  **T﻿ask 3: (10-15 mins)**
-
-
-  All sub-groups or pair to present the "creation" to the whole group
-mediaGallery: []
+  This exercise not only sparks creativity but also fosters shared understanding within the organization. It's a fantastic way to explore different perspectives on the organization's present and future.
+mediaGallery:
+  - link: https://live.staticflickr.com/65535/53304703118_e54ff4b2ca_b.jpg
+  - link: https://live.staticflickr.com/65535/53303600862_7315ba4635_b.jpg
 resources:
   - link: https://opensource.com/open-organization/18/6/explaining-your-why
     linkType: web
