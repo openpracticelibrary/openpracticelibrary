@@ -4,9 +4,9 @@ title: Why do we exist
 subtitle: Achieve a shared understanding of the organizational purpose
 date: 2023-07-25T10:22:42.378Z
 authors:
-  - ShabnoorShah
-  - Mary Provinciato
-  - JordiCalderon
+  - shabnoorshah
+  - maryprovinciatto
+  - JordiOlive
 tags:
   - culture
   - insight
