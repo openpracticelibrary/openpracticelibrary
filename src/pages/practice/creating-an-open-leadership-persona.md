@@ -4,9 +4,9 @@ title: Open Leadership Persona
 subtitle: " Identify the mindset, challenges, behaviours, and strengths of open leaders"
 date: 2023-07-25T12:30:58.266Z
 authors:
-  - ShabnoorShah
-  - MaryProvinciato
-  - JordiOliveCalderon
+  - shabnoorshah
+  - maryprovinciatto
+  - JordiOlive
 tags:
   - culture
 mobiusTag: foundation
