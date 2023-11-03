@@ -7,6 +7,7 @@ authors:
   - shabnoorshah
   - maryprovinciatto
   - JordiOlive
+  - kattekrab
 tags:
   - culture
 mobiusTag: foundation
