@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Open Leadership Persona
+title: Open Leader Persona
 subtitle: " Identify the mindset, challenges, behaviours, and strengths of open leaders"
 date: 2023-07-25T12:30:58.266Z
 authors:
@@ -13,7 +13,7 @@ tags:
 mobiusTag: foundation
 icon: /images/screenshot-2023-07-25-at-14.32.05.png
 whatIs: >-
-  T﻿his practice invites participants to collectively create an "Open Leadership
+  T﻿his practice invites participants to collectively create an "Open Leader
   Persona" that reflects the mindset, challenges, behaviors, and strengths of an
   open leader. The objective is to create a collective understanding of what it
   means to embody the five characteristics of open leadership 
@@ -38,9 +38,7 @@ whatIs: >-
 
   The exercise aims to empower participants to apply these principles in their leadership roles, fostering a culture of inclusivity, collaboration, and continuous improvement within their organisation. This will help them to drive positive change and nurture a more transparent and collaborative work environment.
 whyDo: >-
-  The "Open Leadership Persona Practice" is conducted for several important
-  reasons:
-
+  The "Open Leader Persona Practice" is conducted for several important reasons:
 
   1. Create a Shared Understanding: By collaboratively developing the "Open Leadership Persona," participants contribute to a shared understanding of what it means to be an open leader. This shared vision promotes alignment and consistency in leadership practices within the organization.
 
@@ -56,18 +54,18 @@ whyDo: >-
 
   7. Inspire Positive Change: Through the creation of actionable personas, the exercise inspires participants to take concrete steps towards becoming open leaders. It motivates them to lead with transparency, empathy, and inclusivity, ultimately driving positive change within the organization.
 howTo: >-
-  Open Leadership Persona Practice Instructions:
+  Open Leader Persona Practice Instructions:
 
 
   Step 1: Set Up the Flip Chart
 
 
-  1. Prepare a flip chart with the following headings: "Open Leadership Persona."
+  1. Prepare a flip chart with the following headings: "Open Leader Persona."
 
   2. Create four workspaces under the respective headings: "Mindset," "Challenges," "Behaviors," and "Strengths."
 
 
-  Step 2: Explore Open Leadership Characteristics
+  Step 2: Explore Open Leader Characteristics
 
 
   1. Begin the practice by outlining the five characteristics of open leadership; transparency, inclusivity, community, collaboration, and adaptability.
@@ -78,7 +76,7 @@ howTo: >-
   Step 3: Create the Persona as a Group
 
 
-  1. Invite participants to work together as a group to jointly create the "Open Leadership Persona."
+  1. Invite participants to work together as a group to jointly create the "Open Leader Persona."
 
   2. Explain that they will collectively capture their understanding of an open leader's mindset, challenges they might face, behaviours they exhibit, and their strengths in these roles.
 
@@ -134,7 +132,7 @@ howTo: >-
   Step 9: Concluding Remarks
 
 
-  1. Conclude the practice by thanking participants for their active participation in creating the "Open Leadership Persona."
+  1. Conclude the practice by thanking participants for their active participation in creating the "Open Leader Persona."
 
   2. Emphasise the importance of embracing open leadership principles and applying them to foster an inclusive, collaborative, and empowering work environment.
 
