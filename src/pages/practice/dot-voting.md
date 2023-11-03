@@ -79,6 +79,16 @@ howTo: >-
   Dot Voting is a versatile and inclusive method for decision-making and prioritisation.  It encourages participation, provides a visual representation of preferences, and helps groups make informed choices. Whether you're working in a team, planning a project, or looking for a way to gather feedback, Dot Voting is a valuable tool for reaching a collective consensus.
 mediaGallery:
   - link: https://live.staticflickr.com/3771/11678089443_16a61b0fec_b.jpg
+resources:
+  - link: https://dotmocracy.org/
+    linkType: web
+    description: Dotmocracy
+  - link: https://en.wikipedia.org/wiki/Dot-voting
+    linkType: web
+    description: Wikipedia - Dot-voting
+  - link: https://www.youtube.com/watch?v=Ss29XbfkKSE
+    linkType: video
+    description: "Dot Voting: How Many Dots? - NNgroup"
 people: 3+
 participants: []
 ---
