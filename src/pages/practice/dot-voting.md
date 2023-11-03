@@ -5,6 +5,7 @@ subtitle: Quickly build consensus to prioritise available options
 date: 2023-11-03T00:33:13.471Z
 authors:
   - kattekrab
+  - mtakane
 mobiusTag: options
 icon: /images/11678089443_16a61b0fec_c.jpg
 whatIs: >-
