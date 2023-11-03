@@ -4,7 +4,7 @@ title: The Open Organization Definition
 subtitle: Understanding open organisation definition
 date: 2019-06-11T07:50:32.730Z
 authors:
-  - shabshah
+  - shabnoorshah
 jumbotron: /images/openorg_def_banner_1.jpg
 ---
 ## What is it?

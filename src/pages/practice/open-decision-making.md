@@ -5,7 +5,7 @@ subtitle: A specific fusion of behaviors and mindsets characterizes the next
   generation of leaders.
 date: 2019-05-30T18:20:06.600Z
 authors:
-  - shabshah
+  - shabnoorshah
 tags:
   - culture
 mobiusTag: foundation
