@@ -6,7 +6,7 @@ subtitle: The purpose of coaching is to unlock people's potential to maximise
   tool to structure your coaching interaction.
 date: 2020-02-23T17:34:54.362Z
 authors:
-  - shabshah
+  - shabnoorshah
 tags:
   - culture
 mobiusTag: foundation

@@ -4,7 +4,7 @@ title: Open Decision Framework for open decision making
 subtitle: Learn about Open Decision Frame-work for Open Decision Making
 date: 2019-06-11T08:01:21.311Z
 authors:
-  - shabshah
+  - shabnoorshah
 jumbotron: /images/odf_badge_mojo-sidebar_horizontal-red.jpg
 ---
 ## What is it?
