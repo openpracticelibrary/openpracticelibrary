@@ -1,22 +1,17 @@
 name: E2E Tests
-
-on: 
+on:
   pull_request:
     paths-ignore:
       - ".github/**"
   workflow_dispatch:
     paths-ignore:
       - ".github/**"
-
-
 jobs:
   test:
-    runs-on: ubuntu-20.04 
-
+    runs-on: ubuntu-20.04
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-
       - name: Wait for Netlify
         uses: openpracticelibrary/wait-for-netlify-action@feature-max-build-timeout
         id: waitForDeployment
@@ -25,7 +20,6 @@ jobs:
           max_build_timeout: 480
         env:
           NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
-
       - name: Cypress Tests
         uses: cypress-io/github-action@v2
         with:
@@ -38,3 +32,8 @@ jobs:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           # this is automatically set by GitHub
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: notify google chat
+        uses: google-github-actions/sent-google-chat-webhook@v0.0.1
+        with:
+          webhook_url: ${{ secrets.GOOGLE_CHAT_WEBHOOK_URL }}
+          mention: <users/all>
