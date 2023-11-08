@@ -33,7 +33,7 @@ jobs:
           # this is automatically set by GitHub
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: notify google chat
-        uses: google-github-actions/sent-google-chat-webhook@v0.0.1
+        uses: google-github-actions/send-google-chat-webhook@v0.0.1
         with:
           webhook_url: ${{ secrets.GOOGLE_CHAT_WEBHOOK_URL }}
           mention: <users/all>
