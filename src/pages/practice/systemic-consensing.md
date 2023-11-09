@@ -5,6 +5,7 @@ subtitle: How to find minimal viable decisions in a group
 date: 2019-08-15T09:41:01.795Z
 authors:
   - zene22
+  - karstengresch
 tags:
   - culture
 mobiusTag: foundation
@@ -15,10 +16,20 @@ whatIs: >-
   including those of the reserved or silent group members.
 
 
-  The group members first develop as many suggestions as possible. After that, for each proposal its objection is measured by the whole group. The proposals are sorted according to this objection. Consensing does not require agreement, affirmation or even preference. Consent is reached by choosing the proposal with the least objections. 
+  The group members first develop as many suggestions as possible. 
 
 
-  The proposal with the least objection
+  After that, for each proposal its resistance is measured by the whole group. The proposals are sorted according to the resistance measurements. 
+
+
+
+  Consensing does not require agreement, affirmation or even preference. **Consent is reached by choosing the proposal with the least resistance.**
+
+
+  The resistance indicates the **conflict potential**: The higher the resistance against a proposal, the higher the likeliness that it doesn't get support and might even fail.
+
+
+  The proposal with the least resistance
 
 
   * produces the least dissatisfaction in the group ...
@@ -27,7 +38,7 @@ whatIs: >-
 
   * generates the least conflict potential
 
-  * therefore promises most likely a viable solution of the upcoming task / problem
+  * therefore promises most likely a viable solution of the upcoming task/problem
 
   * comes closest to the consensus
 
@@ -70,22 +81,19 @@ howTo: >-
 
   1. **Determine the question for the problem that has surfaced.**
 
-  > A group wants to make a decision that is shared by everyone involved. The group develops a question that can not be answered with yes or no. But it may also be that the question is already in the room and only needs to be formulated.
+     > A group wants to make a decision that is shared by everyone involved. The group develops a question that can not be answered with yes or no. But it may also be that the question is already in the room and only needs to be formulated.
+  2. **Creative phase: Collecting solutions** (for example as a brainstorming).
 
-  1. **Creative phase: Collecting solutions** (for example as a brainstorming).
+     > In the second phase, proposals for solutions are made, paying attention to creativity and diversity. All ideas and wishes may be brought forward and stand side by side on an equal footing. The proposed solutions are not commented and discussed in this phase. It's common to use an existing proposal and modify it just a bit.
+  3. **Assessment phase.** 
 
-  > In the second phase, proposals for solutions are made, paying attention to creativity and diversity. All ideas and wishes may be brought forward and stand side by side on an equal footing. The proposed solutions are not commented and discussed in this phase.
+     > In the this phase, each solution proposal is assessed by each group member with so-called "resistance points" (R-points). Zero points means "no resistance" or "I can support this solution". The highest score to be awarded is ten and means "strong resistance" or "I strongly disagree with this proposal". The rating is recorded on a matrix.
+  4. **Evaluation Phase.** 
 
-  1. **Assessment phase.** 
-
-  > In the this phase, each solution proposal is assessed by each group member with so-called "resistance points" (R-points). Zero points means "no resistance" or "I can support this solution". The highest score to be awarded is ten and means "strong resistance" or "I strongly disagree with this proposal". The rating is recorded on a matrix.
-
-  1. **Evaluation Phase.** 
-
-  > Finally, the points awarded by the participants are added together for each proposed solution. The lowest score solution has the least resistance in the group and is therefore closest to consensus.
-
+     > Finally, the points awarded by the participants are added together for each proposed solution. The lowest score solution has the least resistance in the group and is therefore closest to consensus.
 
   ### Additional hints
+
 
   When collecting the options it is sensible, to add a so called "zero option" which is context specific. It is normally phrased as "leave everything as it is", "let's decide next time", ... The zero option can be considered as "limit of reasonability“. No proposal has a chance of being accepted by the group, if the rank of the zero option is lower than all others.
 
@@ -96,13 +104,16 @@ howTo: >-
   Even if two solutions have almost equally low results, it's worth taking a closer look. Maybe one of the solutions was pushed from the outside and the other in the group. Then one could reconcile these two solutions again.
 
 
+  S﻿ystemic consensing can be used in situations where "democratic" voting is needed (i.e. the sum of votes counts): If you prepare the solution with systemic consensing, the solution found should gain a large number of votes.
+
+
   You can also use different metrics than a 0 - 10 scale.
 
 
   For the process to work, it is important that the participants understand it well. This can be achieved by a test run with a simple question.
 
 
-  > In practice I gave a group for a training a 10 euro note asking them how to spend that money - and drive their decision with systemic concensing. I think the surprise ( - are you honest? You really give us that money? - ) helped to put the group members in a state where they could discuss the quetion unbiased. This also showed how unrealistic power options by e specific participant ( - give the money to me - ) are handled. 
+  > In practice I gave a group for a training a 10 euro note asking them how to spend that money - and drive their decision with systemic concensing. I think the surprise ( - are you honest? You really give us that money? - ) helped to put the group members in a state where they could discuss the question unbiased. This also showed how unrealistic power options by a specific participant ( - give the money to me - ) are handled. 
 
 
   ## Prerequisites
@@ -110,9 +121,7 @@ howTo: >-
 
   * All participants should be affected to the more or less the same amount
 
-
   * All must have more or less the same information concerning the problem
-
 
   * Flipchart or whiteboard or the like for the visualization of the results
 mediaGallery:
