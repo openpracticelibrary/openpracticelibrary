@@ -6,6 +6,7 @@ date: 2023-11-03T00:33:13.471Z
 authors:
   - kattekrab
   - mtakane
+  - eliseelk
 mobiusTag: options
 icon: /images/11678089443_16a61b0fec_c.jpg
 whatIs: >-
@@ -57,7 +58,10 @@ howTo: >-
 
   * Space for participants to place their dots next to the options.
 
-  * Sticky dots or markers (each participant should have the same number of dots)
+  * *In person*: Sticky dots or markers (each participant should have the same number of dots)
+
+  * *Online*: Create little circle shapes on your virtual whiteboard or canvas to use as dots and give the same number to each participant to use to vote on objects on the board.
+
 
 
   **A﻿ction steps:**
