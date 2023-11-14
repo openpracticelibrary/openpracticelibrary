@@ -104,5 +104,6 @@ people: The number of people participating in a MoSCoW session can vary based on
   detail required in the prioritization process.
 time: 60 mins
 difficulty: moderate
-participants: []
+participants:
+  - Stakeholders
 ---
