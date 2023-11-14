@@ -3,20 +3,7 @@ templateKey: practice-page
 title: MoSCow Method
 subtitle: " The objective of using the MoSCoW method is to prioritize and
   categorize requirements or features based on their importance and relevance to
-  a project. The acronym MoSCoW stands for:  Must-haves: Essential requirements
-  that must be included in the project for it to be considered successful. These
-  are critical and non-negotiable.  Should-haves: Important requirements that
-  are not as critical as must-haves but are still significant for the project's
-  success. They contribute to the overall value.  Could-haves: Desirable
-  requirements that are considered if there is time and resources after
-  addressing must-haves and should-haves. These are optional and may be
-  implemented if circumstances allow.  Won't-haves: Features that are explicitly
-  acknowledged as out of scope for the current project. These are deferred to
-  future phases or excluded entirely.  The MoSCoW method helps project teams and
-  stakeholders to have a shared understanding of priorities, allowing for
-  effective decision-making when it comes to resource allocation, time
-  management, and project scope. It's a flexible and collaborative approach to
-  managing and communicating priorities throughout the project lifecycle."
+  a project. "
 date: 2023-11-14T16:01:48.452Z
 authors:
   - Moimero
@@ -24,7 +11,7 @@ tags:
   - value
   - methods
 mobiusTag: discovery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/moscow_matrix.png
 whatIs: >-
   The MoSCoW method is a prioritization technique used in project management and
   product development to categorize and prioritize requirements or features. The
@@ -105,8 +92,17 @@ howTo: >-
       * Regularly review and update the MoSCoW list as the project progresses, priorities change, or new information becomes available.
 
   Remember, the MoSCoW method is a dynamic tool that can be adapted to the needs of your specific project. Regular communication and collaboration with stakeholders are crucial for its effectiveness.
+resources:
+  - link: https://miro.com/templates/moscow-matrix/
+    linkType: web
+    description: Miro Template and description
+  - link: https://en.wikipedia.org/wiki/MoSCoW_method
+    linkType: web
+    description: Wikipedia
 people: The number of people participating in a MoSCoW session can vary based on
   the complexity of the project, the number of stakeholders, and the level of
   detail required in the prioritization process.
+time: 60 mins
+difficulty: moderate
 participants: []
 ---
