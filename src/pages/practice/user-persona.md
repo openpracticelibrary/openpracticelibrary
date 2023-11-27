@@ -25,8 +25,9 @@ whyDo: >-
 
 
   User personas help in building a shared understanding of users within the team and avoid design based on assumptions or personal biases.
-howTo: >-2
-   **Steps to Facilitate This Practice:**\
+howTo: >-
+  **Steps to Facilitate This Practice:**\
+
   Begin with thorough research as a foundation for collaboratively creating personas.
 
 
@@ -55,19 +56,17 @@ howTo: >-2
       **Examples:**\
       *Retirement Ready Robert:* Focuses on financial security and retirement.\
       *Budget Conscious Brenda:* Emphasises cost-efficiency.
-    
+
     * **The Role-Based Persona:** Centers on user roles within their organization, addressing unique challenges and needs.\
       **Examples:**\
       *Developer Darrell:* Represents typical software developer challenges.\
       *Manager Mary:* Reflects a manager's decision-making and challenges.
-    
+
     * **The Engaging Persona:** Aims to build empathy by presenting relatable, multidimensional user characters.\
       **Examples:**\
       *Adventure-Seeking Ava:* Highlights a need for products for an active lifestyle.\
       *Health-Conscious Henry:* Focuses on wellness and health-centric designs.
-
   * Agree upon and focus on a select number of personas, ideally one or two key ones, while acknowledging others.
-
 
   * For each persona, include:
 
@@ -80,7 +79,7 @@ howTo: >-2
 
   * Craft scenarios demonstrating how each persona would interact with your product, emphasising their specific problems, needs, and use cases.
 
-  *﻿ At this stage, an effective approach would be to use Empathy Mapping practice to understand the user.
+  * At this stage, an effective approach would be to use Empathy Mapping practice to understand the user.
 
 
   **Step 5. Encourage Collaborative Involvement**
@@ -105,6 +104,12 @@ resources:
   - link: https://openpracticelibrary.com/practice/empathy-mapping/
     linkType: web
     description: Empathy Mapping
+  - link: https://unsplash.com/s/photos/personas
+    linkType: web
+    description: Photos from Unsplash
+  - link: https://www.canva.com/templates/?query=user-persona&pricing=FREE
+    linkType: web
+    description: Persona Templates from Canva
 difficulty: moderate
 participants:
   - ProductDevelopmentTeam
