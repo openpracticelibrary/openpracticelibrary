@@ -26,6 +26,13 @@ whyDo: >-
 
   User personas help in building a shared understanding of users within the team and avoid design based on assumptions or personal biases.
 howTo: >-
+  ![Budget Conscious Brenda](/images/screenshot-2023-11-27-at-3.20.57-pm.png
+  "Budget Conscious Brenda")
+
+
+  ![Retirement Ready Robert](/images/retirement-ready-robert.jpg "Retirement Ready Robert")
+
+
   **Steps to Facilitate This Practice:**\
 
   Begin with thorough research as a foundation for collaboratively creating personas.
@@ -56,12 +63,10 @@ howTo: >-
       **Examples:**\
       *Retirement Ready Robert:* Focuses on financial security and retirement.\
       *Budget Conscious Brenda:* Emphasises cost-efficiency.
-
     * **The Role-Based Persona:** Centers on user roles within their organization, addressing unique challenges and needs.\
       **Examples:**\
       *Developer Darrell:* Represents typical software developer challenges.\
       *Manager Mary:* Reflects a manager's decision-making and challenges.
-
     * **The Engaging Persona:** Aims to build empathy by presenting relatable, multidimensional user characters.\
       **Examples:**\
       *Adventure-Seeking Ava:* Highlights a need for products for an active lifestyle.\
