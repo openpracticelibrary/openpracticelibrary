@@ -26,13 +26,6 @@ whyDo: >-
 
   User personas help in building a shared understanding of users within the team and avoid design based on assumptions or personal biases.
 howTo: >-
-  ![Budget Conscious Brenda](/images/screenshot-2023-11-27-at-3.20.57-pm.png
-  "Budget Conscious Brenda")
-
-
-  ![Retirement Ready Robert](/images/retirement-ready-robert.jpg "Retirement Ready Robert")
-
-
   **Steps to Facilitate This Practice:**\
 
   Begin with thorough research as a foundation for collaboratively creating personas.
@@ -101,6 +94,12 @@ howTo: >-
   * Commit to an ongoing process of refining and updating the personas, incorporating new insights and evolving market trends.
 
   * Be prepared to add new features or personas and to retire those that become less relevant over time.
+
+
+  ![Budget Conscious Brenda](/images/screenshot-2023-11-27-at-3.20.57-pm.png "Budget Conscious Brenda")
+
+
+  ![Retirement Ready Robert](/images/retirement-ready-robert.jpg "Retirement Ready Robert")
 mediaGallery: []
 resources:
   - link: https://www.interaction-design.org/literature/topics/personas
