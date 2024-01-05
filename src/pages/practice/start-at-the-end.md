@@ -102,9 +102,9 @@ resources:
   - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
     linkType: web
     description: Remote Facilitation Tips
-  - link: https://miro.com/app/board/uXjVPTLsYlE=/?share_link_id=158968117200
+  - link: https://miro.com/miroverse/start-at-the-end/
     linkType: web
-    description: Miro template - Start at the end
+    description: Miroverse template
 area: discovery-loop-why
 people: 3+
 time: 30 - 60 mins
