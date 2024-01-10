@@ -34,9 +34,6 @@ howTo: >-
   4. follow-up action items should be an exception to the process and be kept concrete enough that their closing automatically leads to the sign-off of the document
 
 
-  ![process of document review with 3 swim-lanes encompassing author, review manager and reviewers.](/images/documents_review_process_image.drawio.png "Document Review Process")
-
-
   The role of "Review Manager" can be taken by the author themself, but a strong (and neutral) Review Manager can make sure that the above rules are respected.
 
 
@@ -44,7 +41,8 @@ howTo: >-
 
 
   If reviews a numerous and need to be sped up, time for the review sessions can be blocked on a regular cadence (similar to most CAB sessions).
-mediaGallery: []
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/ddefbecf22427cc4c60883bb7f02e031488b3f6f/static/images/documents_review_process_image.drawio.png
 people: 3+
 time: 2 weeks
 difficulty: moderate
