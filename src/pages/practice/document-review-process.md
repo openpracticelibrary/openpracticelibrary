@@ -9,7 +9,7 @@ authors:
 tags:
   - methods
 mobiusTag: delivery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/documents_review_process_image.drawio.png
 whatIs: This practice describes how to review a document in a complex
   environment with possibly a lot of reviewers with diverging interests, and a
   strong requirement for a very formal review process.
