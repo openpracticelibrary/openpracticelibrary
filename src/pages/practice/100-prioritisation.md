@@ -43,5 +43,11 @@ howTo: >-
   1. You can force people to pick their clear top priority buy giving people certain  notes. For example 2x $50 means they can only pick two things, where 10x $10 gives them more flexibility to spread or back certain things more highly. My preference is combination of both with 1x$50, 1x$20, 2x$10 2x$5. 
 
   2. D﻿epending on the group size there are variations where people share a $100 allowance. This can be the whole group, or pairs small group or pairs. This can make counting easier in large groups and also gives rise to some really good conversations. My preference is to use [1-2-4-All ](https://openpracticelibrary.com/practice/1-2-4-all/)practice because, like planning poker, the conversation is super valuable and drives alignment.
+mediaGallery:
+  - link: https://photos.app.goo.gl/3bv9XwEwiNgKAQ1Q7
+  - link: https://photos.app.goo.gl/TdArkrEyGwdGe9xu8
+people: 4+
+time: 30-60
+difficulty: easy
 participants: []
 ---
