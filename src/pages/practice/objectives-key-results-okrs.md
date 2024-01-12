@@ -35,30 +35,43 @@ whyDo: >-
   **Align** - Have everyone moving in the same direction as a team, aiming for the same Objectives and measureing progress with the same Key Results. They also help teams know what is happening around them (up, down and sideways), so teams can align and collaborate more easily. 
 
 
+  **C﻿ommitment -** When you are part of a team defining the problem you are going to solve, and there is clarity on how success is defined. You have the ingredients for autonomy and empowerment. People will naturally commit.
+
+
   **Track** - Know how you are doing, so you can change if you need to. This transparency also fosters accountability... there are no locked cupboards or water melon reports
 
 
   **R﻿esults** - S﻿etting stretch goals and maintaining focus on them, will inspire and motivate people to do great work.  I﻿ndeed, teams that consistently used goal setting frameworks can achieved a 3X increase in productivity in 12 months (Source: Align)
 howTo: >-
+  Writing OKRs should be a bottom-up (80%) and top-down (20% process).  So
+  thinking about the top-down, you should definitely make sure you have sight of
+  the draft OKRs at the level above your team so you can align. If it's not
+  clear, then have a chat with someone or ideally get them to present to your
+  team as it's really key that your team all understand what bigger outcomes
+  your team is working towards. 
+
+
   ## Step 1
 
 
-  G﻿et all people in the team together on a virtual call or in a room. S﻿tart by restating your mission and vision. (If you don't know this, you need to figure it out first, or get enough clarity that you're all pointing in roughly the same direction!)
+  For bottom-up input, have a think about your plans and goals as a team for the year. Ideally, g﻿et all people in the team together on a virtual call or in a room. S﻿tart by restating your mission and vision. (If you don't know this, you need to figure it out first, or get enough clarity that you're all pointing in roughly the same direction!)
+
+
+  Think about what you want to acheive as a team in the medium to long term. I recommend using post-its, [1-2-4 ](https://openpracticelibrary.com/practice/1-2-4-all/ "https\://openpracticelibrary.com/practice/1-2-4-all/")to avoid groupthink and [dot voting](https://openpracticelibrary.com/practice/dot-voting/ "https\://openpracticelibrary.com/practice/dot-voting/") to keep momentum forward.  At this stage don't worry about expressing things as objectives, just capture the ideas. 
 
 
   ## Step 2
 
 
-  Start by thinking about what you want to acheive as a team in the medium to long term. Each person writes it down on a post-it alone. Then shares back as they put post-it on a virtual or real wall. Then dot vote and iterate to your top 3-5.
-
-
-  (﻿See [1-2-4-All Practice](https://openpracticelibrary.com/practice/1-2-4-all/)
+  When you have prioritised to a list of 5-8 ideas. It's worth thinking about blockers for success and just checking that doesn't raise any other key objective areas. Next, you need to identify your top 3-5 ideas. This is prioritisation and I recommend practice like [priority sliders](https://openpracticelibrary.com/practice/priority-sliders/ "https\://openpracticelibrary.com/practice/priority-sliders/") or the [$100 game](https://medium.com/devlix-blog/prioritization-100-dollar-method-and-scale-9c3ccfcfe9f1 "https\://medium.com/devlix-blog/prioritization-100-dollar-method-and-scale-9c3ccfcfe9f1") to do this. 
 
 
   ## Step 3
 
 
-  F﻿or your top 3-5 "outcomes", rephrase these as Objectives. A good Objective should be designed to get people jumping out of bed in the morning with excitement.  It tells everyone, "*what are we aiming to achieve?*"
+
+
+  F﻿or your top 3-5 "outcomes", i﻿terate on the wording to rephrase these as Objectives. A good Objective should be designed to get people jumping out of bed in the morning with excitement.  It tells everyone, "*what are we aiming to achieve?*"
 
 
   #### **G﻿ood Objectives Guidance**
@@ -86,7 +99,7 @@ howTo: >-
   ## Step 4
 
 
-  For each Objective, brainstorm key results.  Use dot voting and 1-2-4-All practices to iterate to a set of 3-5 Key Results. Key Results take all the inspirational language in your Objective and quantify it. To create, ask: “*How would we know if we met our Objective?*”
+  For each Objective, brainstorm key results.  Use dot voting and 1-2-4-All practices to iterate to a set of 3-5 Key Results. Key Results take all the inspirational language in your Objective and quantify it. To create, ask: “*How would we know if we met our Objective?*” Generally ideate as a group for KRs, iterate to final wording and numbers solo or in a pair.
 
 
   #### G﻿ood Key Results Guidance
@@ -108,6 +121,9 @@ howTo: >-
 
 
   P﻿S - You can also use AI tools to help you generate ideas for KRs, like [this one](https://www.stellafai.com/product-page/coaching-and-ai).
+
+
+  Last of all, don't forget to assign owners for all Objectives and Key Results, those responsible for iterating, finalising and writing your OKRs down somewhere where everyone can see them. 
 
 
   N﻿B - OKRs are simple but hard. Consider getting support from someone in your team with experince or an external expert.
