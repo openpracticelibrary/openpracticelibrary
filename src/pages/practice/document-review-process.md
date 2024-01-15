@@ -40,7 +40,7 @@ howTo: >-
   The timeline is dependent on the size of the document and the availability of the participants, so the numbers given can only be an estimation.
 
 
-  If reviews a numerous and need to be sped up, time for the review sessions can be blocked on a regular cadence (similar to most CAB sessions).
+  If reviews are numerous and need to be sped up, time for the review sessions can be blocked on a regular cadence (similar to most CAB sessions).
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/ddefbecf22427cc4c60883bb7f02e031488b3f6f/static/images/documents_review_process_image.drawio.png
 people: 3+
