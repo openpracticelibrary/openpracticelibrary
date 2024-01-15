@@ -14,8 +14,8 @@ icon: /images/100.webp
 whatIs: W﻿hen you need to narrow down your options or prioritise.  This is a
   democratic relative prioritisation exercise where people get $100 each to
   distribute across whatever needs prioritising.
-whyDo: P﻿rioritisaing is hard. This is a method that helps everyone be heard,
-  but also navigates you towards consensus in an equitable way.
+whyDo: P﻿rioritising is hard. This is a method that helps everyone be heard, but
+  also navigates you towards consensus in an equitable way.
 howTo: >-
   ## M﻿ethod
 
