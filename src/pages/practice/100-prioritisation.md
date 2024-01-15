@@ -44,8 +44,8 @@ howTo: >-
 
   2. D﻿epending on the group size there are variations where people share a $100 allowance. This can be the whole group, or pairs small group or pairs. This can make counting easier in large groups and also gives rise to some really good conversations. My preference is to use [1-2-4-All ](https://openpracticelibrary.com/practice/1-2-4-all/)practice because, like planning poker, the conversation is super valuable and drives alignment.
 mediaGallery:
-  - link: https://photos.app.goo.gl/3bv9XwEwiNgKAQ1Q7
-  - link: https://photos.app.goo.gl/TdArkrEyGwdGe9xu8
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/100-prioritise-1.jpeg?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/100-prioritise-2.jpeg?raw=true
 people: 4+
 time: 30-60
 difficulty: easy
