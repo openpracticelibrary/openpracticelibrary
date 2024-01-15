@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: $100 Prioritisation
-subtitle: To help groups understand prioritise
+subtitle: To help groups prioritise anything
 date: 2024-01-11T17:39:02.688Z
 authors:
   - stellabella2022
@@ -13,7 +13,8 @@ mobiusTag: options
 icon: /images/100.webp
 whatIs: W﻿hen you need to narrow down your options or prioritise.  This is a
   democratic relative prioritisation exercise where people get $100 each to
-  distribute across whatever needs prioritising.
+  distribute across whatever needs prioritising, be it objectives, requirements,
+  user stories, your team to-do list or perhaps your friends!
 whyDo: P﻿rioritising is hard. This is a method that helps everyone be heard, but
   also navigates you towards consensus in an equitable way.
 howTo: >-
