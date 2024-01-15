@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Document Review Process
-subtitle: Review efficiently documents in a complex environment, avoiding loops
-  and getting a predictable timeline
+subtitle: Efficiently review documents in complex environments, avoid loops, and
+  get a more predictable timeline.
 date: 2023-11-23T13:35:52.847Z
 authors:
   - ericzolf
