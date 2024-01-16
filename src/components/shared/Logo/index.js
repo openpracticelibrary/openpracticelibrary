@@ -9,25 +9,27 @@ const Logo = ({
   ...rest
 }) => {
   return (
-    <Box display="flex" alignItems="center" {...rest}>
-      <Box width={small ? "2.5rem" : "5.5rem"}>
-        <img width="100%" src={LogoImage} alt="Open Practice Library Logo" />
-      </Box>
-      <Box
-        ml={small ? 1 : 2}
-        color={color}
-        fontFamily="fontFamily"
-        fontWeight={500}
-        fontSize={small ? ".75rem" : "1.125rem"}
-        display="flex"
-        style={{
-          textTransform: "uppercase",
-        }}
-        width={horizontal ? "100%" : "5rem"}
-      >
-        Open Practice Library
-      </Box>
-    </Box>
+    <a href="/">
+		<Box display="flex" alignItems="center" {...rest}>
+		  <Box width={small ? "2.5rem" : "5.5rem"}>
+			<img width="100%" src={LogoImage} alt="Open Practice Library Logo" />
+		  </Box>
+		  <Box
+			ml={small ? 1 : 2}
+			color={color}
+			fontFamily="fontFamily"
+			fontWeight={500}
+			fontSize={small ? ".75rem" : "1.125rem"}
+			display="flex"
+			style={{
+			  textTransform: "uppercase",
+			}}
+			width={horizontal ? "100%" : "5rem"}
+		  >
+			Open Practice Library
+		  </Box>
+		</Box>
+    </a>
   );
 };
 
