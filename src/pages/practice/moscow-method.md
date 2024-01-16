@@ -6,7 +6,7 @@ subtitle: " The objective of using the MoSCoW method is to prioritize and
   a project. "
 date: 2023-11-14T16:01:48.452Z
 authors:
-  - Moimero
+  - moimero
 tags:
   - value
   - methods
