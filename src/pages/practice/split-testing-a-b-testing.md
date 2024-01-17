@@ -9,7 +9,7 @@ authors:
 tags:
   - validate
 mobiusTag: delivery
-icon: /images/ab-testing.jpg
+icon: /images/ab-testing-ilaria.png
 whatIs: This is a randomised experiment in which we compare and evaluate the
   performance of different versions of a product in pairs. Both product versions
   are available in production (live) and randomly provided to different users.
