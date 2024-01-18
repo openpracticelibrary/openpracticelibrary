@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Split Testing - A/B Testing
+title: Split Testing - A/B Testin
 subtitle: Quantitative testing of two alternative designs to learn which better
   leads to a specific goal
 date: 2018-12-17T22:03:07.370Z
