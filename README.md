@@ -1,5 +1,4 @@
 # Open Practice Library
-
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/openpracticelibrary/) [![Netlify Status](https://api.netlify.com/api/v1/badges/2f44b7cd-f0eb-4f8b-9ade-51a338a7d1aa/deploy-status)](https://app.netlify.com/sites/openpracticelibrary/deploys)
 
 ## About
@@ -24,5 +23,7 @@ The [Open Practice Library](https://openpracticelibrary.com) provides informatio
 ## Contributing
 
 To get started contributing content, see the [Contributing guide](https://openpracticelibrary.com/page/contribution-guide). To start contributing code, see the [Developing guide](DEVELOPING.md).
+
+You can even contribute to [funding the Open Practice Library](https://opencollective.com/openpracticelibrary).
 
 See also: [Code of Conduct](CODE_OF_CONDUCT.md).
