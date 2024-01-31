@@ -92,16 +92,23 @@ howTo: >-
      * **Summarize and Clarify**: Regularly summarize points for clarity and to ensure accurate recording of ideas.
      * **Be Neutral**: As a facilitator, maintain neutrality and focus on guiding the discussion rather than contributing content.
 mediaGallery:
-  - link: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmartinfowler.com%2Farticles%2Flean-inception%2Fproduct-is-isnot.html&psig=AOvVaw0lfRxBpEY4-P_r-1Qgj31W&ust=1706112529424000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjDsszy84MDFQAAAAAdAAAAABAJ
-  - link: https://miro.com/miroverse/lean-inception-workshop/
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/8ee1cfb30dcebea8f0f283a826974606502a1d3a/static/images/dall-e-2024-01-23-10.52.43-a-flip-chart-divided-into-four-sections-labeled-is-is-not-does-and-does-not-.-each-section-is-filled-with-colorful-sticky-notes-containing-.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/is-isnot-does-doesnot.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/8ee1cfb30dcebea8f0f283a826974606502a1d3a/static/images/captura-de-tela-2024-01-23-a-s-11.02.08-am.png
   - link: https://www.funretrospectives.com/wp-content/uploads/2015/12/FunRetro_IsIsnotDoesDoesNot-e1607560574640-871x1024.png
 resources:
+  - link: https://miro.com/miroverse/lean-inception-workshop/
+    linkType: web
+    description: Miroverse - Lean inception workshop
   - link: https://www.funretrospectives.com/is-is-not-does-does-not/
     linkType: web
     description: FunRetrospectives
   - link: https://openpracticelibrary.com/practice/lean-inception/
     linkType: web
     description: Lean Inception by Caroli OPL
+  - link: https://martinfowler.com/articles/lean-inception/product-is-isnot.html
+    linkType: web
+    description: "The product Is – Is not – Does – Does not - MartinFowler.com "
 people: 1+
 time: 60 mins
 difficulty: easy
