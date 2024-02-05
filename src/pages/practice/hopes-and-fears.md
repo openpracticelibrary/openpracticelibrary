@@ -51,6 +51,9 @@ resources:
   - link: https://www.facilitator.school/template/hopes-fears
     linkType: web
     description: Hopes and Fears - Facilitator guide
+  - link: https://pipdecks.com/pages/hopes-and-fears
+    linkType: web
+    description: Hopes and Fears Workshop Tactic - Pip Deck
 time: 30 min
 difficulty: easy
 participants:
