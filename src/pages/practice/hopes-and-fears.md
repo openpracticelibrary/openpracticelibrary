@@ -43,6 +43,7 @@ howTo: >-
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/3ce18dc55175a25371dba03455de9c73f7b61871/static/images/screenshot-2024-02-04-at-23.16.28.png
   - link: https://www.youtube.com/watch?v=zjXxUginAEM
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/hopes-and-fears.png
 resources:
   - link: https://easyretro.io/templates/hopes-and-fears-inception/
     linkType: web
@@ -50,6 +51,9 @@ resources:
   - link: https://www.facilitator.school/template/hopes-fears
     linkType: web
     description: Hopes and Fears - Facilitator guide
+  - link: https://pipdecks.com/pages/hopes-and-fears
+    linkType: web
+    description: Hopes and Fears Workshop Tactic - Pip Deck
 time: 30 min
 difficulty: easy
 participants:
