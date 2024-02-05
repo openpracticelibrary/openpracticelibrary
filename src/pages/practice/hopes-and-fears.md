@@ -27,9 +27,9 @@ whyDo: >-
 
   Additionally, it cultivates team spirit as members share their ambitions, aspirations, and concerns, finding resonance and mutual understanding among each other.
 howTo: >-
-  
-
-  1. The Hopes and Fears exercise works best when everyone is open and honest. The environment should be physiologically safe for the participants to share and discuss their hopes and fears. 
+  1. The Hopes and Fears exercise works best when everyone is open and honest.
+  The environment should be psychologically safe for the participants to share
+  and discuss their hopes and fears. 
 
   2. Divide whiteboard, or virtual whiteboard, into two areas. Label one area for “Hopes,” and another for “Fears.”
 
