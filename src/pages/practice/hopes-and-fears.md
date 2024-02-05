@@ -45,6 +45,9 @@ resources:
   - link: https://easyretro.io/templates/hopes-and-fears-inception/
     linkType: web
     description: Hopes and Fears - Easy Retro Inception Template
+  - link: https://www.facilitator.school/template/hopes-fears
+    linkType: web
+    description: Hopes and Fears - Facilitator guide
 time: 30 min
 difficulty: easy
 participants:
