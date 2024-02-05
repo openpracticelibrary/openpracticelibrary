@@ -39,7 +39,8 @@ howTo: >-
   5. Playback and discuss. Identify emerging and common themes.
 
   6. Keep the artifact posted where the participants can see it. Refer back to it frequently to track progress and update the board. Celebrate the hopes that are realized, and remove fears that melt away. Make sure to address fears that persist too long.
-mediaGallery: []
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/3ce18dc55175a25371dba03455de9c73f7b61871/static/images/screenshot-2024-02-04-at-23.16.28.png
 time: 30 min
 difficulty: easy
 participants:
