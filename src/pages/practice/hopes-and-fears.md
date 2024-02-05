@@ -5,6 +5,7 @@ subtitle: Reveal your team's expectations and doubts before starting a new journ
 date: 2024-02-04T21:34:42.132Z
 authors:
   - ckavili
+  - kattekrab
 tags: null
 mobiusTag: discovery
 icon: /images/screenshot-2024-02-04-at-23.16.28.png
