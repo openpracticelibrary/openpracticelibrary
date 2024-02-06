@@ -24,7 +24,7 @@ whyDo: >-
   accuracy of information.
 
 
-  Many people find it easier to communicate in written form, because it gives them more time to think about what they're saying and how to say it. 
+  Some people find it easier to communicate in written form, because it gives them more time to think about what they're saying and how to say it. 
 
 
   By using weekly 15/5 reports, people know there's always a space to report anything good, bad, or interesting.
