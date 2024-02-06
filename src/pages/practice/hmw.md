@@ -87,30 +87,9 @@ resources:
   - link: https://designsprintkit.withgoogle.com/methodology/phase1-understand/how-might-we
     linkType: web
     description: Google Design Sprint Kit
-  - link: https://toolkit.mozilla.org/method/how-might-we/
-    linkType: web
-    description: HMW Toolkit from Mozilla
   - link: http://www.designkit.org/methods/3
     linkType: web
     description: IDEO HMW Design Kit
-  - link: https://openpracticelibrary.com/practice/impact-mapping/
-    linkType: web
-    description: Impact Mapping
-  - link: https://openpracticelibrary.com/practice/event-storming/
-    linkType: web
-    description: Event Storming
-  - link: https://openpracticelibrary.com/practice/design-of-experiments/
-    linkType: web
-    description: Design Of Experiments
-  - link: https://openpracticelibrary.com/practice/start-at-the-end/
-    linkType: web
-    description: Start At The End
-  - link: https://openpracticelibrary.com/practice/opportunity-solution-tree/
-    linkType: web
-    description: Opportunity Solution Tree
-  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
-    linkType: web
-    description: Remote Facilitation Tips
 participants:
   - Product Owner/Manager
   - UXD
