@@ -112,12 +112,20 @@ howTo: >-
 
 
   A variation on the **vote and move forward** approach is to pre-announce a cutoff score that would automatically advance or defeat the agenda topic (i.e. "2 or below means we don't move forward; anything above 2 is a go"), calculate the average score, and use the result to quickly move forward.
+
+
+
+
+  *This technique was popularized by Jean Tabaka in her book [Collaboration Explained](https://search.worldcat.org/title/Collaboration-explained-:-facilitation-skills-for-software-project-leaders/oclc/61703948)*
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/fist-of-five-voting-method.jpg?raw=true
 resources:
-  - link: https://agileforall.com/learning-with-fist-of-five-voting/
+  - link: https://www.lucidmeetings.com/glossary/fist-five
     linkType: web
-    description: Fist of Five Voting
+    description: Lucid Meetings - Fist of Five voting
+  - link: https://helpingimprove.com/learning-with-fist-of-five-voting/
+    linkType: web
+    description: Learning with fist of five voting - Helping improve LLC
 difficulty: easy
 participants:
   - Anybody
