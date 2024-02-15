@@ -36,8 +36,8 @@ howTo: >-
 
   4. The 'Fly' thanks the group and responds to what they have heard. At this point the fly might have some next steps and is ready to move on, they may request to dive into the details from what they have heard, or they may provide further information; e.g., if they have already tried a solution as it was stated and have details/ evidence to bring to the table, this may then lead to a repeat of step 3.
 mediaGallery:
-  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/745b6d17e31602c018f4e5bce3582a3b8a09c31d/images/fly-on-the-wall_by_stevepj2009-flickr-CC2BY.jpg
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/57cde9cccd0c12fa15816b5884ecfa49a74eab01/images/fly-on-wall.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/745b6d17e31602c018f4e5bce3582a3b8a09c31d/images/fly-on-the-wall_by_stevepj2009-flickr-CC2BY.jpg
 resources:
   - link: https://www.mbs.works/best-books-training-for-coaches-leaders-and-mentors/the-advice-trap/
     linkType: web
