@@ -1,7 +1,7 @@
 ---
 templateKey: practice-page
 title: Cognitive walkthrough
-subtitle: Make your service more useful in general also helps people with disabilities
+subtitle: Make your service more useful
 date: 2024-02-09T09:55:10.575Z
 authors:
   - TheSwedish Employment Agency
