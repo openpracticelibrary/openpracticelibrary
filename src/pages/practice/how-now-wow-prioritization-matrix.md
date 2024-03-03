@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: "How-Now-Wow Prioritization (Matrix) "
+title: How-Now-Wow Prioritization (Matrix)
 subtitle: Experiments Prioritization
 date: 2018-11-08T14:40:20.794Z
 authors:
