@@ -4,7 +4,7 @@ title: Cognitive walkthrough
 subtitle: Make your service more useful
 date: 2024-02-09T09:55:10.575Z
 authors:
-  - TheSwedish Employment Agency
+  - brorsan2
 tags:
   - validate
   - learn
@@ -54,6 +54,11 @@ howTo: >-
 
 
   *Celebrate that you have started working on accessibility and usability, which will lead to better results for your service!*
+
+
+
+
+  C﻿ontributedbyThe Swedish Employment Agency
 difficulty: moderate
 participants: []
 ---
