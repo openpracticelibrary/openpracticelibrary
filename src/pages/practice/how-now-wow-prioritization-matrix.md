@@ -45,7 +45,7 @@ howTo: >-
 
   * **Holy Cow!** Ideas in the top may be hard to implement and are not really new, so it is probably best to focus effort elsewhere.
 mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/how-now-wow-holycow.jpg
+  - link: https://openpracticelibrary.com/images/how-now-wow-holycow.jpg
 resources:
   - link: https://gamestorming.com/how-now-wow-matrix/
     linkType: web
