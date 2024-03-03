@@ -43,9 +43,8 @@ howTo: >-
 
   * **Wow!!!** Ideas in the bottom right are both easy and innovative, so this is where best to focus time and energy first.
 
-  * Ideas in the top may be hard to implement and are not really new, so it is probably best to focus effort elsewhere.
-mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/how-now-wow.jpg
+  * **Holy cow!** Ideas in the top may be hard to implement and are not really new, so it is probably best to focus effort elsewhere.
+mediaGallery: []
 resources:
   - link: https://gamestorming.com/how-now-wow-matrix/
     linkType: web
