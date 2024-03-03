@@ -8,7 +8,7 @@ authors:
   - kattekrab
 tags: []
 mobiusTag: options
-icon: /images/how-now-wow.jpg
+icon: /images/1000026833.jpg
 whatIs: >-
   How-Now-Wow is a prioritisation matrix / idea selection tool, which is often
   combined with Brainstorming, HMW, Design of Experiments.
@@ -17,7 +17,7 @@ whatIs: >-
   It compares and plot ideas on a 2x2 matrix by comparing the idea’s difficulty to implement with its novelty/originality.
 
 
-  ![How Now Wow Matrix](/images/how-now-wow.jpg)
+  ![How Now Wow Matrix](/images/1000026833.jpg)
 whyDo: >+
   Creative teams can generate a lot of ideas. Too many ideas to implement.
   Categorising ideas according to whether or not they are easy to do, and truly
