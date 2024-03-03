@@ -38,7 +38,7 @@ howTo: >-
 
   2. Provide a link to the prototype or test environment to the users you want to try your service on.
 
-  3. Book an appointment for a review, on-site/hybrid/distance with users that are new to your service or might have been in contact with your support for accessability reasons
+  3. Book an appointment for a review, on-site/hybrid/distance with users that are new to your service or might have been in contact with your support for accessibility reasons
 
 
   ## Implementation
