@@ -56,9 +56,7 @@ howTo: >-
   *Celebrate that you have started working on accessibility and usability, which will lead to better results for your service!*
 
 
-
-
-  C﻿ontributedbyThe Swedish Employment Agency
+  C﻿ontributed by The Swedish Employment Agency
 difficulty: moderate
 participants: []
 ---
