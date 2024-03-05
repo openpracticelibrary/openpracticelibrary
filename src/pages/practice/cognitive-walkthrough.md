@@ -57,6 +57,16 @@ howTo: >-
 
 
   C﻿ontributed by The Swedish Employment Agency
+resources:
+  - link: https://www.nngroup.com/articles/cognitive-walkthrough-workshop/
+    linkType: web
+    description: Nielsen Norman Group workshop guide
+  - link: https://en.wikipedia.org/wiki/Cognitive_walkthrough
+    linkType: web
+    description: Wikipedia - Cognitive Walkthrough
+  - link: https://www.usabilitybok.org/cognitive-walkthrough
+    linkType: web
+    description: Usability Body of Knowledge - Cognitive Walkthrough
 difficulty: moderate
 participants: []
 ---
