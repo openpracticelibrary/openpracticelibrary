@@ -112,4 +112,6 @@ Why contribute? Here are three reasons for you to consider:
    \
    By sharing your knowledge and expertise with an open, global community, you can help others grow and learn from your depth of experience.
 
-[Contributing to the Open Practice Library](https://openpracticelibrary.com/page/contribution-guide) is a fun and easy way to participate in a global, open community of practitioners who are all willing to share their knowledge and trying to improve their own ways of working.
+[Contributing to the Open Practice Library](https://openpracticelibrary.com/page/contribution-guide) is a fun and easy way to participate in a global, open community of practitioners who are all willing to share their knowledge and trying to improve their own ways of working.\
+\
+**Adapted from the original published on [OpenSource.com](https://opensource.com/article/21/10/open-practice-library) under a CC-BY-SA licence.**
