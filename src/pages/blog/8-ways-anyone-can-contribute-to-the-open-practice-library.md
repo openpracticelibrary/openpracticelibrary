@@ -104,12 +104,11 @@ Why contribute? Here are three reasons for you to consider:
 
 1. "**While we teach, we learn**" is an old Roman saying. \
    You deepen your own understanding of a practice you use by writing it down and sharing it with others. Do some research on the background of where the practice came from, help credit the original source, and find examples of its usage.
-2. **Improve your writing skills**.\
+2. **Improve your writing skills** \
    By following the editorial style guide, you are learning to adapt your natural writing style to fit specific criteria. This is a valuable and fundamental communication skill that you can apply in a range of contexts.
-3. **Demonstrate leadership**\
+3. **Demonstrate leadership** \
    By sharing your knowledge and expertise with an open, global community, you can help others grow and learn from your depth of experience.
-4. **C﻿ontribute to the commons**\
-   \
+4. **C﻿ontribute to the commons** \
    O﻿pen Source Software, and Open Knowledge projects like wikipedia are incredible sources of value for humanity.  Contributing to the Open Practice Library is another small way to add to the digital commons.
 
 [Contributing to the Open Practice Library](https://openpracticelibrary.com/page/contribution-guide) is a fun and easy way to participate in a global, open community of practitioners who are all willing to share their knowledge and trying to improve their own ways of working.\
