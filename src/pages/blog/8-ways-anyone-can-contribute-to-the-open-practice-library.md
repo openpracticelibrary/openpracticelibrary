@@ -18,7 +18,7 @@ To support cross-functional teams building their collaboration skills together, 
 
 ## 1. Interact with us on LinkedIn.
 
-W﻿e share our practices on [LinkedIn](https://www.linkedin.com/company/openpracticelibrary/), and LOVE hearing how you're using them out there in the wild. Share your experience using the practice. Did it work for you? Would you change anything? Any tips for others using the practice? Login to the comment system and start a discussion with the community.
+W﻿e share our practices on [LinkedIn](https://www.linkedin.com/company/openpracticelibrary/), and LOVE hearing how you're using them out there in the wild. Share your experience using the practice. Did it work for you? Would you change anything? Any tips for others using the practice? 
 
 ## 2. Spread the word. 
 
@@ -100,7 +100,7 @@ W﻿e have some small expenses, you can contribute cash to our [Open Collective 
 
 ## Wrap up
 
-Why contribute? Here are three reasons for you to consider:
+Why contribute? Here are four reasons for you to consider:
 
 1. "**While we teach, we learn**" is an old Roman saying. \
    You deepen your own understanding of a practice you use by writing it down and sharing it with others. Do some research on the background of where the practice came from, help credit the original source, and find examples of its usage.
