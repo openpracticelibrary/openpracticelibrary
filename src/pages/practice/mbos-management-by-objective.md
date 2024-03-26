@@ -6,7 +6,7 @@ date: 2024-03-26T14:06:50.257Z
 authors:
   - ellie-hill
 mobiusTag: discovery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/mbos.jpeg
 whatIs: >-
   MBOs stand for Management by Objective.
 
@@ -52,10 +52,21 @@ whyDo: >-
   * The pressure to meet objectives can damage morale and retention
 
   * Link to extrinsic rewards shapes team dynamics in new ways
-howTo: |-
-  
+howTo: >-
+  1﻿. Leadership team define  Company Objectives for a cycle (typically 12
+  months) and share widely throughout the organisation. 
 
-  * ]
-  * Employees have autonomy in how they aim to achieve
+
+  2﻿. Leaders at team level then set individual Objectives (privately) 
+
+
+  3﻿. Employees then have autonomy in how they aim to achieve these objectives.
+resources:
+  - link: https://www.whatmatters.com/resources/okr-and-mbo-difference-between
+    description: OKRs vs MBOs
+    linkType: web
+  - link: https://www.investopedia.com/terms/m/management-by-objectives.asp
+    description: 5 steps for MBOs
+    linkType: web
 participants: []
 ---
