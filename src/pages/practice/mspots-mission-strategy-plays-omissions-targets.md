@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: MSPOTs ( Mission, Strategy, Plays, Omissions & Targets)
+title: MSPOTs (Mission, Strategy, Plays, Omissions & Targets)
 subtitle: "Set product goals when you need to unite your team around a strategic
   vision. "
 date: 2024-03-26T14:27:05.183Z
