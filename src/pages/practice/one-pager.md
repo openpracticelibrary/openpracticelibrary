@@ -64,7 +64,8 @@ howTo: >-
   5. Review and Refine: Get feedback from colleagues and revise for clarity and conciseness.
 
   6. Keep it up-to-date while progressing the initiative to allow new participants to get the right understanding at any time they join the initiative.
-mediaGallery: []
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/e8eed5812374d3569eab8461ae4757ff177a327a/static/images/onepager.png
 resources:
   - link: https://www.youtube.com/watch?v=pUpiglUen1k
     linkType: video
