@@ -1,6 +1,6 @@
 ---
 templateKey: blog-page
-title: Accelerate Metrics - Software Delivery Performance Measurement
+title: Accelerate and DORA Metrics - Software Delivery Performance Measurement
 subtitle: Measurements that demonstrate software delivery capability
 date: 2021-04-14T09:19:48.343Z
 authors:
@@ -9,9 +9,9 @@ jumbotron: /images/1_wro4ylkc8rnayiikowgudq.png
 ---
 **What are the Accelerate Metrics?**
 
-The DORA/Accelerate metrics were devised by Nicole Forsgren, Jez Humble and Gene Kim, using data and evidence from the annual State Of DevOps reports, and codified in the book “Accelerate”, published in 2018
+The DORA/Accelerate metrics were devised by Nicole Forsgren, Jez Humble and Gene Kim, using data and evidence from the annual State Of DevOps reports, and codified in the book “Accelerate”, published in 2018. The name "DORA Metrics" stems from the organisation founded by Nicole Forsgren and Gene Kim in 2015, "DevOps Research and Assessment", later bought by Google in 2018. "Accelerate" comes from the name of Forsgren's book which was published in 2018, utilising the research conducted by DORA.
 
-The four metrics reflect core capability categories that they identified as essential to software delivery performance:
+The four metrics reflect core capability categories that the Forsgren and Kim identified as essential to software delivery performance:
 
 * Continuous Delivery
 * Architecture
