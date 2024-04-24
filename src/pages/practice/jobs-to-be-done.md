@@ -1,13 +1,11 @@
 ---
 templateKey: practice-page
 title: Jobs to be Done
-subtitle: This practice aims to understand why customers use a product or
-  service by focusing on the underlying needs and motivations driving their
-  behavior. Rather than just looking at product features, this approach
-  considers what customers are trying to accomplish ("jobs") when using a
-  product or service. By understanding these jobs, businesses can create
-  offerings that better meet customers' needs and solve their problems
-  effectively.
+subtitle: Deeply understand why customers "hire" a product or service by
+  identifying the specific jobs or tasks they are trying to accomplish. By
+  uncovering these underlying motivations, businesses can develop products that
+  more effectively address customer needs, leading to greater satisfaction,
+  loyalty, and market success.
 date: 2024-04-24T14:36:36.053Z
 authors:
   - Moimero
