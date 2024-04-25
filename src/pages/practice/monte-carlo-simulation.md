@@ -9,7 +9,7 @@ authors:
 tags:
   - insight
 mobiusTag: options
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/monte-carlo.jpeg
 whatIs: >-
   A Monte Carlo simulation is a technique used to assess the impact of
   uncertainty and risk on project schedules, costs, or other key metrics. It
