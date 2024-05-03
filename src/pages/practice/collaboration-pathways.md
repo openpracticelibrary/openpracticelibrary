@@ -10,9 +10,8 @@ tags:
 mobiusTag: foundation
 icon: /images/dall-e-2024-05-03-15.50.19-a-conceptual-scene-depicting-a-collaborative-workspace-designed-abstractly.-the-setting-includes-a-large-oval-table-surrounded-by-abstract-humanoid-f.webp
 whatIs: >-
-  
-
-  Recognising the diverse incentives that drive individuals, teams, departments, and organisations is crucial. 
+  Recognising the diverse incentives that drive individuals, teams, departments,
+  and organisations is crucial. 
 
 
   These incentives shape behaviours and motivations, which are foundational for forming enduring partnerships. 
@@ -24,7 +23,7 @@ whatIs: >-
   It's essential to openly discuss and understand these factors, not only in relation to each other but also concerning shared objectives or common "customers". 
 
 
-  This mutual understanding facilitates a collaboration that is both meaningful and effective, aligning disparate goals towards a unified vision build on trust and transparency.
+  This mutual understanding facilitates a collaboration that is both meaningful and effective, aligning disparate goals towards a unified vision built on trust and transparency.
 whyDo: >-
   D﻿o you know why they do what they do? A question you could ask yourself when
   working with other people, teams, departments, organisations.
