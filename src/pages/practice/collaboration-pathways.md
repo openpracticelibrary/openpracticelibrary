@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Collaboration Pathways
+title: Collaborative Pathways
 subtitle: Turning shared purpose into shared results
 date: 2024-05-03T12:36:19.162Z
 authors:
@@ -8,7 +8,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/dall-e-2024-05-03-15.50.19-a-conceptual-scene-depicting-a-collaborative-workspace-designed-abstractly.-the-setting-includes-a-large-oval-table-surrounded-by-abstract-humanoid-f.webp
 whatIs: >-
   
 
@@ -44,9 +44,9 @@ whyDo: >-
 
   U﻿sing this practice you will be able to turn shared purpose into shared results!
 howTo: >-
-  
-
-  Getting the ball rolling with Collaboration Pathways is fairly simple and assuming you get the people together in a (virtual) room only a 2-step process.
+  Getting the ball rolling with Collaborative Pathways is fairly simple and
+  assuming you get the people together in a (virtual) room only a 2-step
+  process.
 
 
   S﻿tep 1:
@@ -92,7 +92,8 @@ howTo: >-
 
   * M﻿iro, see an example below:
 
-  *
+
+  ![Miro - Collaborative Pathways](/images/screenshot-2024-05-03-at-15.47.18.png "Miro - Collaborative Pathways")
 mediaGallery: []
 resources:
   - link: https://openpracticelibrary.com/practice/social-contract/
