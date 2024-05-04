@@ -128,7 +128,7 @@ howTo: >-
 
   Communicate the findings of the Monte Carlo simulation to project stakeholders. Clearly communicate the level of uncertainty and risk associated with the project and the implications for project planning and decision-making. Use visualizations such as charts, graphs, or probability distributions to effectively communicate complex information.
 mediaGallery:
-  - link: static/images/monte-carlo.jpeg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/monte-carlo.webp
 people: 2+
 difficulty: hard
 participants:
