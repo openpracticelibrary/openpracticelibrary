@@ -62,7 +62,7 @@ howTo: >-
      1. [Vale](https://vale.sh) to validate
         your written text against machine readable style guides
      2. [Spectral](https://stoplight.io/open-source/spectral) or
-        Redocly(https://redocly.com/docs/cli/commands/lint/) to
+        [Redocly](https://redocly.com/docs/cli/commands/lint/) to
         validate your Open API Specifition files
 
   5. [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery), using static site generators (for example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/)). Note: This process is optional
