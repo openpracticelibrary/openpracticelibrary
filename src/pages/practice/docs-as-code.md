@@ -48,11 +48,22 @@ howTo: >-
      2. Change control driven though bugs and feature requests tickets
      3. Content reviews and merges
 
-  3. Machine generated content
+  3. Machine generated content. For example:
 
+     1. Create diagrams from text using tools like [Mermaid.js](https://mermaid.js.org)
+        or [PlantUML](https://plantuml.com)
+     3. Add machine generated text by running CLI programs when a document is published
+        (e.g. to insert current software version identifiers or other content)
+     4. Use text processing tools to extract and use text from other files
+        (e.g. fragments of released source code)
 
-  4. Automated testing and verification
+  4. Automated testing and verification. For example use:
 
+     1. [Vale](https://vale.sh) to validate
+        your written text against machine readable style guides
+     2. [Spectral](https://stoplight.io/open-source/spectral) or
+        Redocly(https://redocly.com/docs/cli/commands/lint/) to
+        validate your Open API Specifition files
 
   5. [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery), using static site generators (for example [Sphinx](https://www.sphinx-doc.org/) or [Hugo](https://gohugo.io/)). Note: This process is optional
 mediaGallery:
