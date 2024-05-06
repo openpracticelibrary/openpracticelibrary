@@ -1,11 +1,7 @@
 ---
 templateKey: practice-page
 title: Jobs to be Done
-subtitle: Deeply understand why customers "hire" a product or service by
-  identifying the specific jobs or tasks they are trying to accomplish. By
-  uncovering these underlying motivations, businesses can develop products that
-  more effectively address customer needs, leading to greater satisfaction,
-  loyalty, and market success.
+subtitle: "JTBD focuses on the underlying motivations and desires of customers.. "
 date: 2024-04-24T14:36:36.053Z
 authors:
   - Moimero
@@ -62,8 +58,7 @@ howTo: >-
   9. **Iterate and Refine**: Continuously iterate on the product or service based on customer feedback and market insights. Use an iterative approach to refine the offering, improve usability, and address any emerging needs or challenges.
 
   10. **Launch and Monitor**: Launch the final product or service in the market and monitor its performance closely. Gather data on customer usage, satisfaction, and outcomes to assess the product's impact and identify opportunities for optimization or expansion.
-mediaGallery:
-  - link: static/images/captura-de-tela-2024-04-24-a-s-9.50.53-am.png
+mediaGallery: []
 resources:
   - link: https://medium.com/make-us-proud/jobs-to-be-done-framework-748c761797a8
     linkType: web
