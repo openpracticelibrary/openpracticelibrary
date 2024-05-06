@@ -4,7 +4,7 @@ title: Jobs to be Done
 subtitle: "JTBD focuses on the underlying motivations and desires of customers.. "
 date: 2024-04-24T14:36:36.053Z
 authors:
-  - Moimero
+  - moimero
 tags:
   - validate
 mobiusTag: discovery
