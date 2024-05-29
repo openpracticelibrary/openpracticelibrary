@@ -1,10 +1,10 @@
 ---
 templateKey: practice-page
 title: Jobs to be Done
-subtitle: "JTBD focuses on the underlying motivations and desires of customers.. "
+subtitle: Focus on your customers underlying desires and motivation.
 date: 2024-04-24T14:36:36.053Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - validate
 mobiusTag: discovery
