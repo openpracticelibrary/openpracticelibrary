@@ -73,6 +73,7 @@ howTo: >-
   * It’s ok to have periods of silence where people are thinking and working. Someone doesn’t need to be talking throughout the session.
 mediaGallery:
   - link: https://martinfowler.com/articles/on-pair-programming/driver_navigator.png
+  - link: https://productdeveloper.net/static/c1585094189cceafa843739aa527e878/877ef/asynchronous-reviews.jpg
 resources:
   - link: https://en.wikipedia.org/wiki/Pair_programming
     linkType: web
@@ -83,9 +84,9 @@ resources:
   - link: https://speakerdeck.com/lemiorhan/unwritten-manual-for-pair-programming
     linkType: web
     description: The Unwritten Manual for Pair Programming
-  - link: https://openpracticelibrary.com/blog/facilitation-tips-for-remote-sessions/
+  - link: https://dragan-stepanovic.github.io/
     linkType: web
-    description: Remote Facilitation Tips
+    description: Dragan Stepanovic's blog
 people: "2"
 participants:
   - The Team
