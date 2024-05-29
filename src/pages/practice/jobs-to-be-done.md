@@ -10,7 +10,7 @@ tags:
 mobiusTag: discovery
 icon: /images/jtbd2.webp
 whatIs: >-
-  Job to be Done (**JTBD**) is an approach in **product** and **service
+  Jobs to be Done (**JTBD**) is an approach in **product** and **service
   development** that focuses on **understanding** the fundamental **needs that
   motivate consumers to purchase** or use a particular product. Instead of
   focusing on the features of the product itself, the JTBD approach concentrates
@@ -21,8 +21,7 @@ whatIs: >-
   **For example**, a person might "hire" an electric drill not because they want a drill, but because they need to make holes in the wall to hang a picture. In this sense, the job the customer needs to get done is hanging a picture, and the drill is simply a tool that helps them accomplish that job.
 
 
-  This framework was developed by Tony Ulwick to 
-    **help product and service development teams** better understand customer needs and motivations, which in turn can inform more effective decisions in design, marketing, and product development.
+  The framework was developed by [Tony Ulwick](https://www.linkedin.com/in/tonyulwick/) to **help product and service development teams** better understand customer needs and motivations, which in turn can inform more effective decisions in design, marketing, and product development.
 whyDo: >-
   Using the Job to be Done (JTBD) framework offers several benefits in product
   and service development:
