@@ -1,16 +1,16 @@
 ---
 templateKey: practice-page
 title: Jobs to be Done
-subtitle: "JTBD focuses on the underlying motivations and desires of customers.. "
+subtitle: Focus on your customers underlying desires and motivation.
 date: 2024-04-24T14:36:36.053Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - validate
 mobiusTag: discovery
 icon: /images/jtbd2.webp
 whatIs: >-
-  Job to be Done (**JTBD**) is an approach in **product** and **service
+  Jobs to be Done (**JTBD**) is an approach in **product** and **service
   development** that focuses on **understanding** the fundamental **needs that
   motivate consumers to purchase** or use a particular product. Instead of
   focusing on the features of the product itself, the JTBD approach concentrates
@@ -18,10 +18,10 @@ whatIs: >-
   service to perform a specific task in their lives.
 
 
-  **For exampl**e, a person might "hire" an electric drill not because they want a drill, but because they need to make holes in the wall to hang a picture. In this sense, the job the customer needs to get done is hanging a picture, and the drill is simply a tool that helps them accomplish that job.
+  **For example**, a person might "hire" an electric drill not because they want a drill, but because they need to make holes in the wall to hang a picture. In this sense, the job the customer needs to get done is hanging a picture, and the drill is simply a tool that helps them accomplish that job.
 
 
-  This framework **helps product and service development teams** better understand customer needs and motivations, which in turn can inform more effective decisions in design, marketing, and product development.
+  The framework was developed by [Tony Ulwick](https://www.linkedin.com/in/tonyulwick/) to **help product and service development teams** better understand customer needs and motivations, which in turn can inform more effective decisions in design, marketing, and product development.
 whyDo: >-
   Using the Job to be Done (JTBD) framework offers several benefits in product
   and service development:
@@ -66,6 +66,9 @@ resources:
   - link: https://theproductmanager.com/topics/how-to-use-jobs-to-be-done-framework-a-guide-for-product-managers/
     linkType: web
     description: How To Use Jobs To Be Done Framework
+  - link: https://strategyn.com/jobs-to-be-done/history-of-jtbd/
+    linkType: web
+    description: History of JTBD - Strategyn
 people: 2+
 difficulty: moderate
 participants:
