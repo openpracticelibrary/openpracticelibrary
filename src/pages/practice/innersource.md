@@ -8,7 +8,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/opl-innersource.png
+icon: /images/innersource-for-dummies.jpeg
 whatIs: I﻿nnerSource is an approach to software development inside an
   organisation that is inspired by the success of the Open Source Software
   movement.  A diverse community of practitioners is sharing and refining
