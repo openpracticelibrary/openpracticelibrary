@@ -48,6 +48,9 @@ resources:
   - link: https://www.packmind.com/innersource-key-benefits/
     linkType: web
     description: InnerSource, understand the benefits in 5 minutes
+  - link: https://www.sciencedirect.com/science/article/pii/S0963868724000015
+    linkType: web
+    description: Does adopting inner source increase job satisfaction? - Paper
 people: 2+
 participants: []
 ---
