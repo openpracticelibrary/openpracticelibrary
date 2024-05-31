@@ -5,6 +5,7 @@ subtitle: Re-use code, collaborate, and use open practices inside your organisat
 date: 2024-05-31T08:11:26.394Z
 authors:
   - kattekrab
+  - rmarting
 tags:
   - culture
 mobiusTag: foundation
