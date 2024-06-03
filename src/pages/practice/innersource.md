@@ -34,13 +34,13 @@ howTo: >-
 
   * [Start as an experiment](https://patterns.innersourcecommons.org/p/start-as-experiment)
 
-  * A﻿gree to, and publish standards 
+  * [A﻿gree to, and publish standards](https://patterns.innersourcecommons.org/p/base-documentation) 
 
-  * U﻿se asynchronous communication tools
+  * [U﻿se asynchronous communication tools](https://patterns.innersourcecommons.org/p/communication-tooling)
 
-  * G﻿rant access to source code repository
+  * [G﻿rant access to source code repository](https://patterns.innersourcecommons.org/p/issue-tracker)
 
-  * Make d﻿ocumentation available
+  * [Make d﻿ocumentation available](https://patterns.innersourcecommons.org/p/innersource-portal)
 
   * Automate testing
 
