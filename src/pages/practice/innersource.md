@@ -16,7 +16,7 @@ whatIs: I﻿nnerSource is an approach to software development inside an
   [patterns at InnerSource commons](https://patterns.innersourcecommons.org/)
 whyDo: >-
   I﻿nnerSource promotes collaboration, and code-reuse. It opens organisational
-  silos, and facilitates the flow of useful content to those who need it.
+  silos, and facilitates the flow of useful content for those who need it.
 
 
   People say it's a useful way to share knowledge, improve code quality, and increase the reach and impact of their work. 
