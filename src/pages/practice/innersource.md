@@ -61,6 +61,9 @@ resources:
   - link: https://www.sciencedirect.com/science/article/pii/S0963868724000015
     linkType: web
     description: Does adopting inner source increase job satisfaction? - Paper
+  - link: https://opensource.com/life/16/11/create-internal-innersource-community
+    linkType: web
+    description: Creating an InnerSource community - opensource.com
 people: 2+
 participants: []
 ---
