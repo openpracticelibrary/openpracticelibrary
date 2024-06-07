@@ -707,3 +707,7 @@ a:focus {
     /* font-size: 2.6rem; */
   }
 }
+
+[data-slate-editor] { 
+    -webkit-user-modify: read-write !important; 
+}
