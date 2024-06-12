@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Niko Niko Board
+title: Niko Niko Calendar
 subtitle: Are a visual tool that helps managers and teams measure happiness and
   motivation (Mood).
 date: 2024-06-12T14:21:08.692Z
