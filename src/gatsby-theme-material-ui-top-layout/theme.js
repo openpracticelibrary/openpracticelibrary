@@ -21,21 +21,37 @@ const theme = createTheme({
       black: "#000",
       white: "#fff",
     },
+    mobiusFoundation: { // purple
+      dark: "#76299a",
+      main: "#a54ccf",
+    },
+    mobiusDiscover: { // blue
+      dark: "#0081af",
+      main: "#00b2f0",
+    },
+    mobiusDecide: { // orange
+      dark: "#c0440b",
+      main: "#f26524",
+    },
+    mobiusDeliver: { // green
+      dark: "#5b8f30",
+      main: "#91ca62",
+    },
     primary: {
       dark: "#00075e",
-      main: "#272c8c",
+      main: "#272c8c", // foundation
       light: "#5d55bd",
     },
     secondary: {
       dark: "#29009a",
-      main: "#6535cc",
+      main: "#6535cc", // discovery
       light: "#9b63ff",
     },
     error: {
-      main: "#E30F8D",
+      main: "#E30F8D", // options
     },
     warning: {
-      main: "#FF6D38",
+      main: "#FF6D38", // delivery
     },
     info: {
       main: "#bac9ff",
