@@ -14,6 +14,8 @@ import {
   Instagram,
   Twitter,
   LinkedIn,
+  Sell,
+  AccountBalanceWallet
 } from "@mui/icons-material";
 import { CCHeart } from "../../../assets/icons/index";
 import Logo from "../../../components/shared/Logo";
@@ -101,6 +103,24 @@ const BodyFooter = () => {
                   <LinkedIn />
                 </Link>
               </Grid>
+              <Grid item>
+                <Link
+                  href="https://www.redbubble.com/shop/ap/153791137"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <Sell />
+                </Link>
+              </Grid>
+              <Grid item>
+                <Link
+                  href="https://opencollective.com/openpracticelibrary"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <AccountBalanceWallet />
+                </Link>
+              </Grid>
             </Grid>
           </Box>
         </Box>
@@ -122,7 +142,7 @@ const BodyFooter = () => {
             </Link>{" "}
             International license. This site is graciously hosted by{" "}
             <Link
-              href="https://www.netlify.com/open-source/" 
+              href="https://www.netlify.com/open-source/"
               target="_blank"
               rel="noopener"
             >
