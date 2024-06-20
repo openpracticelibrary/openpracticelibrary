@@ -1,8 +1,40 @@
 import { grey } from "@mui/material/colors";
-import { createTheme, responsiveFontSizes } from "@mui/material/styles";
+import { createTheme, darken, lighten, responsiveFontSizes, rgbToHex } from "@mui/material/styles";
 import MuiOverrides from "./MuiOverrides";
 // https://material-ui.com/customization/default-theme/
 // Don't override here unless you mean to do it site wide.
+
+const mainMobiusColours = {
+  foundation: "#a54ccf", // purple
+  discover: "#00a6e7", // blue
+  decide: "#ec6624", // orange
+  deliver: "#76b82a", // green
+};
+
+const coefficient = 0.3;
+
+const mobiusColours = {
+  foundation: {
+    dark: rgbToHex(darken(mainMobiusColours.foundation, coefficient)),
+    main: mainMobiusColours.foundation,
+    light: rgbToHex(lighten(mainMobiusColours.foundation, coefficient))
+  },
+  discover: {
+    dark: rgbToHex(darken(mainMobiusColours.discover, coefficient)),
+    main: mainMobiusColours.discover,
+    light: rgbToHex(lighten(mainMobiusColours.discover, coefficient))
+  },
+  decide: {
+    dark: rgbToHex(darken(mainMobiusColours.decide, coefficient)),
+    main: mainMobiusColours.decide,
+    light: rgbToHex(lighten(mainMobiusColours.decide, coefficient))
+  },
+  deliver: {
+    dark: rgbToHex(darken(mainMobiusColours.deliver, coefficient)),
+    main: mainMobiusColours.deliver,
+    light: rgbToHex(lighten(mainMobiusColours.deliver, coefficient))
+  }
+};
 
 const theme = createTheme({
   spacing: 8,
@@ -21,22 +53,10 @@ const theme = createTheme({
       black: "#000",
       white: "#fff",
     },
-    mobiusFoundation: { // purple
-      dark: "#76299a",
-      main: "#a54ccf",
-    },
-    mobiusDiscover: { // blue
-      dark: "#0081af",
-      main: "#00b2f0",
-    },
-    mobiusDecide: { // orange
-      dark: "#c0440b",
-      main: "#f26524",
-    },
-    mobiusDeliver: { // green
-      dark: "#5b8f30",
-      main: "#91ca62",
-    },
+    mobiusFoundation: mobiusColours.foundation,
+    mobiusDiscover: mobiusColours.discover,
+    mobiusDecide: mobiusColours.decide,
+    mobiusDeliver: mobiusColours.deliver,
     primary: {
       dark: "#00075e",
       main: "#272c8c", // foundation
@@ -131,10 +151,10 @@ const theme = createTheme({
   ],
   linearGradient: [
     "linear-gradient(135deg, #bdbdbd 0%, #eeeeee 100%)",
-    "linear-gradient(135deg, #272c8c 0%, #5d55bd 100%)",
-    "linear-gradient(135deg, #6535cc 0%, #9b63ff 100%)",
-    "linear-gradient(135deg, #E30F8D 0%, #ff5bbd 100%)",
-    "linear-gradient(135deg, #FF6D38 0%, #ff9f65 100%)",
+    `linear-gradient(135deg, ${mobiusColours.foundation.main} 0%, ${mobiusColours.foundation.light} 100%)`, // foundation
+    `linear-gradient(135deg, ${mobiusColours.discover.main} 0%, ${mobiusColours.discover.light} 100%)`, // discovery
+    `linear-gradient(135deg, ${mobiusColours.decide.main} 0%, ${mobiusColours.decide.light} 100%)`, // options
+    `linear-gradient(135deg, ${mobiusColours.deliver.main} 0%, ${mobiusColours.deliver.light} 100%)`, // delivery
   ],
   shape: {
     borderRadius: 4,

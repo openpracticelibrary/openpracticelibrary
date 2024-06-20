@@ -45,7 +45,7 @@ const FilterBar = ({ selectedFilter }) => {
           startIcon={mobiusContent["discovery"].icon}
           variant="contained"
         >
-          Discovery
+          Discover
         </Button>
       </Grid>
       <Grid item xs={6} md={2}>
@@ -59,7 +59,7 @@ const FilterBar = ({ selectedFilter }) => {
           startIcon={mobiusContent["options"].icon}
           variant="contained"
         >
-          Options
+          Decide
         </Button>
       </Grid>
       <Grid item xs={6} md={2}>
@@ -73,7 +73,7 @@ const FilterBar = ({ selectedFilter }) => {
           startIcon={mobiusContent["delivery"].icon}
           variant="contained"
         >
-          Delivery
+          Deliver
         </Button>
       </Grid>
     </Grid>
