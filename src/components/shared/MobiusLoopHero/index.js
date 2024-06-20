@@ -68,7 +68,7 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
               fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
             >
               <Typography color="inherit" variant="inherit">
-                Discovery
+                Discover
               </Typography>
             </Box>
             <DiscoveryGraphic />
@@ -96,7 +96,9 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
               }}
               fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
             >
-              <Typography variant="inherit">Options</Typography>
+              <Typography variant="inherit">
+                Decide
+              </Typography>
             </Box>
             <OptionsGraphic />
           </Box>
@@ -124,7 +126,9 @@ const MobiusLoopHero = ({ showContent = true, displaySection = "all" }) => {
               }}
               fontSize={{ xs: ".75rem", sm: "1rem", md: "1.125" }}
             >
-              <Typography variant="inherit">Delivery</Typography>
+              <Typography variant="inherit">
+                Deliver
+              </Typography>
             </Box>
             <DeliveryGraphic />
           </Box>
