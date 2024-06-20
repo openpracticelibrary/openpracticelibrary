@@ -101,6 +101,9 @@ resources:
   - link: https://tkmg.com/books/metrics-based-process-mapping/
     linkType: purchase
     description: Metrics-Based Process Mapping by Karen Martin & Mike Osterling
+  - link: https://vimeo.com/558309693
+    linkType: video
+    description: MBPM Excel tool demo
 participants:
   - Facilitator
   - "Domain experts: BA"
