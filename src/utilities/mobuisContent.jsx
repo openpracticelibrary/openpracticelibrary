@@ -9,19 +9,19 @@ import {
 
 const useMobiusContent = {
   foundation: {
-    color: "primary.dark",
+    color: "mobiusFoundation.main",
     icon: <Terrain />,
   },
   discovery: {
-    color: "secondary.main",
+    color: "mobiusDiscover.main",
     icon: <Explore />,
   },
   options: {
-    color: "error.main",
+    color: "mobiusDecide.main",
     icon: <Loop />,
   },
   delivery: {
-    color: "warning.main",
+    color: "mobiusDeliver.main",
     icon: <Telegram />,
   },
   all: {
