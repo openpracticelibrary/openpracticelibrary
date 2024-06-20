@@ -4,8 +4,8 @@ Welcome! Thank you for taking the time to contribute. This project relies on an 
 
 ## Code of Conduct
 
-This project is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). All participants are expected to uphold this code. Violations of the code can be reported by contacting the project team at
-[rhc-open-innovation-labs@redhat.com](mailto:rhc-open-innovation-labs@redhat.com).
+This project is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). All participants are expected to uphold this code. Violations of the code can be
+reported by contacting the community team at [info@openpracticelibrary.com](mailto:info@openpracticelibrary.com).
 
 ## How to contribute
 
