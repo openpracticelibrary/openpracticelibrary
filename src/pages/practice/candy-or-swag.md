@@ -49,22 +49,12 @@ howTo: >-
 
   1. **NO TALKING**.  If you talk, you get neither Candy nor Swag.
 
-
   2. You have two cards in front of you.  For each round, choose either the Candy or Swag card and show only me your choice as I walk around the room.
-
 
   3. Here's how we determine who gets what:
 
 
-  | SCENARIO | WHO GETS CANDY? | WHO GETS SWAG?  | SUMMARY |
-
-  |---|---|---|---|
-
-  | Everyone chooses Candy | EVERYONE  | NO ONE | Everyone wins a little. |
-
-  | Only 1 chooses Swag | EVERYONE but Swag chooser | Swag chooser ONLY | Everyone wins a little.  Someone wins a lot. |
-
-  | More than 1 choose Swag | NO ONE | NO ONE | Everyone loses. |
+  ![3 Scenarios 1. Everyone choose candy = everyone gets candy, no-one gets swag, everyone wins a little. 2. Only 1 chooses Swag, everyone else gets candy, everyone wins a little, one wins a lot. 3 More than 1 choose swag? no-one gets candy, no-one gets swag, everyone loses.](https://raw.githubusercontent.com/openpracticelibrary/opl-media/949d77bdb1f66b442b3cdd6f4033c0d9f017f6b8/images/OPL-candy-or-swag-table.png)
 
 
   NOTE:  For larger groups, you may want to increase the number of allowable Swag choosers per round.  See the slide set referenced below for recommended guidelines.
