@@ -75,6 +75,9 @@ howTo: >-
   * **Focus on improvement:** Use the data to make positive changes, not assign blame.
 
   * **Celebrate wins:** Acknowledge and celebrate improvements in team mood.
+mediaGallery:
+  - link: static/images/calendario_niko-niko_16-dic-1-.png
+  - link: static/images/niko-niko-calendar.jpg
 resources:
   - link: https://management30.com/practice/niko-niko-calendar/
     linkType: web
