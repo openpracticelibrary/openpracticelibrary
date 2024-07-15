@@ -36,15 +36,15 @@ const ProcessModel = () => {
           accelerate and maximize the use of the Mobius Loop.
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link href="/tags/discovery">Discovery</Link> - practices to help
+          <Link href="/tags/discovery">Discover</Link> - practices to help
           define target outcomes.
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link href="/tags/options">Options</Link> - practices to help identify
+          <Link href="/tags/options">Decide</Link> - practices to help identify
           the path to the right outcomes
         </Typography>
         <Typography variant="h6" gutterBottom>
-          <Link href="/tags/delivery">Delivery</Link> - practices to put your
+          <Link href="/tags/delivery">Deliver</Link> - practices to put your
           ideas to the test. Learn what works and what doesn’t.
         </Typography>
       </Box>
