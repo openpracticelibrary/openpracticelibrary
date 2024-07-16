@@ -68,8 +68,8 @@ howTo: >-
 
   * Generally, projects or decisions with higher RICE scores are considered more important and should be prioritized higher.
 mediaGallery:
-  - link: static/images/rice-scoring-method-2x-1024x536.jpg
-  - link: static/images/rice-formula.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/rice-formula.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/rice-scoring-method-2x-1024x536.jpg
 resources:
   - link: https://www.productplan.com/glossary/rice-scoring-model/
     linkType: web
