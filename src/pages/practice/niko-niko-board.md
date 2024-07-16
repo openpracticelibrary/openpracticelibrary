@@ -76,8 +76,8 @@ howTo: >-
 
   * **Celebrate wins:** Acknowledge and celebrate improvements in team mood.
 mediaGallery:
-  - link: static/images/calendario_niko-niko_16-dic-1-.png
-  - link: static/images/niko-niko-calendar.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/calendario_niko-niko_16-dic-1-.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/niko-niko-calendar.jpg
 resources:
   - link: https://management30.com/practice/niko-niko-calendar/
     linkType: web
