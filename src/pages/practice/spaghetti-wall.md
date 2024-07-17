@@ -80,7 +80,7 @@ howTo: >-
   And that's it! Now you have a common place for collaborating to solve problems and generate new ideas for your organization! Allow the Spaghetti Wall to organically evolve as your organization continues to learn form the work you do. And don't forget to share out updates and success stories from the wall to encourage more collaboration!
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Spaghetti%20Wall%202.jpeg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Wall-of-Ideas-1--1024x571.jpeg
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Wall-of-Ideas-1--1024x571.jpeg?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/Spaghetti%20Wall%203.png?raw=true
 resources:
   - link: https://designabetterbusiness.com/2017/11/09/get-thousand-ideas-no-time/
