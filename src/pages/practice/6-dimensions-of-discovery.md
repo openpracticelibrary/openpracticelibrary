@@ -16,17 +16,17 @@ whatIs: >-
   organisation, team or project across six interrelated dimensions.
 
 
-  * People & culture
+  * People & culture.
 
-  * Tools & technologies
+  * Tools & technologies.
 
-  * Process
+  * Process.
 
-  * Communication
+  * Communication.
 
-  * Work environment
+  * Work environment.
 
-  * Governance
+  * Governance.
 
 
   **Yes, there are overlaps across these dimensions.**
