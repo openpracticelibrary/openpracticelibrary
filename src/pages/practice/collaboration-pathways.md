@@ -32,13 +32,13 @@ whyDo: >-
   A﻿t the team level this would look like this:
 
 
-  ![Individual collaboration](/images/screenshot-2024-05-03-at-15.26.09.png "Individual collaboration")
+  ![Individual collaboration](/images/opl-contribution_-collaboration-pathways-slide-1.png "Individual collaboration")
 
 
   At and ecosystem level this would look like this:
 
 
-  ![Ecosystem collaboration](/images/screenshot-2024-05-03-at-15.26.21.png "Ecosystem collaboration")
+  ![Ecosystem collaboration](/images/opl-contribution_-collaboration-pathways-slide-2.png "Ecosystem collaboration")
 
 
   U﻿sing this practice you will be able to turn shared purpose into shared results!
@@ -54,7 +54,7 @@ howTo: >-
   Understanding the motivation, aspiration, goals, concerns of all parties enables you to form relationships based on trust and transparency
 
 
-  ![Step 1 of Collaboration Pathways](/images/screenshot-2024-05-03-at-15.26.30.png "Step 1 of Collaboration Pathways")
+  ![Step 1 of Collaboration Pathways](/images/opl-contribution_-collaboration-pathways-slide-3.png "Step 1 of Collaboration Pathways")
 
 
   T﻿he image above is probably quite self-explanatory but as a first step it's important to allow individual people, teams, departments or organisations to come up with their version of motivation, aspiration, goals and concerns. Take a few minutes separately to come up with this and discuss each element sharing responses with the other parties.
@@ -66,7 +66,7 @@ howTo: >-
   I﻿n step 2 you will be building on the newly created foundation of trust and insight to create consensus at the "team-level" (the collaboration of all parties) in the areas of (joint) vision, desired outcomes and measurable outcomes. 
 
 
-  ![Step 2 of Collaboration Pathways](/images/screenshot-2024-05-03-at-15.26.37.png "Step 2 of Collaboration Pathways")
+  ![Step 2 of Collaboration Pathways](/images/opl-contribution_-collaboration-pathways-slide-4.png "Step 2 of Collaboration Pathways")
 
 
   With the learnings from step 1 in mind you distill joint-goals as an input for step 2. Take a step back and draw up your joint-vision before going deeper again into the desired outcomes and measurable objectives. You will most likely not be able to map all goals to joint-goals. This is of course absolutely fine and contributes to the shared understanding.
@@ -92,7 +92,7 @@ howTo: >-
   * M﻿iro, see an example below:
 
 
-  ![Miro - Collaborative Pathways](/images/screenshot-2024-05-03-at-15.47.18.png "Miro - Collaborative Pathways")
+  ![Miro - Collaborative Pathways](/images/opl-contribution_-collaboration-pathways-slide-5.png "Miro - Collaborative Pathways")
 mediaGallery: []
 resources:
   - link: https://openpracticelibrary.com/practice/social-contract/
