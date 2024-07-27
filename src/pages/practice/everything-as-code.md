@@ -49,6 +49,9 @@ resources:
   - link: https://www.ansible.com/
     linkType: web
     description: Ansible
+  - link: https://hackernoon.com/everything-as-code-eac-what-is-it-and-why-is-it-important
+    linkType: web
+    description: EaC on Hackernoon by Terence Wong
 people: ""
 participants: []
 area: foundation-technical
