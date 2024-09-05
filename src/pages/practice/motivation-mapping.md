@@ -62,7 +62,7 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/dfe979c10d5f092d05ae84ee831c50134df6d666/static/images/motivationmapping.png?raw=true
   - link: https://github.com/openpracticelibrary/openpracticelibrary/blob/main/static/images/motivationmapexample.png?raw=true
 resources:
-  - link: https://www.mobiusnavigator.com/toolkit
+  - link: https://www.mobiusloop.com/
     linkType: web
     description: Mobius Navigator Toolkit
 participants: []
