@@ -129,6 +129,14 @@ howTo: >-
   Communicate the findings of the Monte Carlo simulation to project stakeholders. Clearly communicate the level of uncertainty and risk associated with the project and the implications for project planning and decision-making. Use visualizations such as charts, graphs, or probability distributions to effectively communicate complex information.
 mediaGallery:
   - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/master/images/monte-carlo.webp
+  - link: https://www.youtube.com/watch?v=F507_UiCOyU
+resources:
+  - link: https://www.scrum.org/resources/monte-carlo-forecasting-explained
+    linkType: web
+    description: In this video, PST Thomas Schissler and Glaudia Califano explain
+      Monte Carlo Simulation. Monte Carlo Simulations can be used to make
+      probabilistic forecasts. This video explains how it can be used in the
+      context of product delivery.
 people: 2+
 difficulty: hard
 participants:
