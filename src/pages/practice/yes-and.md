@@ -36,7 +36,7 @@ howTo: >-
   Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”
 
 
-  From https://liberationist.org/yes-and-improv/
+  From https://www.fearlessculture.design/blog-posts/yes-and-improv
 mediaGallery:
   - link: https://youtu.be/KA447nZpVzs?list=PLKof9YSAshgzxvPf6HLzELtVZyaoaVwRh
   - link: https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be
