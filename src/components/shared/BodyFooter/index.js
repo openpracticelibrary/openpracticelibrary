@@ -11,8 +11,6 @@ import {
   Mic,
   MailOutline,
   GitHub,
-  Instagram,
-  Twitter,
   LinkedIn,
   Sell,
   AccountBalanceWallet
@@ -74,24 +72,6 @@ const BodyFooter = () => {
                   target="_blank"
                 >
                   <MailOutline />
-                </Link>
-              </Grid>
-              <Grid item>
-                <Link
-                  href="https://www.instagram.com/openpracticelibrary/?hl=en"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <Instagram />
-                </Link>
-              </Grid>
-              <Grid item>
-                <Link
-                  href="https://www.twitter.com/practicelibrary/?hl=en"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <Twitter />
                 </Link>
               </Grid>
               <Grid item>
