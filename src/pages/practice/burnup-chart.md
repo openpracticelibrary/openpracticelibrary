@@ -4,7 +4,7 @@ title: Burnup Chart
 subtitle: "Burnup Chart main objective is to track the progress of a project over time. "
 date: 2024-01-17T16:29:38.326Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - measure
 mobiusTag: delivery
