@@ -5,7 +5,7 @@ subtitle: Provide a structured approach for clearly understanding and defining a
   problem, object, concept, or situation.
 date: 2024-01-23T15:21:32.625Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - validate
 mobiusTag: discovery
