@@ -1,10 +1,7 @@
 ---
 templateKey: practice-page
 title: Cynefin Framework
-subtitle: The Cynefin Framework is a tool designed to help individuals and
-  organizations make better decisions by understanding the context in which they
-  operate. It provides a structured approach to categorizing situations based on
-  their complexity and helps determine the most appropriate response.
+subtitle: Understand context complexity to make better decisions.
 date: 2024-10-28T15:32:12.350Z
 authors:
   - Moimero
@@ -17,7 +14,7 @@ whatIs: >-
   five domains:
 
 
-  * **Simple**: Clear cause-and-effect relationships exist. Best practices and standard operating procedures are effective.
+  * **Clear**: Cause-and-effect relationships exist. Best practices and standard operating procedures are effective.
 
   * **Complicated**: Cause-and-effect relationships can be determined through analysis. Experts can provide the best solutions.
 
@@ -38,15 +35,13 @@ whyDo: >-
 
   * **Improved collaboration:** Fosters better communication and understanding among team members.
 howTo: >-
-  
-
   1. **Sense:** Observe the situation and gather information.
 
   2. **Categorize**: Determine which domain the situation belongs to (simple, complicated, complex, chaotic, or disorder).
 
   3. **Respond**: Select the appropriate response based on the domain:
 
-  4. * **Simple**: Follow best practices.
+  4. * **Clear**: Follow best practices.
      * **Complicated**: Analyze the situation and apply expert knowledge.
      * **Complex**: Experiment and adapt.
      * **Chaotic**: Act to stabilize the situation and then move to a more complex or complicated domain.
