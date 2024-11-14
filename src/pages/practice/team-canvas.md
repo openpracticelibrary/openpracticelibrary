@@ -4,7 +4,7 @@ title: Team Canvas
 subtitle: Achieve better team alignment, collaboration, and productivity.
 date: 2023-08-17T15:09:14.659Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - culture
   - methods
