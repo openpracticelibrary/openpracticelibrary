@@ -1,10 +1,8 @@
 ---
 templateKey: practice-page
 title: Stacey Matrix
-subtitle: "The Stacey Matrix is a tool designed to help individuals and teams
-  choose the most appropriate approach to managing change or making decisions in
-  complex situations. It does this by considering two key factors: the degree of
-  certainty about the situation, and the level of agreement among stakeholders."
+subtitle: Decide on a management approach by evaluating the level of agreement
+  and certainty.
 date: 2024-10-28T15:16:51.408Z
 authors:
   - Moimero
