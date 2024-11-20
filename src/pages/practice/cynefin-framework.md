@@ -8,7 +8,7 @@ authors:
   - jimmysjolund
 tags:
   - validate
-mobiusTag: discovery
+mobiusTag: options
 icon: /images/cynefin18feb2021.png
 whatIs: >-
   The Cynefin Framework is a sense-making model that categorizes situations into
