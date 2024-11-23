@@ -21,7 +21,7 @@ If the person reviewing the PR has feedback on a change that is a "correct patch
 
 To learn more, see [Why Optimistic Merging Works Better](http://hintjens.com/blog:106) and [Collective Code Construction Contract (C4)](https://rfc.zeromq.org/spec:42/C4/) from Pieter Hintjens, who coined the term "optimistic merging". The Open Practice Library community has discussed this way of working in #208.
 
-This workflow is still being refined and improved. If you have feedback, feel free to [get in touch via Gitter](https://gitter.im/openpracticelibrary/).
+This workflow can and will be refined and improved. If you have feedback, feel free to raise an issue here in GitHub.
 
 ## Running the site locally
 Open Practice Library is built with [Gatsby](https://gatsbyjs.org/) and the [Material UI](https://material-ui.com/).
