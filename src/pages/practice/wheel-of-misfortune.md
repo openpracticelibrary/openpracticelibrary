@@ -79,10 +79,10 @@ howTo: >-
 
    **Tooling** 
 
-  You can use this nice tool for your team/organization: https://dastergon.gr/wheel-of-misfortune/
+  You can use this nice tool for your team/organization: <https://dastergon.github.io/wheel-of-misfortune/>
 
 
-  Instruction: https://dastergon.gr/wheel-of-misfortune/instructions.html
+  Instruction: <https://dastergon.github.io/wheel-of-misfortune/instructions.html>
 
 
   ![Game](/images/screenshot-from-2021-08-03-12-53-35.png)
