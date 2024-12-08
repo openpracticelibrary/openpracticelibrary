@@ -3,6 +3,7 @@ import FullText from "./FullText";
 import MediaGallery from "./MediaGallery";
 import Resources from "./Resources";
 import { Box, Typography } from "@mui/material";
+import { GithubSelector } from '@charkour/react-reactions';
 
 const PageBody = ({
   body: { whatIs, whyDo, howTo },
@@ -69,6 +70,12 @@ const PageBody = ({
               links={resources}
               resourceRef={resourceRef}
             />
+            <Typography gutterBottom variant="h6" ref={resourceRef}>
+              Feedback is welcome!
+            </Typography>
+            <Typography align="center" gutterBottom variant="subtitle1">
+                <GithubSelector />
+            </Typography>
           </>
         )}
       </Box>
