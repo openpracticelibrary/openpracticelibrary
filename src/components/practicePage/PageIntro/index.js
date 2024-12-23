@@ -2,6 +2,7 @@ import React from "react";
 import ContributedBy from "./ContributedBy";
 import Collection from "../../shared/Collection";
 import { Box, Container, Typography } from "@mui/material";
+import mobiusContent from "../../../utilities/mobuisContent";
 
 const PageIntro = ({
   title,
@@ -16,6 +17,7 @@ const PageIntro = ({
   questions,
   date,
   preview,
+  mobiusTag,
 }) => (
   <Container maxWidth="md">
     <Box display="flex" flexDirection="column" marginTop={3}>
@@ -24,6 +26,13 @@ const PageIntro = ({
       </Typography>
       <Typography variant="h5" data-testid={"subtitle"}>
         {subtitle}
+      </Typography>
+    </Box>
+    <Box display="flex" flexDirection="row" justifyContent="flex-start" alignItems="center" pr={3} minWidth="fit-content">
+    <Typography variant="overline">A practice of</Typography>
+      {mobiusContent[mobiusTag.toLowerCase()].icon}
+      <Typography variant="h7" data-testid={"mobiusTag"}>
+        { "options" === mobiusTag ? "DECIDE" : mobiusTag.toUpperCase()}
       </Typography>
     </Box>
     <ContributedBy
