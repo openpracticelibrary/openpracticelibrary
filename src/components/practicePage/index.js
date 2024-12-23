@@ -63,6 +63,7 @@ const PracticePage = ({ data, preview }) => {
     date,
     imgCount: mediaGallery ? mediaGallery.length : 0,
     preview,
+    mobiusTag,
   };
 
   const pageMenuData = { practiceId };
