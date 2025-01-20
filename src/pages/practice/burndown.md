@@ -1,8 +1,25 @@
 ---
 templateKey: practice-page
+title: Burndown
+subtitle: Visualisation of work left to do within a specified time period
+date: 2018-04-07T22:33:55.000Z
 authors:
   - tdbeattie
   - mtakane
+tags:
+  - culture
+mobiusTag: foundation
+icon: /images/burndown_original.png
+whatIs: >-
+  A burndown chart is a visualisation of work left to do within a specified time
+  period. The remaining work (or backlog) is often on the vertical axis, with
+  time along the horizontal. 
+
+
+  Teams often use burndown charts to track progress within fixed time periods (for example, Sprint Burndown charts). They can also be used to visualise progress for longer time periods and milestones (for example, Release Burndown charts).
+whyDo: Burndown charts provide real data about a team's velocity and provides a
+  mechanism as to whether the team's current velocity and trajectory will result
+  in it meeting its committed goal(s).
 howTo: >-
   * Draw a horizontal and vertical line on the flip-chart
 
@@ -25,6 +42,8 @@ howTo: >-
   * Flip chart pens
 
   * Long ruler
+mediaGallery:
+  - link: https://openpracticelibrary.github.io/opl-media/images/burndown.png
 resources:
   - link: https://openpracticelibrary.com/practice/realtime-retrospective/
     linkType: web
@@ -35,33 +54,14 @@ resources:
   - link: https://www.atlassian.com/agile/tutorials/burndown-charts
     linkType: web
     description: JIRA Burndown Charts
+difficulty: moderate
 participants:
   - Facilitator (such as a ScrumMaster)
   - The full team who are responsible for delivering the work visualised on the
     chart.
 area: foundation-culture-and-collaboration
-title: Burndown
-subtitle: Visualisation of work left to do within a specified time period
-date: 2018-04-07T22:33:55.000Z
-tags:
-  - culture
-mobiusTag: foundation
-icon: /images/final_burndown.png
-whatIs: >-
-  A burndown chart is a visualisation of work left to do within a specified time
-  period. The remaining work (or backlog) is often on the vertical axis, with
-  time along the horizontal. 
-
-
-  Teams often use burndown charts to track progress within fixed time periods (for example, Sprint Burndown charts). They can also be used to visualise progress for longer time periods and milestones (for example, Release Burndown charts).
-whyDo: Burndown charts provide real data about a team's velocity and provides a
-  mechanism as to whether the team's current velocity and trajectory will result
-  in it meeting its committed goal(s).
-mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/burndown.png
 people: 2+
 time: 5-10 minutes
-difficulty: moderate
 ---
 ## What is it?
 
