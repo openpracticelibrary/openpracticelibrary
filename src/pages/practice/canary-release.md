@@ -8,7 +8,7 @@ authors:
 tags:
   - learn
 mobiusTag: delivery
-icon: /images/canary-releases-ilaria.png
+icon: /images/canaryreleaseoriginal.png
 whatIs: >-
   In software development, this is a form of Continuous Delivery in which only a
   small part of the real users of a product will be exposed to the new version
