@@ -11,7 +11,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/final_test-automation.png
+icon: /images/testautomation_original.png
 whatIs: >-
   Test Automation allows teams to remove the slow and manual testing cycles
   related to software development. Test Automation can include such things as:
