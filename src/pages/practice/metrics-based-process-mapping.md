@@ -10,7 +10,7 @@ authors:
 tags:
   - value
 mobiusTag: discovery
-icon: /images/mbpm2.jpg
+icon: /images/mbpm_original.png
 whatIs: >-
   
 
