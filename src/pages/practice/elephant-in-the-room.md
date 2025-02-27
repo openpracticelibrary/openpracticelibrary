@@ -103,7 +103,7 @@ howTo: >-
 
   * Communicate the progress to the team.
 mediaGallery:
-  - link: static/images/elephantintheroom2.jpeg
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/elephantintheroom2.jpeg?raw=true
 resources:
   - link: https://www.linkedin.com/posts/thevisualagilecoach_lets-talk-about-the-in-the-room-we-activity-7300063947653541888-4CRB
     linkType: web
