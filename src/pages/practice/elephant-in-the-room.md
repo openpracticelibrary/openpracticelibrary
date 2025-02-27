@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Elephant in the Room
+title: An Elephant in the Room
 subtitle: To surface and address unspoken issues for improved team dynamics and progress.
 date: 2025-02-27T19:42:28.789Z
 authors:
