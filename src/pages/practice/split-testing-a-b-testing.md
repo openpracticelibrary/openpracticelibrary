@@ -6,10 +6,9 @@ subtitle: Quantitative testing of two alternative designs to learn which better
 date: 2018-12-17T22:03:07.370Z
 authors:
   - valyonchev
-tags:
-  - validate
-mobiusTag: delivery
-icon: /images/ab-testing-ilaria.png
+tags: null
+mobiusTag: options
+icon: /images/abtestingoriginal.png
 whatIs: This is a randomised experiment in which we compare and evaluate the
   performance of different versions of a product in pairs. Both product versions
   are available in production (live) and randomly provided to different users.
