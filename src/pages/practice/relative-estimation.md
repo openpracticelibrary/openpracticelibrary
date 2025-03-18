@@ -40,80 +40,59 @@ howTo: >-
   the fruit below?
 
 
-
   ![](https://openpracticelibrary.github.io/opl-media/images/apple.jpg)
-
 
 
   1. If we were using story points the first challenge here would be identifying the 1-pointer. Let's say that is the grape.
 
-
-
   2. From there we then compare the other fruits to the grape.
-
-
 
   3. Maybe the apple is a bit tougher as you've got to eat around the core, so let's call that a 2-pointer.
 
-
-
   4. Then the orange and banana have to be peeled first so that might make it more difficult than both of the previous fruits. We therefore know it's harder than the grape and apple but how much harder? Is it harder than the coconut?
 
-
-
   5. Probably not. So lets call them a 3-pointer and the coconut, which requires a lot more effort, an 8-pointer.
-
 
 
   As we go through these estimations conversations will occur within the team and you'll discover more with understandings beginning to align. In this example this might include things like:
 
 
-
   * Perhaps someone has a tool that makes opening coconuts easier so maybe it doesn't require as much effort as we thought?
 
-
-
   * Maybe the orange has pips in it and also it's more difficult than the banana?
-
 
 
   ## A helpful tool for big planning
 
 
-
   The Relative estimation line is one technique that can help with this sort of thing allowing for quick and easy estimation based on past experience. This line should contain reference stories that have already been estimated (or preferably completed) and allows the team to compare previous work.
-
 
 
   An example:
 
 
-
   * 'Okay we have story A, is this bigger than the 3 points we have here?'
-
-
 
   * Assuming yes - 'Okay is it bigger than the 8 pointer? Or is it roughly the same size'
 
-
-
   * Assuming no - 'Okay so we'll say its a 5 pointer then'
-
 
 
   ![](https://openpracticelibrary.github.io/opl-media/images/sizing.jpg)
 
 
-
   ## Tips for remote working
-
 
 
   * Not very different from how it is run normally but look to utilize online estimating tools and voting applications where possible.
 
-
-
   * It is relevant to avoid stories too big that are brought into the sprint and they are carried over multiple sprint, as in face to face engagements.
+
+
+  ## How to handle unknowns?
+
+
+  If items contain unknown factors which make it difficult to do the relative sizing, you can factor that in as size and increment it. To stay in the fruit example from above, what if you have a fruit no one has ever eaten before? By size the unknown fruit might be similar to a coconut, but you don't know the contents (e.g. edible kernel), therefore you increase it's relative size to factor in the unknown.
 mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/sizing.jpg
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Relative%20Sizing.jpeg?raw=true
