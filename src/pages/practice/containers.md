@@ -1,31 +1,14 @@
 ---
 templateKey: practice-page
-authors:
-  - jamesallenred
-  - Zenigata
-howTo: "* [Understanding Linux
-  containers](https://www.redhat.com/en/topics/containers) by Red Hat."
-resources:
-  - link: https://en.wikipedia.org/wiki/Virtual_machine
-    linkType: web
-    description: Wikipedia entry for Virtual Machines
-  - link: https://en.wikipedia.org/wiki/Bare-metal_server
-    linkType: web
-    description: Wikipedia entry for Bare Metal Server
-  - link: https://www.redhat.com/en/topics/containers
-    linkType: web
-    description: Understanding Linux containers
-participants:
-  - Developers
-  - Operations
-  - Infrastructure
-area: foundation-technical
 title: Container
 subtitle: "A software package that contains everything the software needs to run. "
 date: 2018-09-04T06:19:38.381Z
+authors:
+  - jamesallenred
+  - Zenigata
 tags: []
-mobiusTag: delivery
-icon: /images/containers.jpg
+mobiusTag: foundation
+icon: /images/containers.png
 whatIs: >-
   A technical description of a Linux container is a sandboxed process or
   processes isolated on a [VM](https://en.wikipedia.org/wiki/Virtual_machine) or
@@ -42,11 +25,28 @@ whyDo: >-
   * **Speed** – A container image starts up very quickly, in most cases less than a second, as opposed to multiple minutes if not longer for a traditional system to boot up.
 
   * **DevSecOps Enabler** – Building an immutable container image allows for developers to develop only the application/service specific code while having the security team scan the image to ensure its compliance. Then the container image can be run by the operations team who will only require knowledge on running containers rather than application specific knowledge, thus enabling DevSecOps practices.
+howTo: "* [Understanding Linux
+  containers](https://www.redhat.com/en/topics/containers) by Red Hat."
 mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/containers.jpg?raw=true
+resources:
+  - link: https://en.wikipedia.org/wiki/Virtual_machine
+    linkType: web
+    description: Wikipedia entry for Virtual Machines
+  - link: https://en.wikipedia.org/wiki/Bare-metal_server
+    linkType: web
+    description: Wikipedia entry for Bare Metal Server
+  - link: https://www.redhat.com/en/topics/containers
+    linkType: web
+    description: Understanding Linux containers
+difficulty: moderate
+participants:
+  - Developers
+  - Operations
+  - Infrastructure
+area: foundation-technical
 people: "1"
 time: Ongoing
-difficulty: moderate
 ---
 ## What is it?
 
