@@ -7,7 +7,7 @@ authors:
   - jamesallenred
   - Zenigata
 tags: []
-mobiusTag: delivery
+mobiusTag: foundation
 icon: /images/containers.png
 whatIs: >-
   A technical description of a Linux container is a sandboxed process or
@@ -27,6 +27,8 @@ whyDo: >-
   * **DevSecOps Enabler** – Building an immutable container image allows for developers to develop only the application/service specific code while having the security team scan the image to ensure its compliance. Then the container image can be run by the operations team who will only require knowledge on running containers rather than application specific knowledge, thus enabling DevSecOps practices.
 howTo: "* [Understanding Linux
   containers](https://www.redhat.com/en/topics/containers) by Red Hat."
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/containers.jpg?raw=true
 resources:
   - link: https://en.wikipedia.org/wiki/Virtual_machine
     linkType: web
@@ -37,15 +39,13 @@ resources:
   - link: https://www.redhat.com/en/topics/containers
     linkType: web
     description: Understanding Linux containers
-people: "1"
 difficulty: moderate
 participants:
   - Developers
   - Operations
   - Infrastructure
 area: foundation-technical
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/containers.jpg?raw=true
+people: "1"
 time: Ongoing
 ---
 ## What is it?
