@@ -1,9 +1,13 @@
 ---
 templateKey: practice-page
+title: Blue Green Deployments
+subtitle: Always have a fall back solution
 date: 2018-12-18T18:56:38.846Z
 authors:
   - valyonchev
+tags: []
 mobiusTag: delivery
+icon: /images/bluegreendeployments-deliver.png
 whatIs: >-
   Blue Green Deployment is a technique in software development which relies on
   two productive environments being available to the team. One of them, let’s
@@ -34,6 +38,8 @@ howTo: >-
 
 
   [BlueGreen Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html) by Martin Fowler
+mediaGallery:
+  - link: https://openpracticelibrary.github.io/opl-media/images/blue-green.jpg
 resources:
   - link: https://openpracticelibrary.com/practice/continuous-delivery/
     linkType: web
@@ -53,19 +59,13 @@ resources:
   - link: https://martinfowler.com/bliki/BlueGreenDeployment.html
     linkType: web
     description: BlueGreen Deployments
-people: 2+
 participants:
   - DevOps Team
 area: delivery-deliver
-mediaGallery:
-  - link: https://openpracticelibrary.github.io/opl-media/images/blue-green.jpg
+people: 2+
 time: 2+ hours
 perspectives:
   - product-ownership
-title: Blue Green Deployments
-subtitle: Always have a fall back solution
-tags: []
-icon: /images/bluegreen.png
 difficulty: moderate
 ---
 ## What is it?
