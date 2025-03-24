@@ -105,6 +105,9 @@ resources:
       28591ee2-6bd4-41b1-acc3-596638f5f50f "
     linkType: web
     description: RACI Stakeholder Map Template
+  - link: https://miro.com/miroverse/stakeholder-raci-map/
+    linkType: web
+    description: RACI Stakeholder Map Miro Template
 difficulty: easy
 participants: []
 ---
