@@ -100,6 +100,8 @@ howTo: >-
 
 
   Document decisions or record the meeting – Helps in having a clear record of tasks and justifications. The Stakeholder RACI Map assists in making us better at managing people on a project. It ensures everyone is aware of what they need to do on the project. Utilizing this structured approach, implementing this map can significantly increase team efficiency and success!
+mediaGallery:
+  - link: https://cdn.venngage.com/template/thumbnail/small/28591ee2-6bd4-41b1-acc3-596638f5f50f.webp
 resources:
   - link: "https://venngage.com/templates/diagrams/raci-stakeholder-whiteboard-map-\
       28591ee2-6bd4-41b1-acc3-596638f5f50f "
