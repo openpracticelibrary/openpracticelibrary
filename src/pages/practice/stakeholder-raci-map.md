@@ -9,7 +9,7 @@ authors:
   - debimoura
   - andrecataldo
 mobiusTag: discovery
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/logo-raci.png
 whatIs: >-
   A Stakeholder RACI Map is a diagram that helps to show the roles and
   responsibilities of the people involved with a project or initiative. The word
