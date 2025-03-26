@@ -47,7 +47,7 @@ howTo: >-
 
   F﻿or more patterns, on how to practice InnerSource see <https://patterns.innersourcecommons.org/>
 mediaGallery:
-  - link: https://promyze-tester.preview.strattic.io/wp-content/uploads/Maintainers-1024x724.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/d91a2e4961e7a32d895073e2614a96da03421561/static/images/innersource-circle.png
 resources:
   - link: https://innersourcecommons.org/
     linkType: web
