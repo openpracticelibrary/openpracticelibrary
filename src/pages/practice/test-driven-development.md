@@ -9,7 +9,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/test_tube_truck.jpg
+icon: /images/testdrivendevelopment_original.png
 whatIs: Test Driven Development (TDD) is a software development process that
   relies on the repetition of a very short development cycle. Requirements are
   turned into test cases, then the software is developed to pass the tests. In
