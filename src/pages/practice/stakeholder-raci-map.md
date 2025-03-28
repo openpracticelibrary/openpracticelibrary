@@ -45,7 +45,7 @@ howTo: >-
   To create a Stakeholder RACI Map, follow these steps:
 
 
-  ### 3.1 Facilitation Materials Needed
+  ### Facilitation Materials Needed
 
 
   Before starting, gather facilitation material as needed:
@@ -60,7 +60,7 @@ howTo: >-
   * Video conferencing software, if working remotely (Zoom, MS Teams, Google Meet, etc.).
 
 
-  ### 3.2 Preparation
+  ### Preparation
 
 
   * Identify key people – List all the groups connected with the project.
@@ -72,7 +72,7 @@ howTo: >-
   * Invite stakeholders – Ensure all interested individuals are aware of the process and its importance.
 
 
-  ### 3.3 Execution
+  ### Execution
 
 
   * Construct the Matrix – Create a table with stakeholders as the title and activities as column one.
@@ -84,7 +84,7 @@ howTo: >-
   * Adjust and refine – As required, amend overlaps or gaps.
 
 
-  ### 3.4 Tips for Remote Working
+  ### Tips for Remote Working
 
 
   If the facilitation is done online, keep the following in mind:
@@ -95,8 +95,6 @@ howTo: >-
   * Break facilitation into steps – Split the workshop into smaller sections to keep everybody engaged.
 
   * Establish interaction rules – Teach the participants how to communicate and give feedback in the session.
-
-
 
 
   Document decisions or record the meeting – Helps in having a clear record of tasks and justifications. The Stakeholder RACI Map assists in making us better at managing people on a project. It ensures everyone is aware of what they need to do on the project. Utilizing this structured approach, implementing this map can significantly increase team efficiency and success!
