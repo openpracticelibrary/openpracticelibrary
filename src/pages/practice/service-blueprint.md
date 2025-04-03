@@ -6,6 +6,7 @@ date: 2018-11-14T18:39:21.278Z
 authors:
   - darcief
   - JordiOlive
+  - mtakane
 tags:
   - ideate
 mobiusTag: discovery
