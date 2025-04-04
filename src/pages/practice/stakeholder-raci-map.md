@@ -8,6 +8,7 @@ date: 2025-03-24T20:46:47.254Z
 authors:
   - debimoura
   - andrecataldo
+  - andrecataldo
 mobiusTag: discovery
 icon: /images/logo-raci.png
 whatIs: >-
