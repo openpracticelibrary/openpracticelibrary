@@ -9,7 +9,12 @@ tags:
   - culture
 mobiusTag: foundation
 icon: /images/yes-and.jpeg
-whatIs: An exercise to promote good team practice for generating lots of quality ideas.
+whatIs: >-
+  This is a fun team practice for generating lots of great ideas that emerged
+  from the Theatresports community last century. 
+
+
+  > "The powerful thing about “yes, and” is that it creates an environment where everyone feels safe and confident contributing ideas without fear of rejection." [Alyssa Murray](https://medium.com/@alyssadmurray/yes-and-306029ebff9a)
 whyDo: >-
   Often when presented with a new idea, or suggestion, our natural response is
   to critique that idea, to review, refine, or reject it. "Yes! And… "
@@ -33,10 +38,11 @@ howTo: >-
   Round 2: Same approach. This time, the response is “Yes, but…” Everyone presents an objection and then shares their idea.
 
 
-  Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”
+  Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”\
 
+  \
 
-  From https://www.fearlessculture.design/blog-posts/yes-and-improv
+  F﻿rom [Fearless Culture](https://www.fearlessculture.design/blog-posts/yes-and-improv)
 mediaGallery:
   - link: https://youtu.be/KA447nZpVzs?list=PLKof9YSAshgzxvPf6HLzELtVZyaoaVwRh
   - link: https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be
