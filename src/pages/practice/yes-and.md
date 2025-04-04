@@ -9,7 +9,12 @@ tags:
   - culture
 mobiusTag: foundation
 icon: /images/yes-and.jpeg
-whatIs: A fun team practice for generating lots of great ideas
+whatIs: >-
+  This is a fun team practice for generating lots of great ideas that emerged
+  from the Theatresports community last century. 
+
+
+  > "The powerful thing about “yes, and” is that it creates an environment where everyone feels safe and confident contributing ideas without fear of rejection." [Alyssa Murray](https://medium.com/@alyssadmurray/yes-and-306029ebff9a)
 whyDo: >-
   Often when presented with a new idea, or suggestion, our natural response is
   to critique that idea, to review, refine, or reject it. "Yes! And… "
