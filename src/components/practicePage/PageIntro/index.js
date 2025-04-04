@@ -29,10 +29,10 @@ const PageIntro = ({
       </Typography>
     </Box>
     <Box display="flex" flexDirection="row" justifyContent="flex-start" alignItems="center" pr={3} minWidth="fit-content">
-      <a href="/tags/{"mobiusTag"}">
+      <a href="/tags/{mobiusTag}">
         {mobiusContent[mobiusTag.toLowerCase()].icon}
       </a>
-      <a href="/tags/{"mobiusTag"}">
+      <a href="/tags/{mobiusTag}">
         <Typography variant="h7" data-testid={"mobiusTag"}>
         { "options" === mobiusTag ? "DECIDE" : mobiusTag.toUpperCase()}
         </Typography>
