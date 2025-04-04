@@ -8,10 +8,10 @@ on:
       - ".github/**"
 jobs:
   test:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Wait for Netlify
         uses: openpracticelibrary/wait-for-netlify-action@feature-max-build-timeout
         id: waitForDeployment
@@ -21,7 +21,7 @@ jobs:
         env:
           NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
       - name: Cypress Tests
-        uses: cypress-io/github-action@v2
+        uses: cypress-io/github-action@v6
         with:
           browser: chrome
           headless: true
