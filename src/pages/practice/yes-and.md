@@ -9,7 +9,7 @@ tags:
   - culture
 mobiusTag: foundation
 icon: /images/yes-and.jpeg
-whatIs: An exercise to promote good team practice for generating lots of quality ideas.
+whatIs: A fun team practice for generating lots of great ideas
 whyDo: >-
   Often when presented with a new idea, or suggestion, our natural response is
   to critique that idea, to review, refine, or reject it. "Yes! And… "
