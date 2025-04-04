@@ -7,6 +7,7 @@ subtitle: Clearly define the roles and responsibilities of stakeholders in a
 date: 2025-03-24T20:46:47.254Z
 authors:
   - debimoura
+  - andrecataldo
 mobiusTag: discovery
 icon: /images/logo-raci.png
 whatIs: >-
@@ -96,7 +97,7 @@ howTo: >-
   * Establish interaction rules – Teach the participants how to communicate and give feedback in the session.
 
 
-  Document decisions or record the meeting – Helps in having a clear record of tasks and justifications. The Stakeholder RACI Map assists in making us better at managing people on a project. It ensures everyone is aware of what they need to do on the project. Utilizing this structured approach, implementing this map can significantly increase team efficiency and success!
+  Document decisions or record the meeting – Helps in having a clear record of tasks and justifications. The Stakeholder RACI Map assists in making us better at managing people on a project. It ensures everyone is aware of what they need to do on the project. Utilising this structured approach, implementing this map can significantly increase team efficiency and success!
 mediaGallery:
   - link: https://cdn.venngage.com/template/thumbnail/small/28591ee2-6bd4-41b1-acc3-596638f5f50f.webp
 resources:
