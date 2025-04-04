@@ -38,10 +38,11 @@ howTo: >-
   Round 2: Same approach. This time, the response is “Yes, but…” Everyone presents an objection and then shares their idea.
 
 
-  Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”
+  Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”\
 
+  \
 
-  From https://www.fearlessculture.design/blog-posts/yes-and-improv
+  F﻿rom [Fearless Culture](https://www.fearlessculture.design/blog-posts/yes-and-improv)
 mediaGallery:
   - link: https://youtu.be/KA447nZpVzs?list=PLKof9YSAshgzxvPf6HLzELtVZyaoaVwRh
   - link: https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be
