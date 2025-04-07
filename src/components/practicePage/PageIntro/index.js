@@ -29,7 +29,6 @@ const PageIntro = ({
       </Typography>
     </Box>
     <Box display="flex" flexDirection="row" justifyContent="flex-start" alignItems="center" pr={3} minWidth="fit-content">
-    <Typography variant="overline">A practice of</Typography>
       {mobiusContent[mobiusTag.toLowerCase()].icon}
       <Typography variant="h7" data-testid={"mobiusTag"}>
         { "options" === mobiusTag ? "DECIDE" : mobiusTag.toUpperCase()}
