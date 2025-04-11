@@ -37,6 +37,9 @@ resources:
   - description: Wheel-of-Misfortune
     link: https://openpracticelibrary.com/practice/wheel-of-misfortune/
     linkType: web
+  - link: https://github.com/Ortec-Finance/fire-drill-template
+    linkType: web
+    description: Fire Drill Template Repository
 people: 5+ (2 Persons to facilitate and at least a team of 3+ to experience the
   Fire Drill.)
 time: "A Fire Drill can be active parts of the day or for full days. The idea is
