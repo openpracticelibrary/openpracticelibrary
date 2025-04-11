@@ -54,6 +54,9 @@ howTo: >-
 
 
   The Game Moderator is an expert in the field of Cloud with the ability and creativity to make and execute Scenarios. It is recommended that the Game Moderator also has Didactic skills to handle the aftermath and communication with the Players.
+
+
+  For both Game Council and Game Moderator roles only one person is needed at a minimum, however two is recommended.
 resources:
   - description: Wheel-of-Misfortune
     link: https://openpracticelibrary.com/practice/wheel-of-misfortune/
