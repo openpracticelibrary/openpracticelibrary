@@ -33,6 +33,10 @@ howTo: The Fire Drill itself, which we call Game Days, is essentially just the
   each phase in the loop is using a shared channel on a communication platform
   like Slack or Teams. That’s also where the team communicates escalations,
   talks to the vendor, submitting bug reports and sharing post-mortems etc.
+resources:
+  - description: Wheel-of-Misfortune
+    link: https://openpracticelibrary.com/practice/wheel-of-misfortune/
+    linkType: web
 people: 5+ (2 Persons to facilitate and at least a team of 3+ to experience the
   Fire Drill.)
 time: "A Fire Drill can be active parts of the day or for full days. The idea is
