@@ -23,8 +23,9 @@ whyDo: Incidents fortunately don’t occur too often, but when they do, it’s a
   crucial time to give a good response. Particularly in large changes in product
   architecture or changes in team topology it is good to run a Fire Drill with a
   team. This gets the team to identify gaps in their communication, missing
-  metrics and alerts in their systems and most importantly <work in
-  progress....>
+  metrics and alerts in their systems and most importantly strengthen
+  collaboration so everyone works together to proactively address SRE Related
+  issues.
 howTo: The Fire Drill itself, which we call Game Days, is essentially just the
   Game Moderator triggering incidents on a production replica which the
   Engineering team has to Detect - Identify - Communicate - Resolve. That’s the
