@@ -26,14 +26,34 @@ whyDo: Incidents fortunately don’t occur too often, but when they do, it’s a
   metrics and alerts in their systems and most importantly strengthen
   collaboration so everyone works together to proactively address SRE Related
   issues.
-howTo: The Fire Drill itself, which we call Game Days, is essentially just the
-  Game Moderator triggering incidents on a production replica which the
-  Engineering team has to Detect - Identify - Communicate - Resolve. That’s the
-  basic loop of a Fire Drill and if the Moderator knows the team well, that’s
-  really all you need to get a feel for it. The way the Engineering team reports
-  each phase in the loop is using a shared channel on a communication platform
-  like Slack or Teams. That’s also where the team communicates escalations,
-  talks to the vendor, submitting bug reports and sharing post-mortems etc.
+howTo: >-
+  The Fire Drill itself, which we call Game Days, is essentially just the Game
+  Moderator triggering incidents on a production replica which the Engineering
+  team has to Detect - Identify - Communicate - Resolve. That’s the basic loop
+  of a Fire Drill and if the Moderator knows the team well, that’s really all
+  you need to get a feel for it. The way the Engineering team reports each phase
+  in the loop is using a shared channel on a communication platform like Slack
+  or Teams. That’s also where the team communicates escalations, talks to the
+  vendor, submitting bug reports and sharing post-mortems etc.
+
+
+
+
+  A Fire Drill can be active parts of the day or for full days. The idea is for the Players to experience an incident in the most realistic manner possible. It is therefore encouraged to just schedule the Fire Drills for a few days and have the scenarios run at some moments within the day. A recommended guideline is 1 Day per Player.  
+
+
+  To facilitate the Fire Drills well we recommend setting up two roles: 
+
+
+  * The Game Council 
+
+  * The Game Moderators 
+
+
+  The role of the Game Council is minimal, it’s there as an independent party to govern so that the Product Owner’s wishes align with the Scenarios that will be executed during the Fire Drill.  
+
+
+  The Game Moderator is an expert in the field of Cloud with the ability and creativity to make and execute Scenarios. It is recommended that the Game Moderator also has Didactic skills to handle the aftermath and communication with the Players.
 resources:
   - description: Wheel-of-Misfortune
     link: https://openpracticelibrary.com/practice/wheel-of-misfortune/
@@ -46,18 +66,7 @@ resources:
     linkType: web
 people: 5+ (2 Persons to facilitate and at least a team of 3+ to experience the
   Fire Drill.)
-time: "A Fire Drill can be active parts of the day or for full days. The idea is
-  for the Players to experience an incident in the most realistic manner
-  possible. It is therefore encouraged to just schedule the Fire Drills for a
-  few days and have the scenarios run at some moments within the day. A
-  recommended guideline is 1 Day per Player.  To facilitate the Fire Drills well
-  we recommend setting up two roles: The Game Council The Game Moderators The
-  role of the Game Council is minimal, it’s there as an independent party to
-  govern so that the Product Owner’s wishes align with the Scenarios that will
-  be executed during the Fire Drill.  The Game Moderator is an expert in the
-  field of Cloud with the ability and creativity to make and execute Scenarios.
-  It is recommended that the Game Moderator also has Didactic skills to handle
-  the aftermath and communication with the Players."
+time: 3 days (minimum)
 difficulty: hard
 participants:
   - For both Game Council and Game Moderator roles only one person is needed at
