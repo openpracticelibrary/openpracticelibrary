@@ -40,6 +40,9 @@ resources:
   - link: https://github.com/Ortec-Finance/fire-drill-template
     linkType: web
     description: Fire Drill Template Repository
+  - description: Planning · 🔥Fire Drills Moderator Template
+    link: https://github.com/orgs/Ortec-Finance/projects/17
+    linkType: web
 people: 5+ (2 Persons to facilitate and at least a team of 3+ to experience the
   Fire Drill.)
 time: "A Fire Drill can be active parts of the day or for full days. The idea is
