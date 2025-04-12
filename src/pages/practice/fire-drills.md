@@ -7,7 +7,7 @@ authors:
   - joriscram
   - zeidh
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/emergency-prep-openclipart.png
 whatIs: >-
   Fire Drills is a fun and safe way to practice Incident Management and Response
   in practice. It’s an extension of Chaos Engineering, which is a discipline for
@@ -37,8 +37,6 @@ howTo: >-
   vendor, submitting bug reports and sharing post-mortems etc.
 
 
-
-
   A Fire Drill can be active parts of the day or for full days. The idea is for the Players to experience an incident in the most realistic manner possible. It is therefore encouraged to just schedule the Fire Drills for a few days and have the scenarios run at some moments within the day. A recommended guideline is 1 Day per Player.  
 
 
@@ -56,7 +54,13 @@ howTo: >-
   The Game Moderator is an expert in the field of Cloud with the ability and creativity to make and execute Scenarios. It is recommended that the Game Moderator also has Didactic skills to handle the aftermath and communication with the Players.
 
 
-  For both Game Council and Game Moderator roles only one person is needed at a minimum, however two is recommended.
+  For both Game Council and Game Moderator roles only one person is needed at a minimum, however two is recommended.\
+
+  \
+
+  i﻿mage: by oksmith, [Teaching Emergency Preparedness](https://openclipart.org/detail/284487/teaching-emergency-preparedness), Open ClipArt
+mediaGallery:
+  - link: https://openclipart.org/image/800px/284487
 resources:
   - description: Wheel-of-Misfortune
     link: https://openpracticelibrary.com/practice/wheel-of-misfortune/
