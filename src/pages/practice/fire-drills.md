@@ -2,7 +2,7 @@
 templateKey: practice-page
 title: Fire Drills
 subtitle: Increase the confidence of your Team by gamifying Incident Management.
-date: 2025-01-07T10:07:17.966Z
+date: 2025-04-12T11:48:49.611Z
 authors:
   - joriscram
   - zeidh
