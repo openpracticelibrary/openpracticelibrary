@@ -97,23 +97,3 @@ Round 2: Same approach. This time, the response is “Yes, but…” Everyone pr
 Round 3: Finally, you bring up the “Yes, and…” approach. People need to build on other’s ideas by replying “yes, and we can also…”
 
 From https://liberationist.org/yes-and-improv/
-
-## Further Information
-
-This is a common and widely used practice that emerged from the Theatresports community last century. Explore the practice further here:
-
-- https://liberationist.org/yes-and-improv/
-- https://www.dramanotebook.com/drama-games/yes-and/
-- https://www.thoughtco.com/yes-and-improv-game-2713213
-
-Videos showing the practice in action:
-
-- https://www.vox.com/2018/6/3/17414570/second-city-improv-anne-libera-kelly-leonard-code-conference
-- https://www.youtube.com/watch?v=DcJHuqiFO2g&feature=youtu.be
-
-Some context for where, how and why it can be a useful technique:
-
-- https://www.fastcompany.com/3024535/yes-and-improv-techniques-to-make-you-a-better-boss
-- https://zapier.com/learn/customer-support/improv-customer-support/
-
-> "The powerful thing about “yes, and” is that it creates an environment where everyone feels safe and confident contributing ideas without fear of rejection. [Alyssa Murray](https://medium.com/@alyssadmurray/yes-and-306029ebff9a)
