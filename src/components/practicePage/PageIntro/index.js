@@ -45,7 +45,7 @@ const PageIntro = ({
         {title}
       </Typography>
       <Typography variant="h5" data-testid={"subtitle"}>
-        {subtitle} - {mobiusTag}
+        {subtitle}
       </Typography>
     </Box>
     <Grid container spacing={1} justifyContent="left">
