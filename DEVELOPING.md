@@ -29,7 +29,7 @@ Open Practice Library is built with [Gatsby](https://gatsbyjs.org/) and the [Mat
 ### Quick start
 These steps should work on any platform.
 
-1. [Install Node & npm](https://nodejs.org/en/download/).
+1. [Install Node & npm](https://nodejs.org/en/download/) (should work with Node 20, newer version might cause problems).
 2. Run `npm install -g gatsby-cli` to install Gatsby CLI
 3. Check out this repo.
 4. Navigate to the directory where you checked out this repo.
