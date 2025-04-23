@@ -79,7 +79,7 @@ howTo: >-
   It’s good to have a suggestion of what to model before starting a session. However the final goal should be the result of team agreement.
 
 
-  Before moving on to the next section, check that every attendee understands the goal.
+  Before moving on to the next section, check that every attendee understands the goal and how the rest of the Session will work.
 
 
   ## Alone Together
@@ -88,7 +88,7 @@ howTo: >-
   This section should take ten minutes or less.
 
 
-  For the first part of this section set a timer for three to five minutes. During this time everyone works individually and quietly on the same modelling task. After the timer elapses, each person explains their own diagram to the rest of the group.
+  For the first part of this section set a timer for three to five minutes. During this time everyone works individually and quietly on the same modelling task. After the timer elapses, each person explains their own diagram to the rest of the group, while everyone else listens.
 
 
   This modus operandi might be atypical, here are few reasons why it’s useful:
@@ -103,22 +103,21 @@ howTo: >-
   * Understand how other people in the team think of the systems
 
 
-  ![Image of participants with their individual models](https://bytesizearchitecturesessions.com/images/alone-together.png)
-
-
   ## Consensus
 
 
-  The longer part of the session, lasting between twenty to thirty minutes.
+  The longer part of the session, lasting between twenty to thirty minutes. Set up a timer and be strict with it.
 
 
   **Consensus** is about coming together to create one diagram from scratch with the combined knowledge of the team.
 
 
-  It’s normal for things to get a little hectic. In order to achieve the goal, designate a scribe that can rotate every meeting. The scribe will be drawing the diagram from scratch with everyone’s help.
+  It’s normal for things to get a little hectic. Consensus doesn't mean avoid disagreement, it means the group working together to understand how things work, to work through the issues. 
 
 
-  The host plays a key role during this time when and if the conversation starts deviating from the goal of the session.
+  The work stops when the timer elapses, if the model is not finished, the continue the next session. 
+
+
 
 
   ## Summary
@@ -127,18 +126,20 @@ howTo: >-
   The last few minutes of the meeting.
 
 
-  Some retrospection on the workshop. This part of the session is about reviewing what was achieved and what needs to be done next. Set a timer for one minute, have people write about what they learned and any other feedback in sticky notes.
-
-
-  Optional bonus task: ask for a volunteer to create a clean copy of the diagram, and to bring whatever outstanding questions remain to the next session.
+  Basically a mini-retro about what just happened. This part of the session is about reviewing what was achieved, what needs to be done next. Set a timer for one minute, have people write about what they learned and any other feedback in sticky notes.
 
 
   ## Do it again!
 
 
-  Repetition is a great way to learn, it is ideal to do another session in a week or two. It shouldn’t be so often that it overwhelms people and it should be often enough to keep familiarity with things discussed.
+  Repetition is a great way to learn, it is ideal to do another session in a week or two. It shouldn’t be so often that it overwhelms people and it should be often enough to keep what was discussed on the top of people's minds.
 
 
   Bytesize Sessions can be used for continuous learning. It’s also possible to set long running goals, for example Bytesize Architecture Sessions can be used to create a Target Architecture or help enable inter-team communication for a complicated piece of work.
+mediaGallery:
+  - link: https://vimeo.com/842232215
+people: 2 to 10
+time: 45 to 90 minutes
+difficulty: easy
 participants: []
 ---
