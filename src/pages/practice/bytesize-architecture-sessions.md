@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: https://bytesizearchitecturesessions.com/images/bytesize-infographic.png
+icon: /images/bytesize-infographic.png
 whatIs: >-
   Bytesize Architecture Sessions are a workshop format that helps teams
   understand the systems they work on. Each session focuses on a small slice of
