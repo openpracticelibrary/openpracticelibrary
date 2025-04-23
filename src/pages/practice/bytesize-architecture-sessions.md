@@ -137,6 +137,7 @@ howTo: >-
 
   Bytesize Sessions can be used for continuous learning. It’s also possible to set long running goals, for example Bytesize Architecture Sessions can be used to create a Target Architecture or help enable inter-team communication for a complicated piece of work.
 mediaGallery:
+  - link: https://youtu.be/SIIiNLoPDFA
   - link: https://vimeo.com/842232215
 resources:
   - link: https://bytesizearchitecturesessions.com/
