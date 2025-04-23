@@ -18,6 +18,9 @@ whatIs: >-
 
 
   A session lasts between 45 and 90 minutes, and has four well defined parts: Session Goal, Alone Together, Consensus and Summary. You can model your systems using different tools. I suggest starting with [C4 Diagrams](https://c4model.com/).
+
+
+  ![](/images/bytesize-infographic.png)
 whyDo: >-
   Consider using Bytesize Architecture Sessions if you experience any of the
   following common difficulties:
