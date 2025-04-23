@@ -55,7 +55,7 @@ whyDo: >-
 
   Bytesize Sessions are especially valuable for new members of the team or those with less experience. This is especially true in teams that don’t do pair programming or have deep silos. The Sessions “open up the ‘world’” It is hard to overstate how important it is to have an accurate mental model.
 howTo: >-
-  # Before the session, prepare people
+  ### Before the session, prepare people
 
 
   One of the main objectives of the Bytesize Sessions is for a team to have a homogeneous understanding of the system they work with. The right people to attend are all the people that have a high level of influence on that system.
@@ -67,13 +67,13 @@ howTo: >-
   The recommended modelling tool when starting is [C4](https://c4model.com/). If the team is not experienced with it, train them on it before a Session. During a Bytesize Session the attendees should focus on modelling, not the modelling tool of choice.
 
 
-  # Running a Bytesize Architecture Session
+  ### Running a Bytesize Architecture Session
 
 
   The key to a good session is ensuring everyone knows what they need to do, that they don’t feel lost. At the start of the session explain the overall format, then for each part delve into the specifics.
 
 
-  ## Goal
+  #### Goal
 
 
   This section of the meeting should take about five minutes and it’s about having a *Goal* for this particular session. A good first session is to model the system that the team actively works on *as it is right now*. Bear in mind that the attendees will have a handful of minutes or less to model this. If the system you are trying to model is too big, choose a subsection to focus on.
@@ -85,7 +85,7 @@ howTo: >-
   Before moving on to the next section, check that every attendee understands the goal and how the rest of the Session will work.
 
 
-  ## Alone Together
+  #### Alone Together
 
 
   This section should take ten minutes or less.
@@ -106,7 +106,7 @@ howTo: >-
   * Understand how other people in the team think of the systems
 
 
-  ## Consensus
+  #### Consensus
 
 
   The longer part of the session, lasting between twenty to thirty minutes. Set up a timer and be strict with it.
@@ -121,9 +121,7 @@ howTo: >-
   The work stops when the timer elapses, if the model is not finished, the continue the next session. 
 
 
-
-
-  ## Summary
+  #### Summary
 
 
   The last few minutes of the meeting.
@@ -132,7 +130,7 @@ howTo: >-
   Basically a mini-retro about what just happened. This part of the session is about reviewing what was achieved, what needs to be done next. Set a timer for one minute, have people write about what they learned and any other feedback in sticky notes.
 
 
-  ## Do it again!
+  ### Do it again!
 
 
   Repetition is a great way to learn, it is ideal to do another session in a week or two. It shouldn’t be so often that it overwhelms people and it should be often enough to keep what was discussed on the top of people's minds.
