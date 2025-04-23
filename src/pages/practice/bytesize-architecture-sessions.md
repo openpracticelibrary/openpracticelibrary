@@ -4,7 +4,7 @@ title: Bytesize Architecture Sessions
 subtitle: "Iteratively collaborate to learn about your systems "
 date: 2025-04-23T07:58:03.150Z
 authors:
-  - Andrea
+  - andrea
 tags:
   - methods
 mobiusTag: foundation
