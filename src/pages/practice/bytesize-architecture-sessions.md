@@ -147,6 +147,9 @@ resources:
   - link: https://www.roundcrisis.com/2021/09/28/bytesize-architecture-sessions/
     linkType: web
     description: Original post about Bytesize Architecture Sessuibs
+  - link: https://vimeo.com/842232215
+    linkType: video
+    description: Vimeo - Knowledge sharing is Systems building
 people: 2 to 10
 time: 45 to 90 minutes
 difficulty: easy
