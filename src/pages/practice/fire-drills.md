@@ -60,6 +60,7 @@ howTo: >-
 
   i﻿mage: by oksmith, [Teaching Emergency Preparedness](https://openclipart.org/detail/284487/teaching-emergency-preparedness), Open ClipArt
 mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/OPL-firedrills-template.png
   - link: https://openclipart.org/image/800px/284487
 resources:
   - description: Wheel-of-Misfortune
