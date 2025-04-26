@@ -5,6 +5,7 @@ subtitle: "Iteratively collaborate to learn about your systems "
 date: 2025-04-23T07:58:03.150Z
 authors:
   - Andrea
+  - ""
 tags:
   - methods
 mobiusTag: foundation
@@ -139,14 +140,14 @@ howTo: >-
   Bytesize Sessions can be used for continuous learning. It’s also possible to set long running goals, for example Bytesize Architecture Sessions can be used to create a Target Architecture or help enable inter-team communication for a complicated piece of work.
 mediaGallery:
   - link: https://youtu.be/SIIiNLoPDFA
-  - link: https://vimeo.com/842232215
+  - link: https://www.youtube.com/watch?v=guZphWx5Clk
 resources:
   - link: https://bytesizearchitecturesessions.com/
     linkType: web
     description: The home for Bytesize Architecture Sessions
   - link: https://www.roundcrisis.com/2021/09/28/bytesize-architecture-sessions/
     linkType: web
-    description: Original post about Bytesize Architecture Sessuibs
+    description: "[History] Original post about Bytesize Architecture Sessions"
   - link: https://vimeo.com/842232215
     linkType: video
     description: Vimeo - Knowledge sharing is Systems building
