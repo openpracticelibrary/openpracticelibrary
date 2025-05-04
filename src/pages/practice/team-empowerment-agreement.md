@@ -1,11 +1,8 @@
 ---
 templateKey: practice-page
 title: Team Empowerment Agreement
-subtitle: Empowerment Agreements are co-created understandings between
-  managers/leaders and their teams that clarify decision-making boundaries,
-  check-in points, and definitions of success. These agreements foster autonomy,
-  mutual trust, and aligned accountability, enabling faster, more confident
-  decision-making and reducing dependency bottlenecks.
+subtitle: Accelerate confident decision-making and reduce bottlenecks by
+  clarifying boundaries to foster autonomy, trust, and accountability.
 date: 2025-04-28T13:43:16.685Z
 authors:
   - ShabnoorShah
@@ -63,18 +60,31 @@ howTo: >-
   Facilitate a structured conversation with the team. Use three simple prompts:
 
 
-  | Category                 | Guiding Questions                                       | Example Outputs                                                                                                   |
-
-  | ------------------------ | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-
-  | **Decide Independently** | "What decisions can you make without needing approval?" | \- Prioritizing daily work - Choosing technical tools (within security guidelines) - Adjusting sprint commitments |
-
-  | **Check-in Points**      | "What decisions should we discuss or confirm together?" | \- Major resource allocation - Customer-facing policy changes - Exceeding budget limits                           |
-
-  | **Success Measures**     | "How will we know our empowerment is working?"          | \- Increased speed of delivery - Higher team morale - Achievement of key OKRs                                     |
+  **1. D﻿ecide Independently** 
 
 
-  ### Step 3: **Document the Agreement**
+  G﻿uiding Question : What questions can you make without needing approval
+
+
+  E﻿xample Outputs : Prioritising daily work, Choosing Technical Tools (within securoty guidelines), Adjusting sprint commitments etc
+
+
+  **2﻿. Check-in Points** 
+
+
+  G﻿uiding Question : What decisions should we discuss or confirm together?
+
+
+  E﻿xample Outputs: Major resource allocation, Customer-facing policy changes, Exceeding budget limits etc
+
+
+  **3﻿. Success Measures** 
+
+
+  "Ho﻿w will we know our empowerment is working?
+
+
+  E﻿xample Outputs: Increased speed of delivery - Higher team Morale, Achievement of key OKRs etc.
 
 
   Capture the collective agreements into a simple, clear document or visual format that everyone can access.\
@@ -85,7 +95,7 @@ howTo: >-
   ### Step 4: **Review and Adapt Regularly**
 
 
-  Schedule regular touchpoints (e.g., quarterly) to review the Empowerment Agreement:
+  Schedule regular touch-points (e.g., quarterly) to review the Empowerment Agreement:
 
 
   * What’s working well?
@@ -96,8 +106,6 @@ howTo: >-
 
 
   Adjust as trust deepens and the team matures.
-
-
 
 
   ## Tips for Success
