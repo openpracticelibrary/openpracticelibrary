@@ -5,7 +5,7 @@ subtitle: Accelerate confident decision-making and reduce bottlenecks by
   clarifying boundaries to foster autonomy, trust, and accountability.
 date: 2025-04-28T13:43:16.685Z
 authors:
-  - ShabnoorShah
+  - shabnoorshah
 tags:
   - culture
 mobiusTag: foundation
@@ -15,7 +15,7 @@ whatIs: >-
   and their teams that clarify decision-making boundaries, check-in points, and
   definitions of success. These agreements foster autonomy, mutual trust, and
   aligned accountability, enabling faster, more confident decision-making and
-  reducing dependency bottlenecks
+  reducing dependency bottlenecks.
 
 
   **W﻿hen to use it?**
@@ -63,7 +63,7 @@ howTo: >-
   **1. D﻿ecide Independently** 
 
 
-  G﻿uiding Question : What questions can you make without needing approval
+  G﻿uiding Question : What decisions can you make without needing approval?
 
 
   E﻿xample Outputs : Prioritising daily work, Choosing Technical Tools (within securoty guidelines), Adjusting sprint commitments etc
