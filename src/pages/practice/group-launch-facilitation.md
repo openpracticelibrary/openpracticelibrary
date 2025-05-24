@@ -8,7 +8,7 @@ subtitle: To successfully form and launch a group of interdependent teams by
   managing organizational complexity.
 date: 2025-05-24T10:10:17.663Z
 authors:
-  - Operational_Excellence_Co-Operative
+  - Operational_Excellence_CoOp
 tags:
   - methods
   - culture
