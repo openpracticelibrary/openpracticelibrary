@@ -7,11 +7,12 @@ subtitle: To align leadership teams, shift focus from operational tasks to
   leaders model behaviors that foster trust, empower teams, and drive
   organizational improvement.
 date: 2025-05-24T12:02:06.612Z
-authors: []
+authors:
+  - Operational_Excellence_CoOp
 tags:
   - methods
 mobiusTag: foundation
-icon: https://github.com/openpracticelibrary/opl-media/blob/master/images/Needs%20an%20Image.png?raw=true
+icon: /images/leadershiplaunch.jpg
 whatIs: "A structured facilitation process designed to help leadership
   teams:  \r
 
