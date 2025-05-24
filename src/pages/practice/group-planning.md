@@ -6,7 +6,7 @@ subtitle: "Enable teams to adapt effectively to rapidly changing work
   addressing capacity constraints through continuous, short-cycle planning.  "
 date: 2025-05-24T11:21:07.602Z
 authors:
-  - Operational_Excellence_Co-Operative
+  - Operational_Excellence_CoOp
 tags:
   - methods
   - measure
