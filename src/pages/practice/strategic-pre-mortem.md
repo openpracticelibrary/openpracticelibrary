@@ -7,7 +7,8 @@ subtitle: The objective of a strategic pre-mortem is to proactively identify
   challenges, mitigate risks early, and increase the likelihood of project
   success.
 date: 2025-05-24T12:17:45.578Z
-authors: []
+authors:
+  - Operational_Excellence_CoOp
 tags:
   - methods
 mobiusTag: foundation
