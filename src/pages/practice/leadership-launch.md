@@ -104,7 +104,9 @@ howTo: >-
   * **Track Actions:** Assign owners and deadlines for follow-up tasks.  
 
   * **Revisit:** Schedule quarterly reviews to update agreements and metrics.
-mediaGallery: []
+mediaGallery:
+  - link: https://github.com/operationalX/organisational_methods/blob/bbfce11817b8f7fe0bbcdf1036f040f8a5191f88/Leadership%20Launch/leadership%20launch%20-%20agreement.pdf
+  - link: https://github.com/operationalX/organisational_methods/blob/bbfce11817b8f7fe0bbcdf1036f040f8a5191f88/Leadership%20Launch/leadership%20launch%20-%20work.pdf
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Leadership%20Launch
     description: Leadership Launch Download
