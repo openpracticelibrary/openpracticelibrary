@@ -12,7 +12,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/strategic-premortem.jpg
+icon: /images/griffin-quinn-pw49mq_0u8-unsplash.jpg
 whatIs: A strategic pre-mortem is a collaborative exercise where participants
   imagine a project has already failed. Rooted in the work of Gary Klein, this
   practice encourages teams to work backward to diagnose hypothetical causes of
@@ -115,7 +115,10 @@ howTo: "### Preparation  \r
   - Balance async work with brief check-ins to maintain momentum.  \r
 
   - Document constraints and decisions clearly for remote participants.  "
-mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods
+mediaGallery: []
+resources:
+  - link: https://github.com/operationalX/organisational_methods/tree/main/Strategic%20Pre-Mortem
+    linkType: web
+    description: Strategic Pre-mortem Download
 participants: []
 ---
