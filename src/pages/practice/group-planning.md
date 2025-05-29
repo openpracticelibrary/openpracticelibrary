@@ -105,7 +105,10 @@ howTo: >-
   * **Balance Async & Sync**: Use async prep to reduce meeting time but ensure live collaboration for critical decisions.  
 
   * **Respect Fear**: Acknowledge concerns about autonomy and provide leadership reassurance upfront.
-mediaGallery: []
+mediaGallery:
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Plan/group%20plan%20-%20next%20and%20later%20roadmap.pdf
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Plan/group%20plan%20-%20now%20roadmap.pdf
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Plan/group%20plan_%20context.pdf
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Plan
     linkType: web
