@@ -11,24 +11,24 @@ tags:
   - methods
   - measure
 mobiusTag: foundation
-icon: /images/groupplan.jpg
-whatIs: "Group Planning is a flexible, rolling short-cycle process integrated
-  into a team’s regular workflow. It replaces rigid long-term planning (e.g.,
-  quarterly cycles) with iterative sessions focused on synchronizing team plans,
-  surfacing risks and dependencies, and fostering alignment across the
-  organization. Key components include:  \r
+icon: /images/geojango-maps-z8ugb80_46w-unsplash.jpg
+whatIs: >-
+  Photo by [GeoJango
+  Maps](https://unsplash.com/@geojango_maps?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  - **Pre-planning**: Aligning teams with strategic roadmaps, OKRs, and known
-  constraints.  \r
 
-  - **Planning**: Developing team-specific roadmaps and backlogs based on
-  organizational priorities.  \r
 
-  - **Synchronization**: Collaboratively refining plans across teams to
-  address complications and dependencies.  \r
 
-  - **Post-planning**: Updating tools, resolving actions, and preparing for
-  the next cycle."
+  Group Planning is a flexible, rolling short-cycle process integrated into a team’s regular workflow. It replaces rigid long-term planning (e.g., quarterly cycles) with iterative sessions focused on synchronizing team plans, surfacing risks and dependencies, and fostering alignment across the organization. Key components include:  
+
+
+  * **Pre-planning**: Aligning teams with strategic roadmaps, OKRs, and known constraints.  
+
+  * **Planning**: Developing team-specific roadmaps and backlogs based on organizational priorities.  
+
+  * **Synchronization**: Collaboratively refining plans across teams to address complications and dependencies.  
+
+  * **Post-planning**: Updating tools, resolving actions, and preparing for the next cycle.
 whyDo: "- **Adapt to Change**: Traditional long-cycle plans often become invalid
   due to shifting priorities, market changes, or capacity issues. Group Planning
   ensures continuous alignment.  \r
@@ -105,7 +105,10 @@ howTo: >-
   * **Balance Async & Sync**: Use async prep to reduce meeting time but ensure live collaboration for critical decisions.  
 
   * **Respect Fear**: Acknowledge concerns about autonomy and provide leadership reassurance upfront.
-mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/tree/main
+mediaGallery: []
+resources:
+  - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Plan
+    linkType: web
+    description: Group Planning Download
 participants: []
 ---
