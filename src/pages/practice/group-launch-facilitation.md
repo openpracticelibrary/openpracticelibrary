@@ -13,24 +13,25 @@ tags:
   - methods
   - culture
 mobiusTag: foundation
-icon: /images/grouplaunhc.jpg
-whatIs: "Group Launch Facilitation is a structured approach to forming and
-  aligning teams at the \"group\" level (a team of teams). It combines
-  synchronous and asynchronous facilitation methods to:  \r
+icon: /images/nikhil-mitra-gsscjrdr5y4-unsplash.jpg
+whatIs: >-
+  Photo by [Nikhil
+  Mitra](https://unsplash.com/@nikhilmitra?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
 
-  - Define the group’s context, relationships, and purpose.  \r
 
-  - Design workflows, metrics, and decision-making frameworks.  \r
+  Group Launch Facilitation is a structured approach to forming and aligning teams at the "group" level (a team of teams). It combines synchronous and asynchronous facilitation methods to:  
 
-  - Establish behavioral agreements and communication channels.  \r
 
-  - Streamline meetings and reduce coordination overhead.  \r
+  * Define the group’s context, relationships, and purpose.  
 
-  \r
+  * Design workflows, metrics, and decision-making frameworks.  
 
-  The practice draws inspiration from adaptive leadership principles (e.g.,
-  Gen. McChrystal’s \"gardener\" leadership model) and emphasizes clarity,
-  autonomy, and alignment to combat organizational entropy. "
+  * Establish behavioral agreements and communication channels.  
+
+  * Streamline meetings and reduce coordination overhead.  
+
+
+  The practice draws inspiration from adaptive leadership principles (e.g., Gen. McChrystal’s "gardener" leadership model) and emphasizes clarity, autonomy, and alignment to combat organizational entropy.
 whyDo: "- **Reduce Organizational Chaos**: Prevents process bloat and
   misalignment by clarifying roles, workflows, and dependencies upfront.  \r
 
@@ -124,7 +125,10 @@ howTo: >-
 
 
   By following this structured approach, groups can launch effectively, sustain alignment, and deliver value consistently.
-mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/tree/main
+mediaGallery: []
+resources:
+  - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Launch
+    linkType: web
+    description: Team Group Launch Download
 participants: []
 ---
