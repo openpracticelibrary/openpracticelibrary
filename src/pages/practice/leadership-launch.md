@@ -12,21 +12,23 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/leadershiplaunch.jpg
-whatIs: "A structured facilitation process designed to help leadership
-  teams:  \r
+icon: /images/nasa-dcgbraqmtqa-unsplash.jpg
+whatIs: >-
+  Photo by
+  [NASA](https://unsplash.com/@nasa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  - **Align priorities** and clarify roles.  \r
 
-  - **Delegate effectively** by refining decision-making frameworks.  \r
+  A structured facilitation process designed to help leadership teams:  
 
-  - **Establish communication channels** to reduce redundant meetings.  \r
 
-  - **Model desired behaviors** through intentional collaboration and
-  vulnerability.  \r
+  * **Align priorities** and clarify roles.  
 
-  The practice combines synchronous workshops and asynchronous activities to
-  create a \"living document\" that evolves with the team’s needs."
+  * **Delegate effectively** by refining decision-making frameworks.  
+
+  * **Establish communication channels** to reduce redundant meetings.  
+
+  * **Model desired behaviors** through intentional collaboration and vulnerability.\
+    The practice combines synchronous workshops and asynchronous activities to create a "living document" that evolves with the team’s needs.
 whyDo: "**Signals indicating the need:**  \r
 
   - Leadership fatigue or misalignment.  \r
@@ -102,7 +104,10 @@ howTo: >-
   * **Track Actions:** Assign owners and deadlines for follow-up tasks.  
 
   * **Revisit:** Schedule quarterly reviews to update agreements and metrics.
-mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods
+mediaGallery: []
+resources:
+  - link: https://github.com/operationalX/organisational_methods/tree/main/Leadership%20Launch
+    description: Leadership Launch Download
+    linkType: web
 participants: []
 ---
