@@ -114,6 +114,6 @@ howTo: >-
 
   * **Balance Sync/Async**: Tailor facilitation to team collaboration habits.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods
+  - link: https://github.com/operationalX/organisational_methods/blob/main/adapt%20-%20virtual%20obeya_%20culture.pdf
 participants: []
 ---
