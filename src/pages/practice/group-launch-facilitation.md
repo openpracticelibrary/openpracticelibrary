@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Group Launch Facilitation
+title: Group Launch (Program Launch, Division Launch, Department Launch)
 subtitle: To successfully form and launch a group of interdependent teams by
   aligning them around a shared purpose, establishing clear workflows,
   clarifying decision-making authority, and fostering effective collaboration.
