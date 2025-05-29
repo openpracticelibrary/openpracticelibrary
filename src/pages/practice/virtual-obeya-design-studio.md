@@ -56,7 +56,7 @@ whyDo: "**Key Signals for Implementation**:  \r
   - Promotes autonomy through directional alignment and transparency.  \r
 
   - Supports onboarding and continuous organizational learning.  "
-howTo: >-
+howTo: >
   ### **Preparation**
 
 
