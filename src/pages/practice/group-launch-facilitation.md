@@ -125,7 +125,11 @@ howTo: >-
 
 
   By following this structured approach, groups can launch effectively, sustain alignment, and deliver value consistently.
-mediaGallery: []
+mediaGallery:
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20agreement.pdf
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20context.pdf
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20meetings.pdf
+  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20work.pdf
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Launch
     linkType: web
