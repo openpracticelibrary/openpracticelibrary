@@ -8,11 +8,11 @@ subtitle: The Virtual Obeya Design Studio enables organizations to create a
   environments by visualizing strategy, work, performance, and cultural health.
 date: 2025-05-24T12:38:43.200Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - validate
 mobiusTag: discovery
-icon: /images/virtualobeya.jpg
+icon: /images/opl_virtualobeya.png
 whatIs: "**Obeya** (Japanese for \"Large Room\"):  \r
 
   - Originated from the Toyota Production System and Agile practices.  \r
