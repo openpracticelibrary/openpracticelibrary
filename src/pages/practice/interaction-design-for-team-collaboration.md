@@ -1,6 +1,6 @@
 ---
 templateKey: practice-page
-title: Interaction Design for Team Collaboration
+title: Inter-Team Agreement
 subtitle: Align teams around shared goals, resolve conflicts, and optimize
   workflows across team boundaries to enhance collaboration efficiency and value
   delivery in remote/hybrid environments.
@@ -11,28 +11,32 @@ tags:
   - ideate
   - methods
 mobiusTag: foundation
-icon: /images/interteama.jpg
-whatIs: "A structured framework to **design, analyze, and improve interactions**
-  between teams. It focuses on:  \r
+icon: /images/collins-lesulie-qph6b7une1k-unsplash.jpg
+whatIs: >-
+  Photo by [Collins
+  Lesulie](https://unsplash.com/@clesulie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  - **Bridging silos** by clarifying dependencies and shared purposes.  \r
 
-  - **Streamlining workflows** to reduce bottlenecks (e.g., hidden queues,
-  misaligned priorities).  \r
+  A structured framework to **design, analyze, and improve interactions** between teams. It focuses on:  
 
-  - **Creating actionable agreements** for smoother collaboration.  \r
 
-  \r
+  * **Bridging silos** by clarifying dependencies and shared purposes.  
 
-  **Applicable when:**  \r
+  * **Streamlining workflows** to reduce bottlenecks (e.g., hidden queues, misaligned priorities).  
 
-  - Launching new teams/groups.  \r
+  * **Creating actionable agreements** for smoother collaboration.  
 
-  - Addressing recurring conflicts or dependency delays.  \r
 
-  - Conducting retrospectives identifying interaction issues.  \r
+  **Applicable when:**  
 
-  - Refreshing operational cadences (e.g., every 6 months).  "
+
+  * Launching new teams/groups.  
+
+  * Addressing recurring conflicts or dependency delays.  
+
+  * Conducting retrospectives identifying interaction issues.  
+
+  * Refreshing operational cadences (e.g., every 6 months).
 whyDo: "- **Accelerate Delivery**: 60–80% of delays occur *between* teams due to
   unclear handoffs.  \r
 
@@ -120,7 +124,10 @@ howTo: >-
 
 
   **Outcome**: Teams with clear, customer-aligned workflows and measurable reductions in cross-team friction.
-mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/tree/main
+mediaGallery: []
+resources:
+  - link: https://github.com/operationalX/organisational_methods/tree/main/Inter-Team%20Agreement
+    linkType: web
+    description: Inter-Team Agreement
 participants: []
 ---
