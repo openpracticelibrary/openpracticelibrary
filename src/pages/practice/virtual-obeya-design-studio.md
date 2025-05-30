@@ -8,30 +8,32 @@ subtitle: The Virtual Obeya Design Studio enables organizations to create a
   environments by visualizing strategy, work, performance, and cultural health.
 date: 2025-05-24T12:38:43.200Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - validate
 mobiusTag: discovery
-icon: /images/virtualobeya.jpg
-whatIs: "**Obeya** (Japanese for \"Large Room\"):  \r
+icon: /images/jan-jakub-nanista-uhyrjkpsshk-unsplash.jpg
+whatIs: >-
+  Photo by [Ján Jakub
+  Naništa](https://unsplash.com/@janjakubnanista?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-  - Originated from the Toyota Production System and Agile practices.  \r
 
-  - Traditionally a physical space displaying charts, progress, and key
-  metrics for visibility and accountability.  \r
+  **Obeya** (Japanese for "Large Room"):  
 
-  \r
 
-  **Virtual Obeya**:  \r
+  * Originated from the Toyota Production System and Agile practices.  
 
-  - A digital adaptation of the physical Obeya, designed for remote/hybrid
-  teams.  \r
+  * Traditionally a physical space displaying charts, progress, and key metrics for visibility and accountability.  
 
-  - Acts as a central radiator of organizational information, supporting
-  multiple perspectives (strategy, data, work, culture).  \r
 
-  - Dynamically updates to reflect real-time business performance, cultural
-  metrics, and strategic alignment.  "
+  **Virtual Obeya**:  
+
+
+  * A digital adaptation of the physical Obeya, designed for remote/hybrid teams.  
+
+  * Acts as a central radiator of organizational information, supporting multiple perspectives (strategy, data, work, culture).  
+
+  * Dynamically updates to reflect real-time business performance, cultural metrics, and strategic alignment.
 whyDo: "**Key Signals for Implementation**:  \r
 
   - Decentralized or absent visualization of:  \r
@@ -56,7 +58,7 @@ whyDo: "**Key Signals for Implementation**:  \r
   - Promotes autonomy through directional alignment and transparency.  \r
 
   - Supports onboarding and continuous organizational learning.  "
-howTo: >-
+howTo: >
   ### **Preparation**
 
 
@@ -114,6 +116,10 @@ howTo: >-
 
   * **Balance Sync/Async**: Tailor facilitation to team collaboration habits.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/OPL_VirtualObeya.png
+resources:
+  - link: https://github.com/operationalX/organisational_methods/tree/main/Virtual%20Obeya
+    linkType: web
+    description: Virtual Obeya Design Studio Download
 participants: []
 ---
