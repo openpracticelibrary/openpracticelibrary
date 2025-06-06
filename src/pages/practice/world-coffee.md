@@ -80,18 +80,6 @@ resources:
     linkType: web
     description: "The World Café Official Website: The primary source for
       principles, stories, and resources."
-  - link: https://theworldcafe.com/tools-services/hosting-fundamentals/
-    linkType: web
-    description: "Free Hosting Resources from The World Café: Provides free guides,
-      checklists, and kits to help you host your own session."
-  - link: What is The World Café? (Video by The World Café)
-    linkType: web
-    description: "YouTube Explainer Video: A good visual introduction to the concept
-      and flow of a World Café."
-  - link: "Hyper Island Toolbox: World Café"
-    description: "Detailed Guide from a Facilitation Community: A practical guide
-      from a community of practice that often includes tips and variations."
-    linkType: web
 time: "Minimun Time 90 mins Standard Time: 2.5 to 4 Hours (rounds of 20-30
   minutes each)"
 difficulty: hard
