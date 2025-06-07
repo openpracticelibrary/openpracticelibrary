@@ -1,12 +1,11 @@
 ---
 templateKey: practice-page
 title: Inter-Team Agreement
-subtitle: Align teams around shared goals, resolve conflicts, and optimize
-  workflows across team boundaries to enhance collaboration efficiency and value
-  delivery in remote/hybrid environments.
+subtitle: Enhance collaboration and value delivery across teams in remote/hybrid
+  environments.
 date: 2025-05-24T10:41:13.441Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - ideate
   - methods
