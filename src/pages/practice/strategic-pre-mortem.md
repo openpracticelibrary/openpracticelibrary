@@ -1,11 +1,7 @@
 ---
 templateKey: practice-page
 title: Strategic Pre-Mortem
-subtitle: The objective of a strategic pre-mortem is to proactively identify
-  potential risks and failure points in a project or initiative *before* it
-  begins. By simulating a future failure scenario, teams can uncover hidden
-  challenges, mitigate risks early, and increase the likelihood of project
-  success.
+subtitle: "Identify risks and failure points *before* you begin. "
 date: 2025-05-24T12:17:45.578Z
 authors:
   - operationalX
@@ -13,13 +9,17 @@ tags:
   - methods
 mobiusTag: foundation
 icon: /images/griffin-quinn-pw49mq_0u8-unsplash.jpg
-whatIs: A strategic pre-mortem is a collaborative exercise where participants
-  imagine a project has already failed. Rooted in the work of Gary Klein, this
-  practice encourages teams to work backward to diagnose hypothetical causes of
-  failure. It leverages the expertise of stakeholders—including skeptics and
-  domain experts—to surface concerns in a structured, non-confrontational
-  environment. The exercise can be applied to projects of any scale, from large
-  strategic initiatives to smaller tasks.
+whatIs: >-
+  A strategic pre-mortem is a collaborative exercise where participants imagine
+  a project has already failed. Rooted in the work of Gary Klein, this practice
+  encourages teams to work backward to diagnose hypothetical causes of failure.
+  It leverages the expertise of stakeholders—including skeptics and domain
+  experts—to surface concerns in a structured, non-confrontational environment.
+  The exercise can be applied to projects of any scale, from large strategic
+  initiatives to smaller tasks.
+
+
+  The objective of a strategic pre-mortem is to proactively identify potential risks and failure points in a project or initiative *before* it begins. By simulating a future failure scenario, teams can uncover hidden challenges, mitigate risks early, and increase the likelihood of project success.
 whyDo: "- **Learn from past failures**: Identify and address historical patterns
   of failure.  \r
 
