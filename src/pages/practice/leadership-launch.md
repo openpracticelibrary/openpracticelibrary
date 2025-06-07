@@ -1,14 +1,11 @@
 ---
 templateKey: practice-page
 title: Leadership Launch
-subtitle: To align leadership teams, shift focus from operational tasks to
-  strategic leadership, and establish collaborative frameworks that enhance
-  decision-making, communication, and accountability. This practice ensures
-  leaders model behaviors that foster trust, empower teams, and drive
-  organizational improvement.
+subtitle: Get strategic leadership focus with structured synchronous and
+  asynchronous facilitation
 date: 2025-05-24T12:02:06.612Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - methods
 mobiusTag: foundation
@@ -29,6 +26,8 @@ whatIs: >-
 
   * **Model desired behaviors** through intentional collaboration and vulnerability.\
     The practice combines synchronous workshops and asynchronous activities to create a "living document" that evolves with the team’s needs.
+
+  To align leadership teams, shift focus from operational tasks to strategic leadership, and establish collaborative frameworks that enhance decision-making, communication, and accountability. This practice ensures leaders model behaviors that foster trust, empower teams, and drive organizational improvement.
 whyDo: "**Signals indicating the need:**  \r
 
   - Leadership fatigue or misalignment.  \r
