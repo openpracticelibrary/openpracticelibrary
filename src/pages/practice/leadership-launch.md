@@ -104,8 +104,7 @@ howTo: >-
 
   * **Revisit:** Schedule quarterly reviews to update agreements and metrics.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/bbfce11817b8f7fe0bbcdf1036f040f8a5191f88/Leadership%20Launch/leadership%20launch%20-%20agreement.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/bbfce11817b8f7fe0bbcdf1036f040f8a5191f88/Leadership%20Launch/leadership%20launch%20-%20work.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/91dddd92ac25a48668c17045f1a2336e860adebf/images/OPL-leadership-launch.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Leadership%20Launch
     description: Leadership Launch Download
