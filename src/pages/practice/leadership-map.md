@@ -1,11 +1,11 @@
 ---
 templateKey: practice-page
 title: Leadership Map
-subtitle: This practice creates actionable improvement backlogs while fostering
-  authentic leadership development through powerful dialogue and collaborative
-  problem-solving.
+subtitle: Create actionable improvement backlogs and foster leadership
+  development through dialogue and problem-solving.
 date: 2025-05-29T13:52:59.203Z
-authors: []
+authors:
+  - operationalX
 tags:
   - culture
   - methods
