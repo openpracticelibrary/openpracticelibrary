@@ -81,5 +81,8 @@ resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Leadership%20Map
     linkType: web
     description: Leadership Map Download
+  - link: https://www.kenwilberfund.org/integral-theory/
+    linkType: web
+    description: Integral Theory - Ken Wilber Fund
 participants: []
 ---
