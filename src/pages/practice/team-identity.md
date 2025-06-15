@@ -10,7 +10,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/team-identity.png
+icon: /images/teamidentity_original.png
 whatIs: Team Identity refers to the shared sense of belonging and commitment
   that team members have towards each other and the team as a whole. It’s a
   feeling of being part of something larger than oneself and a willingness to
