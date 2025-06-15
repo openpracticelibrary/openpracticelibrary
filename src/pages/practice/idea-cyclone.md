@@ -4,7 +4,7 @@ title: Idea Cyclone
 subtitle: "Generate a massive volume of ideas in a structured, time-bound manner. "
 date: 2025-06-11T14:12:38.346Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - validate
 mobiusTag: discovery
