@@ -76,7 +76,7 @@ howTo: "Begin with Phase 1 by gathering insights through remote assessments,
   reassessing progress every 3-6 months to ensure sustained improvement rather
   than one-time conversations."
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Leadership%20Map/leadership%20map.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/f6d8de5b4bc60e2b799e307bf09c43abd77f3798/images/OPL-RemoteAF-LeadershipMap.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Leadership%20Map
     linkType: web
