@@ -1,11 +1,8 @@
 ---
 templateKey: practice-page
 title: Virtual Obeya Design Studio
-subtitle: The Virtual Obeya Design Studio enables organizations to create a
-  centralized digital hub ("Obeya") that aggregates and radiates critical
-  information across teams. Its goal is to facilitate timely, fact-based
-  decision-making, strategic alignment, and transparency in remote/hybrid work
-  environments by visualizing strategy, work, performance, and cultural health.
+subtitle: 'Create a centralized digital hub ("Obeya") to aggregate and radiate
+  critical information across teams. '
 date: 2025-05-24T12:38:43.200Z
 authors:
   - operationalX
@@ -57,7 +54,12 @@ whyDo: "**Key Signals for Implementation**:  \r
 
   - Promotes autonomy through directional alignment and transparency.  \r
 
-  - Supports onboarding and continuous organizational learning.  "
+  - Supports onboarding and continuous organizational learning. \ 
+
+
+  The goal is to facilitate timely, fact-based decision-making, strategic
+  alignment, and transparency in remote/hybrid work environments by visualizing
+  strategy, work, performance, and cultural health."
 howTo: >
   ### **Preparation**
 

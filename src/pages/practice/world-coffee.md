@@ -5,7 +5,7 @@ subtitle: To leverage our collective intelligence to generate fresh perspectives
   and actionable ideas on the central theme.
 date: 2025-06-06T17:27:52.574Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - validate
 mobiusTag: discovery
@@ -18,12 +18,8 @@ whatIs: The World Café is a structured conversational process that simulates th
   ideas and insights to travel and connect throughout the entire group, leading
   to a deeper, collective discovery.
 whyDo: >-
-  
-
-  #### **Why do this practice?**
-
-
-  This practice is chosen over traditional meetings or presentations for several key reasons:
+  This practice is chosen over traditional meetings or presentations for several
+  key reasons:
 
 
   * **Fosters Deep Collaboration:** It breaks down hierarchies and silos, encouraging authentic dialogue among people who might not normally interact.
