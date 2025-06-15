@@ -9,7 +9,7 @@ authors:
 tags:
   - value
 mobiusTag: discovery
-icon: /images/final_target-outcomes.png
+icon: /images/targetoutcomes_original.png
 whatIs: >-
   * A tool to capture and articulate the goals and outcomes a team are striving
   to deliver.
@@ -43,6 +43,10 @@ howTo: >-
 
 
   * Remote facilitation doesn’t differ much from the face to face, but you need to be more clear on the preparation of the draft Target outcome prepared before the working session is starting, by your Product Owner
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes%203.jpg?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/target%20outcomes%202.JPG?raw=true
 resources:
   - link: https://www.infoq.com/news/2014/11/outcomes-mobius-framework/
     linkType: web
@@ -56,20 +60,16 @@ resources:
   - link: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
     linkType: web
     description: Outcome metrics - Gabrielle Benefield
-people: 2+
-difficulty: moderate
 participants:
   - Product Owner
   - Team Members
   - Key Stakeholders
 area: discovery-loop-outcomes
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes%203.jpg?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Target%20Outcomes.png?raw=true
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/target%20outcomes%202.JPG?raw=true
+people: 2+
 time: 30 minutes
 perspectives:
   - facilitation-tips-for-remote-sessions
+difficulty: moderate
 ---
 ## What is it?
 
