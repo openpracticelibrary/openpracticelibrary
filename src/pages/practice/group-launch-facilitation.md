@@ -1,14 +1,11 @@
 ---
 templateKey: practice-page
-title: Group Launch - for Programs, Divisions and Departments
-subtitle: To successfully form and launch a group of interdependent teams by
-  aligning them around a shared purpose, establishing clear workflows,
-  clarifying decision-making authority, and fostering effective collaboration.
-  This ensures the group operates cohesively to deliver customer value while
-  managing organizational complexity.
+title: Group Launch Facilitation
+subtitle: Create alignment with shared purpose, clear work flows,
+  decision-making authority, and effective collaboration.
 date: 2025-05-24T10:10:17.663Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - methods
   - culture
@@ -19,7 +16,7 @@ whatIs: >-
   Mitra](https://unsplash.com/@nikhilmitra?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
 
 
-  Group Launch Facilitation is a structured approach to forming and aligning teams at the "group" level (a team of teams). It combines synchronous and asynchronous facilitation methods to:  
+  This is a structured approach to forming and aligning teams at the "group" level (a team of teams). It combines synchronous and asynchronous facilitation methods to:  
 
 
   * Define the group’s context, relationships, and purpose.  
@@ -126,10 +123,7 @@ howTo: >-
 
   By following this structured approach, groups can launch effectively, sustain alignment, and deliver value consistently.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20agreement.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20context.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20meetings.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20work.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/e4bf336608b36ea3933abd7db53c1853ae0f6734/images/OPL-RemoteAF-GroupLaunch.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Launch
     linkType: web
