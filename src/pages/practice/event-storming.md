@@ -13,7 +13,7 @@ authors:
 tags:
   - value
 mobiusTag: discovery
-icon: /images/eventstormtile.jpeg
+icon: /images/eventstorming_original.png
 whatIs: >-
   Event Storming is a rapid, interactive approach to business process discovery
   and design that yields high quality models. It was introduced in a blog by
