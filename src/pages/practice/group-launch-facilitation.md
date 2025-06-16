@@ -1,11 +1,8 @@
 ---
 templateKey: practice-page
-title: Group Launch - for Programs, Divisions and Departments
-subtitle: To successfully form and launch a group of interdependent teams by
-  aligning them around a shared purpose, establishing clear workflows,
-  clarifying decision-making authority, and fostering effective collaboration.
-  This ensures the group operates cohesively to deliver customer value while
-  managing organizational complexity.
+title: Group Launch Facilitation
+subtitle: Create alignment by establisting shared purpose, clear work flows,
+  decision-making, and effective collaboration.
 date: 2025-05-24T10:10:17.663Z
 authors:
   - Operational_Excellence_CoOp
@@ -19,7 +16,7 @@ whatIs: >-
   Mitra](https://unsplash.com/@nikhilmitra?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
 
 
-  Group Launch Facilitation is a structured approach to forming and aligning teams at the "group" level (a team of teams). It combines synchronous and asynchronous facilitation methods to:  
+  This is a structured approach to forming and aligning teams at the "group" level (a team of teams). It combines synchronous and asynchronous facilitation methods to:  
 
 
   * Define the group’s context, relationships, and purpose.  
