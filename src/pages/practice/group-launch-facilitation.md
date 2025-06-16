@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Group Launch Facilitation
-subtitle: Create alignment by establisting shared purpose, clear work flows,
-  decision-making, and effective collaboration.
+subtitle: Create alignment with shared purpose, clear work flows,
+  decision-making authority, and effective collaboration.
 date: 2025-05-24T10:10:17.663Z
 authors:
   - operationalX
