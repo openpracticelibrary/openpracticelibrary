@@ -15,7 +15,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/final_relative-sizing.png
+icon: /images/relativesizing_original.png
 whatIs: >-
   * A mechanism for sizing different items relative to each other.
 
