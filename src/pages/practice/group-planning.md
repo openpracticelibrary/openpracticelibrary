@@ -1,12 +1,10 @@
 ---
 templateKey: practice-page
 title: Group Planning
-subtitle: "Enable teams to adapt effectively to rapidly changing work
-  environments by aligning with strategic goals, resolving dependencies, and
-  addressing capacity constraints through continuous, short-cycle planning.  "
+subtitle: "Adapt to change through continuous, short-cycle planning.  "
 date: 2025-05-24T11:21:07.602Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - methods
   - measure
@@ -19,7 +17,7 @@ whatIs: >-
 
 
 
-  Group Planning is a flexible, rolling short-cycle process integrated into a team’s regular workflow. It replaces rigid long-term planning (e.g., quarterly cycles) with iterative sessions focused on synchronizing team plans, surfacing risks and dependencies, and fostering alignment across the organization. Key components include:  
+  This is a flexible, rolling short-cycle process integrated into a team’s regular workflow. It replaces rigid long-term planning (e.g., quarterly cycles) with iterative sessions focused on synchronizing team plans, surfacing risks and dependencies, and fostering alignment across the organization. Key components include:  
 
 
   * **Pre-planning**: Aligning teams with strategic roadmaps, OKRs, and known constraints.  
@@ -106,9 +104,7 @@ howTo: >-
 
   * **Respect Fear**: Acknowledge concerns about autonomy and provide leadership reassurance upfront.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Plan/group%20plan%20-%20next%20and%20later%20roadmap.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Plan/group%20plan%20-%20now%20roadmap.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Plan/group%20plan_%20context.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/1dff6613152420eb5102a77a8cc0cf2dfea32af9/images/OPL-remoteaf-groupplan.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Plan
     linkType: web
