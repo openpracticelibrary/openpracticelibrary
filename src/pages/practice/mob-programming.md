@@ -12,7 +12,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/mob-programming.jpg
+icon: /images/mobprogramming_original.png
 whatIs: >-
   Mob programming is a practice where the whole team comes together to implement
   a feature or piece of functionality.
