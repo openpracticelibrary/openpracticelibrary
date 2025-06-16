@@ -9,7 +9,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/icebreakers.png
+icon: /images/icebreakers_original.png
 whatIs: A simple and effective practice to break the barriers in a human group
   to create a safe starting point for a workshop or session. This practice
   focuses on building good relationships between attendees using enjoyable
