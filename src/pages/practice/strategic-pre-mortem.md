@@ -116,8 +116,7 @@ howTo: "### Preparation  \r
 
   - Document constraints and decisions clearly for remote participants.  "
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/bbfce11817b8f7fe0bbcdf1036f040f8a5191f88/Strategic%20Pre-Mortem/strategic%20pre-mortem_%20forecasting%20and%20planning.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/bbfce11817b8f7fe0bbcdf1036f040f8a5191f88/Strategic%20Pre-Mortem/strategic%20pre-mortem_%20context.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/224c5ff5ce214287ee388673bbb90239dd4be72c/images/OPL-remoteaf-strategic-pre-mortem.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Strategic%20Pre-Mortem
     linkType: web
