@@ -15,7 +15,7 @@ tags:
   - methods
   - culture
 mobiusTag: foundation
-icon: /images/paired-programming.jpg
+icon: /images/pairprogramming_original.png
 whatIs: "* An agile practice where two team members work together on one
   workstation (one keyboard and mouse) to implement a feature."
 whyDo: |-
