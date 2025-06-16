@@ -1,11 +1,11 @@
 ---
 templateKey: practice-page
 title: Leadership Map
-subtitle: This practice creates actionable improvement backlogs while fostering
-  authentic leadership development through powerful dialogue and collaborative
-  problem-solving.
+subtitle: Create actionable improvement backlogs and foster leadership
+  development through dialogue and problem-solving.
 date: 2025-05-29T13:52:59.203Z
-authors: []
+authors:
+  - operationalX
 tags:
   - culture
   - methods
@@ -76,10 +76,13 @@ howTo: "Begin with Phase 1 by gathering insights through remote assessments,
   reassessing progress every 3-6 months to ensure sustained improvement rather
   than one-time conversations."
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Leadership%20Map/leadership%20map.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/f6d8de5b4bc60e2b799e307bf09c43abd77f3798/images/OPL-RemoteAF-LeadershipMap.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Leadership%20Map
     linkType: web
     description: Leadership Map Download
+  - link: https://www.kenwilberfund.org/integral-theory/
+    linkType: web
+    description: Integral Theory - Ken Wilber Fund
 participants: []
 ---
