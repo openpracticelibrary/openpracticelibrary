@@ -124,7 +124,7 @@ howTo: >-
 
   **Outcome**: Teams with clear, customer-aligned workflows and measurable reductions in cross-team friction.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Inter-Team%20Agreement/inter-team%20agreement.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/c8299431fc39f159e5686e2bbeae76a49e0247d9/images/OPL-RemoteAF-InterTeamAgreement.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Inter-Team%20Agreement
     linkType: web
