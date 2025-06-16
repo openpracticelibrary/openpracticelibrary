@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/telescope-icon-telescope-planet-stars-earth-space-icon-white-isolated_138676-552.jpeg
+icon: /images/observability_original.png
 whatIs: >-
   In [control theory](https://en.wikipedia.org/wiki/Control_theory),
   observability is the ability to determine how well the internal states of a
