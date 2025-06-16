@@ -9,7 +9,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/realtime-retro-prep.jpg
+icon: /images/realtimeretro_original.png
 whatIs: >-
   The Realtime Retrospective technique was created by Emily Webber. This is a
   great way to capture feedback from a large number of participants in realtime
