@@ -8,7 +8,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/sli.png
+icon: /images/slaslosli_original.png
 whatIs: "Service Level Indicators, or SLIs, is about having meaningful
   measurements of your service in terms of your user's perspective. They are
   closely tied to what the users of the service care about, such as
