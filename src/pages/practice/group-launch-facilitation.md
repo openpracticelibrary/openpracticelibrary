@@ -5,7 +5,7 @@ subtitle: Create alignment by establisting shared purpose, clear work flows,
   decision-making, and effective collaboration.
 date: 2025-05-24T10:10:17.663Z
 authors:
-  - Operational_Excellence_CoOp
+  - operationalX
 tags:
   - methods
   - culture
@@ -123,10 +123,7 @@ howTo: >-
 
   By following this structured approach, groups can launch effectively, sustain alignment, and deliver value consistently.
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20agreement.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20context.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20meetings.pdf
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Group%20Launch/group%20launch%20-%20work.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/e4bf336608b36ea3933abd7db53c1853ae0f6734/images/OPL-RemoteAF-GroupLaunch.png
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Group%20Launch
     linkType: web
