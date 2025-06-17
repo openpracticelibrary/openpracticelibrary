@@ -10,7 +10,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/continuous-delivery.png
+icon: /images/continuousdelivery_original.png
 whatIs: Continuous Delivery (CD) is an engineering practice where each change
   could be a potential release ready for production. This practice builds on top
   of the Continuous Integration practice as its starting point and adds to the
