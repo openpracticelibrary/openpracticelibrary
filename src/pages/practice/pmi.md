@@ -7,7 +7,7 @@ authors:
   - kattekrab
 tags: []
 mobiusTag: delivery
-icon: /images/plus-minus-interesting.png
+icon: /images/screenshot-2025-06-17-at-2.27.47-pm.png
 whatIs: PMI is a quick and easy way to get people thinking for a
   retrospective.  It can also be used at the end of the day as a team checkin
   for fast paced intensive work sessions, and can be used to facilitate the
