@@ -7,7 +7,7 @@ authors:
   - kattekrab
 tags: []
 mobiusTag: delivery
-icon: /images/plus-minus-interesting.png
+icon: /images/screenshot-2025-06-17-at-2.27.47-pm.png
 whatIs: PMI is a quick and easy way to get people thinking for a
   retrospective.  It can also be used at the end of the day as a team checkin
   for fast paced intensive work sessions, and can be used to facilitate the
@@ -30,9 +30,6 @@ mediaGallery:
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Plus%20Minus%20Interesting.png?raw=true
   - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/PMI2.gif?raw=true
 resources:
-  - link: https://miro.com/miroverse/pmi-peace-retro/
-    linkType: web
-    description: Miro Template - PMI Peace Retro
   - link: https://www.virtuallibrary.info/pmi-plus-minus-interesting-strategy.html
     linkType: web
     description: Plus Minus Interesting Strategy
@@ -45,6 +42,9 @@ resources:
   - link: https://www.youtube.com/watch?v=D4YUk2io5-4
     description: Plus ..Minus ..Interesting - Dubai Water & Electricity Innovation Toolkit
     linkType: video
+  - link: https://miro.com/miroverse/pmi-peace-retro-template/
+    linkType: web
+    description: Miroverse - PMI Peace Retro Template
 difficulty: easy
 participants:
   - The Team
