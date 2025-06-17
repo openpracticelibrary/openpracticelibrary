@@ -7,7 +7,7 @@ date: 2020-09-15T12:02:15.251Z
 authors:
   - rmarting
 mobiusTag: delivery
-icon: /images/kanban.png
+icon: /images/kanbanoriginal.png
 whatIs: >-
   Kanban is a framework used to implement agile software development based in
   the following practices:
