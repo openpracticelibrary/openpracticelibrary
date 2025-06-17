@@ -1,5 +1,5 @@
 ---
-title: 5 Elements Canvas
+title: 5 Elements Canvass
 subtitle: Building empathy and collaboration between silos to solve complex problems.
 date: 2020-08-05T09:29:46.723Z
 authors:
