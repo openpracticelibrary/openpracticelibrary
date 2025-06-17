@@ -9,7 +9,7 @@ authors:
 tags:
   - methods
 mobiusTag: foundation
-icon: /images/continuous-deployment.png
+icon: /images/continuousdeployment_original.png
 whatIs: With Continuous Deployment (CD), the development team maintains software
   so that it can be released to production at any moment, specifically on
   demand. This practice builds on top of [Continuous
