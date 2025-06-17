@@ -11,7 +11,7 @@ authors:
 tags:
   - culture
 mobiusTag: foundation
-icon: /images/dod.jpeg
+icon: /images/definitionofdone_original.png
 whatIs: >-
   * Criteria agreed across the team and shared with others that should be met
   before any work items is considered complete by any team member.
