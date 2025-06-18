@@ -13,7 +13,7 @@ authors:
 tags:
   - methods
 mobiusTag: delivery
-icon: /images/final_showcase.png
+icon: /images/showcaseoriginal.png
 whatIs: >-
   * An event where stakeholders and interested parties are given a demonstration
   of recent work performed by a team.
