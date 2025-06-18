@@ -10,7 +10,7 @@ authors:
 tags:
   - ideate
 mobiusTag: options
-icon: /images/screenshot-from-2018-12-20-08-55-34.png
+icon: /images/designsprintoriginal.png
 whatIs: >-
   It is a 5 day customer-centric process for rapidly solving a key challenge,
   creating new products, or improving existing ones.
