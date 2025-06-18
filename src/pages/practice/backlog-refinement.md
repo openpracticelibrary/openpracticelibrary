@@ -15,7 +15,7 @@ authors:
   - cverna
 tags: []
 mobiusTag: options
-icon: /images/final_backlog-refinement.png
+icon: /images/productbacklogrefinementoriginal.png
 whatIs: >-
   * Having a conversation to provide clarity surrounding the detail or
   conditions of satisfaction for work items in the backlog
