@@ -13,7 +13,7 @@ authors:
   - mvmaestri
 tags: []
 mobiusTag: delivery
-icon: /images/heroes-journey-retro.png
+icon: /images/retrooriginal.png
 whatIs: >-
   Retrospectives provide opportunities for groups to reflect, inspect and adapt
   their ways of working. They often take place at the end of sprints but can be
