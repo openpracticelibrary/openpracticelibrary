@@ -8,7 +8,7 @@ authors:
 tags:
   - validate
 mobiusTag: delivery
-icon: /images/user-testing-val-cropped.png
+icon: /images/usabilitytestingoriginal-honourilaria.png
 whatIs: >-
   In a usability testing session, the team observes real users interacting with
   the product. Typically, a facilitator sits with a user and asks her to
