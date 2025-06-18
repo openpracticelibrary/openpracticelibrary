@@ -13,7 +13,7 @@ authors:
   - mvmaestri
 tags: []
 mobiusTag: delivery
-icon: /images/final_sprint-planning.png
+icon: /images/sprintplanningoriginal.png
 whatIs: >-
   * An event where a development team collaborates with the Product Owner to
   align on the goal and outcome the team are going to focus on for their next
