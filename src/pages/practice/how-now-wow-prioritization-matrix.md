@@ -8,7 +8,7 @@ authors:
   - kattekrab
 tags: []
 mobiusTag: options
-icon: /images/how-now-wow-holycow.jpg
+icon: /images/hownowwoworiginal.png
 whatIs: >-
   How-Now-Wow is a prioritisation matrix / idea selection tool, which is often
   combined with Brainstorming, HMW, Design of Experiments.
