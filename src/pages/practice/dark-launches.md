@@ -10,7 +10,7 @@ tags:
   - measure
   - learn
 mobiusTag: delivery
-icon: /images/dark-launches-2.jpg
+icon: /images/darklaunchesoriginal.png
 whatIs: "Dark Launches are a continuous delivery practice, which releases new
   features to a subset of your end-users and then capture their behaviors and
   feedback. \r
