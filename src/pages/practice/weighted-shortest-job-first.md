@@ -8,7 +8,7 @@ authors:
 tags:
   - insight
 mobiusTag: options
-icon: /images/wsjf-template.jpg
+icon: /images/wsjf_original.png
 whatIs: >-
   Weighted Shortest Job First, WSJF, is a method for assessing the items which
   are the most cost beneficial and the smallest job size, to infer work items we
