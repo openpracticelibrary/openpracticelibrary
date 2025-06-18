@@ -7,7 +7,7 @@ authors:
   - valyonchev
   - tenfourty
 tags: []
-mobiusTag: foundation
+mobiusTag: options
 icon: /images/featureflagoriginal.png
 whatIs: >-
   Feature Flags (also known as Feature Bits/Toggles/Flipping/Controls) are an
