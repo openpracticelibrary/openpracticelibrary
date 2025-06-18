@@ -7,7 +7,7 @@ authors:
   - valyonchev
 tags: []
 mobiusTag: options
-icon: /images/doe-thumbnail.jpg
+icon: /images/designofexperimentsoriginal.png
 whatIs: >-
   All our ideas about new products, new services, new feature, any changes we
   can introduce to make things better (growth, revenue, experience, etc.) start
