@@ -10,7 +10,7 @@ authors:
 tags:
   - insight
 mobiusTag: options
-icon: /images/final_value-slicing.png
+icon: /images/valueslicingoriginal.png
 whatIs: >-
   User Story Mapping is an evolution of the traditional Agile backlog, made
   popular by Jeff Patton in 2008. It's an effective practice for creating
