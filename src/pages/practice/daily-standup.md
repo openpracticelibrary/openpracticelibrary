@@ -13,8 +13,8 @@ authors:
   - mvmaestri
   - ilaria66
 tags:
-  - culture
-mobiusTag: foundation
+  - learn
+mobiusTag: delivery
 icon: /images/dailystanduporiginal.png
 whatIs: >-
   * The main point of a daily standup (Daily Scrum) is for the team to better
