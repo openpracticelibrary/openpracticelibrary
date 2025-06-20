@@ -7,9 +7,8 @@ authors:
   - valyonchev
   - trncb
 tags:
-  - measure
-  - learn
-mobiusTag: delivery
+  - insight
+mobiusTag: options
 icon: /images/darklaunchesoriginal.png
 whatIs: "Dark Launches are a continuous delivery practice, which releases new
   features to a subset of your end-users and then capture their behaviors and
