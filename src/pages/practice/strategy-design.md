@@ -488,7 +488,7 @@ howTo: "### ❓ Key Questions\r
 
   ---\r\n"
 mediaGallery:
-  - link: https://github.com/operationalX/organisational_methods/blob/main/Strategy%20Design/Corporate%20Forest%20Images/Example_Ecosystem.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/Example_Ecosystem.jpg
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Strategy%20Design
     linkType: web
