@@ -9,8 +9,7 @@ authors:
   - operationalX
 tags:
   - value
-  - methods
-mobiusTag: foundation
+mobiusTag: discovery
 icon: /images/sebastian-unrau-sp-p7uut0tw-unsplash.jpg
 whatIs: "Photo by Sebastian Unrau
 
