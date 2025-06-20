@@ -9,7 +9,7 @@ authors:
   - rdebeasi
 tags:
   - value
-mobiusTag: discovery
+mobiusTag: foundation
 icon: /images/prioritysliders_original.png
 whatIs: >-
   * A tool that facilitates conversations about relative priorities and focuses
