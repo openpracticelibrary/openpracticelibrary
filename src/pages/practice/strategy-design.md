@@ -1,31 +1,30 @@
 ---
 templateKey: practice-page
 title: Strategy Design
-subtitle: Design an adaptive strategy that articulates your core beliefs, maps
-  your competitive ecosystem, defines your unique position, and creates a
-  dynamic execution rhythm to thrive in changing markets.
+subtitle: Turn chaos into clarity
 date: 2025-06-19T13:18:30.104Z
 authors:
   - operationalX
 tags:
   - value
 mobiusTag: discovery
-icon: /images/sebastian-unrau-sp-p7uut0tw-unsplash.jpg
-whatIs: "Photo by Sebastian Unrau
+icon: /images/example_ecosystem.jpg
+whatIs: >-
+  Design an adaptive strategy that articulates your core beliefs, maps your
+  competitive ecosystem, defines your unique position, and creates a dynamic
+  execution rhythm to thrive in changing markets.
 
 
-  **Strategy Design is your playbook for turning chaos into clarity!** It
-  combines:  \r
+  **Strategy Design is your playbook for turning chaos into clarity!** It combines:  
 
-  - 🧠 **Soul-Searching** (What do we stand for?)  \r
 
-  - 🗺️ **Ecosystem Cartography** (Mapping the \"Corporate Forest\" of
-  competitors, disruptors, and resources)  \r
+  * 🧠 **Soul-Searching** (What do we stand for?)  
 
-  - 🎯 **Position Crafting** (Finding your unique spot in the jungle)  \r
+  * 🗺️ **Ecosystem Cartography** (Mapping the "Corporate Forest" of competitors, disruptors, and resources)  
 
-  - 🔄 **Adaptive Rhythm** (Building a strategy heartbeat that keeps pace with
-  change)  "
+  * 🎯 **Position Crafting** (Finding your unique spot in the jungle)  
+
+  * 🔄 **Adaptive Rhythm** (Building a strategy heartbeat that keeps pace with change)
 whyDo: "| Benefit | Outcome |  \r
 
   |---------|---------|  \r
