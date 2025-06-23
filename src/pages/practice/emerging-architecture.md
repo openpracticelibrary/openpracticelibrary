@@ -105,5 +105,17 @@ howTo: >-
   \
 
   See [E﻿vent Storming](https://openpracticelibrary.com/practice/event-storming/) and [Big Picture](https://openpracticelibrary.com/practice/the-big-picture/) for more detail on how to adopt an Emerging Architecture practice.
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/emergingarchitecture-sprint1and2.png
+resources:
+  - link: https://martinfowler.com/books/
+    linkType: web
+    description: Martin Fowler's books
+  - link: https://microservices.io/
+    linkType: web
+    description: Microservices by Chris Richardson
+  - link: https://samnewman.io/books/
+    linkType: web
+    description: Sam Newman's books
 participants: []
 ---
