@@ -488,7 +488,8 @@ howTo: "### ❓ Key Questions\r
 
   ---\r\n"
 mediaGallery:
-  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/Example_Ecosystem.jpg
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/161f5db5a726bd2c7042dd91d930280522e167cf/images/OPL-remoteAF-strateguydesign.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/60c230ed129143ff85ec62621d33ca26870a0aff/images/Example_Ecosystem.jpg
 resources:
   - link: https://github.com/operationalX/organisational_methods/tree/main/Strategy%20Design
     linkType: web
