@@ -39,16 +39,3 @@ mediaGallery:
 resources: null
 mobiusTag: foundation
 ---
-## What is it?
-
-This is a simple place to capture all the hilarious, inspiring, smart, and silly things we might say throughout a Team's history together.
-
-
-
-Create a board with the title "The Quote Wall" and capture people's quotes with sticky notes!
-
-## Why use it?
-
-To help encourage a positive attitude, fun, and laughter while the Team works together.
-
-## Further Information
