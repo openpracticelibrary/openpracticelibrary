@@ -94,6 +94,9 @@ resources:
       diamond adaptation for visual thinking'
   - link: https://medium.com/user-experience-design-1/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b
     linkType: web
-    description: Dan Nessler - originator of the Double Diamond
+    description: Dan Nessler - Design Thinking from scratch
+  - link: https://www.designcouncil.org.uk/our-resources/the-double-diamond/
+    linkType: web
+    description: UK Design Council
 participants: []
 ---
