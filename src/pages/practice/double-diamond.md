@@ -87,6 +87,8 @@ howTo: >-
 
 
   ![**BUILDING the LAYOUT WITH CONSISTENCY**](/images/screenshot-2021-04-27-at-11.09.20.png "**BUILDING the LAYOUT WITH CONSISTENCY**")
+mediaGallery:
+  - link: https://www.youtube.com/watch?v=5FpKuJSCbx0&t=34s
 resources:
   - link: https://www.youtube.com/watch?v=_kR7Gw0vVLE
     linkType: video
