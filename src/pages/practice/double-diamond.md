@@ -88,12 +88,12 @@ howTo: >-
 
   ![**BUILDING the LAYOUT WITH CONSISTENCY**](/images/screenshot-2021-04-27-at-11.09.20.png "**BUILDING the LAYOUT WITH CONSISTENCY**")
 resources:
-  - link: https://www.dannessler.com/ux-design
-    linkType: web
-    description: Double diamond creator website
   - link: https://www.youtube.com/watch?v=_kR7Gw0vVLE
     linkType: video
     description: '"Visual Doing" Book presentation by Willemien Brand, with Double
       diamond adaptation for visual thinking'
+  - link: https://medium.com/user-experience-design-1/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b
+    linkType: web
+    description: Dan Nessler - originator of the Double Diamond
 participants: []
 ---
