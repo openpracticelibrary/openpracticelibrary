@@ -11,7 +11,7 @@ tags:
   - culture
   - learn
 mobiusTag: foundation
-icon: /images/c4-architecture-containers.png
+icon: https://c4model.com/images/c4-overview.png
 whatIs: '**C4 model** is a lean graphical notation technique for modelling the
   architecture of software
   systems.[](https://en.wikipedia.org/wiki/C4_model#cite_note-:0-1) It is based
