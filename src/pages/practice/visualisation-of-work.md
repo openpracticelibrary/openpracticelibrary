@@ -130,36 +130,15 @@ mediaGallery:
   - link: https://openpracticelibrary.github.io/opl-media/images/visualisation-of-work.png
   - link: https://openpracticelibrary.github.io/opl-media/images/visualisation-of-work2.png
 resources:
-  - link: http://alistair.cockburn.us/Information+radiator
-    linkType: web
-    description: Information Radiator by Alistair Cockburn
+  - link: https://makingworkvisible.com/book/
+    linkType: purchase
+    description: Book - Making Work Visible by Dominica DeGrandis
   - link: https://www.amazon.co.uk/gp/product/9188063011/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
     linkType: web
     description: 98 Visualisation Examples by Jimmy Janlén
-  - link: https://openpracticelibrary.com/practice/impact-mapping/
+  - link: https://agilealliance.org/glossary/information-radiators/
     linkType: web
-    description: Impact Mapping
-  - link: https://openpracticelibrary.com/practice/event-storming/
-    linkType: web
-    description: Event Storming
-  - link: https://openpracticelibrary.com/practice/vsm-and-mbpm/
-    linkType: web
-    description: Vsm And Mbpm
-  - link: https://openpracticelibrary.com/practice/social-contract/
-    linkType: web
-    description: Social Contract
-  - link: https://openpracticelibrary.com/practice/user-story-mapping/
-    linkType: web
-    description: User Story Mapping
-  - link: https://openpracticelibrary.com/practice/burndown/
-    linkType: web
-    description: Burndown
-  - link: https://openpracticelibrary.com/practice/realtime-retrospective/
-    linkType: web
-    description: Realtime Retrospective
-  - link: https://openpracticelibrary.com/practice/team-sentiment/
-    linkType: web
-    description: Team Sentiment
+    description: Information Radiators
 jumbotron: /images/visualisation-of-work.png
 area: foundation-culture-and-collaboration
 ---
