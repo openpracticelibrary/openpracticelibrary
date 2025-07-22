@@ -133,14 +133,3 @@ area: foundation-culture-and-collaboration
 people: 2+
 time: 1 minute
 ---
-# What is it?
-
-* A practice that gains consensus around a team's agreement or disagreement on the current activity, event or questions
-* A group voting on how confident they are in doing something or learning something
-* A safety check
-
-
-
-# Why use it?
-
-* Builds a consensus for team agreement to progress or not progress

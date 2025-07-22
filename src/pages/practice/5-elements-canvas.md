@@ -111,9 +111,3 @@ participants:
   - Leads/ owners from each stakeholder grouping as a minimum.
 perspectives: []
 ---
-## What is it? 
-
-## Why use it? 
-
-## Further Information
-
