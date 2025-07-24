@@ -21,27 +21,34 @@ const PracticePagePreview = ({ document, entry }) => {
 
   const documentHead = document.querySelector("head");
 
+  // Ensure documentHead is available before proceeding
+  if (!documentHead) {
+    return <div>Loading preview environment...</div>;
+  }
+
   const cache = useMemo(
     () =>
       createCache({
         key: "preview",
         container: documentHead,
+        prepend: true, // Ensures MUI styles are injected first
       }),
-    [documentHead]
+    [documentHead] // documentHead itself should be stable within the iframe's lifecycle
   );
 
-  if (data) {
+  // Ensure both data and frontmatter are available
+  if (data && frontmatter) {
     return (
       <CacheProvider value={cache}>
         <ThemeProvider theme={theme}>
-          {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
           <CssBaseline />
           <PracticePageTemplate preview={true} data={data} />
         </ThemeProvider>
       </CacheProvider>
     );
   } else {
-    return <div>Loading...</div>;
+    // More informative loading/error message
+    return <div>Loading preview data or encountered an issue with frontmatter...</div>;
   }
 };
 
