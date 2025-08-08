@@ -20,7 +20,7 @@ whatIs: >-
 
   The origin of the general **"So What?"** question is often traced to educational and strategic reflection models, such as Terry Borton's "What, So What, Now What" framework from the 1970s.
 whyDo: >-
-  Using the **& So-What's**This helps teams:
+  This helps teams:
 
 
   * **Create actionable insights:** It transforms static information into a clear call to action, ensuring that every discovery has a purpose.
