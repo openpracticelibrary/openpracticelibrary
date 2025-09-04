@@ -10,13 +10,12 @@ whatIs: >-
   conflict. 
 
 
-  Systemic Konsensing (purposefully written with "K", abbreviation: SK) aims at the consideration of all voices of a group, including those of the reserved or silent group members. Focus are the objections of group members ("resistance") instead of their enthusiasm.
+  Systemic Consensing (SC) aims at the consideration of all voices of a group, including those of the reserved or silent group members. Focus are the objections of group members ("resistance") instead of their enthusiasm.
 
 
   For a defined problem, an initial proposal is given. The key question here is: "Are there any objections?". In small
 
   If there is no objection at all, the group easily can agree to consider the proposal as accepted. 
-
 
 
   The group members first develop as many suggestions as possible. 
@@ -25,7 +24,7 @@ whatIs: >-
   After that, for each proposal its resistance is measured by the whole group. The proposals are sorted according to the resistance measurements. 
 
 
-  Consensing does not require agreement, affirmation or even preference. **Consent is reached by choosing the proposal with the least resistance.**
+  Systemic Consensing does not require agreement, affirmation or even preference. **Consensus is reached by choosing the proposal with the least resistance.**
 
 
   The resistance indicates the **conflict potential**: The higher the resistance against a proposal, the higher the likeliness that it doesn't get support and might even fail.
@@ -52,10 +51,10 @@ whatIs: >-
   ## Further Information
 
 
-  By "Konsensing" we mean the creative process of finding the best possible approximation of consensus, that is, the greatest possible agreement among people. "Systemic" we call the process described here, because it systemically leads to a constructive and cooperative behavior of all parties without being dependent on their goodwill or other qualities.
+  By "Consensing" we mean the creative process of finding the best possible approximation of consensus, that is, the greatest possible agreement among people. "Systemic" we call the process described here, because it systemically leads to a constructive and cooperative behavior of all parties without being dependent on their goodwill or other qualities.
 
 
-  "Systemic Konsensing" was first developed and described by Austrians Visotschnig and Schrotta, they published 2005 a book (["Das SK Prinzip - Wie man Konflikte ohne Machtkämpfe löst"](http://www.amazon.de/SK-Prinzip-Konflikte-ohne-Machtk%C3%A4mpfe-l%C3%B6st/dp/3800070960/ref=sr_1_1?s=books&ie=UTF8&qid=1291638226&sr=1-1)) about this way of decision finding.
+  "Systemic Consensing" was first developed and described by Austrians Visotschnig and Schrotta, they published 2005 a book (["Das SK Prinzip - Wie man Konflikte ohne Machtkämpfe löst"](http://www.amazon.de/SK-Prinzip-Konflikte-ohne-Machtk%C3%A4mpfe-l%C3%B6st/dp/3800070960/ref=sr_1_1?s=books&ie=UTF8&qid=1291638226&sr=1-1)) about this way of decision finding.
 
 
   There is a free ebook in German language ["Einführung in systemisches Konsensieren"](http://www.sk-prinzip.eu/wp-content/uploads/2017/05/Einführung-in-systemisches-Konsensieren.pdf).
@@ -82,8 +81,8 @@ howTo: >-
 
 
   1. **Determine the question for the problem that has surfaced.**
-     > A group wants to make a decision that is shared by everyone involved. The group develops a question that can not be answered with yes or no. But it may also be that the question is already in the room and only needs to be formulated.
 
+     > A group wants to make a decision that is shared by everyone involved. The group develops a question that can not be answered with yes or no. But it may also be that the question is already in the room and only needs to be formulated.
   2. **Creative phase: Collecting solutions** (for example as a brainstorming).
 
      > In the second phase, proposals for solutions are made, paying attention to creativity and diversity. All ideas and wishes may be brought forward and stand side by side on an equal footing. The proposed solutions are not commented and discussed in this phase. It's common to use an existing proposal and modify it just a bit.
@@ -93,18 +92,15 @@ howTo: >-
   4. **Evaluation Phase.** 
 
      > Finally, the points awarded by the participants are added together for each proposed solution. The lowest score solution has the least resistance in the group and is therefore closest to consensus.
-     >
-     >
   5. **Iterations**
 
-     >For more complex scenarios, steps 2-4 get repeated until a solution has been found that has a reasonably low resistance score.
-  The moderator needs to ask on a process level what the group thinks should be done with the results and then iterate.
-
+     > For more complex scenarios, steps 2-4 get repeated until a solution has been found that has a reasonably low resistance score.
+     > The moderator needs to ask on a process level what the group thinks should be done with the results and then iterate.
 
   ### Additional hints
 
 
-  When collecting the options it is mandatory, to add a so called **zero option** which is context specific. It is normally phrased as "leave everything as it is", "let's decide next time", ... 
+  When collecting the options it is mandatory, to add a so called **default option** which is context specific. It is normally phrased as "leave everything as it is", "let's decide next time", ... 
 
 
   The zero option can be considered as "limit of reasonability“. No proposal has a chance of being accepted by the group, if the rank of the zero option is lower than all others as it meant a deterioration for the group.
@@ -140,8 +136,6 @@ howTo: >-
   * Flipchart or whiteboard or the like for the visualization of the results
 
   * Spreadsheet for larger groups (automatic calculation)
-
-  * 
 resources:
   - link: https://www.systemisches-konsensieren-trier.info/uploads/1/0/4/2/104259489/erich_und_volker_visotschnig_-_einf%C3%BChrung_in_systemisches_konsensieren.pdf
     linkType: web
@@ -159,7 +153,7 @@ mediaGallery:
 time: Quick Vote (arm gestures, scale 0-2) < 5 minutes, larger solution
   spaces  >= 30 minutes
 perspectives: []
-title: Systemic Konsensing
+title: Systemic Consensing
 subtitle: How to find minimal viable decisions in a group
 tags:
   - culture
