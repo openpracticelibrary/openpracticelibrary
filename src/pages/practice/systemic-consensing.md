@@ -1,10 +1,17 @@
 ---
 templateKey: practice-page
+title: Systemic Consensing
+subtitle: How to find minimal viable decisions in a group
 date: 2019-08-15T09:41:01.795Z
 authors:
   - zene22
   - karstengresch
+tags:
+  - culture
+  - ideate
+  - value
 mobiusTag: foundation
+icon: /images/20220216_180527.jpg
 whatIs: >-
   A method helping to find the optimal decisions in groups of any size without
   conflict. 
@@ -136,6 +143,8 @@ howTo: >-
   * Flipchart or whiteboard or the like for the visualization of the results
 
   * Spreadsheet for larger groups (automatic calculation)
+mediaGallery:
+  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Systemic%20Consensus%202.jpg?raw=true
 resources:
   - link: https://www.systemisches-konsensieren-trier.info/uploads/1/0/4/2/104259489/erich_und_volker_visotschnig_-_einf%C3%BChrung_in_systemisches_konsensieren.pdf
     linkType: web
@@ -144,21 +153,12 @@ resources:
     linkType: purchase
     description: Amazon possibility to buy the book of the inventors of this method
       (German language)
-people: 3+
 participants:
-  - The team
+  - The group/team
 area: foundation-culture-and-collaboration
-mediaGallery:
-  - link: https://github.com/openpracticelibrary/opl-media/blob/master/images/Systemic%20Consensus%202.jpg?raw=true
+people: 3+
 time: Quick Vote (arm gestures, scale 0-2) < 5 minutes, larger solution
   spaces  >= 30 minutes
 perspectives: []
-title: Systemic Consensing
-subtitle: How to find minimal viable decisions in a group
-tags:
-  - culture
-  - ideate
-  - value
-icon: /images/20220216_180527.jpg
 difficulty: moderate
 ---
