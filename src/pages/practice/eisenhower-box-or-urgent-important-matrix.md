@@ -5,7 +5,7 @@ subtitle: "Help individuals and teams prioritize tasks by categorizing them
   based on two key dimensions: urgency and importance."
 date: 2025-09-18T16:40:02.949Z
 authors:
-  - mromero
+  - Moimero
 tags:
   - ideate
 mobiusTag: options
