@@ -39,6 +39,7 @@ export default function SearchContainer(props) {
   React.useEffect(() => {
     const dataToSearch = new JsSearch.Search(["node", "id"]);
     dataToSearch.addIndex(["node", "frontmatter", "title"]); // sets the index attribute for the data
+    dataToSearch.addIndex(["node", "frontmatter", "searchTag"]); // testing to see if you can add a search term
     dataToSearch.addDocuments(practiceData); // adds the data to be searched
     setState({
       ...state,
