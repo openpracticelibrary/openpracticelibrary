@@ -94,6 +94,8 @@ howTo: >-
   * Once completed, participants exchange their drawings with other participants to discuss commonalities and differences in understanding.
 
   * Once the diagram stabilizes and a common understanding is achieved, additional information can be captured e.g. in terms of information flows or in tabular fashion.
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/37eafd7cabe3a51ae931588339d1455b524ef63e/images/opl-sysconmap.jpeg
 resources:
   - link: https://en.wikipedia.org/wiki/System_context_diagram
     linkType: web
