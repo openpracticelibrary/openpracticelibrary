@@ -14,7 +14,8 @@ const PracticeCard = ({
   tags,
 }) => {
   const [hovered, setHovered] = React.useState(false);
-  const tag = mobiusTag.toLowerCase();
+  // Correction for undefined mobiusTag
+  const tag = mobiusTag?.toLowerCase() || "";
   return (
     <Grid
       item
@@ -35,7 +36,8 @@ const PracticeCard = ({
       >
         <Box
           borderBottom={4}
-          color={mobiusContent[tag].color}
+          // Correction for undefined mobiusTag
+          color={mobiusContent?.[tag]?.color || "grey.500"}
           bgcolor="grey.300"
           position="relative"
         >
@@ -47,7 +49,8 @@ const PracticeCard = ({
             title={practiceTitle}
           />
           <Box
-            bgcolor={mobiusContent[tag].color}
+            // Correction for undefined mobiusTag
+            bgcolor={mobiusContent?.[tag]?.color || "grey.500"}
             position="absolute"
             height="2rem"
             width="2rem"
@@ -59,7 +62,7 @@ const PracticeCard = ({
             justifyContent="center"
             style={{ borderTopLeftRadius: ".25rem" }}
           >
-            {mobiusContent[tag].icon}
+            {mobiusContent?.[tag]?.icon || null}
           </Box>
         </Box>
         <CardContent>

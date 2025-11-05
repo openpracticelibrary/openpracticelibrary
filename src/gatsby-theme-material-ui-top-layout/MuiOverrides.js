@@ -3,23 +3,36 @@ import { alpha, createTheme } from "@mui/material/styles";
 const MuiOverrides = (theme) =>
   createTheme(theme, {
     palette: {
+      // FIX: Added correct custom color definitions
       foundation: {
-        main: theme.palette.text.primary,
+        main: theme.palette.mobiusFoundation.main,
+        light: theme.palette.mobiusFoundation.light,
+        dark: theme.palette.mobiusFoundation.dark,
+        contrastText: '#fff',
       },
-      discovery: {
-        main: theme.palette.text.secondary,
+      discover: {
+        main: theme.palette.mobiusDiscover.main,
+        light: theme.palette.mobiusDiscover.light,
+        dark: theme.palette.mobiusDiscover.dark,
+        contrastText: '#fff',
       },
-      options: {
-        main: theme.palette.text.primary,
+      decide: {
+        main: theme.palette.mobiusDecide.main,
+        light: theme.palette.mobiusDecide.light,
+        dark: theme.palette.mobiusDecide.dark,
+        contrastText: '#fff',
       },
-      delivery: {
-        main: theme.palette.text.primary,
+      deliver: {
+        main: theme.palette.mobiusDeliver.main,
+        light: theme.palette.mobiusDeliver.light,
+        dark: theme.palette.mobiusDeliver.dark,
+        contrastText: '#fff',
       },
     },
     components: {
       MuiCssBaseline: {
         styleOverrides: `
-          html: {
+          html {
             scroll-padding-top: 90px;
           }
         `,

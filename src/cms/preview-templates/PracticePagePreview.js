@@ -8,6 +8,31 @@ import PracticePageTemplate from "../../components/practicePage";
 
 const PracticePagePreview = ({ document, entry }) => {
   const frontmatter = entry.get("data").toJS();
+  
+  // Sanitize author and cover image fields
+  let coverImage = null;
+  if (frontmatter.coverImage) {
+    if (typeof frontmatter.coverImage === "string") {
+      coverImage = frontmatter.coverImage;
+    } else if (frontmatter.coverImage.url) {
+      coverImage = frontmatter.coverImage.url;
+    } else if (frontmatter.coverImage.path) {
+      coverImage = frontmatter.coverImage.path;
+    } else if (frontmatter.coverImage.childImageSharp?.gatsbyImageData) {
+      coverImage = frontmatter.coverImage.childImageSharp.gatsbyImageData;
+    }
+  }
+
+  const authors = Array.isArray(frontmatter.authors)
+    ? frontmatter.authors.map((a) =>
+        typeof a === "string" ? { title: a.trim() } : a
+      )
+    : typeof frontmatter.authors === "string"
+    ? frontmatter.authors
+        .split(",")
+        .map((a) => ({ title: a.trim() }))
+    : [];
+
   const data = {
     markdownRemark: {
       id: 1,
@@ -15,7 +40,11 @@ const PracticePagePreview = ({ document, entry }) => {
         slug: "edit-practice-page",
       },
       rawMarkdownBody: frontmatter.body,
-      frontmatter,
+      frontmatter: {
+        ...frontmatter,
+        authors,
+        coverImage,
+      },
     },
   };
 
@@ -34,7 +63,7 @@ const PracticePagePreview = ({ document, entry }) => {
     return (
       <CacheProvider value={cache}>
         <ThemeProvider theme={theme}>
-          {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
+          {/* CssBaseline kickstarts a consistent and simple baseline */}
           <CssBaseline />
           <PracticePageTemplate preview={true} data={data} />
         </ThemeProvider>
