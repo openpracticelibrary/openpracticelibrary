@@ -6,11 +6,6 @@ import mobiusContent from "../../../utilities/mobuisContent";
 import { navigate } from "gatsby";
 
 function fixMobiusTag(mobiusTag) {
-  // FIX: Added check for undefined
-  if (!mobiusTag) {
-    return "discover";
-  }
-  
   const mobiusTagLowerCase = mobiusTag.toLowerCase();
   switch (mobiusTagLowerCase) {
     case "discovery":
@@ -24,30 +19,29 @@ function fixMobiusTag(mobiusTag) {
   }
 }
 
-const PageIntro = ({
+const PageIntro = ({ 
+  practiceId, 
+  mobiusTag,
   title,
-  allTags,
   subtitle,
   authors,
-  createdAt,
+  date,
   updatedAt,
-  practiceId,
+  preview,
   upvotes,
   imgCount,
   questions,
-  date,
-  preview,
-  mobiusTag,
-}) => {
-  // FIX: Secured values
-  const safeMobiusTag = mobiusTag || "discovery";
-  const fixedMobiusTag = fixMobiusTag(safeMobiusTag);
-  const mobiusTagLower = safeMobiusTag.toLowerCase();
-  const mobiusInfo = mobiusContent[mobiusTagLower] || mobiusContent["discovery"];
+}) => {  
+  // FIX: Removed default "discovery" fallback - mobiusTag is now nullable
+  // This ensures practices must explicitly define their Mobius tag
+  const fixedMobiusTag = mobiusTag ? fixMobiusTag(mobiusTag) : null;
+  const mobiusTagLower = mobiusTag ? mobiusTag.toLowerCase() : null;
+  const mobiusInfo = mobiusTagLower ? mobiusContent[mobiusTagLower] : null;
   
   // FIX: Use sx instead of custom color prop - MUI does not recognize custom colors as valid color values
   // FIX: Added fallback values ​​in case the theme is not loaded correctly (e.g. in CMS preview)
   const getButtonSx = (tag) => {
+    // FIX: No default fallback - if tag is invalid, return neutral gray
     const colorMap = {
       "foundation": { palette: "mobiusFoundation", fallback: "#a54ccf" },
       "discover": { palette: "mobiusDiscover", fallback: "#00a6e7" },
@@ -55,10 +49,10 @@ const PageIntro = ({
       "deliver": { palette: "mobiusDeliver", fallback: "#76b82a" }
     };
     
-    const config = colorMap[tag] || { palette: "mobiusDiscover", fallback: "#00a6e7" };
+    const config = colorMap[tag] || { palette: null, fallback: "#9e9e9e" };
     
     return (theme) => {
-      const paletteColor = theme.palette?.[config.palette];
+      const paletteColor = config.palette ? theme.palette?.[config.palette] : null;
       
       return {
         backgroundColor: paletteColor?.main || config.fallback,
@@ -82,18 +76,41 @@ const PageIntro = ({
       </Box>
       <Grid container spacing={1} justifyContent="left">
         <Grid item xs={6} md={2}>
-          <Button
-            sx={getButtonSx(fixedMobiusTag)}
-            disableElevation
-            fullWidth
-            data-testid={fixedMobiusTag + "-button"}
-            onClick={() => navigate("/tags/" + mobiusTagLower)}
-            size="small"
-            startIcon={mobiusInfo?.icon}
-            variant="contained"
-          >
-            {fixedMobiusTag.toUpperCase()}
-          </Button>
+          {/* FIX: Conditional rendering - show Mobius button or neutral preview button */}
+          {/* This allows CMS preview to display even when mobiusTag is not yet selected */}
+          {mobiusTag ? (
+            <Button
+              sx={getButtonSx(fixedMobiusTag)}
+              disableElevation
+              fullWidth
+              data-testid={fixedMobiusTag + "-button"}
+              onClick={() => navigate("/tags/" + mobiusTagLower)}
+              size="small"
+              startIcon={mobiusInfo?.icon}
+              variant="contained"
+            >
+              {fixedMobiusTag.toUpperCase()}
+            </Button>
+          ) : (
+            // FIX: Neutral gray button when mobiusTag is missing
+            // Shows "PREVIEW" in preview mode or "SELECT TAG" in production
+            <Button
+              sx={{
+                backgroundColor: '#9e9e9e',
+                color: "#fff",
+                '&:hover': {
+                  backgroundColor: '#757575',
+                }
+              }}
+              disableElevation
+              fullWidth
+              disabled={!preview}
+              size="small"
+              variant="contained"
+            >
+              {preview ? "PREVIEW" : "SELECT TAG"}
+            </Button>
+          )}
         </Grid>
       </Grid>
       <ContributedBy

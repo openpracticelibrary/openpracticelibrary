@@ -28,6 +28,13 @@ const MuiOverrides = (theme) =>
         dark: theme.palette.mobiusDeliver.dark,
         contrastText: '#fff',
       },
+      // FIX: Added undefined color for practices without mobiusTag
+      undefined: {
+        main: theme.palette.grey[500],
+        light: theme.palette.grey[300],
+        dark: theme.palette.grey[700],
+        contrastText: '#fff',
+      },
     },
     components: {
       MuiCssBaseline: {

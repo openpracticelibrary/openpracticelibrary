@@ -44,6 +44,8 @@ const PracticePagePreview = ({ document, entry }) => {
         ...frontmatter,
         authors,
         coverImage,
+        // Remove any default mobiusTag assignment - let it be undefined if not set
+        mobiusTag: frontmatter.mobiusTag || undefined,
       },
     },
   };
