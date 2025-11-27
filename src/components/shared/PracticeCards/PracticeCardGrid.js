@@ -17,7 +17,8 @@ const PracticeCardGrid = (props) => {
           <PracticeCard
             key={practice.node.id}
             coverImage={
-              practice.node.frontmatter.icon.childImageSharp.gatsbyImageData
+              // Fallback to null if icon or gatsbyImageData does not exist
+              practice.node.frontmatter.icon?.childImageSharp?.gatsbyImageData || null
             }
             practiceId={practice.node.id}
             practiceTitle={practice.node.frontmatter.title}
