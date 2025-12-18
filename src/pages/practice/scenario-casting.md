@@ -15,7 +15,8 @@ mobiusTag: discovery
 icon: https://scenario-casting.org/images/historic-maritime-map.png
 whatIs: >-
   A SCENARIO is an outline of some interesting *situation that implies a certain
-  outcome*, e.g. "Ada orders a calzone pizza". It's as simple as that.\
+  outcome*, e.g. "Ada orders a calzone pizza". It's as simple as that.
+
 
   A scenario is described from *domain perspective in pure domain language*. It is *concrete, detailed and distinctive*.
 
