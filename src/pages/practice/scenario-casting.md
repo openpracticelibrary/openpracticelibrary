@@ -12,7 +12,7 @@ authors:
 tags:
   - validate
 mobiusTag: discovery
-icon: https://scenario-casting.org/images/historic-maritime-map.png
+icon: /images/opl-scenariocasting-historic-maritime-map.png
 whatIs: >-
   A SCENARIO is an outline of some interesting *situation that implies a certain
   outcome*, e.g. "Ada orders a calzone pizza". It's as simple as that.
