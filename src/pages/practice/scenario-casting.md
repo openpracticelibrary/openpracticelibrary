@@ -1,11 +1,7 @@
 ---
 templateKey: practice-page
 title: Scenario Casting
-subtitle: " Scenario Casting is a collaborative tool for structuring software
-  development projects - driven by domain expertise - expressed in scenarios.
-  Scenario Casting is especially useful for getting to grips with complex or
-  elusive domains. If your domain feels like this, and maybe a lot of people are
-  involved, try Scenario Casting."
+subtitle: Get a handle on a complex and elusive domain.
 date: 2025-12-09T13:22:14.560Z
 authors:
   - infosec812
@@ -14,8 +10,14 @@ tags:
 mobiusTag: discovery
 icon: /images/opl-scenariocasting-historic-maritime-map.png
 whatIs: >-
-  A SCENARIO is an outline of some interesting *situation that implies a certain
-  outcome*, e.g. "Ada orders a calzone pizza". It's as simple as that.
+  Scenario Casting is a collaborative tool for structuring software development
+  projects - driven by domain expertise - expressed in scenarios. Scenario
+  Casting is especially useful for getting to grips with complex or elusive
+  domains. If your domain feels like this, and maybe a lot of people are
+  involved, try Scenario Casting.
+
+
+  A SCENARIO is an outline of some interesting *situation that implies a certain outcome*, e.g. "Ada orders a calzone pizza". It's as simple as that.
 
 
   A scenario is described from *domain perspective in pure domain language*. It is *concrete, detailed and distinctive*.
