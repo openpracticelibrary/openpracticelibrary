@@ -4,7 +4,7 @@ title: Scenario Casting
 subtitle: Get a handle on a complex and elusive domain.
 date: 2025-12-09T13:22:14.560Z
 authors:
-  - infosec812
+  - InfoSec812
 tags:
   - validate
 mobiusTag: discovery
