@@ -5,6 +5,7 @@ subtitle: Get a handle on a complex and elusive domain.
 date: 2025-12-09T13:22:14.560Z
 authors:
   - InfoSec812
+  - mtakane
 tags:
   - validate
 mobiusTag: discovery
@@ -49,7 +50,7 @@ howTo: >-
   Then *flesh out and tell the stories* of the *Orientation Scenarios* in *collaborative modeling sessions* using
 
 
-  *[Domain Storytelling](https://domainstorytelling.org/)* or *[Event Storming](https://www.eventstorming.com/)*.
+  *[Domain Storytelling](https://openpracticelibrary.com/practice/domain-storytelling/)* or *[Event Storming](https://openpracticelibrary.com/practice/event-storming/)*.
 
 
   A *Scenario Casting* is carried out *iteratively*. Whenever you start a *new iteration or phase of a project*, start with a *Scenario Casting*, to get an *overview of the domain* and to *set a focus for everyone involved*.
@@ -65,6 +66,18 @@ resources:
   - link: https://miro.com/templates/scenario-casting/
     linkType: web
     description: Miro Template
+  - linkType: web
+    link: https://www.eventstorming.com/
+    description: Site for training and deeper knowledge on event storming
+  - link: https://domainstorytelling.org/
+    linkType: web
+    description: Site for training and deeper knowledge on domain storytelling.
+people: 1+
+time: 30 min
 difficulty: easy
-participants: []
+participants:
+  - ProductOwner
+  - Team
+  - BAs
+  - Stakeholders
 ---
