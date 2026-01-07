@@ -14,7 +14,8 @@ whatIs: >-
   projects - driven by domain expertise - expressed in scenarios. Scenario
   Casting is especially useful for getting to grips with complex or elusive
   domains. If your domain feels like this, and maybe a lot of people are
-  involved, try Scenario Casting.
+  involved, try Scenario Casting. This practice was originally created by Jörn
+  Koch.
 
 
   A SCENARIO is an outline of some interesting *situation that implies a certain outcome*, e.g. "Ada orders a calzone pizza". It's as simple as that.
