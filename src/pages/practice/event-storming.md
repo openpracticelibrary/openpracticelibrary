@@ -148,7 +148,7 @@ resources:
     description: 3x3 Sticky Notes
   - link: http://eventstorming.com/
     linkType: book
-    description: Alberto Brandolini's Book
+    description: Site for training and deeper knowledge on event storming
   - link: https://www.youtube.com/watch?v=1i6QYvYhlYQ
     linkType: video
     description: Alberto Brandolini's 50,000 Orange Stickies Later from Explore DDD 2017
