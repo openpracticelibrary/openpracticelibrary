@@ -58,7 +58,7 @@ resources:
     description: Domain Driven Design
   - link: http://domainstorytelling.org
     linkType: web
-    description: domainstorytelling.org
+    description: Site for training and deeper knowledge on Domain Storytelling
 participants:
   - moderator
   - domain experts
