@@ -1,22 +1,23 @@
 ---
 templateKey: practice-page
 title: Generative AI Cost Equation
-subtitle: Strategic framework created by George Westerman a Research Scientist
-  in the MIT Initiative on the Digital Economy, it is used to determine if
-  automating a specific task with generative AI is economically and practically
-  viable compared to the existing manual process
+subtitle: "Validate viability by calculating cost of AI tooling, adaptation, and
+  supervision compared with manual efforts. "
 date: 2026-01-09T16:07:06.541Z
 authors:
-  - moimero
+  - Moimero
 tags:
   - validate
 mobiusTag: discovery
 icon: /images/genai-cost-ecuation.png
 whatIs: >-
-  The equation evaluates viability by comparing the total costs of the AI
-  implementation against the **Cost of the Manual Process** (the status quo).
-  For an initiative to be sensible, the following condition should generally be
-  met:
+  T﻿his strategic framework was created by George Westerman, a Research
+  Scientist in the MIT Initiative on the Digital Economy. It is used to
+  determine if automating a specific task with generative AI is economically and
+  practically viable compared to an existing manual process.
+
+
+  The equation evaluates viability by comparing the total costs of the AI implementation against the **Cost of the Manual Process** (the status quo). For an initiative to be sensible, the following condition should generally be met:
 
 
   **(Cost of Using AI + Cost of Adaptation + Cost of Detecting and Fixing Errors) < Cost of Manual Process**
@@ -27,9 +28,7 @@ whatIs: >-
 
   1. **Cost of Using AI:** The direct expenses involved in accessing the technology, such as API usage fees, subscriptions to providers (e.g., OpenAI, Azure), or the computing power required to run open-source models.
 
-
   2. **Cost of Adaptation:** The investment of time, resources, and specialized expertise required to fine-tune or adapt the model to achieve the specific level of accuracy needed for the task.
-
 
   3. **Cost of Detecting and Fixing Errors:** The cost of the necessary supervision process—often involving a "human-in-the-loop"—to review AI outputs and correct mistakes, acknowledging that generative AI is not perfect and can produce hallucinations
 whyDo: >-
