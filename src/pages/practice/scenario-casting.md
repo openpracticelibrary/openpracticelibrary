@@ -58,7 +58,7 @@ howTo: >-
 
   If you already have a *bulging Scenario Backlog*, you can skip step 1 (brainstorming) and move on to step 2 (prioritizing). If the highest priority scenarios seem *manageable* and each seems *interesting enough on its own*, skip step 3 (combining) and flesh out the individual scenarios directly. *Scenario Casting* can be *extensive and in-depth* or *very short and concise* - depending on your situational needs. Keep it lightweight!
 mediaGallery:
-  - link: https://www.youtube-nocookie.com/embed/YXmLG_rjRvg
+  - link: https://www.youtube.com/watch?v=YXmLG_rjRvg&t=9s
 resources:
   - link: https://scenario-casting.org/
     linkType: web
