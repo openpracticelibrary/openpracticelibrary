@@ -14,7 +14,7 @@ icon: /images/johncutler-vue-miro.png
 whatIs: T﻿his is a great way to p﻿rioritise a backlog or ToDo list by
   identifying the value, urgency, and effort associated with each item, and
   spark meaningful team conversations.
-whyDo: D﻿eveloped by [John Cutle](https://cutlefish.substack.com/)﻿s an
+whyDo: D﻿eveloped by [John Cutler](https://cutlefish.substack.com/) as an
   extension of Joshua Arnold's workshop about [Cost of
   Delay](https://www.infoq.com/news/2015/02/cost-of-delay/), this practice
   allows teams to tap into different perspectives, and make them explicit and
@@ -46,5 +46,9 @@ resources:
     linkType: web
     description: Using Cost of Delay to Quantify Value and Urgency - Ben Linders /
       Joshua Arnold
+  - link: https://maven.com/john-cutler/run-an-effective-prioritization-activity
+    linkType: purchase
+    description: Maven Course - How to Run an Effective Prioritization Activity -
+      John Cutler
 participants: []
 ---
