@@ -4,6 +4,7 @@ title: Impact Mapping
 subtitle: An engaging, graphical, strategic planning technique
 date: 2017-09-06T05:00:00.000Z
 authors:
+  - gojko
   - sherl0cks
   - mtakane
   - rdebeasi
