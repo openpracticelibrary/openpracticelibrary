@@ -36,6 +36,8 @@ howTo: >-
 
 
   S﻿tep 5 - Reveal the weighted cost of delay (CD3), discuss, and adjust.
+mediaGallery:
+  - link: https://substackcdn.com/image/fetch/$s_!td7-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cd519dd-1d04-4446-9965-ff1db3787b99_1829x1770.png
 resources:
   - link: https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
     linkType: web
