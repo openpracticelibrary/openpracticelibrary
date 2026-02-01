@@ -96,5 +96,8 @@ resources:
   - link: https://brandvines.com/wp-content/uploads/2013/06/5-15-for-Sample-Report.pdf
     description: 15/5 Template from Brandvines
     linkType: web
+  - link: https://www.techrepublic.com/article/how-5-15-reports-improve-communication/
+    linkType: web
+    description: Tech Republic - How 5/15 reports improve communication
 participants: []
 ---
