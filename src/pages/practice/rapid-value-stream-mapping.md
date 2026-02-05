@@ -149,6 +149,9 @@ resources:
   - link: https://itrevolution.com/articles/the-five-maps-of-flow-engineering/
     linkType: web
     description: All five maps of Flow Engineering
+  - link: https://www.infoq.com/articles/value-stream-management/
+    linkType: web
+    description: Description of Rapid Value Stream Mapping
 people: <12
 time: 2 hours for the first time, subsequent mappings can be 90mins or less
 difficulty: moderate
