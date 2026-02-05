@@ -82,7 +82,7 @@ howTo: >-
   ## 2. Add Activities
 
 
-  This visualizes the work. The goal is to capture the reality of what actually happens, not what *should* happen.\
+  This visualizes the work. The goal is to capture the reality of what actually happens, not what *should* happen. Write out a short title for each activity in the flow on individual post-its, and lay them out in a complete, end-to-end flow of the flow of work.\
 
   \
 
