@@ -26,7 +26,10 @@ whyDo: >-
   within timeboxes teams already have allocated for less productive efforts.
 
 
-  T﻿he mapping allows for many benefits provided by Value Stream Mapping: Shared visibility of invisible work, data to support decision-making, focus on a key constraint or bottleneck. 
+  R﻿apid Value Stream Mapping was created within digital product development and IT, so it is digital native (the first maps were actually created in Google Sheets - which is not recommended!) and focused on mapping that can accommodate remote workers using video conferencing and realtime collaborative whiteboards. Rather than traditional Value Stream Mapping which focused on physical manufacturing, trucks, and warehouses, it focuses on the invisible efforts of knowledge work and tech, as a way of creating some clarity in highly uncertain and adaptive environments.
+
+
+  T﻿he mapping allows for the same benefits provided by Value Stream Mapping: Shared visibility of work, data to support decision-making, and focus on a key constraint or bottleneck. 
 
 
   Combined with the other maps of Flow Engineering, it allows for a quick and complete execution of improvement discovery from initial need or goal, all the way to actionable, owned and measured next steps, by creating visibility and understanding of the current flow of work. 
