@@ -73,6 +73,8 @@ howTo: >-
 
   * **Limit Scope:** If the stream is too large (e.g., "Idea to Cash"), slice it. Focus on the segment most likely to contain the bottleneck preventing the target outcome.
 
+  * **5﻿ Rs:** Paula Thrasher highlighted 5 factors to ensure selection of an effective value stream. It should be a flow of work that is Recent (happened in the recent past), Real (a flow that creates actual business value), Reach (it should extend all the way to customers experiencing the output), Road Tested (it should be something established and operational), and Representative (it should be a flow that is typical for the group involved).
+
 
   ## 2. Add Activities
 
@@ -128,18 +130,21 @@ howTo: >-
   ## 5. Highlight Constraint
 
 
-  The ultimate goal of the map is to find the *primary* bottleneck. This focus prevents efforts that make conditions worse by overloading an already constrained activity.\
+  The ultimate goal of the map is to find the *primary* bottleneck. This focus prevents efforts that make conditions worse by overloading an already constrained activity, and avoids distraction and excess work in progress.\
 
   \
 
   **Facilitation tips:**
 
 
-  * **One Constraint Rule:** Push the team to agree on the *single* biggest factor limiting the flow right now.
+  * **Focus:** Push the team to agree on the *single* biggest factor limiting the flow right now.
 
-  * **Visual Focus:** Mark this spot clearly (e.g., with a "storm cloud" or heavy border).
+  * **Aim for narrow:** Look to highlight one delay or stage. We can always expand or zoom in, but biting off too much is a risk to making progress.
 
-  * **Consensus Check:** Ask, "If we fixed everything else but ignored this, would we still miss our outcome?" If yes, you found the constraint.
+  * **S﻿et expectations:** If we don't focus, we likely achieve nothing. Make it clear that we're intentionally setting other opportunities aside in favor of rapid progress and results. Once we get initial results we can tackle more and bigger challenges. 
+
+
+  T﻿o act on what you discover, either dig deeper into the constraint causes with Dependency Mapping, redesign the value stream with Future State Value Stream Mapping, or jump ahead to a Flow Roadmap.
 mediaGallery:
   - link: https://itrevolution.b-cdn.net/wp-content/uploads/2024/03/Screenshot-2024-03-06-at-12.28.16%E2%80%AFPM.png.webp
 resources:
