@@ -58,7 +58,7 @@ howTo: >-
 
   * Markers for the PostIts
 
-  * Charcoal pencil and eraser to draw lines between PostIts (if desired)
+  * Charcoal pencil and eraser to draw lines between PostIts
 
 
   ## How does it fit?
@@ -104,7 +104,7 @@ participants:
   - Architects and the Team
 jumbotron: /images/mbpm2.jpg
 area: discovery-loop-why
-people: <12
+people: <10
 time: 2 - 3 Days
 difficulty: hard
 jumbotronAlt: Example MBPM
