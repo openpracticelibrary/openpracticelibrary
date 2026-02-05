@@ -1,8 +1,8 @@
 ---
 templateKey: practice-page
 title: Value Stream Mapping
-subtitle: Visual Representation of how Value flows through your system and
-  identify metrics to inform improvement decisions.
+subtitle: Visual Representation of how work flows through your system, with
+  associated metrics to inform improvement decisions.
 date: 2017-09-12T05:00:00.000Z
 authors:
   - sherl0cks
@@ -10,17 +10,18 @@ authors:
   - tdbeattie
   - springdo
   - eranderson921
+  - stevepereira
 tags:
   - methods
 mobiusTag: foundation
 icon: /images/vsm.jpg
 whatIs: >-
   Value Stream Mapping (VSM) is a third generation lean process improvement
-  technique.  The Value Stream itself is the series of individual processes that
-  connect together to create the valuable goods or service that an organization
-  produces for its customer.  The process of mapping the Value Stream is
-  designed to view the big, macro picture in order for executives to make
-  strategic decisions as part of an extended organizational transformation
+  technique.  The Value Stream itself is the series of individual processes (or
+  activities) that connect together to create the valuable goods or service that
+  an organization produces for its customer.  The process of mapping the Value
+  Stream is designed to view the big, macro picture in order for executives to
+  make strategic decisions as part of an extended organizational transformation
   effort.
 
 
@@ -51,13 +52,13 @@ howTo: >-
   Some teams prefer whiteboards, but the most common approach uses paper and PostIts
 
 
-  * Drawing paper roll.
+  * Drawing paper roll, or clear surface (6-8ft wide depending on room size)
 
   * Different colored wide format sticky notes like the 4x6 sticky notes
 
   * Markers for the PostIts
 
-  * Charcoal pencil and eraser to draw lines between PostIts
+  * Charcoal pencil and eraser to draw lines between PostIts (if desired)
 
 
   ## How does it fit?
@@ -88,9 +89,6 @@ resources:
   - link: https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=9
     linkType: book
     description: Learning to See
-  - link: http://www.ikea.com/us/en/catalog/products/80324072/
-    linkType: purchase
-    description: Drawing Paper example
   - link: https://www.amazon.com/Post-Sticky-Janeiro-Collection-4621-SSAU/dp/B001UXFT70
     linkType: purchase
     description: 4x6 sticky notes example
@@ -106,7 +104,7 @@ participants:
   - Architects and the Team
 jumbotron: /images/mbpm2.jpg
 area: discovery-loop-why
-people: <10
+people: <12
 time: 2 - 3 Days
 difficulty: hard
 jumbotronAlt: Example MBPM
