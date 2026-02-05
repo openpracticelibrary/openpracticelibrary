@@ -114,7 +114,7 @@ howTo: >-
   ## 3. Add Timing
 
 
-  This adds the dimension of *flow* to the map, revealing where time is actually spent versus where value is created. Capture **Two Key Metrics:** Focus primarily on **Process Time** (or Cycle Time, the start-to-finish time for each activity) and **Wait Time** (queue time/delays/waiting). 
+  This adds the dimension of *flow* to the map, revealing where time is actually spent versus where value is created. Capture **Two Key Metrics:** Focus primarily on **Cycle Time** (the start-to-finish time for each activity) and **Wait Time** (queue time/delays/waiting). 
 
 
   ![Add timing](/images/screenshot-2026-02-05-at-3.10.31-pm.png "Add Cycle Time and Wait Time")
@@ -135,12 +135,10 @@ howTo: >-
   ## 4. Add Other Relevant Data
 
 
-  Time isn't the only cost. This step layers on additional context needed to understand the friction in the system.\
+  Time isn't the only cost. This step layers on additional context needed to understand the friction in the system. If you're tight on time, you can fill this in later.
 
-  \
 
-  **Facilitation tips:**
-
+  * **Information Flow:** Capture flows of data and information between roles, teams, tools, and systems. Consider approvals, reviews, consultations, and feedback loops.
 
   * **Quality Metrics:** Ask about **% Complete & Accurate (%C/A)**—"How often does this step receive work that is usable without clarification or fix?"
 
