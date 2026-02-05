@@ -63,14 +63,20 @@ howTo: >-
   ## 1. Stream Selection
 
 
-  You cannot map everything. This step focuses the team on the specific sequence of work most relevant to your Target Outcome - what you aim to achieve.\
+  You cannot map everything. This step focuses the team on the specific sequence of work most relevant to your Target Outcome - what you aim to achieve. 
+
+
+  ![Stream selection](/images/screenshot-2026-02-05-at-3.08.01-pm.png "Stream selection")
+
+
+  \
 
   \
 
   **Facilitation tips:**
 
 
-  * **Anchor to the Customer:** Ask, "Who is the customer receiving the value defined in our workflow in service of our target outcome?" 
+  * **Anchor to the Customer:** Ask, "Who is the customer receiving the value defined in our workflow, in service of our target outcome?" e.g. If you want to reduce incident response time, then you would use your incident response process flow as the stream in question.
 
   * **Define Boundaries:** Explicitly agree on the start and end points of the stream.
 
@@ -79,10 +85,19 @@ howTo: >-
   * **5﻿ Rs:** Paula Thrasher highlighted 5 factors to ensure selection of an effective value stream. It should be a flow of work that is Recent (happened in the recent past), Real (a flow that creates actual business value), Reach (it should extend all the way to customers experiencing the output), Road Tested (it should be something established and operational), and Representative (it should be a flow that is typical for the group involved).
 
 
-  ## 2. Add Activities
+  ## 2. Lay Out Activities
 
 
-  This visualizes the work. The goal is to capture the reality of what actually happens, not what *should* happen. Write out a short title for each activity in the flow on individual post-its, and lay them out in a complete, end-to-end flow of the flow of work.\
+  This visualizes the work. The goal is to capture the reality of what actually happens, not what *should* happen. Write out a short title for each activity in the flow on individual post-its, and lay them out in a complete, end-to-end representation of the flow of work.
+
+
+  ![Activity layout](/images/screenshot-2026-02-05-at-3.07.44-pm.png "Activity layout")
+
+
+  ![](/images/screenshot-2026-02-05-at-3.09.24-pm.png)
+
+
+  \
 
   \
 
@@ -99,16 +114,20 @@ howTo: >-
   ## 3. Add Timing
 
 
-  This adds the dimension of *flow* to the map, revealing where time is actually spent versus where value is created.\
+  This adds the dimension of *flow* to the map, revealing where time is actually spent versus where value is created. Capture **Two Key Metrics:** Focus primarily on **Process Time** (or Cycle Time, the start-to-finish time for each activity) and **Wait Time** (queue time/delays/waiting). 
+
+
+  ![Add timing](/images/screenshot-2026-02-05-at-3.10.31-pm.png "Add Cycle Time and Wait Time")
+
+
+  \
 
   \
 
   **Facilitation tips:**
 
 
-  * **Two Key Metrics:** Focus primarily on **Process Time** (or Cycle Time, the start-to-finish time for each activity) and **Wait Time** (queue time/delays/waiting).
-
-  * **Use Ranges:** Teams often freeze when asked for exact numbers. Ask for best case / worst case to establish the range of "it depends" but press for what happens "most often". 
+  * **Use Ranges if you hit friction:** Teams often freeze when asked for exact numbers. Ask for best case / worst case to establish the range of "it depends" but press for what happens "most often". 
 
   * **Calculate Lead Time:** Sum the times to show the total duration, highlighting the efficiency gap (Process Time / Total Lead Time).
 
@@ -133,7 +152,13 @@ howTo: >-
   ## 5. Highlight Constraint
 
 
-  The ultimate goal of the map is to find the *primary* bottleneck. This focus prevents efforts that make conditions worse by overloading an already constrained activity, and avoids distraction and excess work in progress.\
+  The ultimate goal of the map is to find the *primary* bottleneck. This focus prevents efforts that make conditions worse by overloading an already constrained activity, and avoids distraction and excess work in progress.
+
+
+  ![](/images/screenshot-2026-02-05-at-3.14.20-pm.png)
+
+
+  \
 
   \
 
