@@ -173,6 +173,7 @@ howTo: >-
   T﻿o act on what you discover, either dig deeper into the constraint causes with Dependency Mapping, redesign the value stream with Future State Value Stream Mapping, or jump ahead to a Flow Roadmap.
 mediaGallery:
   - link: https://itrevolution.b-cdn.net/wp-content/uploads/2024/03/Screenshot-2024-03-06-at-12.28.16%E2%80%AFPM.png.webp
+  - link: https://www.youtube.com/watch?v=j6BszAWckFw
 resources:
   - link: https://www.youtube.com/watch?v=j6BszAWckFw
     linkType: video
