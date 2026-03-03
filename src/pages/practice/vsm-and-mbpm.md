@@ -9,8 +9,8 @@ authors:
   - mtakane
   - tdbeattie
   - springdo
-  - eranderson921
   - stevepereira
+  - eranderson921
 tags:
   - methods
 mobiusTag: foundation
