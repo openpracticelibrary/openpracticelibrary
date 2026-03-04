@@ -83,7 +83,7 @@ howTo: >-
   Establish a mechanism for reviewers to report errors and patterns back to the
   team maintaining the AI system. Track what types of errors occur, how often,
   and whether they are improving over time. Use this data to retrain models and
-  refine prompts. Over time, these feedback loops mature into structured **evals**, systematic evaluations that measure AI output quality against human-defined criteria and help you know whether the system is actually getting better.
+  refine prompts. Over time, these feedback loops mature into structured **[evals](/practice/evals/)**, systematic evaluations that measure AI output quality against human-defined criteria and help you know whether the system is actually getting better.
 
 
   ### Step 6: Monitor and adapt
