@@ -30,7 +30,7 @@ whatIs: >-
 
   2. **Cost of Adaptation:** The investment of time, resources, and specialized expertise required to fine-tune or adapt the model to achieve the specific level of accuracy needed for the task.
 
-  3. **Cost of Detecting and Fixing Errors:** The cost of the necessary supervision process—often involving a "human-in-the-loop"—to review AI outputs and correct mistakes, acknowledging that generative AI is not perfect and can produce hallucinations
+  3. **Cost of Detecting and Fixing Errors:** The cost of the necessary supervision process—often involving a "[human-in-the-loop](/practice/human-in-the-loop/)" to review AI outputs and correct mistakes, acknowledging that generative AI is not perfect and can produce hallucinations
 whyDo: >-
   You should perform this practice to **validate the economic and practical
   viability** of a project before investing resources. Specifically, it helps
