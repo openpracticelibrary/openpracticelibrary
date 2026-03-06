@@ -6,6 +6,16 @@
 	};
 })(window);
 
+function escapeHtml(str) {
+	if (str == null) return '';
+	var s = String(str);
+	return s
+		.replace(/&/g, '&amp;')
+		.replace(/</g, '&lt;')
+		.replace(/>/g, '&gt;')
+		.replace(/"/g, '&quot;')
+		.replace(/'/g, '&#39;');
+}
 
 const searchfield = document.getElementById('search-input');
 const searchbutton = document.getElementById('search-button');
@@ -18,7 +28,7 @@ searchfield.addEventListener("keyup", function (event) {
 });
 
 searchbutton.onclick = function () {
-	window.history.pushState(null, null, "/search/?search=" + searchfield.value);
+	window.history.pushState(null, null, "/search/?search=" + encodeURIComponent(searchfield.value));
 	runQuery(searchfield.value);
 };
 
@@ -47,10 +57,11 @@ const runQuery = function (searchTerm) {
 			}
 			res = res.replace(/[^\/]*/, "").replace(/\//g, "");
 			// console.log(initialResults[i].ref )
-			cleanedResults += "<li><a href='" + window.location.origin + "/" + initialResults[i].ref.replace(/practices/, "/practice/") + "' id='result'>" + res + "</a></li>";
+			var refPath = initialResults[i].ref.replace(/practices/, "/practice/");
+			cleanedResults += "<li><a href='" + escapeHtml(window.location.origin + "/" + refPath) + "' id='result'>" + escapeHtml(res) + "</a></li>";
 		}
 	} else {
-		cleanedResults = "No pages found for \"" + searchTerm + "\". <br/> Please try another search, or <a style='text-decoration: underline;' href='https://github.com/openpracticelibrary/openpracticelibrary/issues/new'>let us know</a> if something is missing.";
+		cleanedResults = "No pages found for \"" + escapeHtml(searchTerm) + "\". <br/> Please try another search, or <a style='text-decoration: underline;' href='https://github.com/openpracticelibrary/openpracticelibrary/issues/new'>let us know</a> if something is missing.";
 	}
 	RESULTS.innerHTML = cleanedResults;
 };
