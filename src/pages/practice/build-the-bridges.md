@@ -30,10 +30,10 @@ howTo: >-
   Around you can see other islands ! these are the teams you interact with!
 
 
-  But how do you do this?
+  ### **But how do you do this?**
 
 
-  Your goal: Create connections between your island and the surrounding islands. Build bridges!
+  **Your goal**: Create connections between your island and the surrounding islands. Build bridges!
 
 
   The facilitator pitches the workshop to explain its purpose:
@@ -45,25 +45,25 @@ howTo: >-
   Your objective: to identify which other islands you interact with and, more importantly, how? To do this, you need connections: a bridge between your island and the surrounding islands.”
 
 
-  Step 0: Prerequisites
+  **Step 0: Prerequisites**
 
 
-  Put your team's name on the central island
+  * Put your team's name on the central island
 
-  Put the names of your team members on the island
-
-
-  Step 1: Identify cross-functional collaboration
+  * Put the names of your team members on the island
 
 
-  List the teams your team interacts with (be thorough)
-
-  Identify the key members of these teams
+  **Step 1: Identify cross-functional collaboration**
 
 
-  Step 2: Identify the connections
+  * List the teams your team interacts with (be thorough)
 
-  Step 3: (Re)build the connection
+  * Identify the key members of these teams
+
+
+  **Step 2: Identify the connections
+
+  Step 3: (Re)build the connection**
 
 
   There is a bridge to build with each team you work with.
@@ -72,36 +72,37 @@ howTo: >-
   Each bridge will be built with "bricks": these represent the item that link the other team to yours.
 
 
-  The Rules
+  ### **The Rules**
 
 
   The bricks are placed on the bridge according to the responsibility for the relation.
 
 
-  If the brick is near your island: it's your responsibility.
+  * If the brick is near your island: it's your responsibility.
 
-  If the brick is near the other team's island: it's their responsibility.
+  * If the brick is near the other team's island: it's their responsibility.
 
-  If it's in the center, the responsibility is mutual.
+  * If it's in the center, the responsibility is mutual.
+
 
   The colors of the bricks represent the quality of the link :
 
 
-  Green bricks: Good link
+  * Green bricks: Good link
 
-  Orange bricks: Mediocre link
+  * Orange bricks: Mediocre link
 
-  Red bricks: Bad quality link
+  * Red bricks: Bad quality link
 
-  Purple bricks: Link does not exist
-
-
-  Step 4: Who builds?
+  * Purple bricks: Link does not exist
 
 
-  Designate a person responsible for the brick = they are or will be responsible for improve the link.
+  **Step 4: Who builds?**
 
-  Commitment: each red or purple brick must be addressed as a priority (the person in charge commits to a result and a maximum date).
+
+  * Designate a person responsible for the brick = they are or will be responsible for improve the link.
+
+  * Commitment: each red or purple brick must be addressed as a priority (the person in charge commits to a result and a maximum date).
 mediaGallery:
   - link: https://dufourjohan.fr/BuildTheBridges/Board-full-Build-the-Bridges-v1.1.pdf
   - link: https://dufourjohan.fr/BuildTheBridges/Build-The-Bridges-v1.1-2026-English.pdf
