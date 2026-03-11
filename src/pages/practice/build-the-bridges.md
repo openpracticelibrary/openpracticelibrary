@@ -102,7 +102,9 @@ howTo: >-
   Designate a person responsible for the brick = they are or will be responsible for improve the link.
 
   Commitment: each red or purple brick must be addressed as a priority (the person in charge commits to a result and a maximum date).
-mediaGallery: []
+mediaGallery:
+  - link: https://dufourjohan.fr/BuildTheBridges/Board-full-Build-the-Bridges-v1.1.pdf
+  - link: https://dufourjohan.fr/BuildTheBridges/Build-The-Bridges-v1.1-2026-English.pdf
 resources:
   - linkType: web
     link: https://hacoeur.biz/hacktivite-build-the-bridges/
