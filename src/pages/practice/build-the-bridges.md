@@ -30,7 +30,7 @@ howTo: >-
   Around you can see other islands ! these are the teams you interact with!
 
 
-  ### **But how do you do this?**
+  ### **But how do you do this?** 
 
 
   **Your goal**: Create connections between your island and the surrounding islands. Build bridges!
