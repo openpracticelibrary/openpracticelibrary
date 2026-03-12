@@ -110,6 +110,9 @@ resources:
   - linkType: web
     link: https://hacoeur.biz/hacktivite-build-the-bridges/
     description: Build The Bridges - v1.0 (old and in french)
+  - link: https://miro.com/miroverse/build-the-bridges/
+    linkType: web
+    description: Build The Bridges - Miro Template
 time: 1h30/2h
 difficulty: easy
 participants: []
