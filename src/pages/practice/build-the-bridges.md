@@ -4,7 +4,7 @@ title: Build The Bridges
 subtitle: To identify, visualize, evaluate, and actively improve cross-team collaboration
 date: 2026-03-11T15:26:55.866Z
 authors:
-  - Johan Dufour
+  - Johan-Ekite
 tags:
   - learn
 mobiusTag: foundation
@@ -104,8 +104,7 @@ howTo: >-
 
   * Commitment: each red or purple brick must be addressed as a priority (the person in charge commits to a result and a maximum date).
 mediaGallery:
-  - link: https://dufourjohan.fr/BuildTheBridges/Board-full-Build-the-Bridges-v1.1.pdf
-  - link: https://dufourjohan.fr/BuildTheBridges/Build-The-Bridges-v1.1-2026-English.pdf
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/80f7056d290ec98614c8f3108afdcc2c223a6a7b/images/OPL-BuildBridges.png
 resources:
   - linkType: web
     link: https://hacoeur.biz/hacktivite-build-the-bridges/
@@ -113,6 +112,12 @@ resources:
   - link: https://miro.com/miroverse/build-the-bridges/
     linkType: web
     description: Build The Bridges - Miro Template
+  - link: https://dufourjohan.fr/BuildTheBridges/Board-full-Build-the-Bridges-v1.1.pdf
+    linkType: web
+    description: PDF - Board and bridges artwork
+  - link: https://dufourjohan.fr/BuildTheBridges/Build-The-Bridges-v1.1-2026-English.pdf
+    linkType: web
+    description: PDF - Playing cards with instructions
 time: 1h30/2h
 difficulty: easy
 participants: []
