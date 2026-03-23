@@ -75,6 +75,7 @@ export default function MediaGallery({
         title={item.embedUrl}
         src={item.embedUrl}
         allowFullScreen
+        referrerPolicy="strict-origin-when-cross-origin"
       />
     </Box>
   );

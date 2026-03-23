@@ -3,6 +3,9 @@ import Helmet from "react-helmet";
 import favicon from "../assets/images/favicon.ico";
 import Drawer from "./shared/Drawer";
 import Footer from "./shared/BodyFooter";
+import { Box } from "@mui/material";
+
+const drawerCollapsedWidth = 72;
 
 const Layout = ({ ogContent, children }) => (
   <>
@@ -49,8 +52,14 @@ const Layout = ({ ogContent, children }) => (
       <meta name="twitter:card" content="summary_large_image" />
     </Helmet>
     <Drawer />
-    {children}
-    <Footer />
+    <Box
+      sx={{
+        ml: { md: `${drawerCollapsedWidth}px` },
+      }}
+    >
+      {children}
+      <Footer />
+    </Box>
   </>
 );
 

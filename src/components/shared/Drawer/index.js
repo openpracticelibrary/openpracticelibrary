@@ -17,7 +17,7 @@ const OPLDrawer = () => {
         open={open}
       >
         <Box
-          positon="relative"
+          position="relative"
           height="100vh"
           display="flex"
           flexDirection="column"
