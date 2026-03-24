@@ -10,7 +10,7 @@
   },
   "repository": "github:openpracticelibrary/openpracticelibrary",
   "engines": {
-    "node": >=20.0.0"
+    "node": ">=20.0.0"
   },
   "dependencies": {
     "@emotion/cache": "^11.10.5",
