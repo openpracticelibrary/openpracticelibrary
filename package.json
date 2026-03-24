@@ -64,11 +64,11 @@
     "react-dom": "^18.2.0",
     "decap-cms-app": {
       "react": "$react",
-      "react-dom": "$react-dom",
-    }
+      "react-dom": "$react-dom"
+    },
     "gatsby-plugin-decap-cms": {
       "react": "$react",
-      "react-dom": "$react-dom",
+      "react-dom": "$react-dom"
     }
   },
   "license": "apache",
