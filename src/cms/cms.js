@@ -2,6 +2,7 @@ import CMS from "decap-cms-app/dist/decap-cms-app";
 if (typeof window !== 'undefined') {
   window.CMS = CMS;
   window.DecapCmsApp = CMS;
+  window.NetlifyCmsApp = CMS;
 }
 
 import uploadcare from "netlify-cms-media-library-uploadcare";
@@ -16,3 +17,5 @@ CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate("practice", PracticePagePreview);
+
+export default CMS;

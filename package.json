@@ -60,16 +60,18 @@
   "overrides": {
     "graphql": "^16.6.0",
     "react": "^18.2.0",
-    "@types/react": "^18.0.28",
     "react-dom": "^18.2.0",
+    "@types/react": "^18.0.28",
     "decap-cms-app": {
       "react": "$react",
-      "react-dom": "$react-dom"
-    },
-    "gatsby-plugin-decap-cms": {
-      "react": "$react",
-      "react-dom": "$react-dom"
-    }
+      "react-dom": "$react-dom",
+      "graphql": "$graphql"
+   },
+   "gatsby-plugin-decap-cms": {
+    "react": "$react",
+    "react-dom": "$react-dom",
+    "graphql": "$graphql"
+   }
   },
   "license": "apache",
   "main": "n/a",
