@@ -1,4 +1,4 @@
-import CMS from "decap-cms-app";
+import CMS from "decap-cms-app/dist/decap-cms-app";
 import uploadcare from "netlify-cms-media-library-uploadcare";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 
