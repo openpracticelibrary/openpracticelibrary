@@ -1,4 +1,8 @@
 import CMS from "decap-cms-app/dist/decap-cms-app";
+if (typeof window !== 'undefined') {
+  window.CMS = CMS;
+}
+
 import uploadcare from "netlify-cms-media-library-uploadcare";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 
