@@ -8,15 +8,15 @@ if (typeof window !== 'undefined') {
   window.DecapCmsApp = CMS;
   window.NetlifyCmsApp = CMS;
 
+  CMS.registerPreviewStyle(
+    "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap"
+  );
+  CMS.registerMediaLibrary(uploadcare);
+  CMS.registerMediaLibrary(cloudinary);
 
-CMS.registerPreviewStyle(
-  "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap"
-);
-CMS.registerMediaLibrary(uploadcare);
-CMS.registerMediaLibrary(cloudinary);
+  CMS.registerPreviewTemplate("practice", PracticePagePreview);
 
-CMS.registerPreviewTemplate("practice", PracticePagePreview);
-
-CMS.init();
+  CMS.init();
+}
 
 export default CMS;
