@@ -57,22 +57,22 @@
     "uuid": "^7.0.0",
     "xmlhttprequest-ssl": "^1.6.2"
   },
-  "overrides": {
-    "graphql": "^16.6.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@types/react": "^18.0.28",
-    "decap-cms-app": {
-      "react": "$react",
-      "react-dom": "$react-dom",
-      "graphql": "$graphql"
-   },
-   "gatsby-plugin-decap-cms": {
-    "react": "$react",
-    "react-dom": "$react-dom",
-    "graphql": "$graphql"
-   }
-  },
+    "overrides": {
+      "graphql": "^16.6.0",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "@types/react": "^18.0.28",
+      "decap-cms-app": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "graphql": "^16.6.0"
+        },
+      "gatsby-plugin-decap-cms": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "graphql": "^16.6.0"
+        }
+    },
   "license": "apache",
   "main": "n/a",
   "scripts": {
