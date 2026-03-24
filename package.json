@@ -9,6 +9,9 @@
     "email": "info@openpracticelibrary.com"
   },
   "repository": "github:openpracticelibrary/openpracticelibrary",
+  "engines": {
+    "node": >=20.0.0"
+  },
   "dependencies": {
     "@emotion/cache": "^11.10.5",
     "@emotion/react": "^11.10.5",
