@@ -99,7 +99,7 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
         enableIdentityWidget: true, 
         publicPath: `admin`,
-        manualInit: false
+        manualInit: true,
       },
     },
     {
