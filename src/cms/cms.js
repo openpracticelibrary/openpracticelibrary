@@ -1,6 +1,7 @@
 import CMS from "decap-cms-app/dist/decap-cms-app";
 if (typeof window !== 'undefined') {
   window.CMS = CMS;
+  window.DecapCmsApp = CMS;
 }
 
 import uploadcare from "netlify-cms-media-library-uploadcare";
