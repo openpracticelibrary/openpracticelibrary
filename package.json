@@ -24,7 +24,7 @@
     "decap-cms-media-library-uploadcare": "^3.0.2",
     "gatsby": "^5.9.1",
     "gatsby-background-image": "^1.6.0",
-    "gatsby-plugin-decap-cms": "^4.1.0",
+    "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-google-gtag": "^5.11.0",
     "gatsby-plugin-image": "^3.6.0",
     "gatsby-plugin-netlify": "^5.1.0",
@@ -59,7 +59,7 @@
     "uuid": "^7.0.0",
     "xmlhttprequest-ssl": "^1.6.2"
   },
-"overrides": {
+  "overrides": {
     "graphql": "^16.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
