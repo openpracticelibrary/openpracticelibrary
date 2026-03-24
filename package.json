@@ -20,12 +20,14 @@
     "@mui/system": "^5.11.9",
     "bulma": "^0.9.0",
     "decap-cms-app": "^3.10.1",
+    "decap-cms-media-library-cloudinary": "^3.1.0",
+    "decap-cms-media-library-uploadcare": "^3.0.2",
     "gatsby": "^5.9.1",
     "gatsby-background-image": "^1.6.0",
+    "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-google-gtag": "^5.11.0",
     "gatsby-plugin-image": "^3.6.0",
     "gatsby-plugin-netlify": "^5.1.0",
-    "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-purgecss": "^6.2.1",
     "gatsby-plugin-react-helmet": "^6.6.0",
     "gatsby-plugin-sass": "^6.6.0",
@@ -57,22 +59,28 @@
     "uuid": "^7.0.0",
     "xmlhttprequest-ssl": "^1.6.2"
   },
-    "overrides": {
-      "graphql": "^16.6.0",
+"overrides": {
+    "graphql": "^16.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@types/react": "^18.0.28",
+    "decap-cms-app": {
       "react": "^18.2.0",
-      "react-dom": "^18.2.0",
-      "@types/react": "^18.0.28",
-      "decap-cms-app": {
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "graphql": "^16.6.0"
-        },
-      "gatsby-plugin-decap-cms": {
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "graphql": "^16.6.0"
-        }
+      "react-dom": "^18.2.0"
     },
+    "gatsby-plugin-decap-cms": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "decap-cms-media-library-uploadcare": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "decap-cms-media-library-cloudinary": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    }
+  },
   "license": "apache",
   "main": "n/a",
   "scripts": {
