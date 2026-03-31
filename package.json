@@ -21,8 +21,9 @@
     "@mui/material": "^5.11.9",
     "@mui/styles": "^5.11.9",
     "@mui/system": "^5.11.9",
+    "ajv": "^8.18.0",
     "bulma": "^0.9.0",
-    "decap-cms-app": "^3.10.1",
+    "decap-cms-app": "3.6.2",
     "decap-cms-media-library-cloudinary": "^3.0.2",
     "decap-cms-media-library-uploadcare": "^3.0.2",
     "gatsby": "^5.9.1",
@@ -63,23 +64,7 @@
     "graphql": "^16.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@types/react": "^18.0.28",
-    "decap-cms-app": {
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0"
-    },
-    "gatsby-plugin-decap-cms": {
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0"
-    },
-    "decap-cms-media-library-uploadcare": {
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0"
-    },
-    "decap-cms-media-library-cloudinary": {
-      "react": "^18.2.0",
-      "react-dom": "^18.2.0"
-    }
+    "@types/react": "^18.0.28"
   },
   "license": "apache",
   "main": "n/a",
