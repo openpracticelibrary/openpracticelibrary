@@ -2,7 +2,8 @@ import React, { useMemo } from "react";
 import createCache from "@emotion/cache";
 import { CacheProvider } from "@emotion/react";
 import CssBaseline from "@mui/material/CssBaseline";
-import { ThemeProvider } from "@mui/styles";
+import { ThemeProvider } from "@mui/material/styles";
+import { ThemeProvider as LegacyThemeProvider } from "@mui/styles";
 import theme from "../../gatsby-theme-material-ui-top-layout/theme";
 import PracticePageTemplate from "../../components/practicePage";
 
@@ -40,8 +41,10 @@ const PracticePagePreview = ({ document, entry }) => {
   return (
     <CacheProvider value={cache}>
       <ThemeProvider theme={theme}>
-        <CssBaseline />
-        <PracticePageTemplate preview={true} data={data} />
+        <LegacyThemeProvider theme={theme}>
+          <CssBaseline />
+          <PracticePageTemplate preview={true} data={data} />
+        </LegacyThemeProvider>
       </ThemeProvider>
     </CacheProvider>
   );
