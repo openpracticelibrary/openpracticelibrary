@@ -65,7 +65,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@types/react": "^18.0.28",
-    "axios": "1.14.0"
+    "axios": "1.15.0"
   },
   "license": "apache",
   "main": "n/a",
@@ -81,7 +81,7 @@
     "cy:local": "cypress run --browser chrome --config baseUrl=http://localhost:8000/"
   },
   "devDependencies": {
-    "axios": "1.14.0",
+    "axios": "1.15.0",
     "babel-jest": "^29.7.0",
     "babel-preset-gatsby": "^2.25.0",
     "cypress": "^15.9.0",
