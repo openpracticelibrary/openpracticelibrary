@@ -30,6 +30,8 @@ whatIs: >-
   As a result, in as little as 30 minutes, you can introduce the concepts of value stream flow, visualization, measurements, constraints, and improvements. It’s also a fun way to collaboratively learn lean skills by doing, engage a new or existing team, and start a larger conversation about flow.
 
 
+  ### Example images
+
 
   ![Flow Engineering Game Board](/images/screenshot-2026-04-15-at-1.52.34-pm.png "Game illustration")
 
