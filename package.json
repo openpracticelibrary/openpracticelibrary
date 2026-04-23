@@ -57,7 +57,7 @@
     "react-markdown": "^8.0.5",
     "react-share": "^4.4.1",
     "sass": "^1.89.2",
-    "uuid": "^7.0.0",
+    "uuid": "^14.0.0",
     "xmlhttprequest-ssl": "^1.6.2"
   },
   "overrides": {
