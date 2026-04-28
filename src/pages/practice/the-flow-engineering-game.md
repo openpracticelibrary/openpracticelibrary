@@ -11,7 +11,7 @@ tags:
   - methods
 mobiusTag: discovery
 icon: /images/screenshot-2026-04-15-at-1.48.48-pm.png
-whatIs: >+
+whatIs: >-
   Flow Engineering can be introduced as a game by using a prototypical or
   fictional example stream and randomly generated data.
 
@@ -30,8 +30,19 @@ whatIs: >+
   As a result, in as little as 30 minutes, you can introduce the concepts of value stream flow, visualization, measurements, constraints, and improvements. It’s also a fun way to collaboratively learn lean skills by doing, engage a new or existing team, and start a larger conversation about flow.
 
 
-  ### Example images
+  ### Example Images
 
+
+  ![Flow engineering game board](/images/screenshot-2026-04-15-at-1.52.34-pm.png "Game illustration")
+
+
+  ![Flow engineering game board](/images/screenshot-2026-04-15-at-1.51.53-pm.png "Game illustration")
+
+
+  ![Digital flow engineering game board](/images/screenshot-2026-04-15-at-1.59.58-pm.png "Digital board example")
+
+
+  ![Completed example game board](/images/img_4408.jpeg "Completed example game board")
 whyDo: >-
   The game is a **quick, effective introduction** to rapid Value Stream Mapping.
   By using a fictional stream, it removes the emotional or logical baggage of
@@ -97,7 +108,8 @@ howTo: >-
   4. Dig deeper into your hotspot with a 5 Why analysis
 
   5. Redesign the value stream as a future state flow. What if you run some activities in parallel?
-mediaGallery: []
+mediaGallery:
+  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/85f52c8e60b8732e48ce46de95250a79c8efd129/static/images/screenshot-2026-04-15-at-1.51.53-pm.png
 time: 30 mins
 difficulty: easy
 participants: []
