@@ -11,7 +11,7 @@ tags:
   - methods
 mobiusTag: discovery
 icon: /images/screenshot-2026-04-15-at-1.48.48-pm.png
-whatIs: >-
+whatIs: >+
   Flow Engineering can be introduced as a game by using a prototypical or
   fictional example stream and randomly generated data.
 
@@ -32,17 +32,6 @@ whatIs: >-
 
   ### Example images
 
-
-  ![Flow Engineering Game Board](/images/screenshot-2026-04-15-at-1.52.34-pm.png "Game illustration")
-
-
-  ![Flow Engineering Game Board](/images/screenshot-2026-04-15-at-1.51.53-pm.png "Game illustration")
-
-
-  ![Digital Flow Engineering Game board](/images/screenshot-2026-04-15-at-1.59.58-pm.png "Digital Board example")
-
-
-  ![Completed example game board](/images/img_4408.jpeg "Completed example game board")
 whyDo: >-
   The game is a **quick, effective introduction** to rapid Value Stream Mapping.
   By using a fictional stream, it removes the emotional or logical baggage of
