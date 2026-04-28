@@ -5,10 +5,7 @@ subtitle: Introduce a group to rapid Value Stream Mapping in 30 mins or less.
 date: 2026-04-15T13:00:00.000Z
 authors:
   - stevepereira
-tags:
-  - value
-  - culture
-  - methods
+tags: null
 mobiusTag: discovery
 icon: /images/screenshot-2026-04-15-at-1.48.48-pm.png
 whatIs: >-
