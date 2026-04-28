@@ -25,21 +25,6 @@ whatIs: >-
     * Vary from the base unit to see what appears when you have multiple stages following the base scale (e.g. days) but a few that dramatically vary (e.g. months or hours)
 
   As a result, in as little as 30 minutes, you can introduce the concepts of value stream flow, visualization, measurements, constraints, and improvements. It’s also a fun way to collaboratively learn lean skills by doing, engage a new or existing team, and start a larger conversation about flow.
-
-
-  ### Example Images
-
-
-  ![Flow engineering game board](/images/screenshot-2026-04-15-at-1.52.34-pm.png "Game illustration")
-
-
-  ![Flow engineering game board](/images/screenshot-2026-04-15-at-1.51.53-pm.png "Game illustration")
-
-
-  ![Digital flow engineering game board](/images/screenshot-2026-04-15-at-1.59.58-pm.png "Digital board example")
-
-
-  ![Completed example game board](/images/img_4408.jpeg "Completed example game board")
 whyDo: >-
   The game is a **quick, effective introduction** to rapid Value Stream Mapping.
   By using a fictional stream, it removes the emotional or logical baggage of
