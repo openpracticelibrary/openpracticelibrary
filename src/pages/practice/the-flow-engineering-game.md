@@ -7,7 +7,7 @@ authors:
   - stevepereira
 tags: null
 mobiusTag: discovery
-icon: /images/screenshot-2026-04-15-at-1.48.48-pm.png
+icon: /images/opl-flow-eng-game2.png
 whatIs: >-
   Flow Engineering can be introduced as a game by using a prototypical or
   fictional example stream and randomly generated data.
@@ -91,7 +91,10 @@ howTo: >-
 
   5. Redesign the value stream as a future state flow. What if you run some activities in parallel?
 mediaGallery:
-  - link: https://raw.githubusercontent.com/openpracticelibrary/openpracticelibrary/85f52c8e60b8732e48ce46de95250a79c8efd129/static/images/screenshot-2026-04-15-at-1.51.53-pm.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/OPL-flow-eng-game4.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/OPL-flow-eng-game3.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/OPL-flow-eng-game5.png
+  - link: https://raw.githubusercontent.com/openpracticelibrary/opl-media/refs/heads/master/images/OPL-flow-eng-game1.jpeg
 time: 30 mins
 difficulty: easy
 participants: []
