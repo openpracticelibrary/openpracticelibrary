@@ -15,8 +15,8 @@ whatIs: >-
   applications measured load. This load could be CPU, memory, network or some
   other measurable metric that can be used as the trigger of scaling. The metric
   could also be the amount of items in a message queue or the amount of tasks
-  waiting in your business process. It can be used with active backends or batch
-  job type of temporary workloads.
+  waiting in your business process. It can be used with active backends or
+  temporary workloads such as batch jobs.
 
 
   Autoscaling can also be used as an automatic recovery for failed application instances. Because when coupled with health checks, auto scale can kill or restart the non-operational instance of the app and automatically replace it with a new working one.
