@@ -1,7 +1,6 @@
 ---
 templateKey: practice-page
 title: Metrics Based Process Mapping (MBPM)
-subtitle: Map your process in detail and collect key baseline metrics
 date: 2020-08-03T18:28:36.558Z
 authors:
   - prakritiverma
@@ -101,9 +100,11 @@ resources:
   - link: https://tkmg.com/books/metrics-based-process-mapping/
     linkType: purchase
     description: Metrics-Based Process Mapping by Karen Martin & Mike Osterling
-  - link: https://vimeo.com/558309693
+  - link: https://www.youtube.com/watch?v=D43Ou4sDU5s
     linkType: video
     description: MBPM Excel tool demo
+people: 2+
+difficulty: easy
 participants:
   - Facilitator
   - "Domain experts: BA"
@@ -111,9 +112,8 @@ participants:
   - implementers
 jumbotron: /images/mbpm-delta-air4-cluster-vm-provisioning.png
 area: discovery-loop-why
-people: 2+
 time: 2+ hours
 perspectives: []
-difficulty: easy
+subtitle: Map your process in detail and collect key baseline metrics
 jumbotronAlt: Example photo of a facilitated MBPM run
 ---
