@@ -28,6 +28,14 @@ whyDo: >-
 
   *   **Vulnerability and Trust:** It normalizes the fact that nobody knows everything at the start of a transformation, fostering psychological safety.
 howTo: >-
+  | A | B |
+
+  | --- | --- |
+
+  | 1 | 2 |
+
+
+
   ## Related Practices
 
   *   Pair Programming / Mob Programming
