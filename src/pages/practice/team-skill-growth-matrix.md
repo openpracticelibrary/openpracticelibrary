@@ -28,14 +28,6 @@ whyDo: >-
 
   *   **Vulnerability and Trust:** It normalizes the fact that nobody knows everything at the start of a transformation, fostering psychological safety.
 howTo: >-
-  | A | B |
-
-  | --- | --- |
-
-  | 1 | 2 |
-
-
-
   ## Related Practices
 
   *   Pair Programming / Mob Programming
@@ -99,16 +91,7 @@ howTo: >-
   **Example Matrix:**
 
 
-  | Team Member | Git & GitHub | OpenShift Basics | ArgoCD | CI/CD Pipelines | Unit Testing |
-
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-
-
-  | **Alice** | 8 | 4 | 2 | 7 | 9 |
-
-  | **Bob** | 3 | 2 | 1 | 2 | 5 |
-
-  | **Charlie** | 9 | 8 | 7 | 8 | 6 |
+  See the image at the bottom.
 
 
   *Facilitator Insight:* In this scenario, Charlie is an ideal candidate to pair with Bob on Git and OpenShift, while Alice can lead efforts around Unit Testing.
@@ -135,6 +118,7 @@ howTo: >-
   *   **Psychological Safety is Non-Negotiable:** If management uses this matrix for performance reviews, compensation, or reprimands, the practice will instantly fail. Team members will artificially inflate their scores. Keep this artifact within the team's trusted circle.
 
   *   **The Dunning-Kruger Effect:** Occasionally, beginners may rate themselves as 8s or 9s because they don't yet know what they don't know. Don't correct them publicly. Allow the actual work to humble them gently, and they will likely adjust their score down naturally during the mid-point check-in.
+mediaGallery: []
 difficulty: easy
 participants:
   - Facilitator - To guide the exercise and ensure psychological safety. The
