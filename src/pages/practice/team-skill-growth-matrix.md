@@ -30,42 +30,47 @@ whyDo: >-
 howTo: >-
   ## Related Practices
 
-  *   Pair Programming / Mob Programming
 
-  *   Retrospectives
+  * Pair Programming / Mob Programming
 
-  *   Social Contract
+  * Retrospectives
 
-  *   Target Outcomes
+  * Social Contract
+
+  * Target Outcomes
 
 
   ## Who do you need?
 
-  *   **Facilitator:** To guide the exercise and ensure psychological safety.
 
-  *   **The Core Team:** The engineers, developers, or operators undergoing the change.
+  * **Facilitator:** To guide the exercise and ensure psychological safety.
+
+  * **The Core Team:** The engineers, developers, or operators undergoing the change.
 
 
   ## Suggested Time
 
-  *   **Initial Setup & Assessment:** 30–45 minutes
 
-  *   **Mid-point & Final Check-ins:** 15–20 minutes each
+  * **Initial Setup & Assessment:** 30–45 minutes
+
+  * **Mid-point & Final Check-ins:** 15–20 minutes each
 
 
   ## Difficulty
 
-  *   **Facilitator:** Easy
 
-  *   **Participants:** Easy 
+  * **Facilitator:** Easy
+
+  * **Participants:** Easy 
 
 
   ## Facilitation Materials Needed
 
-  *   A physical whiteboard and sticky notes, or a virtual collaboration board (Miro, Mural) / shared spreadsheet.
+
+  * A physical whiteboard and sticky notes, or a virtual collaboration board (Miro, Mural) / shared spreadsheet.
 
 
-  ---
+  - - -
 
 
   ## How to do it
@@ -73,25 +78,29 @@ howTo: >-
 
   ### 1. Preparation (Before the Session)
 
+
   Identify the core technologies, frameworks, and methodologies the team will need to adopt during the engagement. Create a matrix with the required skills as columns and team member names as rows. 
 
 
   ### 2. The Initial Assessment (Start of Engagement)
 
+
   Introduce the matrix to the team. It is critical to frame this exercise around **growth and support, not performance evaluation**. 
 
-  *   Explain the scale. For example:
-      *   **1-2:** *Novice* (Never heard of it, or just read an article once)
-      *   **3-5:** *Advanced Beginner* (Can do basic tasks with supervision/documentation)
-      *   **6-8:** *Competent/Proficient* (Can work independently and troubleshoot)
-      *   **9-10:** *Expert* (I can architect this and teach it to others)
-  *   Ask each team member to self-assess and place their number in the grid. 
+
+  * Explain the scale. For example:
+
+    * **1-2:** *Novice* (Never heard of it, or just read an article once)
+    * **3-5:** *Advanced Beginner* (Can do basic tasks with supervision/documentation)
+    * **6-8:** *Competent/Proficient* (Can work independently and troubleshoot)
+    * **9-10:** *Expert* (I can architect this and teach it to others)
+  * Ask each team member to self-assess and place their number in the grid. 
 
 
   **Example Matrix:**
 
 
-  See the image at the bottom.
+  ![](/images/team_skill_growth_matrix.jpg)
 
 
   *Facilitator Insight:* In this scenario, Charlie is an ideal candidate to pair with Bob on Git and OpenShift, while Alice can lead efforts around Unit Testing.
@@ -99,25 +108,30 @@ howTo: >-
 
   ### 3. The Mid-point Check-in (Middle of Engagement)
 
+
   Halfway through the project, bring the matrix back during a Retrospective or dedicated session. Ask the team to update their numbers based on what they have learned. 
 
-  *   Use this to pivot your facilitation. Are scores in "ArgoCD" remaining flat? It might be time to run a dedicated workshop or bring in an SME.
+
+  * Use this to pivot your facilitation. Are scores in "ArgoCD" remaining flat? It might be time to run a dedicated workshop or bring in an SME.
 
 
   ### 4. The Final Review (End of Engagement)
 
+
   During the final Retrospective, have the team update their scores one last time. 
 
-  *   Calculate the "delta" (the overall point growth for the team). 
 
-  *   Celebrate the progress. A team moving from an average of "2" to an average of "6" in a complex technology like OpenShift is a massive achievement and visualizing it provides a strong sense of closure and success.
+  * Calculate the "delta" (the overall point growth for the team). 
+
+  * Celebrate the progress. A team moving from an average of "2" to an average of "6" in a complex technology like OpenShift is a massive achievement and visualizing it provides a strong sense of closure and success.
 
 
   ## Facilitator Tips & Gotchas
 
-  *   **Psychological Safety is Non-Negotiable:** If management uses this matrix for performance reviews, compensation, or reprimands, the practice will instantly fail. Team members will artificially inflate their scores. Keep this artifact within the team's trusted circle.
 
-  *   **The Dunning-Kruger Effect:** Occasionally, beginners may rate themselves as 8s or 9s because they don't yet know what they don't know. Don't correct them publicly. Allow the actual work to humble them gently, and they will likely adjust their score down naturally during the mid-point check-in.
+  * **Psychological Safety is Non-Negotiable:** If management uses this matrix for performance reviews, compensation, or reprimands, the practice will instantly fail. Team members will artificially inflate their scores. Keep this artifact within the team's trusted circle.
+
+  * **The Dunning-Kruger Effect:** Occasionally, beginners may rate themselves as 8s or 9s because they don't yet know what they don't know. Don't correct them publicly. Allow the actual work to humble them gently, and they will likely adjust their score down naturally during the mid-point check-in.
 mediaGallery: []
 difficulty: easy
 participants:
