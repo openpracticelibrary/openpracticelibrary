@@ -144,6 +144,9 @@ resources:
   - link: https://retromat.org/en/?id=122-64-55-48-71
     linkType: web
     description: "Retromat: Retro ideas"
+  - link: https://relabel.me/words/outcome-independence#demo
+    linkType: web
+    description: "Relabel: Outcome bias interactive demo (no-login warm-up)"
   - link: https://openpracticelibrary.com/practice/realtime-retrospective/
     linkType: web
     description: Realtime Retrospective
