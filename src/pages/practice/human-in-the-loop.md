@@ -52,6 +52,29 @@ howTo: >-
 
     *A note on the tension between flow and governance:* practices like [Continuous Delivery](/practice/continuous-delivery/) and [Continuous Deployment](/practice/continuous-deployment/) rightly teach us to eliminate manual gates that slow delivery. HITL review gates are not a step backward. They apply specifically where AI is making or influencing decisions that carry real risk. For lower-risk AI tasks, lean on automated checks, [Test Automation](/practice/test-automation/), [Canary Releases](/practice/canary-release/), and [Feature Toggles](/practice/feature-toggles/) to keep things flowing. Reserve human gates for where the cost of being wrong justifies the cost of slowing down.
 
+  #### A 20-minute exercise for choosing a review gate
+
+    Use this exercise when a team needs to decide where a person should review an AI-assisted workflow. Invite someone who does the work and someone who can change the workflow. Use one shared note to record the decision.
+
+    The exercise adapts two cards from [Metaphors of AI](https://www.metaphorsofai.org/). The understudy makes it easier to talk about what work to delegate and when to hand it back. The ventriloquist asks who stands behind a message that sounds like it comes from the company.
+
+    **Scenario.** A support team writes and sends all customer replies today. For routine questions about return windows, should AI draft replies for a person to send, or send replies automatically?
+
+    1. **Choose privately (3 minutes).** Ask each person to write down their choice and one assumption behind it before sharing with the group.
+    2. **Compare two frames (7 minutes).** Share the initial choices. Read both prompts and ask whether either changes where review belongs. Record one disagreement or uncertainty that could change the decision.
+       - [**AI is an Understudy**](https://www.metaphorsofai.org/metaphor/OL007). What can AI handle on its own, and what should trigger a handoff to a person?
+       - [**AI is a Ventriloquist**](https://www.metaphorsofai.org/metaphor/OL001). Whose promise will the customer hear, and who has the authority to make it?
+    3. **Write the rule and test (10 minutes).** Name the person who can approve or reject a reply and when they must do so. Choose a small test, a condition that would pause it, and an owner and date for reviewing the results. If the team is split, record what evidence the decision owner needs before changing the workflow.
+
+    **Worked example**
+
+    One agent favors automatic replies for routine tickets. The support lead points out that routine-looking tickets can contain requests for exceptions. An automatic reply could make a promise the company cannot honor.
+
+    - **Review rule.** Start with drafts. A support agent checks the return policy and approves each reply before sending it.
+    - **Test.** Have agents review drafts for 20 fictional tickets, including requests for policy exceptions. Record incorrect return deadlines and exception requests the AI treats as routine.
+    - **Stop condition.** Pause the test if any draft promises a refund that the policy does not allow.
+    - **Owner and review.** Maya Chen, the support lead, reviews the results with agents on Friday and decides whether to keep the rule or revise the workflow and test again.
+
   ### Step 3: Assign roles with real authority
 
     Designate specific people as reviewers and give them the authority and time to
